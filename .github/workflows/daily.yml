@@ -4,7 +4,7 @@ name: daily
 
 on:
   schedule:
-    - cron: "0 21 * * *"   # 21:00 UTC = 06:00 JST
+    - cron: "23 21 * * *"   # 21:23 UTC = 06:23 JST（毎時 0 分は混んで遅れるのでずらす）
   workflow_dispatch:
   push:
     branches: [main]
