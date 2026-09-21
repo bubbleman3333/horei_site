@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "340CO0000000327",
+  "law_num": "昭和四十年政令第三百二十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "327",
+  "promulgation_date": "1965-10-01"
+ },
+ "revision_info": {
+  "law_revision_id": "340CO0000000327_20220501_504CO0000000039",
+  "law_type": "CabinetOrder",
+  "law_title": "理学療法士及び作業療法士法施行令",
+  "law_title_kana": "りがくりょうほうしおよびさぎょうりょうほうしほうしこうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2023-01-18T14:54:31+09:00",
+  "amendment_promulgate_date": "2022-02-09",
+  "amendment_enforcement_date": "2022-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504CO0000000039",
+  "amendment_law_title": "診療放射線技師法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和四年政令第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340CO0000000327_20261001_508CO0000000218",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000218",
+   "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000327_20220501_504CO0000000039",
+   "amendment_promulgate_date": "2022-02-09",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "504CO0000000039",
+   "amendment_law_title": "診療放射線技師法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000327_20150401_427CO0000000128",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000128",
+   "amendment_law_num": "平成二十七年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（免許の申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "理学療法士又は作業療法士の免許を受けようとする者は、申請書に厚生労働省令で定める書類を添え、住所地の都道府県知事を経由して、これを厚生労働大臣に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-10-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2023-01-18T14:54:31+09:00"
+ }
+}

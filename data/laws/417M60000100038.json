@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000100038",
+  "law_num": "平成十七年厚生労働省令第三十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "038",
+  "promulgation_date": "2005-03-23"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000100038_20260501_507M60000100117",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "医療機器の製造販売後の調査及び試験の実施の基準に関する省令",
+  "law_title_kana": "いりょうききのせいぞうはんばいごのちょうさおよびしけんのじっしのきじゅんにかんするしょうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-05-01T01:59:06+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100117",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000100038_20260501_507M60000100117",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507M60000100117",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100038_20231226_505M60000100161",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2023-12-26",
+   "amendment_law_id": "505M60000100161",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100038_20220520_504M60000100084",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504M60000100084",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100038_20200901_502M60000100155",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100155",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100038_20180401_429M60000100116",
+   "amendment_promulgate_date": "2017-10-26",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429M60000100116",
+   "amendment_law_title": "医薬品の製造販売後の調査及び試験の実施の基準に関する省令等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100038_20170731_429M60000100081",
+   "amendment_promulgate_date": "2017-07-31",
+   "amendment_enforcement_date": "2017-07-31",
+   "amendment_law_id": "429M60000100081",
+   "amendment_law_title": "医療機器の製造販売後の調査及び試験の実施の基準に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100038_20141125_426M60000100087",
+   "amendment_promulgate_date": "2014-07-30",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_law_id": "426M60000100087",
+   "amendment_law_num": "平成二十六年厚生労働省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号。以下「法」という。）第二十三条の二の六の二第二項及び第二十三条の二の六の三第五項において適用する法第二十三条の二の五第三項（法第二十三条の二の十七第五項において準用する場合を含む。）並びに第二十三条の二の九第四項（法第二十三条の二の十九において準用する場合を含む。）の厚生労働省令で定める基準のうち製造販売後の調査及び試験に係るもの（医療機器の臨床試験の実施の基準に関する省令（平成十七年厚生労働省令第三十六号）に定めるものを除く。）及び医療機器の製造販売業者又は外国製造医療機器等特例承認取得者が法第二十三条の二の五第一項に規定する医療機器について行う製造販売後の調査及び試験の業務に関して遵守すべき事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-03-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T01:59:06+09:00"
+ }
+}

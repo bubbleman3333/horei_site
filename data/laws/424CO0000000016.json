@@ -1,0 +1,328 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "424CO0000000016",
+  "law_num": "平成二十四年政令第十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "016",
+  "promulgation_date": "2012-01-25"
+ },
+ "revision_info": {
+  "law_revision_id": "424CO0000000016_20260525_507CO0000000244",
+  "law_type": "CabinetOrder",
+  "law_title": "復興特別所得税に関する政令",
+  "law_title_kana": "ふっこうとくべつしょとくぜいにかんするせいれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-06-30T11:09:23+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000244",
+  "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第二百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424CO0000000016_20270101_508CO0000000103",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508CO0000000103",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20260525_507CO0000000244",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507CO0000000244",
+   "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20260401_507CO0000000132",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000132",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20260401_506CO0000000156",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000156",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20250401_507CO0000000132",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000132",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20250101_505CO0000000152",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505CO0000000152",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20240601_506CO0000000156",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506CO0000000156",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20240101_505CO0000000152",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505CO0000000152",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20240101_504CO0000000158",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504CO0000000158",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20231001_504CO0000000158",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "504CO0000000158",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20230401_505CO0000000152",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000152",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20220401_502CO0000000207",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000207",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20220101_503CO0000000126",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000126",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20200401_502CO0000000121",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000121",
+   "amendment_law_title": "租税特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20200401_502CO0000000111",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000111",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20200101_431CO0000000102",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "431CO0000000102",
+   "amendment_law_title": "租税特別措置法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20200101_431CO0000000096",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "431CO0000000096",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20200101_431CO0000000095",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "431CO0000000095",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20200101_430CO0000000149",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "430CO0000000149",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20190401_431CO0000000104",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000104",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20190401_431CO0000000102",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000102",
+   "amendment_law_title": "租税特別措置法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20190401_431CO0000000095",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000095",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20190107_430CO0000000161",
+   "amendment_promulgate_date": "2018-04-18",
+   "amendment_enforcement_date": "2019-01-07",
+   "amendment_law_id": "430CO0000000161",
+   "amendment_law_title": "国際観光旅客税法施行令",
+   "amendment_law_num": "平成三十年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20190101_430CO0000000149",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430CO0000000149",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20180401_430CO0000000149",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000149",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20180401_429CO0000000114",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000114",
+   "amendment_law_title": "租税特別措置法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20180101_427CO0000000152",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "427CO0000000152",
+   "amendment_law_title": "復興特別所得税に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000016_20170401_429CO0000000106",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000106",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において、「復興特別所得税申告書」とは、東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法（以下「法」という。）第六条第八号に規定する復興特別所得税申告書をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-01-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-30T11:09:23+09:00"
+ }
+}

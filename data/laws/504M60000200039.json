@@ -1,0 +1,128 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "504M60000200039",
+  "law_num": "令和四年農林水産省令第三十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "039",
+  "promulgation_date": "2022-04-26"
+ },
+ "revision_info": {
+  "law_revision_id": "504M60000200039_20260401_507M60000200024",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定水産動植物等の国内流通の適正化等に関する法律施行規則",
+  "law_title_kana": "とくていすいさんどうしょくぶつとうのこくないりゅうつうのてきせいかとうにかんするほうりつしこうきそく",
+  "abbrev": "水産流通適正化法施行規則,流適法施行規則",
+  "category": "水産業",
+  "updated": "2026-04-02T21:45:26+09:00",
+  "amendment_promulgate_date": "2025-05-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000200024",
+  "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う農林水産省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年農林水産省令第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504M60000200039_20260401_507M60000200024",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000200024",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504M60000200039_20251201_507M60000200024",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507M60000200024",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000200039_20251201_000000000000000",
+   "amendment_promulgate_date": "2022-04-26",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "000000000000000",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000200039_20251001_507M60000200024",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000200024",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000200039_20250530_507M60000200024",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-05-30",
+   "amendment_law_id": "507M60000200024",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000200039_20231228_505M60000200063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000200063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000200039_20221201_504M60000200051",
+   "amendment_promulgate_date": "2022-09-08",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "504M60000200051",
+   "amendment_law_title": "特定水産動植物等の国内流通の適正化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000200039_20221201_000000000000000",
+   "amendment_promulgate_date": "2022-04-26",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　特定第一種水産動植物等に関する規制",
+  "第三章　特定第二種水産動植物等に関する規制",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（特定第一種第一号水産動植物）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定水産動植物等の国内流通の適正化等に関する法律（以下「法」という。）第二条第一項第一号の農林水産省令で定める水産動植物は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-04-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:45:26+09:00"
+ }
+}

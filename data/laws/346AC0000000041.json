@@ -1,0 +1,110 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "346AC0000000041",
+  "law_num": "昭和四十六年法律第四十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "Act",
+  "law_num_num": "041",
+  "promulgation_date": "1971-04-06"
+ },
+ "revision_info": {
+  "law_revision_id": "346AC0000000041_20260521_507AC0000000039",
+  "law_type": "Act",
+  "law_title": "刑事訴訟費用等に関する法律",
+  "law_title_kana": "けいじそしょうひようとうにかんするほうりつ",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-21T01:36:02+09:00",
+  "amendment_promulgate_date": "2025-05-23",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000039",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346AC0000000041_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000041_20260521_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000041_20250722_507AC0000000026",
+   "amendment_promulgate_date": "2025-04-23",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507AC0000000026",
+   "amendment_law_title": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
+   "amendment_law_num": "令和七年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000041_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000041_20250401_506AC0000000022",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000022",
+   "amendment_law_title": "国家公務員等の旅費に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000041_19890401_363AC0000000108",
+   "amendment_promulgate_date": "1988-12-30",
+   "amendment_enforcement_date": "1989-04-01",
+   "amendment_law_id": "363AC0000000108",
+   "amendment_law_title": "消費税法",
+   "amendment_law_num": "昭和六十三年法律第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "刑事の手続における訴訟費用の範囲及び裁判所又は裁判官が行なう刑事の手続における証人、鑑定人、通訳人若しくは翻訳人（以下「証人等」と総称する。）又は弁護人に対する給付については、他の法令に定めるもののほか、この法律の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-04-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:36:02+09:00"
+ }
+}

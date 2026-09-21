@@ -1,0 +1,96 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "504AC0000000105",
+  "law_num": "令和四年法律第百五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "Act",
+  "law_num_num": "105",
+  "promulgation_date": "2022-12-16"
+ },
+ "revision_info": {
+  "law_revision_id": "504AC0000000105_20260401_506AC0000000033",
+  "law_type": "Act",
+  "law_title": "法人等による寄附の不当な勧誘の防止等に関する法律",
+  "law_title_kana": "ほうじんとうによるきふのふとうなかんゆうのぼうしとうにかんするほうりつ",
+  "abbrev": "不当寄附勧誘防止法",
+  "category": "商業",
+  "updated": "2026-04-02T21:43:31+09:00",
+  "amendment_promulgate_date": "2024-05-24",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000033",
+  "amendment_law_title": "民法等の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第三十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504AC0000000105_20260401_506AC0000000033",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000033",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000105_20240524_506AC0000000033",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506AC0000000033",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000105_20230601_000000000000000",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000105_20230401_000000000000000",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000105_20230105_000000000000000",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2023-01-05",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　寄附の不当な勧誘の防止",
+  "第三章　寄附の意思表示の取消し等",
+  "第四章　法人等の不当な勧誘により寄附をした者等に対する支援",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、法人等（法人又は法人でない社団若しくは財団で代表者若しくは管理人の定めがあるものをいう。以下同じ。）による不当な寄附の勧誘を禁止するとともに、当該勧誘を行う法人等に対する行政上の措置等を定めることにより、消費者契約法（平成十二年法律第六十一号）とあいまって、法人等からの寄附の勧誘を受ける者の保護を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-12-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:43:31+09:00"
+ }
+}

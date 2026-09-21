@@ -1,0 +1,192 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "412M5000100A006",
+  "law_num": "平成十二年総理府・郵政省・自治省令第六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "2000-12-27"
+ },
+ "revision_info": {
+  "law_revision_id": "412M5000100A006_20260625_508M60000008079",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "総務省所管補助金等交付規則",
+  "law_title_kana": "そうむしょうしょかんほじょきんとうこうふきそく",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-07-09T09:45:31+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008079",
+  "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第七十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412M5000100A006_20260625_508M60000008079",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508M60000008079",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20260323_508M60000008027",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2026-03-23",
+   "amendment_law_id": "508M60000008027",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20250627_507M60000008062",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-06-27",
+   "amendment_law_id": "507M60000008062",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20240628_506M60000008069",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-06-28",
+   "amendment_law_id": "506M60000008069",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20240329_506M60000008030",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-03-29",
+   "amendment_law_id": "506M60000008030",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20230316_505M60000008015",
+   "amendment_promulgate_date": "2023-03-16",
+   "amendment_enforcement_date": "2023-03-16",
+   "amendment_law_id": "505M60000008015",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20220228_504M60000008008",
+   "amendment_promulgate_date": "2022-02-28",
+   "amendment_enforcement_date": "2022-02-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000008008",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20210414_503M60000008045",
+   "amendment_promulgate_date": "2021-04-14",
+   "amendment_enforcement_date": "2021-04-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000008045",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20210323_503M60000008027",
+   "amendment_promulgate_date": "2021-03-23",
+   "amendment_enforcement_date": "2021-03-23",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000008027",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20200622_502M60000008062",
+   "amendment_promulgate_date": "2020-06-22",
+   "amendment_enforcement_date": "2020-06-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000008062",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20190401_431M60000008048",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000008048",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20190222_431M60000008010",
+   "amendment_promulgate_date": "2019-02-22",
+   "amendment_enforcement_date": "2019-02-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000008010",
+   "amendment_law_title": "総務省所管補助金等交付規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20170424_429M60000008037",
+   "amendment_promulgate_date": "2017-04-24",
+   "amendment_enforcement_date": "2017-04-24",
+   "amendment_law_id": "429M60000008037",
+   "amendment_law_num": "平成二十九年総務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M5000100A006_20161109_428M60000008090",
+   "amendment_promulgate_date": "2016-11-09",
+   "amendment_enforcement_date": "2016-11-09",
+   "amendment_law_id": "428M60000008090",
+   "amendment_law_num": "平成二十八年総務省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "総務省の所管に係る補助金等の交付に関しては、他の法令に特別の定めのあるもののほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-12-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-09T09:45:31+09:00"
+ }
+}

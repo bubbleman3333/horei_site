@@ -1,0 +1,128 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "337CO0000000393",
+  "law_num": "昭和三十七年政令第三百九十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "393",
+  "promulgation_date": "1962-09-29"
+ },
+ "revision_info": {
+  "law_revision_id": "337CO0000000393_20250401_507CO0000000019",
+  "law_type": "CabinetOrder",
+  "law_title": "国の利害に関係のある訴訟についての法務大臣の権限等に関する法律第七条第一項の公法人を定める政令",
+  "law_title_kana": "くにのりがいにかんけいのあるそしょうについてのほうむだいじんのけんげんとうにかんするほうりつだいななじょうだいいっこうのこうほうじんをさだめるせいれい",
+  "abbrev": "法務大臣権限法第七条第一項の公法人を定める政令",
+  "category": "行政組織",
+  "updated": "2025-04-01T13:07:51+09:00",
+  "amendment_promulgate_date": "2025-01-29",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000019",
+  "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337CO0000000393_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000393_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000393_20240425_506CO0000000174",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506CO0000000174",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和六年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000393_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000393_20220617_504CO0000000218",
+   "amendment_promulgate_date": "2022-06-16",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504CO0000000218",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000393_20190401_430CO0000000126",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000126",
+   "amendment_law_title": "地方税法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000393_20190330_431CO0000000129",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-03-30",
+   "amendment_law_id": "431CO0000000129",
+   "amendment_law_title": "国立研究開発法人科学技術振興機構法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000393_20170401_429CO0000000004",
+   "amendment_promulgate_date": "2017-01-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000004",
+   "amendment_law_title": "貿易保険法及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "国の利害に関係のある訴訟についての法務大臣の権限等に関する法律第七条第一項の政令で定める公法人は、沖縄振興開発金融公庫、外国人技能実習機構、株式会社国際協力銀行、株式会社日本政策金融公庫、株式会社日本貿易保険、企業年金連合会、危険物保安技術協会、金融経済教育推進機構、軽自動車検査協会、健康保険組合、健康保険組合連合会、高圧ガス保安協会、広域臨海環境整備センター、港務局、小型船舶検査機構、国民健康保険組合、国民健康保険団体連合会、国民年金基金、国民年金基金連合会、国立健康危機管理研究機構、国家公務員共済組合、国家公務員共済組合連合会、自動車安全運転センター、社会保険診療報酬支払基金、消防団員等公務災害補償等共済基金、水害予防組合、水害予防組合連合、石炭鉱業年金基金、全国健康保険協会、全国市町村職員共済組合連合会、地方競馬全国協会、地方公共団体情報システム機構、地方公務員共済組合、地方公務員共済組合連合会、地方公務員災害補償基金、地方住宅供給公社、地方税共同機構、地方道路公社、土地改良区、土地改良区連合、土地区画整理組合、日本司法支援センター、日本消防検定協会、日本私立学校振興・共済事業団、日本赤十字社、日本中央競馬会、日本電気計器検定所、日本年金機構、農業共済組合、農業共済組合連合会及び福島国際研究教育機構とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-09-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-04-01T13:07:51+09:00"
+ }
+}

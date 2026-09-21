@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000400094",
+  "law_num": "平成十三年経済産業省令第九十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "094",
+  "promulgation_date": "2001-03-28"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000400094_20260401_508M60000400006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "塩化ビニル製建設資材の表示の標準となるべき事項を定める省令",
+  "law_title_kana": "えんかびにるせいけんせつしざいのひょうじのひょうじゅんとなるべきじこうをさだめるしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-02T18:04:33+09:00",
+  "amendment_promulgate_date": "2026-03-17",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400006",
+  "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う経済産業省関係省令の整理に関する省令",
+  "amendment_law_num": "令和八年経済産業省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000400094_20260401_508M60000400006",
+   "amendment_promulgate_date": "2026-03-17",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000400006",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う経済産業省関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400094_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400094_20090226_421M60000400011",
+   "amendment_promulgate_date": "2009-02-26",
+   "amendment_enforcement_date": "2009-02-26",
+   "amendment_law_id": "421M60000400011",
+   "amendment_law_num": "平成二十一年経済産業省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（表示事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "資源の有効な利用の促進に関する法律（以下「法」という。）第五十一条第一項の主務省令で定める同項第一号に掲げる事項は、塩化ビニル製建設資材（資源の有効な利用の促進に関する法律施行令（平成三年政令第三百二十七号）別表第五の一の項の上欄に規定する塩化ビニル製建設資材をいう。以下同じ。）について、当該塩化ビニル製建設資材の材質に関する事項とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T18:04:33+09:00"
+ }
+}

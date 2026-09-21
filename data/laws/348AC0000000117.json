@@ -1,0 +1,207 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "348AC0000000117",
+  "law_num": "昭和四十八年法律第百十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 48,
+  "law_num_type": "Act",
+  "law_num_num": "117",
+  "promulgation_date": "1973-10-16"
+ },
+ "revision_info": {
+  "law_revision_id": "348AC0000000117_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "化学物質の審査及び製造等の規制に関する法律",
+  "law_title_kana": "かがくぶっしつのしんさおよびせいぞうとうのきせいにかんするほうりつ",
+  "abbrev": "化審法",
+  "category": "工業",
+  "updated": "2026-07-01T00:31:11+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "348AC0000000117_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20241212_505AC0000000084",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "505AC0000000084",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20231213_505AC0000000084",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505AC0000000084",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20210601_430AC0000000046",
+   "amendment_promulgate_date": "2018-06-13",
+   "amendment_enforcement_date": "2021-06-01",
+   "amendment_law_id": "430AC0000000046",
+   "amendment_law_title": "食品衛生法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20201201_501AC0000000062",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "501AC0000000062",
+   "amendment_law_title": "肥料取締法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20200401_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20190101_429AC0000000053",
+   "amendment_promulgate_date": "2017-06-07",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "429AC0000000053",
+   "amendment_law_title": "化学物質の審査及び製造等の規制に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20181201_430AC0000000053",
+   "amendment_promulgate_date": "2018-06-15",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_law_id": "430AC0000000053",
+   "amendment_law_title": "農薬取締法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20180401_429AC0000000053",
+   "amendment_promulgate_date": "2017-06-07",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000053",
+   "amendment_law_title": "化学物質の審査及び製造等の規制に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20170607_429AC0000000053",
+   "amendment_promulgate_date": "2017-06-07",
+   "amendment_enforcement_date": "2017-06-07",
+   "amendment_law_id": "429AC0000000053",
+   "amendment_law_title": "化学物質の審査及び製造等の規制に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000117_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　新規化学物質に関する審査及び規制",
+  "第三章　一般化学物質等に関する措置",
+  "第四章　優先評価化学物質に関する措置",
+  "第五章　第一種特定化学物質に関する規制等",
+  "第六章　第二種特定化学物質に関する規制",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、人の健康を損なうおそれ又は動植物の生息若しくは生育に支障を及ぼすおそれがある化学物質による環境の汚染を防止するため、新規の化学物質の製造又は輸入に際し事前にその化学物質の性状に関して審査する制度を設けるとともに、その有する性状等に応じ、化学物質の製造、輸入、使用等について必要な規制を行うことを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1973-10-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:31:11+09:00"
+ }
+}

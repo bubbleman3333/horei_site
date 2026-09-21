@@ -1,0 +1,400 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "403M50400000004",
+  "law_num": "平成三年国家公安委員会規則第四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 3,
+  "law_num_type": "Rule",
+  "law_num_num": "004",
+  "promulgation_date": "1991-10-25"
+ },
+ "revision_info": {
+  "law_revision_id": "403M50400000004_20260812_508M60400000017",
+  "law_type": "Rule",
+  "law_title": "暴力団員による不当な行為の防止等に関する法律施行規則",
+  "law_title_kana": "ぼうりょくだんいんによるふとうなこういのぼうしとうにかんするほうりつしこうきそく",
+  "abbrev": "暴対法施行規則,暴力団対策法施行規則",
+  "category": "警察",
+  "updated": "2026-08-24T13:46:35+09:00",
+  "amendment_promulgate_date": "2026-08-10",
+  "amendment_enforcement_date": "2026-08-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000017",
+  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "403M50400000004_20260812_508M60400000017",
+   "amendment_promulgate_date": "2026-08-10",
+   "amendment_enforcement_date": "2026-08-12",
+   "amendment_law_id": "508M60400000017",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20260710_508M60400000014",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-07-10",
+   "amendment_law_id": "508M60400000014",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20260601_508M60400000013",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60400000013",
+   "amendment_law_title": "資金決済に関する法律の一部を改正する法律の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20260521_508M60400000011",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000011",
+   "amendment_law_title": "暴力団員による不当な行為の防止等に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20260501_508M60400000007",
+   "amendment_promulgate_date": "2026-04-30",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "508M60400000007",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20251001_507M60400000017",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60400000017",
+   "amendment_law_title": "住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律等の一部を改正する法律の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20250628_507M60400000011",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-06-28",
+   "amendment_law_id": "507M60400000011",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20250501_507M60400000005",
+   "amendment_promulgate_date": "2025-04-25",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507M60400000005",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20241212_506M60400000014",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "506M60400000014",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20241101_506M60400000015",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60400000015",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20240714_506M60400000010",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-14",
+   "amendment_law_id": "506M60400000010",
+   "amendment_law_title": "技能検定、技能講習及び射撃教習に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20240201_506M60400000003",
+   "amendment_promulgate_date": "2024-02-01",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60400000003",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20230713_505M60400000012",
+   "amendment_promulgate_date": "2023-07-10",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505M60400000012",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律及び性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和五年国家公安委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20230601_505M60400000011",
+   "amendment_promulgate_date": "2023-05-31",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60400000011",
+   "amendment_law_title": "警備業の要件に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和五年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20230501_505M60400000008",
+   "amendment_promulgate_date": "2023-04-28",
+   "amendment_enforcement_date": "2023-05-01",
+   "amendment_law_id": "505M60400000008",
+   "amendment_law_title": "競馬法の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和五年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20221229_504M60400000020",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2022-12-29",
+   "amendment_law_id": "504M60400000020",
+   "amendment_law_title": "警備業の要件に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20221001_504M60400000017",
+   "amendment_promulgate_date": "2022-09-28",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60400000017",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20220401_504M60400000010",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000010",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20220315_504M60400000003",
+   "amendment_promulgate_date": "2022-01-27",
+   "amendment_enforcement_date": "2022-03-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60400000003",
+   "amendment_law_title": "銃砲刀剣類所持等取締法の一部を改正する法律の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20211122_503M60400000011",
+   "amendment_promulgate_date": "2021-11-18",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60400000011",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響による社会経済情勢の変化に対応して金融の機能の強化及び安定の確保を図るための銀行法等の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和三年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20211101_503M60400000004",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60400000004",
+   "amendment_law_title": "警備業の要件に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和三年国家公安委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20210501_503M60400000004",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60400000004",
+   "amendment_law_title": "警備業の要件に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和三年国家公安委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20210401_503M60400000003",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60400000003",
+   "amendment_law_title": "警備業の要件に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和三年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20201228_502M60400000013",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60400000013",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20200501_502M60400000006",
+   "amendment_promulgate_date": "2020-04-27",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60400000006",
+   "amendment_law_title": "情報通信技術の進展に伴う金融取引の多様化に対応するための資金決済に関する法律等の一部を改正する法律の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20200401_502M60400000005",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60400000005",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20180601_430M60400000005",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60400000005",
+   "amendment_law_title": "割賦販売法の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "平成三十年国家公安委員会規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20180401_430M60400000004",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60400000004",
+   "amendment_law_title": "金融商品取引法の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "平成三十年国家公安委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20171201_429M60400000010",
+   "amendment_promulgate_date": "2017-11-21",
+   "amendment_enforcement_date": "2017-12-01",
+   "amendment_law_id": "429M60400000010",
+   "amendment_law_title": "不動産特定共同事業法の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "平成二十九年国家公安委員会規則第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20170713_429M60400000008",
+   "amendment_promulgate_date": "2017-07-05",
+   "amendment_enforcement_date": "2017-07-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60400000008",
+   "amendment_law_title": "刑法の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "平成二十九年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20170711_429M60400000007",
+   "amendment_promulgate_date": "2017-07-05",
+   "amendment_enforcement_date": "2017-07-11",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60400000007",
+   "amendment_law_title": "組織的な犯罪の処罰及び犯罪収益の規制等に関する法律等の一部を改正する法律の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "平成二十九年国家公安委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000004_20170401_429M60400000002",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60400000002",
+   "amendment_law_num": "平成二十九年国家公安委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　暴力的要求行為の規制等",
+  "第三章　対立抗争時の事務所の使用制限等",
+  "第四章　加入の強要の規制その他の規制等",
+  "第四章の二　特定危険指定暴力団等の指定等",
+  "第五章　報告及び立入り",
+  "第六章　仮の命令",
+  "第七章　公安委員会相互の協力",
+  "第八章　公安委員会の報告等",
+  "第九章　雑則"
+ ],
+ "article1": {
+  "caption": "（暴力的不法行為等）",
+  "title": "第一条",
+  "paragraphs": [
+   "暴力団員による不当な行為の防止等に関する法律（以下「法」という。）第二条第一号の国家公安委員会規則で定める罪は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1991-10-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-24T13:46:35+09:00"
+ }
+}

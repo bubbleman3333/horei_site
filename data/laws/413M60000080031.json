@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000080031",
+  "law_num": "平成十三年文部科学省令第三十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "031",
+  "promulgation_date": "2001-03-30"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000080031_20260401_508M60000082003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "独立行政法人国立女性教育会館に関する省令",
+  "law_title_kana": "どくりつぎょうせいほうじんこくりつじょせいきょういくかいかんにかんするしょうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-01T16:14:52+09:00",
+  "amendment_promulgate_date": "2026-03-13",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000082003",
+  "amendment_law_title": "独立行政法人男女共同参画機構の業務運営、財務及び会計並びに人事管理に関する命令",
+  "amendment_law_num": "令和八年内閣府・文部科学省令第三号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-04-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000080031_20260401_508M60000082003",
+   "amendment_promulgate_date": "2026-03-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000082003",
+   "amendment_law_title": "独立行政法人男女共同参画機構の業務運営、財務及び会計並びに人事管理に関する命令",
+   "amendment_law_num": "令和八年内閣府・文部科学省令第三号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "413M60000080031_20190613_501M60000080004",
+   "amendment_promulgate_date": "2019-06-13",
+   "amendment_enforcement_date": "2019-06-13",
+   "amendment_law_id": "501M60000080004",
+   "amendment_law_title": "日本私立学校振興・共済事業団法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080031_20160401_428M60000080023",
+   "amendment_promulgate_date": "2016-04-01",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000080023",
+   "amendment_law_num": "平成二十八年文部科学省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（通則法第八条第三項に規定する主務省令で定める重要な財産）",
+  "title": "第一条",
+  "paragraphs": [
+   "独立行政法人国立女性教育会館（以下「会館」という。）に係る独立行政法人通則法（以下「通則法」という。）第八条第三項に規定する主務省令で定める重要な財産は、その保有する財産であって、その通則法第四十六条の二第一項又は第二項の認可に係る申請の日（各項ただし書の場合にあっては、当該財産の処分に関する計画を定めた通則法第三十条第一項の中期計画の認可に係る申請の日）における帳簿価額（現金及び預金にあっては、申請の日におけるその額）が五十万円以上のもの（その性質上通則法第四十六条の二の規定により処分することが不適当なものを除く。）その他文部科学大臣が定める財産とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T16:14:52+09:00"
+ }
+}

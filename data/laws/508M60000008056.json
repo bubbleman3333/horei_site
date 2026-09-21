@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000008056",
+  "law_num": "令和八年総務省令第五十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "056",
+  "promulgation_date": "2026-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000008056_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "令和八年度分の地方交付税の交付額の特例に関する省令",
+  "law_title_kana": "れいわはちねんどぶんのちほうこうふぜいのこうふがくのとくれいにかんするしょうれい",
+  "abbrev": null,
+  "category": "地方財政",
+  "updated": "2026-05-01T16:34:04+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000008056_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（交付額の特例）",
+  "title": "第一条",
+  "paragraphs": [
+   "令和八年四月において各地方団体に対して交付すべき地方交付税の額は、地方交付税法第十六条第一項の規定にかかわらず、当該地方団体の令和七年度分の普通交付税の額に〇・二四八九七八七六三四を乗じて得た額とする。ただし、令和八年度において交付すべき普通交付税の額が令和七年度分の普通交付税の額に比して著しく減少することとなると認められる地方団体又は令和七年度においては普通交付税の交付を受けたが、令和八年度においては普通交付税の交付を受けないこととなると認められる地方団体に対しては、当該交付すべき額の全部又は一部を交付しないことができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T16:34:04+09:00"
+ }
+}

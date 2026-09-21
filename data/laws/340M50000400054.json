@@ -1,0 +1,262 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "340M50000400054",
+  "law_num": "昭和四十年通商産業省令第五十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "054",
+  "promulgation_date": "1965-06-15"
+ },
+ "revision_info": {
+  "law_revision_id": "340M50000400054_20251120_507M60000400074",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "電気関係報告規則",
+  "law_title_kana": "でんきかんけいほうこくきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-07-15T15:29:54+09:00",
+  "amendment_promulgate_date": "2025-11-20",
+  "amendment_enforcement_date": "2025-11-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000400074",
+  "amendment_law_title": "電気関係報告規則の一部を改正する省令",
+  "amendment_law_num": "令和七年経済産業省令第七十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340M50000400054_20251120_507M60000400074",
+   "amendment_promulgate_date": "2025-11-20",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507M60000400074",
+   "amendment_law_title": "電気関係報告規則の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20250331_507M60000400021",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507M60000400021",
+   "amendment_law_title": "みなし小売電気事業者特定小売供給約款料金算定規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20250331_507M60000400003",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507M60000400003",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20240401_506M60000400021",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000400021",
+   "amendment_law_title": "脱炭素社会の実現に向けた電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年経済産業省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20231221_505M60000400057",
+   "amendment_promulgate_date": "2023-12-14",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "505M60000400057",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20230801_505M60000400035",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-08-01",
+   "amendment_law_id": "505M60000400035",
+   "amendment_law_title": "電気関係報告規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20230401_505M60000400014",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000400014",
+   "amendment_law_title": "電気事業法施行規則及び電気関係報告規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20230401_505M60000400011",
+   "amendment_promulgate_date": "2023-03-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000400011",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年経済産業省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20230331_505M60000400009",
+   "amendment_promulgate_date": "2023-03-10",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505M60000400009",
+   "amendment_law_title": "電気事業法施行規則及び電気関係報告規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20230320_504M60000400096",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2023-03-20",
+   "amendment_law_id": "504M60000400096",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20221201_504M60000400088",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "504M60000400088",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20221114_504M60000400086",
+   "amendment_promulgate_date": "2022-11-11",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504M60000400086",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20220401_504M60000400025",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000400025",
+   "amendment_law_title": "一般送配電事業託送供給等約款料金算定規則及び電気関係報告規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20220401_504M60000400024",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000400024",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "令和四年経済産業省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20210401_503M60000400012",
+   "amendment_promulgate_date": "2021-03-10",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000400012",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20190507_501M60000400001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000400001",
+   "amendment_law_title": "元号を改める政令の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20190401_431M60000400030",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000400030",
+   "amendment_law_title": "一般送配電事業託送供給等約款料金算定規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20180401_429M60000400032",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429M60000400032",
+   "amendment_law_title": "電気関係報告規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年経済産業省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000400054_20170401_429M60000400032",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000400032",
+   "amendment_law_num": "平成二十九年経済産業省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、電気事業法（昭和三十九年法律第百七十号。以下「法」という。）、電気事業法施行令（昭和四十年政令第二百六号。以下「令」という。）及び電気事業法施行規則（平成七年通商産業省令第七十七号。以下「施行規則」という。）において使用する用語の例による。",
+   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-06-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-15T15:29:54+09:00"
+ }
+}

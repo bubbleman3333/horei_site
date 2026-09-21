@@ -1,0 +1,359 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "415M60000040071",
+  "law_num": "平成十五年財務省令第七十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "071",
+  "promulgation_date": "2003-07-14"
+ },
+ "revision_info": {
+  "law_revision_id": "415M60000040071_20250401_507M60000040033",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令",
+  "law_title_kana": "こくぜいかんけいほうれいにかかるじょうほうつうしんぎじゅつをかつようしたぎょうせいのすいしんとうにかんするしょうれい",
+  "abbrev": "国税関係法令行政手続ＩＴ利用法に関する省令,国税関係法令行政手続オンライン化法に関する省令",
+  "category": "行政手続",
+  "updated": "2025-05-02T10:26:02+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000040033",
+  "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和七年財務省令第三十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415M60000040071_20270901_508M60000040030",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-09-01",
+   "amendment_law_id": "508M60000040030",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20260924_506M60000040031",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "506M60000040031",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20250401_507M60000040033",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040033",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20250101_505M60000040027",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505M60000040027",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20240527_506M60000040031",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000040031",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20240401_505M60000040049",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000040049",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20240401_505M60000040027",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000040027",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20230101_504M60000040033",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000040033",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20220401_504M60000040033",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040033",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20220401_502M60000040056",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502M60000040056",
+   "amendment_law_title": "法人税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20220101_503M60000040032",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000040032",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20211001_503M60000040032",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503M60000040032",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20210701_503M60000040032",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503M60000040032",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20210701_502M60000040027",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "502M60000040027",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20210401_503M60000040032",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000040032",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20210101_502M60000040027",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000040027",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20200401_430M60000040032",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430M60000040032",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20200101_430M60000040032",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "430M60000040032",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20191216_501M60000040036",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000040036",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20190930_431M60000040024",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-09-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040024",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20190701_431M60000040024",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040024",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20190401_431M60000040024",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040024",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20190401_430M60000040032",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040032",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20190107_430M60000040039",
+   "amendment_promulgate_date": "2018-04-18",
+   "amendment_enforcement_date": "2019-01-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040039",
+   "amendment_law_title": "国際観光旅客税法施行規則",
+   "amendment_law_num": "平成三十年財務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20190104_430M60000040032",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-04",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040032",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20190104_429M60000040030",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2019-01-04",
+   "amendment_law_id": "429M60000040030",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20180401_430M60000040032",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040032",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20180101_429M60000040030",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429M60000040030",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20170601_429M60000040030",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429M60000040030",
+   "amendment_law_num": "平成二十九年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040071_20170101_428M60000048005",
+   "amendment_promulgate_date": "2016-06-10",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428M60000048005",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行規則",
+   "amendment_law_num": "平成二十八年総務省・財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　申請等及び納付手続",
+  "第三章　処分通知等",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "国税関係法令に係る手続等を、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。以下「情報通信技術活用法」という。）第六条及び第七条の規定に基づき又は準じて、電子情報処理組織又は電磁的記録を使用する方法により行う場合については、情報通信技術活用法及びこの省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-07-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-05-02T10:26:02+09:00"
+ }
+}

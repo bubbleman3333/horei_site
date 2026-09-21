@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000022",
+  "law_num": "令和七年政令第二十二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "022",
+  "promulgation_date": "2025-01-31"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000022_20260401_507CO0000000391",
+  "law_type": "CabinetOrder",
+  "law_title": "貨物自動車運送事業法施行令",
+  "law_title_kana": "かもつじどうしゃうんそうじぎょうほうしこうれい",
+  "abbrev": null,
+  "category": "貨物運送",
+  "updated": "2026-04-02T21:55:21+09:00",
+  "amendment_promulgate_date": "2025-11-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000391",
+  "amendment_law_title": "貨物自動車運送事業法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百九十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000022_20260401_507CO0000000391",
+   "amendment_promulgate_date": "2025-11-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000391",
+   "amendment_law_title": "貨物自動車運送事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000022_20250401_000000000000000",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第十二条第三項の規定による承諾に関する手続等）",
+  "title": "第一条",
+  "paragraphs": [
+   "貨物自動車運送事業法（以下「法」という。）第十二条第三項（法第三十六条第二項、第三十七条第一項及び第三十七条の二第三項において準用する場合を含む。以下この条において同じ。）の規定による承諾は、法第十二条第一項（法第三十六条第二項、第三十七条第一項及び第三十七条の二第三項において準用する場合を含む。）の運送契約の当事者（次項において「契約当事者」という。）が、国土交通省令で定めるところにより、あらかじめ、当該承諾に係る契約の相手方に対し法第十二条第三項の規定による電磁的方法による提供に用いる電磁的方法の種類及び内容を示した上で、当該契約の相手方から書面又は電子情報処理組織を使用する方法その他の情報通信の技術を利用する方法であって国土交通省令で定めるもの（次項において「書面等」という。）によって得るものとする。",
+   "契約当事者は、前項の承諾を得た場合であっても、当該承諾に係る契約の相手方から書面等により法第十二条第三項の規定による電磁的方法による提供を受けない旨の申出があったときは、当該電磁的方法による提供をしてはならない。ただし、当該申出の後に当該契約の相手方から再び前項の承諾を得た場合は、この限りでない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-01-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:55:21+09:00"
+ }
+}

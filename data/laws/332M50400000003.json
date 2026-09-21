@@ -1,0 +1,81 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "332M50400000003",
+  "law_num": "昭和三十二年国家公安委員会規則第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 32,
+  "law_num_type": "Rule",
+  "law_num_num": "003",
+  "promulgation_date": "1957-07-11"
+ },
+ "revision_info": {
+  "law_revision_id": "332M50400000003_20260521_508M60400000012",
+  "law_type": "Rule",
+  "law_title": "犯罪捜査共助規則",
+  "law_title_kana": "はんざいそうさきょうじょきそく",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-06-02T15:41:55+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000012",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "332M50400000003_20260521_508M60400000012",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000012",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000003_20220401_504M60400000013",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000013",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000003_20160401_428M60400000008",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60400000008",
+   "amendment_law_num": "平成二十八年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第１章　総則",
+  "第２章　共助の依頼",
+  "第３章　広域犯罪に係る捜査の連携"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第１条",
+  "paragraphs": [
+   "この規則は、警察が行う犯罪の捜査に関し、警察庁及び管区警察局と都道府県警察等（関東管区警察局及び都道府県警察をいう。以下同じ。）並びに都道府県警察等相互間における連絡共助を緊密にし、もつて捜査の効率的運営を期することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1957-07-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-02T15:41:55+09:00"
+ }
+}

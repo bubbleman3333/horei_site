@@ -1,0 +1,284 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "322AC0000000054",
+  "law_num": "昭和二十二年法律第五十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "Act",
+  "law_num_num": "054",
+  "promulgation_date": "1947-04-14"
+ },
+ "revision_info": {
+  "law_revision_id": "322AC0000000054_20260521_505AC0000000063",
+  "law_type": "Act",
+  "law_title": "昭和二十二年法律第五十四号（私的独占の禁止及び公正取引の確保に関する法律）",
+  "law_title_kana": "してきどくせんのきんしおよびこうせいとりひきのかくほにかんするほうりつ",
+  "abbrev": "独禁法,独占禁止法",
+  "category": "産業通則",
+  "updated": "2026-06-22T18:49:25+09:00",
+  "amendment_promulgate_date": "2023-06-16",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000063",
+  "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322AC0000000054_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20260521_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20251218_506AC0000000058",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2025-12-18",
+   "amendment_law_id": "506AC0000000058",
+   "amendment_law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律",
+   "amendment_law_num": "令和六年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20240619_506AC0000000058",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-06-19",
+   "amendment_law_id": "506AC0000000058",
+   "amendment_law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律",
+   "amendment_law_num": "令和六年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20210301_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20201225_501AC0000000045",
+   "amendment_promulgate_date": "2019-06-26",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "501AC0000000045",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20200101_501AC0000000045",
+   "amendment_promulgate_date": "2019-06-26",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "501AC0000000045",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20191216_501AC0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501AC0000000016",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20191214_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20191211_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20190726_501AC0000000045",
+   "amendment_promulgate_date": "2019-06-26",
+   "amendment_enforcement_date": "2019-07-26",
+   "amendment_law_id": "501AC0000000045",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20181230_428AC0000000108",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "428AC0000000108",
+   "amendment_law_title": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000054_20161216_428AC0000000108",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2016-12-16",
+   "amendment_law_id": "428AC0000000108",
+   "amendment_law_title": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　私的独占及び不当な取引制限",
+  "第三章　事業者団体",
+  "第三章の二　独占的状態",
+  "第四章　株式の保有、役員の兼任、合併、分割、株式移転及び事業の譲受け",
+  "第五章　不公正な取引方法",
+  "第六章　適用除外",
+  "第七章　差止請求及び損害賠償",
+  "第八章　公正取引委員会",
+  "第九章　訴訟",
+  "第十章　雑則",
+  "第十一章　罰則",
+  "第十二章　犯則事件の調査等"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、私的独占、不当な取引制限及び不公正な取引方法を禁止し、事業支配力の過度の集中を防止して、結合、協定等の方法による生産、販売、価格、技術等の不当な制限その他一切の事業活動の不当な拘束を排除することにより、公正且つ自由な競争を促進し、事業者の創意を発揮させ、事業活動を盛んにし、雇傭及び国民実所得の水準を高め、以て、一般消費者の利益を確保するとともに、国民経済の民主的で健全な発達を促進することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-04-14",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-06-22T18:49:25+09:00"
+ }
+}

@@ -1,0 +1,211 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "337CO0000000227",
+  "law_num": "昭和三十七年政令第二百二十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "227",
+  "promulgation_date": "1962-05-31"
+ },
+ "revision_info": {
+  "law_revision_id": "337CO0000000227_20260401_508CO0000000083",
+  "law_type": "CabinetOrder",
+  "law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令",
+  "law_title_kana": "がいこくきょじゅうしゃとうのしょとくにたいするそうごしゅぎによるしょとくぜいとうのひかぜいとうにかんするほうりつせこうれい",
+  "abbrev": "外国居住者等所得相互免除法施行令",
+  "category": "国税",
+  "updated": "2026-04-21T10:36:53+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000083",
+  "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第八十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337CO0000000227_20260401_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20260101_506CO0000000214",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "506CO0000000214",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20250101_505CO0000000147",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505CO0000000147",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20220401_502CO0000000264",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000264",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20220401_502CO0000000207",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000207",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20210101_431CO0000000103",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "431CO0000000103",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20200401_502CO0000000122",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000122",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20200401_502CO0000000109",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000109",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20200401_431CO0000000103",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431CO0000000103",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20200401_430CO0000000126",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430CO0000000126",
+   "amendment_law_title": "地方税法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20190401_431CO0000000103",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000103",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20190401_430CO0000000126",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000126",
+   "amendment_law_title": "地方税法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20190101_430CO0000000144",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430CO0000000144",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20190101_430CO0000000125",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430CO0000000125",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20180101_428CO0000000226",
+   "amendment_promulgate_date": "2016-05-25",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "428CO0000000226",
+   "amendment_law_title": "外国人等の国際運輸業に係る所得に対する相互主義による所得税等の非課税に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第二百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000227_20170101_428CO0000000226",
+   "amendment_promulgate_date": "2016-05-25",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428CO0000000226",
+   "amendment_law_title": "外国人等の国際運輸業に係る所得に対する相互主義による所得税等の非課税に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第二百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　国内源泉所得等に対する所得税等の非課税等",
+  "第二章　国際運輸業に係る所得に対する所得税等の非課税"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この章において、「国内」、「外国居住者等」、「居住者」、「非居住者」、「内国法人」又は「外国法人」とは、それぞれ外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律（昭和三十七年法律第百四十四号。以下「法」という。）第二条に規定する国内、外国居住者等、居住者、非居住者、内国法人又は外国法人をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-05-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:36:53+09:00"
+ }
+}

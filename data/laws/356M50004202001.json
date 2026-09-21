@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "356M50004202001",
+  "law_num": "昭和五十六年総理府・農林水産省・建設省令第一号",
+  "law_num_era": "Showa",
+  "law_num_year": 56,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1981-06-06"
+ },
+ "revision_info": {
+  "law_revision_id": "356M50004202001_20260521_508M60000A00002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農住組合法施行規則",
+  "law_title_kana": "のうじゅうくみあいほうしこうきそく",
+  "abbrev": null,
+  "category": "建築・住宅",
+  "updated": "2026-06-02T13:09:21+09:00",
+  "amendment_promulgate_date": "2026-05-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000A00002",
+  "amendment_law_title": "農住組合法施行規則及び市民農園整備促進法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省・国土交通省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "356M50004202001_20260521_508M60000A00002",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000A00002",
+   "amendment_law_title": "農住組合法施行規則及び市民農園整備促進法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "356M50004202001_20240401_506M60000A00002",
+   "amendment_promulgate_date": "2024-03-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000A00002",
+   "amendment_law_title": "農住組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50004202001_20231228_505M60000A00005",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000A00005",
+   "amendment_law_title": "農住組合法施行規則及び農住組合法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省・国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50004202001_20210901_503M60000A00003",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000A00003",
+   "amendment_law_title": "農住組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50004202001_20200401_501M60000A00003",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000A00003",
+   "amendment_law_title": "農住組合法施行規則及び市民農園整備促進法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50004202001_20191216_501M60000A00004",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000A00004",
+   "amendment_law_title": "農住組合法施行規則及び市民農園整備促進法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省・国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50004202001_20160401_428M60000A00004",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000A00004",
+   "amendment_law_num": "平成二十八年農林水産省・国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（交換分合計画の決定手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "農住組合（以下「組合」という。）は、農住組合法（以下「法」という。）第九条第一項の規定により交換分合計画につき認可を受けようとするときは、法第十一条において準用する土地改良法第九十九条第三項に掲げる書面のほか、次に掲げる書類を添付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1981-06-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-02T13:09:21+09:00"
+ }
+}

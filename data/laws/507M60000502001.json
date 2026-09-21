@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000502001",
+  "law_num": "令和七年内閣府・厚生労働省・経済産業省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2025-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000502001_20251226_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "内閣府・厚生労働省・経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく安定供給確保支援法人に関する命令",
+  "law_title_kana": "ないかくふ・こうせいろうどうしょう・けいざいさんぎょうしょうかんけいけいざいしさくをいったいてきにこうずることによるあんぜんほしょうのかくほのすいしんにかんするほうりつにもとづくあんていきょうきゅうかくほしえんほうじんにかんするめいれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-01-21T00:19:30+09:00",
+  "amendment_promulgate_date": "2025-12-26",
+  "amendment_enforcement_date": "2025-12-26",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000502001_20251226_000000000000000",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2025-12-26",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令において使用する用語は、経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-12-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-21T00:19:30+09:00"
+ }
+}

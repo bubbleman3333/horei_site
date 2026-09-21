@@ -1,0 +1,123 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "347M50002000045",
+  "law_num": "昭和四十七年労働省令第四十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "045",
+  "promulgation_date": "1972-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "347M50002000045_20260401_508M60000100003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "機械等検定規則",
+  "law_title_kana": "きかいとうけんていきそく",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-04-01T06:42:39+09:00",
+  "amendment_promulgate_date": "2026-01-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100003",
+  "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347M50002000045_20270401_508M60000100029",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000100029",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000045_20260401_508M60000100003",
+   "amendment_promulgate_date": "2026-01-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100003",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000045_20231001_505M60000100029",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000100029",
+   "amendment_law_title": "労働安全衛生法施行令及び労働安全衛生法関係手数料令の一部を改正する政令の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000045_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000045_20190401_430M60000100015",
+   "amendment_promulgate_date": "2018-02-16",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000100015",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う厚生労働省関係省令の整理等に関する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000045_20180501_430M60000100061",
+   "amendment_promulgate_date": "2018-04-25",
+   "amendment_enforcement_date": "2018-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000100061",
+   "amendment_law_title": "機械等検定規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000045_20160630_428M60000100121",
+   "amendment_promulgate_date": "2016-06-30",
+   "amendment_enforcement_date": "2016-06-30",
+   "amendment_law_id": "428M60000100121",
+   "amendment_law_num": "平成二十八年厚生労働省令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　個別検定",
+  "第二章　型式検定"
+ ],
+ "article1": {
+  "caption": "（個別検定の申請等）",
+  "title": "第一条",
+  "paragraphs": [
+   "労働安全衛生法（以下「法」という。）第四十四条第一項又は第二項の規定による検定（以下「個別検定」という。）を受けようとする者は、当該個別検定を受けようとする機械等ごとに、個別検定申請書（様式第一号）に次の図面及び書面を添えて、個別検定を行う者（以下「個別検定実施者」という。）に提出しなければならない。",
+   "個別検定を受けようとする者のうち、当該個別検定を受けようとする機械等を輸入し、又は外国において製造したものは、前項の申請書に当該機械等が法第四十二条の厚生労働大臣が定める規格に適合していることを厚生労働大臣が指定する者（外国に住所を有するものに限る。）が明らかにする書面を添付することができる。",
+   "第一項の規定による申請をした者（以下「個別検定申請者」という。）は、個別検定を受けるために必要な準備をしなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-09-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:42:39+09:00"
+ }
+}

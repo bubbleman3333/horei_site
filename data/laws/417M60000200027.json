@@ -1,0 +1,462 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000200027",
+  "law_num": "平成十七年農林水産省令第二十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "027",
+  "promulgation_date": "2005-03-22"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000200027_20260731_508M60000200054",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農業協同組合法施行規則",
+  "law_title_kana": "のうぎょうきょうどうくみあいほうしこうきそく",
+  "abbrev": "農協法施行規則",
+  "category": "農業",
+  "updated": "2026-09-01T11:15:40+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200054",
+  "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第五十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000200027_20270401_508M60000200048",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000200048",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20261211_508M60000200054",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508M60000200054",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20260731_508M60000200054",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508M60000200054",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20260701_508M60000200048",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60000200048",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20260331_508M60000200024",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000200024",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20260101_507M60000200054",
+   "amendment_promulgate_date": "2025-12-15",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000200054",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20250601_507M60000200021",
+   "amendment_promulgate_date": "2025-04-22",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000200021",
+   "amendment_law_title": "刑法等の一部を改正する法律等の施行に伴う農林水産省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20250401_507M60000200006",
+   "amendment_promulgate_date": "2025-03-03",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000200006",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20250331_507M60000200013",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507M60000200013",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20250331_507M60000200012",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507M60000200012",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20241130_506M60000200060",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-11-30",
+   "amendment_law_id": "506M60000200060",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20241101_506M60000200054",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000200054",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20240729_506M60000200043",
+   "amendment_promulgate_date": "2024-07-29",
+   "amendment_enforcement_date": "2024-07-29",
+   "amendment_law_id": "506M60000200043",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20240401_506M60000200015",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000200015",
+   "amendment_law_title": "農業協同組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20240201_506M60000200004",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000200004",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20240110_506M60000200001",
+   "amendment_promulgate_date": "2024-01-10",
+   "amendment_enforcement_date": "2024-01-10",
+   "amendment_law_id": "506M60000200001",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20231228_505M60000200063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000200063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20230601_505M60000200034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000200034",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20230401_504M60000200066",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000200066",
+   "amendment_law_title": "農業経営基盤強化促進法等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年農林水産省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20230101_504M60000200072",
+   "amendment_promulgate_date": "2022-12-08",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000200072",
+   "amendment_law_title": "書面の交付を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20221101_504M60000200062",
+   "amendment_promulgate_date": "2022-11-01",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000200062",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20220901_503M60000200004",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "503M60000200004",
+   "amendment_law_title": "農業協同組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20220610_504M60000200041",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2022-06-10",
+   "amendment_law_id": "504M60000200041",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20220401_504M60000200034",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000200034",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20220401_504M60000200019",
+   "amendment_promulgate_date": "2022-03-22",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000200019",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20220331_502M60000200085",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "502M60000200085",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20220322_504M60000200019",
+   "amendment_promulgate_date": "2022-03-22",
+   "amendment_enforcement_date": "2022-03-22",
+   "amendment_law_id": "504M60000200019",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20220118_504M60000200002",
+   "amendment_promulgate_date": "2022-01-18",
+   "amendment_enforcement_date": "2022-01-18",
+   "amendment_law_id": "504M60000200002",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20211122_503M60000200064",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000200064",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20211101_503M60000200063",
+   "amendment_promulgate_date": "2021-11-01",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000200063",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20210802_503M60000200047",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000200047",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20210802_503M60000200046",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000200046",
+   "amendment_law_title": "農業法人に対する投資の円滑化に関する特別措置法の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年農林水産省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20210331_503M60000200013",
+   "amendment_promulgate_date": "2021-03-26",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_law_id": "503M60000200013",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20210301_503M60000200004",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503M60000200004",
+   "amendment_law_title": "農業協同組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20210215_503M60000200004",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503M60000200004",
+   "amendment_law_title": "農業協同組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20201223_502M60000200085",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000200085",
+   "amendment_law_title": "農業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20201201_502M60000200049",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000200049",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和二年農林水産省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20201007_502M60000200068",
+   "amendment_promulgate_date": "2020-10-07",
+   "amendment_enforcement_date": "2020-10-07",
+   "amendment_law_id": "502M60000200068",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200027_20201001_502M60000200067",
+   "amendment_promulgate_date": "2020-10-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000200067",
+   "amendment_law_title": "農業協同組合法施行規則及び水産業協同組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　事業",
+  "第二章　共済契約に係る契約条件の変更",
+  "第三章　子会社等",
+  "第四章　管理",
+  "第五章　農事組合法人",
+  "第六章　組織変更",
+  "第七章　指定紛争解決機関",
+  "第八章　監督",
+  "第九章　雑則"
+ ],
+ "article1": {
+  "caption": "（農地等に併せて信託をすることを相当とする不動産）",
+  "title": "第一条",
+  "paragraphs": [
+   "農業協同組合法（以下「法」という。）第十条第三項第二号の農林水産省令で定める不動産は、次に掲げる不動産とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-03-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-01T11:15:40+09:00"
+ }
+}

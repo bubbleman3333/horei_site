@@ -1,0 +1,148 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "415AC0000000040",
+  "law_num": "平成十五年法律第四十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "Act",
+  "law_num_num": "040",
+  "promulgation_date": "2003-05-09"
+ },
+ "revision_info": {
+  "law_revision_id": "415AC0000000040_20260401_506AC0000000047",
+  "law_type": "Act",
+  "law_title": "法科大学院への裁判官及び検察官その他の一般職の国家公務員の派遣に関する法律",
+  "law_title_kana": "ほうかだいがくいんへのさいばんかんおよびけんさつかんそのほかのいっぱんしょくのこっかこうむいんのはけんにかんするほうりつ",
+  "abbrev": "法科大学院派遣法",
+  "category": "司法",
+  "updated": "2026-04-02T18:39:59+09:00",
+  "amendment_promulgate_date": "2024-06-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000047",
+  "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第四十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415AC0000000040_20260401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20250401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20240612_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-06-12",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20221001_503AC0000000066",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "503AC0000000066",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20220401_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20210611_503AC0000000066",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2021-06-11",
+   "amendment_law_id": "503AC0000000066",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20180401_429AC0000000077",
+   "amendment_promulgate_date": "2017-12-15",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000077",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20151001_424AC0000000098",
+   "amendment_promulgate_date": "2012-11-26",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "424AC0000000098",
+   "amendment_law_title": "私立学校教職員共済法等の一部を改正する法律",
+   "amendment_law_num": "平成二十四年法律第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20151001_424AC0000000096",
+   "amendment_promulgate_date": "2012-11-26",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "424AC0000000096",
+   "amendment_law_title": "国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律",
+   "amendment_law_num": "平成二十四年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000040_20151001_424AC0000000063",
+   "amendment_promulgate_date": "2012-08-22",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "424AC0000000063",
+   "amendment_law_title": "被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十四年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、法科大学院における教育が、司法修習生の修習との有機的連携の下に法曹としての実務に関する教育の一部を担うものであり、かつ、法曹の養成に関係する機関の密接な連携及び相互の協力の下に将来の法曹としての実務に必要な法律に関する理論的かつ実践的な能力（各種の専門的な法分野における高度の能力を含む。）を備えた多数の法曹の養成を実現すべきものであることにかんがみ、法科大学院の教育と司法試験等との連携等に関する法律（平成十四年法律第百三十九号）第三条の規定の趣旨にのっとり、国の責務として、裁判官及び検察官その他の一般職の国家公務員が法科大学院において教授、准教授その他の教員としての業務を行うための派遣に関し必要な事項について定めることにより、法科大学院における法曹としての実務に関する教育の実効性の確保を図り、もって同条第一項に規定する法曹養成の基本理念に則した法科大学院における教育の充実に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-05-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T18:39:59+09:00"
+ }
+}

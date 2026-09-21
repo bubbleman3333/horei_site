@@ -1,0 +1,58 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000047",
+  "law_num": "令和八年政令第四十七号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "047",
+  "promulgation_date": "2026-03-23"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000047_20261001_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律施行令",
+  "law_title_kana": "じゅうようでんしけいさんきにたいするふせいなこういによるひがいのぼうしにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-04-03T15:34:06+09:00",
+  "amendment_promulgate_date": "2026-03-23",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000047_20261001_000000000000000",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（重要電子計算機）",
+  "title": "第一条",
+  "paragraphs": [
+   "重要電子計算機に対する不正な行為による被害の防止に関する法律（以下「法」という。）第二条第二項第一号の政令で定める電子計算機は、同号イからホまでに掲げる者が使用する電子計算機のうち、次に掲げるものとする。",
+   "法第二条第二項第一号ホの政令で定める法人は、外国人育成就労機構、株式会社国際協力銀行、株式会社日本政策金融公庫、株式会社日本貿易保険、原子力損害賠償・廃炉等支援機構、国立健康危機管理研究機構、新関西国際空港株式会社、脱炭素成長型経済構造移行推進機構、地方公共団体金融機構、地方公共団体情報システム機構、地方税共同機構、日本銀行、日本下水道事業団、日本年金機構、農水産業協同組合貯金保険機構及び預金保険機構とする。",
+   "法第二条第二項第二号の政令で定める電子計算機は、経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（令和四年法律第四十三号）第五十条第一項に規定する特定社会基盤事業者が使用する電子計算機のうち、次に掲げるものとする。",
+   "法第二条第二項第三号の政令で定める電子計算機は、同号に規定する事業者が使用する電子計算機のうち、重要情報を記録する電子計算機及び当該電子計算機と電気通信回線で直接又は間接に接続されている電子計算機とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-03T15:34:06+09:00"
+ }
+}

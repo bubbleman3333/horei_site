@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "415M60200000007",
+  "law_num": "平成十五年公正取引委員会規則第七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "Rule",
+  "law_num_num": "007",
+  "promulgation_date": "2003-12-11"
+ },
+ "revision_info": {
+  "law_revision_id": "415M60200000007_20260101_507M60200000008",
+  "law_type": "Rule",
+  "law_title": "下請代金支払遅延等防止法第三条の書面の記載事項等に関する規則",
+  "law_title_kana": "したうけだいきんしはらいちえんとうぼうしほうだいさんじょうのしょめんのきさいじこうとうにかんするきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-01-01T04:28:24+09:00",
+  "amendment_promulgate_date": "2025-10-01",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60200000008",
+  "amendment_law_title": "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律第四条の明示に関する規則",
+  "amendment_law_num": "令和七年公正取引委員会規則第八号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-01-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415M60200000007_20260101_507M60200000008",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60200000008",
+   "amendment_law_title": "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律第四条の明示に関する規則",
+   "amendment_law_num": "令和七年公正取引委員会規則第八号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "415M60200000007_20231225_505M60200000003",
+   "amendment_promulgate_date": "2023-12-25",
+   "amendment_enforcement_date": "2023-12-25",
+   "amendment_law_id": "505M60200000003",
+   "amendment_law_title": "公正取引委員会の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則及び下請代金支払遅延等防止法第三条の書面の記載事項等に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和五年公正取引委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60200000007_20090619_421M60200000003",
+   "amendment_promulgate_date": "2009-06-19",
+   "amendment_enforcement_date": "2009-06-19",
+   "amendment_law_id": "421M60200000003",
+   "amendment_law_num": "平成二十一年公正取引委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "下請代金支払遅延等防止法（以下「法」という。）第三条の書面には、次に掲げる事項を明確に記載しなければならない。",
+   "前項第四号の下請代金の額について、具体的な金額を記載することが困難なやむを得ない事情がある場合には、下請代金の具体的な金額を定めることとなる算定方法を記載することをもって足りる。",
+   "法第三条第一項ただし書の規定に基づき、製造委託等をしたときに書面に記載しない事項（以下「特定事項」という。）がある場合には、特定事項以外の事項のほか、特定事項の内容が定められない理由及び特定事項の内容を定めることとなる予定期日を、製造委託等をしたときに交付する書面（以下「当初書面」という。）に記載しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-12-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T04:28:24+09:00"
+ }
+}

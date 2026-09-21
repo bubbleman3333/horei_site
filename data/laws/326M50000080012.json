@@ -1,0 +1,102 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "326M50000080012",
+  "law_num": "昭和二十六年文部省令第十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "012",
+  "promulgation_date": "1951-06-21"
+ },
+ "revision_info": {
+  "law_revision_id": "326M50000080012_20260401_507M60000080018",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "社会教育主事講習等規程",
+  "law_title_kana": "しゃかいきょういくしゅじこうしゅうとうきてい",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-01T02:20:08+09:00",
+  "amendment_promulgate_date": "2025-07-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000080018",
+  "amendment_law_title": "社会教育主事講習等規程の一部を改正する省令",
+  "amendment_law_num": "令和七年文部科学省令第十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326M50000080012_20260401_507M60000080018",
+   "amendment_promulgate_date": "2025-07-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000080018",
+   "amendment_law_title": "社会教育主事講習等規程の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326M50000080012_20221001_504M60000080034",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000080034",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000080012_20200925_502M60000080033",
+   "amendment_promulgate_date": "2020-09-25",
+   "amendment_enforcement_date": "2020-09-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000080033",
+   "amendment_law_title": "社会教育主事講習等規程の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000080012_20200401_430M60000080005",
+   "amendment_promulgate_date": "2018-02-28",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430M60000080005",
+   "amendment_law_title": "社会教育主事講習等規程の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000080012_20120401_421M60000080020",
+   "amendment_promulgate_date": "2009-04-30",
+   "amendment_enforcement_date": "2012-04-01",
+   "amendment_law_id": "421M60000080020",
+   "amendment_law_num": "平成二十一年文部科学省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　社会教育主事の講習",
+  "第二章　準ずる学校",
+  "第三章　社会教育に関する科目の単位"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "社会教育法（昭和二十四年法律第二百七号。以下「法」という。）第九条の五に規定する社会教育主事の講習（この章中以下「講習」という。）については、この章の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-06-21",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T02:20:08+09:00"
+ }
+}

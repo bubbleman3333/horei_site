@@ -1,0 +1,458 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "337M5000008A001",
+  "law_num": "昭和三十七年総理府・文部省・自治省令第一号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1962-09-08"
+ },
+ "revision_info": {
+  "law_revision_id": "337M5000008A001_20260801_508M6000008A004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方公務員等共済組合法施行規程",
+  "law_title_kana": "ちほうこうむいんとうきょうさいくみあいほうしこうきてい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-08-17T13:54:14+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M6000008A004",
+  "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・総務省・文部科学省令第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M5000008A001_20260801_508M6000008A004",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20260601_508M6000008A003",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M6000008A003",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20260401_508M6000008A002",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M6000008A002",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20260301_508M6000008A001",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-03-01",
+   "amendment_law_id": "508M6000008A001",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20251101_507M6000008A004",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20251001_507M6000008A004",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20250601_507M6000008A003",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M6000008A003",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20250601_507M6000008A002",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M6000008A002",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20250401_507M6000008A002",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M6000008A002",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20250301_507M6000008A001",
+   "amendment_promulgate_date": "2025-02-28",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "507M6000008A001",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20241202_506M6000008A005",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M6000008A005",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・文部科学省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20240527_506M6000008A004",
+   "amendment_promulgate_date": "2024-05-27",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20240507_506M6000008A003",
+   "amendment_promulgate_date": "2024-04-30",
+   "amendment_enforcement_date": "2024-05-07",
+   "amendment_law_id": "506M6000008A003",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20240401_506M6000008A002",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M6000008A002",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20240301_506M6000008A001",
+   "amendment_promulgate_date": "2024-02-29",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "506M6000008A001",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20230929_505M6000008A004",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-09-29",
+   "amendment_law_id": "505M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20230901_505M6000008A003",
+   "amendment_promulgate_date": "2023-08-31",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505M6000008A003",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・総務省・文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20230401_505M6000008A002",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M6000008A002",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・総務省・文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20230322_505M6000008A001",
+   "amendment_promulgate_date": "2023-03-22",
+   "amendment_enforcement_date": "2023-03-22",
+   "amendment_law_id": "505M6000008A001",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・総務省・文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20221001_504M6000008A004",
+   "amendment_promulgate_date": "2022-08-24",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20220624_504M6000008A003",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-06-24",
+   "amendment_law_id": "504M6000008A003",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・総務省・文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20220520_504M6000008A002",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504M6000008A002",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・総務省・文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20220401_504M6000008A001",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M6000008A001",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・総務省・文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20220101_503M6000008A003",
+   "amendment_promulgate_date": "2021-12-28",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M6000008A003",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20210831_503M6000008A002",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-08-31",
+   "amendment_law_id": "503M6000008A002",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20210129_503M6000008A001",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-01-29",
+   "amendment_law_id": "503M6000008A001",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20210101_502M6000008A003",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M6000008A003",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・総務省・文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20201026_502M6000008A002",
+   "amendment_promulgate_date": "2020-10-26",
+   "amendment_enforcement_date": "2020-10-26",
+   "amendment_law_id": "502M6000008A002",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・総務省・文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20201001_502M6000008A001",
+   "amendment_promulgate_date": "2020-09-25",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M6000008A001",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・総務省・文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20201001_501M6000008A006",
+   "amendment_promulgate_date": "2019-11-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501M6000008A006",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20201001_501M6000008A005",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501M6000008A005",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20200925_502M6000008A001",
+   "amendment_promulgate_date": "2020-09-25",
+   "amendment_enforcement_date": "2020-09-25",
+   "amendment_law_id": "502M6000008A001",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・総務省・文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20200401_501M6000008A006",
+   "amendment_promulgate_date": "2019-11-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M6000008A006",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20200401_501M6000008A004",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20191216_501M6000008A007",
+   "amendment_promulgate_date": "2019-12-02",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M6000008A007",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20191101_501M6000008A006",
+   "amendment_promulgate_date": "2019-11-01",
+   "amendment_enforcement_date": "2019-11-01",
+   "amendment_law_id": "501M6000008A006",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20190927_501M6000008A005",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2019-09-27",
+   "amendment_law_id": "501M6000008A005",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20190830_501M6000008A004",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2019-08-30",
+   "amendment_law_id": "501M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20190801_430M6000008A004",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_law_id": "430M6000008A004",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・総務省・文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M5000008A001_20190701_501M6000008A003",
+   "amendment_promulgate_date": "2019-06-24",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M6000008A003",
+   "amendment_law_title": "地方公務員等共済組合法施行規程の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　組合",
+  "第三章　組合員等",
+  "第四章　給付",
+  "第四章の二　福祉事業",
+  "第四章の三　実施機関積立金及び退職等年金給付組合積立金等の管理及び運用",
+  "第四章の四　費用の負担",
+  "第五章　掛金等",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令は、地方公務員等共済組合法（昭和三十七年法律第百五十二号。以下「法」という。）及び厚生年金保険法（昭和二十九年法律第百十五号）の実施のための手続その他法及び厚生年金保険法の執行に関して必要な細則を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-09-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-17T13:54:14+09:00"
+ }
+}

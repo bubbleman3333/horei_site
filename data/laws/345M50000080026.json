@@ -1,0 +1,255 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "345M50000080026",
+  "law_num": "昭和四十五年文部省令第二十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "026",
+  "promulgation_date": "1970-12-23"
+ },
+ "revision_info": {
+  "law_revision_id": "345M50000080026_20260401_508M60000080004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "著作権法施行規則",
+  "law_title_kana": "ちょさくけんほうしこうきそく",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2026-04-01T06:09:30+09:00",
+  "amendment_promulgate_date": "2026-02-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080004",
+  "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省令第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345M50000080026_20260401_508M60000080004",
+   "amendment_promulgate_date": "2026-02-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000080004",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20260220_508M60000080004",
+   "amendment_promulgate_date": "2026-02-20",
+   "amendment_enforcement_date": "2026-02-20",
+   "amendment_law_id": "508M60000080004",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20250918_507M60000080023",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-09-18",
+   "amendment_law_id": "507M60000080023",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20250825_507M60000080020",
+   "amendment_promulgate_date": "2025-08-25",
+   "amendment_enforcement_date": "2025-08-25",
+   "amendment_law_id": "507M60000080020",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20230601_505M60000080023",
+   "amendment_promulgate_date": "2023-05-31",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000080023",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20230601_504M60000080042",
+   "amendment_promulgate_date": "2022-12-28",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "504M60000080042",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20220501_504M60000080019",
+   "amendment_promulgate_date": "2022-04-27",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "504M60000080019",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20220101_503M60000080046",
+   "amendment_promulgate_date": "2021-09-29",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000080046",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20211001_503M60000080046",
+   "amendment_promulgate_date": "2021-09-29",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503M60000080046",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20210101_502M60000080044",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000080044",
+   "amendment_law_title": "押印を求める手続の見直し等のための文部科学省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20201001_502M60000080031",
+   "amendment_promulgate_date": "2020-09-16",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000080031",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20200428_502M60000080017",
+   "amendment_promulgate_date": "2020-04-21",
+   "amendment_enforcement_date": "2020-04-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000080017",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20200428_430M60000080037",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2020-04-28",
+   "amendment_law_id": "430M60000080037",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20190701_501M60000080009",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000080009",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う文部科学省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年文部科学省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20190701_501M60000080008",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000080008",
+   "amendment_law_title": "著作権法施行規則及びプログラムの著作物に係る登録の特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20190401_429M60000080039",
+   "amendment_promulgate_date": "2017-10-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429M60000080039",
+   "amendment_law_title": "博物館法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年文部科学省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20190101_430M60000080037",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000080037",
+   "amendment_law_title": "著作権法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000080026_20150101_426M60000080024",
+   "amendment_promulgate_date": "2014-08-20",
+   "amendment_enforcement_date": "2015-01-01",
+   "amendment_law_id": "426M60000080024",
+   "amendment_law_num": "平成二十六年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　放送番組等のデジタル方式の複製を防止等するための措置",
+  "第一章の二　音の信号に係る接続の方法及び影像の固定に用いる光学的方法に係る基準",
+  "第二章　司書に相当する職員",
+  "第二章の二　図書館資料を用いて行う公衆送信に係る著作物等の提供等を防止等するための措置等",
+  "第二章の三　国立国会図書館と外国の施設との間の協定で定める事項",
+  "第二章の四　特定絶版等資料に係る著作物等のデジタル方式の複製を防止等するための措置",
+  "第三章　視覚障害者等のために情報を提供する事業を行う法人の公表事項等",
+  "第三章の二　聴覚障害者等用複製物の貸出しの基準",
+  "第四章　一時的固定物の保存状況の報告等",
+  "第五章　著作物の表示の大きさ又は精度に係る基準",
+  "第六章　削除",
+  "第七章　電子計算機による情報処理及びその結果の提供等を適正に行うために必要な措置",
+  "第七章の二　著作物等の利用の裁定に関する手続",
+  "第八章　登録手続等",
+  "第九章　業務規程の記載事項",
+  "第十章　私的録音録画補償金の額の認可申請等",
+  "第十章の二　図書館等公衆送信補償金の額の認可申請等",
+  "第十章の三　授業目的公衆送信補償金の額の認可申請等",
+  "第十章の四　裁定による利用に係る指定補償金管理機関及び登録確認機関",
+  "第十一章　印紙納付",
+  "第十二章　ディスク等による手続",
+  "第十三章　インターネットを利用した情報の閲覧の用に供される電磁的記録"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "著作権法（以下「法」という。）第二条第一項第九号の七ハの文部科学省令で定める措置は、同号に規定する自動公衆送信が行われた放送番組又は有線放送番組を視聴する者が当該放送番組又は有線放送番組のデジタル方式の複製をするための送信元識別符号等（法第百十三条第二項に規定する送信元識別符号等をいう。第二条の六第一号において同じ。）の提供を行わない措置とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-12-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:09:30+09:00"
+ }
+}

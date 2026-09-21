@@ -1,0 +1,120 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "415CO0000000556",
+  "law_num": "平成十五年政令第五百五十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "556",
+  "promulgation_date": "2003-12-25"
+ },
+ "revision_info": {
+  "law_revision_id": "415CO0000000556_20260401_508CO0000000066",
+  "law_type": "CabinetOrder",
+  "law_title": "独立行政法人労働者健康安全機構法施行令",
+  "law_title_kana": "どくりつぎょうせいほうじんろうどうしゃけんこうあんぜんきこうほうしこうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-14T09:33:43+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000066",
+  "amendment_law_title": "医療法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415CO0000000556_20260401_508CO0000000066",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000066",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000556_20211101_503CO0000000296",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000296",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000556_20210101_502CO0000000367",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000367",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000556_20200907_502CO0000000268",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502CO0000000268",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000556_20200401_502CO0000000040",
+   "amendment_promulgate_date": "2020-03-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000040",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000556_20200401_501CO0000000209",
+   "amendment_promulgate_date": "2019-12-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000209",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000556_20160401_428CO0000000078",
+   "amendment_promulgate_date": "2016-03-25",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000078",
+   "amendment_law_title": "独立行政法人に係る改革を推進するための厚生労働省関係法律の整備等に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（評価委員の任命等）",
+  "title": "第一条",
+  "paragraphs": [
+   "独立行政法人労働者健康安全機構法（平成十四年法律第百七十一号。以下「法」という。）第五条第五項の評価委員は、必要の都度、次に掲げる者につき厚生労働大臣が任命する。",
+   "法第五条第五項の規定による評価は、同項の評価委員の過半数の一致によるものとする。",
+   "法第五条第五項の規定による評価に関する庶務は、厚生労働省労働基準局安全衛生部計画課において処理する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-12-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:33:43+09:00"
+ }
+}

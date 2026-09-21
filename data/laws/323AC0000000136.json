@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "323AC0000000136",
+  "law_num": "昭和二十三年法律第百三十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "Act",
+  "law_num_num": "136",
+  "promulgation_date": "1948-07-12"
+ },
+ "revision_info": {
+  "law_revision_id": "323AC0000000136_20250601_504AC0000000068",
+  "law_type": "Act",
+  "law_title": "警察官職務執行法",
+  "law_title_kana": "けいさつかんしょくむしっこうほう",
+  "abbrev": "警職法",
+  "category": "警察",
+  "updated": "2025-06-04T11:15:30+09:00",
+  "amendment_promulgate_date": "2022-06-17",
+  "amendment_enforcement_date": "2025-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000068",
+  "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+  "amendment_law_num": "令和四年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323AC0000000136_20261001_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000136_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000136_20250523_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000136_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000136_20061223_418AC0000000094",
+   "amendment_promulgate_date": "2006-06-23",
+   "amendment_enforcement_date": "2006-12-23",
+   "amendment_law_id": "418AC0000000094",
+   "amendment_law_num": "平成十八年法律第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（この法律の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、警察官が警察法（昭和二十九年法律第百六十二号）に規定する個人の生命、身体及び財産の保護、犯罪の予防、公安の維持並びに他の法令の執行等の職権職務を忠実に遂行するために、必要な手段を定めることを目的とする。",
+   "この法律に規定する手段は、前項の目的のため必要な最小の限度において用いるべきものであつて、いやしくもその濫用にわたるようなことがあつてはならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-07-12",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-06-04T11:15:30+09:00"
+ }
+}

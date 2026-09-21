@@ -1,0 +1,377 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000800026",
+  "law_num": "平成十七年国土交通省令第二十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "026",
+  "promulgation_date": "2005-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000800026_20260513_508M60000800019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則",
+  "law_title_kana": "こくどこうつうしょうのしょかんするほうれいにかかるみんかんじぎょうしゃとうがおこなうしょめんのほぞんとうにおけるじょうほうつうしんのぎじゅつのりようにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "行政手続",
+  "updated": "2026-05-13T00:24:49+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-05-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800019",
+  "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000800026_20260513_508M60000800019",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_law_id": "508M60000800019",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20260401_508M60000800013",
+   "amendment_promulgate_date": "2026-03-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800013",
+   "amendment_law_title": "貨物自動車運送事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20260401_508M60000800003",
+   "amendment_promulgate_date": "2026-01-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800003",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20260327_508M60000800019",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-03-27",
+   "amendment_law_id": "508M60000800019",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20260214_507M60000800090",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "507M60000800090",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20251001_506M60000800103",
+   "amendment_promulgate_date": "2024-12-09",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506M60000800103",
+   "amendment_law_title": "海洋汚染等及び海上災害の防止に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20250708_507M60000800082",
+   "amendment_promulgate_date": "2025-07-08",
+   "amendment_enforcement_date": "2025-07-08",
+   "amendment_law_id": "507M60000800082",
+   "amendment_law_title": "自動車整備士技能検定規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20250626_431M60000800012",
+   "amendment_promulgate_date": "2019-03-26",
+   "amendment_enforcement_date": "2025-06-26",
+   "amendment_law_id": "431M60000800012",
+   "amendment_law_title": "国土交通省関係船舶の再資源化解体の適正な実施に関する法律施行規則",
+   "amendment_law_num": "平成三十一年国土交通省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20250401_507M60000800003",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000800003",
+   "amendment_law_title": "貨物自動車運送事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20250401_506M60000800111",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800111",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20250401_506M60000800109",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800109",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20250401_506M60000800068",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800068",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20250101_506M60000800103",
+   "amendment_promulgate_date": "2024-12-09",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000800103",
+   "amendment_law_title": "海洋汚染等及び海上災害の防止に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20241213_506M60000800106",
+   "amendment_promulgate_date": "2024-12-12",
+   "amendment_enforcement_date": "2024-12-13",
+   "amendment_law_id": "506M60000800106",
+   "amendment_law_title": "建設業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20240401_506M60000800003",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800003",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20240401_505M60000800075",
+   "amendment_promulgate_date": "2023-09-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000800075",
+   "amendment_law_title": "建築物のエネルギー消費性能の向上に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20240129_506M60000800005",
+   "amendment_promulgate_date": "2024-01-29",
+   "amendment_enforcement_date": "2024-01-29",
+   "amendment_law_id": "506M60000800005",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20231228_505M60000800098",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000800098",
+   "amendment_law_title": "磁気ディスク等の記録媒体を指定する規定の見直しのための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20231001_505M60000800067",
+   "amendment_promulgate_date": "2023-09-01",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000800067",
+   "amendment_law_title": "宅地建物取引業法施行規則及び国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20230929_505M60000800078",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-09-29",
+   "amendment_law_id": "505M60000800078",
+   "amendment_law_title": "運輸審議会一般規則及び国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20220401_504M60000800034",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800034",
+   "amendment_law_title": "国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20220401_503M60000800077",
+   "amendment_promulgate_date": "2021-12-15",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000800077",
+   "amendment_law_title": "マンションの建替え等の円滑化に関する法律施行規則及び国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20220401_503M60000800047",
+   "amendment_promulgate_date": "2021-07-09",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000800047",
+   "amendment_law_title": "道路法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20220220_503M60000800067",
+   "amendment_promulgate_date": "2021-10-20",
+   "amendment_enforcement_date": "2022-02-20",
+   "amendment_law_id": "503M60000800067",
+   "amendment_law_title": "住宅の質の向上及び円滑な取引環境の整備のための長期優良住宅の普及の促進に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20211120_503M60000800071",
+   "amendment_promulgate_date": "2021-11-19",
+   "amendment_enforcement_date": "2021-11-20",
+   "amendment_law_id": "503M60000800071",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20210901_503M60000800053",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000800053",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20201001_502M60000800072",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000800072",
+   "amendment_law_title": "海洋汚染等及び海上災害の防止に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20190901_430M60000800090",
+   "amendment_promulgate_date": "2018-12-26",
+   "amendment_enforcement_date": "2019-09-01",
+   "amendment_law_id": "430M60000800090",
+   "amendment_law_title": "放射性同位元素等車両運搬規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20190401_431M60000800012",
+   "amendment_promulgate_date": "2019-03-26",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000800012",
+   "amendment_law_title": "国土交通省関係船舶の再資源化解体の適正な実施に関する法律施行規則",
+   "amendment_law_num": "平成三十一年国土交通省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20190401_431M60000800004",
+   "amendment_promulgate_date": "2019-02-15",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000800004",
+   "amendment_law_title": "国土交通省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20180701_430M60000800049",
+   "amendment_promulgate_date": "2018-06-15",
+   "amendment_enforcement_date": "2018-07-01",
+   "amendment_law_id": "430M60000800049",
+   "amendment_law_title": "海上運送法及び船員法の一部を改正する法律の施行に伴う船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20171001_429M60000800055",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429M60000800055",
+   "amendment_law_title": "海上運送法及び船員法の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000800026_20161101_428M60000800063",
+   "amendment_promulgate_date": "2016-08-31",
+   "amendment_enforcement_date": "2016-11-01",
+   "amendment_law_id": "428M60000800063",
+   "amendment_law_num": "平成二十八年国土交通省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "民間事業者等が、国土交通省の所管する法令に係る保存等を、電磁的記録を使用して行う場合については、他の法律及び法律に基づく命令（告示を含む。）に特別の定めのある場合を除くほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T00:24:49+09:00"
+ }
+}

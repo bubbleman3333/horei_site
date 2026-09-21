@@ -1,0 +1,276 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "324AC0000000228",
+  "law_num": "昭和二十四年法律第二百二十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "228",
+  "promulgation_date": "1949-12-01"
+ },
+ "revision_info": {
+  "law_revision_id": "324AC0000000228_20260812_508AC0000000064",
+  "law_type": "Act",
+  "law_title": "外国為替及び外国貿易法",
+  "law_title_kana": "がいこくかわせおよびがいこくぼうえきほう",
+  "abbrev": "外為法,外国為替法",
+  "category": "外国為替・貿易",
+  "updated": "2026-08-12T00:08:39+09:00",
+  "amendment_promulgate_date": "2026-07-23",
+  "amendment_enforcement_date": "2026-08-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000064",
+  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324AC0000000228_20270722_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-07-22",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-07-22",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20270604_508AC0000000030",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-06-04",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-06-04",
+   "amendment_law_id": "508AC0000000030",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20270401_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20260812_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-08-12",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20260723_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-07-23",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20260605_508AC0000000030",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-06-05",
+   "amendment_law_id": "508AC0000000030",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20240401_504AC0000000097",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0000000097",
+   "amendment_law_title": "国際的な不正資金等の移動等に対処するための国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20230601_504AC0000000097",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "504AC0000000097",
+   "amendment_law_title": "国際的な不正資金等の移動等に対処するための国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20230601_504AC0000000061",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "504AC0000000061",
+   "amendment_law_title": "安定的かつ効率的な資金決済制度の構築を図るための資金決済に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20230601_504AC0000000028",
+   "amendment_promulgate_date": "2022-04-20",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "504AC0000000028",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20221229_504AC0000000097",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-29",
+   "amendment_law_id": "504AC0000000097",
+   "amendment_law_title": "国際的な不正資金等の移動等に対処するための国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20220610_504AC0000000061",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2022-06-10",
+   "amendment_law_id": "504AC0000000061",
+   "amendment_law_title": "安定的かつ効率的な資金決済制度の構築を図るための資金決済に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20220510_504AC0000000028",
+   "amendment_promulgate_date": "2022-04-20",
+   "amendment_enforcement_date": "2022-05-10",
+   "amendment_law_id": "504AC0000000028",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20200508_501AC0000000060",
+   "amendment_promulgate_date": "2019-11-29",
+   "amendment_enforcement_date": "2020-05-08",
+   "amendment_law_id": "501AC0000000060",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20191216_501AC0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501AC0000000016",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20191129_501AC0000000060",
+   "amendment_promulgate_date": "2019-11-29",
+   "amendment_enforcement_date": "2019-11-29",
+   "amendment_law_id": "501AC0000000060",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20171001_429AC0000000038",
+   "amendment_promulgate_date": "2017-05-24",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429AC0000000038",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20170524_429AC0000000038",
+   "amendment_promulgate_date": "2017-05-24",
+   "amendment_enforcement_date": "2017-05-24",
+   "amendment_law_id": "429AC0000000038",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　我が国の平和及び安全の維持のための措置",
+  "第三章　支払等",
+  "第四章　資本取引等",
+  "第五章　対内直接投資等",
+  "第六章　外国貿易",
+  "第六章の二　報告等",
+  "第六章の二の二　外国為替取引等取扱業者遵守基準",
+  "第六章の三　輸出者等遵守基準",
+  "第七章　行政手続法との関係",
+  "第七章の二　審査請求",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、外国為替、外国貿易その他の対外取引が自由に行われることを基本とし、対外取引に対し必要最小限の管理又は調整を行うことにより、対外取引の正常な発展並びに我が国又は国際社会の平和及び安全の維持を期し、もつて国際収支の均衡及び通貨の安定を図るとともに我が国経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-12-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-12T00:08:39+09:00"
+ }
+}

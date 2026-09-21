@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "406AC0000000117",
+  "law_num": "平成六年法律第百十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "117",
+  "promulgation_date": "1994-12-16"
+ },
+ "revision_info": {
+  "law_revision_id": "406AC0000000117_20251212_507AC0000000087",
+  "law_type": "Act",
+  "law_title": "原子爆弾被爆者に対する援護に関する法律",
+  "law_title_kana": "げんしばくだんひばくしゃにたいするえんごにかんするほうりつ",
+  "abbrev": "原爆被爆者援護法,原爆三法,被爆者援護法",
+  "category": "厚生",
+  "updated": "2026-01-07T12:22:10+09:00",
+  "amendment_promulgate_date": "2025-12-12",
+  "amendment_enforcement_date": "2025-12-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000087",
+  "amendment_law_title": "医療法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第八十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406AC0000000117_20270401_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000117_20261001_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000117_20251212_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2025-12-12",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000117_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000117_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000117_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000117_20160401_426AC0000000042",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000042",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　削除",
+  "第三章　援護",
+  "第四章　調査及び研究",
+  "第五章　平和を祈念するための事業",
+  "第六章　費用",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（被爆者）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律において「被爆者」とは、次の各号のいずれかに該当する者であって、被爆者健康手帳の交付を受けたものをいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-12-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-07T12:22:10+09:00"
+ }
+}

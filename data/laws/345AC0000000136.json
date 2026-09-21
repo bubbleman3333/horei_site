@@ -1,0 +1,215 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "345AC0000000136",
+  "law_num": "昭和四十五年法律第百三十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "Act",
+  "law_num_num": "136",
+  "promulgation_date": "1970-12-25"
+ },
+ "revision_info": {
+  "law_revision_id": "345AC0000000136_20260916_508AC0000000043",
+  "law_type": "Act",
+  "law_title": "海洋汚染等及び海上災害の防止に関する法律",
+  "law_title_kana": "かいようおせんとうおよびかいじょうさいがいのぼうしにかんするほうりつ",
+  "abbrev": "海防法,海洋汚染防止法",
+  "category": "環境保全",
+  "updated": "2026-09-16T00:04:41+09:00",
+  "amendment_promulgate_date": "2026-06-19",
+  "amendment_enforcement_date": "2026-09-16",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000043",
+  "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345AC0000000136_20260916_508AC0000000043",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-09-16",
+   "amendment_law_id": "508AC0000000043",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20260522_506AC0000000038",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "506AC0000000038",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+   "amendment_law_num": "令和六年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20241118_506AC0000000038",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_law_id": "506AC0000000038",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+   "amendment_law_num": "令和六年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20240524_506AC0000000038",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506AC0000000038",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+   "amendment_law_num": "令和六年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20211120_503AC0000000043",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-11-20",
+   "amendment_law_id": "503AC0000000043",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20201001_501AC0000000018",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501AC0000000018",
+   "amendment_law_title": "船舶油濁損害賠償保障法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20191216_501AC0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501AC0000000016",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20190401_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20170908_426AC0000000073",
+   "amendment_promulgate_date": "2014-06-18",
+   "amendment_enforcement_date": "2017-09-08",
+   "amendment_law_id": "426AC0000000073",
+   "amendment_law_title": "海洋汚染等及び海上災害の防止に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20170531_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-05-31",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000136_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　船舶からの油の排出の規制",
+  "第二章の二　船舶からの有害液体物質等の排出の規制等",
+  "第三章　船舶からの廃棄物の排出の規制",
+  "第三章の二　船舶からの有害水バラストの排出の規制等",
+  "第四章　海洋施設及び航空機からの油、有害液体物質及び廃棄物の排出の規制",
+  "第四章の二　油、有害液体物質等及び廃棄物の海底下廃棄の規制",
+  "第四章の三　船舶からの排出ガスの放出の規制",
+  "第四章の四　船舶及び海洋施設における油、有害液体物質等及び廃棄物の焼却の規制",
+  "第四章の五　船舶の海洋汚染防止設備等及び海洋汚染防止緊急措置手引書等並びに大気汚染防止検査対象設備及び揮発性物質放出防止措置手引書の検査等",
+  "第五章　廃油処理事業等",
+  "第六章　海洋の汚染及び海上災害の防止措置",
+  "第六章の二　指定海上防災機関",
+  "第七章　雑則",
+  "第八章　罰則",
+  "第九章　外国船舶に係る担保金等の提供による釈放等"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、船舶、海洋施設及び航空機から海洋に油、有害液体物質等及び廃棄物を排出すること、船舶から海洋に有害水バラストを排出すること、海底の下に油、有害液体物質等及び廃棄物を廃棄すること、船舶から大気中に排出ガスを放出すること並びに船舶及び海洋施設において油、有害液体物質等及び廃棄物を焼却することを規制し、廃油の適正な処理を確保するとともに、排出された油、有害液体物質等、廃棄物その他の物の防除並びに海上火災の発生及び拡大の防止並びに海上火災等に伴う船舶交通の危険の防止のための措置を講ずることにより、海洋汚染等及び海上災害を防止し、あわせて海洋汚染等及び海上災害の防止に関する国際約束の適確な実施を確保し、もつて海洋環境の保全等並びに人の生命及び身体並びに財産の保護に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-12-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-16T00:04:41+09:00"
+ }
+}

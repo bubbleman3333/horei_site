@@ -1,0 +1,242 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "412AC0000000075",
+  "law_num": "平成十二年法律第七十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "Act",
+  "law_num_num": "075",
+  "promulgation_date": "2000-05-19"
+ },
+ "revision_info": {
+  "law_revision_id": "412AC0000000075_20260521_504AC0000000048",
+  "law_type": "Act",
+  "law_title": "犯罪被害者等の権利利益の保護を図るための刑事手続に付随する措置に関する法律",
+  "law_title_kana": "はんざいひがいしゃとうのけんりりえきのほごをはかるためのけいじてつづきにふずいするそちにかんするほうりつ",
+  "abbrev": "犯罪被害者保護法,犯罪被害者等保護法",
+  "category": "刑事",
+  "updated": "2026-01-08T12:19:23+09:00",
+  "amendment_promulgate_date": "2022-05-25",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000048",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412AC0000000075_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20260521_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20250722_507AC0000000026",
+   "amendment_promulgate_date": "2025-04-23",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507AC0000000026",
+   "amendment_law_title": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
+   "amendment_law_num": "令和七年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20240301_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20240215_505AC0000000028",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2024-02-15",
+   "amendment_law_id": "505AC0000000028",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20230713_505AC0000000066",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505AC0000000066",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20230606_505AC0000000028",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2023-06-06",
+   "amendment_law_id": "505AC0000000028",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20230220_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2023-02-20",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20170713_429AC0000000072",
+   "amendment_promulgate_date": "2017-06-23",
+   "amendment_enforcement_date": "2017-07-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000072",
+   "amendment_law_title": "刑法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000075_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　公判手続の傍聴",
+  "第三章　公判記録の閲覧及び謄写",
+  "第四章　被害者参加旅費等",
+  "第五章　被害者参加弁護士の選定等",
+  "第六章　民事上の争いについての刑事訴訟手続における和解",
+  "第七章　刑事訴訟手続に伴う犯罪被害者等の損害賠償請求に係る裁判手続の特例",
+  "第八章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、犯罪により害を被った者（以下「被害者」という。）及びその遺族がその被害に係る刑事事件の審理の状況及び内容について深い関心を有するとともに、これらの者の受けた身体的、財産的被害その他の被害の回復には困難を伴う場合があることにかんがみ、刑事手続に付随するものとして、被害者及びその遺族の心情を尊重し、かつその被害の回復に資するための措置を定め、並びにこれらの者による損害賠償請求に係る紛争を簡易かつ迅速に解決することに資するための裁判手続の特例を定め、もってその権利利益の保護を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-05-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-08T12:19:23+09:00"
+ }
+}

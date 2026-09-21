@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "415M60000040106",
+  "law_num": "平成十五年財務省令第百六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "106",
+  "promulgation_date": "2003-12-12"
+ },
+ "revision_info": {
+  "law_revision_id": "415M60000040106_20260521_508M60000040043",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "民事訴訟費用等に関する法律に基づく手数料の納付手続の特例に関する省令",
+  "law_title_kana": "みんじそしょうひようとうにかんするほうりつにもとづくてすうりょうののうふてつづきのとくれいにかんするしょうれい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-05-28T11:24:25+09:00",
+  "amendment_promulgate_date": "2026-05-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040043",
+  "amendment_law_title": "民事訴訟費用等に関する法律に基づく手数料の納付手続の特例に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415M60000040106_20260521_508M60000040043",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000040043",
+   "amendment_law_title": "民事訴訟費用等に関する法律に基づく手数料の納付手続の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040106_20260401_508M60000040013",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040013",
+   "amendment_law_title": "民事訴訟費用等に関する法律に基づく手数料の納付手続の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040106_20210101_502M60000040073",
+   "amendment_promulgate_date": "2020-12-04",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040073",
+   "amendment_law_title": "証券ヲ以テスル歳入納付ニ関スル法律施行細則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040106_20190507_501M60000040001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040001",
+   "amendment_law_title": "元号を改める政令の施行に伴う財務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000040106_20060901_418M60000040055",
+   "amendment_promulgate_date": "2006-08-30",
+   "amendment_enforcement_date": "2006-09-01",
+   "amendment_law_id": "418M60000040055",
+   "amendment_law_num": "平成十八年財務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "歳入徴収官及び歳入徴収官代理は、当事者、事件の関係人又はその他の者が民事訴訟費用等に関する法律（昭和四十六年法律第四十号）第三条、第三条の二又は第七条の規定による手数料を同法第八条第一項本文又は第二項ただし書きの規定により納付する場合は、別紙書式の納付書により納付させるものとする。ただし、民事訴訟法（平成八年法律第百九号）第百三十二条の十第一項に規定する申立て等を行ったことにより得られた納付情報により納付させる場合を除く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-12-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-28T11:24:25+09:00"
+ }
+}

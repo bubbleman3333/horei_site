@@ -1,0 +1,139 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "324AC0000000174",
+  "law_num": "昭和二十四年法律第百七十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "174",
+  "promulgation_date": "1949-06-01"
+ },
+ "revision_info": {
+  "law_revision_id": "324AC0000000174_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "労働組合法",
+  "law_title_kana": "ろうどうくみあいほう",
+  "abbrev": "労組法,労働三法",
+  "category": "労働",
+  "updated": "2026-07-01T12:07:19+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324AC0000000174_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000174_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000174_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000174_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000174_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000174_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000174_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000174_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　労働組合",
+  "第三章　労働協約",
+  "第四章　労働委員会",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、労働者が使用者との交渉において対等の立場に立つことを促進することにより労働者の地位を向上させること、労働者がその労働条件について交渉するために自ら代表者を選出することその他の団体行動を行うために自主的に労働組合を組織し、団結することを擁護すること並びに使用者と労働者との関係を規制する労働協約を締結するための団体交渉をすること及びその手続を助成することを目的とする。",
+   "刑法（明治四十年法律第四十五号）第三十五条の規定は、労働組合の団体交渉その他の行為であつて前項に掲げる目的を達成するためにした正当なものについて適用があるものとする。但し、いかなる場合においても、暴力の行使は、労働組合の正当な行為と解釈されてはならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-06-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-01T12:07:19+09:00"
+ }
+}

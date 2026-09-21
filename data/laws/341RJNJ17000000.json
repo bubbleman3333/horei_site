@@ -1,0 +1,377 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "341RJNJ17000000",
+  "law_num": "昭和四十一年人事院規則一七―〇",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "Rule",
+  "law_num_num": "17_0_0",
+  "promulgation_date": "1966-07-09"
+ },
+ "revision_info": {
+  "law_revision_id": "341RJNJ17000000_20260722_508RJNJ17000153",
+  "law_type": "Rule",
+  "law_title": "人事院規則一七―〇（管理職員等の範囲）",
+  "law_title_kana": "じんじいんきそくじゅうななのぜろかんりしょくいんとうのはんい",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-08-04T09:49:44+09:00",
+  "amendment_promulgate_date": "2026-07-22",
+  "amendment_enforcement_date": "2026-07-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ17000153",
+  "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則一七―〇―一五三",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341RJNJ17000000_20260722_508RJNJ17000153",
+   "amendment_promulgate_date": "2026-07-22",
+   "amendment_enforcement_date": "2026-07-22",
+   "amendment_law_id": "508RJNJ17000153",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則一七―〇―一五三",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20260302_508RJNJ17000152",
+   "amendment_promulgate_date": "2026-03-02",
+   "amendment_enforcement_date": "2026-03-02",
+   "amendment_law_id": "508RJNJ17000152",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則一七―〇―一五二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20251217_507RJNJ17000151",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2025-12-17",
+   "amendment_law_id": "507RJNJ17000151",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則一七―〇―一五一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20251014_507RJNJ17000150",
+   "amendment_promulgate_date": "2025-10-14",
+   "amendment_enforcement_date": "2025-10-14",
+   "amendment_law_id": "507RJNJ17000150",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則一七―〇―一五〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20250722_507RJNJ17000149",
+   "amendment_promulgate_date": "2025-07-22",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507RJNJ17000149",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則一七―〇―一四九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20241225_506RJNJ17000148",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506RJNJ17000148",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則一七―〇―一四八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20241001_506RJNJ17000147",
+   "amendment_promulgate_date": "2024-10-01",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506RJNJ17000147",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則一七―〇―一四七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20240716_506RJNJ17000146",
+   "amendment_promulgate_date": "2024-07-16",
+   "amendment_enforcement_date": "2024-07-16",
+   "amendment_law_id": "506RJNJ17000146",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則一七―〇―一四六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20231220_505RJNJ17000145",
+   "amendment_promulgate_date": "2023-12-20",
+   "amendment_enforcement_date": "2023-12-20",
+   "amendment_law_id": "505RJNJ17000145",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則一七―〇―一四五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20231003_505RJNJ17000144",
+   "amendment_promulgate_date": "2023-10-03",
+   "amendment_enforcement_date": "2023-10-03",
+   "amendment_law_id": "505RJNJ17000144",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則一七―〇―一四四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20230711_505RJNJ17000143",
+   "amendment_promulgate_date": "2023-07-11",
+   "amendment_enforcement_date": "2023-07-11",
+   "amendment_law_id": "505RJNJ17000143",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則一七―〇―一四三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20230316_505RJNJ17000142",
+   "amendment_promulgate_date": "2023-03-16",
+   "amendment_enforcement_date": "2023-03-16",
+   "amendment_law_id": "505RJNJ17000142",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則一七―〇―一四二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20221221_504RJNJ17000141",
+   "amendment_promulgate_date": "2022-12-21",
+   "amendment_enforcement_date": "2022-12-21",
+   "amendment_law_id": "504RJNJ17000141",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一七―〇―一四一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20221004_504RJNJ17000140",
+   "amendment_promulgate_date": "2022-10-04",
+   "amendment_enforcement_date": "2022-10-04",
+   "amendment_law_id": "504RJNJ17000140",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一七―〇―一四〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20220705_504RJNJ17000139",
+   "amendment_promulgate_date": "2022-07-05",
+   "amendment_enforcement_date": "2022-07-05",
+   "amendment_law_id": "504RJNJ17000139",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一七―〇―一三九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20211221_503RJNJ17000138",
+   "amendment_promulgate_date": "2021-12-21",
+   "amendment_enforcement_date": "2021-12-21",
+   "amendment_law_id": "503RJNJ17000138",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則一七―〇―一三八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20211102_503RJNJ17000137",
+   "amendment_promulgate_date": "2021-11-02",
+   "amendment_enforcement_date": "2021-11-02",
+   "amendment_law_id": "503RJNJ17000137",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則一七―〇―一三七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20210721_503RJNJ17000136",
+   "amendment_promulgate_date": "2021-07-21",
+   "amendment_enforcement_date": "2021-07-21",
+   "amendment_law_id": "503RJNJ17000136",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則一七―〇―一三六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20201215_502RJNJ17000135",
+   "amendment_promulgate_date": "2020-12-15",
+   "amendment_enforcement_date": "2020-12-15",
+   "amendment_law_id": "502RJNJ17000135",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則一七―〇―一三五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20201030_502RJNJ17000134",
+   "amendment_promulgate_date": "2020-10-30",
+   "amendment_enforcement_date": "2020-10-30",
+   "amendment_law_id": "502RJNJ17000134",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則一七―〇―一三四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20200908_502RJNJ17000133",
+   "amendment_promulgate_date": "2020-09-08",
+   "amendment_enforcement_date": "2020-09-08",
+   "amendment_law_id": "502RJNJ17000133",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則一七―〇―一三三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20200318_502RJNJ17000132",
+   "amendment_promulgate_date": "2020-03-18",
+   "amendment_enforcement_date": "2020-03-18",
+   "amendment_law_id": "502RJNJ17000132",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則一七―〇―一三二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20191218_501RJNJ17000131",
+   "amendment_promulgate_date": "2019-12-18",
+   "amendment_enforcement_date": "2019-12-18",
+   "amendment_law_id": "501RJNJ17000131",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和元年人事院規則一七―〇―一三一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20190925_501RJNJ17000130",
+   "amendment_promulgate_date": "2019-09-25",
+   "amendment_enforcement_date": "2019-09-25",
+   "amendment_law_id": "501RJNJ17000130",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和元年人事院規則一七―〇―一三〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20190710_501RJNJ17000129",
+   "amendment_promulgate_date": "2019-07-10",
+   "amendment_enforcement_date": "2019-07-10",
+   "amendment_law_id": "501RJNJ17000129",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "令和元年人事院規則一七―〇―一二九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20190326_431RJNJ17000128",
+   "amendment_promulgate_date": "2019-03-26",
+   "amendment_enforcement_date": "2019-03-26",
+   "amendment_law_id": "431RJNJ17000128",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十一年人事院規則一七―〇―一二八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20181219_430RJNJ17000127",
+   "amendment_promulgate_date": "2018-12-19",
+   "amendment_enforcement_date": "2018-12-19",
+   "amendment_law_id": "430RJNJ17000127",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則一七―〇―一二七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20181003_430RJNJ17000126",
+   "amendment_promulgate_date": "2018-10-03",
+   "amendment_enforcement_date": "2018-10-03",
+   "amendment_law_id": "430RJNJ17000126",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則一七―〇―一二六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20180704_430RJNJ17000125",
+   "amendment_promulgate_date": "2018-07-04",
+   "amendment_enforcement_date": "2018-07-04",
+   "amendment_law_id": "430RJNJ17000125",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則一七―〇―一二五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20171220_429RJNJ17000124",
+   "amendment_promulgate_date": "2017-12-20",
+   "amendment_enforcement_date": "2017-12-20",
+   "amendment_law_id": "429RJNJ17000124",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則一七―〇―一二四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20171012_429RJNJ17000123",
+   "amendment_promulgate_date": "2017-10-12",
+   "amendment_enforcement_date": "2017-10-12",
+   "amendment_law_id": "429RJNJ17000123",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則一七―〇―一二三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20170712_429RJNJ17000122",
+   "amendment_promulgate_date": "2017-07-12",
+   "amendment_enforcement_date": "2017-07-12",
+   "amendment_law_id": "429RJNJ17000122",
+   "amendment_law_title": "人事院規則一七―〇（管理職員等の範囲）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則一七―〇―一二二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341RJNJ17000000_20161216_428RJNJ17000121",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2016-12-16",
+   "amendment_law_id": "428RJNJ17000121",
+   "amendment_law_num": "平成二十八年人事院規則一七―〇―一二一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（管理職員等の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "法第百八条の二第三項ただし書に規定する管理職員等は、別表上欄に掲げる組織の区分に応じ、これに対応する同表下欄に掲げる職員とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1966-07-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-04T09:49:44+09:00"
+ }
+}

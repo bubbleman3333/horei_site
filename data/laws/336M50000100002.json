@@ -1,0 +1,144 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "336M50000100002",
+  "law_num": "昭和三十六年厚生省令第二号",
+  "law_num_era": "Showa",
+  "law_num_year": 36,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "1961-02-01"
+ },
+ "revision_info": {
+  "law_revision_id": "336M50000100002_20260501_507M60000100117",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "薬局等構造設備規則",
+  "law_title_kana": "やっきょくとうこうぞうせつびきそく",
+  "abbrev": "構造設備規則",
+  "category": "厚生",
+  "updated": "2026-05-01T00:57:52+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100117",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "336M50000100002_20270520_508M60000100110",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2027-05-20",
+   "amendment_law_id": "508M60000100110",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100002_20260501_507M60000100117",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507M60000100117",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100002_20251120_507M60000100103",
+   "amendment_promulgate_date": "2025-10-22",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507M60000100103",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100002_20210801_503M60000100015",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100015",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100002_20200901_502M60000100155",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000100155",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100002_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100002_20180131_429M60000100107",
+   "amendment_promulgate_date": "2017-10-05",
+   "amendment_enforcement_date": "2018-01-31",
+   "amendment_law_id": "429M60000100107",
+   "amendment_law_title": "薬局等構造設備規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100002_20170926_429M60000100097",
+   "amendment_promulgate_date": "2017-09-26",
+   "amendment_enforcement_date": "2017-09-26",
+   "amendment_law_id": "429M60000100097",
+   "amendment_law_title": "薬局等構造設備規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100002_20150401_427M60000100080",
+   "amendment_promulgate_date": "2015-04-01",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60000100080",
+   "amendment_law_num": "平成二十七年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　薬局、医薬品の販売業、医療機器の販売業、貸与業及び修理業並びに再生医療等製品の販売業",
+  "第二章　医薬品等の製造業"
+ ],
+ "article1": {
+  "caption": "（薬局の構造設備）",
+  "title": "第一条",
+  "paragraphs": [
+   "薬局の構造設備の基準は、次のとおりとする。",
+   "放射性医薬品（放射性医薬品の製造及び取扱規則（昭和三十六年厚生省令第四号）第一条第一号に規定する放射性医薬品をいう。以下同じ。）を取り扱う薬局は、前項に定めるもののほか、次に定めるところに適合する貯蔵室を有しなければならない。ただし、厚生労働大臣が定める数量又は濃度以下の放射性医薬品を取り扱う場合は、この限りでない。",
+   "放射性物質又は放射性物質によつて汚染された物の廃棄を行う薬局の廃棄設備の基準については、第九条第一項第四号の規定を準用する。この場合において、同号ニの（４）中「作業室、試験検査室」とあるのは「調剤室」と読み替えるものとする。",
+   "放射性医薬品を密封された状態でのみ取り扱う薬局において、放射性医薬品の容器又は被包の表面の線量率が厚生労働大臣が定める線量率を超える場合には、次に定めるところに適合する調剤室を有しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1961-02-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T00:57:52+09:00"
+ }
+}

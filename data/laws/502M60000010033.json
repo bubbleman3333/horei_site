@@ -1,0 +1,112 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "502M60000010033",
+  "law_num": "令和二年法務省令第三十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "033",
+  "promulgation_date": "2020-04-20"
+ },
+ "revision_info": {
+  "law_revision_id": "502M60000010033_20260302_508M60000010008",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "法務局における遺言書の保管等に関する省令",
+  "law_title_kana": "ほうむきょくにおけるいごんしょのほかんとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-03-18T09:50:23+09:00",
+  "amendment_promulgate_date": "2026-03-02",
+  "amendment_enforcement_date": "2026-03-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010008",
+  "amendment_law_title": "法務局における遺言書の保管等に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502M60000010033_20260302_508M60000010008",
+   "amendment_promulgate_date": "2026-03-02",
+   "amendment_enforcement_date": "2026-03-02",
+   "amendment_law_id": "508M60000010008",
+   "amendment_law_title": "法務局における遺言書の保管等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "502M60000010033_20250324_507M60000010002",
+   "amendment_promulgate_date": "2025-02-14",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507M60000010002",
+   "amendment_law_title": "不動産登記規則及び法務局における遺言書の保管等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000010033_20240422_506M60000010032",
+   "amendment_promulgate_date": "2024-04-22",
+   "amendment_enforcement_date": "2024-04-22",
+   "amendment_law_id": "506M60000010032",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000010033_20230512_505M60000010027",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2023-05-12",
+   "amendment_law_id": "505M60000010027",
+   "amendment_law_title": "法務局における遺言書の保管等に関する省令及び法務局及び地方法務局の支局及び出張所設置規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000010033_20210802_503M60000010038",
+   "amendment_promulgate_date": "2021-08-02",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503M60000010038",
+   "amendment_law_title": "法務局における遺言書の保管等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000010033_20200710_000000000000000",
+   "amendment_promulgate_date": "2020-04-20",
+   "amendment_enforcement_date": "2020-07-10",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　遺言書の保管の申請手続等",
+  "第三章　遺言者による遺言書の閲覧の請求手続等",
+  "第四章　関係相続人等による遺言書情報証明書の交付の請求手続等",
+  "第五章　補則"
+ ],
+ "article1": {
+  "caption": "（遺言書等の持出禁止）",
+  "title": "第一条",
+  "paragraphs": [
+   "法務局における遺言書の保管等に関する法律（以下「法」という。）第四条第一項の申請に係る遺言書、申請書等（法務局における遺言書の保管等に関する政令（以下「令」という。）第十条第一項に規定する申請書等をいう。以下同じ。）、撤回書等（同条第二項に規定する撤回書等をいう。以下同じ。）及び遺言書保管ファイルは、事変を避けるためにする場合を除き、遺言書保管所外に持ち出してはならない。ただし、遺言書、申請書等及び撤回書等については、裁判所の命令又は嘱託があったときは、この限りでない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-04-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-03-18T09:50:23+09:00"
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "402CO0000000238",
+  "law_num": "平成二年政令第二百三十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 2,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "238",
+  "promulgation_date": "1990-08-01"
+ },
+ "revision_info": {
+  "law_revision_id": "402CO0000000238_20260906_508CO0000000258",
+  "law_type": "CabinetOrder",
+  "law_title": "麻薬、麻薬原料植物、向精神薬、麻薬向精神薬原料等を指定する政令",
+  "law_title_kana": "まやくまやくげんりょうしょくぶつこうせいしんやくまやくこうせいしんやくげんりょうとうをしていするせいれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-09-06T00:01:20+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-09-06",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000258",
+  "amendment_law_title": "麻薬、麻薬原料植物、向精神薬、麻薬向精神薬原料等を指定する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百五十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "402CO0000000238_20260906_508CO0000000258",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-09-06",
+   "amendment_law_id": "508CO0000000258",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬、麻薬向精神薬原料等を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20251003_507CO0000000312",
+   "amendment_promulgate_date": "2025-09-03",
+   "amendment_enforcement_date": "2025-10-03",
+   "amendment_law_id": "507CO0000000312",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬、麻薬向精神薬原料等を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20241220_506CO0000000351",
+   "amendment_promulgate_date": "2024-11-20",
+   "amendment_enforcement_date": "2024-12-20",
+   "amendment_law_id": "506CO0000000351",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬、麻薬向精神薬原料等を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20241212_506CO0000000283",
+   "amendment_promulgate_date": "2024-09-11",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "506CO0000000283",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20240830_506CO0000000257",
+   "amendment_promulgate_date": "2024-07-31",
+   "amendment_enforcement_date": "2024-08-30",
+   "amendment_law_id": "506CO0000000257",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令及び麻薬及び向精神薬取締法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20230929_505CO0000000267",
+   "amendment_promulgate_date": "2023-08-30",
+   "amendment_enforcement_date": "2023-09-29",
+   "amendment_law_id": "505CO0000000267",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20220826_504CO0000000255",
+   "amendment_promulgate_date": "2022-07-27",
+   "amendment_enforcement_date": "2022-08-26",
+   "amendment_law_id": "504CO0000000255",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令及び麻薬及び向精神薬取締法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20211008_503CO0000000250",
+   "amendment_promulgate_date": "2021-09-08",
+   "amendment_enforcement_date": "2021-10-08",
+   "amendment_law_id": "503CO0000000250",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20200807_502CO0000000220",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-08-07",
+   "amendment_law_id": "502CO0000000220",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20200117_501CO0000000191",
+   "amendment_promulgate_date": "2019-12-18",
+   "amendment_enforcement_date": "2020-01-17",
+   "amendment_law_id": "501CO0000000191",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20190728_501CO0000000047",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-28",
+   "amendment_law_id": "501CO0000000047",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令及び麻薬及び向精神薬取締法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20180720_430CO0000000187",
+   "amendment_promulgate_date": "2018-06-20",
+   "amendment_enforcement_date": "2018-07-20",
+   "amendment_law_id": "430CO0000000187",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20170825_429CO0000000204",
+   "amendment_promulgate_date": "2017-07-26",
+   "amendment_enforcement_date": "2017-08-25",
+   "amendment_law_id": "429CO0000000204",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令及び麻薬及び向精神薬取締法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000238_20161014_428CO0000000306",
+   "amendment_promulgate_date": "2016-09-14",
+   "amendment_enforcement_date": "2016-10-14",
+   "amendment_law_id": "428CO0000000306",
+   "amendment_law_title": "麻薬、麻薬原料植物、向精神薬及び麻薬向精神薬原料を指定する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（麻薬）",
+  "title": "第一条",
+  "paragraphs": [
+   "麻薬及び向精神薬取締法（以下「法」という。）別表第一第七十七号の規定に基づき、次に掲げる物を麻薬に指定する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1990-08-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-06T00:01:20+09:00"
+ }
+}

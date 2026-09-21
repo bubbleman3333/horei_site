@@ -1,0 +1,106 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "329AC0000000205",
+  "law_num": "昭和二十九年法律第二百五号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "Act",
+  "law_num_num": "205",
+  "promulgation_date": "1954-07-01"
+ },
+ "revision_info": {
+  "law_revision_id": "329AC0000000205_20260910_508AC0000000011",
+  "law_type": "Act",
+  "law_title": "日本中央競馬会法",
+  "law_title_kana": "にほんちゅうおうけいばかいほう",
+  "abbrev": "ＪＲＡ法",
+  "category": "地方財政",
+  "updated": "2026-09-10T00:01:12+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-09-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000011",
+  "amendment_law_title": "日本中央競馬会法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329AC0000000205_20260910_508AC0000000011",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-09-10",
+   "amendment_law_id": "508AC0000000011",
+   "amendment_law_title": "日本中央競馬会法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000205_20260331_508AC0000000011",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508AC0000000011",
+   "amendment_law_title": "日本中央競馬会法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000205_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000205_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000205_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　管理",
+  "第三章　業務",
+  "第四章　会計",
+  "第五章　監督",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、競馬の健全な発展を図つて馬の改良増殖その他畜産の振興に寄与するため、競馬法（昭和二十三年法律第百五十八号）により競馬を行う団体として設立される日本中央競馬会の組織及び運営について定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-07-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-09-10T00:01:12+09:00"
+ }
+}

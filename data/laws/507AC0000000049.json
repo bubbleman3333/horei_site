@@ -1,0 +1,64 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "507AC0000000049",
+  "law_num": "令和七年法律第四十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "Act",
+  "law_num_num": "049",
+  "promulgation_date": "2025-05-30"
+ },
+ "revision_info": {
+  "law_revision_id": "507AC0000000049_20260115_000000000000000",
+  "law_type": "Act",
+  "law_title": "民事裁判情報の活用の促進に関する法律",
+  "law_title_kana": "みんじさいばんじょうほうのかつようのそくしんにかんするほうりつ",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-01-15T00:03:44+09:00",
+  "amendment_promulgate_date": "2025-05-30",
+  "amendment_enforcement_date": "2026-01-15",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507AC0000000049_20270529_000000000000000",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2027-05-29",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-29",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507AC0000000049_20260115_000000000000000",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2026-01-15",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、デジタル社会の進展に伴い民事裁判情報に対する需要が多様化していることに鑑み、民事裁判情報の活用の促進に関し、国の責務、法務大臣による基本方針の策定、民事裁判情報を加工して第三者に提供する業務等を行う法人の指定等について定めることにより、民事裁判情報の適正かつ効果的な活用のための基盤の整備を図り、もって創造的かつ活力ある社会の発展に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-05-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-15T00:03:44+09:00"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000272",
+  "law_num": "令和八年政令第二百七十二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "272",
+  "promulgation_date": "2026-09-04"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000272_20261001_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う経過措置に関する政令",
+  "law_title_kana": "しゃかいけいざいのへんかをふまえたねんきんせいどのきのうきょうかのためのこくみんねんきんほうとうのいちぶをかいせいするとうのほうりつのいちぶのしこうにともなうけいかそちにかんするせいれい",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-09-18T10:15:35+09:00",
+  "amendment_promulgate_date": "2026-09-04",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000272_20261001_000000000000000",
+   "amendment_promulgate_date": "2026-09-04",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（令和七年改正法附則第二十二条第一項第四号の政令で定める適用事業所等）",
+  "title": "第一条",
+  "paragraphs": [
+   "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律（以下「令和七年改正法」という。）附則第二十二条第一項第四号に規定する政令で定める適用事業所は次の各号に掲げる事業所（厚生年金保険法（昭和二十九年法律第百十五号）第六条第一項に規定する事業所をいう。以下この条、第四条、第六条及び第七条において同じ。）とし、令和七年改正法附則第二十二条第一項第四号に規定する政令で定める日はこれらの事業所の区分に応じ当該各号に定める日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-09-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-18T10:15:35+09:00"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000002067",
+  "law_num": "令和七年内閣府令第六十七号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "067",
+  "promulgation_date": "2025-07-02"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000002067_20260525_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "企業価値担保権に関する信託業務に関する内閣府令",
+  "law_title_kana": "きぎょうかちたんぽけんにかんするしんたくぎょうむにかんするないかくふれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-25T02:16:40+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000002067_20260525_000000000000000",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　業務",
+  "第三章　事業報告書",
+  "第四章　監督",
+  "第五章　指定紛争解決機関",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において、「会社」とは、事業性融資の推進等に関する法律（以下「法」という。）第二条第二項に規定する会社をいう。",
+   "この府令（第十一条を除く。）において、「企業価値担保権信託会社」とは、法第六条第二項に規定する企業価値担保権信託会社をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-07-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T02:16:40+09:00"
+ }
+}

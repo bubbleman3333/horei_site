@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "406M50000240001",
+  "law_num": "平成六年大蔵省・農林水産省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1994-03-25"
+ },
+ "revision_info": {
+  "law_revision_id": "406M50000240001_20260625_508M60000202007",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農水産業協同組合の優先出資に関する命令",
+  "law_title_kana": "のうすいさんぎょうきょうどうくみあいのゆうせんしゅっしにかんするめいれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-07-08T10:44:03+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000202007",
+  "amendment_law_title": "農水産業協同組合の金融機能の強化のための特別措置に関する命令等の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・農林水産省令第七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406M50000240001_20260625_508M60000202007",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508M60000202007",
+   "amendment_law_title": "農水産業協同組合の金融機能の強化のための特別措置に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・農林水産省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406M50000240001_20260508_508M60000202004",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-08",
+   "amendment_law_id": "508M60000202004",
+   "amendment_law_title": "農林中央金庫法施行規則及び農水産業協同組合の優先出資に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000240001_20240401_506M60000202003",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000202003",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・農林水産省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000240001_20240401_506M60000202002",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000202002",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・農林水産省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000240001_20220901_504M60000202012",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504M60000202012",
+   "amendment_law_title": "農水産業協同組合の優先出資に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・農林水産省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000240001_20150501_427M60000202006",
+   "amendment_promulgate_date": "2015-04-28",
+   "amendment_enforcement_date": "2015-05-01",
+   "amendment_law_id": "427M60000202006",
+   "amendment_law_num": "平成二十七年内閣府・農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令において「農水産業協同組合」とは、次に掲げる者をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-03-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T10:44:03+09:00"
+ }
+}

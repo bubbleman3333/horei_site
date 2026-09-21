@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000276",
+  "law_num": "平成十二年政令第二百七十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "276",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000276_20260401_508CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "関税・外国為替等審議会令",
+  "law_title_kana": "かんぜいがいこくかわせとうしんぎかいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-17T10:49:42+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000085",
+  "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000276_20260401_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000276_20240701_506CO0000000235",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000235",
+   "amendment_law_title": "経済産業省組織令及び産業構造審議会令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000276_20181230_429CO0000000010",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "429CO0000000010",
+   "amendment_law_title": "経済連携協定に基づく報復関税に関する政令",
+   "amendment_law_num": "平成二十九年政令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000276_20171001_429CO0000000195",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429CO0000000195",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000276_20170705_429CO0000000179",
+   "amendment_promulgate_date": "2017-07-05",
+   "amendment_enforcement_date": "2017-07-05",
+   "amendment_law_id": "429CO0000000179",
+   "amendment_law_title": "経済産業省組織令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000276_20140401_426CO0000000152",
+   "amendment_promulgate_date": "2014-03-31",
+   "amendment_enforcement_date": "2014-04-01",
+   "amendment_law_id": "426CO0000000152",
+   "amendment_law_num": "平成二十六年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（所掌事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "関税・外国為替等審議会（以下「審議会」という。）は、財務省設置法第八条第一項に規定するもののほか、相殺関税に関する政令（平成六年政令第四百十五号）第十六条、不当廉売関税等に関する政令（平成六年政令第四百十六号）第二十条、緊急関税等に関する政令（平成六年政令第四百十七号）第十二条、報復関税等に関する政令（平成六年政令第四百十八号）第二条、経済連携協定に基づく関税の緊急措置に関する政令（平成十四年政令第百十六号）第六条及び経済連携協定に基づく報復関税に関する政令（平成二十九年政令第十号）第二条の規定によりその権限に属させられた事項（第六条第二項第二号において「相殺関税等に関する事項」という。）を処理する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-17T10:49:42+09:00"
+ }
+}

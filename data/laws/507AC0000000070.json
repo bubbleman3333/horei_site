@@ -1,0 +1,71 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "507AC0000000070",
+  "law_num": "令和七年法律第七十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "Act",
+  "law_num_num": "070",
+  "promulgation_date": "2025-06-18"
+ },
+ "revision_info": {
+  "law_revision_id": "507AC0000000070_20250618_000000000000000",
+  "law_type": "Act",
+  "law_title": "日本学術会議法",
+  "law_title_kana": "にほんがくじゅつかいぎほう",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2025-06-18T10:33:43+09:00",
+  "amendment_promulgate_date": "2025-06-18",
+  "amendment_enforcement_date": "2025-06-18",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507AC0000000070_20261001_000000000000000",
+   "amendment_promulgate_date": "2025-06-18",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507AC0000000070_20250618_000000000000000",
+   "amendment_promulgate_date": "2025-06-18",
+   "amendment_enforcement_date": "2025-06-18",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　機関",
+  "第三章　業務",
+  "第四章　中期的な活動計画等",
+  "第五章　財務及び会計",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本学術会議（以下「会議」という。）は、我が国の科学者の内外に対する代表機関として、学術に関する重要事項に係る審議、大学、研究機関、学会その他の学術に関係する者の間における連携の確保及び強化、学術に関する研究を円滑に進めるための社会環境の整備、学術に関する外国の団体及び国際団体との交流等を行うことにより、学術の向上発達を図るとともに、学術に関する知見を活用して社会の課題の解決に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-06-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-06-18T10:33:43+09:00"
+ }
+}

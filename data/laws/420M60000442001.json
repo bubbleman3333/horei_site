@@ -1,0 +1,460 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60000442001",
+  "law_num": "平成二十年内閣府・財務省・経済産業省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2008-02-13"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60000442001_20260615_508M60000442003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則",
+  "law_title_kana": "けいざいさんぎょうしょうざいむしょうないかくふかんけいかぶしきかいしゃしょうこうくみあいちゅうおうきんこほうしこうきそく",
+  "abbrev": "経済産業省・財務省・内閣府関係株式会社商工中金法施行規則",
+  "category": "金融・保険",
+  "updated": "2026-07-10T09:32:19+09:00",
+  "amendment_promulgate_date": "2026-06-12",
+  "amendment_enforcement_date": "2026-06-15",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000442003",
+  "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・財務省・経済産業省令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60000442001_20270401_508M60000442003",
+   "amendment_promulgate_date": "2026-06-12",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000442003",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20261211_508M60000442004",
+   "amendment_promulgate_date": "2026-07-09",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508M60000442004",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省・経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20260615_508M60000442003",
+   "amendment_promulgate_date": "2026-06-12",
+   "amendment_enforcement_date": "2026-06-15",
+   "amendment_law_id": "508M60000442003",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20260601_508M60000442002",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000442002",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20260331_508M60000442001",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20260101_507M60000442005",
+   "amendment_promulgate_date": "2025-12-15",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000442005",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・財務省・経済産業省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20250613_507M60000442004",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2025-06-13",
+   "amendment_law_id": "507M60000442004",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・財務省・経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20250401_507M60000442001",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20250331_507M60000442002",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507M60000442002",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・財務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20241101_506M60000442006",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000442006",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・財務省・経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20240709_506M60000442005",
+   "amendment_promulgate_date": "2024-07-08",
+   "amendment_enforcement_date": "2024-07-09",
+   "amendment_law_id": "506M60000442005",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・財務省・経済産業省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20240401_506M60000442004",
+   "amendment_promulgate_date": "2024-03-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000442004",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・財務省・経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20240401_506M60000442003",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000442003",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・財務省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20240401_506M60000442002",
+   "amendment_promulgate_date": "2024-03-22",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000442002",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・財務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20240201_506M60000442001",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20231227_505M60000442003",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000442003",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・財務省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20230601_505M60000442002",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000442002",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・財務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20230331_505M60000442001",
+   "amendment_promulgate_date": "2023-03-29",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20220401_504M60000442002",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000442002",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・財務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20220401_504M60000442001",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20220331_502M60000442001",
+   "amendment_promulgate_date": "2020-01-24",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "502M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20211101_503M60000442004",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000442004",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・財務省・経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20210802_503M60000442005",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503M60000442005",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・財務省・経済産業省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20210331_503M60000442003",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_law_id": "503M60000442003",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・財務省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20210301_503M60000442002",
+   "amendment_promulgate_date": "2021-03-01",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503M60000442002",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・財務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20210215_503M60000442001",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20201228_502M60000442010",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000442010",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省・経済産業省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20201223_502M60000442009",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000442009",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省・経済産業省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20201201_502M60000442008",
+   "amendment_promulgate_date": "2020-12-01",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000442008",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省・経済産業省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20201001_502M60000442006",
+   "amendment_promulgate_date": "2020-09-16",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000442006",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省・経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20200522_502M60000442004",
+   "amendment_promulgate_date": "2020-05-22",
+   "amendment_enforcement_date": "2020-05-22",
+   "amendment_law_id": "502M60000442004",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省・経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20200501_502M60000442003",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502M60000442003",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20200331_502M60000442002",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-31",
+   "amendment_law_id": "502M60000442002",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20191214_501M60000442005",
+   "amendment_promulgate_date": "2019-11-21",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60000442005",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・財務省・経済産業省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20191212_501M60000442006",
+   "amendment_promulgate_date": "2019-12-12",
+   "amendment_enforcement_date": "2019-12-12",
+   "amendment_law_id": "501M60000442006",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・財務省・経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20190913_501M60000442004",
+   "amendment_promulgate_date": "2019-09-13",
+   "amendment_enforcement_date": "2019-09-13",
+   "amendment_law_id": "501M60000442004",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・財務省・経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20190716_501M60000442003",
+   "amendment_promulgate_date": "2019-07-12",
+   "amendment_enforcement_date": "2019-07-16",
+   "amendment_law_id": "501M60000442003",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・財務省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20190701_501M60000442001",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20190331_431M60000442001",
+   "amendment_promulgate_date": "2019-03-15",
+   "amendment_enforcement_date": "2019-03-31",
+   "amendment_law_id": "431M60000442001",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "平成三十一年内閣府・財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000442001_20180816_430M60000442004",
+   "amendment_promulgate_date": "2018-08-15",
+   "amendment_enforcement_date": "2018-08-16",
+   "amendment_law_id": "430M60000442004",
+   "amendment_law_title": "経済産業省・財務省・内閣府関係株式会社商工組合中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・財務省・経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　業務",
+  "第三章　子会社等",
+  "第四章　計算",
+  "第五章　監督",
+  "第六章　商工組合中央金庫電子決済等代行業",
+  "第七章　指定紛争解決機関",
+  "第八章　雑則"
+ ],
+ "article1": {
+  "caption": "（営業所等の定義等）",
+  "title": "第一条",
+  "paragraphs": [
+   "株式会社商工組合中央金庫法（以下「法」という。）第二条第一項及び第二項に規定する営業所とは、株式会社商工組合中央金庫（以下「商工組合中央金庫」という。）が法第二十一条第一項各号に掲げる業務の全部又は一部を営む施設又は設備（携帯型の設備及び商工組合中央金庫以外の者が占有し又は管理する設備を除く。以下同じ。）をいう。",
+   "法第二条第一項に規定する本店とは、商工組合中央金庫の業務を統括する施設であって、本店として登記がなされているものをいう。",
+   "法第二条第一項及び第二項に規定する支店とは、営業所のうち本店に従属し、当該営業所の名において、かつ、その計算において、商工組合中央金庫の業務を営む施設をいう。",
+   "法第二条第一項及び第二項に規定する種類の変更とは、商工組合中央金庫の本店（第二項に規定する本店をいう。以下同じ。）及び支店（前項に規定する支店をいう。以下この項において同じ。）以外の営業所（以下「出張所」という。）から支店へ並びに支店から出張所への変更をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-02-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-10T09:32:19+09:00"
+ }
+}

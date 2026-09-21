@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "353AC0000000030",
+  "law_num": "昭和五十三年法律第三十号",
+  "law_num_era": "Showa",
+  "law_num_year": 53,
+  "law_num_type": "Act",
+  "law_num_num": "030",
+  "promulgation_date": "1978-04-26"
+ },
+ "revision_info": {
+  "law_revision_id": "353AC0000000030_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "特許協力条約に基づく国際出願等に関する法律",
+  "law_title_kana": "とっきょきょうりょくじょうやくにもとづくこくさいしゅつがんとうにかんするほうりつ",
+  "abbrev": "国際出願法",
+  "category": "産業通則",
+  "updated": "2026-07-02T13:31:05+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "353AC0000000030_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000030_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000030_20220401_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000030_20210521_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-05-21",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000030_20190401_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000030_20180530_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-05-30",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000030_20160401_427AC0000000055",
+   "amendment_promulgate_date": "2015-07-10",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427AC0000000055",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "平成二十七年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　国際出願",
+  "第三章　国際調査",
+  "第四章　国際予備審査",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、千九百七十年六月十九日にワシントンで作成された特許協力条約（以下「条約」という。）に基づく国際出願、国際調査及び国際予備審査に関し、特許庁と出願人との間における手続を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1978-04-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-02T13:31:05+09:00"
+ }
+}

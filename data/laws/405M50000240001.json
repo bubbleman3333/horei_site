@@ -1,0 +1,452 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "405M50000240001",
+  "law_num": "平成五年大蔵省・農林水産省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1993-03-03"
+ },
+ "revision_info": {
+  "law_revision_id": "405M50000240001_20260615_508M60000202006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令",
+  "law_title_kana": "のうぎょうきょうどうくみあいおよびのうぎょうきょうどうくみあいれんごうかいのしんようじぎょうにかんするめいれい",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-06-29T10:42:19+09:00",
+  "amendment_promulgate_date": "2026-06-12",
+  "amendment_enforcement_date": "2026-06-15",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000202006",
+  "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・農林水産省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "405M50000240001_20270401_508M60000202006",
+   "amendment_promulgate_date": "2026-06-12",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000202006",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20261211_508M60000202009",
+   "amendment_promulgate_date": "2026-07-09",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508M60000202009",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・農林水産省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20260615_508M60000202006",
+   "amendment_promulgate_date": "2026-06-12",
+   "amendment_enforcement_date": "2026-06-15",
+   "amendment_law_id": "508M60000202006",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20260601_508M60000202005",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000202005",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・農林水産省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20260101_507M60000202008",
+   "amendment_promulgate_date": "2025-12-15",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000202008",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・農林水産省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20250829_507M60000202006",
+   "amendment_promulgate_date": "2025-08-29",
+   "amendment_enforcement_date": "2025-08-29",
+   "amendment_law_id": "507M60000202006",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20250601_507M60000202004",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000202004",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20250401_507M60000202001",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000202001",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20241130_506M60000202009",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-11-30",
+   "amendment_law_id": "506M60000202009",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・農林水産省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20241101_506M60000202008",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000202008",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・農林水産省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20240709_506M60000202006",
+   "amendment_promulgate_date": "2024-07-08",
+   "amendment_enforcement_date": "2024-07-09",
+   "amendment_law_id": "506M60000202006",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20240401_506M60000202003",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000202003",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・農林水産省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20240401_506M60000202002",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000202002",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・農林水産省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20240201_506M60000202001",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000202001",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20231228_505M60000202006",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000202006",
+   "amendment_law_title": "農業信用保証保険法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20230601_505M60000202003",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000202003",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・農林水産省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20221101_504M60000202016",
+   "amendment_promulgate_date": "2022-11-01",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000202016",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・農林水産省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20220401_504M60000202004",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000202004",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20220401_504M60000202003",
+   "amendment_promulgate_date": "2022-03-22",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000202003",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・農林水産省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20211122_503M60000202010",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000202010",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20211101_503M60000202004",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000202004",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20210901_503M60000202009",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000202009",
+   "amendment_law_title": "農業信用保証保険法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20210802_503M60000202007",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000202007",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20210301_503M60000202002",
+   "amendment_promulgate_date": "2021-02-26",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503M60000202002",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20210215_503M60000202001",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503M60000202001",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20201223_502M60000202017",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000202017",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20201201_502M60000202016",
+   "amendment_promulgate_date": "2020-12-01",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000202016",
+   "amendment_law_title": "中小漁業融資保証法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20201001_502M60000202013",
+   "amendment_promulgate_date": "2020-09-28",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000202013",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20200930_502M60000202014",
+   "amendment_promulgate_date": "2020-09-30",
+   "amendment_enforcement_date": "2020-09-30",
+   "amendment_law_id": "502M60000202014",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20200619_502M60000202009",
+   "amendment_promulgate_date": "2020-06-19",
+   "amendment_enforcement_date": "2020-06-19",
+   "amendment_law_id": "502M60000202009",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20200522_502M60000202008",
+   "amendment_promulgate_date": "2020-05-22",
+   "amendment_enforcement_date": "2020-05-22",
+   "amendment_law_id": "502M60000202008",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20200501_502M60000202007",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502M60000202007",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20200401_502M60000202005",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000202005",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令及び農林中央金庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20200401_501M60000202007",
+   "amendment_promulgate_date": "2019-11-21",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000202007",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・農林水産省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20191214_501M60000202008",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60000202008",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・農林水産省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20191212_501M60000202009",
+   "amendment_promulgate_date": "2019-12-12",
+   "amendment_enforcement_date": "2019-12-12",
+   "amendment_law_id": "501M60000202009",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・農林水産省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20190716_501M60000202005",
+   "amendment_promulgate_date": "2019-07-12",
+   "amendment_enforcement_date": "2019-07-16",
+   "amendment_law_id": "501M60000202005",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・農林水産省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20190701_501M60000202002",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000202002",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・農林水産省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20180816_430M60000202005",
+   "amendment_promulgate_date": "2018-08-15",
+   "amendment_enforcement_date": "2018-08-16",
+   "amendment_law_id": "430M60000202005",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・農林水産省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000240001_20180709_430M60000202003",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2018-07-09",
+   "amendment_law_id": "430M60000202003",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・農林水産省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（金銭債権の証書の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "農業協同組合法（以下「法」という。）第十条第六項第六号の主務省令で定める証書をもって表示されるものは、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1993-03-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-29T10:42:19+09:00"
+ }
+}

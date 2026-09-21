@@ -1,0 +1,184 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "354M50002000018",
+  "law_num": "昭和五十四年労働省令第十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 54,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "018",
+  "promulgation_date": "1979-04-25"
+ },
+ "revision_info": {
+  "law_revision_id": "354M50002000018_20260901_508M60000100116",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "粉じん障害防止規則",
+  "law_title_kana": "ふんじんしょうがいぼうしきそく",
+  "abbrev": "粉じん則",
+  "category": "労働",
+  "updated": "2026-09-01T00:24:13+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100116",
+  "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "354M50002000018_20270401_508M60000100029",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000100029",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20261001_508M60000100116",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100116",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20260901_508M60000100116",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508M60000100116",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20260401_508M60000100003",
+   "amendment_promulgate_date": "2026-01-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100003",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20240401_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20231001_505M60000100029",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000100029",
+   "amendment_law_title": "労働安全衛生法施行令及び労働安全衛生法関係手数料令の一部を改正する政令の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20230401_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20230401_504M60000100082",
+   "amendment_promulgate_date": "2022-04-15",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000100082",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20220531_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2022-05-31",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20210401_502M60000100128",
+   "amendment_promulgate_date": "2020-06-15",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000100128",
+   "amendment_law_title": "粉じん障害防止規則及び労働安全衛生規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20170601_429M60000100058",
+   "amendment_promulgate_date": "2017-04-11",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429M60000100058",
+   "amendment_law_num": "平成二十九年厚生労働省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50002000018_20151001_427M60000100131",
+   "amendment_promulgate_date": "2015-08-10",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "427M60000100131",
+   "amendment_law_num": "平成二十七年厚生労働省令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　設備等の基準",
+  "第三章　設備の性能等",
+  "第四章　管理",
+  "第五章　作業環境測定",
+  "第六章　保護具"
+ ],
+ "article1": {
+  "caption": "（事業者の責務）",
+  "title": "第一条",
+  "paragraphs": [
+   "事業者は、粉じんにさらされる労働者の健康障害を防止するため、設備、作業工程又は作業方法の改善、作業環境の整備等必要な措置を講ずるよう努めなければならない。",
+   "事業者は、じん肺法（昭和三十五年法律第三十号）及びこれに基づく命令並びに労働安全衛生法（以下「法」という。）に基づく他の命令の規定によるほか、粉じんにさらされる労働者の健康障害を防止するため、健康診断の実施、就業場所の変更、作業の転換、作業時間の短縮その他健康管理のための適切な措置を講ずるよう努めなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1979-04-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-01T00:24:13+09:00"
+ }
+}

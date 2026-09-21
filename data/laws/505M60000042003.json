@@ -1,0 +1,80 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000042003",
+  "law_num": "令和五年内閣府・財務省令第三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2023-05-26"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000042003_20260601_508M60000042002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "為替取引分析業者に関する命令",
+  "law_title_kana": "かわせとりひきぶんせきぎょうしゃにかんするめいれい",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-06-08T10:22:13+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000042002",
+  "amendment_law_title": "為替取引分析業者に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・財務省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000042003_20260601_508M60000042002",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000042002",
+   "amendment_law_title": "為替取引分析業者に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000042003_20230601_000000000000000",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000042003_20230526_000000000000000",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　業務",
+  "第三章　監督",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令において「資金移動業者」、「電子決済手段等取引業者」、「特定信託会社」又は「銀行等」とは、それぞれ資金決済に関する法律（以下「法」という。）第二条に規定する資金移動業者、電子決済手段等取引業者、特定信託会社又は銀行等をいう。",
+   "この命令（第八条を除く。）において「為替取引分析業」とは、法第二条第二十一項に規定する為替取引分析業（同項第一号に掲げる行為を業として行うものに限る。）をいう。",
+   "この命令（第五条第七号、第十一条、第十二条第七号、第二十条、第二十二条及び第二十五条第四号を除く。）において「為替取引分析業者」とは、法第二条第二十二項に規定する為替取引分析業者（同条第二十一項第一号に掲げる行為を業として行う者に限る。）をいう。",
+   "この命令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-05-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-08T10:22:13+09:00"
+ }
+}

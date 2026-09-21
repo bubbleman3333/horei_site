@@ -1,0 +1,100 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "323M40000100006",
+  "law_num": "昭和二十三年厚生省令第六号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "1948-02-24"
+ },
+ "revision_info": {
+  "law_revision_id": "323M40000100006_20260401_508M60000100033",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "人口動態調査令施行細則",
+  "law_title_kana": "じんこうどうたいちょうされいせこうさいそく",
+  "abbrev": null,
+  "category": "統計",
+  "updated": "2026-04-10T09:50:23+09:00",
+  "amendment_promulgate_date": "2026-03-25",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100033",
+  "amendment_law_title": "人口動態調査令施行細則の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第三十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323M40000100006_20260401_508M60000100033",
+   "amendment_promulgate_date": "2026-03-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100033",
+   "amendment_law_title": "人口動態調査令施行細則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100006_20190101_430M60000100120",
+   "amendment_promulgate_date": "2018-10-01",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430M60000100120",
+   "amendment_law_title": "人口動態調査令施行細則の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100006_20180401_430M60000100030",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000100030",
+   "amendment_law_title": "介護保険法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "平成三十年厚生労働省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100006_20180101_429M60000100105",
+   "amendment_promulgate_date": "2017-10-02",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000100105",
+   "amendment_law_title": "人口動態調査令施行細則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100006_20160401_427M60000100168",
+   "amendment_promulgate_date": "2015-12-09",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427M60000100168",
+   "amendment_law_num": "平成二十七年厚生労働省令第百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "市町村長は、出生、死亡、死産、婚姻及び離婚の届出（死亡及び死産については官庁又は公署の報告を含む。以下同じ。）を受けたときは（他の市町村長が受理した届書を戸籍簿記載のため送付して来た場合を除く。）、これに基き、すみやかに人口動態調査票を作成しなければならない。",
+   "前項の届出には、航海中の出生、死亡及び死産について航海日誌の謄本による場合及び外国にある日本人がその国の方式に従つて作らせた届出事件に関する証書の謄本による場合を含む。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-02-24",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-10T09:50:23+09:00"
+ }
+}

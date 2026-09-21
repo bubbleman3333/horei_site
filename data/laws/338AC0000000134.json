@@ -1,0 +1,122 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "338AC0000000134",
+  "law_num": "昭和三十八年法律第百三十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 38,
+  "law_num_type": "Act",
+  "law_num_num": "134",
+  "promulgation_date": "1963-07-11"
+ },
+ "revision_info": {
+  "law_revision_id": "338AC0000000134_20260525_506AC0000000052",
+  "law_type": "Act",
+  "law_title": "新住宅市街地開発法",
+  "law_title_kana": "しんじゅうたくしがいちかいはつほう",
+  "abbrev": null,
+  "category": "建築・住宅",
+  "updated": "2026-05-25T00:26:12+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000052",
+  "amendment_law_title": "事業性融資の推進等に関する法律",
+  "amendment_law_num": "令和六年法律第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "338AC0000000134_20260525_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000134_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000134_20240614_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-14",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000134_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000134_20180401_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000134_20170512_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2017-05-12",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000134_20060830_418AC0000000046",
+   "amendment_promulgate_date": "2006-05-31",
+   "amendment_enforcement_date": "2006-08-30",
+   "amendment_law_id": "418AC0000000046",
+   "amendment_law_num": "平成十八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　新住宅市街地開発事業",
+  "第三章　雑則",
+  "第四章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、住宅に対する需要が著しく多い市街地の周辺の地域における住宅市街地の開発に関し、新住宅市街地開発事業の施行その他必要な事項について規定することにより、健全な住宅市街地の開発及び住宅に困窮する国民のための居住環境の良好な相当規模の住宅地の供給を図り、もつて国民生活の安定に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1963-07-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T00:26:12+09:00"
+ }
+}

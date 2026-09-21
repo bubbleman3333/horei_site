@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60001F40001",
+  "law_num": "令和六年財務省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2024-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60001F40001_20260401_508M60001F40001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "資源の有効な利用の促進に関する法律の規定に基づく立入検査の際に携帯する職員の身分を示す証明書の様式の特例に関する省令",
+  "law_title_kana": "しげんのゆうこうなりようのそくしんにかんするほうりつのきていにもとづくたちいりけんさのさいにけいたいするしょくいんのみぶんをしめすしょうめいしょのようしきのとくれいにかんするしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-01T16:19:52+09:00",
+  "amendment_promulgate_date": "2026-03-17",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001F40001",
+  "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う財務省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省関係省令の整理に関する省令",
+  "amendment_law_num": "令和八年財務省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60001F40001_20260401_508M60001F40001",
+   "amendment_promulgate_date": "2026-03-17",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60001F40001",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う財務省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年財務省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60001F40001_20240401_000000000000000",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "資源の有効な利用の促進に関する法律第六十三条第一項から第七項までの規定による立入検査の際に職員が携帯するその身分を示す証明書は、資源の有効な利用の促進に関する法律の規定に基づく立入検査をする職員の携帯する身分を示す証明書の様式を定める省令（平成十三年財務省、厚生労働省、農林水産省、経済産業省、国土交通省、環境省令第一号）の規定にかかわらず、別記様式によることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T16:19:52+09:00"
+ }
+}

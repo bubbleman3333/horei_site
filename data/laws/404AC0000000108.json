@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "404AC0000000108",
+  "law_num": "平成四年法律第百八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 4,
+  "law_num_type": "Act",
+  "law_num_num": "108",
+  "promulgation_date": "1992-12-16"
+ },
+ "revision_info": {
+  "law_revision_id": "404AC0000000108_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "特定有害廃棄物等の輸出入等の規制に関する法律",
+  "law_title_kana": "とくていゆうがいはいきぶつとうのゆしゅつにゅうとうのきせいにかんするほうりつ",
+  "abbrev": "バーゼル法",
+  "category": "厚生",
+  "updated": "2026-07-01T00:38:47+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "404AC0000000108_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000108_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000108_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000108_20181001_429AC0000000062",
+   "amendment_promulgate_date": "2017-06-16",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "429AC0000000062",
+   "amendment_law_title": "特定有害廃棄物等の輸出入等の規制に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000108_20170616_429AC0000000062",
+   "amendment_promulgate_date": "2017-06-16",
+   "amendment_enforcement_date": "2017-06-16",
+   "amendment_law_id": "429AC0000000062",
+   "amendment_law_title": "特定有害廃棄物等の輸出入等の規制に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000108_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、有害廃棄物の国境を越える移動及びその処分の規制に関するバーゼル条約（以下「条約」という。）等の的確かつ円滑な実施を確保するため、特定有害廃棄物等の輸出、輸入、運搬及び処分の規制に関する措置を講じ、もって人の健康の保護及び生活環境の保全に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1992-12-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:38:47+09:00"
+ }
+}

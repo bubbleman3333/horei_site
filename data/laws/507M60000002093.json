@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000002093",
+  "law_num": "令和七年内閣府令第九十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "093",
+  "promulgation_date": "2025-11-04"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000002093_20251104_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "子ども・子育て支援納付金の算定等に関する内閣府令",
+  "law_title_kana": "こども・こそだてしえんのうふきんのさんていとうにかんするないかくふれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2025-11-19T07:41:51+09:00",
+  "amendment_promulgate_date": "2025-11-04",
+  "amendment_enforcement_date": "2025-11-04",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000002093_20251104_000000000000000",
+   "amendment_promulgate_date": "2025-11-04",
+   "amendment_enforcement_date": "2025-11-04",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（調整金額）",
+  "title": "第一条",
+  "paragraphs": [
+   "子ども・子育て支援法（平成二十四年法律第六十五号。以下「法」という。）第七十一条の四第二項に規定する調整金額は、被用者保険等保険者ごとに徴収年度の前々年度の概算支援納付金の額が当該年度の確定支援納付金の額を超えるときは、第一号に掲げる額から第二号に掲げる額を控除して得た額とし、徴収年度の前々年度の概算支援納付金の額が当該年度の確定支援納付金の額を超えないときは、第二号に掲げる額から第一号に掲げる額を控除して得た額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-11-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-19T07:41:51+09:00"
+ }
+}

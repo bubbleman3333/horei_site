@@ -1,0 +1,76 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "506CO0000000251",
+  "law_num": "令和六年政令第二百五十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "251",
+  "promulgation_date": "2024-07-26"
+ },
+ "revision_info": {
+  "law_revision_id": "506CO0000000251_20260522_508CO0000000152",
+  "law_type": "CabinetOrder",
+  "law_title": "二酸化炭素の貯留事業に関する法律施行令",
+  "law_title_kana": "にさんかたんそのちょりゅうじぎょうにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-05-26T10:52:12+09:00",
+  "amendment_promulgate_date": "2026-04-30",
+  "amendment_enforcement_date": "2026-05-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000152",
+  "amendment_law_title": "二酸化炭素の貯留事業に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第百五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506CO0000000251_20260522_508CO0000000152",
+   "amendment_promulgate_date": "2026-04-30",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "508CO0000000152",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506CO0000000251_20241118_506CO0000000342",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_law_id": "506CO0000000342",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506CO0000000251_20241118_000000000000000",
+   "amendment_promulgate_date": "2024-07-26",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（親会社等）",
+  "title": "第一条",
+  "paragraphs": [
+   "二酸化炭素の貯留事業に関する法律（以下「法」という。）第五条第一項第二号ニの政令で定める法人は、ある法人に対して次の各号に掲げるいずれかの関係（次項において「特定支配関係」という。）を有する法人とする。",
+   "ある法人に対して特定支配関係を有する法人に対して特定支配関係を有する法人は、その法人に対して特定支配関係を有する法人とみなして、この条の規定を適用する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-07-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-26T10:52:12+09:00"
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "350M50000002014",
+  "law_num": "昭和五十年総理府令第十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 50,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "1975-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "350M50000002014_20260801_508M60000001004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "失業者の退職手当支給規則",
+  "law_title_kana": "しつぎょうしゃのたいしょくてあてしきゅうきそく",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-08-01T00:24:58+09:00",
+  "amendment_promulgate_date": "2026-04-10",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000001004",
+  "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+  "amendment_law_num": "令和八年内閣官房令第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "350M50000002014_20260801_508M60000001004",
+   "amendment_promulgate_date": "2026-04-10",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508M60000001004",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和八年内閣官房令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20250401_507M60000001001",
+   "amendment_promulgate_date": "2025-03-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000001001",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和七年内閣官房令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20240401_506M60000001004",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000001004",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和六年内閣官房令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20220701_504M60000001005",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504M60000001005",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和四年内閣官房令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20210730_503M60000001008",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-07-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000001008",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和三年内閣官房令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20200619_502M60000001005",
+   "amendment_promulgate_date": "2020-06-19",
+   "amendment_enforcement_date": "2020-06-19",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000001005",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和二年内閣官房令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20190914_501M60000001004",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000001004",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和元年内閣官房令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20190830_501M60000001004",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2019-08-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000001004",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和元年内閣官房令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20190701_501M60000001002",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000001002",
+   "amendment_law_title": "人事記録の記載事項等に関する内閣官房令等の一部を改正する内閣官房令",
+   "amendment_law_num": "令和元年内閣官房令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20180101_429M60000001008",
+   "amendment_promulgate_date": "2017-11-17",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000001008",
+   "amendment_law_title": "失業者の退職手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "平成二十九年内閣官房令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000002014_20170401_429M60000001004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000001004",
+   "amendment_law_num": "平成二十九年内閣官房令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（基本手当の日額）",
+  "title": "第一条",
+  "paragraphs": [
+   "国家公務員退職手当法（以下「法」という。）第十条第一項に規定する基本手当の日額は、次条の規定により算定した賃金日額を雇用保険法（昭和四十九年法律第百十六号）第十七条に規定する賃金日額とみなして同法第十六条の規定を適用して計算した金額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1975-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-01T00:24:58+09:00"
+ }
+}

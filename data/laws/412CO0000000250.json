@@ -1,0 +1,302 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000250",
+  "law_num": "平成十二年政令第二百五十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "250",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000250_20260401_507CO0000000134",
+  "law_type": "CabinetOrder",
+  "law_title": "財務省組織令",
+  "law_title_kana": "ざいむしょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-20T10:09:39+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000134",
+  "amendment_law_title": "防衛特別法人税に関する政令",
+  "amendment_law_num": "令和七年政令第百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000250_21171231_412CO0000000307",
+   "amendment_promulgate_date": "2000-06-07",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "中東・北アフリカ経済協力開発銀行への加盟に伴う措置に関する法律（平成九年法律第三十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "412CO0000000307",
+   "amendment_law_title": "中央省庁等改革のための財務省関係政令等の整備に関する政令",
+   "amendment_law_num": "平成十二年政令第三百七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_21171230_412CO0000000307",
+   "amendment_promulgate_date": "2000-06-07",
+   "amendment_enforcement_date": "2117-12-30",
+   "amendment_enforcement_comment": "経済協力開発機構金融支援基金への加盟に伴う措置に関する法律（昭和五十一年法律第三十八号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2117-12-30",
+   "amendment_law_id": "412CO0000000307",
+   "amendment_law_title": "中央省庁等改革のための財務省関係政令等の整備に関する政令",
+   "amendment_law_num": "平成十二年政令第三百七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20270101_508CO0000000106",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508CO0000000106",
+   "amendment_law_title": "防衛特別所得税に関する政令",
+   "amendment_law_num": "令和八年政令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20260401_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20260401_507CO0000000134",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000134",
+   "amendment_law_title": "防衛特別法人税に関する政令",
+   "amendment_law_num": "令和七年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20260401_506CO0000000141",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000141",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20260101_506CO0000000214",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "506CO0000000214",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20250501_507CO0000000101",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507CO0000000101",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20240401_506CO0000000139",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000139",
+   "amendment_law_title": "奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20230802_505CO0000000254",
+   "amendment_promulgate_date": "2023-08-02",
+   "amendment_enforcement_date": "2023-08-02",
+   "amendment_law_id": "505CO0000000254",
+   "amendment_law_title": "防衛力強化資金に関する政令",
+   "amendment_law_num": "令和五年政令第二百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20230710_505CO0000000218",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-07-10",
+   "amendment_law_id": "505CO0000000218",
+   "amendment_law_title": "財務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20220710_504CO0000000234",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-07-10",
+   "amendment_law_id": "504CO0000000234",
+   "amendment_law_title": "財務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20220401_504CO0000000167",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000167",
+   "amendment_law_title": "沖縄振興特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20211122_503CO0000000309",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503CO0000000309",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響による社会経済情勢の変化に対応して金融の機能の強化及び安定の確保を図るための銀行法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第三百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20200401_502CO0000000122",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000122",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20190401_431CO0000000132",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000132",
+   "amendment_law_title": "奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十一年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20190401_431CO0000000103",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000103",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20190401_431CO0000000082",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000082",
+   "amendment_law_title": "財務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20180727_430CO0000000222",
+   "amendment_promulgate_date": "2018-07-27",
+   "amendment_enforcement_date": "2018-07-27",
+   "amendment_law_id": "430CO0000000222",
+   "amendment_law_title": "財務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20180401_429CO0000000112",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000112",
+   "amendment_law_title": "国税通則法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20171001_429CO0000000195",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429CO0000000195",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20170530_428CO0000000332",
+   "amendment_promulgate_date": "2016-10-21",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000332",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令及び財務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20170530_428CO0000000324",
+   "amendment_promulgate_date": "2016-10-05",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000324",
+   "amendment_law_title": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000250_20170401_429CO0000000047",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000047",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　本省",
+  "第二章　国税庁"
+ ],
+ "article1": {
+  "caption": "（秘書官の定数）",
+  "title": "第一条",
+  "paragraphs": [
+   "秘書官の定数は、一人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T10:09:39+09:00"
+ }
+}

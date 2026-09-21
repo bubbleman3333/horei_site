@@ -1,0 +1,453 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "414M60000008013",
+  "law_num": "平成十四年総務省令第十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "013",
+  "promulgation_date": "2002-02-12"
+ },
+ "revision_info": {
+  "law_revision_id": "414M60000008013_20260614_508M60000008075",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令",
+  "law_title_kana": "じゅうみんきほんだいちょうほうべっぴょうだいいちからべっぴょうだいろくまでのそうむしょうれいでさだめるじむをさだめるしょうれい",
+  "abbrev": "住基法総務省令で定める事務省令,住基台帳法総務省令で定める事務省令",
+  "category": "民事",
+  "updated": "2026-06-17T10:08:13+09:00",
+  "amendment_promulgate_date": "2026-06-01",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008075",
+  "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第七十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414M60000008013_20260614_508M60000008075",
+   "amendment_promulgate_date": "2026-06-01",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "508M60000008075",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20260601_508M60000008075",
+   "amendment_promulgate_date": "2026-06-01",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000008075",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20260401_508M60000008055",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008055",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20260401_508M60000008050",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008050",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20260301_508M60000008019",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-03-01",
+   "amendment_law_id": "508M60000008019",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20260129_508M60000008007",
+   "amendment_promulgate_date": "2026-01-29",
+   "amendment_enforcement_date": "2026-01-29",
+   "amendment_law_id": "508M60000008007",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20251201_507M60000008107",
+   "amendment_promulgate_date": "2025-12-01",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507M60000008107",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20251001_507M60000008100",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008100",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20250816_507M60000008082",
+   "amendment_promulgate_date": "2025-08-15",
+   "amendment_enforcement_date": "2025-08-16",
+   "amendment_law_id": "507M60000008082",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20250804_507M60000008078",
+   "amendment_promulgate_date": "2025-08-04",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507M60000008078",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20250728_507M60000008069",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2025-07-28",
+   "amendment_law_id": "507M60000008069",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20250501_507M60000008046",
+   "amendment_promulgate_date": "2025-05-01",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507M60000008046",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20250421_507M60000008034",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-21",
+   "amendment_law_id": "507M60000008034",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20250401_507M60000008034",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000008034",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20241202_506M60000008105",
+   "amendment_promulgate_date": "2024-12-02",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000008105",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20241001_506M60000008091",
+   "amendment_promulgate_date": "2024-10-01",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000008091",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令及び地方独立行政法人法別表及び地方独立行政法人法施行令第五条第一項の総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240919_506M60000008086",
+   "amendment_promulgate_date": "2024-09-19",
+   "amendment_enforcement_date": "2024-09-19",
+   "amendment_law_id": "506M60000008086",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240830_506M60000008081",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-08-30",
+   "amendment_law_id": "506M60000008081",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240527_506M60000008050",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000008050",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240425_506M60000008045",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506M60000008045",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う総務省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年総務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240424_506M60000008044",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-24",
+   "amendment_law_id": "506M60000008044",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240401_506M60000008033",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000008033",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240301_506M60000008012",
+   "amendment_promulgate_date": "2024-02-29",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "506M60000008012",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240201_506M60000008006",
+   "amendment_promulgate_date": "2024-02-01",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000008006",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20240101_505M60000008105",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000008105",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20230916_505M60000008069",
+   "amendment_promulgate_date": "2023-09-15",
+   "amendment_enforcement_date": "2023-09-16",
+   "amendment_law_id": "505M60000008069",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20230616_505M60000008053",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505M60000008053",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20230601_505M60000008050",
+   "amendment_promulgate_date": "2023-06-01",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000008050",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20230401_505M60000008035",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000008035",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20230327_505M60000008020",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-03-27",
+   "amendment_law_id": "505M60000008020",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20221209_504M60000008075",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504M60000008075",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20221206_504M60000008070",
+   "amendment_promulgate_date": "2022-12-06",
+   "amendment_enforcement_date": "2022-12-06",
+   "amendment_law_id": "504M60000008070",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20221205_504M60000008069",
+   "amendment_promulgate_date": "2022-12-05",
+   "amendment_enforcement_date": "2022-12-05",
+   "amendment_law_id": "504M60000008069",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20221001_504M60000008066",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000008066",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20220820_504M60000008055",
+   "amendment_promulgate_date": "2022-08-19",
+   "amendment_enforcement_date": "2022-08-20",
+   "amendment_law_id": "504M60000008055",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20220722_504M60000008047",
+   "amendment_promulgate_date": "2022-07-22",
+   "amendment_enforcement_date": "2022-07-22",
+   "amendment_law_id": "504M60000008047",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20220518_504M60000008036",
+   "amendment_promulgate_date": "2022-05-18",
+   "amendment_enforcement_date": "2022-05-18",
+   "amendment_law_id": "504M60000008036",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20220401_504M60000008026",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000008026",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20220119_504M60000008002",
+   "amendment_promulgate_date": "2022-01-19",
+   "amendment_enforcement_date": "2022-01-19",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000008002",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008013_20220101_503M60000008113",
+   "amendment_promulgate_date": "2021-12-28",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000008113",
+   "amendment_law_title": "住民基本台帳法別表第一から別表第六までの総務省令で定める事務を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法別表第一の総務省令で定める事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "住民基本台帳法（以下「法」という。）別表第一の一の項の総務省令で定める事務は、被災者生活再建支援法（平成十年法律第六十六号）第三条第一項の被災者生活再建支援金の支給の申請の受理、その申請に係る事実についての審査又はその申請に対する応答とする。",
+   "法別表第一の一の二の項の総務省令で定める事務は、次のとおりとする。",
+   "法別表第一の一の三の項の総務省令で定める事務は、次のとおりとする。",
+   "法別表第一の一の四の項の総務省令で定める事務は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-02-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-17T10:08:13+09:00"
+ }
+}

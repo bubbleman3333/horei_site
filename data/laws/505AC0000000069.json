@@ -1,0 +1,127 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "505AC0000000069",
+  "law_num": "令和五年法律第六十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "Act",
+  "law_num_num": "069",
+  "promulgation_date": "2023-06-23"
+ },
+ "revision_info": {
+  "law_revision_id": "505AC0000000069_20260401_507AC0000000013",
+  "law_type": "Act",
+  "law_title": "我が国の防衛力の抜本的な強化等のために必要な財源の確保に関する特別措置法",
+  "law_title_kana": "わがくにのぼうえいりょくのばっぽんてきなきょうかとうのためにひつようなざいげんのかくほにかんするとくべつそちほう",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2025-04-01T14:59:53+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000013",
+  "amendment_law_title": "所得税法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505AC0000000069_20280116_508AC0000000057",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2028-01-16",
+   "amendment_enforcement_comment": "公布の日から起算して一年六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-01-16",
+   "amendment_law_id": "508AC0000000057",
+   "amendment_law_title": "情報通信技術を活用した行政の推進等に関する法律及び情報処理の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000069_20280101_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000069_20270101_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000069_20260401_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000069_20260401_507AC0000000013",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000013",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000069_20250401_507AC0000000013",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507AC0000000013",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000069_20230623_000000000000000",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-06-23",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　財政投融資特別会計財政融資資金勘定及び外国為替資金特別会計からの一般会計への繰入れ",
+  "第三章　独立行政法人国立病院機構及び独立行政法人地域医療機能推進機構の国庫納付金の納付の特例",
+  "第四章　防衛特別法人税",
+  "第五章　たばこ税法の特例",
+  "第六章　防衛力強化資金",
+  "第七章　防衛力強化税外収入等の使途"
+ ],
+ "article1": {
+  "caption": "（趣旨等）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、令和五年度以降における我が国の防衛力の抜本的な強化及び抜本的に強化された防衛力の安定的な維持に必要な財源を確保するための特別措置として、財政投融資特別会計財政融資資金勘定からの一般会計への繰入れの特例に関する措置及び外国為替資金特別会計からの一般会計への繰入れの特別措置並びに独立行政法人国立病院機構及び独立行政法人地域医療機能推進機構の国庫納付金の納付の特例に関する措置を講ずるとともに、防衛特別法人税を創設し、及びたばこ税の税率の特例を定めるほか、防衛力強化資金の設置等について定めるものとする。",
+   "政府は、令和五年度以降の各年度の予算に計上される防衛力整備計画対象経費の額が令和四年度の当初予算に計上された防衛力整備計画対象経費の額を上回る場合における当該上回る額に係る費用の財源に充てるため、第五十八条第一項に定める財政投融資特別会計財政融資資金勘定及び外国為替資金特別会計からの一般会計への繰入金並びに独立行政法人国立病院機構及び独立行政法人地域医療機能推進機構の国庫納付金並びに同条第三項に定める国有財産の処分による収入その他の租税収入以外の収入（第五十二条第二項において「防衛力強化税外収入」という。）並びに第五十八条第二項に定める防衛特別法人税の収入及びたばこ税の収入額に係る額並びに第五十五条の規定による防衛力強化資金からの受入金を確保するものとする。",
+   "前項に規定する防衛力整備計画対象経費とは、自衛隊の管理及び運営並びにこれに関する事務並びに条約に基づく外国軍隊の駐留及び日本国とアメリカ合衆国との間の相互防衛援助協定の規定に基づくアメリカ合衆国政府の責務の本邦における遂行に伴う事務に関するものとして各年度の一般会計予算（防衛省の所管に係るものに限る。）に計上される経費（防衛省が行う情報システムの整備及び管理に関する事業に必要な経費のうちデジタル庁設置法（令和三年法律第三十六号）第四条第二項第十八号イの規定により確保され、デジタル庁の所管に係る予算に一括して計上される経費を含む。）であって、次に掲げる経費を除いたものをいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-06-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-04-01T14:59:53+09:00"
+ }
+}

@@ -1,0 +1,267 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "325M50000040017",
+  "law_num": "昭和二十五年大蔵省令第十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "1950-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50000040017_20260901_506M60000040016",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "相続税法施行規則",
+  "law_title_kana": "そうぞくぜいほうせこうきそく",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-09-01T00:01:28+09:00",
+  "amendment_promulgate_date": "2024-03-30",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000040016",
+  "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和六年財務省令第十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50000040017_20260901_506M60000040016",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "506M60000040016",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20260401_508M60000040009",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040009",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20250401_507M60000040021",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040021",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20240301_506M60000040006",
+   "amendment_promulgate_date": "2024-02-29",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "506M60000040006",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20240101_505M60000040015",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000040015",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20240101_504M60000040016",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504M60000040016",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20230401_505M60000040015",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000040015",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20230101_504M60000040016",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000040016",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20220401_504M60000040016",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040016",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20220101_503M60000040017",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000040017",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20211001_503M60000040017",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503M60000040017",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20210401_503M60000040017",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000040017",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20200401_502M60000040013",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000040013",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20200401_431M60000040008",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431M60000040008",
+   "amendment_law_title": "相続税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20200101_431M60000040008",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "431M60000040008",
+   "amendment_law_title": "相続税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20191216_501M60000040036",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000040036",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20190701_431M60000040008",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "431M60000040008",
+   "amendment_law_title": "相続税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20190507_501M60000040001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000040001",
+   "amendment_law_title": "元号を改める政令の施行に伴う財務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20190401_431M60000040008",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000040008",
+   "amendment_law_title": "相続税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20180401_430M60000040015",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000040015",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20180101_427M60000040024",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "427M60000040024",
+   "amendment_law_title": "相続税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十七年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040017_20170401_429M60000040019",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000040019",
+   "amendment_law_num": "平成二十九年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、「期限後申告書」又は「修正申告書」とは、それぞれ相続税法（昭和二十五年法律第七十三号。以下「法」という。）第一条の二に規定する期限後申告書又は修正申告書をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-03-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-09-01T00:01:28+09:00"
+ }
+}

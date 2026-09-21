@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "325M50010000035",
+  "law_num": "昭和二十五年農林省令第三十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "035",
+  "promulgation_date": "1950-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50010000035_20260521_508M60000200040",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "森林病害虫等防除法施行規則",
+  "law_title_kana": "しんりんびょうがいちゅうとうぼうじょほうせこうきそく",
+  "abbrev": null,
+  "category": "林業",
+  "updated": "2026-06-02T13:14:25+09:00",
+  "amendment_promulgate_date": "2026-05-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200040",
+  "amendment_law_title": "土地改良法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第四十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50010000035_20260521_508M60000200040",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000200040",
+   "amendment_law_title": "土地改良法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50010000035_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50010000035_20190701_501M60000200010",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200010",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50010000035_20190507_501M60000200001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200001",
+   "amendment_law_title": "元号を改める政令の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50010000035_20110802_423M60000200048",
+   "amendment_promulgate_date": "2011-08-01",
+   "amendment_enforcement_date": "2011-08-02",
+   "amendment_law_id": "423M60000200048",
+   "amendment_law_num": "平成二十三年農林水産省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（破砕の基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "森林病害虫等防除法（以下「法」という。）第二条第六項の農林水産省令で定める基準は、破砕後の木片の厚さが六ミリメートル（木材チッパーにより破砕する場合にあつては、十五ミリメートル）以下となるように破砕を行うこととする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-04-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-06-02T13:14:25+09:00"
+ }
+}

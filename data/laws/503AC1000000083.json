@@ -1,0 +1,74 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "503AC1000000083",
+  "law_num": "令和三年法律第八十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 3,
+  "law_num_type": "Act",
+  "law_num_num": "083",
+  "promulgation_date": "2021-06-23"
+ },
+ "revision_info": {
+  "law_revision_id": "503AC1000000083_20211223_000000000000000",
+  "law_type": "Act",
+  "law_title": "宇宙資源の探査及び開発に関する事業活動の促進に関する法律",
+  "law_title_kana": "うちゅうしげんのたんさおよびかいはつにかんするじぎょうかつどうのそくしんにかんするほうりつ",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2025-05-28T16:27:21+09:00",
+  "amendment_promulgate_date": "2021-06-23",
+  "amendment_enforcement_date": "2021-12-23",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "503AC1000000083_20270616_508AC0000000039",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2027-06-16",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-06-16",
+   "amendment_law_id": "508AC0000000039",
+   "amendment_law_title": "人工衛星等の打上げ及び人工衛星の管理に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "503AC1000000083_20211223_000000000000000",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-12-23",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "503AC1000000083_20210623_000000000000000",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-06-23",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、宇宙基本法（平成二十年法律第四十三号）の基本理念にのっとり、宇宙資源の探査及び開発に関し、同法第三十五条第一項に基づき宇宙活動に係る規制等について定める人工衛星等の打上げ及び人工衛星の管理に関する法律（平成二十八年法律第七十六号。以下「宇宙活動法」という。）の規定による許可の特例を設けるとともに、宇宙資源の所有権の取得その他必要な事項を定めることにより、宇宙活動法第二条第一号に規定する宇宙の開発及び利用に関する諸条約（第三条第二項第一号において単に「宇宙の開発及び利用に関する諸条約」という。）の的確かつ円滑な実施を図りつつ、民間事業者による宇宙資源の探査及び開発に関する事業活動を促進することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2021-06-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-05-28T16:27:21+09:00"
+ }
+}

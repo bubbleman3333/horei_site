@@ -1,0 +1,278 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "322M40002000012",
+  "law_num": "昭和二十二年労働省令第十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "012",
+  "promulgation_date": "1947-12-29"
+ },
+ "revision_info": {
+  "law_revision_id": "322M40002000012_20260401_508M60000100060",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "職業安定法施行規則",
+  "law_title_kana": "しょくぎょうあんていほうしこうきそく",
+  "abbrev": "職安法施行規則",
+  "category": "労働",
+  "updated": "2026-05-14T10:06:07+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100060",
+  "amendment_law_title": "職業安定法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第六十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322M40002000012_20261001_508M60000100018",
+   "amendment_promulgate_date": "2026-02-26",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100018",
+   "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20260401_508M60000100060",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100060",
+   "amendment_law_title": "職業安定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20250401_506M60000100138",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100138",
+   "amendment_law_title": "職業安定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20240401_505M60000100089",
+   "amendment_promulgate_date": "2023-06-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000100089",
+   "amendment_law_title": "職業安定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20231023_505M60000100131",
+   "amendment_promulgate_date": "2023-10-23",
+   "amendment_enforcement_date": "2023-10-23",
+   "amendment_law_id": "505M60000100131",
+   "amendment_law_title": "職業安定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20221001_504M60000100093",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100093",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20211019_503M60000100173",
+   "amendment_promulgate_date": "2021-10-19",
+   "amendment_enforcement_date": "2021-10-19",
+   "amendment_law_id": "503M60000100173",
+   "amendment_law_title": "職業安定法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20200601_501M60000100086",
+   "amendment_promulgate_date": "2019-12-27",
+   "amendment_enforcement_date": "2020-06-01",
+   "amendment_law_id": "501M60000100086",
+   "amendment_law_title": "女性の職業生活における活躍の推進に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20200529_502M60000100109",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2020-05-29",
+   "amendment_law_id": "502M60000100109",
+   "amendment_law_title": "職業安定法施行規則及び労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20200401_501M60000100002",
+   "amendment_promulgate_date": "2019-05-10",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000100002",
+   "amendment_law_title": "職業安定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20200330_431M60000100026",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "431M60000100026",
+   "amendment_law_title": "職業安定法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年厚生労働省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20191001_501M60000100048",
+   "amendment_promulgate_date": "2019-09-19",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501M60000100048",
+   "amendment_law_title": "職業安定法施行規則及び建設労働者の雇用の改善等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20190919_501M60000100048",
+   "amendment_promulgate_date": "2019-09-19",
+   "amendment_enforcement_date": "2019-09-19",
+   "amendment_law_id": "501M60000100048",
+   "amendment_law_title": "職業安定法施行規則及び建設労働者の雇用の改善等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20190914_501M60000100046",
+   "amendment_promulgate_date": "2019-09-13",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501M60000100046",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20190401_430M60000100145",
+   "amendment_promulgate_date": "2018-12-19",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000100145",
+   "amendment_law_title": "職業安定法施行規則及び労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20180401_430M60000100027",
+   "amendment_promulgate_date": "2018-03-20",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000100027",
+   "amendment_law_title": "職業安定法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20180101_429M60000100066",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429M60000100066",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20171001_429M60000100066",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429M60000100066",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20170711_429M60000100071",
+   "amendment_promulgate_date": "2017-07-11",
+   "amendment_enforcement_date": "2017-07-11",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000100071",
+   "amendment_law_title": "厚生労働省組織規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40002000012_20170401_429M60000100054",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000100054",
+   "amendment_law_num": "平成二十九年厚生労働省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（職業安定組織の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令で職業安定組織とは、厚生労働省職業安定局（以下「職業安定局」という。）、都道府県労働局、公共職業安定所等すべての職業安定機関の組織をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-12-29",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-14T10:06:07+09:00"
+ }
+}

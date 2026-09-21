@@ -1,0 +1,104 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "337M50000400084",
+  "law_num": "昭和三十七年通商産業省令第八十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "084",
+  "promulgation_date": "1962-08-14"
+ },
+ "revision_info": {
+  "law_revision_id": "337M50000400084_20251225_507M60000400006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "電気用品安全法施行規則",
+  "law_title_kana": "でんきようひんあんぜんほうしこうきそく",
+  "abbrev": "ＰＳＥ法施行規則,電安法施行規則",
+  "category": "工業",
+  "updated": "2025-12-25T00:07:03+09:00",
+  "amendment_promulgate_date": "2025-01-31",
+  "amendment_enforcement_date": "2025-12-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000400006",
+  "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+  "amendment_law_num": "令和七年経済産業省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M50000400084_20251225_507M60000400006",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-12-25",
+   "amendment_law_id": "507M60000400006",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337M50000400084_20250401_507M60000400030",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000400030",
+   "amendment_law_title": "経済産業省関係特定製品の技術上の基準等に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000400084_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000400084_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000400084_20160401_428M60000400043",
+   "amendment_promulgate_date": "2016-03-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000400043",
+   "amendment_law_num": "平成二十八年経済産業省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　事業の届出等",
+  "第三章　電気用品の適合性検査等",
+  "第四章　販売の制限",
+  "第五章　検査機関の登録等",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令で使用する用語は、別表第二で使用する場合を除き、電気用品安全法（昭和三十六年法律第二百三十四号。以下「法」という。）及び電気用品安全法施行令（昭和三十七年政令第三百二十四号。以下「令」という。）で使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-08-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-25T00:07:03+09:00"
+ }
+}

@@ -1,0 +1,291 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "419CO0000000325",
+  "law_num": "平成十九年政令第三百二十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "325",
+  "promulgation_date": "2007-10-31"
+ },
+ "revision_info": {
+  "law_revision_id": "419CO0000000325_20260408_508CO0000000134",
+  "law_type": "CabinetOrder",
+  "law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令",
+  "law_title_kana": "ぜんきこうれいしゃこうふきんおよびこうきこうれいしゃいりょうのこっこふたんきんのさんていとうにかんするせいれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-09-03T14:02:56+09:00",
+  "amendment_promulgate_date": "2026-04-10",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000134",
+  "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419CO0000000325_20260408_508CO0000000134",
+   "amendment_promulgate_date": "2026-04-10",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000134",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20260408_508CO0000000133",
+   "amendment_promulgate_date": "2026-04-09",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000133",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20260408_508CO0000000132",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000132",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20260401_508CO0000000004",
+   "amendment_promulgate_date": "2026-01-21",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000004",
+   "amendment_law_title": "高齢者の医療の確保に関する法律施行令及び前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20250401_507CO0000000165",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000165",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20240401_506CO0000000125",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000125",
+   "amendment_law_title": "国民健康保険の国庫負担金等の算定に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20240401_506CO0000000009",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000009",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20240401_506CO0000000008",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000008",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20230401_505CO0000000114",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000114",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20221001_504CO0000000014",
+   "amendment_promulgate_date": "2022-01-04",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000014",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20220401_504CO0000000111",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000111",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20220401_504CO0000000030",
+   "amendment_promulgate_date": "2022-01-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000030",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20210401_503CO0000000095",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000095",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20210101_502CO0000000367",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000367",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20200401_502CO0000000132",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000132",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20200401_502CO0000000017",
+   "amendment_promulgate_date": "2020-01-29",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000017",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20200401_431CO0000000159",
+   "amendment_promulgate_date": "2019-04-24",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431CO0000000159",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20200129_502CO0000000017",
+   "amendment_promulgate_date": "2020-01-29",
+   "amendment_enforcement_date": "2020-01-29",
+   "amendment_law_id": "502CO0000000017",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20190401_431CO0000000138",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000138",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20180401_430CO0000000110",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000110",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20180401_430CO0000000055",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000055",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20180401_430CO0000000026",
+   "amendment_promulgate_date": "2018-01-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000026",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20180401_429CO0000000258",
+   "amendment_promulgate_date": "2017-10-12",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000258",
+   "amendment_law_title": "持続可能な医療保険制度を構築するための国民健康保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000325_20170401_429CO0000000098",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000098",
+   "amendment_law_title": "持続可能な医療保険制度を構築するための国民健康保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（前期高齢者交付金）",
+  "title": "第一条",
+  "paragraphs": [
+   "社会保険診療報酬支払基金（以下「支払基金」という。）は、毎年度、保険者（国民健康保険法（昭和三十三年法律第百九十二号）の定めるところにより都道府県が当該都道府県内の市町村（特別区を含む。以下同じ。）とともに行う国民健康保険にあっては、都道府県。次条並びに第二十五条の三第一項第一号及び第二号を除き、以下同じ。）に対して高齢者の医療の確保に関する法律（以下「法」という。）第三十二条第一項に規定する前期高齢者交付金（第二条において「前期高齢者交付金」という。）を交付するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-10-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-03T14:02:56+09:00"
+ }
+}

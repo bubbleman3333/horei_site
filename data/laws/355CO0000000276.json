@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "355CO0000000276",
+  "law_num": "昭和五十五年政令第二百七十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 55,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "276",
+  "promulgation_date": "1980-10-31"
+ },
+ "revision_info": {
+  "law_revision_id": "355CO0000000276_20260401_508CO0000000076",
+  "law_type": "CabinetOrder",
+  "law_title": "恩給法等の一部を改正する法律附則第十四条の二第一項の年金たる給付等を定める政令",
+  "law_title_kana": "おんきゅうほうとうのいちぶをかいせいするほうりつふそくだいじゅうよんじょうのにだいいっこうのねんきんたるきゅうふとうをさだめるせいれい",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-04-14T09:35:44+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000076",
+  "amendment_law_title": "恩給法による恩給改定率の改定等に関する政令及び恩給法等の一部を改正する法律附則第十四条の二第一項の年金たる給付等を定める政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "355CO0000000276_20260401_508CO0000000076",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000076",
+   "amendment_law_title": "恩給法による恩給改定率の改定等に関する政令及び恩給法等の一部を改正する法律附則第十四条の二第一項の年金たる給付等を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000276_20250401_507CO0000000107",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000107",
+   "amendment_law_title": "恩給法による恩給改定率の改定等に関する政令及び恩給法等の一部を改正する法律附則第十四条の二第一項の年金たる給付等を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000276_20240401_506CO0000000128",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000128",
+   "amendment_law_title": "恩給法による恩給改定率の改定等に関する政令及び恩給法等の一部を改正する法律附則第十四条の二第一項の年金たる給付等を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000276_20200401_431CO0000000146",
+   "amendment_promulgate_date": "2019-04-05",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431CO0000000146",
+   "amendment_law_title": "厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十一年政令第百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000276_20151001_427CO0000000342",
+   "amendment_promulgate_date": "2015-09-30",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "427CO0000000342",
+   "amendment_law_title": "被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行に伴う厚生労働省関係政令等の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第三百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法律第五十一号附則第十四条の二第一項に規定する政令で定める年金たる給付）",
+  "title": "第一条",
+  "paragraphs": [
+   "恩給法等の一部を改正する法律（昭和五十一年法律第五十一号。以下「法律第五十一号」という。）附則第十四条の二第一項に規定する老齢、退職又は障害を支給事由とする給付であつて政令で定めるものは、次に掲げる給付とする。ただし、その額（支給開始時期の繰上げ又は繰下げによりその額が減額され、又は増額されている給付については、減額され、又は増額されなかつたものとして計算した額）が法律第五十一号附則第十四条第一項の規定により加算する額に満たない給付を除く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1980-10-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:35:44+09:00"
+ }
+}

@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "421CO0000000218",
+  "law_num": "平成二十一年政令第二百十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "218",
+  "promulgation_date": "2009-08-14"
+ },
+ "revision_info": {
+  "law_revision_id": "421CO0000000218_20260701_508CO0000000205",
+  "law_type": "CabinetOrder",
+  "law_title": "不当景品類及び不当表示防止法施行令",
+  "law_title_kana": "ふとうけいひんるいおよびふとうひょうじぼうしほうせこうれい",
+  "abbrev": "景表法施行令,景品表示法施行令",
+  "category": "産業通則",
+  "updated": "2026-07-03T16:53:02+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000205",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421CO0000000218_20260701_508CO0000000205",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000205",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000218_20241001_506CO0000000192",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000192",
+   "amendment_law_title": "不当景品類及び不当表示防止法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000218_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000218_20211101_503CO0000000162",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000162",
+   "amendment_law_title": "金融商品の販売等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000218_20180401_429CO0000000326",
+   "amendment_promulgate_date": "2017-12-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000326",
+   "amendment_law_title": "金融商品取引法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第三百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000218_20160401_427CO0000000423",
+   "amendment_promulgate_date": "2015-12-16",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000423",
+   "amendment_law_title": "不当景品類及び不当表示防止法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第四百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第八条第一項に規定する政令で定める売上額の算定の方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "不当景品類及び不当表示防止法（以下「法」という。）第八条第一項に規定する政令で定める売上額の算定の方法は、次条に定めるものを除き、法第八条第二項に規定する課徴金対象期間（以下単に「課徴金対象期間」という。）において引き渡した商品又は提供した役務の対価の額を合計する方法とする。この場合において、次の各号に掲げる場合に該当するときは、当該各号に定める額を控除するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-08-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-03T16:53:02+09:00"
+ }
+}

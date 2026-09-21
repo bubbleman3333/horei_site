@@ -1,0 +1,139 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "138AC0000000053",
+  "law_num": "明治三十八年法律第五十三号",
+  "law_num_era": "Meiji",
+  "law_num_year": 38,
+  "law_num_type": "Act",
+  "law_num_num": "053",
+  "promulgation_date": "1905-03-13"
+ },
+ "revision_info": {
+  "law_revision_id": "138AC0000000053_20260521_505AC0000000053",
+  "law_type": "Act",
+  "law_title": "鉄道抵当法",
+  "law_title_kana": "てつどうていとうほう",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-05-21T00:01:14+09:00",
+  "amendment_promulgate_date": "2023-06-14",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000053",
+  "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和五年法律第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "138AC0000000053_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "138AC0000000053_20260521_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "138AC0000000053_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "138AC0000000053_20250401_505AC0000000086",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000086",
+   "amendment_law_title": "官報の発行に関する法律の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "138AC0000000053_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "138AC0000000053_20220401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "138AC0000000053_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "138AC0000000053_20170530_428AC0000000051",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "428AC0000000051",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "138AC0000000053_20090105_416AC0000000088",
+   "amendment_promulgate_date": "2004-06-09",
+   "amendment_enforcement_date": "2009-01-05",
+   "amendment_law_id": "416AC0000000088",
+   "amendment_law_num": "平成十六年法律第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "本法ニ於テ会社ト称スルハ株式会社タル鉄道事業者ヲ謂フ"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1905-03-13",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-21T00:01:14+09:00"
+ }
+}

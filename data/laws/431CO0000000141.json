@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "431CO0000000141",
+  "law_num": "平成三十一年政令第百四十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 31,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "141",
+  "promulgation_date": "2019-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "431CO0000000141_20260306_508CO0000000022",
+  "law_type": "CabinetOrder",
+  "law_title": "年金生活者支援給付金の支給に関する法律に基づき市町村に交付する事務費に関する政令",
+  "law_title_kana": "ねんきんせいかつしゃしえんきゅうふきんのしきゅうにかんするほうりつにもとづきしちょうそんにこうふするじむひにかんするせいれい",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-03-23T10:50:16+09:00",
+  "amendment_promulgate_date": "2026-03-06",
+  "amendment_enforcement_date": "2026-03-06",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000022",
+  "amendment_law_title": "国民健康保険の国庫負担金等の算定に関する政令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "431CO0000000141_20260306_508CO0000000022",
+   "amendment_promulgate_date": "2026-03-06",
+   "amendment_enforcement_date": "2026-03-06",
+   "amendment_law_id": "508CO0000000022",
+   "amendment_law_title": "国民健康保険の国庫負担金等の算定に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000141_20250319_507CO0000000065",
+   "amendment_promulgate_date": "2025-03-19",
+   "amendment_enforcement_date": "2025-03-19",
+   "amendment_law_id": "507CO0000000065",
+   "amendment_law_title": "国民年金法に基づき市町村に交付する事務費に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000141_20240313_506CO0000000051",
+   "amendment_promulgate_date": "2024-03-13",
+   "amendment_enforcement_date": "2024-03-13",
+   "amendment_law_id": "506CO0000000051",
+   "amendment_law_title": "国民健康保険の国庫負担金等の算定に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000141_20230315_505CO0000000052",
+   "amendment_promulgate_date": "2023-03-15",
+   "amendment_enforcement_date": "2023-03-15",
+   "amendment_law_id": "505CO0000000052",
+   "amendment_law_title": "国民年金法に基づき市町村に交付する事務費に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000141_20210305_503CO0000000042",
+   "amendment_promulgate_date": "2021-03-05",
+   "amendment_enforcement_date": "2021-03-05",
+   "amendment_law_id": "503CO0000000042",
+   "amendment_law_title": "国民健康保険の国庫負担金等の算定に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000141_20200605_502CO0000000178",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2020-06-05",
+   "amendment_law_id": "502CO0000000178",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000141_20200306_502CO0000000037",
+   "amendment_promulgate_date": "2020-03-06",
+   "amendment_enforcement_date": "2020-03-06",
+   "amendment_law_id": "502CO0000000037",
+   "amendment_law_title": "国民年金法に基づき市町村に交付する事務費に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000141_20191001_000000000000000",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "年金生活者支援給付金の支給に関する法律（以下「法」という。）第二十七条の規定により、毎年度、市町村長（特別区の区長を含む。以下同じ。）が法又は法に基づく政令の規定によって行う年金生活者支援給付金に係る事務の処理に必要な費用として、国が、各市町村（特別区を含む。以下同じ。）に交付する交付金の額は、次に掲げる額の合計額（当該合計額が当該年度において現に要した費用を超える場合には、当該現に要した費用の額）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-03-23T10:50:16+09:00"
+ }
+}

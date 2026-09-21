@@ -1,0 +1,103 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "323CO0000000246",
+  "law_num": "昭和二十三年政令第二百四十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "246",
+  "promulgation_date": "1948-08-20"
+ },
+ "revision_info": {
+  "law_revision_id": "323CO0000000246_20260527_508CO0000000176",
+  "law_type": "CabinetOrder",
+  "law_title": "国有財産法施行令",
+  "law_title_kana": "こくゆうざいさんほうしこうれい",
+  "abbrev": null,
+  "category": "国有財産",
+  "updated": "2026-06-05T16:37:51+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000176",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323CO0000000246_20260527_508CO0000000176",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000176",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000246_20250401_507CO0000000140",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000140",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000246_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000246_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000246_20170401_429CO0000000004",
+   "amendment_promulgate_date": "2017-01-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000004",
+   "amendment_law_title": "貿易保険法及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　管理及び処分",
+  "第二章の二　立入り及び境界確定",
+  "第三章　台帳、報告書及び計算書"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「国有財産の所管換」、「国有財産の所属替」、「各省各庁の長」、「公共団体」、「管理受託者」及び「国有財産の分類及び種類」とは、国有財産法（以下「法」という。）に規定する「国有財産の所管換」、「国有財産の所属替」、「各省各庁の長」、「公共団体」、「管理受託者」及び「国有財産の分類及び種類」をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-08-20",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-06-05T16:37:51+09:00"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "423M60000002059",
+  "law_num": "平成二十三年内閣府令第五十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "059",
+  "promulgation_date": "2011-10-31"
+ },
+ "revision_info": {
+  "law_revision_id": "423M60000002059_20260807_508M60000002068",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "沖縄科学技術大学院大学学園法施行規則",
+  "law_title_kana": "おきなわかがくぎじゅつだいがくいんだいがくがくえんほうしこうきそく",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-08-19T13:27:05+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002068",
+  "amendment_law_title": "沖縄科学技術大学院大学学園法施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423M60000002059_20260807_508M60000002068",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000002068",
+   "amendment_law_title": "沖縄科学技術大学院大学学園法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423M60000002059_20250401_506M60000002069",
+   "amendment_promulgate_date": "2024-08-20",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000002069",
+   "amendment_law_title": "沖縄科学技術大学院大学学園法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000002059_20111101_000000000000000",
+   "amendment_promulgate_date": "2011-10-31",
+   "amendment_enforcement_date": "2011-11-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（事業計画の作成）",
+  "title": "第一条",
+  "paragraphs": [
+   "沖縄科学技術大学院大学学園法（以下「法」という。）第九条第一項に規定する事業計画には、次に掲げる事項に関する計画を記載しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-10-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T13:27:05+09:00"
+ }
+}

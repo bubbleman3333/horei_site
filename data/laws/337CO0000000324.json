@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "337CO0000000324",
+  "law_num": "昭和三十七年政令第三百二十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "324",
+  "promulgation_date": "1962-08-14"
+ },
+ "revision_info": {
+  "law_revision_id": "337CO0000000324_20251225_506CO0000000374",
+  "law_type": "CabinetOrder",
+  "law_title": "電気用品安全法施行令",
+  "law_title_kana": "でんきようひんあんぜんほうしこうれい",
+  "abbrev": "電安法施行令,ＰＳＥ法施行令",
+  "category": "工業",
+  "updated": "2025-12-25T00:06:45+09:00",
+  "amendment_promulgate_date": "2024-12-13",
+  "amendment_enforcement_date": "2025-12-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506CO0000000374",
+  "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和六年政令第三百七十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337CO0000000324_20251225_506CO0000000374",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-12-25",
+   "amendment_law_id": "506CO0000000374",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000324_20120701_423CO0000000213",
+   "amendment_promulgate_date": "2011-07-06",
+   "amendment_enforcement_date": "2012-07-01",
+   "amendment_law_id": "423CO0000000213",
+   "amendment_law_num": "平成二十三年政令第二百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（電気用品）",
+  "title": "第一条",
+  "paragraphs": [
+   "電気用品安全法（昭和三十六年法律第二百三十四号。以下「法」という。）第二条第一項の電気用品は、別表第一の上欄及び別表第二に掲げるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-08-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-25T00:06:45+09:00"
+ }
+}

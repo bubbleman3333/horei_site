@@ -1,0 +1,129 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "349CO0000000048",
+  "law_num": "昭和四十九年政令第四十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 49,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "048",
+  "promulgation_date": "1974-03-05"
+ },
+ "revision_info": {
+  "law_revision_id": "349CO0000000048_20260708_508CO0000000117",
+  "law_type": "CabinetOrder",
+  "law_title": "消費生活用製品安全法施行令",
+  "law_title_kana": "しょうひせいかつようせいひんあんぜんほうしこうれい",
+  "abbrev": "消安法施行令",
+  "category": "商業",
+  "updated": "2026-07-08T00:01:20+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-07-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000117",
+  "amendment_law_title": "消費生活用製品安全法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "349CO0000000048_20260708_508CO0000000117",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-07-08",
+   "amendment_law_id": "508CO0000000117",
+   "amendment_law_title": "消費生活用製品安全法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000048_20251225_506CO0000000374",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-12-25",
+   "amendment_law_id": "506CO0000000374",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000048_20250925_506CO0000000374",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-09-25",
+   "amendment_law_id": "506CO0000000374",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000048_20230619_505CO0000000183",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2023-06-19",
+   "amendment_law_id": "505CO0000000183",
+   "amendment_law_title": "消費生活用製品安全法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000048_20210801_503CO0000000214",
+   "amendment_promulgate_date": "2021-07-27",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503CO0000000214",
+   "amendment_law_title": "消費生活用製品安全法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000048_20210601_501CO0000000123",
+   "amendment_promulgate_date": "2019-10-09",
+   "amendment_enforcement_date": "2021-06-01",
+   "amendment_law_id": "501CO0000000123",
+   "amendment_law_title": "食品衛生法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000048_20200401_502CO0000000021",
+   "amendment_promulgate_date": "2020-01-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000021",
+   "amendment_law_title": "道路運送車両法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000048_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定製品）",
+  "title": "第一条",
+  "paragraphs": [
+   "消費生活用製品安全法（以下「法」という。）第二条第二項の特定製品は、別表第一に掲げるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1974-03-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T00:01:20+09:00"
+ }
+}

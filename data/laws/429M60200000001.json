@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "429M60200000001",
+  "law_num": "平成二十九年公正取引委員会規則第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 29,
+  "law_num_type": "Rule",
+  "law_num_num": "001",
+  "promulgation_date": "2017-01-25"
+ },
+ "revision_info": {
+  "law_revision_id": "429M60200000001_20260521_508M60200000002",
+  "law_type": "Rule",
+  "law_title": "公正取引委員会の確約手続に関する規則",
+  "law_title_kana": "こうせいとりひきいいんかいのかくやくてつづきにかんするきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-26T11:53:42+09:00",
+  "amendment_promulgate_date": "2026-05-01",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60200000002",
+  "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年公正取引委員会規則第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "429M60200000001_20260521_508M60200000002",
+   "amendment_promulgate_date": "2026-05-01",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60200000002",
+   "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年公正取引委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "429M60200000001_20201225_502M60200000007",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60200000007",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律第九条から第十六条までの規定による認可の申請、報告及び届出等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和二年公正取引委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60200000001_20190701_501M60200000002",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60200000002",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律第九条から第十六条までの規定による認可の申請、報告及び届出等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年公正取引委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60200000001_20190510_501M60200000001",
+   "amendment_promulgate_date": "2019-05-10",
+   "amendment_enforcement_date": "2019-05-10",
+   "amendment_law_id": "501M60200000001",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律第九条から第十六条までの規定による認可の申請、報告及び届出等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年公正取引委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60200000001_20181230_000000000000000",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60200000001_20180718_430M60200000002",
+   "amendment_promulgate_date": "2018-07-18",
+   "amendment_enforcement_date": "2018-07-18",
+   "amendment_law_id": "430M60200000002",
+   "amendment_law_title": "公正取引委員会の確約手続に関する規則等の一部を改正する規則",
+   "amendment_law_num": "平成三十年公正取引委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　法第四十八条の二の規定による通知",
+  "第三章　排除措置計画",
+  "第四章　排除措置計画の認定の取消し",
+  "第五章　法第四十八条の六の規定による通知",
+  "第六章　排除確保措置計画",
+  "第七章　排除確保措置計画の認定の取消し",
+  "第八章　補則"
+ ],
+ "article1": {
+  "caption": "（この規則の趣旨・定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "公正取引委員会（以下「委員会」という。）が行う確約手続（私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号。以下「法」という。）第四十八条の二から第四十八条の九までの手続をいう。以下同じ。）については、法に定めるもののほか、この規則の定めるところによる。",
+   "この規則において使用する用語であって、法において使用する用語と同一のものは、これと同一の意義において使用するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2017-01-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-26T11:53:42+09:00"
+ }
+}

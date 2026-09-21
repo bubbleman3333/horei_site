@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "349M50000402004",
+  "law_num": "昭和四十九年総理府・通商産業省令第四号",
+  "law_num_era": "Showa",
+  "law_num_year": 49,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "004",
+  "promulgation_date": "1974-08-31"
+ },
+ "revision_info": {
+  "law_revision_id": "349M50000402004_20260507_508M60001000015",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公害健康被害の補償等に関する法律施行規程",
+  "law_title_kana": "こうがいけんこうひがいのほしょうとうにかんするほうりつしこうきてい",
+  "abbrev": "公健法施行規程",
+  "category": "環境保全",
+  "updated": "2026-05-29T12:03:31+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000015",
+  "amendment_law_title": "公害健康被害の補償等に関する法律施行規程及び環境省関係石綿による健康被害の救済に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年環境省令第十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "349M50000402004_20260507_508M60001000015",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-07",
+   "amendment_law_id": "508M60001000015",
+   "amendment_law_title": "公害健康被害の補償等に関する法律施行規程及び環境省関係石綿による健康被害の救済に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "349M50000402004_20250401_507M60001000012",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60001000012",
+   "amendment_law_title": "公害健康被害の補償等に関する法律施行規程の一部を改正する省令",
+   "amendment_law_num": "令和七年環境省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000402004_20240220_506M60001000006",
+   "amendment_promulgate_date": "2024-02-20",
+   "amendment_enforcement_date": "2024-02-20",
+   "amendment_law_id": "506M60001000006",
+   "amendment_law_title": "環境省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000402004_20201228_502M60001000031",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60001000031",
+   "amendment_law_title": "押印を求める手続の見直し等のための環境省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000402004_20200330_502M60001000009",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60001000009",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和二年環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000402004_20191216_501M60001000018",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60001000018",
+   "amendment_law_title": "公害健康被害の補償等に関する法律施行規程の一部を改正する省令",
+   "amendment_law_num": "令和元年環境省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000402004_20070930_419M60001000026",
+   "amendment_promulgate_date": "2007-09-28",
+   "amendment_enforcement_date": "2007-09-30",
+   "amendment_law_id": "419M60001000026",
+   "amendment_law_num": "平成十九年環境省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（公害健康被害の補償等に関する法律第十三条第二項の規定による支払）",
+  "title": "第一条",
+  "paragraphs": [
+   "公害健康被害の補償等に関する法律（以下「法」という。）第十三条第二項の規定による支払は、毎年度（毎年四月一日から翌年三月三十一日までをいう。以下同じ。）、当該ばい煙発生施設等設置者（法第五十二条第一項に規定するばい煙発生施設等設置者をいう。以下同じ。）が当該補償給付の支給の原因となつた行為に基づき損害を<Ruby>塡<Rt>てん</Rt></Ruby>補したために当該年度において都道府県知事又は法第四条第三項の政令で定める市の長が補償給付の支給を免れることとなつた額（その額が当該ばい煙発生施設等設置者が当該年度において納付する汚染負荷量賦課金の額（次条の規定により算定した額を除く。）を超える場合にあつては、その汚染負荷量賦課金の額）を限度として行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1974-08-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-29T12:03:31+09:00"
+ }
+}

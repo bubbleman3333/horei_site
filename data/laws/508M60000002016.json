@@ -1,0 +1,57 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000002016",
+  "law_num": "令和八年内閣府令第十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "016",
+  "promulgation_date": "2026-03-30"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000002016_20261001_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "一時保護委託者の登録等に関する基準",
+  "law_title_kana": "いちじほごいたくしゃのとうろくとうにかんするきじゅん",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-05-14T10:48:59+09:00",
+  "amendment_promulgate_date": "2026-03-30",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000002016_20261001_000000000000000",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "児童福祉法（昭和二十二年法律第百六十四号。以下「法」という。）第三十四条の二十二第三項の内閣府令で定める基準（以下この条において「一時保護委託者登録等基準」という。）は、次の各号に掲げる基準に応じ、それぞれ当該各号に定める規定による基準とする。",
+   "一時保護委託者登録等基準は、登録一時保護委託施設に入所している児童が、明るくて、衛生的な環境において、素養があり、かつ、適切な訓練を受けた職員（児童相談所長及び登録一時保護委託者の管理者を含む。以下同じ。）の支援により、心身ともに健やかにして、安全な生活を送ることを保障するものとする。",
+   "内閣総理大臣は、一時保護委託者登録等基準を常に向上させるように努めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-14T10:48:59+09:00"
+ }
+}

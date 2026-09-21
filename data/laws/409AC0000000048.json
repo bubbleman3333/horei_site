@@ -1,0 +1,200 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "409AC0000000048",
+  "law_num": "平成九年法律第四十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "Act",
+  "law_num_num": "048",
+  "promulgation_date": "1997-05-09"
+ },
+ "revision_info": {
+  "law_revision_id": "409AC0000000048_20260401_506AC0000000047",
+  "law_type": "Act",
+  "law_title": "日本私立学校振興・共済事業団法",
+  "law_title_kana": "にほんしりつがっこうしんこうきょうさいじぎょうだんほう",
+  "abbrev": "私学事業団法",
+  "category": "教育",
+  "updated": "2026-04-02T00:01:18+09:00",
+  "amendment_promulgate_date": "2024-06-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000047",
+  "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第四十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409AC0000000048_20281211_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2028-12-11",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-12-11",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20280604_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2028-06-04",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-04",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20260401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20250401_507AC0000000017",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507AC0000000017",
+   "amendment_law_title": "大学等における修学の支援に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20250401_505AC0000000021",
+   "amendment_promulgate_date": "2023-05-08",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000021",
+   "amendment_law_title": "私立学校法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20241001_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20240612_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-06-12",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20240401_505AC0000000031",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000031",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20240401_504AC0000000096",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0000000096",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20221209_504AC0000000096",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504AC0000000096",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20200605_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2020-06-05",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20200401_501AC0000000008",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000008",
+   "amendment_law_title": "大学等における修学の支援に関する法律",
+   "amendment_law_num": "令和元年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20190517_501AC0000000008",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2019-05-17",
+   "amendment_law_id": "501AC0000000008",
+   "amendment_law_title": "大学等における修学の支援に関する法律",
+   "amendment_law_num": "令和元年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000048_20160401_428CO0000000180",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000180",
+   "amendment_law_title": "持続可能な医療保険制度を構築するための国民健康保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　役員等",
+  "第三章　業務",
+  "第四章　財務及び会計",
+  "第五章　監督",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（設立の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本私立学校振興・共済事業団は、私立学校の教育の充実及び向上並びにその経営の安定並びに私立学校教職員の福利厚生を図るため、補助金の交付、資金の貸付けその他私立学校教育に対する援助に必要な業務を総合的かつ効率的に行うとともに、私立学校教職員共済法（昭和二十八年法律第二百四十五号。以下「共済法」という。）の規定による共済制度を運営し、もって私立学校教育の振興に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-05-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T00:01:18+09:00"
+ }
+}

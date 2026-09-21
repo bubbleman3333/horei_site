@@ -1,0 +1,162 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "411AC0000000152",
+  "law_num": "平成十一年法律第百五十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "Act",
+  "law_num_num": "152",
+  "promulgation_date": "1999-12-08"
+ },
+ "revision_info": {
+  "law_revision_id": "411AC0000000152_20260624_508AC0000000045",
+  "law_type": "Act",
+  "law_title": "後見登記等に関する法律",
+  "law_title_kana": "こうけんとうきとうにかんするほうりつ",
+  "abbrev": "成年後見制度等関連四法,後見登記法",
+  "category": "民事",
+  "updated": "2026-06-24T11:29:32+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000045",
+  "amendment_law_title": "民法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第四十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411AC0000000152_20281223_508AC0000000045",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "公布の日から起算して二年六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000045",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20260624_508AC0000000045",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000045",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20230401_503AC0000000024",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000024",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20220901_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20220401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20210428_503AC0000000024",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2021-04-28",
+   "amendment_law_id": "503AC0000000024",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20191216_501AC0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501AC0000000016",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20191211_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20170530_428AC0000000051",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000051",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000152_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "民法（明治二十九年法律第八十九号）に規定する補助に関する登記及び任意後見契約に関する法律（平成十一年法律第百五十号。以下「任意後見契約法」という。）に規定する任意後見契約の登記（以下「後見登記等」という。）については、他の法令に定めるもののほか、この法律の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-12-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-24T11:29:32+09:00"
+ }
+}

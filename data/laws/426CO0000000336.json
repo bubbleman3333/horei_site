@@ -1,0 +1,236 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "426CO0000000336",
+  "law_num": "平成二十六年政令第三百三十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "336",
+  "promulgation_date": "2014-10-17"
+ },
+ "revision_info": {
+  "law_revision_id": "426CO0000000336_20260401_508CO0000000092",
+  "law_type": "CabinetOrder",
+  "law_title": "特定秘密の保護に関する法律施行令",
+  "law_title_kana": "とくていひみつのほごにかんするほうりつしこうれい",
+  "abbrev": "特定秘密法施行令,特定秘密保護法施行令",
+  "category": "防衛",
+  "updated": "2026-04-20T10:15:51+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000092",
+  "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第九十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426CO0000000336_20260401_508CO0000000092",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000092",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20260401_508CO0000000058",
+   "amendment_promulgate_date": "2026-03-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000058",
+   "amendment_law_title": "特定秘密の保護に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20250901_507CO0000000281",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507CO0000000281",
+   "amendment_law_title": "人工知能戦略本部令",
+   "amendment_law_num": "令和七年政令第二百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20240601_506CO0000000195",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506CO0000000195",
+   "amendment_law_title": "船舶活用医療推進本部令",
+   "amendment_law_num": "令和六年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20240101_505CO0000000368",
+   "amendment_promulgate_date": "2023-12-20",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505CO0000000368",
+   "amendment_law_title": "認知症施策推進本部令",
+   "amendment_law_num": "令和五年政令第三百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20230913_505CO0000000286",
+   "amendment_promulgate_date": "2023-09-13",
+   "amendment_enforcement_date": "2023-09-13",
+   "amendment_law_id": "505CO0000000286",
+   "amendment_law_title": "特定秘密の保護に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20230901_505CO0000000266",
+   "amendment_promulgate_date": "2023-08-30",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505CO0000000266",
+   "amendment_law_title": "新型インフルエンザ等対策推進会議令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20220401_504CO0000000080",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000080",
+   "amendment_law_title": "特定秘密の保護に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20220101_503CO0000000349",
+   "amendment_promulgate_date": "2021-12-28",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000349",
+   "amendment_law_title": "持続可能な社会保障制度の確立を図るための改革の推進に関する法律第十五条及び第二十四条の政令で定める日を定める政令",
+   "amendment_law_num": "令和三年政令第三百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20210901_503CO0000000191",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000191",
+   "amendment_law_title": "デジタル社会形成基本法の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和三年政令第百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20210701_503CO0000000170",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503CO0000000170",
+   "amendment_law_title": "特定秘密の保護に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20210401_503CO0000000138",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000138",
+   "amendment_law_title": "新型インフルエンザ等対策推進会議令",
+   "amendment_law_num": "令和三年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20201126_502CO0000000335",
+   "amendment_promulgate_date": "2020-11-26",
+   "amendment_enforcement_date": "2020-11-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000335",
+   "amendment_law_title": "特定秘密の保護に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20200107_501CO0000000136",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_law_id": "501CO0000000136",
+   "amendment_law_title": "特定複合観光施設区域整備法の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20191211_501CO0000000177",
+   "amendment_promulgate_date": "2019-12-10",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000177",
+   "amendment_law_title": "特定秘密の保護に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000336_20160101_427CO0000000427",
+   "amendment_promulgate_date": "2015-12-18",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000427",
+   "amendment_law_title": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第四百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　特定秘密の指定等",
+  "第三章　特定秘密の提供",
+  "第四章　適性評価等"
+ ],
+ "article1": {
+  "caption": "（行政機関から除かれる機関）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定秘密の保護に関する法律（以下「法」という。）附則第三条の規定により読み替えて適用する法第二条の行政機関から除かれる機関は、都市再生本部、構造改革特別区域推進本部、知的財産戦略本部、地球温暖化対策推進本部、地域再生本部、郵政民営化推進本部、中心市街地活性化本部、道州制特別区域推進本部、総合海洋政策本部、宇宙開発戦略本部、総合特別区域推進本部、原子力防災会議、国土強<Ruby>靱<Rt>じん</Rt></Ruby>化推進本部、健康・医療戦略推進本部、水循環政策本部、まち・ひと・しごと創生本部、サイバーセキュリティ戦略本部、特定複合観光施設区域整備推進本部、ギャンブル等依存症対策推進本部、アイヌ政策推進本部、新型インフルエンザ等対策推進会議、認知症施策推進本部、船舶活用医療推進本部、人工知能戦略本部、人事院、宮内庁、公正取引委員会、個人情報保護委員会、カジノ管理委員会、こども家庭庁、デジタル庁、公害等調整委員会、検察庁、公安審査委員会、国税庁、スポーツ庁、文化庁、中央労働委員会、林野庁、特許庁、中小企業庁、観光庁、運輸安全委員会及び会計検査院とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-10-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T10:15:51+09:00"
+ }
+}

@@ -1,0 +1,463 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "333CO0000000207",
+  "law_num": "昭和三十三年政令第二百七号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "207",
+  "promulgation_date": "1958-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "333CO0000000207_20260801_508CO0000000240",
+  "law_type": "CabinetOrder",
+  "law_title": "国家公務員共済組合法施行令",
+  "law_title_kana": "こっかこうむいんきょうさいくみあいほうせこうれい",
+  "abbrev": "国公共済法施行令",
+  "category": "国家公務員",
+  "updated": "2026-08-13T11:51:05+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000240",
+  "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333CO0000000207_20270801_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2027-08-01",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20260801_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20260729_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-07-29",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20260408_508CO0000000133",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000133",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20260401_508CO0000000011",
+   "amendment_promulgate_date": "2026-02-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000011",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20250905_507CO0000000314",
+   "amendment_promulgate_date": "2025-09-05",
+   "amendment_enforcement_date": "2025-09-05",
+   "amendment_law_id": "507CO0000000314",
+   "amendment_law_title": "国家公務員共済組合法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20250501_507CO0000000101",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507CO0000000101",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20250401_507CO0000000140",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000140",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20250401_507CO0000000108",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000108",
+   "amendment_law_title": "国家公務員共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20241101_506CO0000000331",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506CO0000000331",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20241001_506CO0000000294",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000294",
+   "amendment_law_title": "国家公務員共済組合法施行令及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行及び国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律の一部の施行に伴う国家公務員共済組合法による長期給付等に関する経過措置に関する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20240902_506CO0000000268",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506CO0000000268",
+   "amendment_law_title": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20240517_506CO0000000186",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506CO0000000186",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20240425_506CO0000000174",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506CO0000000174",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和六年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20240401_506CO0000000129",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000129",
+   "amendment_law_title": "国家公務員共済組合法施行令及び令和五年度における旧国家公務員等共済組合法による退職年金等の俸給年額改定率の改定に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20240401_506CO0000000062",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000062",
+   "amendment_law_title": "脱炭素社会の実現に向けた電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20240216_505CO0000000379",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-02-16",
+   "amendment_law_id": "505CO0000000379",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律施行令",
+   "amendment_law_num": "令和五年政令第三百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20230401_505CO0000000119",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000119",
+   "amendment_law_title": "国家公務員共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20230401_505CO0000000023",
+   "amendment_promulgate_date": "2023-02-01",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000023",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20230401_504CO0000000128",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000128",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律及び国会職員法及び国家公務員退職手当法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20221114_504CO0000000348",
+   "amendment_promulgate_date": "2022-11-11",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504CO0000000348",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整理及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20221001_504CO0000000265",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000265",
+   "amendment_law_title": "国家公務員共済組合法施行令及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行及び国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律の一部の施行に伴う国家公務員共済組合法による長期給付等に関する経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20220701_504CO0000000238",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504CO0000000238",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20220617_504CO0000000218",
+   "amendment_promulgate_date": "2022-06-16",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504CO0000000218",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20220401_504CO0000000171",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000171",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20220401_504CO0000000118",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000118",
+   "amendment_law_title": "国家公務員共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20220101_503CO0000000321",
+   "amendment_promulgate_date": "2021-12-03",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000321",
+   "amendment_law_title": "国家公務員共済組合法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20220101_503CO0000000222",
+   "amendment_promulgate_date": "2021-08-04",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000222",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20210401_503CO0000000103",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000103",
+   "amendment_law_title": "国家公務員共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20200901_502CO0000000247",
+   "amendment_promulgate_date": "2020-08-14",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000247",
+   "amendment_law_title": "国家公務員共済組合法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20200401_502CO0000000138",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000138",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20200401_431CO0000000146",
+   "amendment_promulgate_date": "2019-04-05",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431CO0000000146",
+   "amendment_law_title": "厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十一年政令第百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20190401_431CO0000000040",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000040",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "平成三十一年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20190401_430CO0000000126",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000126",
+   "amendment_law_title": "地方税法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20190330_431CO0000000129",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-03-30",
+   "amendment_law_id": "431CO0000000129",
+   "amendment_law_title": "国立研究開発法人科学技術振興機構法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000207_20180925_430CO0000000265",
+   "amendment_promulgate_date": "2018-09-21",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430CO0000000265",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第二百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　組合及び連合会",
+  "第三章　給付",
+  "第四章　費用の負担",
+  "第四章の二　地方公務員共済組合連合会に対する財政調整拠出金",
+  "第五章　国家公務員共済組合審査会",
+  "第五章の二　資料の提供",
+  "第六章　権限の委任",
+  "第七章　外国で勤務する組合員に係る特例",
+  "第八章　公庫等の継続長期組合員に係る特例",
+  "第八章の二　行政執行法人以外の独立行政法人又は国立大学法人等に常時勤務することを要する者の取扱い",
+  "第八章の三　組合職員及び連合会役職員の取扱い",
+  "第九章　地方公務員共済組合との関係",
+  "第十章　任意継続組合員に係る特例"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において、「行政執行法人」、「職員」、「被扶養者」、「遺族」、「退職」、「報酬」、「期末手当等」、「組合」、「組合の代表者」、「連合会」、「独立行政法人」、「国立大学法人等」、「受給権者」、「地方の組合」、「私学共済制度の加入者」、「厚生年金保険給付」、「退職等年金給付」、「継続長期組合員」、「任意継続組合員」、「任意継続掛金」、「特定共済組合」、「特例退職組合員」、「郵政会社等」若しくは「日本郵政共済組合」又は「旧法」、「恩給公務員期間」、「在職年」、「旧長期組合員期間」若しくは「恩給更新組合員」とは、それぞれ国家公務員共済組合法（以下「法」という。）第一条第二項、第二条第一項第一号から第六号まで、第三条第一項、第八条第二項、第二十一条第一項、第三十一条第一号、第三十九条第一項、第五十五条第一項第二号、第七十三条第一項、第七十四条、第百二十四条の二第二項、第百二十六条の五第二項、附則第十二条第一項若しくは第三項、附則第二十条の二第二項若しくは附則第二十条の三第一項又は国家公務員共済組合法の長期給付に関する施行法（昭和三十三年法律第百二十九号。以下「施行法」という。）第二条第二号、第十号、第十一号若しくは第十三号若しくは第二十三条第一項に規定する行政執行法人、職員、被扶養者、遺族、退職、報酬、期末手当等、組合、組合の代表者、連合会、独立行政法人、国立大学法人等、受給権者、地方の組合、私学共済制度の加入者、厚生年金保険給付、退職等年金給付、継続長期組合員、任意継続組合員、任意継続掛金、特定共済組合、特例退職組合員、郵政会社等若しくは日本郵政共済組合又は旧法、恩給公務員期間…"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-06-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-13T11:51:05+09:00"
+ }
+}

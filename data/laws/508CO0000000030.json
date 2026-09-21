@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000030",
+  "law_num": "令和八年政令第三十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "030",
+  "promulgation_date": "2026-03-13"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000030_20260529_508CO0000000183",
+  "law_type": "CabinetOrder",
+  "law_title": "令和七年等における特定地域に係る激甚災害及びこれに対し適用すべき措置の指定に関する政令",
+  "law_title_kana": "れいわななねんとうにおけるとくていちいきにかかるげきじんさいがいおよびこれにたいしてきようすべきそちのしていにかんするせいれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-06-09T14:06:01+09:00",
+  "amendment_promulgate_date": "2026-05-29",
+  "amendment_enforcement_date": "2026-05-29",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000183",
+  "amendment_law_title": "令和七年等における特定地域に係る激甚災害及びこれに対し適用すべき措置の指定に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百八十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000030_20260529_508CO0000000183",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-05-29",
+   "amendment_law_id": "508CO0000000183",
+   "amendment_law_title": "令和七年等における特定地域に係る激甚災害及びこれに対し適用すべき措置の指定に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "508CO0000000030_20260313_000000000000000",
+   "amendment_promulgate_date": "2026-03-13",
+   "amendment_enforcement_date": "2026-03-13",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（激甚災害及びこれに対し適用すべき措置の指定）",
+  "title": "第一条",
+  "paragraphs": [
+   "次の表の上欄に掲げる災害を激<Ruby>甚<Rt>じん</Rt></Ruby>災害に対処するための特別の財政援助等に関する法律（以下「法」という。）第二条第一項の激甚災害として指定し、当該激甚災害に対し適用すべき措置を同表の下欄に掲げるとおり指定する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-09T14:06:01+09:00"
+ }
+}

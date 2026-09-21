@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000206",
+  "law_num": "令和八年政令第二百六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "206",
+  "promulgation_date": "2026-06-24"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000206_20260624_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律の施行期日を定める政令",
+  "law_title_kana": "きんゆうきのうのきょうかのためのとくべつそちにかんするほうりつとうのいちぶをかいせいするほうりつのしこうきじつをさだめるせいれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-09-10T22:29:07+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": "",
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000206_20260624_000000000000000",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "金融機能の強化のための特別措置に関する法律等の一部を改正する法律の施行期日は、令和八年六月二十五日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-10T22:29:07+09:00"
+ }
+}

@@ -1,0 +1,217 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "333AC0000000106",
+  "law_num": "昭和三十三年法律第百六号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "Act",
+  "law_num_num": "106",
+  "promulgation_date": "1958-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "333AC0000000106_20260521_505AC0000000053",
+  "law_type": "Act",
+  "law_title": "企業担保法",
+  "law_title_kana": "きぎょうたんぽほう",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-05-21T01:03:17+09:00",
+  "amendment_promulgate_date": "2023-06-14",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000053",
+  "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和五年法律第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333AC0000000106_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20271205_507AC0000000057",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2027-12-05",
+   "amendment_enforcement_comment": "譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-12-05",
+   "amendment_law_id": "507AC0000000057",
+   "amendment_law_title": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20260521_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20250606_507AC0000000057",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-06-06",
+   "amendment_law_id": "507AC0000000057",
+   "amendment_law_title": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20240301_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20200401_501AC0000000002",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000002",
+   "amendment_law_title": "民事執行法及び国際的な子の奪取の民事上の側面に関する条約の実施に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20190517_501AC0000000002",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2019-05-17",
+   "amendment_law_id": "501AC0000000002",
+   "amendment_law_title": "民事執行法及び国際的な子の奪取の民事上の側面に関する条約の実施に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000106_20081001_419AC0000000085",
+   "amendment_promulgate_date": "2007-06-13",
+   "amendment_enforcement_date": "2008-10-01",
+   "amendment_law_id": "419AC0000000085",
+   "amendment_law_title": "株式会社日本政策投資銀行法",
+   "amendment_law_num": "平成十九年法律第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　企業担保権",
+  "第二章　企業担保権の実行",
+  "第三章　罰則"
+ ],
+ "article1": {
+  "caption": "（企業担保権）",
+  "title": "第一条",
+  "paragraphs": [
+   "株式会社（以下「会社」という。）の総財産は、その会社の発行する社債を担保するため、一体として、企業担保権の目的とすることができる。",
+   "企業担保権は、物権とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-04-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:03:17+09:00"
+ }
+}

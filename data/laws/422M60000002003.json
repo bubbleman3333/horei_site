@@ -1,0 +1,220 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "422M60000002003",
+  "law_num": "平成二十二年内閣府令第三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 22,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2010-03-01"
+ },
+ "revision_info": {
+  "law_revision_id": "422M60000002003_20260601_508M60000002051",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "前払式支払手段に関する内閣府令",
+  "law_title_kana": "まえばらいしきしはらいしゅだんにかんするないかくふれい",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-06-11T10:46:08+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002051",
+  "amendment_law_title": "資金移動業者に関する内閣府令等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "422M60000002003_20260601_508M60000002051",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000002051",
+   "amendment_law_title": "資金移動業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20260401_508M60000002036",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000002036",
+   "amendment_law_title": "保険業法施行規則及び前払式支払手段に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20260331_507M60000002072",
+   "amendment_promulgate_date": "2025-07-23",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "507M60000002072",
+   "amendment_law_title": "前払式支払手段に関する内閣府令及び資金移動業者に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20251118_507M60000002098",
+   "amendment_promulgate_date": "2025-11-17",
+   "amendment_enforcement_date": "2025-11-18",
+   "amendment_law_id": "507M60000002098",
+   "amendment_law_title": "前払式支払手段に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20240401_506M60000002019",
+   "amendment_promulgate_date": "2024-03-22",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002019",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20230601_505M60000002050",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000002050",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20220401_504M60000002013",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000002013",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20210630_503M60000002044",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002044",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20210501_503M60000002011",
+   "amendment_promulgate_date": "2021-03-19",
+   "amendment_enforcement_date": "2021-05-01",
+   "amendment_law_id": "503M60000002011",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20201223_502M60000002075",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000002075",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20200501_502M60000002035",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002035",
+   "amendment_law_title": "仮想通貨交換業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20191214_501M60000002041",
+   "amendment_promulgate_date": "2019-11-21",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002041",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20191015_501M60000002034",
+   "amendment_promulgate_date": "2019-10-15",
+   "amendment_enforcement_date": "2019-10-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002034",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20190701_501M60000002014",
+   "amendment_promulgate_date": "2019-06-24",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002014",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20170401_429M60000002008",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002008",
+   "amendment_law_num": "平成二十九年内閣府令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002003_20170401_429M60000002006",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002006",
+   "amendment_law_num": "平成二十九年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　自家型発行者",
+  "第三章　第三者型発行者",
+  "第四章　業務",
+  "第五章　監督",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において「前払式支払手段発行者」、「電子決済手段」、「物品等」、「認定資金決済事業者協会」、「信託会社等」、「銀行等」又は「破産手続開始の申立て等」とは、それぞれ資金決済に関する法律（以下「法」という。）第二条に規定する前払式支払手段発行者、電子決済手段、物品等、認定資金決済事業者協会、信託会社等、銀行等又は破産手続開始の申立て等をいう。",
+   "この府令において「前払式支払手段」、「基準日未使用残高」、「支払可能金額等」、「自家型前払式支払手段」、「第三者型前払式支払手段」、「自家型発行者」、「第三者型発行者」、「高額電子移転可能型前払式支払手段」、「前払式支払手段記録口座」又は「基準期間」とは、それぞれ法第三条に規定する前払式支払手段、基準日未使用残高、支払可能金額等、自家型前払式支払手段、第三者型前払式支払手段、自家型発行者、第三者型発行者、高額電子移転可能型前払式支払手段、前払式支払手段記録口座又は基準期間をいう。",
+   "この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2010-03-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-11T10:46:08+09:00"
+ }
+}

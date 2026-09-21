@@ -1,0 +1,146 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "415AC0000000044",
+  "law_num": "平成十五年法律第四十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "Act",
+  "law_num_num": "044",
+  "promulgation_date": "2003-05-16"
+ },
+ "revision_info": {
+  "law_revision_id": "415AC0000000044_20260916_508AC0000000043",
+  "law_type": "Act",
+  "law_title": "中間貯蔵・環境安全事業株式会社法",
+  "law_title_kana": "ちゅうかんちょぞうかんきょうあんぜんじぎょうかぶしきがいしゃほう",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-09-16T00:08:18+09:00",
+  "amendment_promulgate_date": "2026-06-19",
+  "amendment_enforcement_date": "2026-09-16",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000043",
+  "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415AC0000000044_20281218_508AC0000000043",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2028-12-18",
+   "amendment_enforcement_comment": "公布の日から起算して二年六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-12-18",
+   "amendment_law_id": "508AC0000000043",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000044_20270618_508AC0000000044",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2027-06-18",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-06-18",
+   "amendment_law_id": "508AC0000000044",
+   "amendment_law_title": "ポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法及び中間貯蔵・環境安全事業株式会社法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000044_20270401_508AC0000000044",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000044",
+   "amendment_law_title": "ポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法及び中間貯蔵・環境安全事業株式会社法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000044_20260916_508AC0000000043",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-09-16",
+   "amendment_law_id": "508AC0000000043",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000044_20260619_508AC0000000044",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-06-19",
+   "amendment_law_id": "508AC0000000044",
+   "amendment_law_title": "ポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法及び中間貯蔵・環境安全事業株式会社法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000044_20260619_508AC0000000043",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-06-19",
+   "amendment_law_id": "508AC0000000043",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000044_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000044_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000044_20150501_426AC0000000091",
+   "amendment_promulgate_date": "2014-06-27",
+   "amendment_enforcement_date": "2015-05-01",
+   "amendment_law_id": "426AC0000000091",
+   "amendment_law_num": "平成二十六年法律第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　事業等",
+  "第三章　雑則",
+  "第四章　罰則"
+ ],
+ "article1": {
+  "caption": "（会社の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "中間貯蔵・環境安全事業株式会社（以下「会社」という。）は、中間貯蔵の確実かつ適正な実施の確保を図り、事故由来放射性物質による環境の汚染が人の健康又は生活環境に及ぼす影響を速やかに低減することに資するため、中間貯蔵に係る事業を行うとともに、ポリ塩化ビフェニル廃棄物の確実かつ適正な処理及び非常災害廃棄物（廃棄物の処理及び清掃に関する法律（昭和四十五年法律第百三十七号）第二条の三第一項に規定する非常災害廃棄物をいう。以下同じ。）の適正な処理の円滑かつ迅速な実施その他環境の保全に資するため、ポリ塩化ビフェニル廃棄物及び非常災害廃棄物の処理に係る事業並びに環境の保全に関する情報及び技術的知識の提供に係る事業を行うことを目的とする株式会社とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-05-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-16T00:08:18+09:00"
+ }
+}

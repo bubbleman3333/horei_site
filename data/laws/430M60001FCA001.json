@@ -1,0 +1,235 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "430M60001FCA001",
+  "law_num": "平成三十年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2018-07-06"
+ },
+ "revision_info": {
+  "law_revision_id": "430M60001FCA001_20260731_508M60001FCA004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "産業競争力強化法施行規則",
+  "law_title_kana": "さんぎょうきょうそうりょくきょうかほうしこうきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-08-18T11:29:09+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001FCA004",
+  "amendment_law_title": "産業競争力強化法施行規則及び産業競争力強化法に基づく認定技術等情報漏えい防止措置認証機関に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430M60001FCA001_20260731_508M60001FCA004",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508M60001FCA004",
+   "amendment_law_title": "産業競争力強化法施行規則及び産業競争力強化法に基づく認定技術等情報漏えい防止措置認証機関に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20260701_508M60001FCA003",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001FCA003",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20260525_507M60001FCA008",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507M60001FCA008",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20260401_508M60001FCA002",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60001FCA002",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20250401_507M60001FCA005",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60001FCA005",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20250325_507M60001FCA002",
+   "amendment_promulgate_date": "2025-03-25",
+   "amendment_enforcement_date": "2025-03-25",
+   "amendment_law_id": "507M60001FCA002",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20240902_506M60001FCA005",
+   "amendment_promulgate_date": "2024-09-02",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506M60001FCA005",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20240401_506M60001FCA003",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60001FCA003",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20230401_505M60001FCA002",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60001FCA002",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20220401_504M60001FCA002",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60001FCA002",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20210802_503M60001FCA002",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503M60001FCA002",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20210616_503M60001FCA001",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60001FCA001",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20201228_502M60001FCA008",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60001FCA008",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20191214_501M60001FCA006",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60001FCA006",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20190719_501M60001FCA004",
+   "amendment_promulgate_date": "2019-07-19",
+   "amendment_enforcement_date": "2019-07-19",
+   "amendment_law_id": "501M60001FCA004",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20190701_501M60001FCA003",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60001FCA003",
+   "amendment_law_title": "産業競争力強化法施行規則及び産業競争力強化法に基づく認定技術等情報漏えい防止措置認証機関に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20180925_430M60001FCA002",
+   "amendment_promulgate_date": "2018-09-25",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430M60001FCA002",
+   "amendment_law_title": "産業競争力強化法施行規則の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60001FCA001_20180709_000000000000000",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2018-07-09",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　削除",
+  "第二章の二　事業適応の円滑化",
+  "第三章　事業再編の円滑化",
+  "第四章　創業等の支援",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令において使用する用語は、産業競争力強化法（以下「法」という。）及び産業競争力強化法施行令（以下「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-07-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-18T11:29:09+09:00"
+ }
+}

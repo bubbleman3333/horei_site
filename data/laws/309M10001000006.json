@@ -1,0 +1,201 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "309M10001000006",
+  "law_num": "昭和九年逓信省令第六号",
+  "law_num_era": "Showa",
+  "law_num_year": 9,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "1934-02-01"
+ },
+ "revision_info": {
+  "law_revision_id": "309M10001000006_20260101_507M60000800121",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "船舶設備規程",
+  "law_title_kana": "せんぱくせつびきてい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-01-19T09:27:35+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800121",
+  "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第百二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "309M10001000006_21171231_505M60000800008",
+   "amendment_promulgate_date": "2023-03-10",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "千九百七十七年の漁船の安全のためのトレモリノス国際条約に関する千九百九十三年のトレモリノス議定書の規定の実施に関する二千十二年のケープタウン協定が日本国について効力を生ずる日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "505M60000800008",
+   "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20261001_508M60000800037",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800037",
+   "amendment_law_title": "船舶設備規程及び小型船舶安全規則の一部を改正する省令及び船舶区画規程等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20260101_507M60000800121",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000800121",
+   "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20241030_506M60000800094",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-10-30",
+   "amendment_law_id": "506M60000800094",
+   "amendment_law_title": "船舶区画規程等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20240401_506M60000800024",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800024",
+   "amendment_law_title": "船舶設備規程及び小型船舶安全規則の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20240101_505M60000800097",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000800097",
+   "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20210701_503M60000800042",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503M60000800042",
+   "amendment_law_title": "海上交通安全法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20200101_501M60000800046",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "501M60000800046",
+   "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20180131_429M60000800064",
+   "amendment_promulgate_date": "2017-10-25",
+   "amendment_enforcement_date": "2018-01-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000800064",
+   "amendment_law_title": "海上交通安全法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "309M10001000006_20170101_428M60000800084",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428M60000800084",
+   "amendment_law_num": "平成二十八年国土交通省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一編　総則",
+  "第二編　居住、衛生及非常用設備",
+  "第一章　旅客室",
+  "第二章　旅客定員",
+  "第三章　旅客ニ関スル設備",
+  "第四章　船員に関する設備",
+  "第五章　衛生設備",
+  "第六章　脱出設備その他の非常用設備",
+  "第三編　操<Ruby>舵<Rt>だ</Rt></Ruby>、係船及び揚<Ruby>錨<Rt>びよう</Rt></Ruby>の設備並びに航海用具",
+  "第一章　係船及び揚<Ruby>錨<Rt>びよう</Rt></Ruby>の設備",
+  "第二章　操<Ruby>舵<Rt>だ</Rt></Ruby>の設備",
+  "第三章　航海用具",
+  "第四編　特殊貨物ノ積附設備",
+  "第一章　危険物ノ積附設備",
+  "第二章　ばら積み固体貨物の積付設備",
+  "第三章　ばら積み液体貨物の積付設備",
+  "第四章　其ノ他ノ特殊貨物ノ積附設備",
+  "第五編　荷役その他の作業の設備",
+  "第一章　揚貨装置",
+  "第二章　遠隔荷役装置等",
+  "第三章　潜水設備",
+  "第六編　電気設備",
+  "第一章　総則",
+  "第二章　発電及び変電設備",
+  "第三章　配電設備",
+  "第四章　電路",
+  "第五章　電気利用設備",
+  "第六章　非常電源等",
+  "第七章　引火性液体を運送する船舶の電気設備",
+  "第八章　ロールオン・ロールオフ貨物区域等を有する船舶の電気設備",
+  "第九章　燃料電池自動車等を積載する自動車運搬船の電気設備",
+  "第七編　特殊設備",
+  "第一章　昇降設備",
+  "第二章　焼却設備",
+  "第三章　コンテナ設備",
+  "第四章　その他の特殊設備",
+  "第八編　無線電信等",
+  "第九編　雑則"
+ ],
+ "article1": {
+  "caption": "（総トン数）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令を適用する場合における総トン数は、船舶安全法施行規則（昭和三十八年運輸省令第四十一号）第六十六条の二の総トン数とする。",
+   "前項の規定にかかわらず、第九十七条第四項の規定を適用する場合における総トン数は、船舶のトン数の測度に関する法律（昭和五十五年法律第四十号。以下「トン数法」という。）第五条第一項の総トン数とする。",
+   "前二項の規定にかかわらず、第百四十四条、第百四十六条の十二から第百四十六条の十六まで、第百四十六条の二十から第百四十六条の二十七まで、第百四十六条の二十九から第百四十六条の三十まで、第百四十六条の四十三及び第百四十六条の四十九の規定を適用する場合における総トン数は、次の各号に掲げる船舶の区分に応じ、それぞれ当該各号に定める総トン数とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1934-02-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-01-19T09:27:35+09:00"
+ }
+}

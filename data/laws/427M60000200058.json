@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "427M60000200058",
+  "law_num": "平成二十七年農林水産省令第五十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 27,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "058",
+  "promulgation_date": "2015-05-29"
+ },
+ "revision_info": {
+  "law_revision_id": "427M60000200058_20251003_507M60000200047",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定農林水産物等の名称の保護に関する法律施行規則",
+  "law_title_kana": "とくていのうりんすいさんぶつとうのめいしょうのほごにかんするほうりつしこうきそく",
+  "abbrev": "地理的表示法施行規則",
+  "category": "産業通則",
+  "updated": "2025-10-21T09:21:00+09:00",
+  "amendment_promulgate_date": "2025-10-03",
+  "amendment_enforcement_date": "2025-10-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000200047",
+  "amendment_law_title": "特定農林水産物等の名称の保護に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年農林水産省令第四十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "427M60000200058_20251003_507M60000200047",
+   "amendment_promulgate_date": "2025-10-03",
+   "amendment_enforcement_date": "2025-10-03",
+   "amendment_law_id": "507M60000200047",
+   "amendment_law_title": "特定農林水産物等の名称の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "427M60000200058_20221101_504M60000200060",
+   "amendment_promulgate_date": "2022-10-24",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000200060",
+   "amendment_law_title": "特定農林水産物等の名称の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000200058_20210701_503M60000200040",
+   "amendment_promulgate_date": "2021-06-28",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503M60000200040",
+   "amendment_law_title": "農林水産省組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000200058_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000200058_20190201_431M60000200005",
+   "amendment_promulgate_date": "2019-01-30",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000200005",
+   "amendment_law_title": "特定農林水産物等の名称の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000200058_20161226_428M60000200079",
+   "amendment_promulgate_date": "2016-12-22",
+   "amendment_enforcement_date": "2016-12-26",
+   "amendment_law_id": "428M60000200079",
+   "amendment_law_num": "平成二十八年農林水産省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（地理的表示）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定農林水産物等の名称の保護に関する法律（以下「法」という。）第二条第三項に規定する地理的表示には、文字、図形若しくは記号又はこれらの結合により表記された特定農林水産物等の名称の表示であって、当該名称を表示するものとして需要者の間に広く認識されているものを含むものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2015-05-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-21T09:21:00+09:00"
+ }
+}

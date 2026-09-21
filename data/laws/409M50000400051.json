@@ -1,0 +1,154 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "409M50000400051",
+  "law_num": "平成九年通商産業省令第五十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "051",
+  "promulgation_date": "1997-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "409M50000400051_20260601_508M60000400004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "発電用火力設備に関する技術基準を定める省令",
+  "law_title_kana": "はつでんようかりょくせつびにかんするぎじゅつきじゅんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-06-01T01:29:08+09:00",
+  "amendment_promulgate_date": "2026-02-27",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400004",
+  "amendment_law_title": "発電用火力設備に関する技術基準を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409M50000400051_20260601_508M60000400004",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000400004",
+   "amendment_law_title": "発電用火力設備に関する技術基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409M50000400051_20230320_504M60000400096",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2023-03-20",
+   "amendment_law_id": "504M60000400096",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000400051_20221215_504M60000400095",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2022-12-15",
+   "amendment_law_id": "504M60000400095",
+   "amendment_law_title": "発電用火力設備に関する技術基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000400051_20220401_504M60000400024",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000400024",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "令和四年経済産業省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000400051_20210401_503M60000400012",
+   "amendment_promulgate_date": "2021-03-10",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000400012",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000400051_20210226_503M60000400006",
+   "amendment_promulgate_date": "2021-02-26",
+   "amendment_enforcement_date": "2021-02-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000400006",
+   "amendment_law_title": "発電用火力設備に関する技術基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000400051_20190603_501M60000400013",
+   "amendment_promulgate_date": "2019-06-03",
+   "amendment_enforcement_date": "2019-06-03",
+   "amendment_law_id": "501M60000400013",
+   "amendment_law_title": "発電用火力設備に関する技術基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和元年経済産業省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000400051_20180401_429M60000400032",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429M60000400032",
+   "amendment_law_title": "電気関係報告規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年経済産業省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000400051_20170401_429M60000400032",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000400032",
+   "amendment_law_num": "平成二十九年経済産業省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　ボイラー等及びその附属設備",
+  "第三章　蒸気タービン及びその附属設備",
+  "第四章　ガスタービン及びその附属設備",
+  "第五章　内燃機関及びその附属設備",
+  "第六章　燃料電池設備",
+  "第七章　液化ガス設備",
+  "第八章　ガス化炉設備",
+  "第八章の二　バイオマス燃料設備",
+  "第九章　可燃性の廃棄物を主な原材料として固形化した燃料の貯蔵設備",
+  "第九章の二　スターリングエンジン及びその附属設備",
+  "第十章　溶接部",
+  "第十一章　雑則"
+ ],
+ "article1": {
+  "caption": "（適用範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、火力（地熱又は冷熱（液化ガスが気化する際に発生する熱をいう。）を含む。以下同じ。）を原動力として電気を発生するために施設する電気工作物（電気用品安全法（昭和三十六年法律第二百三十四号）の適用を受ける携帯発電機を除く。）及び燃料電池設備（燃料電池を除く。）について適用する。ただし、原子力発電工作物については、この限りでない。",
+   "前項の電気工作物とは、一般用電気工作物及び事業用電気工作物をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T01:29:08+09:00"
+ }
+}

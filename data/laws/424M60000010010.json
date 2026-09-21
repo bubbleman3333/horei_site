@@ -1,0 +1,84 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "424M60000010010",
+  "law_num": "平成二十四年法務省令第十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "010",
+  "promulgation_date": "2012-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "424M60000010010_20260401_508M60000010010",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "東日本大震災の被災者に対する援助のための日本司法支援センターの業務の特例に関する法律施行規則",
+  "law_title_kana": "ひがしにほんだいしんさいのひさいしゃにたいするえんじょのためのにほんしほうしえんせんたーのぎょうむのとくれいにかんするほうりつしこうきそく",
+  "abbrev": "法テラス震災特例法施行規則",
+  "category": "司法",
+  "updated": "2026-04-02T20:24:02+09:00",
+  "amendment_promulgate_date": "2026-03-16",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010010",
+  "amendment_law_title": "総合法律支援法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第十号",
+  "amendment_type": "8",
+  "repeal_status": "Expire",
+  "repeal_date": "2026-04-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424M60000010010_20260401_508M60000010010",
+   "amendment_promulgate_date": "2026-03-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000010010",
+   "amendment_law_title": "総合法律支援法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第十号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "424M60000010010_20210401_000000000000000",
+   "amendment_promulgate_date": "2012-03-29",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "424M60000010010_20180331_430M60000010016",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-03-31",
+   "amendment_law_id": "430M60000010016",
+   "amendment_law_title": "東日本大震災の被災者に対する援助のための日本司法支援センターの業務の特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年法務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000010010_20150331_427M60000010012",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-03-31",
+   "amendment_law_id": "427M60000010012",
+   "amendment_law_num": "平成二十七年法務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（業務方法書に記載すべき事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "東日本大震災の被災者に対する援助のための日本司法支援センターの業務の特例に関する法律（以下「法」という。）第三条第二項に規定する法務省令で定める事項は、同条第一項に規定する業務（以下「東日本大震災法律援助事業」という。）に関する次に掲げる事項とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T20:24:02+09:00"
+ }
+}

@@ -1,0 +1,113 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000002038",
+  "law_num": "令和五年内閣府令第三十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "038",
+  "promulgation_date": "2023-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000002038_20260408_508M60000002041",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "こども家庭庁組織規則",
+  "law_title_kana": "こどもかていちょうそしききそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-05-20T10:12:09+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002041",
+  "amendment_law_title": "こども家庭庁組織規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第四十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000002038_20260408_508M60000002041",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000002041",
+   "amendment_law_title": "こども家庭庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002038_20250708_507M60000002070",
+   "amendment_promulgate_date": "2025-07-08",
+   "amendment_enforcement_date": "2025-07-08",
+   "amendment_law_id": "507M60000002070",
+   "amendment_law_title": "こども家庭庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002038_20250401_507M60000002044",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002044",
+   "amendment_law_title": "こども家庭庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002038_20241001_506M60000002072",
+   "amendment_promulgate_date": "2024-08-27",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000002072",
+   "amendment_law_title": "児童手当法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002038_20240401_506M60000002042",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002042",
+   "amendment_law_title": "こども家庭庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002038_20230401_000000000000000",
+   "amendment_promulgate_date": "2023-04-01",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　内部部局",
+  "第二章　施設等機関",
+  "第三章　こども家庭庁顧問及びこども家庭庁参与",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（経理室並びに企画官、人事調査官及びサイバーセキュリティ・情報化企画官）",
+  "title": "第一条",
+  "paragraphs": [
+   "総務課に、経理室並びに企画官、人事調査官及びサイバーセキュリティ・情報化企画官を置く。",
+   "経理室は、次に掲げる事務をつかさどる。",
+   "経理室に、室長を置く。",
+   "企画官は、命を受けて、総務課の所掌事務のうち重要事項についての企画及び立案に関する事務を行う。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T10:12:09+09:00"
+ }
+}

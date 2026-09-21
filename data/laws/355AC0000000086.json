@@ -1,0 +1,149 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "355AC0000000086",
+  "law_num": "昭和五十五年法律第八十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 55,
+  "law_num_type": "Act",
+  "law_num_num": "086",
+  "promulgation_date": "1980-11-21"
+ },
+ "revision_info": {
+  "law_revision_id": "355AC0000000086_20250601_504AC0000000068",
+  "law_type": "Act",
+  "law_title": "農住組合法",
+  "law_title_kana": "のうじゅうくみあいほう",
+  "abbrev": null,
+  "category": "建築・住宅",
+  "updated": "2025-06-01T16:03:19+09:00",
+  "amendment_promulgate_date": "2022-06-17",
+  "amendment_enforcement_date": "2025-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000068",
+  "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+  "amendment_law_num": "令和四年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "355AC0000000086_20270526_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2027-05-26",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000086_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000086_20230401_504AC0000000056",
+   "amendment_promulgate_date": "2022-05-27",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000056",
+   "amendment_law_title": "農業経営基盤強化促進法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000086_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000086_20210901_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000086_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000086_20191101_501AC0000000012",
+   "amendment_promulgate_date": "2019-05-24",
+   "amendment_enforcement_date": "2019-11-01",
+   "amendment_law_id": "501AC0000000012",
+   "amendment_law_title": "農地中間管理事業の推進に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000086_20170925_429AC0000000039",
+   "amendment_promulgate_date": "2017-05-26",
+   "amendment_enforcement_date": "2017-09-25",
+   "amendment_law_id": "429AC0000000039",
+   "amendment_law_title": "土地改良法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000086_20130101_423AC0000000053",
+   "amendment_promulgate_date": "2011-05-25",
+   "amendment_enforcement_date": "2013-01-01",
+   "amendment_law_id": "423AC0000000053",
+   "amendment_law_num": "平成二十三年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　事業",
+  "第三章　組合員",
+  "第四章　管理",
+  "第五章　設立",
+  "第六章　解散及び清算",
+  "第七章　監督",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、住宅の需要の著しい地域における市街化区域内農地の所有者等が協同して、必要に応じ当面の営農の継続を図りつつ当該市街化区域内農地を円滑かつ速やかに住宅地等へ転換するための事業を行うために必要な組織を設けることができるようにし、その組織の事業活動を通じてこれらの者の経済的社会的地位の向上並びに住宅地及び住宅の供給の拡大を図り、もつてこれらの地域における住民の生活の安定と福祉の増進に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1980-11-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-06-01T16:03:19+09:00"
+ }
+}

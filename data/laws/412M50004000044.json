@@ -1,0 +1,111 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "412M50004000044",
+  "law_num": "平成十二年建設省令第四十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "044",
+  "promulgation_date": "2000-11-21"
+ },
+ "revision_info": {
+  "law_revision_id": "412M50004000044_20260529_508M60000800056",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "水防法施行規則",
+  "law_title_kana": "すいぼうほうしこうきそく",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-07-06T17:07:33+09:00",
+  "amendment_promulgate_date": "2026-05-15",
+  "amendment_enforcement_date": "2026-05-29",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800056",
+  "amendment_law_title": "気象業務法及び水防法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第五十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412M50004000044_20260529_508M60000800056",
+   "amendment_promulgate_date": "2026-05-15",
+   "amendment_enforcement_date": "2026-05-29",
+   "amendment_law_id": "508M60000800056",
+   "amendment_law_title": "気象業務法及び水防法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412M50004000044_20211101_503M60000800069",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000800069",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50004000044_20210715_503M60000800048",
+   "amendment_promulgate_date": "2021-07-14",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000800048",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50004000044_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50004000044_20170619_429M60000800036",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2017-06-19",
+   "amendment_law_id": "429M60000800036",
+   "amendment_law_num": "平成二十九年国土交通省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50004000044_20150719_427M60000800054",
+   "amendment_promulgate_date": "2015-07-17",
+   "amendment_enforcement_date": "2015-07-19",
+   "amendment_law_id": "427M60000800054",
+   "amendment_law_num": "平成二十七年国土交通省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（洪水浸水想定区域の指定）",
+  "title": "第一条",
+  "paragraphs": [
+   "水防法（以下「法」という。）第十四条第一項及び第二項に規定する洪水浸水想定区域（以下単に「洪水浸水想定区域」という。）の指定は、同条第一項に規定する想定最大規模降雨（以下単に「想定最大規模降雨」という。）によって堤防その他の施設（以下「堤防等」という。）の決壊又は<Ruby>溢<Rt>いつ</Rt></Ruby>流が想定される地点を相当数選定して行うものとする。ただし、同条第一項第三号又は第二項第三号に掲げる河川については、想定最大規模降雨により溢流が想定される連続する区間を設定することその他の水災による被害の軽減を図るために適切であると認められる方法により洪水浸水想定区域の指定を行うことができる。",
+   "洪水浸水想定区域の指定に当たっては、堤防等の構造及び管理の状況を勘案するものとする。",
+   "第一項の規定により選定する地点には、当該地点における堤防等の決壊又は溢流により浸水が想定される区域につき、当該区域が相当規模となるもの又は浸水した場合に想定される水深が相当な深さとなるものが含まれなければならない。",
+   "第一項の規定により選定された地点における堤防等の決壊又は溢流により浸水が想定される区域が重複するときは、当該区域の全部をあわせた区域を一の区域とするものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-11-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-06T17:07:33+09:00"
+ }
+}

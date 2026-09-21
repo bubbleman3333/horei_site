@@ -1,0 +1,238 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "414AC0000000180",
+  "law_num": "平成十四年法律第百八十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "Act",
+  "law_num_num": "180",
+  "promulgation_date": "2002-12-18"
+ },
+ "revision_info": {
+  "law_revision_id": "414AC0000000180_20250601_504AC0000000068",
+  "law_type": "Act",
+  "law_title": "独立行政法人鉄道建設・運輸施設整備支援機構法",
+  "law_title_kana": "どくりつぎょうせいほうじんてつどうけんせつうんゆしせつせいびしえんきこうほう",
+  "abbrev": "鉄運機構法",
+  "category": "行政組織",
+  "updated": "2025-06-01T20:44:31+09:00",
+  "amendment_promulgate_date": "2022-06-17",
+  "amendment_enforcement_date": "2025-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000068",
+  "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+  "amendment_law_num": "令和四年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414AC0000000180_21171231_408AC0000000071",
+   "amendment_promulgate_date": "1996-06-12",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "協定が日本国について効力を生ずる日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "408AC0000000071",
+   "amendment_law_title": "外国船舶製造事業者による船舶の不当廉価建造契約の防止に関する法律",
+   "amendment_law_num": "平成八年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20261119_508AC0000000021",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-11-19",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-11-19",
+   "amendment_law_id": "508AC0000000021",
+   "amendment_law_title": "物資の流通の効率化に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20250401_506AC0000000023",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000023",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20250401_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20240601_506AC0000000023",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506AC0000000023",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20231001_505AC0000000018",
+   "amendment_promulgate_date": "2023-04-28",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505AC0000000018",
+   "amendment_law_title": "地域公共交通の活性化及び再生に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20210401_503AC0000000017",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503AC0000000017",
+   "amendment_law_title": "日本国有鉄道清算事業団の債務等の処理に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20210401_503AC0000000009",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503AC0000000009",
+   "amendment_law_title": "踏切道改良促進法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20210331_503AC0000000017",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_law_id": "503AC0000000017",
+   "amendment_law_title": "日本国有鉄道清算事業団の債務等の処理に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20201127_502AC0000000036",
+   "amendment_promulgate_date": "2020-06-03",
+   "amendment_enforcement_date": "2020-11-27",
+   "amendment_law_id": "502AC0000000036",
+   "amendment_law_title": "持続可能な運送サービスの提供の確保に資する取組を推進するための地域公共交通の活性化及び再生に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20200603_502AC0000000036",
+   "amendment_promulgate_date": "2020-06-03",
+   "amendment_enforcement_date": "2020-06-03",
+   "amendment_law_id": "502AC0000000036",
+   "amendment_law_title": "持続可能な運送サービスの提供の確保に資する取組を推進するための地域公共交通の活性化及び再生に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20190401_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20180831_430AC0000000040",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2018-08-31",
+   "amendment_law_id": "430AC0000000040",
+   "amendment_law_title": "海外社会資本事業への我が国事業者の参入の促進に関する法律",
+   "amendment_law_num": "平成三十年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20180801_430AC1000000063",
+   "amendment_promulgate_date": "2018-06-22",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430AC1000000063",
+   "amendment_law_title": "鉄道軌道整備法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20180525_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2018-05-25",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000180_20161118_428AC0000000079",
+   "amendment_promulgate_date": "2016-11-18",
+   "amendment_enforcement_date": "2016-11-18",
+   "amendment_law_id": "428AC0000000079",
+   "amendment_law_title": "独立行政法人鉄道建設・運輸施設整備支援機構法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　役員及び職員",
+  "第三章　業務等",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、独立行政法人鉄道建設・運輸施設整備支援機構の名称、目的、業務の範囲等に関する事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-12-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-06-01T20:44:31+09:00"
+ }
+}

@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% from "_card.html" import card %}
+{% block title %}{{ title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ description }}{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"CollectionPage","name":{{ title|tojson }},"description":{{ description|tojson }},"url":{{ canonical|tojson }},
+ "isPartOf":{"@type":"WebSite","name":{{ site.name|tojson }},"url":{{ url()|tojson }}}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"ホーム","item":{{ url()|tojson }}},
+ {"@type":"ListItem","position":2,"name":{{ title|tojson }},"item":{{ canonical|tojson }}}]}
+</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">ホーム</a>{% if kind == 'category' %} › <a href="{{ url('category/') }}">分野別</a>{% elif kind == 'type' %} › <a href="{{ url('type/') }}">種別</a>{% elif kind == 'ministry' %} › <a href="{{ url('ministry/') }}">府省別</a>{% elif kind == 'month' %} › <a href="{{ url('monthly/') }}">月別</a>{% endif %} › {{ title }}</nav>
+<h1>{{ title }}</h1>
+<p class="lead">{{ description }} 全 {{ count }} 件。</p>
+{% if kind == 'category' %}
+<p class="hero-actions"><a class="button ghost" href="{{ url('search/') }}?category={{ key|urlencode }}">この分野を施行日で絞り込む</a></p>
+{% elif kind == 'ministry' %}
+<p class="hero-actions"><a class="button ghost" href="{{ url('search/') }}?ministry={{ key|urlencode }}">この府省の法令を絞り込む</a></p>
+{% endif %}
+{% if items %}
+<ul class="cards">{% for x in items %}{{ card(x) }}{% endfor %}</ul>
+{% else %}
+<p>該当する法令はいまのところありません。</p>
+{% endif %}
+{% if pages > 1 %}
+<nav class="pager">
+  {% for i in range(1, pages + 1) %}
+    {% if i == page %}<span class="cur">{{ i }}</span>
+    {% else %}<a href="{{ url(base if i == 1 else base ~ 'page/' ~ i ~ '/') }}">{{ i }}</a>{% endif %}
+  {% endfor %}
+</nav>
+{% endif %}
+{% if ads.list_bottom %}<div class="ad">{{ ads.list_bottom|safe }}</div>{% endif %}
+{% endblock %}

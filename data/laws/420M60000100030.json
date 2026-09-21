@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60000100030",
+  "law_num": "平成二十年厚生労働省令第三十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "030",
+  "promulgation_date": "2008-03-11"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60000100030_20251020_507M60000002076",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "児童虐待の防止等に関する法律施行規則",
+  "law_title_kana": "じどうぎゃくたいのぼうしとうにかんするほうりつしこうきそく",
+  "abbrev": "児童虐待防止法施行規則",
+  "category": "社会福祉",
+  "updated": "2025-10-20T00:05:49+09:00",
+  "amendment_promulgate_date": "2025-08-27",
+  "amendment_enforcement_date": "2025-10-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000002076",
+  "amendment_law_title": "児童虐待の防止等に関する法律施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和七年内閣府令第七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60000100030_20251020_507M60000002076",
+   "amendment_promulgate_date": "2025-08-27",
+   "amendment_enforcement_date": "2025-10-20",
+   "amendment_law_id": "507M60000002076",
+   "amendment_law_title": "児童虐待の防止等に関する法律施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60000100030_20230401_505M60000100048",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000100048",
+   "amendment_law_title": "こども家庭庁設置法等の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000100030_20220401_504M60000100054",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000100054",
+   "amendment_law_title": "児童虐待の防止等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000100030_20200401_502M60000100049",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000100049",
+   "amendment_law_title": "児童福祉法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000100030_20180402_429M60000100133",
+   "amendment_promulgate_date": "2017-12-20",
+   "amendment_enforcement_date": "2018-04-02",
+   "amendment_law_id": "429M60000100133",
+   "amendment_law_title": "児童虐待の防止等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000100030_20170401_429M60000100038",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000100038",
+   "amendment_law_num": "平成二十九年厚生労働省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（出頭要求等）",
+  "title": "第一条",
+  "paragraphs": [
+   "都道府県知事は、児童虐待の防止等に関する法律（平成十二年法律第八十二号。以下「法」という。）第八条の二第一項の規定に基づき児童（十八歳に満たない者をいう。以下同じ。）の保護者（親権を行う者、未成年後見人その他の者で、児童を現に監護するものをいう。以下同じ。）の出頭を求めようとするときは、当該保護者に対し、出頭を求める理由となった事実の内容、出頭を求める日時及び場所、当該保護者の氏名、住所及び生年月日（保護者が法人であるときは、その名称及び主たる事務所の所在地）、同伴すべき児童の氏名及び生年月日その他必要な事項を記載した書面により行うものとする。",
+   "前項の規定は、法第九条の二第一項の規定に基づき児童の保護者の出頭を求めようとする場合について準用する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-03-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-20T00:05:49+09:00"
+ }
+}

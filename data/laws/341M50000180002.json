@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "341M50000180002",
+  "law_num": "昭和四十一年文部省・厚生省令第二号",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "1966-03-02"
+ },
+ "revision_info": {
+  "law_revision_id": "341M50000180002_20251101_507M60000180003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "管理栄養士学校指定規則",
+  "law_title_kana": "かんりえいようしがっこうしていきそく",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2025-11-07T15:51:02+09:00",
+  "amendment_promulgate_date": "2025-10-29",
+  "amendment_enforcement_date": "2025-11-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000180003",
+  "amendment_law_title": "管理栄養士学校指定規則の一部を改正する省令",
+  "amendment_law_num": "令和七年文部科学省・厚生労働省令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341M50000180002_20251101_507M60000180003",
+   "amendment_promulgate_date": "2025-10-29",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507M60000180003",
+   "amendment_law_title": "管理栄養士学校指定規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省・厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341M50000180002_20221001_504M60000180003",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000180003",
+   "amendment_law_title": "歯科衛生士学校養成所指定規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省・厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50000180002_20151001_427M60000180004",
+   "amendment_promulgate_date": "2015-07-03",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "427M60000180004",
+   "amendment_law_num": "平成二十七年文部科学省・厚生労働省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（この省令の趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "栄養士法（昭和二十二年法律第二百四十五号。以下「法」という。）第五条の三第四号の規定による指定（以下「指定」という。）のうち、学校（同号に規定する学校をいう。第二条第二項を除き、以下同じ。）に係るものに関しては、栄養士法施行令（昭和二十八年政令第二百三十一号。以下「令」という。）に定めるもののほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1966-03-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-07T15:51:02+09:00"
+ }
+}

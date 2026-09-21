@@ -1,0 +1,406 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "325CO0000000089",
+  "law_num": "昭和二十五年政令第八十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "089",
+  "promulgation_date": "1950-04-20"
+ },
+ "revision_info": {
+  "law_revision_id": "325CO0000000089_20260903_508CO0000000262",
+  "law_type": "CabinetOrder",
+  "law_title": "公職選挙法施行令",
+  "law_title_kana": "こうしょくせんきょほうしこうれい",
+  "abbrev": "公選法施行令",
+  "category": "国会",
+  "updated": "2026-09-14T09:51:57+09:00",
+  "amendment_promulgate_date": "2026-08-28",
+  "amendment_enforcement_date": "2026-09-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000262",
+  "amendment_law_title": "地方自治法施行令及び公職選挙法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325CO0000000089_20260924_507CO0000000237",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "507CO0000000237",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20260903_508CO0000000262",
+   "amendment_promulgate_date": "2026-08-28",
+   "amendment_enforcement_date": "2026-09-03",
+   "amendment_law_id": "508CO0000000262",
+   "amendment_law_title": "地方自治法施行令及び公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20260401_508CO0000000092",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000092",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20260101_507CO0000000342",
+   "amendment_promulgate_date": "2025-10-03",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000342",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20250702_507CO0000000237",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2025-07-02",
+   "amendment_law_id": "507CO0000000237",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20250628_507CO0000000227",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-06-28",
+   "amendment_law_id": "507CO0000000227",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20250604_507CO0000000200",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-06-04",
+   "amendment_law_id": "507CO0000000200",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20240719_506CO0000000011",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-07-19",
+   "amendment_law_id": "506CO0000000011",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20240527_506CO0000000190",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506CO0000000190",
+   "amendment_law_title": "住民基本台帳法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20240401_506CO0000000012",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000012",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20230401_504CO0000000129",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000129",
+   "amendment_law_title": "地方公務員法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20230401_504CO0000000128",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000128",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律及び国会職員法及び国家公務員退職手当法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20230327_504CO0000000323",
+   "amendment_promulgate_date": "2022-10-05",
+   "amendment_enforcement_date": "2023-03-27",
+   "amendment_law_id": "504CO0000000323",
+   "amendment_law_title": "旅券法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20230301_504CO0000000387",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-03-01",
+   "amendment_law_id": "504CO0000000387",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20230217_505CO0000000033",
+   "amendment_promulgate_date": "2023-02-10",
+   "amendment_enforcement_date": "2023-02-17",
+   "amendment_law_id": "505CO0000000033",
+   "amendment_law_title": "最高裁判所裁判官国民審査法施行令及び公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20221228_504CO0000000387",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2022-12-28",
+   "amendment_law_id": "504CO0000000387",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20220406_504CO0000000172",
+   "amendment_promulgate_date": "2022-04-06",
+   "amendment_enforcement_date": "2022-04-06",
+   "amendment_law_id": "504CO0000000172",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20210215_503CO0000000029",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503CO0000000029",
+   "amendment_law_title": "押印を求める手続の見直し等のための総務省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20201212_502CO0000000282",
+   "amendment_promulgate_date": "2020-09-16",
+   "amendment_enforcement_date": "2020-12-12",
+   "amendment_law_id": "502CO0000000282",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20200401_501CO0000000156",
+   "amendment_promulgate_date": "2019-11-08",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000156",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20200107_501CO0000000136",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_law_id": "501CO0000000136",
+   "amendment_law_title": "特定複合観光施設区域整備法の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20190601_501CO0000000015",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "501CO0000000015",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20190301_430CO0000000215",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2019-03-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000215",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20181225_430CO0000000344",
+   "amendment_promulgate_date": "2018-12-21",
+   "amendment_enforcement_date": "2018-12-25",
+   "amendment_law_id": "430CO0000000344",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20181025_430CO0000000299",
+   "amendment_promulgate_date": "2018-10-24",
+   "amendment_enforcement_date": "2018-10-25",
+   "amendment_law_id": "430CO0000000299",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20180601_430CO0000000168",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430CO0000000168",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20180401_430CO0000000054",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000054",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律及び児童福祉法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20170716_429CO0000000190",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-07-16",
+   "amendment_law_id": "429CO0000000190",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20170601_429CO0000000153",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429CO0000000153",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20170410_429CO0000000131",
+   "amendment_promulgate_date": "2017-04-07",
+   "amendment_enforcement_date": "2017-04-10",
+   "amendment_law_id": "429CO0000000131",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000089_20160619_428CO0000000227",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2016-06-19",
+   "amendment_law_id": "428CO0000000227",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第二百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　参議院合同選挙区選挙管理委員会",
+  "第一章の二　選挙権",
+  "第二章　選挙に関する区域",
+  "第三章　選挙人名簿",
+  "第三章の二　在外選挙人名簿",
+  "第四章　投票",
+  "第四章の二　共通投票所",
+  "第四章の三　記号式投票",
+  "第四章の四　期日前投票",
+  "第五章　不在者投票",
+  "第五章の二　在外投票",
+  "第六章　開票",
+  "第七章　選挙会及び選挙分会",
+  "第八章　公職の候補者等",
+  "第九章　削除",
+  "第十章　選挙を同時に行うための特例",
+  "第十一章　選挙運動",
+  "第十二章　選挙運動に関する収入及び支出並びに寄附",
+  "第十二章の二　推薦団体の選挙運動の特例",
+  "第十二章の三　政党その他の政治団体等の選挙における政治活動",
+  "第十二章の四　選挙の効力及び当選の効力に関する異議の申出及び審査の申立て",
+  "第十三章　市町村の境界の変更があつた場合等の選挙の執行の特例",
+  "第十三章の二　選挙の一部無効による再選挙の特例",
+  "第十三章の三　再立候補の場合の特例",
+  "第十四章　補則"
+ ],
+ "article1": {
+  "caption": "（参議院合同選挙区選挙管理委員会の委員の兼業禁止の特例の対象となる法人）",
+  "title": "第一条",
+  "paragraphs": [
+   "公職選挙法（以下「法」という。）第五条の六第八項に規定する合同選挙区都道府県（同条第一項に規定する合同選挙区都道府県をいう。以下同じ。）が出資している法人で政令で定めるものは、合同選挙区都道府県が出資している額の合計額が資本金、基本金その他これらに準ずるものの総額の二分の一以上である法人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-04-20",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-09-14T09:51:57+09:00"
+ }
+}

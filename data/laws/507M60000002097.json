@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000002097",
+  "law_num": "令和七年内閣府令第九十七号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "097",
+  "promulgation_date": "2025-11-14"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000002097_20251114_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "会員予定者の候補者の内閣総理大臣への推薦手続を定める内閣府令",
+  "law_title_kana": "かいいんよていしゃのこうほしゃのないかくそうりだいじんへのすいせんてつづきをさだめるないかくふれい",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2025-11-25T14:23:30+09:00",
+  "amendment_promulgate_date": "2025-11-14",
+  "amendment_enforcement_date": "2025-11-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000002097_20251114_000000000000000",
+   "amendment_promulgate_date": "2025-11-14",
+   "amendment_enforcement_date": "2025-11-14",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "日本学術会議法（令和七年法律第七十号）附則第三条第一項に規定する会員予定者の候補者の内閣総理大臣への推薦は、同項に基づく指名を要する期日の三十日前までに、当該候補者の氏名を記載した書類を提出することにより行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-11-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-25T14:23:30+09:00"
+ }
+}

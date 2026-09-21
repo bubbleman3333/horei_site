@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "326R00000002002",
+  "law_num": "昭和二十六年海上保安庁令第二号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "1951-04-13"
+ },
+ "revision_info": {
+  "law_revision_id": "326R00000002002_20260401_508R00000002001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "海上保安学校の名称、位置及び内部組織に関する庁令",
+  "law_title_kana": "かいじょうほあんがっこうのめいしょういちおよびないぶそしきにかんするちょうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-06T11:22:29+09:00",
+  "amendment_promulgate_date": "2026-03-23",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508R00000002001",
+  "amendment_law_title": "海上保安学校の名称、位置及び内部組織に関する庁令の一部を改正する庁令",
+  "amendment_law_num": "令和八年海上保安庁令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326R00000002002_20260401_508R00000002001",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508R00000002001",
+   "amendment_law_title": "海上保安学校の名称、位置及び内部組織に関する庁令の一部を改正する庁令",
+   "amendment_law_num": "令和八年海上保安庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326R00000002002_20240401_506R00000002001",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506R00000002001",
+   "amendment_law_title": "海上保安学校の名称、位置及び内部組織に関する庁令及び海上保安大学校の名称、位置及び内部組織に関する庁令の一部を改正する庁令",
+   "amendment_law_num": "令和六年海上保安庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326R00000002002_20190401_431R00000002001",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431R00000002001",
+   "amendment_law_title": "海上保安学校の名称、位置及び内部組織に関する庁令の一部を改正する庁令",
+   "amendment_law_num": "平成三十一年海上保安庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326R00000002002_20180401_430R00000002001",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430R00000002001",
+   "amendment_law_title": "海上保安学校の名称、位置及び内部組織に関する庁令の一部を改正する庁令",
+   "amendment_law_num": "平成三十年海上保安庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326R00000002002_20040406_416R00000002002",
+   "amendment_promulgate_date": "2004-04-06",
+   "amendment_enforcement_date": "2004-04-06",
+   "amendment_law_id": "416R00000002002",
+   "amendment_law_num": "平成十六年海上保安庁令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "海上保安庁法（昭和二十三年法律第二十八号）第三十三条の二の規定による海上保安学校の名称、位置及び内部組織は、この命令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-04-13",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-06T11:22:29+09:00"
+ }
+}

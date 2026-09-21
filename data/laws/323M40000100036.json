@@ -1,0 +1,328 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "323M40000100036",
+  "law_num": "昭和二十三年厚生省令第三十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "036",
+  "promulgation_date": "1948-08-10"
+ },
+ "revision_info": {
+  "law_revision_id": "323M40000100036_20260601_508M60000100053",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "予防接種法施行規則",
+  "law_title_kana": "よぼうせっしゅほうしこうきそく",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-07-09T10:42:52+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100053",
+  "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323M40000100036_20260601_508M60000100053",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000100053",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20260401_508M60000100037",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100037",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20260227_508M60000100019",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-02-27",
+   "amendment_law_id": "508M60000100019",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20260201_508M60000100006",
+   "amendment_promulgate_date": "2026-01-26",
+   "amendment_enforcement_date": "2026-02-01",
+   "amendment_law_id": "508M60000100006",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20250401_507M60000100024",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100024",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20250401_507M60000100010",
+   "amendment_promulgate_date": "2025-02-18",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100010",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20240401_506M60000100069",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100069",
+   "amendment_law_title": "予防接種法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20231226_505M60000100161",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2023-12-26",
+   "amendment_law_id": "505M60000100161",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20221209_504M60000100165",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504M60000100165",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20221024_504M60000100150",
+   "amendment_promulgate_date": "2022-10-24",
+   "amendment_enforcement_date": "2022-10-24",
+   "amendment_law_id": "504M60000100150",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20221013_504M60000100147",
+   "amendment_promulgate_date": "2022-10-13",
+   "amendment_enforcement_date": "2022-10-13",
+   "amendment_law_id": "504M60000100147",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20220920_504M60000100131",
+   "amendment_promulgate_date": "2022-09-16",
+   "amendment_enforcement_date": "2022-09-20",
+   "amendment_law_id": "504M60000100131",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20220525_504M60000100088",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504M60000100088",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20211220_503M60000100190",
+   "amendment_promulgate_date": "2021-12-08",
+   "amendment_enforcement_date": "2021-12-20",
+   "amendment_law_id": "503M60000100190",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20211206_503M60000100189",
+   "amendment_promulgate_date": "2021-12-06",
+   "amendment_enforcement_date": "2021-12-06",
+   "amendment_law_id": "503M60000100189",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20211201_503M60000100178",
+   "amendment_promulgate_date": "2021-11-16",
+   "amendment_enforcement_date": "2021-12-01",
+   "amendment_law_id": "503M60000100178",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20210802_503M60000100136",
+   "amendment_promulgate_date": "2021-08-02",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503M60000100136",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20210726_503M60000100122",
+   "amendment_promulgate_date": "2021-07-12",
+   "amendment_enforcement_date": "2021-07-26",
+   "amendment_law_id": "503M60000100122",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20210401_503M60000100051",
+   "amendment_promulgate_date": "2021-03-22",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100051",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20210216_503M60000100034",
+   "amendment_promulgate_date": "2021-02-16",
+   "amendment_enforcement_date": "2021-02-16",
+   "amendment_law_id": "503M60000100034",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20201030_502M60000100178",
+   "amendment_promulgate_date": "2020-10-30",
+   "amendment_enforcement_date": "2020-10-30",
+   "amendment_law_id": "502M60000100178",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20201001_502M60000100005",
+   "amendment_promulgate_date": "2020-01-17",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000100005",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20200326_502M60000100042",
+   "amendment_promulgate_date": "2020-03-26",
+   "amendment_enforcement_date": "2020-03-26",
+   "amendment_law_id": "502M60000100042",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20190927_501M60000100053",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2019-09-27",
+   "amendment_law_id": "501M60000100053",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20190201_431M60000100009",
+   "amendment_promulgate_date": "2019-02-01",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_law_id": "431M60000100009",
+   "amendment_law_title": "予防接種法施行規則及び予防接種実施規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年厚生労働省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20170925_429M60000100095",
+   "amendment_promulgate_date": "2017-09-25",
+   "amendment_enforcement_date": "2017-09-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000100095",
+   "amendment_law_title": "予防接種法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100036_20161001_428M60000100115",
+   "amendment_promulgate_date": "2016-06-22",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_law_id": "428M60000100115",
+   "amendment_law_num": "平成二十八年厚生労働省令第百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（予防接種の推進を図るための指針を定める疾病）",
+  "title": "第一条",
+  "paragraphs": [
+   "予防接種法（昭和二十三年法律第六十八号。以下「法」という。）第四条第一項に規定する厚生労働省令で定める疾病は、麻しん、風しん、結核及びインフルエンザとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-08-10",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-09T10:42:52+09:00"
+ }
+}

@@ -1,0 +1,139 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "412M50000100063",
+  "law_num": "平成十二年厚生省令第六十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "063",
+  "promulgation_date": "2000-03-30"
+ },
+ "revision_info": {
+  "law_revision_id": "412M50000100063_20260501_507M60000100117",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料規則",
+  "law_title_kana": "いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつかんけいてすうりょうきそく",
+  "abbrev": "薬機法関係手数料規則,医薬品医療機器等法関係手数料規則,薬事法関係手数料規則",
+  "category": "厚生",
+  "updated": "2026-05-01T01:17:37+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100117",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412M50000100063_20270520_508M60000100110",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2027-05-20",
+   "amendment_law_id": "508M60000100110",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100063_20260501_507M60000100117",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507M60000100117",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100063_20220520_504M60000100084",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504M60000100084",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100063_20210801_503M60000100015",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100015",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100063_20200901_502M60000100155",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100155",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100063_20190401_431M60000100027",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000100027",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年厚生労働省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100063_20170731_429M60000100083",
+   "amendment_promulgate_date": "2017-07-31",
+   "amendment_enforcement_date": "2017-07-31",
+   "amendment_law_id": "429M60000100083",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100063_20170522_429M60000100062",
+   "amendment_promulgate_date": "2017-05-22",
+   "amendment_enforcement_date": "2017-05-22",
+   "amendment_law_id": "429M60000100062",
+   "amendment_law_num": "平成二十九年厚生労働省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100063_20141125_426M60000100087",
+   "amendment_promulgate_date": "2014-07-30",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_law_id": "426M60000100087",
+   "amendment_law_num": "平成二十六年厚生労働省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（手数料の納付方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（以下「法」という。）第七十八条第一項に規定する手数料は、申請書（厚生労働大臣に提出するものに限る。）にその申請に係る手数料の額に相当する額の収入印紙を貼って納付しなければならない。",
+   "法第七十八条第二項の規定による手数料は、金融機関に設けられた独立行政法人医薬品医療機器総合機構（以下「機構」という。）の口座に払い込むことによって納付しなければならない。",
+   "前二項の規定により納付した手数料は、当該申請が許可若しくは承認されなかった場合又は当該申請の取下げがあった場合においても、返還しない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-03-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T01:17:37+09:00"
+ }
+}

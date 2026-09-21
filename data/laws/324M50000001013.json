@@ -1,0 +1,345 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "324M50000001013",
+  "law_num": "昭和二十四年法務府令第十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "013",
+  "promulgation_date": "1949-06-01"
+ },
+ "revision_info": {
+  "law_revision_id": "324M50000001013_20260423_508M60000010004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "登記事務委任規則",
+  "law_title_kana": "とうきじむいにんきそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-23T00:01:25+09:00",
+  "amendment_promulgate_date": "2026-01-30",
+  "amendment_enforcement_date": "2026-04-23",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010004",
+  "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324M50000001013_20260423_508M60000010004",
+   "amendment_promulgate_date": "2026-01-30",
+   "amendment_enforcement_date": "2026-04-23",
+   "amendment_law_id": "508M60000010004",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20260422_508M60000010004",
+   "amendment_promulgate_date": "2026-01-30",
+   "amendment_enforcement_date": "2026-04-22",
+   "amendment_law_id": "508M60000010004",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20260201_508M60000010004",
+   "amendment_promulgate_date": "2026-01-30",
+   "amendment_enforcement_date": "2026-02-01",
+   "amendment_law_id": "508M60000010004",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20260105_507M60000010041",
+   "amendment_promulgate_date": "2025-08-15",
+   "amendment_enforcement_date": "2026-01-05",
+   "amendment_law_id": "507M60000010041",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20251104_507M60000010041",
+   "amendment_promulgate_date": "2025-08-15",
+   "amendment_enforcement_date": "2025-11-04",
+   "amendment_law_id": "507M60000010041",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20250916_507M60000010041",
+   "amendment_promulgate_date": "2025-08-15",
+   "amendment_enforcement_date": "2025-09-16",
+   "amendment_law_id": "507M60000010041",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20250815_507M60000010041",
+   "amendment_promulgate_date": "2025-08-15",
+   "amendment_enforcement_date": "2025-08-15",
+   "amendment_law_id": "507M60000010041",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20250722_507M60000010038",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507M60000010038",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20240226_506M60000010003",
+   "amendment_promulgate_date": "2024-01-26",
+   "amendment_enforcement_date": "2024-02-26",
+   "amendment_law_id": "506M60000010003",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20210330_502M60000010050",
+   "amendment_promulgate_date": "2020-11-09",
+   "amendment_enforcement_date": "2021-03-30",
+   "amendment_law_id": "502M60000010050",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20210112_502M60000010055",
+   "amendment_promulgate_date": "2020-12-16",
+   "amendment_enforcement_date": "2021-01-12",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010055",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20201201_502M60000010050",
+   "amendment_promulgate_date": "2020-11-09",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010050",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20200708_502M60000010040",
+   "amendment_promulgate_date": "2020-06-18",
+   "amendment_enforcement_date": "2020-07-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010040",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20200707_502M60000010040",
+   "amendment_promulgate_date": "2020-06-18",
+   "amendment_enforcement_date": "2020-07-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010040",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20200701_502M60000010040",
+   "amendment_promulgate_date": "2020-06-18",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010040",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20200513_502M60000010025",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-05-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010025",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20200512_502M60000010025",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-05-12",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010025",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20200501_502M60000010025",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010025",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20190724_431M60000010002",
+   "amendment_promulgate_date": "2019-01-18",
+   "amendment_enforcement_date": "2019-07-24",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010002",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20190723_431M60000010002",
+   "amendment_promulgate_date": "2019-01-18",
+   "amendment_enforcement_date": "2019-07-23",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010002",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20190422_431M60000010013",
+   "amendment_promulgate_date": "2019-03-26",
+   "amendment_enforcement_date": "2019-04-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010013",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20190422_431M60000010003",
+   "amendment_promulgate_date": "2019-01-18",
+   "amendment_enforcement_date": "2019-04-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010003",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20190401_431M60000010013",
+   "amendment_promulgate_date": "2019-03-26",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010013",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20190201_431M60000010003",
+   "amendment_promulgate_date": "2019-01-18",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010003",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20190201_431M60000010002",
+   "amendment_promulgate_date": "2019-01-18",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010002",
+   "amendment_law_title": "登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20181001_430M60000010023",
+   "amendment_promulgate_date": "2018-09-25",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000010023",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年法務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20180213_430M60000010001",
+   "amendment_promulgate_date": "2018-01-30",
+   "amendment_enforcement_date": "2018-02-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000010001",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年法務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000001013_20170116_428M60000010045",
+   "amendment_promulgate_date": "2016-11-17",
+   "amendment_enforcement_date": "2017-01-16",
+   "amendment_law_id": "428M60000010045",
+   "amendment_law_num": "平成二十八年法務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "東京法務局府中支局管内東京都国分寺市及び国立市に属する地域内の登記事務は、東京法務局立川出張所で取り扱わせる。",
+   "東京法務局八王子支局管内東京都多摩市及び稲城市に属する地域内の登記事務は、東京法務局府中支局で取り扱わせる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-06-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-23T00:01:25+09:00"
+ }
+}

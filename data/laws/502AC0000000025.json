@@ -1,0 +1,106 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "502AC0000000025",
+  "law_num": "令和二年法律第二十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "Act",
+  "law_num_num": "025",
+  "promulgation_date": "2020-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "502AC0000000025_20260401_508AC0000000012",
+  "law_type": "Act",
+  "law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律",
+  "law_title_kana": "しんがたころなういるすかんせんしょうとうのえいきょうにたいおうするためのこくぜいかんけいほうりつのりんじとくれいにかんするほうりつ",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-04-01T12:19:08+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000012",
+  "amendment_law_title": "所得税法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502AC0000000025_20260401_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000025_20240401_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000025_20220401_504AC0000000004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000025_20210401_503AC0000000011",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503AC0000000011",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000025_20210213_503AC0000000005",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-02-13",
+   "amendment_law_id": "503AC0000000005",
+   "amendment_law_title": "新型インフルエンザ等対策特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000025_20200430_000000000000000",
+   "amendment_promulgate_date": "2020-04-30",
+   "amendment_enforcement_date": "2020-04-30",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、新型コロナウイルス感染症及びそのまん延防止のための措置が納税者に及ぼす影響の緩和を図るため、国税通則法（昭和三十七年法律第六十六号）その他の国税関係法律の特例を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-04-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T12:19:08+09:00"
+ }
+}

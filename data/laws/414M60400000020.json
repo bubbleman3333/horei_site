@@ -1,0 +1,113 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "414M60400000020",
+  "law_num": "平成十四年国家公安委員会規則第二十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "Rule",
+  "law_num_num": "020",
+  "promulgation_date": "2002-09-27"
+ },
+ "revision_info": {
+  "law_revision_id": "414M60400000020_20260521_508M60400000012",
+  "law_type": "Rule",
+  "law_title": "少年警察活動規則",
+  "law_title_kana": "しょうねんけいさつかつどうきそく",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-06-02T13:07:08+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000012",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414M60400000020_20260521_508M60400000012",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000012",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414M60400000020_20240401_506M60400000007",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60400000007",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60400000020_20220401_504M60400000013",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000013",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60400000020_20220401_504M60400000001",
+   "amendment_promulgate_date": "2022-01-11",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000001",
+   "amendment_law_title": "犯罪捜査規範及び少年警察活動規則の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60400000020_20180601_430M60400000011",
+   "amendment_promulgate_date": "2018-05-15",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430M60400000011",
+   "amendment_law_title": "犯罪捜査規範の一部を改正する規則",
+   "amendment_law_num": "平成三十年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60400000020_20161001_428M60400000022",
+   "amendment_promulgate_date": "2016-09-26",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_law_id": "428M60400000022",
+   "amendment_law_num": "平成二十八年国家公安委員会規則第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　一般的活動",
+  "第三章　少年の非行の防止のための活動",
+  "第四章　少年の保護のための活動"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則は、少年の非行の防止及び保護を通じて少年の健全な育成を図るための警察活動（以下「少年警察活動」という。）に関し、必要な事項を定めるものとする。",
+   "少年警察活動に関しては、警察法（昭和二十九年法律第百六十二号）、警察官職務執行法（昭和二十三年法律第百三十六号）、少年法（昭和二十三年法律第百六十八号）、刑事訴訟法（昭和二十三年法律第百三十一号）、児童福祉法（昭和二十二年法律第百六十四号）、児童虐待の防止等に関する法律（平成十二年法律第八十二号）、犯罪捜査規範（昭和三十二年国家公安委員会規則第二号）その他の法令（地方公共団体の条例又は規則を含む。）によるほか、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-09-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-02T13:07:08+09:00"
+ }
+}

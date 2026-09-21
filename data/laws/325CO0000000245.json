@@ -1,0 +1,474 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "325CO0000000245",
+  "law_num": "昭和二十五年政令第二百四十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "245",
+  "promulgation_date": "1950-07-31"
+ },
+ "revision_info": {
+  "law_revision_id": "325CO0000000245_20260822_508CO0000000251",
+  "law_type": "CabinetOrder",
+  "law_title": "地方税法施行令",
+  "law_title_kana": "ちほうぜいほうしこうれい",
+  "abbrev": null,
+  "category": "地方財政",
+  "updated": "2026-09-08T11:15:58+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000251",
+  "amendment_law_title": "地方税法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325CO0000000245_21171231_508CO0000000251",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "日本国の自衛隊とオランダ王国の軍隊との間における物品又は役務の相互の提供に関する日本国政府とオランダ王国政府との間の協定の効力発生の日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "508CO0000000251",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20290401_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2029-04-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20290101_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2029-01-01",
+   "amendment_enforcement_comment": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（令和八年法律第六十四号）の施行の日の属する年の翌々年の一月一日",
+   "amendment_scheduled_enforcement_date": "2029-01-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20280401_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-04-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20280101_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20270618_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-06-18",
+   "amendment_enforcement_comment": "産業技術力強化法の一部を改正する法律（令和八年法律第四十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-06-18",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20270526_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-05-26",
+   "amendment_enforcement_comment": "都市再生特別措置法等の一部を改正する法律（令和八年法律第二十三号）附則第一条第二号に掲げる規定の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-05-26",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20270101_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20270101_507CO0000000119",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "507CO0000000119",
+   "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20270101_506CO0000000138",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "506CO0000000138",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20261211_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20261126_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-11-26",
+   "amendment_enforcement_comment": "都市再生特別措置法等の一部を改正する法律（令和八年法律第二十三号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20261119_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-11-19",
+   "amendment_enforcement_comment": "物資の流通の効率化に関する法律の一部を改正する法律（令和八年法律第二十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-11-19",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20261101_507CO0000000119",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "507CO0000000119",
+   "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20260822_508CO0000000251",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-22",
+   "amendment_law_id": "508CO0000000251",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20260815_508CO0000000251",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-15",
+   "amendment_law_id": "508CO0000000251",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20260625_508CO0000000213",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508CO0000000213",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20260521_508CO0000000038",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000038",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20260401_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20260401_507CO0000000119",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000119",
+   "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20260401_506CO0000000138",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000138",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20260101_507CO0000000119",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000119",
+   "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20251128_507CO0000000306",
+   "amendment_promulgate_date": "2025-08-29",
+   "amendment_enforcement_date": "2025-11-28",
+   "amendment_law_id": "507CO0000000306",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和七年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20251001_507CO0000000119",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000119",
+   "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20250905_507CO0000000304",
+   "amendment_promulgate_date": "2025-08-29",
+   "amendment_enforcement_date": "2025-09-05",
+   "amendment_law_id": "507CO0000000304",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20250722_507CO0000000119",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507CO0000000119",
+   "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20250401_507CO0000000119",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000119",
+   "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20250401_506CO0000000137",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000137",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20250401_506CO0000000136",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000136",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20250101_506CO0000000136",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506CO0000000136",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20250101_505CO0000000132",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505CO0000000132",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20241001_506CO0000000300",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000300",
+   "amendment_law_title": "沖縄振興開発金融公庫法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20240712_506CO0000000245",
+   "amendment_promulgate_date": "2024-07-12",
+   "amendment_enforcement_date": "2024-07-12",
+   "amendment_law_id": "506CO0000000245",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20240701_506CO0000000226",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000226",
+   "amendment_law_title": "特定農産加工業経営改善臨時措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20240701_506CO0000000136",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000136",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20240401_506CO0000000136",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000136",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20240401_505CO0000000132",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000132",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20240221_506CO0000000034",
+   "amendment_promulgate_date": "2024-02-21",
+   "amendment_enforcement_date": "2024-02-21",
+   "amendment_law_id": "506CO0000000034",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000245_20240101_505CO0000000243",
+   "amendment_promulgate_date": "2023-07-20",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505CO0000000243",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　道府県の普通税",
+  "第三章　市町村の普通税",
+  "第三章の二　狩猟税",
+  "第三章の三　入湯税",
+  "第三章の四　事業所税",
+  "第三章の五　都市計画税",
+  "第三章の六　水利地益税、共同施設税、宅地開発税及び国民健康保険税",
+  "第三章の七　法定外目的税",
+  "第四章　都等の特例等",
+  "第五章　特定徴収金の収納の特例",
+  "第六章　地方税関係書類に係る電磁的記録に記録された事項に係る重加算金の特例",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（道府県及び市町村に関する規定の都及び特別区への準用）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令中道府県に関する規定は都に、市町村に関する規定（法人の市町村民税並びに固定資産税、特別土地保有税、事業所税及び都市計画税に関する規定を除く。）は特別区に準用する。この場合において、「道府県」、「道府県民税」、「道府県たばこ税」又は「道府県知事」とあるのは、それぞれ「都」、「都民税」、「都たばこ税」又は「都知事」と、「市町村」、「市町村民税」、「市町村たばこ税」又は「市町村長」とあるのは、それぞれ「特別区」、「特別区民税」、「特別区たばこ税」又は「特別区長」と読み替えるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-07-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-09-08T11:15:58+09:00"
+ }
+}

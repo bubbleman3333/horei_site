@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "410CO0000000378",
+  "law_num": "平成十年政令第三百七十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "378",
+  "promulgation_date": "1998-11-27"
+ },
+ "revision_info": {
+  "law_revision_id": "410CO0000000378_20260701_508CO0000000205",
+  "law_type": "CabinetOrder",
+  "law_title": "特定家庭用機器再商品化法施行令",
+  "law_title_kana": "とくていかていようききさいしょうひんかほうしこうれい",
+  "abbrev": "家電リサイクル法施行令",
+  "category": "工業",
+  "updated": "2026-07-07T10:46:56+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000205",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410CO0000000378_20260701_508CO0000000205",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000205",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000378_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000378_20240401_505CO0000000380",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000380",
+   "amendment_law_title": "特定家庭用機器再商品化法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000378_20191214_501CO0000000088",
+   "amendment_promulgate_date": "2019-09-06",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501CO0000000088",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000378_20190101_430CO0000000241",
+   "amendment_promulgate_date": "2018-08-10",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430CO0000000241",
+   "amendment_law_title": "特定物質の規制等によるオゾン層の保護に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000378_20150401_427CO0000000081",
+   "amendment_promulgate_date": "2015-03-20",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000081",
+   "amendment_law_num": "平成二十七年政令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定家庭用機器）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定家庭用機器再商品化法（以下「法」という。）第二条第四項の政令で定める機械器具は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-11-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-07T10:46:56+09:00"
+ }
+}

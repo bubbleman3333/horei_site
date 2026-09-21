@@ -1,0 +1,352 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000010018",
+  "law_num": "平成十七年法務省令第十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "018",
+  "promulgation_date": "2005-02-18"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000010018_20260521_508M60000010038",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "不動産登記規則",
+  "law_title_kana": "ふどうさんとうききそく",
+  "abbrev": "不登規則",
+  "category": "民事",
+  "updated": "2026-06-03T09:19:32+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010038",
+  "amendment_law_title": "不動産登記規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第三十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000010018_21171231_423M60000010005",
+   "amendment_promulgate_date": "2011-03-25",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "所得税法等の一部を改正する法律（平成二十三年法律第　　　号）の施行の日又はこの規則の施行の日のいずれか遅い日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "423M60000010005",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十三年法務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20261005_508M60000010023",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-10-05",
+   "amendment_law_id": "508M60000010023",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20261001_507M60000010049",
+   "amendment_promulgate_date": "2025-10-10",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507M60000010049",
+   "amendment_law_title": "不動産登記規則及び企業担保登記規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20260521_508M60000010038",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000010038",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20260401_508M60000010021",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000010021",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20260401_507M60000010053",
+   "amendment_promulgate_date": "2025-10-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000010053",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20260310_508M60000010006",
+   "amendment_promulgate_date": "2026-02-18",
+   "amendment_enforcement_date": "2026-03-10",
+   "amendment_law_id": "508M60000010006",
+   "amendment_law_title": "公証人法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20260202_508M60000010005",
+   "amendment_promulgate_date": "2026-02-02",
+   "amendment_enforcement_date": "2026-02-02",
+   "amendment_law_id": "508M60000010005",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20251001_507M60000010048",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000010048",
+   "amendment_law_title": "商業登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20251001_507M60000010040",
+   "amendment_promulgate_date": "2025-08-15",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000010040",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う法務省関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年法務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20250421_507M60000010001",
+   "amendment_promulgate_date": "2025-01-10",
+   "amendment_enforcement_date": "2025-04-21",
+   "amendment_law_id": "507M60000010001",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20250324_507M60000010002",
+   "amendment_promulgate_date": "2025-02-14",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507M60000010002",
+   "amendment_law_title": "不動産登記規則及び法務局における遺言書の保管等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20241202_506M60000010047",
+   "amendment_promulgate_date": "2024-12-02",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000010047",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20240624_506M60000010032",
+   "amendment_promulgate_date": "2024-04-22",
+   "amendment_enforcement_date": "2024-06-24",
+   "amendment_law_id": "506M60000010032",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20240422_506M60000010032",
+   "amendment_promulgate_date": "2024-04-22",
+   "amendment_enforcement_date": "2024-04-22",
+   "amendment_law_id": "506M60000010032",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20240401_506M60000010007",
+   "amendment_promulgate_date": "2024-03-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000010007",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20240401_505M60000010033",
+   "amendment_promulgate_date": "2023-07-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000010033",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20230401_505M60000010006",
+   "amendment_promulgate_date": "2023-03-20",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000010006",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20220401_504M60000010012",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000010012",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20210401_503M60000010014",
+   "amendment_promulgate_date": "2021-03-29",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000010014",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20210215_503M60000010002",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000010002",
+   "amendment_law_title": "商業登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20200929_502M60000010048",
+   "amendment_promulgate_date": "2020-09-15",
+   "amendment_enforcement_date": "2020-09-29",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010048",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20200330_502M60000010008",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010008",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20200319_502M60000010006",
+   "amendment_promulgate_date": "2020-03-19",
+   "amendment_enforcement_date": "2020-03-19",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010006",
+   "amendment_law_title": "商業登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20191216_501M60000010044",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000010044",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20191201_501M60000010041",
+   "amendment_promulgate_date": "2019-11-22",
+   "amendment_enforcement_date": "2019-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000010041",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20190701_501M60000010023",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000010023",
+   "amendment_law_title": "不動産登記規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20170529_429M60000010020",
+   "amendment_promulgate_date": "2017-04-17",
+   "amendment_enforcement_date": "2017-05-29",
+   "amendment_law_id": "429M60000010020",
+   "amendment_law_num": "平成二十九年法務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010018_20160401_428M60000010012",
+   "amendment_promulgate_date": "2016-03-24",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000010012",
+   "amendment_law_num": "平成二十八年法務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　登記記録等",
+  "第三章　登記手続",
+  "第四章　登記事項の証明等",
+  "第五章　筆界特定",
+  "第六章　法定相続情報"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-02-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-03T09:19:32+09:00"
+ }
+}

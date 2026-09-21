@@ -1,0 +1,95 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "504CO0000000179",
+  "law_num": "令和四年政令第百七十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "179",
+  "promulgation_date": "2022-04-20"
+ },
+ "revision_info": {
+  "law_revision_id": "504CO0000000179_20260401_508CO0000000086",
+  "law_type": "CabinetOrder",
+  "law_title": "国際関係の緊急時に特定の国を原産地とする物品に課する関税に関する政令",
+  "law_title_kana": "こくさいかんけいのきんきゅうじにとくていのくにをげんさんちとするぶっぴんにかするかぜいにかんするせいれい",
+  "abbrev": null,
+  "category": "外国為替・貿易",
+  "updated": "2026-04-21T10:54:26+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000086",
+  "amendment_law_title": "国際関係の緊急時に特定の国を原産地とする物品に課する関税に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第八十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504CO0000000179_20260401_508CO0000000086",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000086",
+   "amendment_law_title": "国際関係の緊急時に特定の国を原産地とする物品に課する関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000179_20250401_507CO0000000138",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000138",
+   "amendment_law_title": "国際関係の緊急時に特定の国を原産地とする物品に課する関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000179_20240401_506CO0000000159",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000159",
+   "amendment_law_title": "国際関係の緊急時に特定の国を原産地とする物品に課する関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000179_20230401_505CO0000000159",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000159",
+   "amendment_law_title": "国際関係の緊急時に特定の国を原産地とする物品に課する関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000179_20220421_000000000000000",
+   "amendment_promulgate_date": "2022-04-20",
+   "amendment_enforcement_date": "2022-04-21",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "関税暫定措置法第三条第一項（国際関係の緊急時に特定の国を原産地とする物品に課する関税率）に規定する政令で定める国は、次の表の上欄に掲げる国とし、同項に規定する政令で定める物品は、同表の中欄に掲げる物品とし、同項に規定する政令で定める期間は、同表の下欄に掲げる期間とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-04-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:54:26+09:00"
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "425AC1000000088",
+  "law_num": "平成二十五年法律第八十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "088",
+  "promulgation_date": "2013-11-29"
+ },
+ "revision_info": {
+  "law_revision_id": "425AC1000000088_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "首都直下地震対策特別措置法",
+  "law_title_kana": "しゅとちょっかじしんたいさくとくべつそちほう",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-07-23T14:50:28+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425AC1000000088_20280716_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2028-07-16",
+   "amendment_enforcement_comment": "防災庁設置法附則第一条第二号に掲げる規定の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-07-16",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "425AC1000000088_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "425AC1000000088_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425AC1000000088_20180715_430AC0000000022",
+   "amendment_promulgate_date": "2018-04-25",
+   "amendment_enforcement_date": "2018-07-15",
+   "amendment_law_id": "430AC0000000022",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC1000000088_20180401_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC1000000088_20131227_000000000000000",
+   "amendment_promulgate_date": "2013-11-29",
+   "amendment_enforcement_date": "2013-12-27",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　緊急対策推進基本計画",
+  "第三章　行政中枢機能の維持に係る緊急対策実施計画等",
+  "第四章　首都中枢機能維持基盤整備等地区における特別の措置",
+  "第五章　地方緊急対策実施計画の作成等",
+  "第六章　特定緊急対策事業推進計画に係る特別の措置",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、首都直下地震が発生した場合において首都中枢機能の維持を図るとともに、首都直下地震による災害から国民の生命、身体及び財産を保護するため、首都直下地震緊急対策区域の指定、緊急対策推進基本計画の作成、行政中枢機能の維持に係る緊急対策実施計画の作成、首都中枢機能維持基盤整備等地区の指定並びに首都中枢機能維持基盤整備等計画の認定及び認定基盤整備等計画に係る特別の措置、地方緊急対策実施計画の作成並びに特定緊急対策事業推進計画の認定及び認定推進計画に基づく事業に対する特別の措置について定めるとともに、地震観測施設等の整備等について定めることにより、首都直下地震に係る地震防災対策の推進を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-11-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-23T14:50:28+09:00"
+ }
+}

@@ -1,0 +1,94 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "426AC1000000127",
+  "law_num": "平成二十六年法律第百二十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "Act",
+  "law_num_num": "127",
+  "promulgation_date": "2014-11-27"
+ },
+ "revision_info": {
+  "law_revision_id": "426AC1000000127_20260903_508AC0000000027",
+  "law_type": "Act",
+  "law_title": "空家等対策の推進に関する特別措置法",
+  "law_title_kana": "あきやとうたいさくのすいしんにかんするとくべつそちほう",
+  "abbrev": "空家特措法",
+  "category": "都市計画",
+  "updated": "2026-09-03T00:24:59+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-09-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000027",
+  "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和八年法律第二十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426AC1000000127_20260903_508AC0000000027",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-09-03",
+   "amendment_law_id": "508AC0000000027",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和八年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426AC1000000127_20231213_505AC0000000050",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505AC0000000050",
+   "amendment_law_title": "空家等対策の推進に関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC1000000127_20230614_505AC0000000050",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000050",
+   "amendment_law_title": "空家等対策の推進に関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC1000000127_20150526_000000000000000",
+   "amendment_promulgate_date": "2014-11-27",
+   "amendment_enforcement_date": "2015-05-26",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　空家等の調査",
+  "第三章　空家等の適切な管理に係る措置",
+  "第四章　空家等の活用に係る措置",
+  "第五章　特定空家等に対する措置",
+  "第六章　空家等管理活用支援法人",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、適切な管理が行われていない空家等が防災、衛生、景観等の地域住民の生活環境に深刻な影響を及ぼしていることに鑑み、地域住民の生命、身体又は財産を保護するとともに、その生活環境の保全を図り、あわせて空家等の活用を促進するため、空家等に関する施策に関し、国による基本指針の策定、市町村（特別区を含む。第十条第二項を除き、以下同じ。）による空家等対策計画の作成その他の空家等に関する施策を推進するために必要な事項を定めることにより、空家等に関する施策を総合的かつ計画的に推進し、もって公共の福祉の増進と地域の振興に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-11-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-03T00:24:59+09:00"
+ }
+}

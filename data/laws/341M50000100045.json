@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "341M50000100045",
+  "law_num": "昭和四十一年厚生省令第四十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "045",
+  "promulgation_date": "1966-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "341M50000100045_20250401_507M60000100002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "製菓衛生師法施行規則",
+  "law_title_kana": "せいかえいせいしほうしこうきそく",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2025-04-01T15:17:13+09:00",
+  "amendment_promulgate_date": "2025-01-16",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100002",
+  "amendment_law_title": "製菓衛生師法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年厚生労働省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341M50000100045_20261001_508M60000100107",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100107",
+   "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "341M50000100045_20250401_507M60000100002",
+   "amendment_promulgate_date": "2025-01-16",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100002",
+   "amendment_law_title": "製菓衛生師法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341M50000100045_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50000100045_20190401_431M60000100005",
+   "amendment_promulgate_date": "2019-01-23",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000100005",
+   "amendment_law_title": "製菓衛生師法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50000100045_20190401_430M60000100015",
+   "amendment_promulgate_date": "2018-02-16",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000100015",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う厚生労働省関係省令の整理等に関する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50000100045_20150401_427M60000100055",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60000100055",
+   "amendment_law_num": "平成二十七年厚生労働省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（免許の申請手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "製菓衛生師法施行令（昭和四十一年政令第三百八十七号。以下「令」という。）第一条の製菓衛生師の免許の申請書には、次に掲げる事項を記載しなければならない。",
+   "令第一条に規定する厚生労働省令で定める書類は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1966-12-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-04-01T15:17:13+09:00"
+ }
+}

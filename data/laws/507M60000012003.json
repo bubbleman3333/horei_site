@@ -1,0 +1,62 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000012003",
+  "law_num": "令和七年内閣府・法務省令第三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2025-06-27"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000012003_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公益信託に関する法律第三十三条第三項の規定により読み替えて適用する信託法第三十四条第一項第三号の内閣府令・法務省令で定める事項等を定める命令",
+  "law_title_kana": "こうえきしんたくにかんするほうりつだいさんじゅうさんじょうだいさんこうのきていによりよみかえててきようするしんたくほうだいさんじゅうよんじょうだいいっこうだいさんごうのないかくふれいほうむしょうれいでさだめるじこうとうをさだめるめいれい",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-04-02T21:58:58+09:00",
+  "amendment_promulgate_date": "2025-06-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000012003_20260401_000000000000000",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　受託者等",
+  "第三章　公益信託の併合等",
+  "第四章　限定責任公益信託の特例",
+  "第五章　電磁的記録等",
+  "第六章　公益信託に係る計算"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令は、公益信託に関する法律（以下「法」という。）第三十三条第三項の規定により読み替えて適用する信託法第三十四条第一項第三号、第三十七条（第三項を除く。）、第三十八条第一項第二号及び第六項第二号、第四十七条第二項、第四項及び第五項、第五十九条第二項、第百五十一条第一項第五号、第百五十二条第二項第三号、第百五十五条第一項第七号、第百五十六条第二項第三号、第百五十九条第一項第七号、第百六十条第二項第三号、第二百十六条第二項第六号、第二百二十二条第二項から第四項まで及び第六項から第八項まで並びに第二百七十条第一項第三号の委任に基づく事項その他法の施行に必要な事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-06-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:58:58+09:00"
+ }
+}

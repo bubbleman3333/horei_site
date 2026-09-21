@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "410M50000180002",
+  "law_num": "平成十年文部省・厚生省令第二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "1998-08-28"
+ },
+ "revision_info": {
+  "law_revision_id": "410M50000180002_20260401_506M60000180001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "言語聴覚士学校養成所指定規則",
+  "law_title_kana": "げんごちょうかくしがっこうようせいじょしていきそく",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-05-14T10:33:56+09:00",
+  "amendment_promulgate_date": "2024-03-29",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000180001",
+  "amendment_law_title": "言語聴覚士学校養成所指定規則の一部を改正する省令",
+  "amendment_law_num": "令和六年文部科学省・厚生労働省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410M50000180002_20270401_506M60000180001",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "506M60000180001",
+   "amendment_law_title": "言語聴覚士学校養成所指定規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省・厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "410M50000180002_20260401_506M60000180001",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506M60000180001",
+   "amendment_law_title": "言語聴覚士学校養成所指定規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省・厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410M50000180002_20260331_508M60000180004",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000180004",
+   "amendment_law_title": "言語聴覚士学校養成所指定規則の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省・厚生労働省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000180002_20240401_506M60000180001",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000180001",
+   "amendment_law_title": "言語聴覚士学校養成所指定規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省・厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000180002_20221001_504M60000180003",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000180003",
+   "amendment_law_title": "歯科衛生士学校養成所指定規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省・厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000180002_20150401_427M60000180002",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60000180002",
+   "amendment_law_num": "平成二十七年文部科学省・厚生労働省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "言語聴覚士法（平成九年法律第百三十二号。以下「法」という。）第三十三条第一号から第三号まで及び第五号の規定に基づく学校又は言語聴覚士養成所（以下「養成所」という。）の指定に関しては、この省令の定めるところによる。",
+   "前項の学校とは、学校教育法（昭和二十二年法律第二十六号）第一条に規定する学校及びこれに附設される同法第百二十四条に規定する専修学校又は同法第百三十四条第一項に規定する各種学校をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-08-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-14T10:33:56+09:00"
+ }
+}

@@ -1,0 +1,158 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "416AC0000000117",
+  "law_num": "平成十六年法律第百十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "Act",
+  "law_num_num": "117",
+  "promulgation_date": "2004-06-18"
+ },
+ "revision_info": {
+  "law_revision_id": "416AC0000000117_20250601_504AC0000000068",
+  "law_type": "Act",
+  "law_title": "武力攻撃事態及び存立危機事態における捕虜等の取扱いに関する法律",
+  "law_title_kana": "ぶりょくこうげきじたいおよびそんりつききじたいにおけるほりょとうのとりあつかいにかんするほうりつ",
+  "abbrev": "捕虜取扱法,捕虜取扱い法",
+  "category": "外事",
+  "updated": "2025-06-01T21:49:04+09:00",
+  "amendment_promulgate_date": "2022-06-17",
+  "amendment_enforcement_date": "2025-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000068",
+  "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+  "amendment_law_num": "令和四年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416AC0000000117_20270604_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-06-04",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-06-04",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20270520_507AC0000000037",
+   "amendment_promulgate_date": "2025-05-21",
+   "amendment_enforcement_date": "2027-05-20",
+   "amendment_law_id": "507AC0000000037",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20241212_505AC0000000084",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "505AC0000000084",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20240610_505AC0000000056",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-06-10",
+   "amendment_law_id": "505AC0000000056",
+   "amendment_law_title": "出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20211001_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20200401_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20170701_429AC0000000042",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_law_id": "429AC0000000042",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000117_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　拘束及び抑留資格認定の手続",
+  "第三章　捕虜収容所における抑留及び処遇",
+  "第四章　資格認定審査請求及び懲戒審査請求",
+  "第五章　抑留の終了",
+  "第六章　補則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、武力攻撃事態及び存立危機事態における捕虜等の拘束、抑留その他の取扱いに関し必要な事項を定めることにより、武力攻撃又は存立危機武力攻撃を排除するために必要な自衛隊の行動が円滑かつ効果的に実施されるようにするとともに、武力攻撃事態及び存立危機事態において捕虜の待遇に関する千九百四十九年八月十二日のジュネーヴ条約（以下「第三条約」という。）その他の捕虜等の取扱いに係る国際人道法の的確な実施を確保することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-06-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-06-01T21:49:04+09:00"
+ }
+}

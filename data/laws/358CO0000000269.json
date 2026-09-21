@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "358CO0000000269",
+  "law_num": "昭和五十八年政令第二百六十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 58,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "269",
+  "promulgation_date": "1983-12-23"
+ },
+ "revision_info": {
+  "law_revision_id": "358CO0000000269_20260101_507CO0000000345",
+  "law_type": "CabinetOrder",
+  "law_title": "技術士法施行令",
+  "law_title_kana": "ぎじゅつしほうしこうれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-01-01T03:47:07+09:00",
+  "amendment_promulgate_date": "2025-10-08",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000345",
+  "amendment_law_title": "技術士法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百四十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "358CO0000000269_20260101_507CO0000000345",
+   "amendment_promulgate_date": "2025-10-08",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000345",
+   "amendment_law_title": "技術士法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "358CO0000000269_20250401_506CO0000000306",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000306",
+   "amendment_law_title": "国家公務員等の旅費に関する法律施行令",
+   "amendment_law_num": "令和六年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358CO0000000269_20060401_418CO0000000014",
+   "amendment_promulgate_date": "2006-02-01",
+   "amendment_enforcement_date": "2006-04-01",
+   "amendment_law_id": "418CO0000000014",
+   "amendment_law_num": "平成十八年政令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（受験手数料）",
+  "title": "第一条",
+  "paragraphs": [
+   "技術士法（以下「法」という。）第十条第一項の受験手数料の額は、第一次試験については一万三千円、第二次試験については二万五百円とする。",
+   "前項の受験手数料は、国に納付するものにあつては受験申込書にそれぞれ同項に規定する受験手数料の額に相当する額の収入印紙を貼ることにより、法第十一条第一項に規定する指定試験機関に納付するものにあつては法第十四条第一項に規定する試験事務規程で定めるところにより納付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1983-12-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T03:47:07+09:00"
+ }
+}

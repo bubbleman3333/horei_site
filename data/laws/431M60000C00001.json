@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "431M60000C00001",
+  "law_num": "平成三十一年経済産業省・国土交通省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 31,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2019-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "431M60000C00001_20260401_508M60000C00001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "海洋再生可能エネルギー発電設備の整備に関する法律施行規則",
+  "law_title_kana": "かいようさいせいかのうえねるぎーはつでんせつびのせいびにかんするほうりつしこうきそく",
+  "abbrev": "再エネ海域利用法施行規則",
+  "category": "工業",
+  "updated": "2026-04-02T21:31:46+09:00",
+  "amendment_promulgate_date": "2026-02-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000C00001",
+  "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省・国土交通省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "431M60000C00001_20260401_508M60000C00001",
+   "amendment_promulgate_date": "2026-02-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000C00001",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "431M60000C00001_20190701_501M60000C00001",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000C00001",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000C00001_20190401_000000000000000",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定をしようとする海洋再生可能エネルギー発電設備整備促進区域の位置及び区域の公告）",
+  "title": "第一条",
+  "paragraphs": [
+   "海洋再生可能エネルギー発電設備の整備に関する法律（以下「法」という。）第十条第一項の規定による指定をしようとする海洋再生可能エネルギー発電設備整備促進区域の位置及び区域の同条第五項の規定による公告は、官報への掲載、インターネットの利用その他の適切な方法により行うものとする。",
+   "前項の位置及び区域は、次に掲げるところにより明示するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:31:46+09:00"
+ }
+}

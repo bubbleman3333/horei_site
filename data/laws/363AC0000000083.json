@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "363AC0000000083",
+  "law_num": "昭和六十三年法律第八十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 63,
+  "law_num_type": "Act",
+  "law_num_num": "083",
+  "promulgation_date": "1988-06-14"
+ },
+ "revision_info": {
+  "law_revision_id": "363AC0000000083_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "多極分散型国土形成促進法",
+  "law_title_kana": "たきょくぶんさんがたこくどけいせいそくしんほう",
+  "abbrev": "四全総法",
+  "category": "国土開発",
+  "updated": "2026-07-24T13:01:48+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "363AC0000000083_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "363AC0000000083_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "363AC0000000083_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363AC0000000083_20210519_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363AC0000000083_20160401_427AC0000000066",
+   "amendment_promulgate_date": "2015-09-11",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427AC0000000066",
+   "amendment_law_title": "内閣の重要政策に関する総合調整等に関する機能の強化のための国家行政組織法等の一部を改正する法律",
+   "amendment_law_num": "平成二十七年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　国の行政機関等の移転等",
+  "第三章　地方の振興開発",
+  "第四章　大都市地域の秩序ある整備",
+  "第五章　住宅等の供給の促進",
+  "第六章　地域間の交流の促進",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、人口及び行政、経済、文化等に関する機能が過度に集中している地域からこれらの機能の分散を図り、地方の振興開発と大都市地域の秩序ある整備を推進し、並びに住宅等の供給と地域間の交流を促進することにより、人口及びこれらの機能が特定の地域に過度に集中することなくその全域にわたり適正に配置され、それぞれの地域が有機的に連携しつつその特性を生かして発展している国土（以下「多極分散型国土」という。）の形成を促進し、もつて住民が誇りと愛着を持つことのできる豊かで住みよい地域社会の実現に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1988-06-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-24T13:01:48+09:00"
+ }
+}

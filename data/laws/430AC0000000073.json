@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "430AC0000000073",
+  "law_num": "平成三十年法律第七十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "Act",
+  "law_num_num": "073",
+  "promulgation_date": "2018-07-13"
+ },
+ "revision_info": {
+  "law_revision_id": "430AC0000000073_20260624_508AC0000000045",
+  "law_type": "Act",
+  "law_title": "法務局における遺言書の保管等に関する法律",
+  "law_title_kana": "ほうむきょくにおけるいごんしょのほかんとうにかんするほうりつ",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-06-24T11:15:12+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000045",
+  "amendment_law_title": "民法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第四十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430AC0000000073_20290623_508AC0000000045",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2029-06-23",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2029-06-23",
+   "amendment_law_id": "508AC0000000045",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000073_20260624_508AC0000000045",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000045",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000073_20220401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000073_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000073_20200710_000000000000000",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2020-07-10",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、法務局（法務局の支局及び出張所、法務局の支局の出張所並びに地方法務局及びその支局並びにこれらの出張所を含む。次条第一項において同じ。）における遺言書（民法（明治二十九年法律第八十九号）第九百六十八条の自筆証書によってした遺言に係る遺言書をいう。以下同じ。）の保管及び情報の管理に関し必要な事項を定めるとともに、その遺言書の取扱いに関し特別の定めをするものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-07-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-24T11:15:12+09:00"
+ }
+}

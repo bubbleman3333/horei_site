@@ -1,0 +1,355 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "347M50002000008",
+  "law_num": "昭和四十七年労働省令第八号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "008",
+  "promulgation_date": "1972-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "347M50002000008_20260521_508M60000100088",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "労働保険の保険料の徴収等に関する法律施行規則",
+  "law_title_kana": "ろうどうほけんのほけんりょうのちょうしゅうとうにかんするほうりつしこうきそく",
+  "abbrev": "労働保険徴収法施行規則",
+  "category": "労働",
+  "updated": "2026-05-27T11:21:21+09:00",
+  "amendment_promulgate_date": "2026-04-28",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100088",
+  "amendment_law_title": "社会保険審査官及び社会保険審査会法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第八十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347M50002000008_20260521_508M60000100088",
+   "amendment_promulgate_date": "2026-04-28",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000100088",
+   "amendment_law_title": "社会保険審査官及び社会保険審査会法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20250401_507M60000100036",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100036",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20241101_506M60000100022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000100022",
+   "amendment_law_title": "労働者災害補償保険法施行規則及び労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20240517_506M60000100083",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506M60000100083",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20240401_506M60000100021",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100021",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20220701_504M60000100087",
+   "amendment_promulgate_date": "2022-05-24",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504M60000100087",
+   "amendment_law_title": "労働者災害補償保険法施行規則及び労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20220401_504M60000100073",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000100073",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20220401_504M60000100035",
+   "amendment_promulgate_date": "2022-03-10",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000100035",
+   "amendment_law_title": "労働者災害補償保険法施行規則及び労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20220131_504M60000100019",
+   "amendment_promulgate_date": "2022-01-31",
+   "amendment_enforcement_date": "2022-01-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000100019",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20210901_503M60000100123",
+   "amendment_promulgate_date": "2021-07-20",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000100123",
+   "amendment_law_title": "労働者災害補償保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20210401_503M60000100044",
+   "amendment_promulgate_date": "2021-02-26",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100044",
+   "amendment_law_title": "労働者災害補償保険法施行規則及び労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20210401_503M60000100011",
+   "amendment_promulgate_date": "2021-01-26",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100011",
+   "amendment_law_title": "労働者災害補償保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20210324_503M60000100058",
+   "amendment_promulgate_date": "2021-03-24",
+   "amendment_enforcement_date": "2021-03-24",
+   "amendment_law_id": "503M60000100058",
+   "amendment_law_title": "労働者災害補償保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20210201_503M60000100021",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "503M60000100021",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20210201_503M60000100019",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "503M60000100019",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20201113_502M60000100182",
+   "amendment_promulgate_date": "2020-11-13",
+   "amendment_enforcement_date": "2020-11-13",
+   "amendment_law_id": "502M60000100182",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20200901_502M60000100141",
+   "amendment_promulgate_date": "2020-07-17",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100141",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20200401_502M60000100077",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000100077",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20200401_431M60000100020",
+   "amendment_promulgate_date": "2019-03-08",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000100020",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則及び厚生労働省関係石綿による健康被害の救済に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20200331_502M60000100070",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-03-31",
+   "amendment_law_id": "502M60000100070",
+   "amendment_law_title": "労働者災害補償保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20200101_501M60000100052",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100052",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20191216_501M60000100080",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100080",
+   "amendment_law_title": "厚生労働省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20190614_501M60000100012",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100012",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20190401_430M60000100138",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000100138",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20181130_430M60000100137",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-11-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000100137",
+   "amendment_law_title": "労働保険の保険料の徴収等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20180401_430M60000100013",
+   "amendment_promulgate_date": "2018-02-08",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000100013",
+   "amendment_law_title": "労働者災害補償保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000008_20160101_427M60000100150",
+   "amendment_promulgate_date": "2015-09-29",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_law_id": "427M60000100150",
+   "amendment_law_num": "平成二十七年厚生労働省令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　保険関係の成立及び消滅",
+  "第三章　労働保険料の納付の手続等",
+  "第四章　労働保険事務組合",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（事務の所轄）",
+  "title": "第一条",
+  "paragraphs": [
+   "労働保険の保険料の徴収等に関する法律（昭和四十四年法律第八十四号。以下「法」という。）の規定による労働保険に関する事務（以下「労働保険関係事務」という。）は、第三十六条の規定により官署支出官（予算決算及び会計令（昭和二十二年勅令第百六十五号）第一条第二号に規定する官署支出官をいう。以下同じ。）が行う法第十九条第六項及び第二十条第三項の規定による還付金の還付に関する事務を除き、次の区分に従い、都道府県労働局長並びに労働基準監督署長及び公共職業安定所長が行う。",
+   "労働保険関係事務のうち、法第三十三条第二項、第三項及び第四項の規定による事務は、事業主の団体若しくはその連合団体又は労働保険事務組合の主たる事務所の所在地を管轄する都道府県労働局長が行う。",
+   "労働保険関係事務のうち、次の労働保険料及びこれに係る徴収金の徴収に関する事務は、事業場の所在地を管轄する都道府県労働局労働保険特別会計歳入徴収官（以下「所轄都道府県労働局歳入徴収官」という。）が行う。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T11:21:21+09:00"
+ }
+}

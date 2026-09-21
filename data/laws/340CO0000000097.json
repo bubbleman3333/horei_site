@@ -1,0 +1,467 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "340CO0000000097",
+  "law_num": "昭和四十年政令第九十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "097",
+  "promulgation_date": "1965-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "340CO0000000097_20260731_508CO0000000094",
+  "law_type": "CabinetOrder",
+  "law_title": "法人税法施行令",
+  "law_title_kana": "ほうじんぜいほうしこうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-09-08T11:56:06+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000094",
+  "amendment_law_title": "法人税法施行令及び法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第九十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340CO0000000097_20280101_508CO0000000094",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508CO0000000094",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20261211_508CO0000000094",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508CO0000000094",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20261001_507CO0000000121",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507CO0000000121",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20260731_508CO0000000094",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000094",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20260601_508CO0000000094",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000094",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20260522_508CO0000000094",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "508CO0000000094",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20260401_508CO0000000094",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000094",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20260401_507CO0000000121",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000121",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20260401_506CO0000000142",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000142",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20250401_507CO0000000121",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000121",
+   "amendment_law_title": "法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20250401_507CO0000000006",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000006",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20250401_506CO0000000212",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000212",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20250401_506CO0000000209",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000209",
+   "amendment_law_title": "私立学校法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20250101_506CO0000000142",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506CO0000000142",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20241118_506CO0000000342",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_law_id": "506CO0000000342",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20241001_506CO0000000142",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000142",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20240401_506CO0000000142",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000142",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20240401_505CO0000000208",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000208",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20240101_505CO0000000135",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505CO0000000135",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20231001_430CO0000000132",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "430CO0000000132",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20230601_505CO0000000135",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000135",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20230401_505CO0000000135",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000135",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20230101_504CO0000000137",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504CO0000000137",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20221001_504CO0000000317",
+   "amendment_promulgate_date": "2022-09-29",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000317",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20220501_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20220401_504CO0000000137",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000137",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20220401_503CO0000000114",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000114",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20220401_502CO0000000207",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000207",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20210802_503CO0000000114",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503CO0000000114",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20210617_503CO0000000169",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-17",
+   "amendment_law_id": "503CO0000000169",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20210401_503CO0000000114",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000114",
+   "amendment_law_title": "法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20210401_502CO0000000112",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502CO0000000112",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20210301_503CO0000000039",
+   "amendment_promulgate_date": "2021-02-25",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503CO0000000039",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20201001_502CO0000000286",
+   "amendment_promulgate_date": "2020-09-16",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502CO0000000286",
+   "amendment_law_title": "中小企業の事業承継の促進のための中小企業における経営の承継の円滑化に関する法律等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和二年政令第二百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20200910_502CO0000000273",
+   "amendment_promulgate_date": "2020-09-09",
+   "amendment_enforcement_date": "2020-09-10",
+   "amendment_law_id": "502CO0000000273",
+   "amendment_law_title": "所得税法施行令及び法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20200831_502CO0000000112",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-08-31",
+   "amendment_law_id": "502CO0000000112",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20200501_502CO0000000112",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502CO0000000112",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000097_20200401_502CO0000000112",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000112",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一編　総則",
+  "第一章　通則",
+  "第二章　法人課税信託",
+  "第二章の二　課税所得等の範囲等",
+  "第三章　所得の帰属に関する通則",
+  "第四章　納税地",
+  "第二編　内国法人の法人税",
+  "第一章　各事業年度の所得に対する法人税",
+  "第二章　各対象会計年度の国際最低課税額に対する法人税等",
+  "第三章　退職年金等積立金に対する法人税",
+  "第四章　更正及び決定",
+  "第三編　外国法人の法人税",
+  "第一章　国内源泉所得",
+  "第二章　各事業年度の所得に対する法人税",
+  "第三章　各対象会計年度の国際最低課税残余額に対する法人税等",
+  "第四章　退職年金等積立金に対する法人税",
+  "第五章　更正及び決定",
+  "第四編　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「国内」、「国外」、「内国法人」、「外国法人」、「公共法人」、「公益法人等」、「協同組合等」、「人格のない社団等」、「普通法人」、「同族会社」、「被合併法人」、「合併法人」、「分割法人」、「分割承継法人」、「現物出資法人」、「被現物出資法人」、「現物分配法人」、「被現物分配法人」、「株式交換完全子法人」、「株式交換等完全子法人」、「株式交換完全親法人」、「株式交換等完全親法人」、「株式移転完全子法人」、「株式移転完全親法人」、「通算親法人」、「通算子法人」、「通算法人」、「投資法人」、「特定目的会社」、「支配関係」、「完全支配関係」、「通算完全支配関係」、「適格合併」、「分割型分割」、「分社型分割」、「適格分割」、「適格分割型分割」、「適格分社型分割」、「適格現物出資」、「適格現物分配」、「株式分配」、「適格株式分配」、「株式交換等」、「適格株式交換等」、「適格株式移転」、「恒久的施設」、「収益事業」、「株主等」、「役員」、「資本金等の額」、「利益積立金額」、「欠損金額」、「棚卸資産」、「有価証券」、「固定資産」、「減価償却資産」、「繰延資産」、「損金経理」、「合同運用信託」、「証券投資信託」、「集団投資信託」、「法人課税信託」、「中間申告書」、「確定申告書」、「修正申告書」、「青色申告書」、「更正請求書」、「中間納付額」、「更正」、「附帯税」、「充当」又は「還付加算金」とは、それぞれ法人税法（以下「法」という。）第二条第一号から第九号まで、第十号から第十六号まで、第十八号から第二十七号まで、第二十九号から第三十一号まで、第三十五号から第三十九号まで又は第四十一…"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-08T11:56:06+09:00"
+ }
+}

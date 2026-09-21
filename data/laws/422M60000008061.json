@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "422M60000008061",
+  "law_num": "平成二十二年総務省令第六十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 22,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "061",
+  "promulgation_date": "2010-05-14"
+ },
+ "revision_info": {
+  "law_revision_id": "422M60000008061_20251222_507M60000008111",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "日本国憲法の改正手続に関する法律施行規則",
+  "law_title_kana": "にほんこくけんぽうのかいせいてつづきにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "憲法",
+  "updated": "2026-01-20T11:06:26+09:00",
+  "amendment_promulgate_date": "2025-12-22",
+  "amendment_enforcement_date": "2025-12-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000008111",
+  "amendment_law_title": "公職選挙法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年総務省令第百十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "422M60000008061_20251222_507M60000008111",
+   "amendment_promulgate_date": "2025-12-22",
+   "amendment_enforcement_date": "2025-12-22",
+   "amendment_law_id": "507M60000008111",
+   "amendment_law_title": "公職選挙法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "422M60000008061_20241202_506M60000008098",
+   "amendment_promulgate_date": "2024-11-22",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000008098",
+   "amendment_law_title": "在外選挙執行規則及び日本国憲法の改正手続に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000008061_20230327_505M60000008019",
+   "amendment_promulgate_date": "2023-03-24",
+   "amendment_enforcement_date": "2023-03-27",
+   "amendment_law_id": "505M60000008019",
+   "amendment_law_title": "在外選挙執行規則及び日本国憲法の改正手続に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000008061_20210918_503M60000008095",
+   "amendment_promulgate_date": "2021-09-17",
+   "amendment_enforcement_date": "2021-09-18",
+   "amendment_law_id": "503M60000008095",
+   "amendment_law_title": "日本国憲法の改正手続に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000008061_20210101_502M60000008130",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000008130",
+   "amendment_law_title": "日本国憲法の改正手続に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000008061_20201201_502M60000008101",
+   "amendment_promulgate_date": "2020-11-16",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000008101",
+   "amendment_law_title": "公職選挙法施行規則及び日本国憲法の改正手続に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000008061_20190701_501M60000008019",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008019",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う総務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000008061_20130630_425M60000008063",
+   "amendment_promulgate_date": "2013-05-31",
+   "amendment_enforcement_date": "2013-06-30",
+   "amendment_law_id": "425M60000008063",
+   "amendment_law_num": "平成二十五年総務省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　投票人名簿",
+  "第二章　在外投票人名簿",
+  "第三章　投票所における投票",
+  "第四章　期日前投票及び不在者投票",
+  "第五章　在外投票",
+  "第六章　開票並びに国民投票会及び国民投票分会"
+ ],
+ "article1": {
+  "caption": "（投票人名簿の様式等）",
+  "title": "第一条",
+  "paragraphs": [
+   "投票人名簿（日本国憲法の改正手続に関する法律（平成十九年法律第五十一号。以下「法」という。）第二十条第二項の規定により磁気ディスクをもって調製するものを除く。）は、別記第一号様式に準じて調製しなければならない。",
+   "法第二十条第二項の規定により磁気ディスクをもって調製する投票人名簿は、当該投票人名簿に記録されている事項を記載した書類を別記第一号様式に準じて調製できるものでなければならない。",
+   "磁気ディスクをもって調製する投票人名簿に記録されている全部の事項を記載した書類及び日本国憲法の改正手続に関する法律施行令（平成二十二年政令第百三十五号。以下「令」という。）第十一条で読み替えて準用する公職選挙法施行令（昭和二十五年政令第八十九号）第十九条第一項に規定する投票人名簿記載書類は、別記第一号様式に準じて調製しなければならない。",
+   "投票人名簿の抄本及び磁気ディスクをもって調製する投票人名簿に記録されている一部の事項を記載した書類は、別記第二号様式に準じて調製しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2010-05-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-20T11:06:26+09:00"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "351M50002000026",
+  "law_num": "昭和五十一年労働省令第二十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 51,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "026",
+  "promulgation_date": "1976-06-28"
+ },
+ "revision_info": {
+  "law_revision_id": "351M50002000026_20260120_508M60000100004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "賃金の支払の確保等に関する法律施行規則",
+  "law_title_kana": "ちんぎんのしはらいのかくほとうにかんするほうりつせこうきそく",
+  "abbrev": "賃確法施行規則,賃金支払確保法施行規則",
+  "category": "労働",
+  "updated": "2026-01-27T17:53:29+09:00",
+  "amendment_promulgate_date": "2026-01-20",
+  "amendment_enforcement_date": "2026-01-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100004",
+  "amendment_law_title": "賃金の支払の確保等に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "351M50002000026_20260120_508M60000100004",
+   "amendment_promulgate_date": "2026-01-20",
+   "amendment_enforcement_date": "2026-01-20",
+   "amendment_law_id": "508M60000100004",
+   "amendment_law_title": "賃金の支払の確保等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "351M50002000026_20210401_502M60000100203",
+   "amendment_promulgate_date": "2020-12-22",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000100203",
+   "amendment_law_title": "労働基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50002000026_20160401_428M60000100056",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000100056",
+   "amendment_law_num": "平成二十八年厚生労働省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　貯蓄金及び賃金に係る保全措置等",
+  "第二章　未払賃金の立替払事業",
+  "第三章　雑則"
+ ],
+ "article1": {
+  "caption": "（貯蓄金の保全措置を講ずることを要しない場合）",
+  "title": "第一条",
+  "paragraphs": [
+   "賃金の支払の確保等に関する法律（以下「法」という。）第三条の厚生労働省令で定める場合は、特別の法律により特別の設立行為をもつて設立された法人又は特別の法律により地方公共団体が設立者となつて設立された法人（第四条において「特殊法人等」という。）が法第三条に規定する貯蓄金の保全措置を講ずることを要しない旨の厚生労働大臣の指定を受けた場合とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1976-06-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-27T17:53:29+09:00"
+ }
+}

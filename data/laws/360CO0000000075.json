@@ -1,0 +1,171 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "360CO0000000075",
+  "law_num": "昭和六十年政令第七十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 60,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "075",
+  "promulgation_date": "1985-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "360CO0000000075_20260527_508CO0000000176",
+  "law_type": "CabinetOrder",
+  "law_title": "電気通信事業法施行令",
+  "law_title_kana": "でんきつうしんじぎょうほうしこうれい",
+  "abbrev": "電通事法施行令",
+  "category": "電気通信",
+  "updated": "2026-06-08T10:16:32+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000176",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "360CO0000000075_20260527_508CO0000000176",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000176",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20251105_507CO0000000297",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2025-11-05",
+   "amendment_law_id": "507CO0000000297",
+   "amendment_law_title": "電気通信事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20240801_506CO0000000164",
+   "amendment_promulgate_date": "2024-04-05",
+   "amendment_enforcement_date": "2024-08-01",
+   "amendment_law_id": "506CO0000000164",
+   "amendment_law_title": "電気通信事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20230616_505CO0000000198",
+   "amendment_promulgate_date": "2023-06-02",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505CO0000000198",
+   "amendment_law_title": "電気通信事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20230616_504CO0000000343",
+   "amendment_promulgate_date": "2022-11-07",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "504CO0000000343",
+   "amendment_law_title": "電気通信事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20221107_504CO0000000343",
+   "amendment_promulgate_date": "2022-11-07",
+   "amendment_enforcement_date": "2022-11-07",
+   "amendment_law_id": "504CO0000000343",
+   "amendment_law_title": "電気通信事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20211101_503CO0000000179",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000179",
+   "amendment_law_title": "海上交通安全法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和三年政令第百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20191216_501CO0000000183",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501CO0000000183",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20191001_501CO0000000080",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000080",
+   "amendment_law_title": "電気通信事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20170708_429CO0000000188",
+   "amendment_promulgate_date": "2017-07-07",
+   "amendment_enforcement_date": "2017-07-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000188",
+   "amendment_law_title": "港湾法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000075_20170401_428CO0000000398",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000398",
+   "amendment_law_title": "電気通信事業法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特殊の関係）",
+  "title": "第一条",
+  "paragraphs": [
+   "電気通信事業法（以下「法」という。）第十二条の二第四項第一号ニの政令で定める特殊の関係は、次に掲げる関係とする。",
+   "前項の「関連会社等」とは、会社等（会社、組合その他これらに準ずる事業体（外国におけるこれらに相当するものを含む。）をいう。以下この項において同じ。）（当該会社等の子会社等を含む。）が出資、取締役その他これに準ずる役職への当該会社等の役員若しくは使用人である者若しくはこれらであつた者の就任、融資、債務の保証若しくは担保の提供、技術の提供又は営業上若しくは事業上の取引等を通じて、財務及び営業又は事業の方針の決定に対して重要な影響を与えることができる他の会社等（子会社等を除く。）として総務省令で定めるものをいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1985-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-08T10:16:32+09:00"
+ }
+}

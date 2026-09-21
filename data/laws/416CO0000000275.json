@@ -1,0 +1,349 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "416CO0000000275",
+  "law_num": "平成十六年政令第二百七十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "275",
+  "promulgation_date": "2004-09-15"
+ },
+ "revision_info": {
+  "law_revision_id": "416CO0000000275_20260527_508CO0000000176",
+  "law_type": "CabinetOrder",
+  "law_title": "武力攻撃事態等における国民の保護のための措置に関する法律施行令",
+  "law_title_kana": "ぶりょくこうげきじたいとうにおけるこくみんのほごのためのそちにかんするほうりつしこうれい",
+  "abbrev": "国民保護法施行令",
+  "category": "外事",
+  "updated": "2026-07-17T17:33:29+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000176",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416CO0000000275_20260527_508CO0000000176",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000176",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20260501_507CO0000000362",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507CO0000000362",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第三百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20260401_508CO0000000033",
+   "amendment_promulgate_date": "2026-03-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000033",
+   "amendment_law_title": "武力攻撃事態等における国民の保護のための措置に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20260323_508CO0000000024",
+   "amendment_promulgate_date": "2026-03-11",
+   "amendment_enforcement_date": "2026-03-23",
+   "amendment_law_id": "508CO0000000024",
+   "amendment_law_title": "自衛隊法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20250901_507CO0000000308",
+   "amendment_promulgate_date": "2025-08-29",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507CO0000000308",
+   "amendment_law_title": "航空法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20250801_507CO0000000284",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-08-01",
+   "amendment_law_id": "507CO0000000284",
+   "amendment_law_title": "武力攻撃事態等における国民の保護のための措置に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20250401_507CO0000000057",
+   "amendment_promulgate_date": "2025-03-14",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000057",
+   "amendment_law_title": "武力攻撃事態等における国民の保護のための措置に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20250324_507CO0000000050",
+   "amendment_promulgate_date": "2025-03-14",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507CO0000000050",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20240401_506CO0000000116",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000116",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20240401_506CO0000000102",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000102",
+   "amendment_law_title": "生活衛生等関係行政の機能強化のための関係法律の整備に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20240401_506CO0000000057",
+   "amendment_promulgate_date": "2024-03-15",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000057",
+   "amendment_law_title": "武力攻撃事態等における国民の保護のための措置に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20230901_505CO0000000180",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505CO0000000180",
+   "amendment_law_title": "災害対策基本法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20230508_505CO0000000175",
+   "amendment_promulgate_date": "2023-04-26",
+   "amendment_enforcement_date": "2023-05-08",
+   "amendment_law_id": "505CO0000000175",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20230401_505CO0000000068",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000068",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20230401_504CO0000000377",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000377",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第三百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20230320_504CO0000000364",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2023-03-20",
+   "amendment_law_id": "504CO0000000364",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20220520_504CO0000000196",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504CO0000000196",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20211001_503CO0000000277",
+   "amendment_promulgate_date": "2021-09-29",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503CO0000000277",
+   "amendment_law_title": "武力攻撃事態等における国民の保護のための措置に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20210801_503CO0000000001",
+   "amendment_promulgate_date": "2021-01-05",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503CO0000000001",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20210401_503CO0000000066",
+   "amendment_promulgate_date": "2021-03-24",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000066",
+   "amendment_law_title": "電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20210213_503CO0000000025",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-02-13",
+   "amendment_law_id": "503CO0000000025",
+   "amendment_law_title": "新型インフルエンザ等対策特別措置法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20210105_503CO0000000001",
+   "amendment_promulgate_date": "2021-01-05",
+   "amendment_enforcement_date": "2021-01-05",
+   "amendment_law_id": "503CO0000000001",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20200401_502CO0000000040",
+   "amendment_promulgate_date": "2020-03-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000040",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20191214_501CO0000000027",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501CO0000000027",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う厚生労働省関係政令の整理等に関する政令",
+   "amendment_law_num": "令和元年政令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20190901_430CO0000000319",
+   "amendment_promulgate_date": "2018-11-21",
+   "amendment_enforcement_date": "2019-09-01",
+   "amendment_law_id": "430CO0000000319",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第三百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20181001_429CO0000000311",
+   "amendment_promulgate_date": "2017-12-20",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "429CO0000000311",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第三百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20180327_430CO0000000033",
+   "amendment_promulgate_date": "2018-02-09",
+   "amendment_enforcement_date": "2018-03-27",
+   "amendment_law_id": "430CO0000000033",
+   "amendment_law_title": "自衛隊法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20170701_429CO0000000166",
+   "amendment_promulgate_date": "2017-06-23",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_law_id": "429CO0000000166",
+   "amendment_law_title": "自衛隊法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20170401_429CO0000000057",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000057",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000275_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（都道府県等の事務の委託の手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "災害対策基本法施行令（昭和三十七年政令第二百八十八号）第三十一条の規定は、武力攻撃事態等における国民の保護のための措置に関する法律（以下「法」という。）第十三条の規定による都道府県の事務又は都道府県知事等の権限に属する事務の委託について準用する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-09-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-17T17:33:29+09:00"
+ }
+}

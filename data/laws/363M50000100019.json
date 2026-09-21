@@ -1,0 +1,142 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "363M50000100019",
+  "law_num": "昭和六十三年厚生省令第十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 63,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "019",
+  "promulgation_date": "1988-03-28"
+ },
+ "revision_info": {
+  "law_revision_id": "363M50000100019_20220728_504M60000100107",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "臨床工学技士法施行規則",
+  "law_title_kana": "りんしょうこうがくぎしほうしこうきそく",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2023-06-13T16:49:58+09:00",
+  "amendment_promulgate_date": "2022-07-28",
+  "amendment_enforcement_date": "2022-07-28",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504M60000100107",
+  "amendment_law_title": "医師法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和四年厚生労働省令第百七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "363M50000100019_20261001_508M60000100107",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100107",
+   "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "363M50000100019_20220728_504M60000100107",
+   "amendment_promulgate_date": "2022-07-28",
+   "amendment_enforcement_date": "2022-07-28",
+   "amendment_law_id": "504M60000100107",
+   "amendment_law_title": "医師法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "363M50000100019_20211001_503M60000100119",
+   "amendment_promulgate_date": "2021-07-09",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503M60000100119",
+   "amendment_law_title": "診療放射線技師法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363M50000100019_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363M50000100019_20191216_501M60000100080",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000100080",
+   "amendment_law_title": "厚生労働省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363M50000100019_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363M50000100019_20190101_430M60000100139",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430M60000100139",
+   "amendment_law_title": "医師法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363M50000100019_20190101_430M60000100131",
+   "amendment_promulgate_date": "2018-11-09",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430M60000100131",
+   "amendment_law_title": "医師法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363M50000100019_20160608_428M60000100108",
+   "amendment_promulgate_date": "2016-06-08",
+   "amendment_enforcement_date": "2016-06-08",
+   "amendment_law_id": "428M60000100108",
+   "amendment_law_num": "平成二十八年厚生労働省令第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　免許",
+  "第二章　試験",
+  "第三章　指定試験機関",
+  "第四章　業務"
+ ],
+ "article1": {
+  "caption": "（法第四条第三号の厚生労働省令で定める者）",
+  "title": "第一条",
+  "paragraphs": [
+   "臨床工学技士法（昭和六十二年法律第六十号。以下「法」という。）第四条第三号の厚生労働省令で定める者は、視覚、聴覚、音声機能若しくは言語機能又は精神の機能の障害により臨床工学技士の業務を適正に行うに当たつて必要な認知、判断及び意思疎通を適切に行うことができない者とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1988-03-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2023-06-13T16:49:58+09:00"
+ }
+}

@@ -1,0 +1,160 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "353CO0000000385",
+  "law_num": "昭和五十三年政令第三百八十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 53,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "385",
+  "promulgation_date": "1978-12-12"
+ },
+ "revision_info": {
+  "law_revision_id": "353CO0000000385_20251001_507CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "大規模地震対策特別措置法施行令",
+  "law_title_kana": "だいきぼじしんたいさくとくべつそちほうしこうれい",
+  "abbrev": "大震法施行令,地震対策法施行令",
+  "category": "災害対策",
+  "updated": "2025-10-01T06:42:59+09:00",
+  "amendment_promulgate_date": "2025-03-26",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000085",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "353CO0000000385_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20250401_506CO0000000372",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000372",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う関係政令の整理等に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20241023_506CO0000000315",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2024-10-23",
+   "amendment_law_id": "506CO0000000315",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20230901_505CO0000000180",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505CO0000000180",
+   "amendment_law_title": "災害対策基本法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20200401_501CO0000000155",
+   "amendment_promulgate_date": "2019-11-07",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000155",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20191107_501CO0000000155",
+   "amendment_promulgate_date": "2019-11-07",
+   "amendment_enforcement_date": "2019-11-07",
+   "amendment_law_id": "501CO0000000155",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令　抄",
+   "amendment_law_num": "令和元年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20180401_430CO0000000055",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000055",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20180401_430CO0000000054",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000054",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律及び児童福祉法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353CO0000000385_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（地震防災基本計画で定めるべき事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "大規模地震対策特別措置法（以下「法」という。）第五条第二項の政令で定める事項は、地震防災対策強化地域に係る大規模な地震に関し、指定行政機関の長、地方公共団体の長その他の執行機関、指定公共機関等が共同して行う総合的な防災訓練に関する事項とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1978-12-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T06:42:59+09:00"
+ }
+}

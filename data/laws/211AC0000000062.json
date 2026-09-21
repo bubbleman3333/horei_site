@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "211AC0000000062",
+  "law_num": "大正十一年法律第六十二号",
+  "law_num_era": "Taisho",
+  "law_num_year": 11,
+  "law_num_type": "Act",
+  "law_num_num": "062",
+  "promulgation_date": "1922-04-21"
+ },
+ "revision_info": {
+  "law_revision_id": "211AC0000000062_20260401_506AC0000000030",
+  "law_type": "Act",
+  "law_title": "公益信託ニ関スル法律",
+  "law_title_kana": "こうえきしんたくにかんするほうりつ",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-04-01T00:02:17+09:00",
+  "amendment_promulgate_date": "2024-05-22",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000030",
+  "amendment_law_title": "公益信託に関する法律",
+  "amendment_law_num": "令和六年法律第三十号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-04-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "211AC0000000062_20260401_506AC0000000030",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000030",
+   "amendment_law_title": "公益信託に関する法律",
+   "amendment_law_num": "令和六年法律第三十号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "211AC0000000062_20240522_506AC0000000030",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2024-05-22",
+   "amendment_law_id": "506AC0000000030",
+   "amendment_law_title": "公益信託に関する法律",
+   "amendment_law_num": "令和六年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "211AC0000000062_20090105_416AC0000000088",
+   "amendment_promulgate_date": "2004-06-09",
+   "amendment_enforcement_date": "2009-01-05",
+   "amendment_law_id": "416AC0000000088",
+   "amendment_law_num": "平成十六年法律第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "信託法（平成十八年法律第百八号）第二百五十八条第一項ニ規定スル受益者ノ定ナキ信託ノ内学術、技芸、慈善、祭祀、宗教其ノ他公益ヲ目的トスルモノニシテ次条ノ許可ヲ受ケタルモノ（以下公益信託ト謂フ）ニ付テハ本法ノ定ムル所ニ依ル"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1922-04-21",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T00:02:17+09:00"
+ }
+}

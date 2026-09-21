@@ -1,0 +1,182 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "350AC0000000095",
+  "law_num": "昭和五十年法律第九十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 50,
+  "law_num_type": "Act",
+  "law_num_num": "095",
+  "promulgation_date": "1975-12-27"
+ },
+ "revision_info": {
+  "law_revision_id": "350AC0000000095_20251001_505AC0000000053",
+  "law_type": "Act",
+  "law_title": "船舶油濁等損害賠償保障法",
+  "law_title_kana": "せんぱくゆだくとうそんがいばいしょうほしょうほう",
+  "abbrev": "油賠法,油濁法",
+  "category": "環境保全",
+  "updated": "2025-10-01T05:37:13+09:00",
+  "amendment_promulgate_date": "2023-06-14",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000053",
+  "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和五年法律第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "350AC0000000095_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20201001_501AC0000000018",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501AC0000000018",
+   "amendment_law_title": "船舶油濁損害賠償保障法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20200301_501AC0000000018",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2020-03-01",
+   "amendment_law_id": "501AC0000000018",
+   "amendment_law_title": "船舶油濁損害賠償保障法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20190401_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20190401_430AC0000000020",
+   "amendment_promulgate_date": "2018-04-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000020",
+   "amendment_law_title": "人事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20180525_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2018-05-25",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350AC0000000095_20050301_416AC0000000037",
+   "amendment_promulgate_date": "2004-04-21",
+   "amendment_enforcement_date": "2005-03-01",
+   "amendment_law_id": "416AC0000000037",
+   "amendment_law_num": "平成十六年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　タンカー油濁損害賠償責任及び責任の制限",
+  "第三章　タンカー油濁損害賠償保障契約",
+  "第四章　国際基金",
+  "第四章の二　追加基金",
+  "第五章　タンカー油濁損害に係る責任制限手続",
+  "第六章　一般船舶等油濁損害賠償責任及び責任の制限",
+  "第七章　一般船舶等油濁損害賠償保障契約等",
+  "第八章　難破物除去損害賠償責任",
+  "第九章　難破物除去損害賠償保障契約等",
+  "第十章　雑則",
+  "第十一章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、船舶油濁等損害が生じた場合における船舶所有者等の責任を明確にし、及び船舶油濁等損害の賠償を保障する制度を確立することにより、被害者の保護を図り、あわせて海上輸送の健全な発達に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1975-12-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T05:37:13+09:00"
+ }
+}

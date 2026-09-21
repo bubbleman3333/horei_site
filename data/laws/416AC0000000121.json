@@ -1,0 +1,118 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "416AC0000000121",
+  "law_num": "平成十六年法律第百二十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "Act",
+  "law_num_num": "121",
+  "promulgation_date": "2004-06-18"
+ },
+ "revision_info": {
+  "law_revision_id": "416AC0000000121_20260401_506AC0000000047",
+  "law_type": "Act",
+  "law_title": "判事補及び検事の弁護士職務経験に関する法律",
+  "law_title_kana": "はんじほおよびけんじのべんごししょくむけいけんにかんするほうりつ",
+  "abbrev": null,
+  "category": "司法",
+  "updated": "2026-04-02T18:58:40+09:00",
+  "amendment_promulgate_date": "2024-06-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000047",
+  "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第四十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416AC0000000121_20260401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000121_20251224_507AC0000000089",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507AC0000000089",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000121_20250401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000121_20240612_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-06-12",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000121_20221101_502AC0000000033",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "502AC0000000033",
+   "amendment_law_title": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000121_20151001_424AC0000000096",
+   "amendment_promulgate_date": "2012-11-26",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "424AC0000000096",
+   "amendment_law_title": "国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律",
+   "amendment_law_num": "平成二十四年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000121_20151001_424AC0000000063",
+   "amendment_promulgate_date": "2012-08-22",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "424AC0000000063",
+   "amendment_law_title": "被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十四年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、内外の社会経済情勢の変化に伴い、司法の果たすべき役割がより重要なものとなり、司法に対する多様かつ広範な国民の要請にこたえることのできる広くかつ高い識見を備えた裁判官及び検察官が求められていることにかんがみ、判事補及び検事（司法修習生の修習を終えた者であって、その最初に検事に任命された日から十年を経過していないものに限る。第七条第五項、第十一条第四項及び第十二条を除き、以下同じ。）について、その経験多様化（裁判官又は検察官としての能力及び資質の向上並びにその職務の充実に資する他の職務経験その他の多様な経験をすることをいう。次条第一項及び第四項において同じ。）のための方策の一環として、一定期間その官を離れ、弁護士となってその職務を経験するために必要な措置を講ずることにより、判事補及び検事が弁護士としての職務を経験することを通じて、裁判官及び検察官としての能力及び資質の一層の向上並びにその職務の一層の充実を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-06-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T18:58:40+09:00"
+ }
+}

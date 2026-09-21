@@ -1,0 +1,129 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "346M50010000052",
+  "law_num": "昭和四十六年農林省令第五十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "052",
+  "promulgation_date": "1971-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "346M50010000052_20260401_507M60000200042",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "卸売市場法施行規則",
+  "law_title_kana": "おろしうりしじょうほうしこうきそく",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-04-01T06:26:10+09:00",
+  "amendment_promulgate_date": "2025-09-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000200042",
+  "amendment_law_title": "卸売市場法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年農林水産省令第四十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346M50010000052_20260401_507M60000200042",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000200042",
+   "amendment_law_title": "卸売市場法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346M50010000052_20210716_503M60000200042",
+   "amendment_promulgate_date": "2021-07-16",
+   "amendment_enforcement_date": "2021-07-16",
+   "amendment_law_id": "503M60000200042",
+   "amendment_law_title": "卸売市場法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50010000052_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50010000052_20200621_430M60000200067",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2020-06-21",
+   "amendment_law_id": "430M60000200067",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "平成三十年農林水産省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50010000052_20191221_430M60000200067",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2019-12-21",
+   "amendment_law_id": "430M60000200067",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "平成三十年農林水産省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50010000052_20190701_501M60000200010",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200010",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50010000052_20190507_501M60000200001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200001",
+   "amendment_law_title": "元号を改める政令の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50010000052_20160401_428M60000200030",
+   "amendment_promulgate_date": "2016-04-01",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000200030",
+   "amendment_law_num": "平成二十八年農林水産省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（中央卸売市場の認定を受けることのできる卸売市場）",
+  "title": "第一条",
+  "paragraphs": [
+   "卸売市場法（以下「法」という。）第四条第一項の農林水産省令で定める基準は、その取扱品目が属する次の各号に掲げる生鮮食料品等の区分に応じ、その卸売場、仲卸売場及び倉庫（冷蔵又は冷凍で保管するものを含む。）の面積の合計が、おおむねそれぞれ当該各号に定める面積（その取扱品目が当該各号の二以上の生鮮食料品等の区分に属する場合には、当該各号に定める面積のうち最も大きな面積）以上であることとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-06-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:26:10+09:00"
+ }
+}

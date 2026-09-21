@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "418CO0000000024",
+  "law_num": "平成十八年政令第二十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "024",
+  "promulgation_date": "2006-02-24"
+ },
+ "revision_info": {
+  "law_revision_id": "418CO0000000024_20260113_507CO0000000320",
+  "law_type": "CabinetOrder",
+  "law_title": "総合法律支援法施行令",
+  "law_title_kana": "そうごうほうりつしえんほうせこうれい",
+  "abbrev": null,
+  "category": "司法",
+  "updated": "2026-01-13T00:02:20+09:00",
+  "amendment_promulgate_date": "2025-09-10",
+  "amendment_enforcement_date": "2026-01-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000320",
+  "amendment_law_title": "総合法律支援法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418CO0000000024_20260113_507CO0000000320",
+   "amendment_promulgate_date": "2025-09-10",
+   "amendment_enforcement_date": "2026-01-13",
+   "amendment_law_id": "507CO0000000320",
+   "amendment_law_title": "総合法律支援法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000024_20210901_503CO0000000191",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000191",
+   "amendment_law_title": "デジタル社会形成基本法の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和三年政令第百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000024_20210101_502CO0000000364",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000364",
+   "amendment_law_title": "著作権法及びプログラムの著作物に係る登録の特例に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第三百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000024_20150401_427CO0000000074",
+   "amendment_promulgate_date": "2015-03-18",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000074",
+   "amendment_law_title": "独立行政法人通則法の一部を改正する法律及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令　抄",
+   "amendment_law_num": "平成二十七年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　評価委員",
+  "第二章　日本司法支援センター評価委員会",
+  "第二章の二　業務の範囲",
+  "第三章　積立金及び納付金",
+  "第四章　不要財産",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（評価委員の任命等）",
+  "title": "第一条",
+  "paragraphs": [
+   "総合法律支援法（以下「法」という。）第十七条第五項の評価委員は、必要の都度、次に掲げる者につき法務大臣が任命する。",
+   "法第十七条第五項の規定による評価は、同項の評価委員の過半数の一致によるものとする。",
+   "法第十七条第五項の規定による評価に関する庶務は、法務省大臣官房司法法制部司法法制課において処理する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-02-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-13T00:02:20+09:00"
+ }
+}

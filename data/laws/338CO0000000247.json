@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "338CO0000000247",
+  "law_num": "昭和三十八年政令第二百四十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 38,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "247",
+  "promulgation_date": "1963-07-11"
+ },
+ "revision_info": {
+  "law_revision_id": "338CO0000000247_20260401_508CO0000000060",
+  "law_type": "CabinetOrder",
+  "law_title": "老人福祉法施行令",
+  "law_title_kana": "ろうじんふくしほうせこうれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-04-07T10:12:52+09:00",
+  "amendment_promulgate_date": "2026-03-25",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000060",
+  "amendment_law_title": "高次脳機能障害者支援法施行令",
+  "amendment_law_num": "令和八年政令第六十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "338CO0000000247_20260401_508CO0000000060",
+   "amendment_promulgate_date": "2026-03-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000060",
+   "amendment_law_title": "高次脳機能障害者支援法施行令",
+   "amendment_law_num": "令和八年政令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000247_20210401_503CO0000000054",
+   "amendment_promulgate_date": "2021-03-19",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000054",
+   "amendment_law_title": "介護保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000247_20180401_430CO0000000055",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000055",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000247_20160401_428CO0000000045",
+   "amendment_promulgate_date": "2016-02-19",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000045",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保を推進するための関係法律の整備等に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（老人居宅介護等事業の対象者）",
+  "title": "第一条",
+  "paragraphs": [
+   "老人福祉法（以下「法」という。）第五条の二第二項の政令で定める者は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1963-07-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-07T10:12:52+09:00"
+ }
+}

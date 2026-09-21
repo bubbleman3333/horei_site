@@ -1,0 +1,168 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "413CO0000000245",
+  "law_num": "平成十三年政令第二百四十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "245",
+  "promulgation_date": "2001-07-23"
+ },
+ "revision_info": {
+  "law_revision_id": "413CO0000000245_20260903_508CO0000000255",
+  "law_type": "CabinetOrder",
+  "law_title": "電波法施行令",
+  "law_title_kana": "でんぱほうしこうれい",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-09-03T00:22:33+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-09-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000255",
+  "amendment_law_title": "電波法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百五十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413CO0000000245_20260903_508CO0000000255",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-09-03",
+   "amendment_law_id": "508CO0000000255",
+   "amendment_law_title": "電波法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20260731_508CO0000000234",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000234",
+   "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20251001_507CO0000000322",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000322",
+   "amendment_law_title": "電波法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20230420_505CO0000000058",
+   "amendment_promulgate_date": "2023-03-17",
+   "amendment_enforcement_date": "2023-04-20",
+   "amendment_law_id": "505CO0000000058",
+   "amendment_law_title": "電波法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20230401_505CO0000000045",
+   "amendment_promulgate_date": "2023-03-03",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000045",
+   "amendment_law_title": "情報通信技術を利用する方法による国の歳入等の納付に関する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和五年政令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20191120_501CO0000000161",
+   "amendment_promulgate_date": "2019-11-15",
+   "amendment_enforcement_date": "2019-11-20",
+   "amendment_law_id": "501CO0000000161",
+   "amendment_law_title": "電波法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20190130_431CO0000000019",
+   "amendment_promulgate_date": "2019-01-30",
+   "amendment_enforcement_date": "2019-01-30",
+   "amendment_law_id": "431CO0000000019",
+   "amendment_law_title": "電波法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20180801_430CO0000000219",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430CO0000000219",
+   "amendment_law_title": "電波法及び電気通信事業法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20180511_430CO0000000163",
+   "amendment_promulgate_date": "2018-05-07",
+   "amendment_enforcement_date": "2018-05-11",
+   "amendment_law_id": "430CO0000000163",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行令",
+   "amendment_law_num": "平成三十年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20180202_430CO0000000028",
+   "amendment_promulgate_date": "2018-02-02",
+   "amendment_enforcement_date": "2018-02-02",
+   "amendment_law_id": "430CO0000000028",
+   "amendment_law_title": "電波法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000245_20170401_429CO0000000022",
+   "amendment_promulgate_date": "2017-02-17",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000022",
+   "amendment_law_title": "教育公務員特例法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（検査等事業者に係る登録の有効期間）",
+  "title": "第一条",
+  "paragraphs": [
+   "電波法（以下「法」という。）第二十四条の三第一項の政令で定める期間は、五年とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-07-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-03T00:22:33+09:00"
+ }
+}

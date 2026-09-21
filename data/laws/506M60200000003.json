@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "506M60200000003",
+  "law_num": "令和六年公正取引委員会規則第三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "Rule",
+  "law_num_num": "003",
+  "promulgation_date": "2024-05-31"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60200000003_20260521_508M60200000002",
+  "law_type": "Rule",
+  "law_title": "公正取引委員会関係特定受託事業者に係る取引の適正化等に関する法律施行規則",
+  "law_title_kana": "こうせいとりひきいいんかいかんけいとくていじゅたくじぎょうしゃにかかるとりひきのてきせいかとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-05-27T11:17:48+09:00",
+  "amendment_promulgate_date": "2026-05-01",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60200000002",
+  "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年公正取引委員会規則第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60200000003_20260521_508M60200000002",
+   "amendment_promulgate_date": "2026-05-01",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60200000002",
+   "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年公正取引委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60200000003_20260101_507M60200000011",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60200000011",
+   "amendment_law_title": "公正取引委員会関係特定受託事業者に係る取引の適正化等に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和七年公正取引委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506M60200000003_20241101_000000000000000",
+   "amendment_promulgate_date": "2024-05-31",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第三条第一項の明示）",
+  "title": "第一条",
+  "paragraphs": [
+   "業務委託事業者は、特定受託事業者に係る取引の適正化等に関する法律（以下「法」という。）第三条第一項に規定する明示（以下単に「明示」という。）をするときは、次に掲げる事項を記載した書面の交付又は当該事項の電磁的方法による提供により、示さなければならない。",
+   "特定業務委託事業者は、法第四条第三項の再委託をする場合には、前項各号に掲げる事項のほか、第四条各号に掲げる事項の明示をすることができる。",
+   "第一項第七号の報酬の額について、具体的な金額の明示をすることが困難なやむを得ない事情がある場合には、報酬の具体的な金額を定めることとなる算定方法の明示をすることをもって足りる。",
+   "第一項から前項までに掲げる事項が一定期間における業務委託について共通であるものとして、あらかじめ、書面の交付又は次条に規定する電磁的方法による提供により示されたときは、当該事項については、その期間内における業務委託に係る明示は、あらかじめ示されたところによる旨を明らかにすることをもって足りる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-05-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T11:17:48+09:00"
+ }
+}

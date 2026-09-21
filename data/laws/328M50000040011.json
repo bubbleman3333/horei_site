@@ -1,0 +1,148 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "328M50000040011",
+  "law_num": "昭和二十八年大蔵省令第十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "011",
+  "promulgation_date": "1953-03-06"
+ },
+ "revision_info": {
+  "law_revision_id": "328M50000040011_20260901_506M60000040032",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "酒税の保全及び酒類業組合等に関する法律施行規則",
+  "law_title_kana": "しゅぜいのほぜんおよびしゅるいぎょうくみあいとうにかんするほうりつしこうきそく",
+  "abbrev": "酒団法施行規則,酒類業組合法施行規則",
+  "category": "国税",
+  "updated": "2026-09-01T00:06:52+09:00",
+  "amendment_promulgate_date": "2024-03-30",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000040032",
+  "amendment_law_title": "酒税の保全及び酒類業組合等に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和六年財務省令第三十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328M50000040011_20260901_506M60000040032",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "506M60000040032",
+   "amendment_law_title": "酒税の保全及び酒類業組合等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20220401_501M60000040033",
+   "amendment_promulgate_date": "2019-11-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "501M60000040033",
+   "amendment_law_title": "酒税の保全及び酒類業組合等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20210401_503M60000040034",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000040034",
+   "amendment_law_title": "酒税の保全及び酒類業組合等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20210301_503M60000040003",
+   "amendment_promulgate_date": "2021-02-01",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503M60000040003",
+   "amendment_law_title": "酒税の保全及び酒類業組合等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20200401_502M60000040028",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000040028",
+   "amendment_law_title": "酒税の保全及び酒類業組合等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20191214_501M60000040033",
+   "amendment_promulgate_date": "2019-11-29",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60000040033",
+   "amendment_law_title": "酒税の保全及び酒類業組合等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20190507_501M60000040001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000040001",
+   "amendment_law_title": "元号を改める政令の施行に伴う財務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20180401_430M60000040019",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000040019",
+   "amendment_law_title": "酒税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20170601_429M60000040032",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429M60000040032",
+   "amendment_law_num": "平成二十九年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000040011_20170401_429M60000040022",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000040022",
+   "amendment_law_num": "平成二十九年財務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において「酒類」とは、酒税法（昭和二十八年法律第六号）第二条第一項に規定する酒類をいい、その品目については、同法の規定によるものとする。",
+   "この省令において「酒類製造業者」、「酒類販売業者」又は「酒類卸売業者」とは、酒税の保全及び酒類業組合等に関する法律（昭和二十八年法律第七号。以下「法」という。）第二条第二項から第四項までに規定する酒類製造業者、酒類販売業者又は酒類卸売業者をいう。",
+   "この省令において「酒類小売業者」とは、法第八十六条の九第一項に規定する酒類小売業者をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-03-06",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-09-01T00:06:52+09:00"
+ }
+}

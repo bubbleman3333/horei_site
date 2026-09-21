@@ -1,0 +1,239 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "326M50000040055",
+  "law_num": "昭和二十六年大蔵省令第五十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "055",
+  "promulgation_date": "1951-06-15"
+ },
+ "revision_info": {
+  "law_revision_id": "326M50000040055_20260901_506M60000040025",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "税理士法施行規則",
+  "law_title_kana": "ぜいりしほうしこうきそく",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-09-01T00:04:30+09:00",
+  "amendment_promulgate_date": "2024-03-30",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000040025",
+  "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和六年財務省令第二十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326M50000040055_20260901_506M60000040025",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "506M60000040025",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20260807_508M60000040054",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000040054",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20260401_508M60000040022",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040022",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20240527_506M60000040025",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000040025",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20240401_505M60000040020",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000040020",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20240401_504M60000040024",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504M60000040024",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20230401_504M60000040024",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000040024",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20221101_504M60000040024",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000040024",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20220401_504M60000040024",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040024",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20210401_503M60000040022",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000040022",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20191216_501M60000040036",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040036",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20191214_501M60000040032",
+   "amendment_promulgate_date": "2019-11-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040032",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20190701_431M60000040015",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040015",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20190507_501M60000040001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040001",
+   "amendment_law_title": "元号を改める政令の施行に伴う財務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20190401_431M60000040015",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040015",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20180717_430M60000040055",
+   "amendment_promulgate_date": "2018-07-17",
+   "amendment_enforcement_date": "2018-07-17",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040055",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20180401_430M60000040028",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040028",
+   "amendment_law_title": "税理士法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000040055_20170401_426M60000040029",
+   "amendment_promulgate_date": "2014-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "426M60000040029",
+   "amendment_law_num": "平成二十六年財務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第一章の二　税理士試験",
+  "第二章　登録",
+  "第三章　雑則"
+ ],
+ "article1": {
+  "caption": "（申告書等）",
+  "title": "第一条",
+  "paragraphs": [
+   "税理士法（昭和二十六年法律第二百三十七号。以下「法」という。）第二条第一項第二号に規定する財務省令で定める書類（その作成に代えて電磁的記録（電子的方式、磁気的方式その他人の知覚によつては認識することができない方式で作られる記録であつて、電子計算機による情報処理の用に供されるものをいう。第二十二条の五を除き、以下同じ。）を作成する場合における当該電磁的記録を含む。以下同じ。）は、届出書、報告書、申出書、申立書、計算書、明細書その他これらに準ずる書類とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-06-15",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-09-01T00:04:30+09:00"
+ }
+}

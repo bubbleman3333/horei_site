@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "414AC1000000070",
+  "law_num": "平成十四年法律第七十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "Act",
+  "law_num_num": "070",
+  "promulgation_date": "2002-06-14"
+ },
+ "revision_info": {
+  "law_revision_id": "414AC1000000070_20260701_508AC0000000020",
+  "law_type": "Act",
+  "law_title": "牛海綿状脳症対策特別措置法",
+  "law_title_kana": "うしかいめんじょうのうしょうたいさくとくべつそちほう",
+  "abbrev": "狂牛病対策特別措置法,ＢＳＥ対策特別措置法",
+  "category": "農業",
+  "updated": "2026-07-01T00:49:14+09:00",
+  "amendment_promulgate_date": "2026-05-19",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000020",
+  "amendment_law_title": "家畜伝染病予防法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414AC1000000070_20260701_508AC0000000020",
+   "amendment_promulgate_date": "2026-05-19",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000020",
+   "amendment_law_title": "家畜伝染病予防法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414AC1000000070_20040401_415AC0000000119",
+   "amendment_promulgate_date": "2003-07-16",
+   "amendment_enforcement_date": "2004-04-01",
+   "amendment_law_id": "415AC0000000119",
+   "amendment_law_num": "平成十五年法律第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、牛海綿状脳症の発生を予防し、及びまん延を防止するための特別の措置を定めること等により、安全な牛肉を安定的に供給する体制を確立し、もって国民の健康の保護並びに肉用牛生産及び酪農、牛肉に係る製造、加工、流通及び販売の事業、飲食店営業等の健全な発展を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-06-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:49:14+09:00"
+ }
+}

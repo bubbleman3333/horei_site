@@ -1,0 +1,90 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "423CO0000000420",
+  "law_num": "平成二十三年政令第四百二十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "420",
+  "promulgation_date": "2011-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "423CO0000000420_20260614_507CO0000000423",
+  "law_type": "CabinetOrder",
+  "law_title": "日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行令",
+  "law_title_kana": "にほんこくとのへいわじょうやくにもとづきにほんのこくせきをりだつしたものとうのしゅつにゅうこくかんりにかんするとくれいほうせこうれい",
+  "abbrev": "入管特例法施行令,出入国管理特例法施行令",
+  "category": "外事",
+  "updated": "2026-06-14T00:27:00+09:00",
+  "amendment_promulgate_date": "2025-12-17",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000423",
+  "amendment_law_title": "出入国管理及び難民認定法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第四百二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423CO0000000420_20261001_508CO0000000268",
+   "amendment_promulgate_date": "2026-08-28",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000268",
+   "amendment_law_title": "出入国管理及び難民認定法施行令及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000420_20260614_507CO0000000423",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "507CO0000000423",
+   "amendment_law_title": "出入国管理及び難民認定法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第四百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000420_20190401_431CO0000000038",
+   "amendment_promulgate_date": "2019-03-15",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000038",
+   "amendment_law_title": "出入国管理及び難民認定法及び法務省設置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十一年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000420_20160401_427CO0000000030",
+   "amendment_promulgate_date": "2015-01-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000030",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特別永住者証明書の交付に係る市町村の事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "市町村（特別区を含むものとし、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市にあっては、区又は総合区。以下同じ。）の長は、日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（以下「法」という。）第七条第二項の規定により特別永住者証明書を交付する場合には、当該特別永住者証明書にその交付年月日を電磁的方式により記録するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-12-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-14T00:27:00+09:00"
+ }
+}

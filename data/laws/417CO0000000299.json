@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "417CO0000000299",
+  "law_num": "平成十七年政令第二百九十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "299",
+  "promulgation_date": "2005-09-16"
+ },
+ "revision_info": {
+  "law_revision_id": "417CO0000000299_20051001_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "日本学術会議法施行令",
+  "law_title_kana": "にほんがくじゅつかいぎほうしこうれい",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2023-11-13T10:00:25+09:00",
+  "amendment_promulgate_date": "2005-09-16",
+  "amendment_enforcement_date": "2005-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417CO0000000299_20261001_507CO0000000299",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507CO0000000299",
+   "amendment_law_title": "日本学術会議法施行令",
+   "amendment_law_num": "令和七年政令第二百九十九号",
+   "amendment_type": "8",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000299_20051001_000000000000000",
+   "amendment_promulgate_date": "2005-09-16",
+   "amendment_enforcement_date": "2005-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（連携会員の任期等）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本学術会議連携会員（以下「連携会員」という。）の任期は、六年とする。ただし、一定の期間内に限ってその職務を行わせることが必要である場合には、六年未満の任期を定めて任命することを妨げない。",
+   "連携会員は、再任されることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-09-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2023-11-13T10:00:25+09:00"
+ }
+}

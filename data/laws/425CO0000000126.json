@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "425CO0000000126",
+  "law_num": "平成二十五年政令第百二十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "126",
+  "promulgation_date": "2013-04-26"
+ },
+ "revision_info": {
+  "law_revision_id": "425CO0000000126_20260214_507CO0000000417",
+  "law_type": "CabinetOrder",
+  "law_title": "船員法に基づく登録生存講習機関等に関する政令",
+  "law_title_kana": "せんいんほうにもとづくとうろくせいぞんこうしゅうきかんとうにかんするせいれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-02-14T01:00:26+09:00",
+  "amendment_promulgate_date": "2025-12-17",
+  "amendment_enforcement_date": "2026-02-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000417",
+  "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第四百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425CO0000000126_20260214_507CO0000000417",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "507CO0000000417",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第四百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425CO0000000126_20250401_506CO0000000306",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000306",
+   "amendment_law_title": "国家公務員等の旅費に関する法律施行令",
+   "amendment_law_num": "令和六年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425CO0000000126_20140805_000000000000000",
+   "amendment_promulgate_date": "2013-04-26",
+   "amendment_enforcement_date": "2014-08-05",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（登録生存講習機関等の登録の有効期間）",
+  "title": "第一条",
+  "paragraphs": [
+   "船員法（以下「法」という。）第八十三条の五第一項（法第八十三条の十九において準用する場合を含む。）及び第百条の十三第一項の政令で定める期間は、三年とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-04-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-02-14T01:00:26+09:00"
+ }
+}

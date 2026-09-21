@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "350CO0000000277",
+  "law_num": "昭和五十年政令第二百七十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 50,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "277",
+  "promulgation_date": "1975-09-26"
+ },
+ "revision_info": {
+  "law_revision_id": "350CO0000000277_20260101_507CO0000000293",
+  "law_type": "CabinetOrder",
+  "law_title": "政治資金規正法施行令",
+  "law_title_kana": "せいじしきんきせいほうしこうれい",
+  "abbrev": "政治資金法施行令",
+  "category": "国会",
+  "updated": "2026-01-01T03:41:07+09:00",
+  "amendment_promulgate_date": "2025-08-14",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000293",
+  "amendment_law_title": "政治資金規正法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第二百九十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "350CO0000000277_20270101_507CO0000000293",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "507CO0000000293",
+   "amendment_law_title": "政治資金規正法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000277_20260101_507CO0000000293",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000293",
+   "amendment_law_title": "政治資金規正法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000277_20251001_507CO0000000293",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000293",
+   "amendment_law_title": "政治資金規正法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000277_20240401_505CO0000000353",
+   "amendment_promulgate_date": "2023-12-15",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000353",
+   "amendment_law_title": "政治資金規正法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000277_20230401_504CO0000000128",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000128",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律及び国会職員法及び国家公務員退職手当法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000277_20210215_503CO0000000029",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503CO0000000029",
+   "amendment_law_title": "押印を求める手続の見直し等のための総務省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000277_20190701_501CO0000000044",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000044",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000277_20160401_427CO0000000030",
+   "amendment_promulgate_date": "2015-01-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000030",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　政治団体の届出等",
+  "第三章　公職の候補者に係る資金管理団体の届出等",
+  "第四章　国会議員関係政治団体に関する特例等",
+  "第五章　報告書の公開",
+  "第六章　寄附等に関する制限"
+ ],
+ "article1": {
+  "caption": "（衆議院議員又は参議院議員の数の算定等）",
+  "title": "第一条",
+  "paragraphs": [
+   "衆議院の解散若しくは衆議院議員の任期満了により衆議院議員が在任しない場合又は参議院議員の任期満了により参議院議員の一部が在任しない場合における政治資金規正法（以下「法」という。）第三条第二項第一号に規定する衆議院議員又は参議院議員の数の算定については、その衆議院の解散若しくは衆議院議員の任期満了により衆議院議員でなくなつた者（その衆議院の解散がなく、又はその衆議院議員の任期がなお引き続いているものとしたならば、引き続き衆議院議員として在任することができる者に限る。）又はその参議院議員の任期満了により参議院議員でなくなつた者（その参議院議員の任期がなお引き続いているものとしたならば、引き続き参議院議員として在任することができる者に限る。）は、同号に規定する衆議院議員又は参議院議員に含まれるものとして算定するものとする。",
+   "衆議院議員の総選挙における小選挙区選出議員の選挙又は参議院議員の通常選挙における選挙区選出議員の選挙における法第三条第二項第二号に規定する政治団体の得票総数は、当該選挙の期日における届出候補者（公職選挙法（昭和二十五年法律第百号）第八十六条第一項又は第八項の規定による当該政治団体の届出に係る候補者をいう。）又は所属候補者（公職選挙法第八十六条第七項（同条第八項の規定によりその例によることとされる場合を含む。）又は同法第八十六条の四第三項（同条第五項の規定によりその例によることとされる場合を含む。）の規定により当該政治団体に所属する者として記載された候補者をいう。）の得票数を合算した数とする。",
+   "参議院議員の通常選挙における比例代表選出議員の選挙における法第三条第二項第二号に規定する政治団体の得票総数は、公職選挙法第八十六条の三第一項の規定による届出をした当該政治団体の得票総数（当該政治団体に係る各参議院名簿登載者（同項に規定する参議院名簿登載者をいい、当該選挙の期日において候補者たる者に限る。）の得票総数を含むものをいう。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1975-09-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T03:41:07+09:00"
+ }
+}

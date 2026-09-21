@@ -1,0 +1,234 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "414AC0000000022",
+  "law_num": "平成十四年法律第二十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "Act",
+  "law_num_num": "022",
+  "promulgation_date": "2002-04-05"
+ },
+ "revision_info": {
+  "law_revision_id": "414AC0000000022_20260527_508AC0000000023",
+  "law_type": "Act",
+  "law_title": "都市再生特別措置法",
+  "law_title_kana": "としさいせいとくべつそちほう",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2026-05-27T10:27:12+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000023",
+  "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414AC0000000022_20270526_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2027-05-26",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20261126_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-11-26",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20260527_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20241108_506AC0000000040",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-11-08",
+   "amendment_law_id": "506AC0000000040",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20240529_506AC0000000040",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-05-29",
+   "amendment_law_id": "506AC0000000040",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20240401_505AC0000000058",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000058",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20230526_504AC0000000055",
+   "amendment_promulgate_date": "2022-05-27",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "504AC0000000055",
+   "amendment_law_title": "宅地造成等規制法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20220401_502AC0000000043",
+   "amendment_promulgate_date": "2020-06-10",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000043",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20210715_503AC0000000031",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_law_id": "503AC0000000031",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20200907_502AC0000000043",
+   "amendment_promulgate_date": "2020-06-10",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502AC0000000043",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20190625_430AC0000000067",
+   "amendment_promulgate_date": "2018-06-27",
+   "amendment_enforcement_date": "2019-06-25",
+   "amendment_law_id": "430AC0000000067",
+   "amendment_law_title": "建築基準法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20180715_430AC0000000022",
+   "amendment_promulgate_date": "2018-04-25",
+   "amendment_enforcement_date": "2018-07-15",
+   "amendment_law_id": "430AC0000000022",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20180601_430AC0000000038",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430AC0000000038",
+   "amendment_law_title": "地域再生法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20170615_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20170512_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2017-05-12",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000022_20160901_428AC0000000072",
+   "amendment_promulgate_date": "2016-06-07",
+   "amendment_enforcement_date": "2016-09-01",
+   "amendment_law_id": "428AC0000000072",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　都市再生本部",
+  "第三章　都市再生基本方針",
+  "第四章　都市再生緊急整備地域における特別の措置",
+  "第五章　都市再生整備計画に係る特別の措置",
+  "第六章　立地適正化計画に係る特別の措置",
+  "第七章　市町村都市再生協議会",
+  "第八章　都市再生推進法人",
+  "第九章　雑則",
+  "第十章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、近年における急速な情報化、国際化、少子高齢化等の社会経済情勢の変化に我が国の都市が十分対応できたものとなっていないことに鑑み、これらの情勢の変化に対応した都市機能の高度化及び都市の居住環境の向上（以下「都市の再生」という。）を図り、併せて都市の防災に関する機能を確保するため、都市の再生の推進に関する基本方針等について定めるとともに、都市再生緊急整備地域における市街地の整備を推進するための民間都市再生事業計画の認定及び都市計画の特例、都市再生整備計画に基づく事業等に充てるための交付金の交付並びに立地適正化計画に基づく住宅及び都市機能増進施設の立地の適正化を図るための都市計画の特例等の特別の措置を講じ、もって社会経済構造の転換を円滑化し、国民経済の健全な発展及び国民生活の向上に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-04-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T10:27:12+09:00"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "363M50004000002",
+  "law_num": "昭和六十三年建設省令第二号",
+  "law_num_era": "Showa",
+  "law_num_year": 63,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "1988-02-23"
+ },
+ "revision_info": {
+  "law_revision_id": "363M50004000002_20260527_508M60000800058",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "集落地域整備法施行規則",
+  "law_title_kana": "しゅうらくちいきせいびほうしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-06-05T16:34:17+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800058",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第五十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "363M50004000002_20260527_508M60000800058",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508M60000800058",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "363M50004000002_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363M50004000002_20170401_429M60000800019",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000800019",
+   "amendment_law_num": "平成二十九年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（集落地域整備法施行令第八条第四号の国土交通省令で定める行為）",
+  "title": "第一条",
+  "paragraphs": [
+   "集落地域整備法施行令第八条第四号の国土交通省令で定める行為は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1988-02-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-05T16:34:17+09:00"
+ }
+}

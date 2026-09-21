@@ -1,0 +1,85 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "506AC0000000061",
+  "law_num": "令和六年法律第六十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "061",
+  "promulgation_date": "2024-06-21"
+ },
+ "revision_info": {
+  "law_revision_id": "506AC0000000061_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "食料供給困難事態対策法",
+  "law_title_kana": "しょくりょうきょうきゅうこんなんじたいたいさくほう",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-07-24T11:50:28+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506AC0000000061_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000061_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000061_20250401_000000000000000",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　食料供給困難事態対策の実施に関する基本的な方針",
+  "第三章　特定食料等の需給状況に関する報告の徴収",
+  "第四章　食料供給困難事態対策本部",
+  "第五章　食料供給困難事態対策",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、世界における人口の増加、気候の変動、植物に有害な動植物及び家畜の伝染性疾病の発生及びまん延等により、世界の食料の需給及び貿易が不安定な状況となっていることに鑑み、食料供給困難事態に対応するため、食料供給困難事態対策の実施に関する基本的な方針の策定、食料供給困難事態対策本部の設置、特定食料の安定供給の確保のための措置等について定めることにより、食料安全保障の確保に寄与し、もって国民生活の安定と国民経済の円滑な運営の確保に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-06-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-24T11:50:28+09:00"
+ }
+}

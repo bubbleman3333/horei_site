@@ -1,0 +1,180 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "417CO0000000342",
+  "law_num": "平成十七年政令第三百四十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "342",
+  "promulgation_date": "2005-11-16"
+ },
+ "revision_info": {
+  "law_revision_id": "417CO0000000342_20251001_507CO0000000326",
+  "law_type": "CabinetOrder",
+  "law_title": "郵政民営化法施行令",
+  "law_title_kana": "ゆうせいみんえいかほうしこうれい",
+  "abbrev": null,
+  "category": "郵務",
+  "updated": "2025-10-03T09:20:04+09:00",
+  "amendment_promulgate_date": "2025-09-18",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000326",
+  "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百二十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417CO0000000342_20251001_507CO0000000326",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000326",
+   "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20240401_506CO0000000076",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000076",
+   "amendment_law_title": "郵政民営化法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20240401_506CO0000000026",
+   "amendment_promulgate_date": "2024-02-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000026",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令　抄",
+   "amendment_law_num": "令和六年政令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20240329_506CO0000000076",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-03-29",
+   "amendment_law_id": "506CO0000000076",
+   "amendment_law_title": "郵政民営化法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20220401_504CO0000000167",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000167",
+   "amendment_law_title": "沖縄振興特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20220401_503CO0000000226",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000226",
+   "amendment_law_title": "沿岸漁業改善資金助成法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20211029_503CO0000000300",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-10-29",
+   "amendment_law_id": "503CO0000000300",
+   "amendment_law_title": "郵政民営化法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20190401_431CO0000000035",
+   "amendment_promulgate_date": "2019-03-13",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000035",
+   "amendment_law_title": "郵政民営化法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20181022_430CO0000000293",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-10-22",
+   "amendment_law_id": "430CO0000000293",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20180401_429CO0000000264",
+   "amendment_promulgate_date": "2017-10-25",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000264",
+   "amendment_law_title": "農業災害補償法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20171025_429CO0000000264",
+   "amendment_promulgate_date": "2017-10-25",
+   "amendment_enforcement_date": "2017-10-25",
+   "amendment_law_id": "429CO0000000264",
+   "amendment_law_title": "農業災害補償法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20170401_429CO0000000004",
+   "amendment_promulgate_date": "2017-01-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000004",
+   "amendment_law_title": "貿易保険法及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000342_20170401_428CO0000000396",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000396",
+   "amendment_law_title": "森林法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第三十六条第九項に規定する政令で定める日）",
+  "title": "第一条",
+  "paragraphs": [
+   "郵政民営化法（以下「法」という。）第三十六条第九項に規定する政令で定める日は、平成十八年一月二十三日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-11-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-03T09:20:04+09:00"
+ }
+}

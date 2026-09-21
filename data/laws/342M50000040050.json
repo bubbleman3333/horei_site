@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "342M50000040050",
+  "law_num": "昭和四十二年大蔵省令第五十号",
+  "law_num_era": "Showa",
+  "law_num_year": 42,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "050",
+  "promulgation_date": "1967-08-01"
+ },
+ "revision_info": {
+  "law_revision_id": "342M50000040050_20260401_508M60000040031",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "通関業法施行規則",
+  "law_title_kana": "つうかんぎょうほうせこうきそく",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-05-13T12:26:42+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040031",
+  "amendment_law_title": "通関業法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第三十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "342M50000040050_20260401_508M60000040031",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040031",
+   "amendment_law_title": "通関業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "342M50000040050_20190914_501M60000040022",
+   "amendment_promulgate_date": "2019-09-06",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040022",
+   "amendment_law_title": "通関業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342M50000040050_20171008_428M60000040055",
+   "amendment_promulgate_date": "2016-06-17",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428M60000040055",
+   "amendment_law_title": "関税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十八年財務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342M50000040050_20160401_428M60000040031",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000040031",
+   "amendment_law_num": "平成二十八年財務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（通関業許可申請書の添付書面）",
+  "title": "第一条",
+  "paragraphs": [
+   "通関業法（昭和四十二年法律第百二十二号。以下「法」という。）第四条第二項に規定する財務省令で定める書面は、次に掲げる書面とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1967-08-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T12:26:42+09:00"
+ }
+}

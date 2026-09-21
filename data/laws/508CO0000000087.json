@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000087",
+  "law_num": "令和八年政令第八十七号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "087",
+  "promulgation_date": "2026-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000087_20260401_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "公立義務教育諸学校の学級編制及び教職員定数の標準に関する法律の一部を改正する法律の施行に伴う経過措置に関する政令",
+  "law_title_kana": "こうりつぎむきょういくしょがっこうのがっきゅうへんせいおよびきょうしょくいんていすうのひょうじゅんにかんするほうりつのいちぶをかいせいするほうりつのしこうにともなうけいかそちにかんするせいれい",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-21T10:55:36+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000087_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（学級編制の標準に関する経過措置として毎年度政令で定める学年）",
+  "title": "第一条",
+  "paragraphs": [
+   "令和八年四月一日から令和九年三月三十一日までの間における公立義務教育諸学校の学級編制及び教職員定数の標準に関する法律の一部を改正する法律（以下「改正法」という。）附則第二条第一項の規定により読み替えて適用する公立義務教育諸学校の学級編制及び教職員定数の標準に関する法律第三条第二項の政令で定める学年は、中学校（中等教育学校の前期課程を含む。）の第二学年及び第三学年並びに義務教育学校の第八学年及び第九学年とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:55:36+09:00"
+ }
+}

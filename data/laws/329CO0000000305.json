@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "329CO0000000305",
+  "law_num": "昭和二十九年政令第三百五号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "305",
+  "promulgation_date": "1954-12-06"
+ },
+ "revision_info": {
+  "law_revision_id": "329CO0000000305_20251001_507CO0000000263",
+  "law_type": "CabinetOrder",
+  "law_title": "建設機械登記令",
+  "law_title_kana": "けんせつきかいとうきれい",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2025-10-01T03:13:27+09:00",
+  "amendment_promulgate_date": "2025-07-18",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000263",
+  "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和七年政令第二百六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329CO0000000305_20251001_507CO0000000263",
+   "amendment_promulgate_date": "2025-07-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000263",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000305_20240401_505CO0000000297",
+   "amendment_promulgate_date": "2023-10-04",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000297",
+   "amendment_law_title": "不動産登記令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000305_20230401_504CO0000000315",
+   "amendment_promulgate_date": "2022-09-29",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000315",
+   "amendment_law_title": "不動産登記令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000305_20160401_427CO0000000392",
+   "amendment_promulgate_date": "2015-11-26",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000392",
+   "amendment_law_title": "行政不服審査法及び行政不服審査法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第三百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000305_20160401_427CO0000000030",
+   "amendment_promulgate_date": "2015-01-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000030",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（管轄）",
+  "title": "第一条",
+  "paragraphs": [
+   "建設機械抵当法（以下「法」という。）による建設機械の登記については、建設機械抵当法施行令（昭和二十九年政令第二百九十四号。以下「令」という。）第八条第一項の規定により打刻された記号によつて表示される都道府県の区域内に置かれている法務局又は地方法務局（北海道にあつては、札幌法務局）が、管轄登記所としてその事務をつかさどる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-12-06",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-10-01T03:13:27+09:00"
+ }
+}

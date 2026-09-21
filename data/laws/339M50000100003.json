@@ -1,0 +1,158 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "339M50000100003",
+  "law_num": "昭和三十九年厚生省令第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 39,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "1964-02-03"
+ },
+ "revision_info": {
+  "law_revision_id": "339M50000100003_20260501_507M60000100117",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "薬局並びに店舗販売業及び配置販売業の業務を行う体制を定める省令",
+  "law_title_kana": "やっきょくならびにてんぽはんばいぎょうおよびはいちはんばいぎょうのぎょうむをおこなうたいせいをさだめるしょうれい",
+  "abbrev": "体制省令",
+  "category": "厚生",
+  "updated": "2026-05-01T00:58:57+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100117",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "339M50000100003_20270520_508M60000100110",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2027-05-20",
+   "amendment_law_id": "508M60000100110",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20260501_507M60000100117",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507M60000100117",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20251120_507M60000100103",
+   "amendment_promulgate_date": "2025-10-22",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507M60000100103",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20220328_504M60000100043",
+   "amendment_promulgate_date": "2022-03-28",
+   "amendment_enforcement_date": "2022-03-28",
+   "amendment_law_id": "504M60000100043",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20210801_503M60000100116",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100116",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則及び薬局並びに店舗販売業及び配置販売業の業務を行う体制を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20210801_503M60000100015",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100015",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20200901_502M60000100155",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100155",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20200901_502M60000100052",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100052",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20180131_429M60000100108",
+   "amendment_promulgate_date": "2017-10-05",
+   "amendment_enforcement_date": "2018-01-31",
+   "amendment_law_id": "429M60000100108",
+   "amendment_law_title": "薬局並びに店舗販売業及び配置販売業の業務を行う体制を定める省令の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20170926_429M60000100098",
+   "amendment_promulgate_date": "2017-09-26",
+   "amendment_enforcement_date": "2017-09-26",
+   "amendment_law_id": "429M60000100098",
+   "amendment_law_title": "薬局並びに店舗販売業及び配置販売業の業務を行う体制を定める省令の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000100003_20141125_426M60000100087",
+   "amendment_promulgate_date": "2014-07-30",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_law_id": "426M60000100087",
+   "amendment_law_num": "平成二十六年厚生労働省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（薬局の業務を行う体制）",
+  "title": "第一条",
+  "paragraphs": [
+   "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号。以下「法」という。）第五条第二号の規定に基づく厚生労働省令で定める薬局において調剤及び調剤された薬剤又は医薬品の販売又は授与の業務を行う体制の基準は、次に掲げる基準とする。",
+   "前項第十二号から第十四号までに掲げる薬局開設者が講じなければならない措置には、次に掲げる事項を含むものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1964-02-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T00:58:57+09:00"
+ }
+}

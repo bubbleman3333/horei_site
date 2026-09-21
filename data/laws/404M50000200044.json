@@ -1,0 +1,176 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "404M50000200044",
+  "law_num": "平成四年農林水産省令第四十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 4,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "044",
+  "promulgation_date": "1992-08-25"
+ },
+ "revision_info": {
+  "law_revision_id": "404M50000200044_20251120_507M60000200049",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "獣医療法施行規則",
+  "law_title_kana": "じゅういりょうほうしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2025-11-20T00:23:03+09:00",
+  "amendment_promulgate_date": "2025-11-07",
+  "amendment_enforcement_date": "2025-11-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000200049",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う農林水産省関係省令の整理に関する省令",
+  "amendment_law_num": "令和七年農林水産省令第四十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "404M50000200044_20251120_507M60000200049",
+   "amendment_promulgate_date": "2025-11-07",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507M60000200049",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20250401_504M60000200045",
+   "amendment_promulgate_date": "2022-08-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "504M60000200045",
+   "amendment_law_title": "獣医療法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20241212_506M60000200061",
+   "amendment_promulgate_date": "2024-12-02",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "506M60000200061",
+   "amendment_law_title": "獣医療法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20240401_505M60000200052",
+   "amendment_promulgate_date": "2023-10-13",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000200052",
+   "amendment_law_title": "獣医療法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20210401_502M60000200034",
+   "amendment_promulgate_date": "2020-04-22",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000200034",
+   "amendment_law_title": "獣医療法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20200701_502M60000200044",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502M60000200044",
+   "amendment_law_title": "家畜伝染病予防法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20200422_502M60000200034",
+   "amendment_promulgate_date": "2020-04-22",
+   "amendment_enforcement_date": "2020-04-22",
+   "amendment_law_id": "502M60000200034",
+   "amendment_law_title": "獣医療法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20200401_502M60000200028",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000200028",
+   "amendment_law_title": "獣医療法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20190405_431M60000200035",
+   "amendment_promulgate_date": "2019-04-05",
+   "amendment_enforcement_date": "2019-04-05",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000200035",
+   "amendment_law_title": "獣医療法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20180401_430M60000200010",
+   "amendment_promulgate_date": "2018-03-13",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000200010",
+   "amendment_law_title": "農業災害補償法の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "平成三十年農林水産省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404M50000200044_20141125_426M60000200058",
+   "amendment_promulgate_date": "2014-11-18",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_law_id": "426M60000200058",
+   "amendment_law_num": "平成二十六年農林水産省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　診療施設の開設等",
+  "第二章　診療用放射線の防護",
+  "第三章　都道府県計画等",
+  "第四章　広告制限の特例",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（診療施設の開設の届出）",
+  "title": "第一条",
+  "paragraphs": [
+   "獣医療法（以下「法」という。）第三条前段の農林水産省令で定める事項は、次のとおりとする。",
+   "法第三条後段の規定により届け出なければならない事項は、診療施設の休止の場合にあっては休止期間及び休止の理由、診療施設の廃止の場合にあっては廃止の期日及び廃止の理由、届け出た事項の変更の場合にあっては変更に係る事項（前項第十一号に規定する診療用放射性同位元素又は陽電子断層撮影診療用放射性同位元素を備えなくなった場合にあってはその旨及び第十九条の二各号に掲げる措置の概要を含む。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1992-08-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-20T00:23:03+09:00"
+ }
+}

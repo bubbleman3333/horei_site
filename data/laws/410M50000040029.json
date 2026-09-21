@@ -1,0 +1,244 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "410M50000040029",
+  "law_num": "平成十年大蔵省令第二十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "029",
+  "promulgation_date": "1998-03-19"
+ },
+ "revision_info": {
+  "law_revision_id": "410M50000040029_20260401_508M60000040032",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "外国為替の取引等の報告に関する省令",
+  "law_title_kana": "がいこくかわせのとりひきとうのほうこくにかんするしょうれい",
+  "abbrev": "報告省令",
+  "category": "外国為替・貿易",
+  "updated": "2026-06-03T13:21:08+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040032",
+  "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第三十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410M50000040029_20260401_508M60000040032",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040032",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20260401_508M60000040002",
+   "amendment_promulgate_date": "2026-02-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040002",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20250401_507M60000040002",
+   "amendment_promulgate_date": "2025-02-10",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040002",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20241201_506M60000040065",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-01",
+   "amendment_law_id": "506M60000040065",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20230601_505M60000040039",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000040039",
+   "amendment_law_title": "外国為替に関する省令及び外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20220510_504M60000040042",
+   "amendment_promulgate_date": "2022-05-09",
+   "amendment_enforcement_date": "2022-05-10",
+   "amendment_law_id": "504M60000040042",
+   "amendment_law_title": "外国為替に関する省令及び外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20210329_503M60000040009",
+   "amendment_promulgate_date": "2021-03-29",
+   "amendment_enforcement_date": "2021-03-29",
+   "amendment_law_id": "503M60000040009",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20201030_502M60000040068",
+   "amendment_promulgate_date": "2020-10-30",
+   "amendment_enforcement_date": "2020-10-30",
+   "amendment_law_id": "502M60000040068",
+   "amendment_law_title": "外国為替に関する省令及び外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20200501_502M60000040039",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502M60000040039",
+   "amendment_law_title": "外国為替に関する省令及び外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20200430_502M60000040042",
+   "amendment_promulgate_date": "2020-04-30",
+   "amendment_enforcement_date": "2020-04-30",
+   "amendment_law_id": "502M60000040042",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20200312_502M60000040006",
+   "amendment_promulgate_date": "2020-03-12",
+   "amendment_enforcement_date": "2020-03-12",
+   "amendment_law_id": "502M60000040006",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20191216_501M60000040038",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000040038",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う財務省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年財務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20190701_501M60000040009",
+   "amendment_promulgate_date": "2019-06-24",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000040009",
+   "amendment_law_title": "外国政府の不動産に関する権利の取得に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20190424_431M60000040035",
+   "amendment_promulgate_date": "2019-04-17",
+   "amendment_enforcement_date": "2019-04-24",
+   "amendment_law_id": "431M60000040035",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20180701_430M60000040045",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-07-01",
+   "amendment_law_id": "430M60000040045",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20180608_430M60000040045",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-06-08",
+   "amendment_law_id": "430M60000040045",
+   "amendment_law_title": "外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20180601_430M60000040040",
+   "amendment_promulgate_date": "2018-05-18",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430M60000040040",
+   "amendment_law_title": "外国為替に関する省令及び外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20171001_429M60000040053",
+   "amendment_promulgate_date": "2017-08-25",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429M60000040053",
+   "amendment_law_title": "外国為替に関する省令及び外国為替の取引等の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000040029_20150529_427M60000040056",
+   "amendment_promulgate_date": "2015-05-29",
+   "amendment_enforcement_date": "2015-05-29",
+   "amendment_law_id": "427M60000040056",
+   "amendment_law_num": "平成二十七年財務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　支払等の報告等",
+  "第二章　資本取引の報告等",
+  "第三章　外国為替業務に関する事項の報告等",
+  "第四章　対外の貸借及び国際収支に関する資料",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（報告を要しない支払等の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "外国為替令（以下「令」という。）第十八条の四第一項第一号に規定する財務省令で定める小規模の支払等（支払又は支払の受領をいう。以下同じ。）は、三千万円に相当する額以下の支払等とする。",
+   "令第十八条の四第一項第三号に規定する財務省令で定める支払等は、非居住者がした本邦から外国へ向けた支払及び外国から本邦へ向けた支払の受領並びに次の各号に掲げる者がした当該各号に掲げる支払等とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-03-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-03T13:21:08+09:00"
+ }
+}

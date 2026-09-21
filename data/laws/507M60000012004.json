@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000012004",
+  "law_num": "令和七年内閣府・法務省令第四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "004",
+  "promulgation_date": "2025-07-02"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000012004_20260525_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "事業性融資の推進等に関する法律第六十八条第四項の署名又は記名押印に代わる措置に関する規則",
+  "law_title_kana": "じぎょうせいゆうしのすいしんとうにかんするほうりつだいろくじゅうはちじょうだいよんこうのしょめいまたはきめいおういんにかわるそちにかんするきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-25T02:16:50+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000012004_20260525_000000000000000",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "事業性融資の推進等に関する法律（次項及び附則において「法」という。）第六十八条第四項に規定する内閣府令・法務省令で定める署名又は記名押印に代わる措置は、電子署名とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-07-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T02:16:50+09:00"
+ }
+}

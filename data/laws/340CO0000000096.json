@@ -1,0 +1,482 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "340CO0000000096",
+  "law_num": "昭和四十年政令第九十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "096",
+  "promulgation_date": "1965-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "340CO0000000096_20260522_508CO0000000093",
+  "law_type": "CabinetOrder",
+  "law_title": "所得税法施行令",
+  "law_title_kana": "しょとくぜいほうしこうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-09-08T11:57:35+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-05-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000093",
+  "amendment_law_title": "所得税法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第九十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340CO0000000096_20280101_508CO0000000093",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_enforcement_comment": "第三号に掲げる規定の施行の日の属する年の翌年の一月一日",
+   "amendment_scheduled_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508CO0000000093",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20270722_508CO0000000093",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-07-22",
+   "amendment_enforcement_comment": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（令和八年法律第六十四号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-07-22",
+   "amendment_law_id": "508CO0000000093",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20270101_508CO0000000093",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508CO0000000093",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20261201_508CO0000000093",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-12-01",
+   "amendment_law_id": "508CO0000000093",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20260522_508CO0000000093",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "508CO0000000093",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20260401_508CO0000000093",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000093",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20260401_507CO0000000120",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000120",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20260401_506CO0000000141",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000141",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20260101_507CO0000000120",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000120",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20251201_507CO0000000120",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507CO0000000120",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20251120_507CO0000000380",
+   "amendment_promulgate_date": "2025-11-19",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507CO0000000380",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20250401_507CO0000000120",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000120",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20250401_507CO0000000006",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000006",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20250401_506CO0000000209",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000209",
+   "amendment_law_title": "私立学校法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20250101_505CO0000000134",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505CO0000000134",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20241202_506CO0000000141",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506CO0000000141",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20241118_506CO0000000342",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_law_id": "506CO0000000342",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20240401_506CO0000000141",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000141",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20231001_504CO0000000136",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "504CO0000000136",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20231001_430CO0000000131",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "430CO0000000131",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20230601_505CO0000000134",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000134",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20230401_505CO0000000134",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000134",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20230101_504CO0000000136",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504CO0000000136",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20230101_502CO0000000111",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "502CO0000000111",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20221001_504CO0000000136",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000136",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20220501_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20220401_504CO0000000136",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000136",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20220401_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20220401_503CO0000000113",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000113",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20220401_502CO0000000207",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000207",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20220101_503CO0000000113",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000113",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20220101_502CO0000000111",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "502CO0000000111",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20210401_503CO0000000113",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000113",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20210301_503CO0000000039",
+   "amendment_promulgate_date": "2021-02-25",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503CO0000000039",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20210301_502CO0000000111",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "502CO0000000111",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20210101_502CO0000000111",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000111",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20201001_430CO0000000131",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "430CO0000000131",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000096_20200910_502CO0000000273",
+   "amendment_promulgate_date": "2020-09-09",
+   "amendment_enforcement_date": "2020-09-10",
+   "amendment_law_id": "502CO0000000273",
+   "amendment_law_title": "所得税法施行令及び法人税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一編　総則",
+  "第一章　通則",
+  "第一章の二　法人課税信託の受託者等に関する通則",
+  "第二章　課税所得の範囲",
+  "第三章　所得の帰属に関する通則",
+  "第四章　納税地",
+  "第二編　居住者の納税義務",
+  "第一章　課税標準の計算",
+  "第二章　所得控除",
+  "第三章　税額控除",
+  "第四章　税額の計算の特例",
+  "第五章　申告、納付及び還付",
+  "第六章　修正申告の特例",
+  "第七章　更正の請求の特例",
+  "第八章　更正及び決定",
+  "第三編　非居住者及び法人の納税義務",
+  "第一章　国内源泉所得",
+  "第二章　非居住者の納税義務",
+  "第三章　法人の納税義務",
+  "第四編　源泉徴収",
+  "第一章　給与所得に係る源泉徴収",
+  "第一章の二　退職所得に係る源泉徴収",
+  "第二章　公的年金等に係る源泉徴収",
+  "第三章　報酬、料金等に係る源泉徴収",
+  "第四章　非居住者又は法人の所得に係る源泉徴収",
+  "第五章　源泉徴収に係る所得税の徴収",
+  "第五編　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「国内」、「国外」、「居住者」、「非永住者」、「非居住者」、「内国法人」、「外国法人」、「人格のない社団等」、「株主等」、「法人課税信託」、「恒久的施設」、「公社債」、「預貯金」、「合同運用信託」、「貸付信託」、「投資信託」、「証券投資信託」、「オープン型の証券投資信託」、「公社債投資信託」、「公社債等運用投資信託」、「公募公社債等運用投資信託」、「特定目的信託」、「特定受益証券発行信託」、「棚卸資産」、「有価証券」、「固定資産」、「減価償却資産」、「繰延資産」、「各種所得」、「各種所得の金額」、「変動所得」、「臨時所得」、「純損失の金額」、「雑損失の金額」、「災害」、「障害者」、「特別障害者」、「寡婦」、「ひとり親」、「勤労学生」、「同一生計配偶者」、「控除対象配偶者」、「源泉控除対象配偶者」、「扶養親族」、「控除対象扶養親族」、「源泉控除対象親族」、「特別農業所得者」、「予定納税額」、「確定申告書」、「期限後申告書」、「修正申告書」、「青色申告書」、「更正請求書」、「確定申告期限」、「出国」、「更正」、「決定」、「源泉徴収」、「附帯税」、「充当」又は「還付加算金」とは、それぞれ所得税法（以下「法」という。）第二条第一項（定義）に規定する国内、国外、居住者、非永住者、非居住者、内国法人、外国法人、人格のない社団等、株主等、法人課税信託、恒久的施設、公社債、預貯金、合同運用信託、貸付信託、投資信託、証券投資信託、オープン型の証券投資信託、公社債投資信託、公社債等運用投資信託、公募公社債等運用投資信託、特定目的信託、特定受益証券発行信託、棚卸資産、有価証券、固定資…",
+   "この政令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。",
+   "この政令において、「相続人」には、包括受遺者を含むものとし、「被相続人」には、包括遺贈者を含むものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-08T11:57:35+09:00"
+ }
+}

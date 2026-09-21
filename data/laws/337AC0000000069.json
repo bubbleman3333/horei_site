@@ -1,0 +1,143 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "337AC0000000069",
+  "law_num": "昭和三十七年法律第六十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "Act",
+  "law_num_num": "069",
+  "promulgation_date": "1962-04-04"
+ },
+ "revision_info": {
+  "law_revision_id": "337AC0000000069_20260401_507AC0000000047",
+  "law_type": "Act",
+  "law_title": "建物の区分所有等に関する法律",
+  "law_title_kana": "たてもののくぶんしょゆうとうにかんするほうりつ",
+  "abbrev": "区分所有法,マンション法",
+  "category": "民事",
+  "updated": "2026-04-01T04:56:30+09:00",
+  "amendment_promulgate_date": "2025-05-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000047",
+  "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第四十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337AC0000000069_20260401_507AC0000000047",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000047",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000069_20250530_507AC0000000047",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-05-30",
+   "amendment_law_id": "507AC0000000047",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000069_20230401_503AC0000000024",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000024",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000069_20220401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000069_20210901_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000069_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000069_20210428_503AC0000000024",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2021-04-28",
+   "amendment_law_id": "503AC0000000024",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000069_20200401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000069_20130101_423AC0000000053",
+   "amendment_promulgate_date": "2011-05-25",
+   "amendment_enforcement_date": "2013-01-01",
+   "amendment_law_id": "423AC0000000053",
+   "amendment_law_num": "平成二十三年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　建物の区分所有",
+  "第二章　団地",
+  "第三章　建物が滅失した場合における措置",
+  "第四章　所在等不明区分所有者等の除外等に関する裁判手続",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（建物の区分所有）",
+  "title": "第一条",
+  "paragraphs": [
+   "一棟の建物に構造上区分された数個の部分で独立して住居、店舗、事務所又は倉庫その他建物としての用途に供することができるものがあるときは、その各部分は、この法律の定めるところにより、それぞれ所有権の目的とすることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-04-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T04:56:30+09:00"
+ }
+}

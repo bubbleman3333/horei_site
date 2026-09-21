@@ -1,0 +1,148 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "331M50000800043",
+  "law_num": "昭和三十一年運輸省令第四十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 31,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "043",
+  "promulgation_date": "1956-07-20"
+ },
+ "revision_info": {
+  "law_revision_id": "331M50000800043_20250930_507M60000800094",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "動力車操縦者運転免許に関する省令",
+  "law_title_kana": "どうりょくしゃそうじゅうしゃうんてんめんきょにかんするしょうれい",
+  "abbrev": "動免省令",
+  "category": "陸運",
+  "updated": "2025-12-22T11:35:14+09:00",
+  "amendment_promulgate_date": "2025-09-30",
+  "amendment_enforcement_date": "2025-09-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800094",
+  "amendment_law_title": "動力車操縦者運転免許に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第九十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "331M50000800043_20250930_507M60000800094",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-09-30",
+   "amendment_law_id": "507M60000800094",
+   "amendment_law_title": "動力車操縦者運転免許に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "331M50000800043_20240701_506M60000800076",
+   "amendment_promulgate_date": "2024-07-01",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000800076",
+   "amendment_law_title": "動力車操縦者運転免許に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50000800043_20230228_504M60000800007",
+   "amendment_promulgate_date": "2022-02-28",
+   "amendment_enforcement_date": "2023-02-28",
+   "amendment_law_id": "504M60000800007",
+   "amendment_law_title": "写真のサイズ等の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50000800043_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50000800043_20191216_501M60000800047",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800047",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50000800043_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50000800043_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50000800043_20181225_430M60000800089",
+   "amendment_promulgate_date": "2018-12-25",
+   "amendment_enforcement_date": "2018-12-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000800089",
+   "amendment_law_title": "動力車操縦者運転免許に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50000800043_20120401_424M60000800035",
+   "amendment_promulgate_date": "2012-03-30",
+   "amendment_enforcement_date": "2012-04-01",
+   "amendment_law_id": "424M60000800035",
+   "amendment_law_num": "平成二十四年国土交通省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　運転免許",
+  "第三章　動力車操縦者試験",
+  "第四章　運転免許証の再交付等",
+  "第五章　動力車操縦者養成所",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（この省令の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、鉄道、軌道及び無軌条電車における動力車操縦者の運転免許に関する制度を定め、もつて動力車操縦者の資質の向上及び輸送の安全の確保を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1956-07-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-22T11:35:14+09:00"
+ }
+}

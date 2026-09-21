@@ -1,0 +1,128 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "404AC0000000076",
+  "law_num": "平成四年法律第七十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 4,
+  "law_num_type": "Act",
+  "law_num_num": "076",
+  "promulgation_date": "1992-06-05"
+ },
+ "revision_info": {
+  "law_revision_id": "404AC0000000076_20250601_504AC0000000068",
+  "law_type": "Act",
+  "law_title": "地方拠点都市地域の整備及び産業業務施設の再配置の促進に関する法律",
+  "law_title_kana": "ちほうきょてんとしちいきのせいびおよびさんぎょうぎょうむしせつのさいはいちのそくしんにかんするほうりつ",
+  "abbrev": "地方拠点都市法,地方拠点法",
+  "category": "都市計画",
+  "updated": "2025-06-01T17:32:13+09:00",
+  "amendment_promulgate_date": "2022-06-17",
+  "amendment_enforcement_date": "2025-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000068",
+  "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+  "amendment_law_num": "令和四年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "404AC0000000076_20270526_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2027-05-26",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000076_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000076_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000076_20200621_430AC0000000062",
+   "amendment_promulgate_date": "2018-06-22",
+   "amendment_enforcement_date": "2020-06-21",
+   "amendment_law_id": "430AC0000000062",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000076_20181022_430AC0000000062",
+   "amendment_promulgate_date": "2018-06-22",
+   "amendment_enforcement_date": "2018-10-22",
+   "amendment_law_id": "430AC0000000062",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000076_20180622_430AC0000000062",
+   "amendment_promulgate_date": "2018-06-22",
+   "amendment_enforcement_date": "2018-06-22",
+   "amendment_law_id": "430AC0000000062",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000076_20141101_426AC0000000042",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2014-11-01",
+   "amendment_law_id": "426AC0000000042",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　地方拠点都市地域の整備の促進",
+  "第三章　都市計画法の特例等",
+  "第四章　産業業務施設の移転の促進等",
+  "第五章　地方住宅供給公社法の特例",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、地域における創意工夫を生かしつつ、広域の見地から、地方拠点都市地域について都市機能の増進及び居住環境の向上を推進するための措置等を講ずることによるその一体的な整備の促進を図るとともに、過度に産業業務施設が集積している地域から地方拠点都市地域への産業業務施設の移転を促進するための措置等を講ずることによる産業業務施設の再配置の促進を図り、もって地方の自立的成長の促進及び国土の均衡ある発展に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1992-06-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-06-01T17:32:13+09:00"
+ }
+}

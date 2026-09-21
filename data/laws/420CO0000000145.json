@@ -1,0 +1,160 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "420CO0000000145",
+  "law_num": "平成二十年政令第百四十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "145",
+  "promulgation_date": "2008-04-23"
+ },
+ "revision_info": {
+  "law_revision_id": "420CO0000000145_20260701_508CO0000000199",
+  "law_type": "CabinetOrder",
+  "law_title": "更生保護法施行令",
+  "law_title_kana": "こうせいほごほうしこうれい",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-07-03T09:53:18+09:00",
+  "amendment_promulgate_date": "2026-06-19",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000199",
+  "amendment_law_title": "更生保護法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百九十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420CO0000000145_20260701_508CO0000000199",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000199",
+   "amendment_law_title": "更生保護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20250701_507CO0000000220",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000220",
+   "amendment_law_title": "更生保護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20250401_507CO0000000091",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000091",
+   "amendment_law_title": "更生保護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20240701_506CO0000000211",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000211",
+   "amendment_law_title": "更生保護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20231201_505CO0000000258",
+   "amendment_promulgate_date": "2023-08-04",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505CO0000000258",
+   "amendment_law_title": "刑法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20230701_505CO0000000204",
+   "amendment_promulgate_date": "2023-06-09",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505CO0000000204",
+   "amendment_law_title": "更生保護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20220401_503CO0000000341",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000341",
+   "amendment_law_title": "国際受刑者移送法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20190801_501CO0000000060",
+   "amendment_promulgate_date": "2019-07-19",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_law_id": "501CO0000000060",
+   "amendment_law_title": "更生保護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000145_20160601_428CO0000000199",
+   "amendment_promulgate_date": "2016-04-15",
+   "amendment_enforcement_date": "2016-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000199",
+   "amendment_law_title": "刑法等の一部を改正する法律及び薬物使用等の罪を犯した者に対する刑の一部の執行猶予に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（旅費）",
+  "title": "第一条",
+  "paragraphs": [
+   "更生保護法（以下「法」という。）第十二条第三項（法第二十五条第三項において準用する場合を含む。以下同じ。）の規定により支給する旅費は、鉄道賃、船賃、航空賃及びその他の交通費とする。",
+   "国家公務員等の旅費に関する法律施行令（令和六年政令第三百六号）第五条（第一項第五号に係る部分を除く。）の規定は前項の鉄道賃について、同令第六条（第一項第四号に係る部分を除く。）の規定は前項の船賃について、同令第七条第一項及び第二項本文の規定は前項の航空賃について、同令第八条の規定は同項のその他の交通費について、それぞれ準用する。この場合において、同令第五条第一項、第六条第一項及び第七条第一項中「財務省令」とあるのは「法務省令」と、同令第五条第一項、第六条第一項、第七条第一項及び第八条中「公務の」とあるのは「更生保護法第十二条第一項（同法第二十五条第三項において準用する場合を含む。）の規定による呼出しに応じ、審問を受ける」と、同令第五条第二項及び第六条第二項中「最下級（内閣総理大臣等及び指定職職員等が移動する場合には、最上級）」とあるのは「最下級」と、「職務の級が六級以下の者が移動する」とあるのは「移動する」と、同令第七条第二項中「最下級の運賃の額」とあるのは「最下級の運賃の額（外国旅行の場合であって、著しく長時間にわたる移動として法務省令で定めるものをするときは、最下級の直近上位の級の運賃の額）」と読み替えるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-04-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-03T09:53:18+09:00"
+ }
+}

@@ -1,0 +1,290 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "323CO0000000197",
+  "law_num": "昭和二十三年政令第百九十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "197",
+  "promulgation_date": "1948-07-31"
+ },
+ "revision_info": {
+  "law_revision_id": "323CO0000000197_20260601_508CO0000000185",
+  "law_type": "CabinetOrder",
+  "law_title": "予防接種法施行令",
+  "law_title_kana": "よぼうせっしゅほうしこうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-06-12T09:54:23+09:00",
+  "amendment_promulgate_date": "2026-05-29",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000185",
+  "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323CO0000000197_20260601_508CO0000000185",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000185",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20260401_508CO0000000071",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000071",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20250401_507CO0000000080",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000080",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20240401_506CO0000000116",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000116",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20230920_505CO0000000285",
+   "amendment_promulgate_date": "2023-09-13",
+   "amendment_enforcement_date": "2023-09-20",
+   "amendment_law_id": "505CO0000000285",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20230508_505CO0000000175",
+   "amendment_promulgate_date": "2023-04-26",
+   "amendment_enforcement_date": "2023-05-08",
+   "amendment_law_id": "505CO0000000175",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20230401_505CO0000000110",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000110",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20221209_504CO0000000377",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504CO0000000377",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第三百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20220920_504CO0000000309",
+   "amendment_promulgate_date": "2022-09-16",
+   "amendment_enforcement_date": "2022-09-20",
+   "amendment_law_id": "504CO0000000309",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20220906_504CO0000000296",
+   "amendment_promulgate_date": "2022-09-06",
+   "amendment_enforcement_date": "2022-09-06",
+   "amendment_law_id": "504CO0000000296",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20220525_504CO0000000197",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504CO0000000197",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20220401_504CO0000000105",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000105",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20220221_504CO0000000045",
+   "amendment_promulgate_date": "2022-02-21",
+   "amendment_enforcement_date": "2022-02-21",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000045",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20210401_503CO0000000092",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000092",
+   "amendment_law_title": "予防接種法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20210216_503CO0000000031",
+   "amendment_promulgate_date": "2021-02-16",
+   "amendment_enforcement_date": "2021-02-16",
+   "amendment_law_id": "503CO0000000031",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20201209_502CO0000000346",
+   "amendment_promulgate_date": "2020-12-09",
+   "amendment_enforcement_date": "2020-12-09",
+   "amendment_law_id": "502CO0000000346",
+   "amendment_law_title": "予防接種法及び検疫法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20201001_502CO0000000003",
+   "amendment_promulgate_date": "2020-01-17",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502CO0000000003",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20200401_502CO0000000093",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000093",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20191001_501CO0000000116",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000116",
+   "amendment_law_title": "予防接種法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20190401_431CO0000000114",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000114",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20190320_431CO0000000048",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-03-20",
+   "amendment_law_id": "431CO0000000048",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20190201_431CO0000000020",
+   "amendment_promulgate_date": "2019-02-01",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_law_id": "431CO0000000020",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20180401_430CO0000000106",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000106",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000197_20170401_429CO0000000092",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000092",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（政令で定めるＡ類疾病）",
+  "title": "第一条",
+  "paragraphs": [
+   "予防接種法（以下「法」という。）第二条第二項第十三号の政令で定める疾病は、次に掲げる疾病とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-07-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-06-12T09:54:23+09:00"
+ }
+}

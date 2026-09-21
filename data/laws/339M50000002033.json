@@ -1,0 +1,308 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "339M50000002033",
+  "law_num": "昭和三十九年総理府令第三十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 39,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "033",
+  "promulgation_date": "1964-08-14"
+ },
+ "revision_info": {
+  "law_revision_id": "339M50000002033_20260701_508M60000001006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "寒冷地手当支給規則",
+  "law_title_kana": "かんれいちてあてしきゅうきそく",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-07-07T15:45:19+09:00",
+  "amendment_promulgate_date": "2026-06-26",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000001006",
+  "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+  "amendment_law_num": "令和八年内閣官房令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "339M50000002033_20260701_508M60000001006",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60000001006",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和八年内閣官房令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20260401_508M60000001002",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000001002",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和八年内閣官房令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20251101_507M60000001009",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507M60000001009",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和七年内閣官房令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20250401_507M60000001003",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000001003",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和七年内閣官房令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20250401_506M60000001001",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000001001",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和六年内閣官房令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20240401_506M60000001001",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000001001",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和六年内閣官房令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20240325_506M60000001001",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-03-25",
+   "amendment_law_id": "506M60000001001",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和六年内閣官房令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20230401_505M60000001003",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000001003",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和五年内閣官房令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20220701_504M60000001007",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504M60000001007",
+   "amendment_law_title": "寒冷地手当支給規則及び人事統計報告に関する内閣官房令の一部を改正する内閣官房令",
+   "amendment_law_num": "令和四年内閣官房令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20220624_504M60000001006",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-06-24",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000001006",
+   "amendment_law_title": "令和九年に開催される国際園芸博覧会の準備及び運営のために必要な特別措置に関する法律の施行に伴う関係内閣官房令の整備に関する内閣官房令",
+   "amendment_law_num": "令和四年内閣官房令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20220401_504M60000001002",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000001002",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和四年内閣官房令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20210901_503M60000001010",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000001010",
+   "amendment_law_title": "寒冷地手当支給規則等の一部を改正する内閣官房令",
+   "amendment_law_num": "令和三年内閣官房令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20210701_503M60000001007",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000001007",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和三年内閣官房令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20210401_503M60000001003",
+   "amendment_promulgate_date": "2021-04-01",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000001003",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和三年内閣官房令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20201228_502M60000001007",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000001007",
+   "amendment_law_title": "寒冷地手当支給規則及び人事統計報告に関する内閣官房令の一部を改正する内閣官房令",
+   "amendment_law_num": "令和二年内閣官房令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20200612_502M60000001004",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000001004",
+   "amendment_law_title": "寒冷地手当支給規則等の一部を改正する内閣官房令",
+   "amendment_law_num": "令和二年内閣官房令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20200401_502M60000001003",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000001003",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "令和二年内閣官房令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20190523_501M60000001001",
+   "amendment_promulgate_date": "2019-05-23",
+   "amendment_enforcement_date": "2019-05-23",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000001001",
+   "amendment_law_title": "平成三十七年に開催される国際博覧会の準備及び運営のために必要な特別措置に関する法律の施行に伴う関係内閣官房令の整備に関する内閣官房令",
+   "amendment_law_num": "令和元年内閣官房令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20190401_431M60000001003",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000001003",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "平成三十一年内閣官房令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20190214_431M60000001002",
+   "amendment_promulgate_date": "2019-02-14",
+   "amendment_enforcement_date": "2019-02-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000001002",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "平成三十一年内閣官房令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20180510_430M60000001003",
+   "amendment_promulgate_date": "2018-05-10",
+   "amendment_enforcement_date": "2018-05-10",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000001003",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "平成三十年内閣官房令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20180226_430M60000001002",
+   "amendment_promulgate_date": "2018-02-26",
+   "amendment_enforcement_date": "2018-02-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000001002",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "平成三十年内閣官房令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20180219_430M60000001001",
+   "amendment_promulgate_date": "2018-02-19",
+   "amendment_enforcement_date": "2018-02-19",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000001001",
+   "amendment_law_title": "寒冷地手当支給規則の一部を改正する内閣官房令",
+   "amendment_law_num": "平成三十年内閣官房令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20170519_429M60000001005",
+   "amendment_promulgate_date": "2017-05-19",
+   "amendment_enforcement_date": "2017-05-19",
+   "amendment_law_id": "429M60000001005",
+   "amendment_law_num": "平成二十九年内閣官房令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000002033_20170401_429M60000001003",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000001003",
+   "amendment_law_num": "平成二十九年内閣官房令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法別表に掲げる地域に所在する官署との権衡上必要があると認められる官署）",
+  "title": "第一条",
+  "paragraphs": [
+   "国家公務員の寒冷地手当に関する法律（昭和二十四年法律第二百号。以下「法」という。）第一条第二号の内閣総理大臣が定める官署は、別表に掲げる官署とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1964-08-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-07T15:45:19+09:00"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "324AC0000000057",
+  "law_num": "昭和二十四年法律第五十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "057",
+  "promulgation_date": "1949-05-14"
+ },
+ "revision_info": {
+  "law_revision_id": "324AC0000000057_20250523_507AC0000000039",
+  "law_type": "Act",
+  "law_title": "検察官の取り調べた者等に対する旅費、日当、宿泊料等支給法",
+  "law_title_kana": "けんさつかんのとりしらべたものとうにたいするりょひにっとうしゅくはくりょうとうしきゅうほう",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2025-06-11T07:37:09+09:00",
+  "amendment_promulgate_date": "2025-05-23",
+  "amendment_enforcement_date": "2025-05-23",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000039",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324AC0000000057_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000057_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000057_20040629_416AC0000000089",
+   "amendment_promulgate_date": "2004-06-09",
+   "amendment_enforcement_date": "2004-06-29",
+   "amendment_law_id": "416AC0000000089",
+   "amendment_law_num": "平成十六年法律第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "刑事訴訟法（昭和二十三年法律第百三十一号）第二百二十三条又は国際捜査共助等に関する法律（昭和五十五年法律第六十九号）第八条第一項若しくは第五項の規定により、検察官若しくは検察事務官の取り調べた者又は検察官若しくは検察事務官から嘱託を受けた鑑定人、通訳人若しくは翻訳人には、旅費、日当、宿泊料、鑑定料、通訳料又は翻訳料を支給し、かつ、鑑定、通訳又は翻訳に必要な費用の支払又は償還をすることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-05-14",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-06-11T07:37:09+09:00"
+ }
+}

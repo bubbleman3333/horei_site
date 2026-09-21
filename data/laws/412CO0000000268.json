@@ -1,0 +1,68 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000268",
+  "law_num": "平成十二年政令第二百六十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "268",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000268_20260401_508CO0000000084",
+  "law_type": "CabinetOrder",
+  "law_title": "地方財政審議会令",
+  "law_title_kana": "ちほうざいせいしんぎかいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-20T10:03:31+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000084",
+  "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第八十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000268_20260401_508CO0000000084",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000084",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000268_20160401_428CO0000000134",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000134",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十八年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（所掌事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方財政審議会（以下「審議会」という。）は、総務省設置法第九条に規定するもののほか、地方財政法施行令（昭和二十三年政令第二百六十七号）第二条第五項、第二十一条第五項及び第二十八条第四項並びに地方公務員等共済組合法施行令（昭和三十七年政令第三百五十二号）第二十三条の二の規定によりその権限に属させられた事項を処理する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T10:03:31+09:00"
+ }
+}

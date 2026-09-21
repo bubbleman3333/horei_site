@@ -1,0 +1,58 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "507M60200000008",
+  "law_num": "令和七年公正取引委員会規則第八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "Rule",
+  "law_num_num": "008",
+  "promulgation_date": "2025-10-01"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60200000008_20260101_000000000000000",
+  "law_type": "Rule",
+  "law_title": "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律第四条の明示に関する規則",
+  "law_title_kana": "せいぞういたくとうにかかるちゅうしょうじゅたくじぎょうしゃにたいするだいきんのしはらいのちえんとうのぼうしにかんするほうりつだいよんじょうのめいじにかんするきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-01-01T04:53:59+09:00",
+  "amendment_promulgate_date": "2025-10-01",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60200000008_20260101_000000000000000",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律（以下「法」という。）第四条第一項の規定による明示は、次に掲げる事項を記載し又は記録した書面又は電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。以下同じ。）の交付又は電磁的方法による提供により行わなければならない。",
+   "前項第四号の製造委託等代金の額について、具体的な金額の明示をすることが困難なやむを得ない事情がある場合には、製造委託等代金の具体的な金額を定めることとなる算定方法の明示をすることをもって足りる。",
+   "第一項各号に掲げる事項が一定期間における製造委託等について共通であるものとして、あらかじめその旨を書面の交付又は電磁的方法による提供により明示したときは、その期間内における製造委託等に係る当該事項の明示は、あらかじめ明示したところによる旨を明示することをもって足りる。",
+   "法第四条第一項ただし書の規定に基づき未定事項を明示するときは、未定事項以外の事項の明示との関連性を確認することができるようにしなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-10-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T04:53:59+09:00"
+ }
+}

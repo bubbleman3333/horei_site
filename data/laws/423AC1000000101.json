@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "423AC1000000101",
+  "law_num": "平成二十三年法律第百一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "Act",
+  "law_num_num": "101",
+  "promulgation_date": "2011-08-30"
+ },
+ "revision_info": {
+  "law_revision_id": "423AC1000000101_20260401_508AC1000000009",
+  "law_type": "Act",
+  "law_title": "運輸事業の振興の助成に関する法律",
+  "law_title_kana": "うんゆじぎょうのしんこうのじょせいにかんするほうりつ",
+  "abbrev": "運輸事業振興助成法",
+  "category": "陸運",
+  "updated": "2026-04-10T13:56:04+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC1000000009",
+  "amendment_law_title": "運輸事業の振興の助成に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423AC1000000101_20260401_508AC1000000009",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC1000000009",
+   "amendment_law_title": "運輸事業の振興の助成に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423AC1000000101_20110930_000000000000000",
+   "amendment_promulgate_date": "2011-08-30",
+   "amendment_enforcement_date": "2011-09-30",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、現下の軽油を燃料とする自動車を用いて行われる運輸事業をめぐる状況に鑑み、当該事業に係る費用の上昇の抑制及び輸送力の確保に資し、もって国民の生活の利便性の向上及び地球温暖化対策の推進に寄与するため、当分の間の措置として、当該事業の振興を助成するための措置について定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-08-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-10T13:56:04+09:00"
+ }
+}

@@ -1,0 +1,182 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "402M50000100058",
+  "law_num": "平成二年厚生省令第五十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 2,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "058",
+  "promulgation_date": "1990-12-19"
+ },
+ "revision_info": {
+  "law_revision_id": "402M50000100058_20260401_508M60000100048",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国民年金基金規則",
+  "law_title_kana": "こくみんねんきんききんきそく",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-04-15T12:38:24+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100048",
+  "amendment_law_title": "国民年金基金規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "402M50000100058_20260401_508M60000100048",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100048",
+   "amendment_law_title": "国民年金基金規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20251001_507M60000100095",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000100095",
+   "amendment_law_title": "国民年金基金規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20250601_507M60000100062",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000100062",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う厚生労働省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20240527_506M60000100086",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000100086",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20240524_506M60000100086",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506M60000100086",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20231227_505M60000100165",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000100165",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20231016_505M60000100129",
+   "amendment_promulgate_date": "2023-10-06",
+   "amendment_enforcement_date": "2023-10-16",
+   "amendment_law_id": "505M60000100129",
+   "amendment_law_title": "国民年金基金規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20220401_503M60000100115",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000100115",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20201228_502M60000100211",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000100211",
+   "amendment_law_title": "国民年金基金規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20201201_502M60000100191",
+   "amendment_promulgate_date": "2020-11-30",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000100191",
+   "amendment_law_title": "国民年金基金規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000100058_20170101_428M60000100159",
+   "amendment_promulgate_date": "2016-10-05",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428M60000100159",
+   "amendment_law_title": "確定拠出年金法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等及び経過措置に関する省令　抄",
+   "amendment_law_num": "平成二十八年厚生労働省令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　国民年金基金",
+  "第二章　国民年金基金連合会",
+  "第三章　雑則"
+ ],
+ "article1": {
+  "caption": "（設立を希望する旨の申出）",
+  "title": "第一条",
+  "paragraphs": [
+   "国民年金法（以下「法」という。）第百十九条第二項の規定による地域型国民年金基金（以下「地域型基金」という。）の設立を希望する旨の申出は、次の各号に掲げる事項を記載した申出書を厚生労働大臣に提出することによって行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1990-12-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-15T12:38:24+09:00"
+ }
+}

@@ -1,0 +1,219 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "357CO0000000040",
+  "law_num": "昭和五十七年政令第四十号",
+  "law_num_era": "Showa",
+  "law_num_year": 57,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "040",
+  "promulgation_date": "1982-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "357CO0000000040_20260525_507CO0000000244",
+  "law_type": "CabinetOrder",
+  "law_title": "銀行法施行令",
+  "law_title_kana": "ぎんこうほうしこうれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-05-25T00:50:28+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000244",
+  "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第二百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "357CO0000000040_20260525_507CO0000000244",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507CO0000000244",
+   "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20250613_507CO0000000211",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2025-06-13",
+   "amendment_law_id": "507CO0000000211",
+   "amendment_law_title": "株式会社商工組合中央金庫法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20250401_507CO0000000030",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000030",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20240401_506CO0000000029",
+   "amendment_promulgate_date": "2024-02-09",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000029",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20240401_505CO0000000316",
+   "amendment_promulgate_date": "2023-11-06",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000316",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の施行に伴う金融庁関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第三百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20230601_505CO0000000186",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000186",
+   "amendment_law_title": "安定的かつ効率的な資金決済制度の構築を図るための資金決済に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20230526_505CO0000000186",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "505CO0000000186",
+   "amendment_law_title": "安定的かつ効率的な資金決済制度の構築を図るための資金決済に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20220716_504CO0000000247",
+   "amendment_promulgate_date": "2022-07-15",
+   "amendment_enforcement_date": "2022-07-16",
+   "amendment_law_id": "504CO0000000247",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20211122_503CO0000000309",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503CO0000000309",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響による社会経済情勢の変化に対応して金融の機能の強化及び安定の確保を図るための銀行法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第三百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20211101_503CO0000000162",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000162",
+   "amendment_law_title": "金融商品の販売等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20200401_501CO0000000139",
+   "amendment_promulgate_date": "2019-10-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000139",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20180816_430CO0000000242",
+   "amendment_promulgate_date": "2018-08-15",
+   "amendment_enforcement_date": "2018-08-16",
+   "amendment_law_id": "430CO0000000242",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20180601_430CO0000000173",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430CO0000000173",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20180530_430CO0000000173",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-05-30",
+   "amendment_law_id": "430CO0000000173",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357CO0000000040_20170401_429CO0000000047",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000047",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特別な関係）",
+  "title": "第一条",
+  "paragraphs": [
+   "銀行法（以下「法」という。）第三条の二第一項第六号に規定する政令で定める特別な関係は、三親等以内の親族関係とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1982-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T00:50:28+09:00"
+ }
+}

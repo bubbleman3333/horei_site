@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "345AC0000000139",
+  "law_num": "昭和四十五年法律第百三十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "Act",
+  "law_num_num": "139",
+  "promulgation_date": "1970-12-25"
+ },
+ "revision_info": {
+  "law_revision_id": "345AC0000000139_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "農用地の土壌の汚染防止等に関する法律",
+  "law_title_kana": "のうようちのどじょうのおせんぼうしとうにかんするほうりつ",
+  "abbrev": "土壌汚染防止法,農用地土壌汚染防止法",
+  "category": "環境保全",
+  "updated": "2026-07-01T00:28:54+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345AC0000000139_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000139_20110830_423AC0000000105",
+   "amendment_promulgate_date": "2011-08-30",
+   "amendment_enforcement_date": "2011-08-30",
+   "amendment_law_id": "423AC0000000105",
+   "amendment_law_num": "平成二十三年法律第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、農用地の土壌の特定有害物質による汚染の防止及び除去並びにその汚染に係る農用地の利用の合理化を図るために必要な措置を講ずることにより、人の健康をそこなうおそれがある農畜産物が生産され、又は農作物等の生育が阻害されることを防止し、もつて国民の健康の保護及び生活環境の保全に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-12-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:28:54+09:00"
+ }
+}

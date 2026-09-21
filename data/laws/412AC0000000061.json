@@ -1,0 +1,248 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "412AC0000000061",
+  "law_num": "平成十二年法律第六十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "Act",
+  "law_num_num": "061",
+  "promulgation_date": "2000-05-12"
+ },
+ "revision_info": {
+  "law_revision_id": "412AC0000000061_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "消費者契約法",
+  "law_title_kana": "しょうひしゃけいやくほう",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-07-01T12:03:49+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412AC0000000061_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20241001_505AC0000000029",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "505AC0000000029",
+   "amendment_law_title": "不当景品類及び不当表示防止法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20231001_504AC0000000059",
+   "amendment_promulgate_date": "2022-06-01",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "504AC0000000059",
+   "amendment_law_title": "消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20230601_504AC0000000059",
+   "amendment_promulgate_date": "2022-06-01",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "504AC0000000059",
+   "amendment_law_title": "消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20230105_504AC0000000099",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2023-01-05",
+   "amendment_law_id": "504AC0000000099",
+   "amendment_law_title": "消費者契約法及び独立行政法人国民生活センター法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20220601_504AC0000000059",
+   "amendment_promulgate_date": "2022-06-01",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504AC0000000059",
+   "amendment_law_title": "消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20200401_428AC0000000061",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "428AC0000000061",
+   "amendment_law_title": "消費者契約法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20190615_430AC0000000054",
+   "amendment_promulgate_date": "2018-06-15",
+   "amendment_enforcement_date": "2019-06-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430AC0000000054",
+   "amendment_law_title": "消費者契約法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20171001_429AC0000000043",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000043",
+   "amendment_law_title": "独立行政法人国民生活センター法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20170603_428AC0000000061",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2017-06-03",
+   "amendment_law_id": "428AC0000000061",
+   "amendment_law_title": "消費者契約法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20170602_429AC0000000043",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000043",
+   "amendment_law_title": "独立行政法人国民生活センター法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20170602_428AC0000000061",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "428AC0000000061",
+   "amendment_law_title": "消費者契約法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000061_20161001_425AC0000000096",
+   "amendment_promulgate_date": "2013-12-11",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_law_id": "425AC0000000096",
+   "amendment_law_title": "消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律",
+   "amendment_law_num": "平成二十五年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　消費者契約",
+  "第三章　差止請求",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、消費者と事業者との間の情報の質及び量並びに交渉力の格差に鑑み、事業者の一定の行為により消費者が誤認し、又は困惑した場合等について契約の申込み又はその承諾の意思表示を取り消すことができることとするとともに、事業者の損害賠償の責任を免除する条項その他の消費者の利益を不当に害することとなる条項の全部又は一部を無効とするほか、消費者の被害の発生又は拡大を防止するため適格消費者団体が事業者等に対し差止請求をすることができることとすることにより、消費者の利益の擁護を図り、もって国民生活の安定向上と国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-05-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T12:03:49+09:00"
+ }
+}

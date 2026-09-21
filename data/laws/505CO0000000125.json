@@ -1,0 +1,158 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "505CO0000000125",
+  "law_num": "令和五年政令第百二十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "125",
+  "promulgation_date": "2023-03-30"
+ },
+ "revision_info": {
+  "law_revision_id": "505CO0000000125_20260408_508CO0000000121",
+  "law_type": "CabinetOrder",
+  "law_title": "こども家庭庁組織令",
+  "law_title_kana": "こどもかていちょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-05-18T10:23:36+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000121",
+  "amendment_law_title": "こども家庭庁組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505CO0000000125_20260408_508CO0000000121",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000121",
+   "amendment_law_title": "こども家庭庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20260401_508CO0000000036",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000036",
+   "amendment_law_title": "こども家庭庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20260401_508CO0000000011",
+   "amendment_promulgate_date": "2026-02-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000011",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20250401_507CO0000000142",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000142",
+   "amendment_law_title": "大学等における修学の支援に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20250401_507CO0000000140",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000140",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20250117_506CO0000000385",
+   "amendment_promulgate_date": "2024-12-18",
+   "amendment_enforcement_date": "2025-01-17",
+   "amendment_law_id": "506CO0000000385",
+   "amendment_law_title": "旧優生保護法に基づく優生手術等を受けた者等に対する補償金等の支給等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20241001_506CO0000000289",
+   "amendment_promulgate_date": "2024-09-20",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000289",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20240925_506CO0000000291",
+   "amendment_promulgate_date": "2024-09-20",
+   "amendment_enforcement_date": "2024-09-25",
+   "amendment_law_id": "506CO0000000291",
+   "amendment_law_title": "子どもの貧困対策の推進に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20240401_506CO0000000161",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000161",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000125_20230401_000000000000000",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　内部部局",
+  "第二章　施設等機関"
+ ],
+ "article1": {
+  "caption": "（長官官房及び局の設置）",
+  "title": "第一条",
+  "paragraphs": [
+   "こども家庭庁に、長官官房及び次の二局を置く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-03-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-18T10:23:36+09:00"
+ }
+}

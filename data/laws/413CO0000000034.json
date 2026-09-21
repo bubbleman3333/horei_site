@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "413CO0000000034",
+  "law_num": "平成十三年政令第三十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "034",
+  "promulgation_date": "2001-02-15"
+ },
+ "revision_info": {
+  "law_revision_id": "413CO0000000034_20260401_507CO0000000395",
+  "law_type": "CabinetOrder",
+  "law_title": "公共工事の入札及び契約の適正化の促進に関する法律施行令",
+  "law_title_kana": "こうきょうこうじのにゅうさつおよびけいやくのてきせいかのそくしんにかんするほうりつせこうれい",
+  "abbrev": "入札契約適正化法施行令",
+  "category": "建築・住宅",
+  "updated": "2026-04-02T17:43:13+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000395",
+  "amendment_law_title": "独立行政法人男女共同参画機構法の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第三百九十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413CO0000000034_20260401_507CO0000000395",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000395",
+   "amendment_law_title": "独立行政法人男女共同参画機構法の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000034_20250701_507CO0000000198",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000198",
+   "amendment_law_title": "公共工事の入札及び契約の適正化の促進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000034_20190330_431CO0000000129",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-03-30",
+   "amendment_law_id": "431CO0000000129",
+   "amendment_law_title": "国立研究開発法人科学技術振興機構法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000034_20170401_428CO0000000396",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000396",
+   "amendment_law_title": "森林法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特殊法人等の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "公共工事の入札及び契約の適正化の促進に関する法律（以下「法」という。）第二条第一項の政令で定める法人は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-02-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T17:43:13+09:00"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000010054",
+  "law_num": "令和七年法務省令第五十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "054",
+  "promulgation_date": "2025-11-04"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000010054_20251104_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "更生保護法の審問手続における関係人の旅費及び宿泊料に関する規則",
+  "law_title_kana": "こうせいほごほうのしんもんてつづきにおけるかんけいにんのりょひおよびしゅくはくりょうにかんするきそく",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2025-11-18T10:21:24+09:00",
+  "amendment_promulgate_date": "2025-11-04",
+  "amendment_enforcement_date": "2025-11-04",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000010054_20251104_000000000000000",
+   "amendment_promulgate_date": "2025-11-04",
+   "amendment_enforcement_date": "2025-11-04",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則において使用する用語は、更生保護法（平成十九年法律第八十八号）及び更生保護法施行令（以下「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-11-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-18T10:21:24+09:00"
+ }
+}

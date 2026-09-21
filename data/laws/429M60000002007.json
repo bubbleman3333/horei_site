@@ -1,0 +1,216 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "429M60000002007",
+  "law_num": "平成二十九年内閣府令第七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "007",
+  "promulgation_date": "2017-03-24"
+ },
+ "revision_info": {
+  "law_revision_id": "429M60000002007_20260601_508M60000002051",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "暗号資産交換業者に関する内閣府令",
+  "law_title_kana": "あんごうしさんこうかんぎょうしゃにかんするないかくふれい",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-06-09T11:31:48+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002051",
+  "amendment_law_title": "資金移動業者に関する内閣府令等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "429M60000002007_20260601_508M60000002051",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000002051",
+   "amendment_law_title": "資金移動業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20250601_507M60000002049",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000002049",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20240401_506M60000002045",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002045",
+   "amendment_law_title": "暗号資産交換業者に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20240401_506M60000002019",
+   "amendment_promulgate_date": "2024-03-22",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002019",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20231227_505M60000002087",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000002087",
+   "amendment_law_title": "内閣府の所管する金融関連法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20230601_505M60000002050",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000002050",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20221101_504M60000002061",
+   "amendment_promulgate_date": "2022-10-31",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000002061",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20220401_504M60000002013",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000002013",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20210630_503M60000002044",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_law_id": "503M60000002044",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20210501_503M60000002011",
+   "amendment_promulgate_date": "2021-03-19",
+   "amendment_enforcement_date": "2021-05-01",
+   "amendment_law_id": "503M60000002011",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20201223_502M60000002075",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000002075",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20200501_502M60000002035",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502M60000002035",
+   "amendment_law_title": "仮想通貨交換業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20191214_501M60000002041",
+   "amendment_promulgate_date": "2019-11-21",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002041",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20190701_501M60000002014",
+   "amendment_promulgate_date": "2019-06-24",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002014",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20180601_430M60000002024",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002024",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000002007_20170401_000000000000000",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　業務",
+  "第三章　監督",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において「電子決済手段」、「暗号資産」、「暗号資産交換業」、「暗号資産の交換等」、「暗号資産の管理」、「暗号資産交換業者」、「外国暗号資産交換業者」、「電子決済手段・暗号資産サービス仲介業者」、「認定資金決済事業者協会」、「暗号資産交換業務」、「信託会社等」又は「銀行等」とは、それぞれ資金決済に関する法律（以下「法」という。）第二条に規定する電子決済手段、暗号資産、暗号資産交換業、暗号資産の交換等、暗号資産の管理、暗号資産交換業者、外国暗号資産交換業者、電子決済手段・暗号資産サービス仲介業者、認定資金決済事業者協会、暗号資産交換業務、信託会社等又は銀行等をいう。",
+   "この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2017-03-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-09T11:31:48+09:00"
+ }
+}

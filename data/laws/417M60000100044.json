@@ -1,0 +1,448 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000100044",
+  "law_num": "平成十七年厚生労働省令第四十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "044",
+  "promulgation_date": "2005-03-25"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000100044_20260901_508M60000100116",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令",
+  "law_title_kana": "こうせいろうどうしょうのしょかんするほうれいのきていにもとづくみんかんじぎょうしゃとうがおこなうしょめんのほぞんとうにおけるじょうほうつうしんのぎじゅつのりようにかんするしょうれい",
+  "abbrev": null,
+  "category": "行政手続",
+  "updated": "2026-09-01T00:27:32+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100116",
+  "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000100044_20270520_508M60000100110",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2027-05-20",
+   "amendment_law_id": "508M60000100110",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20261001_508M60000100116",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100116",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20260901_508M60000100116",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508M60000100116",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20260401_508M60000100066",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100066",
+   "amendment_law_title": "厚生労働大臣の所管に属する公益信託の引受けの許可及び監督に関する規則の廃止等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20250531_507M60000100015",
+   "amendment_promulgate_date": "2025-02-28",
+   "amendment_enforcement_date": "2025-05-31",
+   "amendment_law_id": "507M60000100015",
+   "amendment_law_title": "再生医療等の安全性の確保等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20250301_506M60000100148",
+   "amendment_promulgate_date": "2024-10-31",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "506M60000100148",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の一部の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20241212_506M60000100141",
+   "amendment_promulgate_date": "2024-10-16",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "506M60000100141",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20241001_506M60000100118",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000100118",
+   "amendment_law_title": "救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する基準及び厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20240601_506M60000100016",
+   "amendment_promulgate_date": "2024-01-25",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506M60000100016",
+   "amendment_law_title": "指定居宅サービス等の事業の人員、設備及び運営に関する基準等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20240401_506M60000100065",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100065",
+   "amendment_law_title": "生活衛生等関係行政の機能強化のための関係法律の整備に関する法律の施行に伴う厚生労働省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20240401_506M60000100016",
+   "amendment_promulgate_date": "2024-01-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100016",
+   "amendment_law_title": "指定居宅サービス等の事業の人員、設備及び運営に関する基準等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20240401_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20240401_504M60000100008",
+   "amendment_promulgate_date": "2022-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504M60000100008",
+   "amendment_law_title": "労働安全衛生規則及び厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20231227_505M60000100165",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000100165",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20231226_505M60000100161",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2023-12-26",
+   "amendment_law_id": "505M60000100161",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20231001_504M60000100003",
+   "amendment_promulgate_date": "2022-01-13",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "504M60000100003",
+   "amendment_law_title": "石綿障害予防規則等の一部を改正する省令及び厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20231001_502M60000100134",
+   "amendment_promulgate_date": "2020-07-01",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "502M60000100134",
+   "amendment_law_title": "石綿障害予防規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20230401_505M60000100048",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000100048",
+   "amendment_law_title": "こども家庭庁設置法等の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20230401_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20230101_504M60000100174",
+   "amendment_promulgate_date": "2022-12-28",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000100174",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20221001_504M60000100075",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100075",
+   "amendment_law_title": "医療法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20220531_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2022-05-31",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20220113_504M60000100003",
+   "amendment_promulgate_date": "2022-01-13",
+   "amendment_enforcement_date": "2022-01-13",
+   "amendment_law_id": "504M60000100003",
+   "amendment_law_title": "石綿障害予防規則等の一部を改正する省令及び厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20211201_503M60000100096",
+   "amendment_promulgate_date": "2021-05-18",
+   "amendment_enforcement_date": "2021-12-01",
+   "amendment_law_id": "503M60000100096",
+   "amendment_law_title": "石綿障害予防規則及び厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20210801_503M60000100090",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100090",
+   "amendment_law_title": "医薬品及び医薬部外品の製造管理及び品質管理の基準に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20210801_503M60000100015",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100015",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20210401_503M60000100012",
+   "amendment_promulgate_date": "2021-01-26",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100012",
+   "amendment_law_title": "特定化学物質障害予防規則及び作業環境測定法施行規則の一部を改正する省令及び厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20210401_502M60000100134",
+   "amendment_promulgate_date": "2020-07-01",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000100134",
+   "amendment_law_title": "石綿障害予防規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20210331_503M60000100080",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_law_id": "503M60000100080",
+   "amendment_law_title": "救護施設、更生施設、授産施設及び宿所提供施設の設備及び運営に関する基準及び厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20210326_503M60000100060",
+   "amendment_promulgate_date": "2021-03-26",
+   "amendment_enforcement_date": "2021-03-26",
+   "amendment_law_id": "503M60000100060",
+   "amendment_law_title": "医療機器及び体外診断用医薬品の製造管理及び品質管理の基準に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20210101_502M60000100170",
+   "amendment_promulgate_date": "2020-10-09",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000100170",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行規則及び厚生労働省の所管する法令の規定に基づく民間事業者等が行う書面の保存等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20201001_502M60000100134",
+   "amendment_promulgate_date": "2020-07-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000100134",
+   "amendment_law_title": "石綿障害予防規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20200901_502M60000100155",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100155",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20200630_502M60000100133",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2020-06-30",
+   "amendment_law_id": "502M60000100133",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20200515_502M60000100100",
+   "amendment_promulgate_date": "2020-05-15",
+   "amendment_enforcement_date": "2020-05-15",
+   "amendment_law_id": "502M60000100100",
+   "amendment_law_title": "再生医療等の安全性の確保等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20200401_502M60000100076",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000100076",
+   "amendment_law_title": "労働基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20200401_502M60000100063",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000100063",
+   "amendment_law_title": "放射性医薬品の製造及び取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20200401_502M60000100015",
+   "amendment_promulgate_date": "2020-02-13",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000100015",
+   "amendment_law_title": "覚せい剤取締法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100044_20200401_431M60000100017",
+   "amendment_promulgate_date": "2019-02-22",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431M60000100017",
+   "amendment_law_title": "健康増進法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年厚生労働省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "民間事業者等が、厚生労働省の所管する法令に係る保存等を、電磁的記録を使用して行う場合については、他の法律及び法律に基づく命令（告示を含む。）に特別の定めのある場合を除くほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-03-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-01T00:27:32+09:00"
+ }
+}

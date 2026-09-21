@@ -1,0 +1,340 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "334AC0000000127",
+  "law_num": "昭和三十四年法律第百二十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 34,
+  "law_num_type": "Act",
+  "law_num_num": "127",
+  "promulgation_date": "1959-04-13"
+ },
+ "revision_info": {
+  "law_revision_id": "334AC0000000127_20260521_504AC0000000048",
+  "law_type": "Act",
+  "law_title": "商標法",
+  "law_title_kana": "しょうひょうほう",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-21T01:12:57+09:00",
+  "amendment_promulgate_date": "2022-05-25",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000048",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "334AC0000000127_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20240401_505AC0000000051",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000051",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20240101_505AC0000000051",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505AC0000000051",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20230703_505AC0000000051",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-07-03",
+   "amendment_law_id": "505AC0000000051",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20230401_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20221001_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20220401_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20220401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20211001_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20210521_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-05-21",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20201001_501AC0000000003",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501AC0000000003",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20200401_501AC0000000003",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000003",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20190701_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20190527_501AC0000000003",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2019-05-27",
+   "amendment_law_id": "501AC0000000003",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20190517_501AC0000000003",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2019-05-17",
+   "amendment_law_id": "501AC0000000003",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20190201_430AC0000000088",
+   "amendment_promulgate_date": "2018-12-07",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_law_id": "430AC0000000088",
+   "amendment_law_title": "特定農林水産物等の名称の保護に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20181230_428AC0000000108",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "428AC0000000108",
+   "amendment_law_title": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20181207_430AC0000000088",
+   "amendment_promulgate_date": "2018-12-07",
+   "amendment_enforcement_date": "2018-12-07",
+   "amendment_law_id": "430AC0000000088",
+   "amendment_law_title": "特定農林水産物等の名称の保護に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20180609_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-06-09",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20180530_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-05-30",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20170530_428AC0000000051",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "428AC0000000051",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334AC0000000127_20161226_428AC0000000108",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2016-12-26",
+   "amendment_law_id": "428AC0000000108",
+   "amendment_law_title": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　商標登録及び商標登録出願",
+  "第三章　審査",
+  "第四章　商標権",
+  "第四章の二　登録異議の申立て",
+  "第五章　審判",
+  "第六章　再審及び訴訟",
+  "第七章　防護標章",
+  "第七章の二　マドリッド協定の議定書に基づく特例",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、商標を保護することにより、商標の使用をする者の業務上の信用の維持を図り、もつて産業の発達に寄与し、あわせて需要者の利益を保護することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1959-04-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:12:57+09:00"
+ }
+}

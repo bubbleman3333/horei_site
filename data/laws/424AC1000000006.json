@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "424AC1000000006",
+  "law_num": "平成二十四年法律第六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "006",
+  "promulgation_date": "2012-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "424AC1000000006_20260113_506AC0000000019",
+  "law_type": "Act",
+  "law_title": "東日本大震災の被災者に対する援助のための日本司法支援センターの業務の特例に関する法律",
+  "law_title_kana": "ひがしにほんだいしんさいのひさいしゃにたいするえんじょのためのにほんしほうしえんせんたーのぎょうむのとくれいにかんするほうりつ",
+  "abbrev": "法テラス震災特例法",
+  "category": "司法",
+  "updated": "2026-01-13T00:02:55+09:00",
+  "amendment_promulgate_date": "2024-04-24",
+  "amendment_enforcement_date": "2026-01-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000019",
+  "amendment_law_title": "総合法律支援法の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第十九号",
+  "amendment_type": "3",
+  "repeal_status": "Expire",
+  "repeal_date": "2021-04-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424AC1000000006_20260113_506AC0000000019",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2026-01-13",
+   "amendment_law_id": "506AC0000000019",
+   "amendment_law_title": "総合法律支援法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "424AC1000000006_20210520_503AC0000000030",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503AC0000000030",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "424AC1000000006_20210401_000000000000000",
+   "amendment_promulgate_date": "2012-03-29",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_title": "",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "424AC1000000006_20180331_430AC1000000005",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-03-31",
+   "amendment_law_id": "430AC1000000005",
+   "amendment_law_title": "東日本大震災の被災者に対する援助のための日本司法支援センターの業務の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424AC1000000006_20160701_428AC0000000053",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2016-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000053",
+   "amendment_law_title": "総合法律支援法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、東日本大震災の被災者が裁判その他の法による紛争の解決のための手続及び弁護士等のサービスを円滑に利用することができるよう、東日本大震災の被災者に対する援助のための総合法律支援法（平成十六年法律第七十四号）第十三条に規定する日本司法支援センター（以下「支援センター」という。）の業務の特例を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-13T00:02:55+09:00"
+ }
+}

@@ -1,0 +1,115 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "343M50000400023",
+  "law_num": "昭和四十三年通商産業省令第二十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 43,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "1968-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "343M50000400023_20251225_507M60000400006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "液化石油ガス器具等の技術上の基準等に関する省令",
+  "law_title_kana": "えきかせきゆがすきぐとうのぎじゅつじょうのきじゅんとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-08-25T13:30:57+09:00",
+  "amendment_promulgate_date": "2025-01-31",
+  "amendment_enforcement_date": "2025-12-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000400006",
+  "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+  "amendment_law_num": "令和七年経済産業省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "343M50000400023_20251225_507M60000400006",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-12-25",
+   "amendment_law_id": "507M60000400006",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "343M50000400023_20250401_507M60000400030",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000400030",
+   "amendment_law_title": "経済産業省関係特定製品の技術上の基準等に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "343M50000400023_20250206_506M60000400083",
+   "amendment_promulgate_date": "2024-12-06",
+   "amendment_enforcement_date": "2025-02-06",
+   "amendment_law_id": "506M60000400083",
+   "amendment_law_title": "液化石油ガス器具等の技術上の基準等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "343M50000400023_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "343M50000400023_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "343M50000400023_20160401_428M60000400004",
+   "amendment_promulgate_date": "2016-01-22",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000400004",
+   "amendment_law_num": "平成二十八年経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　販売の制限",
+  "第三章　事業の届出等",
+  "第四章　検査機関の登録",
+  "第五章　国内登録検査機関",
+  "第六章　外国登録検査機関",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、液化石油ガスの保安の確保及び取引の適正化に関する法律（昭和四十二年法律第百四十九号。以下「法」という。）及び液化石油ガスの保安の確保及び取引の適正化に関する法律施行令（昭和四十三年政令第十四号。以下「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1968-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-25T13:30:57+09:00"
+ }
+}

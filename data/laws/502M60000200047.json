@@ -1,0 +1,124 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "502M60000200047",
+  "law_num": "令和二年農林水産省令第四十七号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "047",
+  "promulgation_date": "2020-07-08"
+ },
+ "revision_info": {
+  "law_revision_id": "502M60000200047_20260521_508M60000200040",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "漁業法施行規則",
+  "law_title_kana": "ぎょぎょうほうしこうきそく",
+  "abbrev": null,
+  "category": "水産業",
+  "updated": "2026-06-02T13:14:52+09:00",
+  "amendment_promulgate_date": "2026-05-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200040",
+  "amendment_law_title": "土地改良法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第四十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502M60000200047_20260521_508M60000200040",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000200040",
+   "amendment_law_title": "土地改良法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "502M60000200047_20260401_507M60000200024",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000200024",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000200047_20251008_507M60000200048",
+   "amendment_promulgate_date": "2025-10-08",
+   "amendment_enforcement_date": "2025-10-08",
+   "amendment_law_id": "507M60000200048",
+   "amendment_law_title": "漁業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000200047_20250530_507M60000200024",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-05-30",
+   "amendment_law_id": "507M60000200024",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000200047_20231228_505M60000200063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000200063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000200047_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000200047_20201201_000000000000000",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　水産資源の保存及び管理",
+  "第二章　漁業権及び沿岸漁場管理",
+  "第三章　漁業調整に関するその他の措置",
+  "第四章　漁業調整委員会等",
+  "第五章　土地及び土地の定着物の使用",
+  "第六章　内水面漁業",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（漁獲努力量の指標）",
+  "title": "第一条",
+  "paragraphs": [
+   "漁業法（以下「法」という。）第七条第三項の農林水産省令で定める指標は、操業日数、操業時間、船舶の隻数、漁具の数、漁具の大きさ又は漁具の使用回数とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-07-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-02T13:14:52+09:00"
+ }
+}

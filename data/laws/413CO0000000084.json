@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "413CO0000000084",
+  "law_num": "平成十三年政令第八十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "084",
+  "promulgation_date": "2001-03-28"
+ },
+ "revision_info": {
+  "law_revision_id": "413CO0000000084_20251001_507CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "土砂災害警戒区域等における土砂災害防止対策の推進に関する法律施行令",
+  "law_title_kana": "どしゃさいがいけいかいくいきとうにおけるどしゃさいがいぼうしたいさくのすいしんにかんするほうりつしこうれい",
+  "abbrev": "土砂災害防止法施行令",
+  "category": "災害対策",
+  "updated": "2025-10-01T08:22:29+09:00",
+  "amendment_promulgate_date": "2025-03-26",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000085",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413CO0000000084_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000084_20240401_506CO0000000161",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000161",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000084_20170401_429CO0000000063",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000063",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（収用委員会の裁決の申請手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "土砂災害警戒区域等における土砂災害防止対策の推進に関する法律（以下「法」という。）第五条第十項の規定により土地収用法（昭和二十六年法律第二百十九号）第九十四条第二項の規定による裁決を申請しようとする者は、国土交通省令で定める様式に従い、同条第三項各号（第三号を除く。）に掲げる事項を記載した裁決申請書を収用委員会に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T08:22:29+09:00"
+ }
+}

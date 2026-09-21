@@ -1,0 +1,165 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "416AC0000000074",
+  "law_num": "平成十六年法律第七十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "Act",
+  "law_num_num": "074",
+  "promulgation_date": "2004-06-02"
+ },
+ "revision_info": {
+  "law_revision_id": "416AC0000000074_20260521_504AC0000000048",
+  "law_type": "Act",
+  "law_title": "総合法律支援法",
+  "law_title_kana": "そうごうほうりつしえんほう",
+  "abbrev": null,
+  "category": "司法",
+  "updated": "2026-05-21T02:29:35+09:00",
+  "amendment_promulgate_date": "2022-05-25",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000048",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416AC0000000074_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20260113_506AC0000000019",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2026-01-13",
+   "amendment_law_id": "506AC0000000019",
+   "amendment_law_title": "総合法律支援法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20221101_502AC0000000033",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "502AC0000000033",
+   "amendment_law_title": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20210826_503AC0000000045",
+   "amendment_promulgate_date": "2021-05-26",
+   "amendment_enforcement_date": "2021-08-26",
+   "amendment_law_id": "503AC0000000045",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20180124_428AC0000000053",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2018-01-24",
+   "amendment_law_id": "428AC0000000053",
+   "amendment_law_title": "総合法律支援法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000074_20160701_428AC0000000053",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2016-07-01",
+   "amendment_law_id": "428AC0000000053",
+   "amendment_law_title": "総合法律支援法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　総合法律支援の実施及び体制の整備",
+  "第三章　日本司法支援センター",
+  "第四章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、内外の社会経済情勢の変化に伴い、法による紛争の解決が一層重要になることに鑑み、裁判その他の法による紛争の解決のための制度の利用をより容易にするとともに弁護士、弁護士法人及び弁護士・外国法事務弁護士共同法人並びに司法書士その他の隣接法律専門職者（弁護士、弁護士法人及び弁護士・外国法事務弁護士共同法人以外の者であって、法律により他人の法律事務を取り扱うことを業とすることができる者をいう。以下同じ。）のサービスをより身近に受けられるようにするための総合的な支援（以下「総合法律支援」という。）の実施及び体制の整備に関し、その基本理念、国等の責務その他の基本となる事項を定めるとともに、その中核となる日本司法支援センターの組織及び運営について定め、もってより自由かつ公正な社会の形成に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-06-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:29:35+09:00"
+ }
+}

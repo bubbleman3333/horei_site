@@ -1,0 +1,95 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M6000004A001",
+  "law_num": "令和五年内閣府・総務省・財務省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2023-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "505M6000004A001_20251216_507M6000004A001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "物価高騰対策給付金に係る差押禁止等に関する法律施行規則",
+  "law_title_kana": "ぶっかこうとうたいさくきゅうふきんにかかるさしおさえきんしとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-01-08T09:52:52+09:00",
+  "amendment_promulgate_date": "2025-12-16",
+  "amendment_enforcement_date": "2025-12-16",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M6000004A001",
+  "amendment_law_title": "物価高騰対策給付金に係る差押禁止等に関する法律施行規則の一部を改正する命令",
+  "amendment_law_num": "令和七年内閣府・総務省・財務省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M6000004A001_20251216_507M6000004A001",
+   "amendment_promulgate_date": "2025-12-16",
+   "amendment_enforcement_date": "2025-12-16",
+   "amendment_law_id": "507M6000004A001",
+   "amendment_law_title": "物価高騰対策給付金に係る差押禁止等に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M6000004A001_20241217_506M6000004A003",
+   "amendment_promulgate_date": "2024-12-17",
+   "amendment_enforcement_date": "2024-12-17",
+   "amendment_law_id": "506M6000004A003",
+   "amendment_law_title": "物価高騰対策給付金に係る差押禁止等に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・財務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M6000004A001_20240216_506M6000004A002",
+   "amendment_promulgate_date": "2024-02-16",
+   "amendment_enforcement_date": "2024-02-16",
+   "amendment_law_id": "506M6000004A002",
+   "amendment_law_title": "物価高騰対策給付金に係る差押禁止等に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M6000004A001_20240130_506M6000004A001",
+   "amendment_promulgate_date": "2024-01-30",
+   "amendment_enforcement_date": "2024-01-30",
+   "amendment_law_id": "506M6000004A001",
+   "amendment_law_title": "物価高騰対策給付金に係る差押禁止等に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M6000004A001_20231228_000000000000000",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（給付金の差押禁止等）",
+  "title": "第一条",
+  "paragraphs": [
+   "物価高騰対策給付金に係る差押禁止等に関する法律（以下「法」という。）第二条第二号柱書に規定する内閣府令・総務省令・財務省令で定める給付金（以下「物価高騰対策給付金」という。）は、次に掲げる給付金とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-12-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-08T09:52:52+09:00"
+ }
+}

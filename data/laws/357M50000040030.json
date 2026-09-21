@@ -1,0 +1,149 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "357M50000040030",
+  "law_num": "昭和五十七年大蔵省令第三十号",
+  "law_num_era": "Showa",
+  "law_num_year": 57,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "030",
+  "promulgation_date": "1982-05-01"
+ },
+ "revision_info": {
+  "law_revision_id": "357M50000040030_20250501_507M60000040050",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国債の発行等に関する省令",
+  "law_title_kana": "こくさいのはっこうとうにかんするしょうれい",
+  "abbrev": "発行省令",
+  "category": "国債",
+  "updated": "2025-05-16T09:51:10+09:00",
+  "amendment_promulgate_date": "2025-05-01",
+  "amendment_enforcement_date": "2025-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000040050",
+  "amendment_law_title": "国債の発行等に関する省令等の一部を改正する省令",
+  "amendment_law_num": "令和七年財務省令第五十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "357M50000040030_20270101_508M60000040047",
+   "amendment_promulgate_date": "2026-06-29",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508M60000040047",
+   "amendment_law_title": "国債の発行等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20250501_507M60000040050",
+   "amendment_promulgate_date": "2025-05-01",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507M60000040050",
+   "amendment_law_title": "国債の発行等に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20250401_507M60000040037",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040037",
+   "amendment_law_title": "国債の発行等に関する省令及び物価連動国債の取扱いに関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20250324_507M60000040010",
+   "amendment_promulgate_date": "2025-03-24",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507M60000040010",
+   "amendment_law_title": "国債の発行等に関する省令及び政府資金調達事務取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20241101_506M60000040061",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000040061",
+   "amendment_law_title": "国債の発行等に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20240628_506M60000040049",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-06-28",
+   "amendment_law_id": "506M60000040049",
+   "amendment_law_title": "国債の発行等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20220926_504M60000040047",
+   "amendment_promulgate_date": "2022-09-26",
+   "amendment_enforcement_date": "2022-09-26",
+   "amendment_law_id": "504M60000040047",
+   "amendment_law_title": "国債の発行等に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20210401_502M60000040089",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040089",
+   "amendment_law_title": "国債規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20201225_502M60000040089",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040089",
+   "amendment_law_title": "国債規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "357M50000040030_20150529_427M60000040055",
+   "amendment_promulgate_date": "2015-05-22",
+   "amendment_enforcement_date": "2015-05-29",
+   "amendment_law_id": "427M60000040055",
+   "amendment_law_num": "平成二十七年財務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（総則）",
+  "title": "第一条",
+  "paragraphs": [
+   "国債を発行しようとするときは、別に定めるもののほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1982-05-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-05-16T09:51:10+09:00"
+ }
+}

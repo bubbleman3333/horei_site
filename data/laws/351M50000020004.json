@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "351M50000020004",
+  "law_num": "昭和五十一年外務省令第四号",
+  "law_num_era": "Showa",
+  "law_num_year": 51,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "004",
+  "promulgation_date": "1976-06-05"
+ },
+ "revision_info": {
+  "law_revision_id": "351M50000020004_20260401_508M60000020007",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "戦争等による特別事態の際の在勤手当に関する省令",
+  "law_title_kana": "せんそうとうによるとくべつじたいのさいのざいきんてあてにかんするしょうれい",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-05-12T09:46:32+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000020007",
+  "amendment_law_title": "戦争等による特別事態の際の在勤手当に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年外務省令第七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "351M50000020004_20260401_508M60000020007",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000020007",
+   "amendment_law_title": "戦争等による特別事態の際の在勤手当に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年外務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "351M50000020004_19760605_000000000000000",
+   "amendment_promulgate_date": "1976-06-05",
+   "amendment_enforcement_date": "1976-06-05",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "外務大臣は、戦争、事変、内乱等が発生している地に所在する在外公館を在外公館の名称及び位置並びに在外公館に勤務する外務公務員の給与に関する法律（以下「法」という。）第十条第一項に規定する在外公館として指定するときは、当該在外公館の長にその旨を通知するものとする。指定の解除を行うときも同様とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1976-06-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-12T09:46:32+09:00"
+ }
+}

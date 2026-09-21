@@ -1,0 +1,250 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "324AC0000000267",
+  "law_num": "昭和二十四年法律第二百六十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "267",
+  "promulgation_date": "1949-12-15"
+ },
+ "revision_info": {
+  "law_revision_id": "324AC0000000267_20260401_506AC0000000066",
+  "law_type": "Act",
+  "law_title": "漁業法",
+  "law_title_kana": "ぎょぎょうほう",
+  "abbrev": null,
+  "category": "水産業",
+  "updated": "2026-04-01T01:05:35+09:00",
+  "amendment_promulgate_date": "2024-06-26",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000066",
+  "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324AC0000000267_20260401_506AC0000000066",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000066",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20240716_506AC0000000066",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2024-07-16",
+   "amendment_law_id": "506AC0000000066",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20240626_506AC0000000066",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2024-06-26",
+   "amendment_law_id": "506AC0000000066",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20220401_503AC0000000047",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000047",
+   "amendment_law_title": "少年法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20220401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20220401_430AC0000000059",
+   "amendment_promulgate_date": "2018-06-20",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "430AC0000000059",
+   "amendment_law_title": "民法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20201201_430AC0000000095",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "430AC0000000095",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律",
+   "amendment_law_num": "平成三十年法律第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20190601_501AC0000000001",
+   "amendment_promulgate_date": "2019-05-15",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "501AC0000000001",
+   "amendment_law_title": "国会議員の選挙等の執行経費の基準に関する法律及び公職選挙法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20181214_430AC0000000095",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2018-12-14",
+   "amendment_law_id": "430AC0000000095",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律",
+   "amendment_law_num": "平成三十年法律第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20181025_430AC0100000075",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2018-10-25",
+   "amendment_law_id": "430AC0100000075",
+   "amendment_law_title": "公職選挙法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20180620_430AC0000000059",
+   "amendment_promulgate_date": "2018-06-20",
+   "amendment_enforcement_date": "2018-06-20",
+   "amendment_law_id": "430AC0000000059",
+   "amendment_law_title": "民法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20170601_428AC0000000094",
+   "amendment_promulgate_date": "2016-12-02",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "428AC0000000094",
+   "amendment_law_title": "公職選挙法及び最高裁判所裁判官国民審査法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20170530_428AC0000000051",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000051",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20170410_428AC1000000025",
+   "amendment_promulgate_date": "2016-04-13",
+   "amendment_enforcement_date": "2017-04-10",
+   "amendment_law_id": "428AC1000000025",
+   "amendment_law_title": "公職選挙法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20160619_428AC0000000024",
+   "amendment_promulgate_date": "2016-04-11",
+   "amendment_enforcement_date": "2016-06-19",
+   "amendment_law_id": "428AC0000000024",
+   "amendment_law_title": "国会議員の選挙等の執行経費の基準に関する法律及び公職選挙法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000267_20160619_427AC1000000043",
+   "amendment_promulgate_date": "2015-06-19",
+   "amendment_enforcement_date": "2016-06-19",
+   "amendment_law_id": "427AC1000000043",
+   "amendment_law_title": "公職選挙法等の一部を改正する法律",
+   "amendment_law_num": "平成二十七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　水産資源の保存及び管理",
+  "第三章　許可漁業",
+  "第四章　漁業権及び沿岸漁場管理",
+  "第五章　漁業調整に関するその他の措置",
+  "第六章　漁業調整委員会等",
+  "第七章　土地及び土地の定着物の使用",
+  "第八章　内水面漁業",
+  "第九章　雑則",
+  "第十章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、漁業が国民に対して水産物を供給する使命を有し、かつ、漁業者の秩序ある生産活動がその使命の実現に不可欠であることに鑑み、水産資源の保存及び管理のための措置並びに漁業の許可及び免許に関する制度その他の漁業生産に関する基本的制度を定めることにより、水産資源の持続的な利用を確保するとともに、水面の総合的な利用を図り、もつて漁業生産力を発展させることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-12-15",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T01:05:35+09:00"
+ }
+}

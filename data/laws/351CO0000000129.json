@@ -1,0 +1,245 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "351CO0000000129",
+  "law_num": "昭和五十一年政令第百二十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 51,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "129",
+  "promulgation_date": "1976-05-31"
+ },
+ "revision_info": {
+  "law_revision_id": "351CO0000000129_20251122_507CO0000000386",
+  "law_type": "CabinetOrder",
+  "law_title": "石油コンビナート等災害防止法施行令",
+  "law_title_kana": "せきゆこんびなーととうさいがいぼうしほうしこうれい",
+  "abbrev": "石災法施行令",
+  "category": "災害対策",
+  "updated": "2025-12-05T10:19:25+09:00",
+  "amendment_promulgate_date": "2025-11-21",
+  "amendment_enforcement_date": "2025-11-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000386",
+  "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百八十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "351CO0000000129_20251122_507CO0000000386",
+   "amendment_promulgate_date": "2025-11-21",
+   "amendment_enforcement_date": "2025-11-22",
+   "amendment_law_id": "507CO0000000386",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20251122_507CO0000000385",
+   "amendment_promulgate_date": "2025-11-21",
+   "amendment_enforcement_date": "2025-11-22",
+   "amendment_law_id": "507CO0000000385",
+   "amendment_law_title": "石油コンビナート等災害防止法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20241207_506CO0000000359",
+   "amendment_promulgate_date": "2024-12-06",
+   "amendment_enforcement_date": "2024-12-07",
+   "amendment_law_id": "506CO0000000359",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20241023_506CO0000000315",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2024-10-23",
+   "amendment_law_id": "506CO0000000315",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20240401_505CO0000000334",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000334",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和五年政令第三百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20231221_505CO0000000276",
+   "amendment_promulgate_date": "2023-09-06",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "505CO0000000276",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20231028_505CO0000000310",
+   "amendment_promulgate_date": "2023-10-27",
+   "amendment_enforcement_date": "2023-10-28",
+   "amendment_law_id": "505CO0000000310",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20231028_505CO0000000309",
+   "amendment_promulgate_date": "2023-10-27",
+   "amendment_enforcement_date": "2023-10-28",
+   "amendment_law_id": "505CO0000000309",
+   "amendment_law_title": "石油コンビナート等災害防止法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20230531_505CO0000000194",
+   "amendment_promulgate_date": "2023-05-31",
+   "amendment_enforcement_date": "2023-05-31",
+   "amendment_law_id": "505CO0000000194",
+   "amendment_law_title": "石油コンビナート等災害防止法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20230320_504CO0000000364",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2023-03-20",
+   "amendment_law_id": "504CO0000000364",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20230302_505CO0000000043",
+   "amendment_promulgate_date": "2023-03-01",
+   "amendment_enforcement_date": "2023-03-02",
+   "amendment_law_id": "505CO0000000043",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20211125_503CO0000000314",
+   "amendment_promulgate_date": "2021-11-25",
+   "amendment_enforcement_date": "2021-11-25",
+   "amendment_law_id": "503CO0000000314",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20210401_503CO0000000066",
+   "amendment_promulgate_date": "2021-03-24",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000066",
+   "amendment_law_title": "電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20200909_502CO0000000272",
+   "amendment_promulgate_date": "2020-09-09",
+   "amendment_enforcement_date": "2020-09-09",
+   "amendment_law_id": "502CO0000000272",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20191220_501CO0000000195",
+   "amendment_promulgate_date": "2019-12-20",
+   "amendment_enforcement_date": "2019-12-20",
+   "amendment_law_id": "501CO0000000195",
+   "amendment_law_title": "石油コンビナート等災害防止法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20191220_501CO0000000194",
+   "amendment_promulgate_date": "2019-12-20",
+   "amendment_enforcement_date": "2019-12-20",
+   "amendment_law_id": "501CO0000000194",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20191216_501CO0000000183",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501CO0000000183",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20180831_430CO0000000248",
+   "amendment_promulgate_date": "2018-08-31",
+   "amendment_enforcement_date": "2018-08-31",
+   "amendment_law_id": "430CO0000000248",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000129_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　新設等の届出等",
+  "第三章　特定事業者に係る災害予防",
+  "第四章　石油コンビナート等防災本部等",
+  "第五章　緑地等の設置",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（高圧ガスから除かれる不活性ガス）",
+  "title": "第一条",
+  "paragraphs": [
+   "石油コンビナート等災害防止法（以下「法」という。）第二条第一号の政令で定める不活性ガスは、高圧ガス保安法（昭和二十六年法律第二百四号）第二条に規定する高圧ガスであるヘリウム、ネオン、アルゴン、クリプトン、キセノン、ラドン、窒素、二酸化炭素、フルオロカーボン（可燃性のものを除く。）及び空気（液化空気を除く。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1976-05-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-05T10:19:25+09:00"
+ }
+}

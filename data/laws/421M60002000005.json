@@ -1,0 +1,178 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "421M60002000005",
+  "law_num": "平成二十一年防衛省令第五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "005",
+  "promulgation_date": "2009-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "421M60002000005_20260703_508M60002000017",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "若年定年退職者給付金に関する省令",
+  "law_title_kana": "じゃくねんていねんたいしょくしゃきゅうふきんにかんするしょうれい",
+  "abbrev": null,
+  "category": "防衛",
+  "updated": "2026-07-27T09:36:08+09:00",
+  "amendment_promulgate_date": "2026-07-03",
+  "amendment_enforcement_date": "2026-07-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60002000017",
+  "amendment_law_title": "若年定年退職者給付金に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年防衛省令第十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421M60002000005_20260703_508M60002000017",
+   "amendment_promulgate_date": "2026-07-03",
+   "amendment_enforcement_date": "2026-07-03",
+   "amendment_law_id": "508M60002000017",
+   "amendment_law_title": "若年定年退職者給付金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20260401_508M60002000006",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60002000006",
+   "amendment_law_title": "防衛省職員の災害補償に関する省令及び若年定年退職者給付金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20260310_508M60002000004",
+   "amendment_promulgate_date": "2026-03-10",
+   "amendment_enforcement_date": "2026-03-10",
+   "amendment_law_id": "508M60002000004",
+   "amendment_law_title": "若年定年退職者給付金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20251224_507M60002000018",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507M60002000018",
+   "amendment_law_title": "防衛省職員の災害補償に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20250601_507M60002000011",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60002000011",
+   "amendment_law_title": "自衛隊法施行規則及び若年定年退職者給付金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20250401_507M60002000008",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60002000008",
+   "amendment_law_title": "防衛省の職員に対する寒冷地手当支給規則及び若年定年退職者給付金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20250324_507M60002000005",
+   "amendment_promulgate_date": "2025-03-21",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507M60002000005",
+   "amendment_law_title": "自衛隊法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20240401_506M60002000005",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60002000005",
+   "amendment_law_title": "防衛省職員給与施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20230401_505M60002000002",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60002000002",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律等の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和五年防衛省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20220128_504M60002000001",
+   "amendment_promulgate_date": "2022-01-28",
+   "amendment_enforcement_date": "2022-01-28",
+   "amendment_law_id": "504M60002000001",
+   "amendment_law_title": "若年定年退職者給付金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年防衛省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20201228_502M60002000012",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60002000012",
+   "amendment_law_title": "自衛隊法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年防衛省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20190701_501M60002000004",
+   "amendment_promulgate_date": "2019-06-26",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60002000004",
+   "amendment_law_title": "特別調達資金会計官及び特別調達資金出納命令官受入事務規程等の一部を改正する省令",
+   "amendment_law_num": "令和元年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60002000005_20160401_428M60002000011",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60002000011",
+   "amendment_law_num": "平成二十八年防衛省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（若年定年退職者給付金の支給期月）",
+  "title": "第一条",
+  "paragraphs": [
+   "防衛省の職員の給与等に関する法律（以下「法」という。）第二十七条の三第一項に規定する防衛省令で定める月は、次の各号に掲げる法第二十七条の二第一項に規定する若年定年退職者給付金（以下「給付金」という。）の区分に応じ、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-27T09:36:08+09:00"
+ }
+}

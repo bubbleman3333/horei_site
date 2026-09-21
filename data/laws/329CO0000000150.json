@@ -1,0 +1,433 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "329CO0000000150",
+  "law_num": "昭和二十九年政令第百五十号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "150",
+  "promulgation_date": "1954-06-19"
+ },
+ "revision_info": {
+  "law_revision_id": "329CO0000000150_20260701_508CO0000000217",
+  "law_type": "CabinetOrder",
+  "law_title": "関税法施行令",
+  "law_title_kana": "かんぜいほうしこうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-07-08T10:11:17+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000217",
+  "amendment_law_title": "家畜伝染病予防法施行令及び関税法施行令の一部を改正する等の政令",
+  "amendment_law_num": "令和八年政令第二百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329CO0000000150_20260701_508CO0000000217",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000217",
+   "amendment_law_title": "家畜伝染病予防法施行令及び関税法施行令の一部を改正する等の政令",
+   "amendment_law_num": "令和八年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20260701_508CO0000000215",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000215",
+   "amendment_law_title": "関税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20260601_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20260401_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20251012_505CO0000000179",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2025-10-12",
+   "amendment_law_id": "505CO0000000179",
+   "amendment_law_title": "関税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20250905_507CO0000000317",
+   "amendment_promulgate_date": "2025-09-05",
+   "amendment_enforcement_date": "2025-09-05",
+   "amendment_law_id": "507CO0000000317",
+   "amendment_law_title": "空港法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20250401_507CO0000000141",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000141",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20250401_506CO0000000372",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000372",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う関係政令の整理等に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20241001_506CO0000000158",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20240401_505CO0000000338",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000338",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20240101_505CO0000000158",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20231001_505CO0000000179",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000179",
+   "amendment_law_title": "関税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20231001_505CO0000000158",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20230401_505CO0000000158",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20221001_504CO0000000135",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000135",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20220401_504CO0000000135",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000135",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20220101_503CO0000000163",
+   "amendment_promulgate_date": "2021-06-04",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000163",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20220101_503CO0000000131",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000131",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20210401_503CO0000000131",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000131",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20210101_502CO0000000348",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000348",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20201001_502CO0000000128",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502CO0000000128",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20200401_502CO0000000128",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000128",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20200214_502CO0000000015",
+   "amendment_promulgate_date": "2020-01-29",
+   "amendment_enforcement_date": "2020-02-14",
+   "amendment_law_id": "502CO0000000015",
+   "amendment_law_title": "港湾法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20200101_501CO0000000184",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "501CO0000000184",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20190701_501CO0000000044",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000044",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20190701_501CO0000000041",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000041",
+   "amendment_law_title": "関税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20190701_431CO0000000133",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "431CO0000000133",
+   "amendment_law_title": "関税定率法及び関税暫定措置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十一年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20190401_431CO0000000133",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000133",
+   "amendment_law_title": "関税定率法及び関税暫定措置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十一年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20190317_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2019-03-17",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20190201_430CO0000000340",
+   "amendment_promulgate_date": "2018-12-19",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_law_id": "430CO0000000340",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20190101_430CO0000000142",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430CO0000000142",
+   "amendment_law_title": "国税通則法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20181230_429CO0000000006",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "429CO0000000006",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20180401_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20171008_428CO0000000240",
+   "amendment_promulgate_date": "2016-06-17",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428CO0000000240",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20170601_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000150_20170401_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第一章の二　関税の確定、納付、徴収及び還付",
+  "第二章　船舶及び航空機",
+  "第三章　保税地域",
+  "第四章　運送",
+  "第五章　通関",
+  "第五章の二　認定通関業者",
+  "第六章　収容及び留置",
+  "第七章　関税等不服審査会",
+  "第八章　雑則",
+  "第九章　犯則事件の調査及び処分"
+ ],
+ "article1": {
+  "caption": "（開港及び税関空港）",
+  "title": "第一条",
+  "paragraphs": [
+   "関税法（以下「法」という。）第二条第一項第十一号（開港）に規定する政令で定める港は、別表第一に掲げる港とする。ただし、第三項の規定により開港でなくなつた港を除くものとする。",
+   "法第二条第一項第十二号（税関空港）に規定する政令で定める空港は、別表第二に掲げる空港とする。",
+   "開港は、開港となつた年の翌年以後において次のいずれかに該当することとなつたときは、開港でなくなるものとする。この場合には、財務大臣は、直ちにその旨を告示しなければならない。",
+   "前項各号の期間は、一月一日を起算日として計算する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-06-19",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-08T10:11:17+09:00"
+ }
+}

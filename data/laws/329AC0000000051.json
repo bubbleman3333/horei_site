@@ -1,0 +1,220 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "329AC0000000051",
+  "law_num": "昭和二十九年法律第五十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "Act",
+  "law_num_num": "051",
+  "promulgation_date": "1954-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "329AC0000000051_20251225_506AC0000000067",
+  "law_type": "Act",
+  "law_title": "ガス事業法",
+  "law_title_kana": "がすじぎょうほう",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-14T09:29:28+09:00",
+  "amendment_promulgate_date": "2024-06-26",
+  "amendment_enforcement_date": "2025-12-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000067",
+  "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第六十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329AC0000000051_20251225_506AC0000000067",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2025-12-25",
+   "amendment_law_id": "506AC0000000067",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20241023_506AC0000000037",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-10-23",
+   "amendment_law_id": "506AC0000000037",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律",
+   "amendment_law_num": "令和六年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20240626_506AC0000000067",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2024-06-26",
+   "amendment_law_id": "506AC0000000067",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20240524_506AC0000000037",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506AC0000000037",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律",
+   "amendment_law_num": "令和六年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20231221_504AC0000000074",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "504AC0000000074",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20230116_504AC0000000080",
+   "amendment_promulgate_date": "2022-11-18",
+   "amendment_enforcement_date": "2023-01-16",
+   "amendment_law_id": "504AC0000000080",
+   "amendment_law_title": "ガス事業法及び独立行政法人エネルギー・金属鉱物資源機構法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20221118_504AC0000000080",
+   "amendment_promulgate_date": "2022-11-18",
+   "amendment_enforcement_date": "2022-11-18",
+   "amendment_law_id": "504AC0000000080",
+   "amendment_law_title": "ガス事業法及び独立行政法人エネルギー・金属鉱物資源機構法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20220901_504AC0000000074",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504AC0000000074",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20220622_504AC0000000074",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504AC0000000074",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20220401_502AC0000000049",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000049",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20220401_427AC0000000047",
+   "amendment_promulgate_date": "2015-06-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "427AC0000000047",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十七年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20190401_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20170531_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-05-31",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000051_20170401_427AC0000000047",
+   "amendment_promulgate_date": "2015-06-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "427AC0000000047",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十七年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　ガス小売事業",
+  "第三章　ガス導管事業",
+  "第四章　ガス製造事業",
+  "第五章　ガス事業以外のガスの供給等の事業",
+  "第六章　ガスの使用制限等",
+  "第七章　あつせん及び仲裁",
+  "第八章　指定試験機関及び登録ガス工作物検査機関",
+  "第九章　ガス用品",
+  "第十章　雑則",
+  "第十一章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、ガス事業の運営を調整することによつて、ガスの使用者の利益を保護し、及びガス事業の健全な発達を図るとともに、ガス工作物の工事、維持及び運用並びにガス用品の製造及び販売を規制することによつて、公共の安全を確保し、あわせて公害の防止を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-03-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-14T09:29:28+09:00"
+ }
+}

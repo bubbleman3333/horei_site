@@ -1,0 +1,278 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "337M50000040028",
+  "law_num": "昭和三十七年大蔵省令第二十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "028",
+  "promulgation_date": "1962-04-02"
+ },
+ "revision_info": {
+  "law_revision_id": "337M50000040028_20260521_507M60000040025",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国税通則法施行規則",
+  "law_title_kana": "こくぜいつうそくほうしこうきそく",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-05-21T01:27:07+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000040025",
+  "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年財務省令第二十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M50000040028_20261101_507M60000040025",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "507M60000040025",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20260521_507M60000040025",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507M60000040025",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20260401_507M60000040025",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000040025",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20250401_507M60000040025",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040025",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20241101_506M60000040022",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000040022",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20240401_505M60000040017",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000040017",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20240101_505M60000040017",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000040017",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20240101_504M60000040021",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504M60000040021",
+   "amendment_law_title": "国税通則法施行規則及び国税収納金整理資金事務取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20220401_504M60000040021",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040021",
+   "amendment_law_title": "国税通則法施行規則及び国税収納金整理資金事務取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20220104_503M60000040019",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-04",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040019",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20220101_503M60000040019",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040019",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20210401_503M60000040019",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040019",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20210101_502M60000040019",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040019",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20200401_431M60000040012",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040012",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20191216_501M60000040036",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040036",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20190701_431M60000040012",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040012",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20190107_430M60000040039",
+   "amendment_promulgate_date": "2018-04-18",
+   "amendment_enforcement_date": "2019-01-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040039",
+   "amendment_law_title": "国際観光旅客税法施行規則",
+   "amendment_law_num": "平成三十年財務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20190104_430M60000040023",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-04",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040023",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20180401_429M60000040023",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429M60000040023",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20180101_429M60000040023",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429M60000040023",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20180101_428M60000040021",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "428M60000040021",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十八年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040028_20170104_428M60000040021",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-01-04",
+   "amendment_law_id": "428M60000040021",
+   "amendment_law_num": "平成二十八年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（交付送達の手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "税務署その他の行政機関の職員（以下この項及び次項において「交付送達を行う職員」という。）は、国税通則法（昭和三十七年法律第六十六号。以下「法」という。）第十二条第四項又は第五項第一号（書類の送達）の規定により交付送達を行つた場合には、その交付を受けた者に対し、その旨を記載した書面に署名（記名を含む。以下この項において同じ。）を求めなければならない。この場合において、その者が署名の求めに応じないときは、交付送達を行う職員は、その理由を付記しなければならない。",
+   "交付送達を行う職員は、法第十二条第五項第二号の交付送達を行つた場合には、その旨を記載した書面を作成しなければならない。",
+   "第一項の規定は、税関の当該職員が、次の各号に掲げる場合において、法第十二条第四項ただし書の規定により当該各号に定める書類を交付したときは、適用しない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-04-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:27:07+09:00"
+ }
+}

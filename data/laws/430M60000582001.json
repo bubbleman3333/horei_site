@@ -1,0 +1,164 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "430M60000582001",
+  "law_num": "平成三十年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2018-05-07"
+ },
+ "revision_info": {
+  "law_revision_id": "430M60000582001_20260501_508M60000582001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行規則",
+  "law_title_kana": "いりょうぶんやのけんきゅうかいはつにしするためのとくめいかこういりょうじょうほうおよびかめいかこういりょうじょうほうにかんするほうりつしこうきそく",
+  "abbrev": "次世代医療基盤法施行規則",
+  "category": "厚生",
+  "updated": "2026-05-27T11:53:55+09:00",
+  "amendment_promulgate_date": "2026-04-30",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000582001",
+  "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行規則の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430M60000582001_20260501_508M60000582001",
+   "amendment_promulgate_date": "2026-04-30",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "508M60000582001",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20251201_507M60000582002",
+   "amendment_promulgate_date": "2025-12-01",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507M60000582002",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・文部科学省・厚生労働省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20250401_507M60000582001",
+   "amendment_promulgate_date": "2025-03-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000582001",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20240401_506M60000582001",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000582001",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20220401_503M60000582001",
+   "amendment_promulgate_date": "2021-09-27",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000582001",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20211001_503M60000582001",
+   "amendment_promulgate_date": "2021-09-27",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503M60000582001",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20201223_502M60000582001",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000582001",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・文部科学省・厚生労働省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20190914_501M60000582003",
+   "amendment_promulgate_date": "2019-09-05",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501M60000582003",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・文部科学省・厚生労働省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20190701_501M60000582002",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000582002",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・文部科学省・厚生労働省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20190627_501M60000582002",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-06-27",
+   "amendment_law_id": "501M60000582002",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・文部科学省・厚生労働省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000582001_20180511_000000000000000",
+   "amendment_promulgate_date": "2018-05-07",
+   "amendment_enforcement_date": "2018-05-11",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　認定匿名加工医療情報作成事業者及び匿名加工医療情報取扱事業者",
+  "第三章　認定仮名加工医療情報作成事業者及び認定仮名加工医療情報利用事業者",
+  "第四章　認定医療情報等取扱受託事業者",
+  "第五章　医療情報取扱事業者による認定匿名加工医療情報作成事業者又は認定仮名加工医療情報作成事業者に対する医療情報の提供",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則において使用する用語は、医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律（平成二十九年法律第二十八号。以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-05-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T11:53:55+09:00"
+ }
+}

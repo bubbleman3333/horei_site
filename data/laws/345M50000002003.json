@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "345M50000002003",
+  "law_num": "昭和四十五年総理府令第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "1970-03-02"
+ },
+ "revision_info": {
+  "law_revision_id": "345M50000002003_20260323_508M60002000005",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方総監部組織規則",
+  "law_title_kana": "ちほうそうかんぶそしききそく",
+  "abbrev": null,
+  "category": "防衛",
+  "updated": "2026-04-01T17:15:22+09:00",
+  "amendment_promulgate_date": "2026-03-13",
+  "amendment_enforcement_date": "2026-03-23",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60002000005",
+  "amendment_law_title": "陸上総隊司令部、方面総監部、師団司令部及び旅団司令部組織規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年防衛省令第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345M50000002003_20260323_508M60002000005",
+   "amendment_promulgate_date": "2026-03-13",
+   "amendment_enforcement_date": "2026-03-23",
+   "amendment_law_id": "508M60002000005",
+   "amendment_law_title": "陸上総隊司令部、方面総監部、師団司令部及び旅団司令部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345M50000002003_20250324_507M60002000005",
+   "amendment_promulgate_date": "2025-03-21",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507M60002000005",
+   "amendment_law_title": "自衛隊法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000002003_20170401_429M60002000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60002000004",
+   "amendment_law_num": "平成二十九年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（参事官）",
+  "title": "第一条",
+  "paragraphs": [
+   "横須賀地方総監部及び佐世保地方総監部に、それぞれ参事官一人を置く。",
+   "参事官は、事務官をもつて充てる。",
+   "参事官は、地方総監の命を受け、地方総監部の所掌事務の適正かつ円滑な遂行を図る見地から、地方公共団体その他の関係機関との連絡及び協力に関する重要事項についての企画及び立案に参画し、並びに地方総監部の事務に関し必要な調整を行う。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-03-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T17:15:22+09:00"
+ }
+}

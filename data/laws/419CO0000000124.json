@@ -1,0 +1,383 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "419CO0000000124",
+  "law_num": "平成十九年政令第百二十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "124",
+  "promulgation_date": "2007-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "419CO0000000124_20260731_508CO0000000244",
+  "law_type": "CabinetOrder",
+  "law_title": "特別会計に関する法律施行令",
+  "law_title_kana": "とくべつかいけいにかんするほうりつせこうれい",
+  "abbrev": "特別会計法施行令,特会法施行令",
+  "category": "財務通則",
+  "updated": "2026-08-17T13:10:05+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000244",
+  "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419CO0000000124_20261001_508CO0000000153",
+   "amendment_promulgate_date": "2026-04-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000153",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20260731_508CO0000000244",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000244",
+   "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20260527_508CO0000000180",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000180",
+   "amendment_law_title": "特別会計に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20260401_508CO0000000084",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000084",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20250804_507CO0000000276",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507CO0000000276",
+   "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20250418_507CO0000000181",
+   "amendment_promulgate_date": "2025-04-18",
+   "amendment_enforcement_date": "2025-04-18",
+   "amendment_law_id": "507CO0000000181",
+   "amendment_law_title": "特別会計に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20250401_507CO0000000140",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000140",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20250401_506CO0000000317",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000317",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20241001_506CO0000000289",
+   "amendment_promulgate_date": "2024-09-20",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000289",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20240517_506CO0000000186",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506CO0000000186",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20230630_505CO0000000222",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-06-30",
+   "amendment_law_id": "505CO0000000222",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和五年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20230401_505CO0000000100",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000100",
+   "amendment_law_title": "自動車損害賠償保障法及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20230401_505CO0000000068",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000068",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20220401_504CO0000000171",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000171",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20220401_504CO0000000037",
+   "amendment_promulgate_date": "2022-02-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000037",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20220401_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20220325_504CO0000000085",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-03-25",
+   "amendment_law_id": "504CO0000000085",
+   "amendment_law_title": "特別会計に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20220101_503CO0000000253",
+   "amendment_promulgate_date": "2021-09-10",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000253",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20201223_502CO0000000369",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502CO0000000369",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第三百六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20201125_502CO0000000329",
+   "amendment_promulgate_date": "2020-11-20",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_id": "502CO0000000329",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20200401_502CO0000000138",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000138",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20200401_501CO0000000155",
+   "amendment_promulgate_date": "2019-11-07",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000155",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令　抄",
+   "amendment_law_num": "令和元年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20191001_501CO0000000017",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000017",
+   "amendment_law_title": "子ども・子育て支援法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20180930_430CO0000000280",
+   "amendment_promulgate_date": "2018-09-28",
+   "amendment_enforcement_date": "2018-09-30",
+   "amendment_law_id": "430CO0000000280",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20180401_430CO0000000155",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000155",
+   "amendment_law_title": "子ども・子育て支援法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20180401_430CO0000000098",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000098",
+   "amendment_law_title": "特別会計に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20180401_430CO0000000055",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000055",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20180401_429CO0000000264",
+   "amendment_promulgate_date": "2017-10-25",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000264",
+   "amendment_law_title": "農業災害補償法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20170401_429CO0000000011",
+   "amendment_promulgate_date": "2017-01-27",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000011",
+   "amendment_law_title": "電気事業者による再生可能エネルギー電気の調達に関する特別措置法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20170401_429CO0000000004",
+   "amendment_promulgate_date": "2017-01-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000004",
+   "amendment_law_title": "貿易保険法及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令　抄",
+   "amendment_law_num": "平成二十九年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000124_20170401_428CO0000000372",
+   "amendment_promulgate_date": "2016-12-07",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000372",
+   "amendment_law_title": "漁業経営に関する補償制度の改善のための漁船損害等補償法及び漁業災害補償法の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　各特別会計の管理及び経理"
+ ],
+ "article1": {
+  "caption": "（歳入の会計年度所属区分）",
+  "title": "第一条",
+  "paragraphs": [
+   "次の各号に掲げる収入は、当該各号に定める年度の歳入とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-17T13:10:05+09:00"
+ }
+}

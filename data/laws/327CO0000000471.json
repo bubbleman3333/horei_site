@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "327CO0000000471",
+  "law_num": "昭和二十七年政令第四百七十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 27,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "471",
+  "promulgation_date": "1952-11-29"
+ },
+ "revision_info": {
+  "law_revision_id": "327CO0000000471_20260529_508CO0000000142",
+  "law_type": "CabinetOrder",
+  "law_title": "気象業務法施行令",
+  "law_title_kana": "きしょうぎょうむほうしこうれい",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2026-05-29T00:03:38+09:00",
+  "amendment_promulgate_date": "2026-04-17",
+  "amendment_enforcement_date": "2026-05-29",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000142",
+  "amendment_law_title": "気象業務法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百四十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "327CO0000000471_20260529_508CO0000000142",
+   "amendment_promulgate_date": "2026-04-17",
+   "amendment_enforcement_date": "2026-05-29",
+   "amendment_law_id": "508CO0000000142",
+   "amendment_law_title": "気象業務法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000471_20231130_505CO0000000299",
+   "amendment_promulgate_date": "2023-10-04",
+   "amendment_enforcement_date": "2023-11-30",
+   "amendment_law_id": "505CO0000000299",
+   "amendment_law_title": "気象業務法施行令及び計量法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000471_20130830_425CO0000000241",
+   "amendment_promulgate_date": "2013-08-26",
+   "amendment_enforcement_date": "2013-08-30",
+   "amendment_law_id": "425CO0000000241",
+   "amendment_law_num": "平成二十五年政令第二百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（気象測器の備付けを要する船舶）",
+  "title": "第一条",
+  "paragraphs": [
+   "気象業務法（以下「法」という。）第七条第一項の政令で定める船舶は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1952-11-29",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-29T00:03:38+09:00"
+ }
+}

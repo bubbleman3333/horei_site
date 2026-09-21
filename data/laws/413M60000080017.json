@@ -1,0 +1,172 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000080017",
+  "law_num": "平成十三年文部科学省令第十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "2001-01-06"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000080017_20260408_508M60000080023",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "文部科学省定員規則",
+  "law_title_kana": "もんぶかがくしょうていいんきそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-05-20T10:09:07+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080023",
+  "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省令第二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000080017_20260408_508M60000080023",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000080023",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20250401_507M60000080013",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000080013",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20240401_506M60000080015",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000080015",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20230401_505M60000080013",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000080013",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20220401_504M60000080009",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000080009",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20210901_503M60000080040",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000080040",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20210401_503M60000080020",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000080020",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20200401_502M60000080013",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000080013",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20190401_431M60000080010",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000080010",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20190101_430M60000080036",
+   "amendment_promulgate_date": "2018-12-27",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000080036",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20180401_430M60000080016",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000080016",
+   "amendment_law_title": "文部科学省定員規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080017_20170401_429M60000080016",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000080016",
+   "amendment_law_num": "平成二十九年文部科学省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（本省及び各外局別の定員）",
+  "title": "第一条",
+  "paragraphs": [
+   "文部科学省の本省及び各外局別の定員は、次の表のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-01-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T10:09:07+09:00"
+ }
+}

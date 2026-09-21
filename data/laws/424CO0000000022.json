@@ -1,0 +1,259 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "424CO0000000022",
+  "law_num": "平成二十四年政令第二十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "022",
+  "promulgation_date": "2012-02-01"
+ },
+ "revision_info": {
+  "law_revision_id": "424CO0000000022_20260401_508CO0000000081",
+  "law_type": "CabinetOrder",
+  "law_title": "復興庁組織令",
+  "law_title_kana": "ふっこうちょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-20T10:10:28+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000081",
+  "amendment_law_title": "復興庁組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第八十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424CO0000000022_20260401_508CO0000000081",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000081",
+   "amendment_law_title": "復興庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20250401_507CO0000000146",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000146",
+   "amendment_law_title": "復興庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20241120_506CO0000000345",
+   "amendment_promulgate_date": "2024-11-20",
+   "amendment_enforcement_date": "2024-11-20",
+   "amendment_law_id": "506CO0000000345",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20240401_506CO0000000081",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000081",
+   "amendment_law_title": "復興庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20230401_504CO0000000177",
+   "amendment_promulgate_date": "2022-04-20",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000177",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20220401_503CO0000000292",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000292",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する等の政令",
+   "amendment_law_num": "令和三年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20210401_503CO0000000109",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000109",
+   "amendment_law_title": "内閣府本府組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20210401_503CO0000000079",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000079",
+   "amendment_law_title": "復興庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20210401_502CO0000000300",
+   "amendment_promulgate_date": "2020-10-02",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502CO0000000300",
+   "amendment_law_title": "復興庁設置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20201002_502CO0000000300",
+   "amendment_promulgate_date": "2020-10-02",
+   "amendment_enforcement_date": "2020-10-02",
+   "amendment_law_id": "502CO0000000300",
+   "amendment_law_title": "復興庁設置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20200107_501CO0000000136",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_law_id": "501CO0000000136",
+   "amendment_law_title": "特定複合観光施設区域整備法の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20191211_501CO0000000177",
+   "amendment_promulgate_date": "2019-12-10",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501CO0000000177",
+   "amendment_law_title": "特定秘密の保護に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20190401_431CO0000000126",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000126",
+   "amendment_law_title": "復興庁組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20190401_431CO0000000053",
+   "amendment_promulgate_date": "2019-03-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000053",
+   "amendment_law_title": "内閣法制局設置法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20170530_429CO0000000019",
+   "amendment_promulgate_date": "2017-02-15",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "429CO0000000019",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20170530_428CO0000000324",
+   "amendment_promulgate_date": "2016-10-05",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "428CO0000000324",
+   "amendment_law_title": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20160401_428CO0000000032",
+   "amendment_promulgate_date": "2016-01-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000032",
+   "amendment_law_title": "障害を理由とする差別の解消の推進に関する法律施行令",
+   "amendment_law_num": "平成二十八年政令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20160401_427CO0000000392",
+   "amendment_promulgate_date": "2015-11-26",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000392",
+   "amendment_law_title": "行政不服審査法及び行政不服審査法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第三百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000022_20160401_427CO0000000318",
+   "amendment_promulgate_date": "2015-09-04",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000318",
+   "amendment_law_title": "女性の職業生活における活躍の推進に関する法律施行令",
+   "amendment_law_num": "平成二十七年政令第三百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（統括官）",
+  "title": "第一条",
+  "paragraphs": [
+   "復興庁に、統括官二人を置く。",
+   "統括官は、命を受けて、復興庁設置法第四条第一項及び第二項に規定する事務のほか、次に掲げる事務を分掌する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-02-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T10:10:28+09:00"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "429M60000040031",
+  "law_num": "平成二十九年財務省令第三十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "031",
+  "promulgation_date": "2017-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "429M60000040031_20260731_508M60000040053",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "貿易保険法に規定する法人税に係る課税の特例に関する省令",
+  "law_title_kana": "ぼうえきほけんほうにきていするほうじんぜいにかかるかぜいのとくれいにかんするしょうれい",
+  "abbrev": null,
+  "category": "外国為替・貿易",
+  "updated": "2026-08-18T11:35:04+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040053",
+  "amendment_law_title": "貿易保険法に規定する法人税に係る課税の特例に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "429M60000040031_20260731_508M60000040053",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508M60000040053",
+   "amendment_law_title": "貿易保険法に規定する法人税に係る課税の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "429M60000040031_20220401_502M60000040056",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040056",
+   "amendment_law_title": "法人税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000040031_20170401_000000000000000",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "貿易保険法（以下「法」という。）第三十七条第一項に規定する財務省令で定める金額は、当該事業年度（法人税法（昭和四十年法律第三十四号）第十三条及び第十四条に規定する事業年度をいう。）終了の時において貿易保険法施行規則（平成十三年経済産業省令第百五号）第十一条第一項の規定により積み立てる責任準備金の金額のうち、同項第二号に定める金額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2017-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-18T11:35:04+09:00"
+ }
+}

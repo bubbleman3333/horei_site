@@ -1,0 +1,210 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "425AC0000000055",
+  "law_num": "平成二十五年法律第五十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "055",
+  "promulgation_date": "2013-06-21"
+ },
+ "revision_info": {
+  "law_revision_id": "425AC0000000055_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "大規模災害からの復興に関する法律",
+  "law_title_kana": "だいきぼさいがいからのふっこうにかんするほうりつ",
+  "abbrev": "大規模災害復興法",
+  "category": "災害対策",
+  "updated": "2026-07-23T14:43:10+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425AC0000000055_20280716_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2028-07-16",
+   "amendment_enforcement_comment": "防災庁設置法附則第一条第二号に掲げる規定の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-07-16",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20250901_507AC0000000055",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507AC0000000055",
+   "amendment_law_title": "航空法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20250701_507AC0000000051",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507AC0000000051",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20250604_507AC0000000051",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-06-04",
+   "amendment_law_id": "507AC0000000051",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20240401_505AC0000000034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000034",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20210715_503AC0000000031",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_law_id": "503AC0000000031",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20200610_502AC0000000041",
+   "amendment_promulgate_date": "2020-06-10",
+   "amendment_enforcement_date": "2020-06-10",
+   "amendment_law_id": "502AC0000000041",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和二年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20181116_430AC0000000023",
+   "amendment_promulgate_date": "2018-05-18",
+   "amendment_enforcement_date": "2018-11-16",
+   "amendment_law_id": "430AC0000000023",
+   "amendment_law_title": "農業経営基盤強化促進法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20170925_429AC0000000039",
+   "amendment_promulgate_date": "2017-05-26",
+   "amendment_enforcement_date": "2017-09-25",
+   "amendment_law_id": "429AC0000000039",
+   "amendment_law_title": "土地改良法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20170426_429AC0000000025",
+   "amendment_promulgate_date": "2017-04-26",
+   "amendment_enforcement_date": "2017-04-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000025",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十九年法律第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000055_20160520_428AC0000000047",
+   "amendment_promulgate_date": "2016-05-20",
+   "amendment_enforcement_date": "2016-05-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000047",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　復興対策本部及び復興基本方針等",
+  "第三章　復興のための特別の措置",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、大規模な災害を受けた地域の円滑かつ迅速な復興を図るため、その基本理念、政府による復興対策本部の設置及び復興基本方針の策定並びに復興のための特別の措置について定めることにより、大規模な災害からの復興に向けた取組の推進を図り、もって住民が安心して豊かな生活を営むことができる地域社会の実現に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-06-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-23T14:43:10+09:00"
+ }
+}

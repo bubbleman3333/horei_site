@@ -1,0 +1,71 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000110004",
+  "law_num": "令和七年法務省・厚生労働省令第四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "004",
+  "promulgation_date": "2025-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000110004_20251001_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律施行規則",
+  "law_title_kana": "がいこくじんのいくせいしゅうろうのてきせいなじっしおよびいくせいしゅうろうがいこくじんのほごにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "外事",
+  "updated": "2025-10-16T17:04:04+09:00",
+  "amendment_promulgate_date": "2025-09-30",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000110004_20270401_508M60000110003",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000110003",
+   "amendment_law_title": "外国人の育成就労の適正な実施及び育成就労外国人の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省・厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507M60000110004_20270401_000000000000000",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507M60000110004_20251001_000000000000000",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　育成就労",
+  "第三章　外国人育成就労機構",
+  "第四章　雑則"
+ ],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2025-09-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-16T17:04:04+09:00"
+ }
+}

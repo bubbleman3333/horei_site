@@ -1,0 +1,58 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "508M60400000008",
+  "law_num": "令和八年国家公安委員会規則第八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Rule",
+  "law_num_num": "008",
+  "promulgation_date": "2026-05-07"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60400000008_20260601_000000000000000",
+  "law_type": "Rule",
+  "law_title": "盗難特定金属製物品の処分の防止等に関する法律施行規則",
+  "law_title_kana": "とうなんとくていきんぞくせいぶっぴんのしょぶんのぼうしとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-06-01T02:15:49+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60400000008_20260601_000000000000000",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定金属くず買受業の開始の届出）",
+  "title": "第一条",
+  "paragraphs": [
+   "盗難特定金属製物品の処分の防止等に関する法律（以下「法」という。）第三条第一項の規定による届出は、別記様式第一号の営業開始届出書（以下この条において「開始届出書」という。）を提出することにより行うものとする。",
+   "前項の規定により都道府県公安委員会（以下この条及び次条において「公安委員会」という。）に開始届出書を提出する場合においては、当該開始届出書に係る営業所（法第三条第一項に規定する営業所をいう。以下この条及び次条において同じ。）の所在地を管轄する警察署長を経由して、当該特定金属くず買受業を開始しようとする日の前日までに、一通の開始届出書を提出しなければならない。",
+   "一の公安委員会に対して同時に二以上の営業所について開始届出書を提出するときは、前項の規定にかかわらず、それらの営業所のうちいずれか一の営業所の所在地を管轄する警察署長を経由して提出すれば足りる。",
+   "法第三条第一項の国家公安委員会規則で定める事項は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-05-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T02:15:49+09:00"
+ }
+}

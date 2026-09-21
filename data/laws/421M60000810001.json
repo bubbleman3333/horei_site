@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "421M60000810001",
+  "law_num": "平成二十一年法務省・国土交通省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2009-08-26"
+ },
+ "revision_info": {
+  "law_revision_id": "421M60000810001_20260521_508M60000810001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "住宅建設瑕疵担保保証金及び住宅販売瑕疵担保保証金に関する規則",
+  "law_title_kana": "じゅうたくけんせつかしたんぽほしょうきんおよびじゅうたくはんばいかしたんぽほしょうきんにかんするきそく",
+  "abbrev": null,
+  "category": "建築・住宅",
+  "updated": "2026-06-02T13:10:36+09:00",
+  "amendment_promulgate_date": "2026-05-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000810001",
+  "amendment_law_title": "住宅建設瑕疵担保保証金及び住宅販売瑕疵担保保証金に関する規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省・国土交通省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421M60000810001_20260521_508M60000810001",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000810001",
+   "amendment_law_title": "住宅建設瑕疵担保保証金及び住宅販売瑕疵担保保証金に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421M60000810001_20251001_507M60000810001",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000810001",
+   "amendment_law_title": "住宅建設瑕疵担保保証金及び住宅販売瑕疵担保保証金に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000810001_20220901_504M60000810001",
+   "amendment_promulgate_date": "2022-07-29",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504M60000810001",
+   "amendment_law_title": "積立式宅地建物販売業者営業保証金規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000810001_20210101_502M60000810002",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000810002",
+   "amendment_law_title": "住宅建設瑕疵担保保証金及び住宅販売瑕疵担保保証金に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000810001_20200401_502M60000810001",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000810001",
+   "amendment_law_title": "住宅建設瑕疵担保保証金及び住宅販売瑕疵担保保証金に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000810001_20091001_000000000000000",
+   "amendment_promulgate_date": "2009-08-26",
+   "amendment_enforcement_date": "2009-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　住宅建設瑕疵担保保証金",
+  "第二章　住宅販売瑕疵担保保証金"
+ ],
+ "article1": {
+  "caption": "（住宅建設瑕疵担保保証金の還付請求の添付書類）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定住宅瑕疵担保責任の履行の確保等に関する法律（以下「法」という。）第六条第二項の規定により住宅建設<Ruby>瑕疵<Rt>かし</Rt></Ruby>担保保証金の還付を受けようとする者が供託規則（昭和三十四年法務省令第二号）第二十四条第一項第一号の規定により供託物払渡請求書に添付すべき書面は、次の各号に掲げる場合に応じそれぞれ当該各号に定める書面とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-08-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-02T13:10:36+09:00"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000400249",
+  "law_num": "平成十三年経済産業省令第二百四十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "249",
+  "promulgation_date": "2001-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000400249_20251009_507M60000400061",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "輸出貨物が核兵器等の開発等のために用いられるおそれがある場合を定める省令",
+  "law_title_kana": "ゆしゅつかもつがかくへいきとうのかいはつとうのためにもちいられるおそれがあるばあいをさだめるしょうれい",
+  "abbrev": null,
+  "category": "外国為替・貿易",
+  "updated": "2025-10-09T00:15:34+09:00",
+  "amendment_promulgate_date": "2025-09-18",
+  "amendment_enforcement_date": "2025-10-09",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000400061",
+  "amendment_law_title": "輸出貨物が核兵器等の開発等のために用いられるおそれがある場合を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和七年経済産業省令第六十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000400249_20251009_507M60000400061",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-10-09",
+   "amendment_law_id": "507M60000400061",
+   "amendment_law_title": "輸出貨物が核兵器等の開発等のために用いられるおそれがある場合を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400249_20251009_507M60000400038",
+   "amendment_promulgate_date": "2025-04-09",
+   "amendment_enforcement_date": "2025-10-09",
+   "amendment_law_id": "507M60000400038",
+   "amendment_law_title": "輸出貨物が核兵器等の開発等のために用いられるおそれがある場合を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400249_20131015_425M60000400051",
+   "amendment_promulgate_date": "2013-09-27",
+   "amendment_enforcement_date": "2013-10-15",
+   "amendment_law_id": "425M60000400051",
+   "amendment_law_num": "平成二十五年経済産業省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "輸出貿易管理令（昭和二十四年政令第三百七十八号）第四条第一項第三号イ及び第四号イの規定に基づき、輸出貨物が核兵器等の開発等のために用いられるおそれがある場合は、次に掲げるときとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-12-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-09T00:15:34+09:00"
+ }
+}

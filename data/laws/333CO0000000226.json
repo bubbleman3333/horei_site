@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "333CO0000000226",
+  "law_num": "昭和三十三年政令第二百二十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "226",
+  "promulgation_date": "1958-07-21"
+ },
+ "revision_info": {
+  "law_revision_id": "333CO0000000226_20220501_504CO0000000039",
+  "law_type": "CabinetOrder",
+  "law_title": "臨床検査技師等に関する法律施行令",
+  "law_title_kana": "りんしょうけんさぎしとうにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2024-04-15T11:20:16+09:00",
+  "amendment_promulgate_date": "2022-02-09",
+  "amendment_enforcement_date": "2022-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504CO0000000039",
+  "amendment_law_title": "診療放射線技師法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和四年政令第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333CO0000000226_20261001_508CO0000000218",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000218",
+   "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000226_20220501_504CO0000000039",
+   "amendment_promulgate_date": "2022-02-09",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "504CO0000000039",
+   "amendment_law_title": "診療放射線技師法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000226_20220401_502CO0000000366",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000366",
+   "amendment_law_title": "臨床検査技師等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000226_20211001_503CO0000000202",
+   "amendment_promulgate_date": "2021-07-09",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503CO0000000202",
+   "amendment_law_title": "臨床検査技師等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000226_20210709_503CO0000000202",
+   "amendment_promulgate_date": "2021-07-09",
+   "amendment_enforcement_date": "2021-07-09",
+   "amendment_law_id": "503CO0000000202",
+   "amendment_law_title": "臨床検査技師等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000226_20181201_430CO0000000230",
+   "amendment_promulgate_date": "2018-07-27",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_law_id": "430CO0000000230",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "平成三十年政令第二百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000226_20150401_427CO0000000128",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000128",
+   "amendment_law_num": "平成二十七年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000226_20150401_427CO0000000046",
+   "amendment_promulgate_date": "2015-02-12",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000046",
+   "amendment_law_num": "平成二十七年政令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（免許の申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "臨床検査技師の免許を受けようとする者は、申請書に厚生労働省令で定める書類を添え、住所地の都道府県知事を経由して、これを厚生労働大臣に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-07-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2024-04-15T11:20:16+09:00"
+ }
+}

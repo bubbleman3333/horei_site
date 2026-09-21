@@ -1,0 +1,282 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "401AC0000000083",
+  "law_num": "平成元年法律第八十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 1,
+  "law_num_type": "Act",
+  "law_num_num": "083",
+  "promulgation_date": "1989-12-19"
+ },
+ "revision_info": {
+  "law_revision_id": "401AC0000000083_20260521_505AC0000000063",
+  "law_type": "Act",
+  "law_title": "貨物自動車運送事業法",
+  "law_title_kana": "かもつじどうしゃうんそうじぎょうほう",
+  "abbrev": null,
+  "category": "貨物運送",
+  "updated": "2026-05-21T01:50:30+09:00",
+  "amendment_promulgate_date": "2023-06-16",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000063",
+  "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "401AC0000000083_20280610_507AC1000000060",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2028-06-10",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-10",
+   "amendment_law_id": "507AC1000000060",
+   "amendment_law_title": "貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20260521_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20260401_507AC1000000060",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC1000000060",
+   "amendment_law_title": "貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20260401_506AC0000000023",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000023",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20260101_507AC0000000041",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507AC0000000041",
+   "amendment_law_title": "下請代金支払遅延等防止法及び下請中小企業振興法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20250611_507AC1000000060",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2025-06-11",
+   "amendment_law_id": "507AC1000000060",
+   "amendment_law_title": "貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20250401_506AC0000000023",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000023",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20241101_506AC0000000023",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506AC0000000023",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20240801_506AC0000000023",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2024-08-01",
+   "amendment_law_id": "506AC0000000023",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20240601_506AC0000000023",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506AC0000000023",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20240515_506AC0000000023",
+   "amendment_promulgate_date": "2024-05-15",
+   "amendment_enforcement_date": "2024-05-15",
+   "amendment_law_id": "506AC0000000023",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20230616_505AC1000000062",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC1000000062",
+   "amendment_law_title": "貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20191214_430AC1000000096",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "430AC1000000096",
+   "amendment_law_title": "貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20191101_430AC1000000096",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2019-11-01",
+   "amendment_law_id": "430AC1000000096",
+   "amendment_law_title": "貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20190701_430AC1000000096",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "430AC1000000096",
+   "amendment_law_title": "貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000083_20170116_428AC1000000106",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2017-01-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC1000000106",
+   "amendment_law_title": "道路運送法及び貨物自動車運送事業法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　一般貨物自動車運送事業",
+  "第三章　特定貨物自動車運送事業",
+  "第四章　貨物軽自動車運送事業",
+  "第五章　貨物利用運送事業者に関する特例",
+  "第六章　民間団体等による貨物自動車運送の適正化に関する事業の推進",
+  "第七章　指定試験機関等",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、貨物自動車運送事業の運営を適正かつ合理的なものとするとともに、貨物自動車運送に関するこの法律及びこの法律に基づく措置の遵守等を図るための民間団体等による自主的な活動を促進することにより、輸送の安全を確保するとともに、貨物自動車運送事業の健全な発達を図り、もって公共の福祉の増進に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1989-12-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:50:30+09:00"
+ }
+}

@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="ja">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{% block title %}{{ site.name }} | {{ site.tagline }}{% endblock %}</title>
+<meta name="description" content="{% block description %}{{ site.description }}{% endblock %}">
+{% if noindex %}<meta name="robots" content="noindex">{% endif %}
+<link rel="canonical" href="{{ canonical }}">
+<link rel="alternate" type="application/rss+xml" title="{{ site.name }} 新着" href="{{ url('feed.xml') }}">
+<link rel="stylesheet" href="{{ url('static/style.css') }}">
+<link rel="icon" href="{{ url('static/favicon.svg') }}" type="image/svg+xml">
+<meta property="og:site_name" content="{{ site.name }}">
+<meta property="og:type" content="{% block ogtype %}website{% endblock %}">
+<meta property="og:title" content="{{ self.title() }}">
+<meta property="og:description" content="{{ self.description() }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta property="og:locale" content="ja_JP">
+<meta name="twitter:card" content="summary">
+{{ ads.head|safe }}
+{% block head %}{% endblock %}
+</head>
+<body>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="{{ url() }}">{{ site.name }}</a>
+    <nav>
+      <a href="{{ url('enforced/this-week/') }}">今週の施行</a>
+      <a href="{{ url('promulgated/this-week/') }}">今週の公布</a>
+      <a href="{{ url('upcoming/next-month/') }}">来月施行</a>
+      <a href="{{ url('upcoming/') }}">施行予定</a>
+      <a href="{{ url('new/') }}">新しい法令</a>
+      <a href="{{ url('amended/') }}">最近の改正</a>
+      <a href="{{ url('category/') }}">分野別</a>
+      <a href="{{ url('type/') }}">種別</a>
+      <a href="{{ url('ministry/') }}">府省別</a>
+      <a href="{{ url('monthly/') }}">月別</a>
+    </nav>
+    <form class="search-form" action="{{ url('search/') }}" method="get" role="search">
+      <input type="search" name="q" placeholder="法令名で検索" aria-label="検索">
+      <button type="submit">検索</button>
+    </form>
+  </div>
+</header>
+<div class="wrap layout">
+  <main class="content">
+    {% block content %}{% endblock %}
+  </main>
+  <aside class="sidebar">
+    {% if ads.sidebar %}<div class="ad">{{ ads.sidebar|safe }}</div>{% endif %}
+    <section class="box">
+      <h2>まもなく施行</h2>
+      <ul class="compact">
+      {% for x in sidebar_upcoming %}
+        <li><a href="{{ url(x.path) }}">{{ x.title }}</a><span class="meta">{{ x.next_enforcement(today)|date }}（あと{{ x.days_until(today) }}日）</span></li>
+      {% else %}
+        <li class="meta">直近に施行が決まっている法令はありません。</li>
+      {% endfor %}
+      </ul>
+      <a class="more" href="{{ url('upcoming/') }}">施行予定をすべて見る</a>
+    </section>
+    <section class="box">
+      <h2>施行日をカレンダーに入れる</h2>
+      <p class="small">Google カレンダーや iPhone の「照会カレンダー」に登録すると、施行日が自動で入ります。</p>
+      <a class="more" href="{{ url('calendar.ics') }}">施行日カレンダー（ics）</a>
+    </section>
+    <section class="box">
+      <h2>最近施行された改正</h2>
+      <ul class="compact">
+      {% for x in sidebar_enforced %}
+        <li><a href="{{ url(x.path) }}">{{ x.title }}</a><span class="meta">{{ x.enforced|date }} 施行</span></li>
+      {% endfor %}
+      </ul>
+      <a class="more" href="{{ url('amended/') }}">最近の改正をすべて見る</a>
+    </section>
+    <section class="box">
+      <h2>分野から探す</h2>
+      <div class="chips">
+      {% for name, slug, n in category_index[:24] %}<a href="{{ url('category/' ~ slug ~ '/') }}">{{ name }}<small>{{ n }}</small></a>{% endfor %}
+      </div>
+      <a class="more" href="{{ url('category/') }}">分野の一覧へ</a>
+    </section>
+    <section class="box">
+      <h2>月ごとのまとめ</h2>
+      <ul class="compact">
+      {% for m, n in month_index %}<li><a href="{{ url('monthly/' ~ m ~ '/') }}">{{ m[:4] }}年{{ m[5:]|int }}月</a><span class="meta">{{ n }} 件</span></li>{% endfor %}
+      </ul>
+    </section>
+  </aside>
+</div>
+<footer class="site-footer">
+  <div class="wrap">
+    <p>掲載データは<a href="https://laws.e-gov.go.jp/" rel="noopener" target="_blank">e-Gov 法令検索</a>（デジタル庁）の法令 API から毎日自動で取り込んでいます（生成 {{ today|date }}）。掲載は取得時点のもので、施行日は政令で後から変わることがあります。実務で使う前に必ず e-Gov 法令検索の原文をご確認ください。</p>
+    <p><a href="{{ url('about/') }}">このサイトについて</a> ・ <a href="{{ url('privacy/') }}">プライバシーポリシー</a> ・ <a href="{{ url('search/') }}">検索</a> ・ <a href="{{ url('feed.xml') }}">RSS</a> ・ <a href="{{ url('calendar.ics') }}">施行日カレンダー</a> ・ 掲載 {{ stats.total }} 件</p>
+    <p>&copy; {{ today.year }} {{ site.name }}</p>
+  </div>
+</footer>
+</body>
+</html>

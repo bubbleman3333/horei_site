@@ -1,0 +1,133 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "332AC0000000079",
+  "law_num": "昭和三十二年法律第七十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 32,
+  "law_num_type": "Act",
+  "law_num_num": "079",
+  "promulgation_date": "1957-04-25"
+ },
+ "revision_info": {
+  "law_revision_id": "332AC0000000079_20251001_507AC0000000022",
+  "law_type": "Act",
+  "law_title": "高速自動車国道法",
+  "law_title_kana": "こうそくじどうしゃこくどうほう",
+  "abbrev": null,
+  "category": "道路",
+  "updated": "2025-10-01T13:26:59+09:00",
+  "amendment_promulgate_date": "2025-04-16",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000022",
+  "amendment_law_title": "道路法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "332AC0000000079_20251001_507AC0000000022",
+   "amendment_promulgate_date": "2025-04-16",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507AC0000000022",
+   "amendment_law_title": "道路法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "332AC0000000079_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332AC0000000079_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332AC0000000079_20210925_503AC0000000009",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-09-25",
+   "amendment_law_id": "503AC0000000009",
+   "amendment_law_title": "踏切道改良促進法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332AC0000000079_20210401_503AC0000000009",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503AC0000000009",
+   "amendment_law_title": "踏切道改良促進法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332AC0000000079_20201125_502AC0000000031",
+   "amendment_promulgate_date": "2020-05-27",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_id": "502AC0000000031",
+   "amendment_law_title": "道路法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332AC0000000079_20180930_430AC0000000006",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-09-30",
+   "amendment_law_id": "430AC0000000006",
+   "amendment_law_title": "道路法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332AC0000000079_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　管理",
+  "第三章　雑則",
+  "第四章　罰則"
+ ],
+ "article1": {
+  "caption": "（この法律の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、高速自動車国道に関して、道路法（昭和二十七年法律第百八十号）に定めるもののほか、路線の指定、整備計画、管理、構造、保全等に関する事項を定め、もつて高速自動車国道の整備を図り、自動車交通の発達に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1957-04-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T13:26:59+09:00"
+ }
+}

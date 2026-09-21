@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "351CO0000000192",
+  "law_num": "昭和五十一年政令第百九十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 51,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "192",
+  "promulgation_date": "1976-07-09"
+ },
+ "revision_info": {
+  "law_revision_id": "351CO0000000192_20251122_507CO0000000386",
+  "law_type": "CabinetOrder",
+  "law_title": "石油コンビナート等特別防災区域を指定する政令",
+  "law_title_kana": "せきゆこんびなーととうとくべつぼうさいくいきをしていするせいれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2025-12-05T10:19:29+09:00",
+  "amendment_promulgate_date": "2025-11-21",
+  "amendment_enforcement_date": "2025-11-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000386",
+  "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百八十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "351CO0000000192_20251122_507CO0000000386",
+   "amendment_promulgate_date": "2025-11-21",
+   "amendment_enforcement_date": "2025-11-22",
+   "amendment_law_id": "507CO0000000386",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000192_20241207_506CO0000000359",
+   "amendment_promulgate_date": "2024-12-06",
+   "amendment_enforcement_date": "2024-12-07",
+   "amendment_law_id": "506CO0000000359",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000192_20231028_505CO0000000310",
+   "amendment_promulgate_date": "2023-10-27",
+   "amendment_enforcement_date": "2023-10-28",
+   "amendment_law_id": "505CO0000000310",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000192_20211125_503CO0000000314",
+   "amendment_promulgate_date": "2021-11-25",
+   "amendment_enforcement_date": "2021-11-25",
+   "amendment_law_id": "503CO0000000314",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000192_20200909_502CO0000000272",
+   "amendment_promulgate_date": "2020-09-09",
+   "amendment_enforcement_date": "2020-09-09",
+   "amendment_law_id": "502CO0000000272",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000192_20191220_501CO0000000194",
+   "amendment_promulgate_date": "2019-12-20",
+   "amendment_enforcement_date": "2019-12-20",
+   "amendment_law_id": "501CO0000000194",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000192_20180831_430CO0000000248",
+   "amendment_promulgate_date": "2018-08-31",
+   "amendment_enforcement_date": "2018-08-31",
+   "amendment_law_id": "430CO0000000248",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000192_20151204_505CO0000000043",
+   "amendment_promulgate_date": "2015-12-04",
+   "amendment_enforcement_date": "2015-12-04",
+   "amendment_law_id": "505CO0000000043",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351CO0000000192_20151204_427CO0000000404",
+   "amendment_promulgate_date": "2015-12-04",
+   "amendment_enforcement_date": "2015-12-04",
+   "amendment_law_id": "427CO0000000404",
+   "amendment_law_title": "石油コンビナート等特別防災区域を指定する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第四百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "石油コンビナート等災害防止法第二条第二号に規定する政令で指定する区域は、別表各号に掲げる地区ごとの区域とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1976-07-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-05T10:19:29+09:00"
+ }
+}

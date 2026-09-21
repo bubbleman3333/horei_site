@@ -1,0 +1,392 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "326M50000800067",
+  "law_num": "昭和二十六年運輸省令第六十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "067",
+  "promulgation_date": "1951-07-28"
+ },
+ "revision_info": {
+  "law_revision_id": "326M50000800067_20260604_508M60000800059",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "道路運送車両の保安基準",
+  "law_title_kana": "どうろうんそうしゃりょうのほあんきじゅん",
+  "abbrev": null,
+  "category": "陸運",
+  "updated": "2026-06-16T11:09:13+09:00",
+  "amendment_promulgate_date": "2026-06-04",
+  "amendment_enforcement_date": "2026-06-04",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800059",
+  "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326M50000800067_20260604_508M60000800059",
+   "amendment_promulgate_date": "2026-06-04",
+   "amendment_enforcement_date": "2026-06-04",
+   "amendment_law_id": "508M60000800059",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20260216_508M60000800009",
+   "amendment_promulgate_date": "2026-02-16",
+   "amendment_enforcement_date": "2026-02-16",
+   "amendment_law_id": "508M60000800009",
+   "amendment_law_title": "道路運送車両の保安基準及び道路運送車両法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20260111_508M60000800001",
+   "amendment_promulgate_date": "2026-01-09",
+   "amendment_enforcement_date": "2026-01-11",
+   "amendment_law_id": "508M60000800001",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20250926_507M60000800092",
+   "amendment_promulgate_date": "2025-09-26",
+   "amendment_enforcement_date": "2025-09-26",
+   "amendment_law_id": "507M60000800092",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20250623_507M60000800068",
+   "amendment_promulgate_date": "2025-06-17",
+   "amendment_enforcement_date": "2025-06-23",
+   "amendment_law_id": "507M60000800068",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20250617_507M60000800068",
+   "amendment_promulgate_date": "2025-06-17",
+   "amendment_enforcement_date": "2025-06-17",
+   "amendment_law_id": "507M60000800068",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20250228_507M60000800009",
+   "amendment_promulgate_date": "2025-02-28",
+   "amendment_enforcement_date": "2025-02-28",
+   "amendment_law_id": "507M60000800009",
+   "amendment_law_title": "道路運送車両の保安基準の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20250110_507M60000800001",
+   "amendment_promulgate_date": "2025-01-10",
+   "amendment_enforcement_date": "2025-01-10",
+   "amendment_law_id": "507M60000800001",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20240620_506M60000800066",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-20",
+   "amendment_law_id": "506M60000800066",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20240615_506M60000800066",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-15",
+   "amendment_law_id": "506M60000800066",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20230924_505M60000800074",
+   "amendment_promulgate_date": "2023-09-22",
+   "amendment_enforcement_date": "2023-09-24",
+   "amendment_law_id": "505M60000800074",
+   "amendment_law_title": "道路運送車両の保安基準及び装置型式指定規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20230701_504M60000800091",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "504M60000800091",
+   "amendment_law_title": "道路運送車両の保安基準の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20230605_505M60000800045",
+   "amendment_promulgate_date": "2023-06-05",
+   "amendment_enforcement_date": "2023-06-05",
+   "amendment_law_id": "505M60000800045",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20230119_505M60000800001",
+   "amendment_promulgate_date": "2023-01-04",
+   "amendment_enforcement_date": "2023-01-19",
+   "amendment_law_id": "505M60000800001",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20230104_505M60000800001",
+   "amendment_promulgate_date": "2023-01-04",
+   "amendment_enforcement_date": "2023-01-04",
+   "amendment_law_id": "505M60000800001",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20221223_504M60000800091",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2022-12-23",
+   "amendment_law_id": "504M60000800091",
+   "amendment_law_title": "道路運送車両の保安基準の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20220622_504M60000800052",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504M60000800052",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20210930_503M60000800059",
+   "amendment_promulgate_date": "2021-09-30",
+   "amendment_enforcement_date": "2021-09-30",
+   "amendment_law_id": "503M60000800059",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20210610_503M60000800040",
+   "amendment_promulgate_date": "2021-06-09",
+   "amendment_enforcement_date": "2021-06-10",
+   "amendment_law_id": "503M60000800040",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20210122_502M60000800100",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2021-01-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800100",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20210103_502M60000800100",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2021-01-03",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800100",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20201225_502M60000800100",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800100",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20200925_502M60000800078",
+   "amendment_promulgate_date": "2020-09-25",
+   "amendment_enforcement_date": "2020-09-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800078",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20200401_502M60000800041",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800041",
+   "amendment_law_title": "道路運送車両の保安基準及び道路運送車両法関係手数料規則の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20200401_502M60000800020",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800020",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20191115_501M60000800040",
+   "amendment_promulgate_date": "2019-10-15",
+   "amendment_enforcement_date": "2019-11-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800040",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20191015_501M60000800040",
+   "amendment_promulgate_date": "2019-10-15",
+   "amendment_enforcement_date": "2019-10-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800040",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20190901_430M60000800090",
+   "amendment_promulgate_date": "2018-12-26",
+   "amendment_enforcement_date": "2019-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000800090",
+   "amendment_law_title": "放射性同位元素等車両運搬規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20180719_430M60000800059",
+   "amendment_promulgate_date": "2018-07-19",
+   "amendment_enforcement_date": "2018-07-19",
+   "amendment_law_id": "430M60000800059",
+   "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20180427_430M60000800041",
+   "amendment_promulgate_date": "2018-04-27",
+   "amendment_enforcement_date": "2018-04-27",
+   "amendment_law_id": "430M60000800041",
+   "amendment_law_title": "道路運送車両の保安基準の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20180131_430M60000800005",
+   "amendment_promulgate_date": "2018-01-31",
+   "amendment_enforcement_date": "2018-01-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000800005",
+   "amendment_law_title": "道路運送車両の保安基準及び道路運送車両法関係手数料規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20170622_429M60000800039",
+   "amendment_promulgate_date": "2017-06-22",
+   "amendment_enforcement_date": "2017-06-22",
+   "amendment_law_id": "429M60000800039",
+   "amendment_law_num": "平成二十九年国土交通省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000800067_20170209_429M60000800007",
+   "amendment_promulgate_date": "2017-02-09",
+   "amendment_enforcement_date": "2017-02-09",
+   "amendment_law_id": "429M60000800007",
+   "amendment_law_num": "平成二十九年国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　自動車の保安基準",
+  "第三章　原動機付自転車の保安基準",
+  "第四章　軽車両の保安基準"
+ ],
+ "article1": {
+  "caption": "（用語の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令における用語の定義は、道路運送車両法（以下「法」という。）第二条に定めるもののほか、次の各号の定めるところによる。",
+   "法第四十条第五号の運行に必要な装備をした状態とは、前項第六号に規定する状態をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-07-28",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-06-16T11:09:13+09:00"
+ }
+}

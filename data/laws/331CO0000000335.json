@@ -1,0 +1,120 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "331CO0000000335",
+  "law_num": "昭和三十一年政令第三百三十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 31,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "335",
+  "promulgation_date": "1956-11-08"
+ },
+ "revision_info": {
+  "law_revision_id": "331CO0000000335_20260527_508CO0000000179",
+  "law_type": "CabinetOrder",
+  "law_title": "非常勤消防団員等に係る損害補償の基準を定める政令",
+  "law_title_kana": "ひじょうきんしょうぼうだんいんとうにかかるそんがいほしょうのきじゅんをさだめるせいれい",
+  "abbrev": null,
+  "category": "消防",
+  "updated": "2026-06-09T11:16:47+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000179",
+  "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百七十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "331CO0000000335_20260527_508CO0000000179",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000179",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000335_20260401_508CO0000000010",
+   "amendment_promulgate_date": "2026-02-06",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000010",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000335_20250401_507CO0000000037",
+   "amendment_promulgate_date": "2025-02-21",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000037",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000335_20240401_506CO0000000028",
+   "amendment_promulgate_date": "2024-02-09",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000028",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000335_20200401_502CO0000000069",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000069",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000335_20180401_430CO0000000029",
+   "amendment_promulgate_date": "2018-02-07",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000029",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000335_20170401_429CO0000000057",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000057",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（損害補償の種類）",
+  "title": "第一条",
+  "paragraphs": [
+   "消防組織法第二十四条第一項の規定による非常勤消防団員に係る損害補償及び消防法第三十六条の三の規定による消防作業に従事した者又は救急業務に協力した者に係る損害補償並びに水防法第六条の二第一項の規定による非常勤の水防団長又は水防団員（以下「非常勤水防団員」という。）に係る損害補償及び同法第四十五条の規定による水防に従事した者に係る損害補償の種類は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1956-11-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-09T11:16:47+09:00"
+ }
+}

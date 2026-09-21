@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000048001",
+  "law_num": "令和八年総務省・財務省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2026-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000048001_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "令和八年度における地方公共団体金融機構法附則第十四条の規定により国に帰属させるものとする金額を定める省令",
+  "law_title_kana": "れいわはちねんどにおけるちほうこうきょうだんたいきんゆうきこうほうふそくだいじゅうよんじょうのきていによりくににきぞくさせるものとするきんがくをさだめるしょうれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-05-13T11:52:43+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000048001_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "地方公共団体金融機構法附則第十四条の規定により国に帰属させるものとする公庫債権金利変動準備金の金額は、二千億円とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T11:52:43+09:00"
+ }
+}

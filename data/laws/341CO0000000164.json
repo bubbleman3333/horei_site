@@ -1,0 +1,153 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "341CO0000000164",
+  "law_num": "昭和四十一年政令第百六十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "164",
+  "promulgation_date": "1966-05-31"
+ },
+ "revision_info": {
+  "law_revision_id": "341CO0000000164_20260402_508CO0000000113",
+  "law_type": "CabinetOrder",
+  "law_title": "地震保険に関する法律施行令",
+  "law_title_kana": "じしんほけんにかんするほうりつしこうれい",
+  "abbrev": "地震保険法施行令",
+  "category": "金融・保険",
+  "updated": "2026-04-21T10:56:36+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000113",
+  "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341CO0000000164_20260402_508CO0000000113",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-02",
+   "amendment_law_id": "508CO0000000113",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20250402_507CO0000000160",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-02",
+   "amendment_law_id": "507CO0000000160",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20240401_506CO0000000111",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000111",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20230401_505CO0000000107",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000107",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20221203_504CO0000000371",
+   "amendment_promulgate_date": "2022-12-02",
+   "amendment_enforcement_date": "2022-12-03",
+   "amendment_law_id": "504CO0000000371",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20210401_503CO0000000091",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000091",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20190401_431CO0000000135",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000135",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20190214_431CO0000000023",
+   "amendment_promulgate_date": "2019-02-14",
+   "amendment_enforcement_date": "2019-02-14",
+   "amendment_law_id": "431CO0000000023",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20180727_430CO0000000222",
+   "amendment_promulgate_date": "2018-07-27",
+   "amendment_enforcement_date": "2018-07-27",
+   "amendment_law_id": "430CO0000000222",
+   "amendment_law_title": "財務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000164_20170401_429CO0000000091",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000091",
+   "amendment_law_title": "地震保険に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（塡補される損害及び金額）",
+  "title": "第一条",
+  "paragraphs": [
+   "地震保険に関する法律（以下「法」という。）第二条第二項第二号に規定する政令で定める損害は、次の各号に掲げる損害とし、同項第二号に規定する政令で定める金額は、当該各号に掲げる損害の区分に応じ、当該各号に定める金額とする。",
+   "前項各号の「時価」とは、損害の発生する直前の保険の目的のその所在地における価額をいう。",
+   "第一項第一号から第四号までの居住用建物の主要構造部の損害額には、法第二条第二項第二号に規定する地震等（以下「地震等」という。）による損害が生じた居住用建物の原状回復のため地盤等の復旧に直接必要とされる最小限の費用を含むものとする。",
+   "地震等を直接又は間接の原因とする地すべりその他の災害による急迫した危険が生じたため居住用建物が居住不能のものとなつたときは、当該居住用建物は、第一項第一号に規定する全損に該当する損害を受けたものとみなす。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1966-05-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:56:36+09:00"
+ }
+}

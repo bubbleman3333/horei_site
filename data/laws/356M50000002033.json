@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "356M50000002033",
+  "law_num": "昭和五十六年総理府令第三十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 56,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "033",
+  "promulgation_date": "1981-05-22"
+ },
+ "revision_info": {
+  "law_revision_id": "356M50000002033_20251001_507M60000008098",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "科学技術研究調査規則",
+  "law_title_kana": "かがくぎじゅつけんきゅうちょうさきそく",
+  "abbrev": null,
+  "category": "統計",
+  "updated": "2025-10-16T09:32:20+09:00",
+  "amendment_promulgate_date": "2025-10-01",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000008098",
+  "amendment_law_title": "科学技術研究調査規則の一部を改正する省令",
+  "amendment_law_num": "令和七年総務省令第九十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "356M50000002033_20251001_507M60000008098",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008098",
+   "amendment_law_title": "科学技術研究調査規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "356M50000002033_20250401_507M60000008033",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000008033",
+   "amendment_law_title": "科学技術研究調査規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000002033_20220427_504M60000008034",
+   "amendment_promulgate_date": "2022-04-27",
+   "amendment_enforcement_date": "2022-04-27",
+   "amendment_law_id": "504M60000008034",
+   "amendment_law_title": "科学技術研究調査規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000002033_20200428_502M60000008045",
+   "amendment_promulgate_date": "2020-04-28",
+   "amendment_enforcement_date": "2020-04-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000008045",
+   "amendment_law_title": "科学技術研究調査規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000002033_20140402_426M60000008043",
+   "amendment_promulgate_date": "2014-04-02",
+   "amendment_enforcement_date": "2014-04-02",
+   "amendment_law_id": "426M60000008043",
+   "amendment_law_num": "平成二十六年総務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "統計法（平成十九年法律第五十三号）第二条第四項に規定する基幹統計である科学技術研究統計を作成するための調査（以下「科学技術研究調査」という。）の実施に関しては、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1981-05-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-16T09:32:20+09:00"
+ }
+}

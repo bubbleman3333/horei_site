@@ -1,0 +1,263 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "332M50400000002",
+  "law_num": "昭和三十二年国家公安委員会規則第二号",
+  "law_num_era": "Showa",
+  "law_num_year": 32,
+  "law_num_type": "Rule",
+  "law_num_num": "002",
+  "promulgation_date": "1957-07-11"
+ },
+ "revision_info": {
+  "law_revision_id": "332M50400000002_20260521_508M60400000012",
+  "law_type": "Rule",
+  "law_title": "犯罪捜査規範",
+  "law_title_kana": "はんざいそうさきはん",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-06-02T15:41:19+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000012",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "332M50400000002_20260521_508M60400000012",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000012",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20250701_507M60400000012",
+   "amendment_promulgate_date": "2025-06-12",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507M60400000012",
+   "amendment_law_title": "犯罪捜査規範の一部を改正する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20250601_507M60400000010",
+   "amendment_promulgate_date": "2025-05-26",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60400000010",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係国家公安委員会規則の整理に関する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20250401_507M60400000004",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60400000004",
+   "amendment_law_title": "現場写真の作成及び現場写真記録の取扱に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20240401_506M60400000007",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60400000007",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20240401_506M60400000004",
+   "amendment_promulgate_date": "2024-03-15",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60400000004",
+   "amendment_law_title": "犯罪捜査規範及び犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20240215_506M60400000001",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-02-15",
+   "amendment_law_id": "506M60400000001",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則及び犯罪捜査規範の一部を改正する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20231115_505M60400000014",
+   "amendment_promulgate_date": "2023-11-09",
+   "amendment_enforcement_date": "2023-11-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "505M60400000014",
+   "amendment_law_title": "犯罪捜査規範の一部を改正する規則",
+   "amendment_law_num": "令和五年国家公安委員会規則第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20221101_504M60400000018",
+   "amendment_promulgate_date": "2022-10-26",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60400000018",
+   "amendment_law_title": "犯罪捜査規範の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20220401_504M60400000013",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000013",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20220401_504M60400000001",
+   "amendment_promulgate_date": "2022-01-11",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000001",
+   "amendment_law_title": "犯罪捜査規範及び少年警察活動規則の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20191216_501M60400000010",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000010",
+   "amendment_law_title": "行政手続等における情報通信の技術の利用に関する法律の施行に伴う国家公安委員会の所管する関係法令に規定する対象手続等を定める国家公安委員会規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20191214_501M60400000008",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000008",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20190601_431M60400000006",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60400000006",
+   "amendment_law_title": "犯罪捜査規範及び通信傍受規則の一部を改正する規則",
+   "amendment_law_num": "平成三十一年国家公安委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20190524_501M60400000001",
+   "amendment_promulgate_date": "2019-05-24",
+   "amendment_enforcement_date": "2019-05-24",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000001",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20180601_430M60400000011",
+   "amendment_promulgate_date": "2018-05-15",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60400000011",
+   "amendment_law_title": "犯罪捜査規範の一部を改正する規則",
+   "amendment_law_num": "平成三十年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20180401_430M60400000002",
+   "amendment_promulgate_date": "2018-03-28",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60400000002",
+   "amendment_law_title": "犯罪捜査規範の一部を改正する規則",
+   "amendment_law_num": "平成三十年国家公安委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50400000002_20161201_428M60400000024",
+   "amendment_promulgate_date": "2016-10-26",
+   "amendment_enforcement_date": "2016-12-01",
+   "amendment_law_id": "428M60400000024",
+   "amendment_law_num": "平成二十八年国家公安委員会規則第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第１章　総則",
+  "第２章　捜査の端緒",
+  "第３章　捜査の開始",
+  "第４章　任意捜査",
+  "第５章　逮捕",
+  "第６章　捜索・差押え等",
+  "第７章　没収保全等の請求",
+  "第８章　取調べ",
+  "第９章　証拠収集等への協力及び訴追に関する合意",
+  "第１０章　鑑識",
+  "第１１章　送致及び送付",
+  "第１２章　少年事件に関する特則",
+  "第１３章　交通法令違反事件に関する特則",
+  "第１４章　国際犯罪に関する特則",
+  "第１５章　群衆犯罪に関する特則",
+  "第１６章　暴力団犯罪に関する特則",
+  "第１７章　保釈者等の視察",
+  "第１８章　令状の執行",
+  "第１９章　雑則"
+ ],
+ "article1": {
+  "caption": "（この規則の目的）",
+  "title": "第１条",
+  "paragraphs": [
+   "この規則は、警察官が犯罪の捜査を行うに当つて守るべき心構え、捜査の方法、手続その他捜査に関し必要な事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1957-07-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-02T15:41:19+09:00"
+ }
+}

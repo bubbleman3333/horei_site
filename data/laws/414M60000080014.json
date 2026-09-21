@@ -1,0 +1,73 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "414M60000080014",
+  "law_num": "平成十四年文部科学省令第十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "2002-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "414M60000080014_20260401_508M60000080007",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "小学校設置基準",
+  "law_title_kana": "しょうがっこうせっちきじゅん",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-02T18:37:39+09:00",
+  "amendment_promulgate_date": "2026-03-09",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080007",
+  "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う文部科学省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年文部科学省令第七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414M60000080014_20260401_508M60000080007",
+   "amendment_promulgate_date": "2026-03-09",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000080007",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う文部科学省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年文部科学省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414M60000080014_20080401_419M60000080040",
+   "amendment_promulgate_date": "2007-12-25",
+   "amendment_enforcement_date": "2008-04-01",
+   "amendment_law_id": "419M60000080040",
+   "amendment_law_num": "平成十九年文部科学省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　編制",
+  "第三章　施設及び設備"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "小学校は、学校教育法（昭和二十二年法律第二十六号）その他の法令の規定によるほか、この省令の定めるところにより設置するものとする。",
+   "この省令で定める設置基準は、小学校を設置するのに必要な最低の基準とする。",
+   "小学校の設置者は、小学校の編制、施設、設備等がこの省令で定める設置基準より低下した状態にならないようにすることはもとより、これらの水準の向上を図ることに努めなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T18:37:39+09:00"
+ }
+}

@@ -1,0 +1,136 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "502CO0000000160",
+  "law_num": "令和二年政令第百六十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "160",
+  "promulgation_date": "2020-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "502CO0000000160_20260401_508CO0000000104",
+  "law_type": "CabinetOrder",
+  "law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令",
+  "law_title_kana": "しんがたころなういるすかんせんしょうとうのえいきょうにたいおうするためのこくぜいかんけいほうりつのりんじとくれいにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-04-21T10:34:03+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000104",
+  "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502CO0000000160_20260401_508CO0000000104",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000104",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "502CO0000000160_20250401_507CO0000000133",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000133",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502CO0000000160_20240401_506CO0000000157",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000157",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502CO0000000160_20230401_505CO0000000153",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000153",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502CO0000000160_20220401_504CO0000000159",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000159",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502CO0000000160_20210401_503CO0000000127",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000127",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502CO0000000160_20210201_503CO0000000008",
+   "amendment_promulgate_date": "2021-01-22",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "503CO0000000008",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502CO0000000160_20200626_502CO0000000206",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2020-06-26",
+   "amendment_law_id": "502CO0000000206",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502CO0000000160_20200430_000000000000000",
+   "amendment_promulgate_date": "2020-04-30",
+   "amendment_enforcement_date": "2020-04-30",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「新型コロナウイルス感染症」とは、新型コロナウイルス感染症等の影響に対応するための国税関係法律の臨時特例に関する法律（以下「法」という。）第二条に規定する新型コロナウイルス感染症をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-04-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:34:03+09:00"
+ }
+}

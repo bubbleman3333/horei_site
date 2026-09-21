@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60000100144",
+  "law_num": "平成二十年厚生労働省令第百四十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "144",
+  "promulgation_date": "2008-09-26"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60000100144_20260807_508M60000100123",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "全国健康保険協会の財務及び会計に関する省令",
+  "law_title_kana": "ぜんこくけんこうほけんきょうかいのざいむおよびかいけいにかんするしょうれい",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-08-19T13:33:24+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100123",
+  "amendment_law_title": "金融庁組織令の一部を改正する政令の施行に伴う厚生労働省関係省令の整理に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60000100144_20260807_508M60000100123",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000100123",
+   "amendment_law_title": "金融庁組織令の一部を改正する政令の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60000100144_20260401_507M60000100122",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000100122",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000100144_20130531_425M60000100075",
+   "amendment_promulgate_date": "2013-05-31",
+   "amendment_enforcement_date": "2013-05-31",
+   "amendment_law_id": "425M60000100075",
+   "amendment_law_num": "平成二十五年厚生労働省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（企業会計原則）",
+  "title": "第一条",
+  "paragraphs": [
+   "全国健康保険協会（以下「協会」という。）の会計については、この省令の定めるところによるものとし、この省令に定めのないものについては、一般に公正妥当と認められる企業会計の基準に従うものとする。",
+   "金融庁組織令（平成十年政令第三百九十二号）第三十四条第一項に規定する企業会計審議会により公表された企業会計の基準は、前項に規定する一般に公正妥当と認められる企業会計の基準に該当するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-09-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T13:33:24+09:00"
+ }
+}

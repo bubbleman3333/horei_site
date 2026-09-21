@@ -1,0 +1,119 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "337M50000800047",
+  "law_num": "昭和三十七年運輸省令第四十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "047",
+  "promulgation_date": "1962-09-26"
+ },
+ "revision_info": {
+  "law_revision_id": "337M50000800047_20260401_508M60000800019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "救命艇手規則",
+  "law_title_kana": "きゅうめいていしゅきそく",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-04-15T12:27:28+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800019",
+  "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M50000800047_20260401_508M60000800019",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800019",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800047_20240101_505M60000800097",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000800097",
+   "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800047_20220401_504M60000800002",
+   "amendment_promulgate_date": "2022-01-07",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800002",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800047_20191216_501M60000800047",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800047",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800047_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800047_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800047_20160401_428M60000800025",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800025",
+   "amendment_law_num": "平成二十八年国土交通省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（救命艇手の選任）",
+  "title": "第一条",
+  "paragraphs": [
+   "船員法（以下「法」という。）第百十八条第一項の国土交通省令の定める船舶は、平水区域を航行区域とする船舶以外の次に掲げる船舶とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-09-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-15T12:27:28+09:00"
+ }
+}

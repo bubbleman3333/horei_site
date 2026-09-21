@@ -1,0 +1,448 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "413RJNJ01034000",
+  "law_num": "平成十三年人事院規則一―三四",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "Rule",
+  "law_num_num": "1_34",
+  "promulgation_date": "2001-01-19"
+ },
+ "revision_info": {
+  "law_revision_id": "413RJNJ01034000_20260401_508RJNJ09034036",
+  "law_type": "Rule",
+  "law_title": "人事院規則一―三四（人事管理文書の保存期間及び保存期間が満了したときの措置）",
+  "law_title_kana": "じんじいんきそくいちのさんじゅうよんじんじかんりぶんしょのほぞんきかんおよびほぞんきかんがまんりょうしたときのそち",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-05-14T09:50:21+09:00",
+  "amendment_promulgate_date": "2026-02-13",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ09034036",
+  "amendment_law_title": "人事院規則九―三四（初任給調整手当）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―三四―三六",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413RJNJ01034000_20260401_508RJNJ16004030",
+   "amendment_promulgate_date": "2026-02-10",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ16004030",
+   "amendment_law_title": "人事院規則一六―四（補償及び福祉事業の実施）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則一六―四―三〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20260401_508RJNJ09034036",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09034036",
+   "amendment_law_title": "人事院規則九―三四（初任給調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―三四―三六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20260401_508RJNJ09024023",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09024023",
+   "amendment_law_title": "人事院規則九―二四（通勤手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―二四―二三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20260401_508RJNJ09008097",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09008097",
+   "amendment_law_title": "人事院規則九―八（初任給、昇格、昇給等の基準）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―八―九七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20260401_508RJNJ08012024",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ08012024",
+   "amendment_law_title": "人事院規則八―一二（職員の任免）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則八―一二―二四",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20260301_508RJNJ11004010",
+   "amendment_promulgate_date": "2026-01-16",
+   "amendment_enforcement_date": "2026-03-01",
+   "amendment_law_id": "508RJNJ11004010",
+   "amendment_law_title": "人事院規則一一―四（職員の身分保障）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則一一―四―一〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20251224_507RJNJ09055154",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507RJNJ09055154",
+   "amendment_law_title": "人事院規則九―五五（特地勤務手当等）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―五五―一五四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20251001_507RJNJ01034012",
+   "amendment_promulgate_date": "2025-04-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507RJNJ01034012",
+   "amendment_law_title": "人事院規則一―三四（人事管理文書の保存期間及び保存期間が満了したときの措置）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則一―三四―一二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20250401_507RJNJ10011009",
+   "amendment_promulgate_date": "2025-02-14",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ10011009",
+   "amendment_law_title": "人事院規則一〇―一一（育児又は介護を行う職員の早出遅出勤務並びに深夜勤務及び超過勤務の制限）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則一〇―一一―九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20250401_507RJNJ09093004",
+   "amendment_promulgate_date": "2025-02-05",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09093004",
+   "amendment_law_title": "人事院規則九―九三（管理職員特別勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―九三―四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20250401_507RJNJ09080007",
+   "amendment_promulgate_date": "2025-02-05",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09080007",
+   "amendment_law_title": "人事院規則九―八〇（扶養手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―八〇―七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20250401_507RJNJ09049057",
+   "amendment_promulgate_date": "2025-02-05",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09049057",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―四九―五七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20250401_507RJNJ09024021",
+   "amendment_promulgate_date": "2025-02-05",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09024021",
+   "amendment_law_title": "人事院規則九―二四（通勤手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―二四―二一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20250401_506RJNJ01082000",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506RJNJ01082000",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律の一部の施行に伴う関係人事院規則の整備等に関する人事院規則",
+   "amendment_law_num": "令和六年人事院規則一―八二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20241201_506RJNJ08012021",
+   "amendment_promulgate_date": "2024-09-04",
+   "amendment_enforcement_date": "2024-12-01",
+   "amendment_law_id": "506RJNJ08012021",
+   "amendment_law_title": "人事院規則八―一二（職員の任免）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則八―一二―二一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20240401_506RJNJ09151000",
+   "amendment_promulgate_date": "2024-01-23",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506RJNJ09151000",
+   "amendment_law_title": "人事院規則九―一五一（在宅勤務等手当）",
+   "amendment_law_num": "令和六年人事院規則九―一五一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20240329_506RJNJ01082000",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-03-29",
+   "amendment_law_id": "506RJNJ01082000",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律の一部の施行に伴う関係人事院規則の整備等に関する人事院規則",
+   "amendment_law_num": "令和六年人事院規則一―八二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20240101_505RJNJ01034011",
+   "amendment_promulgate_date": "2023-12-20",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505RJNJ01034011",
+   "amendment_law_title": "人事院規則一―三四（人事管理文書の保存期間）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則一―三四―一一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20231220_505RJNJ01034011",
+   "amendment_promulgate_date": "2023-12-20",
+   "amendment_enforcement_date": "2023-12-20",
+   "amendment_law_id": "505RJNJ01034011",
+   "amendment_law_title": "人事院規則一―三四（人事管理文書の保存期間）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則一―三四―一一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_505RJNJ15014040",
+   "amendment_promulgate_date": "2023-01-20",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ15014040",
+   "amendment_law_title": "人事院規則一五―一四（職員の勤務時間、休日及び休暇）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則一五―一四―四〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_505RJNJ11011002",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ11011002",
+   "amendment_law_title": "人事院規則一一―一一（管理監督職勤務上限年齢による降任等）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則一一―一一―二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_505RJNJ09089006",
+   "amendment_promulgate_date": "2023-02-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ09089006",
+   "amendment_law_title": "人事院規則九―八九（単身赴任手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―八九―六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_505RJNJ09080006",
+   "amendment_promulgate_date": "2023-02-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ09080006",
+   "amendment_law_title": "人事院規則九―八〇（扶養手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―八〇―六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_504RJNJ11012000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ11012000",
+   "amendment_law_title": "人事院規則一一―一二（定年退職者等の暫定再任用）",
+   "amendment_law_num": "令和四年人事院規則一一―一二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_504RJNJ11011000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ11011000",
+   "amendment_law_title": "人事院規則一一―一一（管理監督職勤務上限年齢による降任等）",
+   "amendment_law_num": "令和四年人事院規則一一―一一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_504RJNJ11008051",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ11008051",
+   "amendment_law_title": "人事院規則一一―八（職員の定年）",
+   "amendment_law_num": "令和四年人事院規則一一―八―五一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_504RJNJ09148000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ09148000",
+   "amendment_law_title": "人事院規則九―一四八（給与法附則第十項、第十二項又は第十三項の規定による俸給）",
+   "amendment_law_num": "令和四年人事院規則九―一四八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_504RJNJ09147000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ09147000",
+   "amendment_law_title": "人事院規則九―一四七（給与法附則第八項の規定による俸給月額）",
+   "amendment_law_num": "令和四年人事院規則九―一四七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_504RJNJ08021000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ08021000",
+   "amendment_law_title": "人事院規則八―二一（年齢六十年以上退職者等の定年前再任用）",
+   "amendment_law_num": "令和四年人事院規則八―二一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20230401_504RJNJ01079000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ01079000",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律の施行に伴う関係人事院規則の整備等に関する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一―七九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20221001_504RJNJ19000015",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504RJNJ19000015",
+   "amendment_law_title": "人事院規則一九―〇（職員の育児休業等）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一九―〇―一五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20220701_504RJNJ14021001",
+   "amendment_promulgate_date": "2022-06-20",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504RJNJ14021001",
+   "amendment_law_title": "人事院規則一四―二一（株式所有により営利企業の経営に参加し得る地位にある職員の報告等）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一四―二一―一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20220701_504RJNJ01034010",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504RJNJ01034010",
+   "amendment_law_title": "人事院規則一―三四（人事管理文書の保存期間）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一―三四―一〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20220624_504RJNJ01081000",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-06-24",
+   "amendment_law_id": "504RJNJ01081000",
+   "amendment_law_title": "人事院規則一―八一（令和九年に開催される国際園芸博覧会の準備及び運営のために必要な特別措置に関する法律の施行に伴う関係人事院規則の整備に関する人事院規則）",
+   "amendment_law_num": "令和四年人事院規則一―八一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20220401_504RJNJ19000014",
+   "amendment_promulgate_date": "2022-02-17",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504RJNJ19000014",
+   "amendment_law_title": "人事院規則一九―〇（職員の育児休業等）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一九―〇―一四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20211201_503RJNJ08018030",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-12-01",
+   "amendment_law_id": "503RJNJ08018030",
+   "amendment_law_title": "人事院規則八―一八（採用試験）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則八―一八―三〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20210901_503RJNJ01077000",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503RJNJ01077000",
+   "amendment_law_title": "人事院規則一―七七（デジタル庁設置法の施行に伴う関係人事院規則の整備等に関する人事院規則）",
+   "amendment_law_num": "令和三年人事院規則一―七七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20210402_503RJNJ09054009",
+   "amendment_promulgate_date": "2021-04-01",
+   "amendment_enforcement_date": "2021-04-02",
+   "amendment_law_id": "503RJNJ09054009",
+   "amendment_law_title": "人事院規則九―五四（住居手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―五四―九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20201228_502RJNJ01076000",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502RJNJ01076000",
+   "amendment_law_title": "平成三十二年東京オリンピック競技大会・東京パラリンピック競技大会特別措置法等の一部を改正する法律の施行に伴う関係人事院規則の整理に関する人事院規則",
+   "amendment_law_num": "令和二年人事院規則一―七六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413RJNJ01034000_20200612_502RJNJ01075000",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502RJNJ01075000",
+   "amendment_law_title": "人事院規則一―七五（復興庁設置法等の一部を改正する法律の施行に伴う関係人事院規則の整備に関する人事院規則）",
+   "amendment_law_num": "令和二年人事院規則一―七五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "人事管理文書の保存期間及び保存期間が満了したときの措置については、別に定めるもののほか、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-01-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-14T09:50:21+09:00"
+ }
+}

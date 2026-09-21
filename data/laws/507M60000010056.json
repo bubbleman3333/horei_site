@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000010056",
+  "law_num": "令和七年法務省令第五十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "056",
+  "promulgation_date": "2025-12-12"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000010056_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "民法第三百八条の二の規定による子の監護費用の先取特権に係る額の算定等に関する省令",
+  "law_title_kana": "みんぽうだいさんびゃくはちじょうのにのきていによるこのかんごひようのさきどりとっけんにかかるがくのさんていとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-04-02T21:58:42+09:00",
+  "amendment_promulgate_date": "2025-12-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000010056_20260401_000000000000000",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（子の監護費用の先取特権に係る額の算定）",
+  "title": "第一条",
+  "paragraphs": [
+   "民法第三百八条の二に規定する法務省令で定めるところにより算定した額は、一月当たり八万円に同条に規定する定期金により扶養を受けるべき子の数を乗じて得た額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-12-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:58:42+09:00"
+ }
+}

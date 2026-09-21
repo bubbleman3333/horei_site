@@ -1,0 +1,129 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "349CO0000000003",
+  "law_num": "昭和四十九年政令第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 49,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "003",
+  "promulgation_date": "1974-01-10"
+ },
+ "revision_info": {
+  "law_revision_id": "349CO0000000003_20260527_508CO0000000176",
+  "law_type": "CabinetOrder",
+  "law_title": "都市緑地法施行令",
+  "law_title_kana": "としりょくちほうしこうれい",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2026-06-05T16:38:37+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000176",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "349CO0000000003_20260527_508CO0000000176",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000176",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000003_20241108_506CO0000000339",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-08",
+   "amendment_law_id": "506CO0000000339",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000003_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000003_20230401_505CO0000000068",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000068",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000003_20220401_504CO0000000037",
+   "amendment_promulgate_date": "2022-02-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000037",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000003_20180401_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000003_20170619_429CO0000000158",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2017-06-19",
+   "amendment_law_id": "429CO0000000158",
+   "amendment_law_title": "水防法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000003_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（収用委員会の裁決の申請手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "都市緑地法（以下「法」という。）第七条第六項（法第十条第二項（法第十六条及び第二十三条において準用する場合を含む。）、第十三条及び第二十一条において準用する場合を含む。）の規定により土地収用法（昭和二十六年法律第二百十九号）第九十四条第二項の規定による裁決を申請しようとする者は、国土交通省令で定める様式に従い、同条第三項各号（第三号を除く。）に掲げる事項を記載した裁決申請書を収用委員会に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1974-01-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-05T16:38:37+09:00"
+ }
+}

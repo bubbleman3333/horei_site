@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "505CO0000000254",
+  "law_num": "令和五年政令第二百五十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "254",
+  "promulgation_date": "2023-08-02"
+ },
+ "revision_info": {
+  "law_revision_id": "505CO0000000254_20260401_507CO0000000136",
+  "law_type": "CabinetOrder",
+  "law_title": "防衛力強化資金に関する政令",
+  "law_title_kana": "ぼうえいりょくきょうかしきんにかんするせいれい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-04-02T21:48:19+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000136",
+  "amendment_law_title": "防衛力強化資金に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第百三十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505CO0000000254_20260401_507CO0000000136",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000136",
+   "amendment_law_title": "防衛力強化資金に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000254_20230802_000000000000000",
+   "amendment_promulgate_date": "2023-08-02",
+   "amendment_enforcement_date": "2023-08-02",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "我が国の防衛力の抜本的な強化等のために必要な財源の確保に関する特別措置法（次項において「法」という。）第五十七条第一項に規定する計画表の作成の時期については、予算決算及び会計令（昭和二十二年勅令第百六十五号）第十一条第五項に規定する書類の財務大臣への送付の時期の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-08-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:48:19+09:00"
+ }
+}

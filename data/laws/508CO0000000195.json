@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000195",
+  "law_num": "令和八年政令第百九十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "195",
+  "promulgation_date": "2026-06-10"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000195_20260610_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行期日を定める政令",
+  "law_title_kana": "ろうどうあんぜんえいせいほうおよびさぎょうかんきょうそくていほうのいちぶをかいせいするほうりつのいちぶのしこうきじつをさだめるせいれい",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-09-10T20:32:34+09:00",
+  "amendment_promulgate_date": "2026-06-10",
+  "amendment_enforcement_date": "2026-06-10",
+  "amendment_enforcement_comment": "",
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000195_20260610_000000000000000",
+   "amendment_promulgate_date": "2026-06-10",
+   "amendment_enforcement_date": "2026-06-10",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "労働安全衛生法及び作業環境測定法の一部を改正する法律附則第一条第六号に掲げる規定の施行期日は令和十年四月一日とし、同条第七号に掲げる規定の施行期日は令和十二年四月一日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-10T20:32:34+09:00"
+ }
+}

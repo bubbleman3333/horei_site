@@ -1,0 +1,57 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000044",
+  "law_num": "令和八年政令第四十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "044",
+  "promulgation_date": "2026-03-18"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000044_20260401_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う経過措置に関する政令",
+  "law_title_kana": "しゃかいけいざいのへんかをふまえたねんきんせいどのきのうきょうかのためのこくみんねんきんほうとうのいちぶをかいせいするとうのほうりつのしこうにともなうけいかそちにかんするせいれい",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-04-01T16:07:56+09:00",
+  "amendment_promulgate_date": "2026-03-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000044_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（令和七年改正法附則第六条第二項の政令で定める場合等）",
+  "title": "第一条",
+  "paragraphs": [
+   "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律（以下「令和七年改正法」という。）附則第六条第二項に規定する政令で定める場合は、次に掲げる場合とする。",
+   "令和七年改正法附則第六条第二項に規定する遺族基礎年金は、前項第二号に掲げる場合に該当するに至ったとき（初めて当該場合に該当するに至ったときに限る。）は、同条第一項の規定にかかわらず、令和十年四月から当該場合に該当するに至った日の属する月までの分の支給を停止する。",
+   "令和七年改正法附則第六条第二項に規定する子が二人以上である場合においては、第一項（第二号に係る部分に限る。）の規定は、それぞれの子について適用する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T16:07:56+09:00"
+ }
+}

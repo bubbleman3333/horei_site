@@ -1,0 +1,197 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "415AC0000000083",
+  "law_num": "平成十五年法律第八十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "Act",
+  "law_num_num": "083",
+  "promulgation_date": "2003-06-13"
+ },
+ "revision_info": {
+  "law_revision_id": "415AC0000000083_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "インターネット異性紹介事業を利用して児童を誘引する行為の規制等に関する法律",
+  "law_title_kana": "いんたーねっといせいしょうかいじぎょうをりようしてじどうをゆういんするこういのきせいとうにかんするほうりつ",
+  "abbrev": "出会い系サイト規制法,出会い系サイト被害防止法",
+  "category": "警察",
+  "updated": "2026-07-01T10:31:16+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415AC0000000083_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20230713_505AC0000000067",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505AC0000000067",
+   "amendment_law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律",
+   "amendment_law_num": "令和五年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20230713_505AC0000000066",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505AC0000000066",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20220401_430AC0000000059",
+   "amendment_promulgate_date": "2018-06-20",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "430AC0000000059",
+   "amendment_law_title": "民法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20191214_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20190401_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20180620_430AC0000000059",
+   "amendment_promulgate_date": "2018-06-20",
+   "amendment_enforcement_date": "2018-06-20",
+   "amendment_law_id": "430AC0000000059",
+   "amendment_law_title": "民法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20170531_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-05-31",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415AC0000000083_20140715_426AC0000000079",
+   "amendment_promulgate_date": "2014-06-25",
+   "amendment_enforcement_date": "2014-07-15",
+   "amendment_law_id": "426AC0000000079",
+   "amendment_law_num": "平成二十六年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　児童に係る誘引の禁止",
+  "第三章　インターネット異性紹介事業の規制",
+  "第四章　登録誘引情報提供機関",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、インターネット異性紹介事業を利用して児童を性交等の相手方となるように誘引する行為等を禁止するとともに、インターネット異性紹介事業について必要な規制を行うこと等により、インターネット異性紹介事業の利用に起因する児童買春その他の犯罪から児童を保護し、もって児童の健全な育成に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-06-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T10:31:16+09:00"
+ }
+}

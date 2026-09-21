@@ -1,0 +1,58 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60001400002",
+  "law_num": "令和八年経済産業省・環境省令第二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "2026-03-18"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60001400002_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "モバイルバッテリーの製造等の事業を行う者の使用済モバイルバッテリーの自主回収及び再資源化に関する判断の基準となるべき事項を定める省令",
+  "law_title_kana": "もばいるばってりーのせいぞうとうのじぎょうをおこなうもののしようずみもばいるばってりーのじしゅかいしゅうおよびさいしげんかにかんするはんだんのきじゅんとなるべきじこうをさだめるしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-02T22:07:49+09:00",
+  "amendment_promulgate_date": "2026-03-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60001400002_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（自主回収の実効の確保その他実施方法に関する事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "モバイルバッテリー（リチウム蓄電池を部品として使用する電源装置であって、携帯して使用する小型のものをいう。以下同じ。）の製造等（製造又は自ら輸入したものの販売をすることをいう。以下同じ。）の事業を行う者（以下「事業者」という。）は、当該事業者が製造等をした使用済モバイルバッテリー（モバイルバッテリーが一度使用され、又は使用されずに収集され、若しくは廃棄されたものをいう。以下同じ。）について、当該使用済モバイルバッテリーの自主回収をする場所の指定又は回収ボックスの設置その他の自主回収のために必要な措置を講ずることにより、当該使用済モバイルバッテリーの自主回収をするものとする。",
+   "事業者は、使用済モバイルバッテリーを対価を得ないで自主回収をするものとする。ただし、正当な理由がある場合又は当該使用済モバイルバッテリーが事業活動に伴って生じたものである場合は、この限りでない。",
+   "事業者は、使用済モバイルバッテリーの自主回収をするに当たっては、モバイルバッテリーの販売（自ら輸入したものの販売を除く。）の事業を行う者に対し、必要な協力を求めるものとする。",
+   "事業者は、他の者に委託して使用済モバイルバッテリーの回収をする場合にあっては、当該回収を受託した者に対し、当該回収の実施の状況に関する報告を求めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T22:07:49+09:00"
+ }
+}

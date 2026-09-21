@@ -1,0 +1,120 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "360M50004000007",
+  "law_num": "昭和六十年建設省令第七号",
+  "law_num_era": "Showa",
+  "law_num_year": 60,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "007",
+  "promulgation_date": "1985-06-17"
+ },
+ "revision_info": {
+  "law_revision_id": "360M50004000007_20251001_507M60000800095",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "道路整備事業に係る国の財政上の特別措置に関する法律施行規則",
+  "law_title_kana": "どうろせいびじぎょうにかかるくにのざいせいじょうのとくべつそちにかんするほうりつせこうきそく",
+  "abbrev": "道路財特法施行規則,道路整備財源特例法施行規則,道路整備事業財政特別措置法施行規則,道路特例法施行規則",
+  "category": "道路",
+  "updated": "2025-10-07T08:55:35+09:00",
+  "amendment_promulgate_date": "2025-09-30",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800095",
+  "amendment_law_title": "道路法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第九十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "360M50004000007_20251001_507M60000800095",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000800095",
+   "amendment_law_title": "道路法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "360M50004000007_20210401_503M60000800031",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000800031",
+   "amendment_law_title": "踏切道改良促進法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50004000007_20201125_502M60000800090",
+   "amendment_promulgate_date": "2020-11-20",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_id": "502M60000800090",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50004000007_20200401_502M60000800019",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000800019",
+   "amendment_law_title": "道路法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50004000007_20180930_430M60000800074",
+   "amendment_promulgate_date": "2018-09-28",
+   "amendment_enforcement_date": "2018-09-30",
+   "amendment_law_id": "430M60000800074",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成三十年国土交通省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50004000007_20180401_430M60000800037",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000800037",
+   "amendment_law_title": "道路整備事業に係る国の財政上の特別措置に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50004000007_20170401_429M60000800018",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000800018",
+   "amendment_law_num": "平成二十九年国土交通省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（令第一条第二項の国土交通省令で定めるところにより算定した割合）",
+  "title": "第一条",
+  "paragraphs": [
+   "道路整備事業に係る国の財政上の特別措置に関する法律施行令（昭和三十四年政令第十七号。以下「令」という。）第一条第二項の国土交通省令で定めるところにより算定した割合は、次の表の上欄に掲げる事業の区分に応じ、それぞれ同表の下欄に定める割合とする。",
+   "令第一条第二項に規定する一般国道の改築で特別会計に関する法律（平成十九年法律第二十三号）第二条第一項第十八号に規定する東日本大震災復興特別会計において経理される同法第二百二十二条第二項に規定する復興事業（以下単に「復興事業」という。）に該当するものに要する費用について令第一条第二項の国土交通省令で定めるところにより算定した割合は、次の表の上欄に掲げる事業の区分ごとに、それぞれ、同表の中欄に掲げる調整指数に応じ、同表の下欄に定める割合とする。",
+   "前二項の規定において「調整指数」とは、次の各号に掲げる場合の区分に応じ、当該各号に定める式により算定した数値（小数点以下二位未満は、切り上げるものとする。）をいう。",
+   "前項各号の式において「財政力指数」とは、後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律（昭和三十六年法律第百十二号）第二条第一項に規定する財政力指数をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1985-06-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-07T08:55:35+09:00"
+ }
+}

@@ -1,0 +1,229 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "413AC0000000088",
+  "law_num": "平成十三年法律第八十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "Act",
+  "law_num_num": "088",
+  "promulgation_date": "2001-06-29"
+ },
+ "revision_info": {
+  "law_revision_id": "413AC0000000088_20260401_507AC0000000074",
+  "law_type": "Act",
+  "law_title": "確定拠出年金法",
+  "law_title_kana": "かくていきょしゅつねんきんほう",
+  "abbrev": "日本版４０１ｋ法,ＤＣ法",
+  "category": "社会保険",
+  "updated": "2026-04-02T17:42:51+09:00",
+  "amendment_promulgate_date": "2025-06-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000074",
+  "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+  "amendment_law_num": "令和七年法律第七十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413AC0000000088_20300619_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2030-06-19",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2030-06-19",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20261201_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2026-12-01",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20260401_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20250620_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-06-20",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20221001_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20220501_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20220401_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20210401_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20201001_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20200605_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2020-06-05",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20180501_428AC0000000066",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2018-05-01",
+   "amendment_law_id": "428AC0000000066",
+   "amendment_law_title": "確定拠出年金法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20180101_428AC0000000066",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "428AC0000000066",
+   "amendment_law_title": "確定拠出年金法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413AC0000000088_20170401_428AC0000000114",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000114",
+   "amendment_law_title": "公的年金制度の持続可能性の向上を図るための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　企業型年金",
+  "第三章　個人型年金",
+  "第四章　個人別管理資産の移換",
+  "第五章　確定拠出年金についての税制上の措置等",
+  "第六章　確定拠出年金運営管理機関",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、少子高齢化の進展、高齢期の生活の多様化等の社会経済情勢の変化にかんがみ、個人又は事業主が拠出した資金を個人が自己の責任において運用の指図を行い、高齢期においてその結果に基づいた給付を受けることができるようにするため、確定拠出年金について必要な事項を定め、国民の高齢期における所得の確保に係る自主的な努力を支援し、もって公的年金の給付と相まって国民の生活の安定と福祉の向上に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-06-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T17:42:51+09:00"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "505CO0000000328",
+  "law_num": "令和五年政令第三百二十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "328",
+  "promulgation_date": "2023-11-10"
+ },
+ "revision_info": {
+  "law_revision_id": "505CO0000000328_20260401_507CO0000000234",
+  "law_type": "CabinetOrder",
+  "law_title": "漁港水面施設運営権登録令",
+  "law_title_kana": "ぎょこうすいめんしせつうんえいけんとうろくれい",
+  "abbrev": null,
+  "category": "水産業",
+  "updated": "2026-04-02T21:48:34+09:00",
+  "amendment_promulgate_date": "2025-06-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000234",
+  "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第二百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505CO0000000328_20260401_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000328_20240401_000000000000000",
+   "amendment_promulgate_date": "2023-11-10",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　漁港水面施設運営権登録簿等",
+  "第三章　登録手続",
+  "第四章　登録事項の証明等",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令は、漁港水面施設運営権及び漁港水面施設運営権を目的とする抵当権の登録に関し必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-11-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:48:34+09:00"
+ }
+}

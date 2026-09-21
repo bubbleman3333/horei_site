@@ -1,0 +1,197 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "418RJNJ09049032",
+  "law_num": "平成十八年人事院規則九―四九―三二",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "Rule",
+  "law_num_num": "9_49_32",
+  "promulgation_date": "2006-02-01"
+ },
+ "revision_info": {
+  "law_revision_id": "418RJNJ09049032_20260401_508RJNJ09049572",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―四九（地域手当）",
+  "law_title_kana": "じんじいんきそくきゅうのよんじゅうきゅうちいきてあて",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-04-02T19:39:25+09:00",
+  "amendment_promulgate_date": "2026-02-13",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ09049572",
+  "amendment_law_title": "人事院規則九―四九―五七（人事院規則九―四九（地域手当）の一部を改正する人事院規則）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―四九―五七二",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418RJNJ09049032_20260401_508RJNJ09049572",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09049572",
+   "amendment_law_title": "人事院規則九―四九―五七（人事院規則九―四九（地域手当）の一部を改正する人事院規則）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―四九―五七二",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20250401_507RJNJ09049571",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09049571",
+   "amendment_law_title": "人事院規則九―四九―五七（人事院規則九―四九（地域手当）の一部を改正する人事院規則）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―四九―五七一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20250401_507RJNJ09049057",
+   "amendment_promulgate_date": "2025-02-05",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09049057",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―四九―五七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20230327_505RJNJ09049056",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-03-27",
+   "amendment_law_id": "505RJNJ09049056",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―四九―五六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20220401_504RJNJ09049055",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504RJNJ09049055",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則九―四九―五五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20200730_502RJNJ09049054",
+   "amendment_promulgate_date": "2020-07-30",
+   "amendment_enforcement_date": "2020-07-30",
+   "amendment_law_id": "502RJNJ09049054",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―四九―五四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20200214_502RJNJ09049053",
+   "amendment_promulgate_date": "2020-01-29",
+   "amendment_enforcement_date": "2020-02-14",
+   "amendment_law_id": "502RJNJ09049053",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―四九―五三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20191001_501RJNJ09049052",
+   "amendment_promulgate_date": "2019-10-01",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501RJNJ09049052",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和元年人事院規則九―四九―五二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20190401_431RJNJ09049051",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431RJNJ09049051",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十一年人事院規則九―四九―五一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20180401_430RJNJ09049050",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RJNJ09049050",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則九―四九―五〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20180401_430RJNJ01071000",
+   "amendment_promulgate_date": "2018-02-01",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RJNJ01071000",
+   "amendment_law_title": "人事院規則一―七一（一般職の職員の給与に関する法律等の一部を改正する法律の施行に伴う関係人事院規則の整理に関する人事院規則）",
+   "amendment_law_num": "平成三十年人事院規則一―七一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20171001_429RJNJ09049049",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429RJNJ09049049",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―四九―四九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20170801_429RJNJ09049048",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_law_id": "429RJNJ09049048",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―四九―四八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20170714_429RJNJ09049048",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-07-14",
+   "amendment_law_id": "429RJNJ09049048",
+   "amendment_law_title": "人事院規則九―四九（地域手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―四九―四八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418RJNJ09049032_20170401_429RJNJ09049047",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429RJNJ09049047",
+   "amendment_law_num": "平成二十九年人事院規則九―四九―四七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "地域手当の支給については、別に定める場合を除き、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-02-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T19:39:25+09:00"
+ }
+}

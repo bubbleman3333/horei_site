@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "420CO0000000143",
+  "law_num": "平成二十年政令第百四十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "143",
+  "promulgation_date": "2008-04-18"
+ },
+ "revision_info": {
+  "law_revision_id": "420CO0000000143_20260601_508CO0000000173",
+  "law_type": "CabinetOrder",
+  "law_title": "株式会社日本政策金融公庫法施行令",
+  "law_title_kana": "かぶしきがいしゃにっぽんせいさくきんゆうこうこほうしこうれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-06-10T09:51:21+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000173",
+  "amendment_law_title": "資金決済に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第百七十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420CO0000000143_20260601_508CO0000000173",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000173",
+   "amendment_law_title": "資金決済に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000143_20230807_505CO0000000201",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2023-08-07",
+   "amendment_law_id": "505CO0000000201",
+   "amendment_law_title": "中小企業信用保険法施行令及び株式会社日本政策金融公庫法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000143_20220401_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000143_20210601_501CO0000000123",
+   "amendment_promulgate_date": "2019-10-09",
+   "amendment_enforcement_date": "2021-06-01",
+   "amendment_law_id": "501CO0000000123",
+   "amendment_law_title": "食品衛生法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420CO0000000143_20160401_428CO0000000086",
+   "amendment_promulgate_date": "2016-03-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000086",
+   "amendment_law_title": "独立行政法人に係る改革を推進するための農林水産省関係法律の整備に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（生活衛生関係の営業）",
+  "title": "第一条",
+  "paragraphs": [
+   "株式会社日本政策金融公庫法（第十四条第十号を除き、以下「法」という。）第二条第一号に規定する政令で定める営業は、次に掲げる営業とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-04-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-10T09:51:21+09:00"
+ }
+}

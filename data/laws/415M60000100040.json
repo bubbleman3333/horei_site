@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "415M60000100040",
+  "law_num": "平成十五年厚生労働省令第四十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "040",
+  "promulgation_date": "2003-03-20"
+ },
+ "revision_info": {
+  "law_revision_id": "415M60000100040_20260331_508M60000100067",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "厚生労働省の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則",
+  "law_title_kana": "こうせいろうどうしょうのしょかんするほうれいにかかるじょうほうつうしんぎじゅつをかつようしたぎょうせいのすいしんとうにかんするほうりつしこうきそく",
+  "abbrev": "厚生労働省所管法令行政手続オンライン化法施行規則,厚生労働省所管法令行政手続ＩＴ利用法施行規則",
+  "category": "行政手続",
+  "updated": "2026-05-12T09:58:12+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-03-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100067",
+  "amendment_law_title": "厚生労働省の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第六十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415M60000100040_20260331_508M60000100067",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000100067",
+   "amendment_law_title": "厚生労働省の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415M60000100040_20231227_505M60000100165",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000100165",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000100040_20191216_501M60000100080",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000100080",
+   "amendment_law_title": "厚生労働省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000100040_20160101_427M60000100150",
+   "amendment_promulgate_date": "2015-09-29",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_law_id": "427M60000100150",
+   "amendment_law_num": "平成二十七年厚生労働省令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨等）",
+  "title": "第一条",
+  "paragraphs": [
+   "行政機関等に対して行うこととされ、又は行政機関等が行うこととしている厚生労働省の所管する法令の規定に基づく手続等を、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号。以下「法」という。）第六条から第九条までの規定に基づき、電子情報処理組織又は電磁的記録を使用して行わせ、又は行う場合については、他の法令（告示を含む。）、条例、地方公共団体の規則並びに地方公共団体の機関の定める規則及び規程に特別の定めのある場合を除くほか、この省令の定めるところによる。",
+   "行政機関等に対して行うこととされ、又は行政機関等が行うこととしている厚生労働省の所管する法令（告示を含む。）の規定に基づく手続等（法第六条から第九条までの適用を受けるものを除く。）を、電子情報処理組織又は電磁的記録を使用して行わせ、又は行う場合については、他の法令（告示を含む。）、条例、地方公共団体の規則並びに地方公共団体の機関の定める規則及び規程に特別の定めのある場合を除くほか、法第六条から第九条までの規定及び第三条から第十三条までの規定の例による。この場合において、当該手続等が他の法令（法律及び政令を除き、告示を含む。）の規定により電磁的記録のみを使用して行うこととしているものであるときは、法第六条及び第七条並びに第四条第一項及び第九条中「書面等」とあるのは「電磁的記録」と、第四条第一項及び第九条中「記載すべき」とあるのは「記録すべき」と読み替えるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-03-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-12T09:58:12+09:00"
+ }
+}

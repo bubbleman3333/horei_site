@@ -1,0 +1,459 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "328M50000080028",
+  "law_num": "昭和二十八年文部省令第二十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "028",
+  "promulgation_date": "1953-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "328M50000080028_20260801_508M60000080027",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "私立学校教職員共済法施行規則",
+  "law_title_kana": "しりつがっこうきょうしょくいんきょうさいほうしこうきそく",
+  "abbrev": "私学共済法施行規則",
+  "category": "教育",
+  "updated": "2026-08-17T14:01:23+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080027",
+  "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省令第二十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328M50000080028_20260801_508M60000080027",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508M60000080027",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20260614_508M60000080025",
+   "amendment_promulgate_date": "2026-06-12",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "508M60000080025",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20260601_508M60000080017",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000080017",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20260401_508M60000080017",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000080017",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20260401_507M60000080031",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000080031",
+   "amendment_law_title": "私立学校教職員共済法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20260301_508M60000080006",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-03-01",
+   "amendment_law_id": "508M60000080006",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20251226_507M60000080031",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2025-12-26",
+   "amendment_law_id": "507M60000080031",
+   "amendment_law_title": "私立学校教職員共済法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20251101_507M60000080027",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507M60000080027",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20250728_507M60000080017",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2025-07-28",
+   "amendment_law_id": "507M60000080017",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20250601_507M60000080016",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000080016",
+   "amendment_law_title": "私立学校教職員共済法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20250601_507M60000080015",
+   "amendment_promulgate_date": "2025-05-26",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000080015",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う文部科学省関係省令の整理に関する省令",
+   "amendment_law_num": "令和七年文部科学省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20250601_507M60000080002",
+   "amendment_promulgate_date": "2025-02-28",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000080002",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20250401_506M60000080021",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000080021",
+   "amendment_law_title": "私立学校法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20250301_507M60000080002",
+   "amendment_promulgate_date": "2025-02-28",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "507M60000080002",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20250228_507M60000080002",
+   "amendment_promulgate_date": "2025-02-28",
+   "amendment_enforcement_date": "2025-02-28",
+   "amendment_law_id": "507M60000080002",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20250101_506M60000080035",
+   "amendment_promulgate_date": "2024-12-18",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000080035",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20241202_506M60000080032",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000080032",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20240527_506M60000080020",
+   "amendment_promulgate_date": "2024-05-27",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000080020",
+   "amendment_law_title": "私立学校教職員共済法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20240507_506M60000080019",
+   "amendment_promulgate_date": "2024-04-30",
+   "amendment_enforcement_date": "2024-05-07",
+   "amendment_law_id": "506M60000080019",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20240401_506M60000080008",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000080008",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20240301_506M60000080004",
+   "amendment_promulgate_date": "2024-02-28",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "506M60000080004",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20240101_505M60000080041",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000080041",
+   "amendment_law_title": "私立学校教職員共済法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20230929_505M60000080032",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-09-29",
+   "amendment_law_id": "505M60000080032",
+   "amendment_law_title": "私立学校教職員共済法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20230331_505M60000080015",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505M60000080015",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20230101_504M60000080039",
+   "amendment_promulgate_date": "2022-12-28",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000080039",
+   "amendment_law_title": "私立学校教職員共済法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20221001_504M60000080035",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000080035",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20220401_504M60000080013",
+   "amendment_promulgate_date": "2022-03-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000080013",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20220101_503M60000080052",
+   "amendment_promulgate_date": "2021-12-28",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000080052",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20210831_503M60000080041",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-08-31",
+   "amendment_law_id": "503M60000080041",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20210101_502M60000080044",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000080044",
+   "amendment_law_title": "押印を求める手続の見直し等のための文部科学省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20201026_502M60000080038",
+   "amendment_promulgate_date": "2020-10-26",
+   "amendment_enforcement_date": "2020-10-26",
+   "amendment_law_id": "502M60000080038",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20201001_502M60000080035",
+   "amendment_promulgate_date": "2020-09-30",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000080035",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び社会保障協定の実施に伴う私立学校教職員共済法施行規則の特例等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20200401_501M60000080018",
+   "amendment_promulgate_date": "2019-10-08",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000080018",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20191008_501M60000080018",
+   "amendment_promulgate_date": "2019-10-08",
+   "amendment_enforcement_date": "2019-10-08",
+   "amendment_law_id": "501M60000080018",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20190801_431M60000080016",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_law_id": "431M60000080016",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20190701_501M60000080009",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000080009",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う文部科学省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年文部科学省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20190701_431M60000080016",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "431M60000080016",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20190601_431M60000080016",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "431M60000080016",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20190501_431M60000080016",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-05-01",
+   "amendment_law_id": "431M60000080016",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000080028_20190415_431M60000080016",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-04-15",
+   "amendment_law_id": "431M60000080016",
+   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　加入者",
+  "第二章　給付の請求手続等",
+  "第二章の二　福祉事業",
+  "第三章　任意継続加入者等",
+  "第四章　費用の負担",
+  "第五章　共済審査会",
+  "第五章の二　高齢の教職員等に係る特例",
+  "第六章　雑則",
+  "第七章　厚生年金保険給付"
+ ],
+ "article1": {
+  "caption": "（異動報告）",
+  "title": "第一条",
+  "paragraphs": [
+   "私立学校教職員共済法（昭和二十八年法律第二百四十五号。以下「法」という。）第十四条第一項に定める学校法人等（法附則第十項の規定により学校法人とみなされる者を含む。以下「学校法人等」という。）は、当該加入者に関し、次に掲げる事由が生じたときは、十日以内（第一号又は第三号に掲げる事由が生じたときは、五日以内）に、様式第一号（個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号をいう。以下同じ。）を記載したもの）から様式第四号までによる異動報告書を日本私立学校振興・共済事業団（以下「事業団」という。）に提出しなければならない。",
+   "学校法人等は、次の各号に掲げる事由が生じたときは、五日以内に、様式第五号による異動報告書を事業団に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-12-28",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-17T14:01:23+09:00"
+ }
+}

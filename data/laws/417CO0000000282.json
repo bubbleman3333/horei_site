@@ -1,0 +1,159 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "417CO0000000282",
+  "law_num": "平成十七年政令第二百八十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "282",
+  "promulgation_date": "2005-08-15"
+ },
+ "revision_info": {
+  "law_revision_id": "417CO0000000282_20260401_508CO0000000066",
+  "law_type": "CabinetOrder",
+  "law_title": "日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法施行令",
+  "law_title_kana": "にほんかいこうちしまかいこうしゅうへんかいこうがたじしんにかかるじしんぼうさいたいさくのすいしんにかんするとくべつそちほうしこうれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-04-14T09:42:06+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000066",
+  "amendment_law_title": "医療法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417CO0000000282_20260401_508CO0000000066",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000066",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20250401_506CO0000000372",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000372",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う関係政令の整理等に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20241023_506CO0000000315",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2024-10-23",
+   "amendment_law_id": "506CO0000000315",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20220617_504CO0000000215",
+   "amendment_promulgate_date": "2022-06-15",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504CO0000000215",
+   "amendment_law_title": "日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20200401_501CO0000000155",
+   "amendment_promulgate_date": "2019-11-07",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000155",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20180401_430CO0000000055",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000055",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20180401_430CO0000000054",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000054",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律及び児童福祉法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000282_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（地震防災上緊急に整備すべき施設等）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法（以下「法」という。）第五条第一項第一号の政令で定める施設等は、次に掲げるもの（第一号から第十六号までに掲げる施設、設備又は資機材にあっては、当該施設、設備又は資機材に関する主務大臣が定める基準に適合するものに限る。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-08-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:42:06+09:00"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "428AC1000000029",
+  "law_num": "平成二十八年法律第二十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "Act",
+  "law_num_num": "029",
+  "promulgation_date": "2016-04-15"
+ },
+ "revision_info": {
+  "law_revision_id": "428AC1000000029_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "成年後見制度の利用の促進に関する法律",
+  "law_title_kana": "せいねんこうけんせいどのりようのそくしんとうにかんするほうりつ",
+  "abbrev": "成年後見制度利用促進法",
+  "category": "民事",
+  "updated": "2026-07-02T10:03:59+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428AC1000000029_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "428AC1000000029_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428AC1000000029_20180401_000000000000000",
+   "amendment_promulgate_date": "2016-04-15",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428AC1000000029_20160513_000000000000000",
+   "amendment_promulgate_date": "2016-04-15",
+   "amendment_enforcement_date": "2016-05-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針",
+  "第三章　成年後見制度利用促進基本計画",
+  "第四章　成年後見制度利用促進会議",
+  "第五章　地方公共団体の講ずる措置"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、認知症、知的障害その他の精神上の障害があることにより財産の管理又は日常生活等に支障がある者を社会全体で支え合うことが、高齢社会における喫緊の課題であり、かつ、共生社会の実現に資すること及び成年後見制度がこれらの者を支える重要な手段であるにもかかわらず十分に利用されていないことに鑑み、成年後見制度の利用の促進について、その基本理念を定め、国の責務等を明らかにし、及び基本方針その他の基本となる事項を定めること等により、成年後見制度の利用の促進に関する施策を総合的かつ計画的に推進することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2016-04-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-02T10:03:59+09:00"
+ }
+}

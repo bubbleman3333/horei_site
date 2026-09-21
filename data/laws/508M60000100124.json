@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000100124",
+  "law_num": "令和八年厚生労働省令第百二十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "124",
+  "promulgation_date": "2026-08-07"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000100124_20260807_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第十四条に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める省令",
+  "law_title_kana": "ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいにじょうだいいっこうにきていするひょうじゅんかたいしょうじむをさだめるせいれいにきていするでじたるちょうれいそうむしょうれいでさだめるじむをさだめるめいれいだいじゅうよんじょうにきていするじむのしょりにかかるしすてむにひつようとされるきのうとうにかんするひょうじゅんかきじゅんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-08-24T09:55:18+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000100124_20260807_000000000000000",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、地方公共団体情報システムの標準化に関する法律（以下この条において「法」という。）第六条第一項の規定に基づき、地方公共団体情報システム（法第二条第一項に規定する地方公共団体情報システムをいう。以下同じ。）のうち、地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令（令和四年デジタル庁・総務省令第一号）第十四条に規定する事務の処理に係るシステム（以下「国民健康保険システム」という。）に必要とされる機能等（法第二条第二項に規定する機能等（法第五条第二項第三号イからニまでに掲げる事項を除く。）をいう。以下同じ。）に関する標準化基準（法第五条第二項第四号に規定する標準化基準をいう。以下同じ。）を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-08-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-24T09:55:18+09:00"
+ }
+}

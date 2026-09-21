@@ -1,0 +1,172 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "414M60001000029",
+  "law_num": "平成十四年環境省令第二十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "029",
+  "promulgation_date": "2002-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "414M60001000029_20260701_508M60001000019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "土壌汚染対策法施行規則",
+  "law_title_kana": "どじょうおせんたいさくほうしこうきそく",
+  "abbrev": "土対法施行規則",
+  "category": "環境保全",
+  "updated": "2026-07-14T10:58:59+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000019",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年環境省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414M60001000029_20260701_508M60001000019",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001000019",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20240401_506M60001000017",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60001000017",
+   "amendment_law_title": "環境省の所管する法律の規定に基づく立入検査等をする国の職員の携帯する身分を示す証明書の様式を定める省令",
+   "amendment_law_num": "令和六年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20221216_504M60001000026",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2022-12-16",
+   "amendment_law_id": "504M60001000026",
+   "amendment_law_title": "土壌汚染対策法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年環境省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20220701_504M60001000006",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504M60001000006",
+   "amendment_law_title": "土壌汚染対策法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20210401_503M60001000003",
+   "amendment_promulgate_date": "2021-03-25",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60001000003",
+   "amendment_law_title": "水質汚濁防止法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20210401_502M60001000014",
+   "amendment_promulgate_date": "2020-04-02",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60001000014",
+   "amendment_law_title": "土壌汚染対策法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20201228_502M60001000031",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60001000031",
+   "amendment_law_title": "押印を求める手続の見直し等のための環境省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20200402_502M60001000014",
+   "amendment_promulgate_date": "2020-04-02",
+   "amendment_enforcement_date": "2020-04-02",
+   "amendment_law_id": "502M60001000014",
+   "amendment_law_title": "土壌汚染対策法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20200330_502M60001000009",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60001000009",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和二年環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20190401_431M60001000003",
+   "amendment_promulgate_date": "2019-01-28",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60001000003",
+   "amendment_law_title": "土壌汚染対策法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20180401_429M60001000029",
+   "amendment_promulgate_date": "2017-12-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60001000029",
+   "amendment_law_title": "土壌汚染対策法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年環境省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60001000029_20170401_428M60001000003",
+   "amendment_promulgate_date": "2016-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428M60001000003",
+   "amendment_law_title": "土壌汚染対策法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十八年環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（使用が廃止された有害物質使用特定施設に係る工場又は事業場の敷地であった土地の調査）",
+  "title": "第一条",
+  "paragraphs": [
+   "土壌汚染対策法（平成十四年法律第五十三号。以下「法」という。）第三条第一項本文の報告は、次の各号に掲げる場合の区分に応じ、当該各号に定める日から起算して百二十日以内に行わなければならない。ただし、当該期間内に当該報告を行うことができない特別の事情があると認められるときは、都道府県知事（土壌汚染対策法施行令（平成十四年政令第三百三十六号。以下「令」という。）第十条に規定する市にあっては、市長。以下同じ。）は、当該土地の所有者等（法第三条第一項本文に規定する所有者等をいう。以下同じ。）の申請により、その期限を延長することができる。",
+   "法第三条第一項本文の報告は、次に掲げる事項を記載した様式第一による報告書を提出して行うものとする。",
+   "前項の報告書には、土壌汚染状況調査の対象地の土壌の特定有害物質による汚染状態を明らかにした図面を添付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-12-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-14T10:58:59+09:00"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60004008008",
+  "law_num": "令和八年デジタル庁・総務省令第八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "008",
+  "promulgation_date": "2026-03-24"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60004008008_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方公共団体情報システムの標準化に関する法律第七条第一項に規定する各地方公共団体情報システムに共通する基準のうち電磁的記録において用いられる用語及び符号の相互運用性の確保その他の地方公共団体情報システムに係る互換性の確保に関する標準を定める命令",
+  "law_title_kana": "ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいななじょうだいいっこうにきていするかくちほうこうきょうだんたいじょうほうしすてむにきょうつうするきじゅんのうちでんじてききろくにおいてもちいられるようごおよびふごうのそうごうんようせいのかくほそのたのちほうこうきょうだんたいじょうほうしすてむにかかるごかんせいのかくほにかんするひょうじゅんをさだめるめいれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-04-09T10:07:54+09:00",
+  "amendment_promulgate_date": "2026-03-24",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60004008008_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令は、地方公共団体情報システムの標準化に関する法律（以下「法」という。）第七条第一項の規定に基づき、各地方公共団体情報システムに共通する基準のうち電磁的記録において用いられる用語及び符号の相互運用性の確保その他の地方公共団体情報システムに係る互換性の確保に関する標準（以下「データ要件・連携要件の標準」という。）を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-09T10:07:54+09:00"
+ }
+}

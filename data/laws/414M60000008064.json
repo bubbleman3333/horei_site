@@ -1,0 +1,251 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "414M60000008064",
+  "law_num": "平成十四年総務省令第六十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "064",
+  "promulgation_date": "2002-06-19"
+ },
+ "revision_info": {
+  "law_revision_id": "414M60000008064_20260810_508M60000008107",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "第一号基礎的電気通信役務の提供に係る第一種交付金及び第一種負担金算定等規則",
+  "law_title_kana": "だいいちごうきそてきでんきつうしんえきむのていきょうにかかるだいいっしゅこうふきんおよびだいいっしゅふたんきんさんていとうきそく",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-08-26T09:27:24+09:00",
+  "amendment_promulgate_date": "2026-08-10",
+  "amendment_enforcement_date": "2026-08-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008107",
+  "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第百七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414M60000008064_20260810_508M60000008107",
+   "amendment_promulgate_date": "2026-08-10",
+   "amendment_enforcement_date": "2026-08-10",
+   "amendment_law_id": "508M60000008107",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20260127_508M60000008006",
+   "amendment_promulgate_date": "2026-01-27",
+   "amendment_enforcement_date": "2026-01-27",
+   "amendment_law_id": "508M60000008006",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20250718_507M60000008066",
+   "amendment_promulgate_date": "2025-07-18",
+   "amendment_enforcement_date": "2025-07-18",
+   "amendment_law_id": "507M60000008066",
+   "amendment_law_title": "基礎的電気通信役務の提供に係る交付金及び負担金算定等規則の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20250401_507M60000008017",
+   "amendment_promulgate_date": "2025-03-25",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000008017",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20250101_506M60000008110",
+   "amendment_promulgate_date": "2024-12-16",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000008110",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20241220_506M60000008114",
+   "amendment_promulgate_date": "2024-12-20",
+   "amendment_enforcement_date": "2024-12-20",
+   "amendment_law_id": "506M60000008114",
+   "amendment_law_title": "電気通信事業報告規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20241216_506M60000008110",
+   "amendment_promulgate_date": "2024-12-16",
+   "amendment_enforcement_date": "2024-12-16",
+   "amendment_law_id": "506M60000008110",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20240830_506M60000008082",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-08-30",
+   "amendment_law_id": "506M60000008082",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20240401_506M60000008031",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000008031",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20240101_505M60000008065",
+   "amendment_promulgate_date": "2023-08-28",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000008065",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20230828_505M60000008065",
+   "amendment_promulgate_date": "2023-08-28",
+   "amendment_enforcement_date": "2023-08-28",
+   "amendment_law_id": "505M60000008065",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20230616_505M60000008051",
+   "amendment_promulgate_date": "2023-06-02",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505M60000008051",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20230401_505M60000008018",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000008018",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20201201_502M60000008103",
+   "amendment_promulgate_date": "2020-11-19",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000008103",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20200525_502M60000008053",
+   "amendment_promulgate_date": "2020-05-25",
+   "amendment_enforcement_date": "2020-05-25",
+   "amendment_law_id": "502M60000008053",
+   "amendment_law_title": "基礎的電気通信役務の提供に係る交付金及び負担金算定等規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20190522_501M60000008005",
+   "amendment_promulgate_date": "2019-05-14",
+   "amendment_enforcement_date": "2019-05-22",
+   "amendment_law_id": "501M60000008005",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20190401_431M60000008021",
+   "amendment_promulgate_date": "2019-03-22",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000008021",
+   "amendment_law_title": "基礎的電気通信役務の提供に係る交付金及び負担金算定等規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20181101_430M60000008049",
+   "amendment_promulgate_date": "2018-07-24",
+   "amendment_enforcement_date": "2018-11-01",
+   "amendment_law_id": "430M60000008049",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年総務省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20171019_429M60000008070",
+   "amendment_promulgate_date": "2017-10-19",
+   "amendment_enforcement_date": "2017-10-19",
+   "amendment_law_id": "429M60000008070",
+   "amendment_law_title": "電気通信番号規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年総務省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000008064_20170401_428M60000008078",
+   "amendment_promulgate_date": "2016-08-04",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428M60000008078",
+   "amendment_law_num": "平成二十八年総務省令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　第一種交付金",
+  "第三章　第一種負担金"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、第一号基礎的電気通信役務の提供に係る第一種交付金の額及び第一種負担金の額の算定方法等を定め、もって第一号基礎的電気通信役務の適切、公平かつ安定的な提供の確保に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-06-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-26T09:27:24+09:00"
+ }
+}

@@ -1,0 +1,209 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "337CO0000000288",
+  "law_num": "昭和三十七年政令第二百八十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "288",
+  "promulgation_date": "1962-07-09"
+ },
+ "revision_info": {
+  "law_revision_id": "337CO0000000288_20260401_508CO0000000110",
+  "law_type": "CabinetOrder",
+  "law_title": "災害対策基本法施行令",
+  "law_title_kana": "さいがいたいさくきほんほうしこうれい",
+  "abbrev": "災対法施行令",
+  "category": "災害対策",
+  "updated": "2026-04-21T10:24:11+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000110",
+  "amendment_law_title": "災害対策基本法施行令及び大規模災害からの復興に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337CO0000000288_20260401_508CO0000000110",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000110",
+   "amendment_law_title": "災害対策基本法施行令及び大規模災害からの復興に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20260401_508CO0000000084",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000084",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20250701_507CO0000000207",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000207",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20240401_506CO0000000075",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000075",
+   "amendment_law_title": "災害対策基本法施行令及び大規模災害からの復興に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20230901_505CO0000000180",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505CO0000000180",
+   "amendment_law_title": "災害対策基本法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20210520_503CO0000000153",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503CO0000000153",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20210401_502CO0000000300",
+   "amendment_promulgate_date": "2020-10-02",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502CO0000000300",
+   "amendment_law_title": "復興庁設置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20200916_502CO0000000275",
+   "amendment_promulgate_date": "2020-09-11",
+   "amendment_enforcement_date": "2020-09-16",
+   "amendment_law_id": "502CO0000000275",
+   "amendment_law_title": "災害対策基本法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20200401_502CO0000000061",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000061",
+   "amendment_law_title": "地方公務員法及び地方自治法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20190401_431CO0000000088",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000088",
+   "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十一年政令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20190401_431CO0000000087",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000087",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20190401_430CO0000000359",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000359",
+   "amendment_law_title": "災害救助法施行令及び災害対策基本法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20170401_429CO0000000119",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000119",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000288_20170401_429CO0000000057",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000057",
+   "amendment_law_title": "非常勤消防団員等に係る損害補償の基準を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　中央防災会議",
+  "第三章　地方防災会議",
+  "第四章　災害時における職員の派遣",
+  "第五章　政令で定める計画",
+  "第五章の二　災害予防",
+  "第六章　災害応急対策",
+  "第七章　災害復旧",
+  "第八章　財政金融措置",
+  "第九章　雑則"
+ ],
+ "article1": {
+  "caption": "（政令で定める原因）",
+  "title": "第一条",
+  "paragraphs": [
+   "災害対策基本法（以下「法」という。）第二条第一号の政令で定める原因は、放射性物質の大量の放出、多数の者の遭難を伴う船舶の沈没その他の大規模な事故とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-07-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:24:11+09:00"
+ }
+}

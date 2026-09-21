@@ -1,0 +1,258 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "323CO0000000267",
+  "law_num": "昭和二十三年政令第二百六十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "267",
+  "promulgation_date": "1948-08-27"
+ },
+ "revision_info": {
+  "law_revision_id": "323CO0000000267_20260501_507CO0000000362",
+  "law_type": "CabinetOrder",
+  "law_title": "地方財政法施行令",
+  "law_title_kana": "ちほうざいせいほうしこうれい",
+  "abbrev": "地財法施行令",
+  "category": "地方財政",
+  "updated": "2026-05-01T00:15:20+09:00",
+  "amendment_promulgate_date": "2025-10-31",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000362",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和七年政令第三百六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323CO0000000267_20260501_507CO0000000362",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507CO0000000362",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第三百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20260401_508CO0000000084",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000084",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20250401_507CO0000000118",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000118",
+   "amendment_law_title": "地方財政法施行令及び地方自治法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20240401_506CO0000000139",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000139",
+   "amendment_law_title": "奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20240401_506CO0000000135",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000135",
+   "amendment_law_title": "地方財政法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20230401_505CO0000000131",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000131",
+   "amendment_law_title": "地方財政法施行令及び地方公共団体の財政の健全化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20220401_504CO0000000132",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000132",
+   "amendment_law_title": "地方財政法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20210401_503CO0000000111",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000111",
+   "amendment_law_title": "地方財政法施行令及び地方公共団体の財政の健全化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20210215_503CO0000000029",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503CO0000000029",
+   "amendment_law_title": "押印を求める手続の見直し等のための総務省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20200401_502CO0000000108",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000108",
+   "amendment_law_title": "地方財政法施行令及び地方公共団体の財政の健全化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20200401_502CO0000000061",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000061",
+   "amendment_law_title": "地方公務員法及び地方自治法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20200214_502CO0000000015",
+   "amendment_promulgate_date": "2020-01-29",
+   "amendment_enforcement_date": "2020-02-14",
+   "amendment_law_id": "502CO0000000015",
+   "amendment_law_title": "港湾法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20190621_501CO0000000032",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-06-21",
+   "amendment_law_id": "501CO0000000032",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20190401_431CO0000000090",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000090",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "平成三十一年政令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20190401_431CO0000000088",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000088",
+   "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十一年政令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20190401_431CO0000000087",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000087",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20190401_431CO0000000040",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000040",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "平成三十一年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20190329_431CO0000000089",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-03-29",
+   "amendment_law_id": "431CO0000000089",
+   "amendment_law_title": "特別法人事業税及び特別法人事業譲与税に関する法律施行令",
+   "amendment_law_num": "平成三十一年政令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20180401_430CO0000000093",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000093",
+   "amendment_law_title": "地方財政法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000267_20170401_429CO0000000119",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000119",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第五条第五号の政令で定める法人）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方財政法（以下「法」という。）第五条第五号に規定する国又は地方公共団体が出資している法人で政令で定めるものは、国、地方公共団体又は国若しくは地方公共団体の全額出資に係る法人が資本金、基本金その他これらに準ずるもの（以下この条において「資本金等」という。）の二分の一以上を出資し、かつ、国又は地方公共団体が資本金等の三分の一以上を出資している法人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-08-27",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-01T00:15:20+09:00"
+ }
+}

@@ -1,0 +1,461 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "411AC0000000089",
+  "law_num": "平成十一年法律第八十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "Act",
+  "law_num_num": "089",
+  "promulgation_date": "1999-07-16"
+ },
+ "revision_info": {
+  "law_revision_id": "411AC0000000089_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "内閣府設置法",
+  "law_title_kana": "ないかくふせっちほう",
+  "abbrev": "中央省庁等改革関連法",
+  "category": "行政組織",
+  "updated": "2026-07-23T13:52:10+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411AC0000000089_20270616_508AC0000000039",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2027-06-16",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-06-16",
+   "amendment_law_id": "508AC0000000039",
+   "amendment_law_title": "人工衛星等の打上げ及び人工衛星の管理に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20270616_508AC0000000038",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2027-06-16",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-06-16",
+   "amendment_law_id": "508AC0000000038",
+   "amendment_law_title": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律及び株式会社国際協力銀行法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20261030_508AC1000000078",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-10-30",
+   "amendment_enforcement_comment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-10-30",
+   "amendment_law_id": "508AC1000000078",
+   "amendment_law_title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
+   "amendment_law_num": "令和八年法律第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20261001_507AC0000000070",
+   "amendment_promulgate_date": "2025-06-18",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000070",
+   "amendment_law_title": "日本学術会議法",
+   "amendment_law_num": "令和七年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20260715_508AC1000000054",
+   "amendment_promulgate_date": "2026-07-15",
+   "amendment_enforcement_date": "2026-07-15",
+   "amendment_law_id": "508AC1000000054",
+   "amendment_law_title": "有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20260617_508AC0000000039",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2026-06-17",
+   "amendment_law_id": "508AC0000000039",
+   "amendment_law_title": "人工衛星等の打上げ及び人工衛星の管理に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20260401_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20260401_506AC0000000030",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000030",
+   "amendment_law_title": "公益信託に関する法律",
+   "amendment_law_num": "令和六年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20250901_507AC0000000053",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507AC0000000053",
+   "amendment_law_title": "人工知能関連技術の研究開発及び活用の推進に関する法律",
+   "amendment_law_num": "令和七年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20250701_507AC0000000051",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507AC0000000051",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20250701_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20250611_507AC0000000063",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2025-06-11",
+   "amendment_law_id": "507AC0000000063",
+   "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20250604_507AC0000000051",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-06-04",
+   "amendment_law_id": "507AC0000000051",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20250523_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20250401_505AC0000000086",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000086",
+   "amendment_law_title": "官報の発行に関する法律の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20250331_507AC1000000015",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507AC1000000015",
+   "amendment_law_title": "地域人口の急減に対処するための特定地域づくり事業の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20241101_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20240517_506AC0000000027",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506AC0000000027",
+   "amendment_law_title": "重要経済安保情報の保護及び活用に関する法律",
+   "amendment_law_num": "令和六年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20240401_505AC0000000045",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000045",
+   "amendment_law_title": "孤独・孤立対策推進法",
+   "amendment_law_num": "令和五年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20240401_505AC0000000035",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000035",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20240201_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20231129_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2023-11-29",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20230623_505AC1000000068",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-06-23",
+   "amendment_law_id": "505AC1000000068",
+   "amendment_law_title": "性的指向及びジェンダーアイデンティティの多様性に関する国民の理解の増進に関する法律",
+   "amendment_law_num": "令和五年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20230401_504AC0000000076",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000076",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20230401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20220801_504AC0000000043",
+   "amendment_promulgate_date": "2022-05-18",
+   "amendment_enforcement_date": "2022-08-01",
+   "amendment_law_id": "504AC0000000043",
+   "amendment_law_title": "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律",
+   "amendment_law_num": "令和四年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20220622_504AC0000000076",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504AC0000000076",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20220601_503AC0000000084",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "503AC0000000084",
+   "amendment_law_title": "重要施設周辺及び国境離島等における土地等の利用状況の調査及び利用の規制等に関する法律",
+   "amendment_law_num": "令和三年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20220401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20220331_504AC0000000007",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "504AC0000000007",
+   "amendment_law_title": "沖縄振興特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20211001_503AC0000000077",
+   "amendment_promulgate_date": "2021-06-18",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503AC0000000077",
+   "amendment_law_title": "公共建築物等における木材の利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20210901_503AC0000000039",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000039",
+   "amendment_law_title": "預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律",
+   "amendment_law_num": "令和三年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20210901_503AC0000000038",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000038",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律",
+   "amendment_law_num": "令和三年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20210616_503AC0000000070",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503AC0000000070",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律",
+   "amendment_law_num": "令和三年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20210520_503AC0000000030",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503AC0000000030",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20210519_503AC0000000039",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000039",
+   "amendment_law_title": "預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律",
+   "amendment_law_num": "令和三年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000089_20210519_503AC0000000038",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000038",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律",
+   "amendment_law_num": "令和三年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　内閣府の設置並びに任務及び所掌事務",
+  "第三章　組織",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、内閣府の設置並びに任務及びこれを達成するため必要となる明確な範囲の所掌事務を定めるとともに、その所掌する行政事務を能率的に遂行するため必要な組織に関する事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-07-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-23T13:52:10+09:00"
+ }
+}

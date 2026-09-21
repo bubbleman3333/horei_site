@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "502M60000800049",
+  "law_num": "令和二年国土交通省令第四十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "049",
+  "promulgation_date": "2020-05-25"
+ },
+ "revision_info": {
+  "law_revision_id": "502M60000800049_20200601_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "船員に関する労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律施行規則",
+  "law_title_kana": "せんいんにかんするろうどうしさくのそうごうてきなすいしんならびにろうどうしゃのこようのあんていおよびしょくぎょうせいかつのじゅうじつとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2021-06-18T06:06:09+09:00",
+  "amendment_promulgate_date": "2020-05-25",
+  "amendment_enforcement_date": "2020-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": "",
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502M60000800049_20261001_508M60000800072",
+   "amendment_promulgate_date": "2026-08-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800072",
+   "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "502M60000800049_20200601_000000000000000",
+   "amendment_promulgate_date": "2020-05-25",
+   "amendment_enforcement_date": "2020-06-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（準用）",
+  "title": "第一条",
+  "paragraphs": [
+   "船員に関する雇用の分野における男女の均等な機会及び待遇の確保等に関する法律施行規則（昭和六十一年運輸省令第一号）第五条から第十三条までの規定は、労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律（昭和四十一年法律第百三十二号。以下「法」という。）第三十八条第二項の規定により読み替えて適用する法第三十条の六第一項の規定により指名を受けて調停員が行う調停について準用する。この場合において、同令第五条第一項中「第七条及び第十四条」とあるのは「船員に関する労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律施行規則（以下「船員労働施策総合推進法施行規則」という。）第一条において準用する第七条」と、「法第三十一条第三項」とあるのは「労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律（昭和四十一年法律第百三十二号。以下「労働施策総合推進法」という。）第三十八条第三項において準用する法第三十一条第三項」と、同項及び同令第七条中「法第三十一条第一項の規定により読み替えて適用される法第十八条第一項」とあるのは「労働施策総合推進法第三十条の六第一項」と、同項及び同令第六条（見出しを含む。）中「機会均等調停会議」とあるのは「優越的言動問題調停会議」と、同令第九条第一項中「法第三十一条第五項の規定により読み替えて準用する法第二十条」とあるのは「労働施策総合推進法第三十八条第三項において準用する法第二十条」と、同令第十条中「事業場」とあるのは「事業所」と、同令第十一条中「第六条第一項及び第二項」とあるのは「船員労働施策総合…"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-05-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2021-06-18T06:06:09+09:00"
+ }
+}

@@ -1,0 +1,342 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "325CO0000000338",
+  "law_num": "昭和二十五年政令第三百三十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "338",
+  "promulgation_date": "1950-11-16"
+ },
+ "revision_info": {
+  "law_revision_id": "325CO0000000338_20251201_507CO0000000377",
+  "law_type": "CabinetOrder",
+  "law_title": "建築基準法施行令",
+  "law_title_kana": "けんちくきじゅんほうしこうれい",
+  "abbrev": "建基法施行令",
+  "category": "建築・住宅",
+  "updated": "2026-02-18T18:37:00+09:00",
+  "amendment_promulgate_date": "2025-11-19",
+  "amendment_enforcement_date": "2025-12-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000377",
+  "amendment_law_title": "建築基準法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百七十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325CO0000000338_20251201_507CO0000000377",
+   "amendment_promulgate_date": "2025-11-19",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507CO0000000377",
+   "amendment_law_title": "建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20251101_507CO0000000310",
+   "amendment_promulgate_date": "2025-09-03",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507CO0000000310",
+   "amendment_law_title": "建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20250903_507CO0000000310",
+   "amendment_promulgate_date": "2025-09-03",
+   "amendment_enforcement_date": "2025-09-03",
+   "amendment_law_id": "507CO0000000310",
+   "amendment_law_title": "建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20250401_506CO0000000172",
+   "amendment_promulgate_date": "2024-04-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000172",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20250401_506CO0000000001",
+   "amendment_promulgate_date": "2024-01-04",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000001",
+   "amendment_law_title": "水質汚濁防止法施行令及び建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20241101_506CO0000000312",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506CO0000000312",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20240401_505CO0000000324",
+   "amendment_promulgate_date": "2023-11-10",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000324",
+   "amendment_law_title": "道路法施行令及び建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20240401_505CO0000000293",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000293",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20240401_505CO0000000280",
+   "amendment_promulgate_date": "2023-09-13",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000280",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第二百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20230526_504CO0000000393",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "504CO0000000393",
+   "amendment_law_title": "宅地造成等規制法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20230401_505CO0000000034",
+   "amendment_promulgate_date": "2023-02-10",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000034",
+   "amendment_law_title": "建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20230401_504CO0000000351",
+   "amendment_promulgate_date": "2022-11-16",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000351",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20221216_504CO0000000381",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2022-12-16",
+   "amendment_law_id": "504CO0000000381",
+   "amendment_law_title": "港湾法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20221001_504CO0000000295",
+   "amendment_promulgate_date": "2022-09-02",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000295",
+   "amendment_law_title": "建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20220531_504CO0000000203",
+   "amendment_promulgate_date": "2022-05-27",
+   "amendment_enforcement_date": "2022-05-31",
+   "amendment_law_id": "504CO0000000203",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20211101_503CO0000000296",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000296",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20210715_503CO0000000205",
+   "amendment_promulgate_date": "2021-07-14",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_law_id": "503CO0000000205",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20200907_502CO0000000268",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502CO0000000268",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20200401_501CO0000000181",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000181",
+   "amendment_law_title": "建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20190914_501CO0000000091",
+   "amendment_promulgate_date": "2019-09-06",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501CO0000000091",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係政令の整理等に関する政令",
+   "amendment_law_num": "令和元年政令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20190701_501CO0000000044",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000044",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20190625_501CO0000000030",
+   "amendment_promulgate_date": "2019-06-19",
+   "amendment_enforcement_date": "2019-06-25",
+   "amendment_law_id": "501CO0000000030",
+   "amendment_law_title": "建築基準法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20180925_430CO0000000255",
+   "amendment_promulgate_date": "2018-09-12",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430CO0000000255",
+   "amendment_law_title": "建築基準法の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第二百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20180715_430CO0000000202",
+   "amendment_promulgate_date": "2018-07-11",
+   "amendment_enforcement_date": "2018-07-15",
+   "amendment_law_id": "430CO0000000202",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20180401_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000338_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　一般構造",
+  "第三章　構造強度",
+  "第四章　耐火構造、準耐火構造、防火構造、防火区画等",
+  "第五章　避難施設等",
+  "第五章の二　特殊建築物等の内装",
+  "第五章の三　避難上の安全の検証",
+  "第五章の四　建築設備等",
+  "第六章　建築物の用途",
+  "第七章　建築物の各部分の高さ等",
+  "第七章の二　防火地域又は準防火地域内の建築物",
+  "第七章の二の二　特定防災街区整備地区内の建築物",
+  "第七章の三　地区計画等の区域",
+  "第七章の四　都市計画区域及び準都市計画区域以外の区域内の建築物の敷地及び構造",
+  "第七章の五　型式適合認定等",
+  "第七章の六　指定確認検査機関等",
+  "第七章の七　建築基準適合判定資格者等の登録手数料",
+  "第七章の八　工事現場の危害の防止",
+  "第七章の九　簡易な構造の建築物に対する制限の緩和",
+  "第七章の十　一の敷地とみなすこと等による制限の緩和",
+  "第八章　既存の建築物に対する制限の緩和等",
+  "第九章　工作物",
+  "第十章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-11-16",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-02-18T18:37:00+09:00"
+ }
+}

@@ -1,0 +1,60 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000400058",
+  "law_num": "令和八年経済産業省令第五十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "058",
+  "promulgation_date": "2026-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000400058_20261211_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律施行規則",
+  "law_title_kana": "えんかつなじぎょうさいせいをはかるためのじぎょうしゃのきんゆうきかんとうにたいするさいむのちょうせいのてつづきとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-07-13T10:10:38+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-12-11",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000400058_20261211_000000000000000",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　対象債権者の権利の変更に関する手続",
+  "第三章　指定確認調査機関",
+  "第四章　確認事業者に係る特例"
+ ],
+ "article1": {
+  "caption": "（用語の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律（令和七年法律第六十七号。以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-13T10:10:38+09:00"
+ }
+}

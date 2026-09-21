@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "328CO0000000235",
+  "law_num": "昭和二十八年政令第二百三十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "235",
+  "promulgation_date": "1953-08-31"
+ },
+ "revision_info": {
+  "law_revision_id": "328CO0000000235_20260701_508CO0000000217",
+  "law_type": "CabinetOrder",
+  "law_title": "家畜伝染病予防法施行令",
+  "law_title_kana": "かちくでんせんびょうよぼうほうしこうれい",
+  "abbrev": "家伝法施行令",
+  "category": "農業",
+  "updated": "2026-07-08T10:04:22+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000217",
+  "amendment_law_title": "家畜伝染病予防法施行令及び関税法施行令の一部を改正する等の政令",
+  "amendment_law_num": "令和八年政令第二百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328CO0000000235_20270501_508CO0000000217",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2027-05-01",
+   "amendment_law_id": "508CO0000000217",
+   "amendment_law_title": "家畜伝染病予防法施行令及び関税法施行令の一部を改正する等の政令",
+   "amendment_law_num": "令和八年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000235_20260701_508CO0000000217",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000217",
+   "amendment_law_title": "家畜伝染病予防法施行令及び関税法施行令の一部を改正する等の政令",
+   "amendment_law_num": "令和八年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000235_20260501_507CO0000000362",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507CO0000000362",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第三百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000235_20251001_507CO0000000311",
+   "amendment_promulgate_date": "2025-09-03",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000311",
+   "amendment_law_title": "家畜伝染病予防法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000235_20240401_506CO0000000065",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000065",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000235_20200701_502CO0000000201",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502CO0000000201",
+   "amendment_law_title": "家畜伝染病予防法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000235_20200205_502CO0000000025",
+   "amendment_promulgate_date": "2020-02-05",
+   "amendment_enforcement_date": "2020-02-05",
+   "amendment_law_id": "502CO0000000025",
+   "amendment_law_title": "家畜伝染病予防法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000235_20190914_501CO0000000070",
+   "amendment_promulgate_date": "2019-08-01",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501CO0000000070",
+   "amendment_law_title": "家畜伝染病予防法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000235_20160914_428CO0000000305",
+   "amendment_promulgate_date": "2016-09-14",
+   "amendment_enforcement_date": "2016-09-14",
+   "amendment_law_id": "428CO0000000305",
+   "amendment_law_title": "家畜伝染病予防法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（政令で定めるその他の家畜）",
+  "title": "第一条",
+  "paragraphs": [
+   "家畜伝染病予防法（以下「法」という。）第二条第一項の政令で定めるその他の家畜は、次の表の上欄に掲げる伝染性疾病ごとにそれぞれ同表の下欄に掲げる家畜とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-08-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-08T10:04:22+09:00"
+ }
+}

@@ -1,0 +1,200 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "431M60000010027",
+  "law_num": "平成三十一年法務省令第二十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 31,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "027",
+  "promulgation_date": "2019-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "431M60000010027_20260614_508M60000010039",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方出入国在留管理局組織規則",
+  "law_title_kana": "ちほうしゅつにゅうこくざいりゅうかんりきょくそしききそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-06-29T10:14:56+09:00",
+  "amendment_promulgate_date": "2026-06-12",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010039",
+  "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "431M60000010027_20260614_508M60000010039",
+   "amendment_promulgate_date": "2026-06-12",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "508M60000010039",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20260408_508M60000010027",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000010027",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20250526_507M60000010032",
+   "amendment_promulgate_date": "2025-05-01",
+   "amendment_enforcement_date": "2025-05-26",
+   "amendment_law_id": "507M60000010032",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20250515_507M60000010032",
+   "amendment_promulgate_date": "2025-05-01",
+   "amendment_enforcement_date": "2025-05-15",
+   "amendment_law_id": "507M60000010032",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20250401_507M60000010025",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000010025",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20240610_506M60000010040",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-06-10",
+   "amendment_law_id": "506M60000010040",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20240401_506M60000010022",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000010022",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20231201_505M60000010041",
+   "amendment_promulgate_date": "2023-11-06",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505M60000010041",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20230401_505M60000010016",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000010016",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20221001_504M60000010037",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000010037",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20220401_504M60000010020",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000010020",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20211001_503M60000010026",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000010026",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20210401_503M60000010026",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000010026",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20200401_502M60000010018",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010018",
+   "amendment_law_title": "地方出入国在留管理局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000010027_20190401_000000000000000",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（地方出入国在留管理局に置く課等）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方出入国在留管理局に、次に掲げる課及び室を置く。",
+   "前項に掲げる課及び室のほか、札幌出入国在留管理局、仙台出入国在留管理局及び高松出入国在留管理局にそれぞれ監理官一人、首席審査官二人及び首席入国警備官一人を、東京出入国在留管理局に監理官一人、審査監理官三人、警備監理官二人、首席審査官二十人及び首席入国警備官十一人を、名古屋出入国在留管理局に審査監理官一人、警備監理官一人、首席審査官十一人及び首席入国警備官五人を、大阪出入国在留管理局に審査監理官一人、警備監理官一人、首席審査官九人及び首席入国警備官五人を、広島出入国在留管理局に監理官一人、首席審査官三人及び首席入国警備官一人を、福岡出入国在留管理局に監理官一人、首席審査官四人及び首席入国警備官一人を置く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-29T10:14:56+09:00"
+ }
+}

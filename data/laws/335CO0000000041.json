@@ -1,0 +1,104 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "335CO0000000041",
+  "law_num": "昭和三十五年政令第四十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 35,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "041",
+  "promulgation_date": "1960-03-24"
+ },
+ "revision_info": {
+  "law_revision_id": "335CO0000000041_20260521_508CO0000000038",
+  "law_type": "CabinetOrder",
+  "law_title": "意匠登録令",
+  "law_title_kana": "いしょうとうろくれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-21T01:22:17+09:00",
+  "amendment_promulgate_date": "2026-03-18",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000038",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "335CO0000000041_20260521_508CO0000000038",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000038",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000041_20260401_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000041_20250627_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-06-27",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000041_20200401_502CO0000000035",
+   "amendment_promulgate_date": "2020-02-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000035",
+   "amendment_law_title": "特許法等の一部を改正する法律の施行に伴う意匠登録令の規定の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000041_20160401_428CO0000000018",
+   "amendment_promulgate_date": "2016-01-22",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000018",
+   "amendment_law_title": "特許法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十八年政令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　意匠原簿及び閉鎖意匠原簿",
+  "第三章　登録の手続"
+ ],
+ "article1": {
+  "caption": "（登録事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "意匠に関する登録は、意匠法第六十一条第一項各号（同法第六十条の十九第一項において読み替えて適用する場合を含む。）に掲げる事項のほか、次に掲げる事項についてする。",
+   "国際登録を基礎とした意匠権（意匠法第六十条の十四第二項に規定する国際登録を基礎とした意匠権をいう。以下同じ。）に関する登録は、前項に規定する事項のほか、国際登録を基礎とした意匠権に係る国際登録簿（同法第六十条の六第三項に規定する国際登録簿をいう。以下同じ。）に登録された事項（国際登録を基礎とした意匠権の移転又は消滅（存続期間の満了によるものを除く。）に係るものに限る。第六条第五号において同じ。）についてする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1960-03-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:22:17+09:00"
+ }
+}

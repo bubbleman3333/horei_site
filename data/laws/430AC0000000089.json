@@ -1,0 +1,123 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "430AC0000000089",
+  "law_num": "平成三十年法律第八十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "Act",
+  "law_num_num": "089",
+  "promulgation_date": "2018-12-07"
+ },
+ "revision_info": {
+  "law_revision_id": "430AC0000000089_20260401_507AC0000000059",
+  "law_type": "Act",
+  "law_title": "海洋再生可能エネルギー発電設備の整備に関する法律",
+  "law_title_kana": "かいようさいせいかのうえねるぎーはつでんせつびのせいびにかんするほうりつ",
+  "abbrev": "再エネ海域利用法",
+  "category": "工業",
+  "updated": "2026-04-02T21:26:23+09:00",
+  "amendment_promulgate_date": "2025-06-11",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000059",
+  "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430AC0000000089_20260401_507AC0000000059",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000059",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000089_20250611_507AC0000000059",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2025-06-11",
+   "amendment_law_id": "507AC0000000059",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000089_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000089_20240401_505AC0000000034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000034",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000089_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000089_20220401_502AC0000000049",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000049",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000089_20190401_000000000000000",
+   "amendment_promulgate_date": "2018-12-07",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針",
+  "第三章　領海及び内水における海洋再生可能エネルギー発電設備の設置",
+  "第四章　排他的経済水域における海洋再生可能エネルギー発電設備の設置",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、海洋再生可能エネルギー発電事業の長期的、安定的かつ効率的な実施の重要性に鑑み、海洋基本法（平成十九年法律第三十三号）に規定する海洋に関する施策との調和を図りつつ、海洋再生可能エネルギー発電設備の整備に係る海域の利用を促進するため、海洋再生可能エネルギー発電設備整備促進区域の指定、海洋再生可能エネルギー発電設備整備促進区域内の海域の占用等に係る計画の認定制度の創設等の措置を講ずるとともに、海洋法に関する国際連合条約に定める権利を的確に行使し、排他的経済水域における海洋再生可能エネルギー源の適正な利用を図るため、排他的経済水域における海洋再生可能エネルギー発電設備の設置の許可等について定めることにより、我が国の経済社会の健全な発展及び国民生活の安定向上に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-12-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:26:23+09:00"
+ }
+}

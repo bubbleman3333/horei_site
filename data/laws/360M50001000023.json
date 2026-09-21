@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "360M50001000023",
+  "law_num": "昭和六十年郵政省令第二十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 60,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "1985-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "360M50001000023_20260527_508M60000008070",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "日本電信電話株式会社等に関する法律施行規則",
+  "law_title_kana": "にほんでんしんでんわかぶしきがいしゃとうにかんするほうりつしこうきそく",
+  "abbrev": "ＮＴＴ法施行規則",
+  "category": "電気通信",
+  "updated": "2026-06-05T16:35:10+09:00",
+  "amendment_promulgate_date": "2026-05-25",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008070",
+  "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第七十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "360M50001000023_20260527_508M60000008070",
+   "amendment_promulgate_date": "2026-05-25",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508M60000008070",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "360M50001000023_20260304_508M60000008020",
+   "amendment_promulgate_date": "2026-03-04",
+   "amendment_enforcement_date": "2026-03-04",
+   "amendment_law_id": "508M60000008020",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50001000023_20240425_506M60000008045",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506M60000008045",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う総務省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年総務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50001000023_20210401_502M60000008092",
+   "amendment_promulgate_date": "2020-09-28",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000008092",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50001000023_20210301_502M60000008092",
+   "amendment_promulgate_date": "2020-09-28",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "502M60000008092",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50001000023_20151005_427M60000008035",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-10-05",
+   "amendment_law_id": "427M60000008035",
+   "amendment_law_num": "平成二十七年総務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（会社に係る目的達成業務の届出）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本電信電話株式会社（以下「会社」という。）は、日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号。以下「法」という。）第二条第二項の規定により会社の目的を達成するために必要な業務を営むことの届出をしようとするときは、当該業務の開始の日の七日前までに、次に掲げる事項を記載した届出書を総務大臣に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1985-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-05T16:35:10+09:00"
+ }
+}

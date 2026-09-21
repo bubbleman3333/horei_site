@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "340CO0000000382",
+  "law_num": "昭和四十年政令第三百八十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "382",
+  "promulgation_date": "1965-12-27"
+ },
+ "revision_info": {
+  "law_revision_id": "340CO0000000382_20251001_507CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "豪雪に際して地方公共団体が行なう公共の施設の除雪事業に要する費用の補助に関する特別措置法施行令",
+  "law_title_kana": "ごうせつにさいしてちほうこうきょうだんたいがおこなうこうきょうのしせつのじょせつじぎょうにようするひようのほじょにかんするとくべつそちほうしこうれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2025-10-01T04:44:27+09:00",
+  "amendment_promulgate_date": "2025-03-26",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000085",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340CO0000000382_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000382_20240401_505CO0000000192",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000192",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000382_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000382_20140401_425CO0000000319",
+   "amendment_promulgate_date": "2013-11-27",
+   "amendment_enforcement_date": "2014-04-01",
+   "amendment_law_id": "425CO0000000319",
+   "amendment_law_num": "平成二十五年政令第三百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（政令で定める公共の施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "豪雪に際して地方公共団体が行う公共の施設の除雪事業に要する費用の補助に関する特別措置法（以下「法」という。）の政令で定める公共の施設は、地方公共団体が設置する施設で次の各号のいずれかに該当するもの（以下「公共の施設」という。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-12-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T04:44:27+09:00"
+ }
+}

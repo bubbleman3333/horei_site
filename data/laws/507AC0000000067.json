@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "507AC0000000067",
+  "law_num": "令和七年法律第六十七号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "Act",
+  "law_num_num": "067",
+  "promulgation_date": "2025-06-13"
+ },
+ "revision_info": {
+  "law_revision_id": "507AC0000000067_20250613_000000000000000",
+  "law_type": "Act",
+  "law_title": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律",
+  "law_title_kana": "えんかつなじぎょうさいせいをはかるためのじぎょうしゃのきんゆうきかんとうにたいするさいむのちょうせいのてつづきとうにかんするほうりつ",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2025-06-19T15:58:34+09:00",
+  "amendment_promulgate_date": "2025-06-13",
+  "amendment_enforcement_date": "2025-06-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507AC0000000067_20280613_000000000000000",
+   "amendment_promulgate_date": "2025-06-13",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律（令和五年法律第五十三号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507AC0000000067_20271205_507AC0000000057",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2027-12-05",
+   "amendment_enforcement_comment": "譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-12-05",
+   "amendment_law_id": "507AC0000000057",
+   "amendment_law_title": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507AC0000000067_20261211_000000000000000",
+   "amendment_promulgate_date": "2025-06-13",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507AC0000000067_20250613_000000000000000",
+   "amendment_promulgate_date": "2025-06-13",
+   "amendment_enforcement_date": "2025-06-13",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　対象債権者の権利の変更に関する手続",
+  "第三章　指定確認調査機関",
+  "第四章　確認事業者に係る特例",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、我が国の経済社会の活力の向上及び持続的発展を図るためには、経済的に窮境に陥るおそれのある事業者について早期での円滑な事業再生を促すことにより、当該事業者がその事業の価値の毀損並びに技術及び人材の散逸の回避を図った上で経営資源を有効に活用してその事業活動を活性化できるようにすることが重要であることに鑑み、当該事業者の事業再生の実施のため、公正かつ中立な第三者が関与して金融機関等であるその債権者の一定の割合以上の多数の同意を得、かつ、裁判所の認可を受けた当該債権者の決議により、当該債権者に対する当該事業者の債務に係る権利関係の調整を行うことができる手続等に関し必要な事項を定め、もって当該事業者の円滑な事業再生の実施を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-06-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-06-19T15:58:34+09:00"
+ }
+}

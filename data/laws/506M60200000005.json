@@ -1,0 +1,81 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "506M60200000005",
+  "law_num": "令和六年公正取引委員会規則第五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "Rule",
+  "law_num_num": "005",
+  "promulgation_date": "2024-12-13"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60200000005_20260521_508M60200000002",
+  "law_type": "Rule",
+  "law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律施行規則",
+  "law_title_kana": "すまーとふぉんにおいてりようされるとくていそふとうぇあにかかるきょうそうのそくしんにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-08-10T15:50:54+09:00",
+  "amendment_promulgate_date": "2026-05-01",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60200000002",
+  "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年公正取引委員会規則第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60200000005_20260521_508M60200000002",
+   "amendment_promulgate_date": "2026-05-01",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60200000002",
+   "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年公正取引委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60200000005_20251218_507M60200000006",
+   "amendment_promulgate_date": "2025-08-20",
+   "amendment_enforcement_date": "2025-12-18",
+   "amendment_law_id": "507M60200000006",
+   "amendment_law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和七年公正取引委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506M60200000005_20241219_000000000000000",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2024-12-19",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　指定等手続",
+  "第三章　指定事業者の義務",
+  "第四章　調査等手続",
+  "第五章　補則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則において使用する用語であって、スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律（以下「法」という。）又はスマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律施行令（令和六年政令第三百七十六号。以下「令」という。）において使用する用語と同一のものは、この規則に特段の定めがない限り、法又は令において使用する用語と同一の意義において使用するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-12-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-10T15:50:54+09:00"
+ }
+}

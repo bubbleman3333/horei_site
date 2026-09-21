@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "427M60000100137",
+  "law_num": "平成二十七年厚生労働省令第百三十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 27,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "137",
+  "promulgation_date": "2015-09-09"
+ },
+ "revision_info": {
+  "law_revision_id": "427M60000100137_20160101_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "がん登録等の推進に関する法律施行規則",
+  "law_title_kana": "がんとうろくとうのすいしんにかんするほうりつしこうきそく",
+  "abbrev": "がん登録推進法施行規則",
+  "category": "厚生",
+  "updated": "2023-11-14T15:50:38+09:00",
+  "amendment_promulgate_date": "2015-09-09",
+  "amendment_enforcement_date": "2016-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "427M60000100137_20270101_508M60000100015",
+   "amendment_promulgate_date": "2026-02-19",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508M60000100015",
+   "amendment_law_title": "がん登録等の推進に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "427M60000100137_20160101_000000000000000",
+   "amendment_promulgate_date": "2015-09-09",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（がんの初回の診断に係る住所）",
+  "title": "第一条",
+  "paragraphs": [
+   "がん登録等の推進に関する法律（以下「法」という。）第五条第一項第二号の厚生労働省令で定める場合は、当該がんに<Ruby>罹<Rt>り</Rt></Ruby>患した者の同一のがんについて、当該がんに罹患した者に係る都道府県整理情報（法第八条第一項に規定する都道府県整理情報をいう。以下この条において同じ。）が複数ある場合又は都道府県整理情報及び死亡者新規がん情報（法第十二条第一項に規定する死亡者新規がん情報をいう。次項及び第十八条において同じ。）のいずれもがある場合とする。",
+   "法第五条第一項第二号の厚生労働省令で定める住所は、都道府県整理情報に含まれる診断日又は死亡者新規がん情報に含まれる死亡の日のうち最も早い日を含む都道府県整理情報又は死亡者新規がん情報において得られた情報に含まれる住所とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2015-09-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2023-11-14T15:50:38+09:00"
+ }
+}

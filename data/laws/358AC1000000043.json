@@ -1,0 +1,154 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "358AC1000000043",
+  "law_num": "昭和五十八年法律第四十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 58,
+  "law_num_type": "Act",
+  "law_num_num": "043",
+  "promulgation_date": "1983-05-18"
+ },
+ "revision_info": {
+  "law_revision_id": "358AC1000000043_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "浄化槽法",
+  "law_title_kana": "じょうかそうほう",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-07-01T00:34:12+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "358AC1000000043_20270122_508AC0000000065",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-01-22",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-01-22",
+   "amendment_law_id": "508AC0000000065",
+   "amendment_law_title": "下水道法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "358AC1000000043_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "358AC1000000043_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358AC1000000043_20240401_505AC0000000058",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000058",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358AC1000000043_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358AC1000000043_20210401_501AC0000000030",
+   "amendment_promulgate_date": "2019-06-12",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "501AC0000000030",
+   "amendment_law_title": "建設業法及び公共工事の入札及び契約の適正化の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358AC1000000043_20200401_501AC1000000040",
+   "amendment_promulgate_date": "2019-06-19",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC1000000040",
+   "amendment_law_title": "浄化槽法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358AC1000000043_20190619_501AC1000000040",
+   "amendment_promulgate_date": "2019-06-19",
+   "amendment_enforcement_date": "2019-06-19",
+   "amendment_law_id": "501AC1000000040",
+   "amendment_law_title": "浄化槽法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358AC1000000043_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　浄化槽の設置",
+  "第三章　浄化槽の保守点検及び浄化槽の清掃等",
+  "第三章の二　浄化槽処理促進区域",
+  "第四章　浄化槽の型式の認定",
+  "第五章　浄化槽工事業に係る登録",
+  "第六章　浄化槽清掃業の許可",
+  "第七章　浄化槽設備士",
+  "第八章　浄化槽管理士",
+  "第九章　条例による浄化槽の保守点検を業とする者の登録制度",
+  "第十章　雑則",
+  "第十一章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、浄化槽の設置、保守点検、清掃及び製造について規制するとともに、浄化槽工事業者の登録制度及び浄化槽清掃業の許可制度を整備し、浄化槽設備士及び浄化槽管理士の資格を定めること等により、公共用水域等の水質の保全等の観点から浄化槽によるし尿及び雑排水の適正な処理を図り、もつて生活環境の保全及び公衆衛生の向上に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1983-05-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:34:12+09:00"
+ }
+}

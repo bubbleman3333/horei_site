@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "326RJNJ09001000",
+  "law_num": "昭和二十六年人事院規則九―一",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "Rule",
+  "law_num_num": "9_1",
+  "promulgation_date": "1951-11-30"
+ },
+ "revision_info": {
+  "law_revision_id": "326RJNJ09001000_20251224_507RJNJ09001027",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―一（非常勤職員の給与）",
+  "law_title_kana": "じんじいんきそくきゅうのいちひじょうきんしょくいんのきゅうよ",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-01-16T09:55:54+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2025-12-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507RJNJ09001027",
+  "amendment_law_title": "人事院規則九―一（非常勤職員の給与）の一部を改正する人事院規則",
+  "amendment_law_num": "令和七年人事院規則九―一―二七",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326RJNJ09001000_20251224_507RJNJ09001027",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507RJNJ09001027",
+   "amendment_law_title": "人事院規則九―一（非常勤職員の給与）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―一―二七",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326RJNJ09001000_20241225_506RJNJ09001026",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506RJNJ09001026",
+   "amendment_law_title": "人事院規則九―一（非常勤職員の給与）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則九―一―二六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326RJNJ09001000_20231124_505RJNJ09001025",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2023-11-24",
+   "amendment_law_id": "505RJNJ09001025",
+   "amendment_law_title": "人事院規則九―一（非常勤職員の給与）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―一―二五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326RJNJ09001000_20150401_427RJNJ09001024",
+   "amendment_promulgate_date": "2015-01-30",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427RJNJ09001024",
+   "amendment_law_num": "平成二十七年人事院規則九―一―二四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "給与法第二十二条第一項の人事院規則で定める場合は、内閣府設置法（平成十一年法律第八十九号）第十八条の重要政策に関する会議若しくは審議事項の重要性、答申の影響度等がこれに類する委員会等（以下この条において、「特定委員会等」という。）の委員等（同項に規定する委員又は人事院の指定するこれに準ずる職にある者をいう。）（以下この条において「特定委員等」という。）又は内閣特別顧問若しくは内閣官房参与若しくは諮問事項の重要性、意見の影響度等がこれらに類する顧問若しくは参与等（同項に規定する顧問若しくは参与又は人事院の指定するこれらに準ずる職にある者をいう。）（以下この条において「特定顧問等」という。）が次に掲げる業務を行う場合とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-11-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-01-16T09:55:54+09:00"
+ }
+}

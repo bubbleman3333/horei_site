@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "356AC0000000076",
+  "law_num": "昭和五十六年法律第七十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 56,
+  "law_num_type": "Act",
+  "law_num_num": "076",
+  "promulgation_date": "1981-06-10"
+ },
+ "revision_info": {
+  "law_revision_id": "356AC0000000076_20260903_508AC0000000027",
+  "law_type": "Act",
+  "law_title": "広域臨海環境整備センター法",
+  "law_title_kana": "こういきりんかいかんきょうせいびせんたーほう",
+  "abbrev": "フェニックス法,フェニックス計画法",
+  "category": "厚生",
+  "updated": "2026-09-03T00:21:38+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-09-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000027",
+  "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和八年法律第二十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "356AC0000000076_20260903_508AC0000000027",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-09-03",
+   "amendment_law_id": "508AC0000000027",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和八年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "356AC0000000076_20130101_423AC0000000053",
+   "amendment_promulgate_date": "2011-05-25",
+   "amendment_enforcement_date": "2013-01-01",
+   "amendment_law_id": "423AC0000000053",
+   "amendment_law_num": "平成二十三年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　設立",
+  "第三章　管理",
+  "第四章　業務",
+  "第五章　財務及び会計",
+  "第六章　解散及び清算",
+  "第七章　監督",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "広域臨海環境整備センターは、廃棄物の広域的な処理が必要であると認められる区域において生じた廃棄物の適正な海面埋立てによる処理及びこれによる港湾の秩序ある整備を図るため、環境の保全に留意しつつ港湾において広域処理場の建設、管理等の業務を行うことにより、生活環境の保全及び地域の均衡ある発展に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1981-06-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-03T00:21:38+09:00"
+ }
+}

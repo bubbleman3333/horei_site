@@ -1,0 +1,177 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "348AC1000000105",
+  "law_num": "昭和四十八年法律第百五号",
+  "law_num_era": "Showa",
+  "law_num_year": 48,
+  "law_num_type": "Act",
+  "law_num_num": "105",
+  "promulgation_date": "1973-10-01"
+ },
+ "revision_info": {
+  "law_revision_id": "348AC1000000105_20260605_508AC0000000030",
+  "law_type": "Act",
+  "law_title": "動物の愛護及び管理に関する法律",
+  "law_title_kana": "どうぶつのあいごおよびかんりにかんするほうりつ",
+  "abbrev": "動管法,動物愛護法",
+  "category": "環境保全",
+  "updated": "2026-06-05T14:31:35+09:00",
+  "amendment_promulgate_date": "2026-06-05",
+  "amendment_enforcement_date": "2026-06-05",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000030",
+  "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第三十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "348AC1000000105_20270104_508AC0000000030",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-01-04",
+   "amendment_law_id": "508AC0000000030",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20260605_508AC0000000030",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-06-05",
+   "amendment_law_id": "508AC0000000030",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20220601_501AC1000000039",
+   "amendment_promulgate_date": "2019-06-19",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "501AC1000000039",
+   "amendment_law_title": "動物の愛護及び管理に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20210601_501AC1000000039",
+   "amendment_promulgate_date": "2019-06-19",
+   "amendment_enforcement_date": "2021-06-01",
+   "amendment_law_id": "501AC1000000039",
+   "amendment_law_title": "動物の愛護及び管理に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20200601_501AC1000000039",
+   "amendment_promulgate_date": "2019-06-19",
+   "amendment_enforcement_date": "2020-06-01",
+   "amendment_law_id": "501AC1000000039",
+   "amendment_law_title": "動物の愛護及び管理に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20191214_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20180601_429AC0000000051",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000051",
+   "amendment_law_title": "絶滅のおそれのある野生動植物の種の保存に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC1000000105_20150529_426AC0000000046",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2015-05-29",
+   "amendment_law_id": "426AC0000000046",
+   "amendment_law_num": "平成二十六年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本指針等",
+  "第三章　動物の適正な取扱い",
+  "第四章　都道府県等の措置等",
+  "第四章の二　動物愛護管理センター等",
+  "第四章の三　犬及び猫の登録",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、動物の虐待及び遺棄の防止、動物の適正な取扱いその他動物の健康及び安全の保持等の動物の愛護に関する事項を定めて国民の間に動物を愛護する気風を招来し、生命尊重、友愛及び平和の情操の<Ruby>涵<Rt>かん</Rt></Ruby>養に資するとともに、動物の管理に関する事項を定めて動物による人の生命、身体及び財産に対する侵害並びに生活環境の保全上の支障を防止し、もつて人と動物の共生する社会の実現を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1973-10-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-05T14:31:35+09:00"
+ }
+}

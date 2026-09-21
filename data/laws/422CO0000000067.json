@@ -1,0 +1,394 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "422CO0000000067",
+  "law_num": "平成二十二年政令第六十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 22,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "067",
+  "promulgation_date": "2010-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "422CO0000000067_20260731_508CO0000000101",
+  "law_type": "CabinetOrder",
+  "law_title": "租税特別措置の適用状況の透明化等に関する法律施行令",
+  "law_title_kana": "そぜいとくべつそちのてきようじょうきょうのとうめいかとうにかんするほうりつせこうれい",
+  "abbrev": "租特透明化法施行令",
+  "category": "国税",
+  "updated": "2026-09-15T14:53:23+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000101",
+  "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "422CO0000000067_20300101_505CO0000000150",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2030-01-01",
+   "amendment_law_id": "505CO0000000150",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20280101_508CO0000000101",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_enforcement_comment": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（令和八年法律第六十四号）の施行の日の属する年の翌年の一月一日",
+   "amendment_scheduled_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508CO0000000101",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20270401_508CO0000000101",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508CO0000000101",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20260731_508CO0000000101",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000101",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20260401_508CO0000000101",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000101",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20260401_507CO0000000130",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000130",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20250401_507CO0000000130",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000130",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20250401_506CO0000000216",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000216",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20250401_506CO0000000154",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000154",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20250101_505CO0000000150",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505CO0000000150",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20240601_506CO0000000154",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506CO0000000154",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20240401_506CO0000000154",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000154",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20240401_505CO0000000150",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000150",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20230401_505CO0000000150",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000150",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20220401_504CO0000000156",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000156",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20220401_503CO0000000124",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000124",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20220401_502CO0000000207",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000207",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20211122_503CO0000000124",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503CO0000000124",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20210802_503CO0000000124",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503CO0000000124",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20210401_503CO0000000124",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000124",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20210401_502CO0000000126",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502CO0000000126",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20210101_502CO0000000126",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000126",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20200831_502CO0000000126",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-08-31",
+   "amendment_law_id": "502CO0000000126",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20200401_502CO0000000126",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000126",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20200401_430CO0000000147",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000147",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20200101_430CO0000000147",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000147",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20190716_431CO0000000105",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-16",
+   "amendment_law_id": "431CO0000000105",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20190401_431CO0000000105",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000105",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20190401_430CO0000000147",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000147",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20180606_430CO0000000147",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-06-06",
+   "amendment_law_id": "430CO0000000147",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20180401_430CO0000000147",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000147",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20171001_429CO0000000115",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429CO0000000115",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20170401_429CO0000000115",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000115",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000067_20170401_428CO0000000163",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000163",
+   "amendment_law_title": "租税特別措置の適用状況の透明化等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（租税特別措置に含まれない規定）",
+  "title": "第一条",
+  "paragraphs": [
+   "租税特別措置の適用状況の透明化等に関する法律（以下「法」という。）第二条第一項第一号に規定する政令で定める規定は、次に掲げる規定とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2010-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-15T14:53:23+09:00"
+ }
+}

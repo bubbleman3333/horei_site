@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000101",
+  "law_num": "平成十二年政令第百一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "101",
+  "promulgation_date": "2000-03-28"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000101_20260401_508CO0000000092",
+  "law_type": "CabinetOrder",
+  "law_title": "国家公務員倫理規程",
+  "law_title_kana": "こっかこうむいんりんりきてい",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-04-20T10:14:12+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000092",
+  "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第九十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000101_20260401_508CO0000000092",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000092",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000101_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000101_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000101_20200107_501CO0000000136",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_law_id": "501CO0000000136",
+   "amendment_law_title": "特定複合観光施設区域整備法の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000101_20160101_427CO0000000427",
+   "amendment_promulgate_date": "2015-12-18",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000427",
+   "amendment_law_title": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第四百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（倫理行動規準）",
+  "title": "第一条",
+  "paragraphs": [
+   "職員（国家公務員倫理法（以下「法」という。）第二条第一項に規定する職員をいう。以下同じ。）は、国家公務員としての誇りを持ち、かつ、その使命を自覚し、第一号から第三号までに掲げる法第三条の倫理原則とともに第四号及び第五号に掲げる事項をその職務に係る倫理の保持を図るために遵守すべき規準として、行動しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-03-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T10:14:12+09:00"
+ }
+}

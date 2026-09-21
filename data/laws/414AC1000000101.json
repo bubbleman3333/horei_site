@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "414AC1000000101",
+  "law_num": "平成十四年法律第百一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "Act",
+  "law_num_num": "101",
+  "promulgation_date": "2002-07-31"
+ },
+ "revision_info": {
+  "law_revision_id": "414AC1000000101_20250601_504AC0000000068",
+  "law_type": "Act",
+  "law_title": "入札談合等関与行為の排除及び防止並びに職員による入札等の公正を害すべき行為の処罰に関する法律",
+  "law_title_kana": "にゅうさつだんごうとうかんよこういのはいじょおよびぼうしならびにしょくいんによるにゅうさつとうのこうせいをがいすべきこういのしょばつにかんするほうりつ",
+  "abbrev": "官製談合防止法,入札談合防止法",
+  "category": "産業通則",
+  "updated": "2025-06-01T20:54:53+09:00",
+  "amendment_promulgate_date": "2022-06-17",
+  "amendment_enforcement_date": "2025-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000068",
+  "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+  "amendment_law_num": "令和四年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414AC1000000101_20260924_506AC0000000065",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "506AC0000000065",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "414AC1000000101_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414AC1000000101_20240401_505AC0000000019",
+   "amendment_promulgate_date": "2023-05-08",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000019",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC1000000101_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC1000000101_20200401_429AC0000000054",
+   "amendment_promulgate_date": "2017-06-09",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000054",
+   "amendment_law_title": "地方自治法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC1000000101_20150401_426AC0000000067",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "426AC0000000067",
+   "amendment_law_num": "平成二十六年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、公正取引委員会による各省各庁の長等に対する入札談合等関与行為を排除するために必要な改善措置の要求、入札談合等関与行為を行った職員に対する損害賠償の請求、当該職員に係る懲戒事由の調査、関係行政機関の連携協力等入札談合等関与行為を排除し、及び防止するための措置について定めるとともに、職員による入札等の公正を害すべき行為についての罰則を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-07-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-06-01T20:54:53+09:00"
+ }
+}

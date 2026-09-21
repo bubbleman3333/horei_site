@@ -1,0 +1,68 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "410M50000002037",
+  "law_num": "平成十年総理府令第三十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "037",
+  "promulgation_date": "1998-06-12"
+ },
+ "revision_info": {
+  "law_revision_id": "410M50000002037_20260401_508M60001000002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "環境影響評価法施行規則",
+  "law_title_kana": "かんきょうえいきょうひょうかほうしこうきそく",
+  "abbrev": "環境アセスメント法施行規則,環境アセス法施行規則",
+  "category": "環境保全",
+  "updated": "2026-04-02T00:16:26+09:00",
+  "amendment_promulgate_date": "2026-02-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000002",
+  "amendment_law_title": "環境影響評価法施行規則及び廃棄物の最終処分場事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年環境省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410M50000002037_20260401_508M60001000002",
+   "amendment_promulgate_date": "2026-02-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60001000002",
+   "amendment_law_title": "環境影響評価法施行規則及び廃棄物の最終処分場事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002037_20130401_424M60001000031",
+   "amendment_promulgate_date": "2012-10-24",
+   "amendment_enforcement_date": "2013-04-01",
+   "amendment_law_id": "424M60001000031",
+   "amendment_law_num": "平成二十四年環境省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（配慮書の記載事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "環境影響評価法（平成九年法律第八十一号。以下「法」という。）第三条の三第一項第五号の環境省令で定める事項は、法第三条の七第一項の規定により配慮書の案についての意見を求めた場合における関係する行政機関の意見又は一般の意見の概要とする。",
+   "法第三条の三第一項の規定により配慮書を作成するに当たっては、前項の意見についての第一種事業を実施しようとする者の見解を記載するように努めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-06-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T00:16:26+09:00"
+ }
+}

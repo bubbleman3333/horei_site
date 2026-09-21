@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "328CO0000000231",
+  "law_num": "昭和二十八年政令第二百三十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "231",
+  "promulgation_date": "1953-08-31"
+ },
+ "revision_info": {
+  "law_revision_id": "328CO0000000231_20251101_507CO0000000252",
+  "law_type": "CabinetOrder",
+  "law_title": "栄養士法施行令",
+  "law_title_kana": "えいようしほうしこうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2025-11-01T00:12:22+09:00",
+  "amendment_promulgate_date": "2025-07-04",
+  "amendment_enforcement_date": "2025-11-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000252",
+  "amendment_law_title": "栄養士法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第二百五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328CO0000000231_20261001_508CO0000000218",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000218",
+   "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000231_20251101_507CO0000000252",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507CO0000000252",
+   "amendment_law_title": "栄養士法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000231_20250704_507CO0000000252",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2025-07-04",
+   "amendment_law_id": "507CO0000000252",
+   "amendment_law_title": "栄養士法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000231_20020401_413CO0000000287",
+   "amendment_promulgate_date": "2001-09-05",
+   "amendment_enforcement_date": "2002-04-01",
+   "amendment_law_id": "413CO0000000287",
+   "amendment_law_num": "平成十三年政令第二百八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（免許の申請等）",
+  "title": "第一条",
+  "paragraphs": [
+   "栄養士の免許を受けようとする者は、申請書に厚生労働省令で定める書類を添え、これを住所地の都道府県知事に提出しなければならない。",
+   "管理栄養士の免許を受けようとする者は、申請書に厚生労働省令で定める書類を添え、住所地の都道府県知事を経由して、これを厚生労働大臣に提出しなければならない。",
+   "管理栄養士免許証の交付は、住所地の都道府県知事を経由して行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-08-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-11-01T00:12:22+09:00"
+ }
+}

@@ -1,0 +1,357 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "325M50080000010",
+  "law_num": "昭和二十五年電波監理委員会規則第十号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "Rule",
+  "law_num_num": "010",
+  "promulgation_date": "1950-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50080000010_20260807_508M60000008102",
+  "law_type": "Rule",
+  "law_title": "放送法施行規則",
+  "law_title_kana": "ほうそうほうしこうきそく",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-08-24T10:04:24+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008102",
+  "amendment_law_title": "放送法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第百二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50080000010_20270401_508M60000008053",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000008053",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20260807_508M60000008102",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000008102",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20260401_508M60000008053",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008053",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20251001_507M60000008093",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008093",
+   "amendment_law_title": "放送法施行規則及び一般放送の設備及び業務に関する届出の特例を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20251001_507M60000008083",
+   "amendment_promulgate_date": "2025-08-22",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008083",
+   "amendment_law_title": "放送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20251001_506M60000008090",
+   "amendment_promulgate_date": "2024-10-01",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506M60000008090",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20250401_507M60000008012",
+   "amendment_promulgate_date": "2025-03-18",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000008012",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20240815_506M60000008080",
+   "amendment_promulgate_date": "2024-08-15",
+   "amendment_enforcement_date": "2024-08-15",
+   "amendment_law_id": "506M60000008080",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20240401_506M60000008023",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000008023",
+   "amendment_law_title": "放送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20240401_506M60000008018",
+   "amendment_promulgate_date": "2024-03-22",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000008018",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法の一部を改正する等の法律の施行に伴う総務省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年総務省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20230420_505M60000008038",
+   "amendment_promulgate_date": "2023-04-14",
+   "amendment_enforcement_date": "2023-04-20",
+   "amendment_law_id": "505M60000008038",
+   "amendment_law_title": "放送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20230417_505M60000008039",
+   "amendment_promulgate_date": "2023-04-17",
+   "amendment_enforcement_date": "2023-04-17",
+   "amendment_law_id": "505M60000008039",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20230110_505M60000008001",
+   "amendment_promulgate_date": "2023-01-10",
+   "amendment_enforcement_date": "2023-01-10",
+   "amendment_law_id": "505M60000008001",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20221001_504M60000008065",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000008065",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20211210_503M60000008107",
+   "amendment_promulgate_date": "2021-12-10",
+   "amendment_enforcement_date": "2021-12-10",
+   "amendment_law_id": "503M60000008107",
+   "amendment_law_title": "放送法施行規則及び無線局免許手続規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20211022_503M60000008098",
+   "amendment_promulgate_date": "2021-10-22",
+   "amendment_enforcement_date": "2021-10-22",
+   "amendment_law_id": "503M60000008098",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20210308_503M60000008016",
+   "amendment_promulgate_date": "2021-03-08",
+   "amendment_enforcement_date": "2021-03-08",
+   "amendment_law_id": "503M60000008016",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20210301_503M60000008014",
+   "amendment_promulgate_date": "2021-03-01",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503M60000008014",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20201201_502M60000008102",
+   "amendment_promulgate_date": "2020-11-19",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000008102",
+   "amendment_law_title": "放送法施行規則及び一般放送の設備及び業務に関する届出の特例を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20200812_502M60000008075",
+   "amendment_promulgate_date": "2020-08-12",
+   "amendment_enforcement_date": "2020-08-12",
+   "amendment_law_id": "502M60000008075",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20200727_502M60000008069",
+   "amendment_promulgate_date": "2020-07-27",
+   "amendment_enforcement_date": "2020-07-27",
+   "amendment_law_id": "502M60000008069",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20200428_502M60000008044",
+   "amendment_promulgate_date": "2020-04-28",
+   "amendment_enforcement_date": "2020-04-28",
+   "amendment_law_id": "502M60000008044",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20200401_502M60000008018",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000008018",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20200331_502M60000008007",
+   "amendment_promulgate_date": "2020-03-10",
+   "amendment_enforcement_date": "2020-03-31",
+   "amendment_law_id": "502M60000008007",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20200330_502M60000008016",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60000008016",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20200101_501M60000008052",
+   "amendment_promulgate_date": "2019-10-08",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "501M60000008052",
+   "amendment_law_title": "放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20191120_501M60000008058",
+   "amendment_promulgate_date": "2019-11-20",
+   "amendment_enforcement_date": "2019-11-20",
+   "amendment_law_id": "501M60000008058",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20190701_501M60000008019",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000008019",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う総務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20190122_431M60000008003",
+   "amendment_promulgate_date": "2019-01-22",
+   "amendment_enforcement_date": "2019-01-22",
+   "amendment_law_id": "431M60000008003",
+   "amendment_law_title": "有線一般放送の品質に関する技術基準を定める省令及び放送法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000010_20160622_428M60000008068",
+   "amendment_promulgate_date": "2016-06-22",
+   "amendment_enforcement_date": "2016-06-22",
+   "amendment_law_id": "428M60000008068",
+   "amendment_law_num": "平成二十八年総務省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　通則",
+  "第三章　日本放送協会等",
+  "第四章　基幹放送",
+  "第五章　一般放送",
+  "第六章　有料放送",
+  "第七章　認定放送持株会社",
+  "第八章　放送番組センター",
+  "第九章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、放送法（昭和二十五年法律第百三十二号。以下「法」という。）の規定を施行するために必要とする事項及び法の委任に基づく事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-06-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-24T10:04:24+09:00"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000260",
+  "law_num": "平成十二年政令第二百六十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "260",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000260_20260807_508CO0000000246",
+  "law_type": "CabinetOrder",
+  "law_title": "金融危機対応会議令",
+  "law_title_kana": "きんゆうききたいおうかいぎれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-19T11:46:48+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000246",
+  "amendment_law_title": "金融庁組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000260_20260807_508CO0000000246",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508CO0000000246",
+   "amendment_law_title": "金融庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000260_20010106_000000000000000",
+   "amendment_promulgate_date": "2000-06-07",
+   "amendment_enforcement_date": "2001-01-06",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（議長）",
+  "title": "第一条",
+  "paragraphs": [
+   "金融危機対応会議（以下「会議」という。）の議長は、会務を総理する。",
+   "議長に事故があるときは、内閣府設置法第十一条の特命担当大臣が、その職務を代理する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T11:46:48+09:00"
+ }
+}

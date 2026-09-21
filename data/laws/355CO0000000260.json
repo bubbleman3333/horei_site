@@ -1,0 +1,177 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "355CO0000000260",
+  "law_num": "昭和五十五年政令第二百六十号",
+  "law_num_era": "Showa",
+  "law_num_year": 55,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "260",
+  "promulgation_date": "1980-10-11"
+ },
+ "revision_info": {
+  "law_revision_id": "355CO0000000260_20260605_508CO0000000194",
+  "law_type": "CabinetOrder",
+  "law_title": "外国為替令",
+  "law_title_kana": "がいこくかわせれい",
+  "abbrev": "外為令",
+  "category": "外国為替・貿易",
+  "updated": "2026-06-22T09:48:58+09:00",
+  "amendment_promulgate_date": "2026-06-05",
+  "amendment_enforcement_date": "2026-06-05",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000194",
+  "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+  "amendment_law_num": "令和八年政令第百九十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "355CO0000000260_20260605_508CO0000000194",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-06-05",
+   "amendment_law_id": "508CO0000000194",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和八年政令第百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20260525_507CO0000000244",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507CO0000000244",
+   "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20251009_507CO0000000175",
+   "amendment_promulgate_date": "2025-04-09",
+   "amendment_enforcement_date": "2025-10-09",
+   "amendment_law_id": "507CO0000000175",
+   "amendment_law_title": "外国為替令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20250528_507CO0000000102",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-05-28",
+   "amendment_law_id": "507CO0000000102",
+   "amendment_law_title": "外国為替令及び輸出貿易管理令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20240701_506CO0000000220",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000220",
+   "amendment_law_title": "外国為替令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20240401_505CO0000000191",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000191",
+   "amendment_law_title": "外国為替令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20230601_505CO0000000191",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000191",
+   "amendment_law_title": "外国為替令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20220510_504CO0000000189",
+   "amendment_promulgate_date": "2022-05-02",
+   "amendment_enforcement_date": "2022-05-10",
+   "amendment_law_id": "504CO0000000189",
+   "amendment_law_title": "外国為替令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20210127_502CO0000000338",
+   "amendment_promulgate_date": "2020-11-27",
+   "amendment_enforcement_date": "2021-01-27",
+   "amendment_law_id": "502CO0000000338",
+   "amendment_law_title": "外国為替令及び輸出貿易管理令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20200508_502CO0000000154",
+   "amendment_promulgate_date": "2020-04-30",
+   "amendment_enforcement_date": "2020-05-08",
+   "amendment_law_id": "502CO0000000154",
+   "amendment_law_title": "対内直接投資等に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20190109_430CO0000000312",
+   "amendment_promulgate_date": "2018-11-09",
+   "amendment_enforcement_date": "2019-01-09",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000312",
+   "amendment_law_title": "外国為替令及び輸出貿易管理令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000260_20151001_427CO0000000284",
+   "amendment_promulgate_date": "2015-07-31",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "427CO0000000284",
+   "amendment_law_title": "外国為替令及び輸出貿易管理令の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第二百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　削除",
+  "第三章　支払等",
+  "第四章　資本取引等",
+  "第四章の二　報告等",
+  "第四章の三　外国為替取引等取扱業者遵守基準",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令は、外国為替及び外国貿易法（昭和二十四年法律第二百二十八号。以下「法」という。）第一章、第三章及び第四章に規定する支払等、資本取引その他の取引又は行為に係る管理又は調整、法第六章の二の規定による報告等並びに法第六章の二の二の規定による外国為替取引等取扱業者遵守基準に関し必要な事項等を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1980-10-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-22T09:48:58+09:00"
+ }
+}

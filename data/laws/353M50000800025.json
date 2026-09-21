@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "353M50000800025",
+  "law_num": "昭和五十三年運輸省令第二十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 53,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "025",
+  "promulgation_date": "1978-05-13"
+ },
+ "revision_info": {
+  "law_revision_id": "353M50000800025_20260521_508M60000800057",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "成田国際空港の安全確保に関する緊急措置法施行規則",
+  "law_title_kana": "なりたこくさいくうこうのあんぜんかくほにかんするきんきゅうそちほうしこうきそく",
+  "abbrev": "成田新法施行規則,成田法施行規則",
+  "category": "航空",
+  "updated": "2026-06-02T13:29:01+09:00",
+  "amendment_promulgate_date": "2026-05-18",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800057",
+  "amendment_law_title": "公示送達等の電子化のための国土交通省関係省令の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "353M50000800025_20260521_508M60000800057",
+   "amendment_promulgate_date": "2026-05-18",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000800057",
+   "amendment_law_title": "公示送達等の電子化のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "353M50000800025_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353M50000800025_20040401_416M60000800019",
+   "amendment_promulgate_date": "2004-03-22",
+   "amendment_enforcement_date": "2004-04-01",
+   "amendment_law_id": "416M60000800019",
+   "amendment_law_title": "成田国際空港株式会社法施行規則",
+   "amendment_law_num": "平成十六年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（公告）",
+  "title": "第一条",
+  "paragraphs": [
+   "成田国際空港の安全確保に関する緊急措置法（昭和五十三年法律第四十二号。以下「法」という。）第三条第二項の規定による公告は、官報又は新聞紙に掲載することにより行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1978-05-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-02T13:29:01+09:00"
+ }
+}

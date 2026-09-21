@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "406M50000008017",
+  "law_num": "平成六年自治省令第十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "1994-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "406M50000008017_20260401_508M60000008043",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方財政法第三十三条第二項第一号及び第二号の額の算定に関する省令",
+  "law_title_kana": "ちほうざいせいほうだいさんじゅうさんじょうだいにこうだいいちごうおよびだいにごうのがくのさんていにかんするしょうれい",
+  "abbrev": "地財法第三十三条第二項第一号及び第二号の額の算定に関する省令",
+  "category": "地方財政",
+  "updated": "2026-05-07T15:56:19+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008043",
+  "amendment_law_title": "地方財政法第三十三条第二項第一号及び第二号の額の算定に関する省令を廃止する省令",
+  "amendment_law_num": "令和八年総務省令第四十三号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-04-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406M50000008017_20260401_508M60000008043",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008043",
+   "amendment_law_title": "地方財政法第三十三条第二項第一号及び第二号の額の算定に関する省令を廃止する省令",
+   "amendment_law_num": "令和八年総務省令第四十三号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "406M50000008017_19940401_000000000000000",
+   "amendment_promulgate_date": "1994-03-31",
+   "amendment_enforcement_date": "1994-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第三十三条第二項第一号の額の算定方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方財政法（昭和二十三年法律第百九号。以下「法」という。）第三十三条第二項第一号に規定する地方税法（昭和二十五年法律第二百二十六号）附則第三条の四の規定の適用がないものとした場合における地方公共団体の平成六年度及び平成七年度の個人の道府県民税又は市町村民税の所得割の収入見込額から当該地方公共団体の当該各年度の個人の道府県民税又は市町村民税の所得割の収入見込額を控除した額として自治省令で定めるところにより算定した額は、次の表に掲げる地方公共団体の種類及び年度ごとにそれぞれ同表の算定方法の欄に定める方法によって算定した額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-07T15:56:19+09:00"
+ }
+}

@@ -1,0 +1,71 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60000400076",
+  "law_num": "令和六年経済産業省令第七十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "076",
+  "promulgation_date": "2024-11-07"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60000400076_20260522_508M60000400050",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "二酸化炭素の貯留事業に関する法律施行規則",
+  "law_title_kana": "にさんかたんそのちょりゅうじぎょうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-06-03T09:24:03+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400050",
+  "amendment_law_title": "二酸化炭素の貯留事業に関する法律施行規則",
+  "amendment_law_num": "令和八年経済産業省令第五十号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-05-22",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60000400076_20260522_508M60000400050",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "508M60000400050",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律施行規則",
+   "amendment_law_num": "令和八年経済産業省令第五十号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "506M60000400076_20241118_000000000000000",
+   "amendment_promulgate_date": "2024-11-07",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　試掘",
+  "第三章　貯留層の探査",
+  "第四章　土地の使用",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、二酸化炭素の貯留事業に関する法律（以下「法」という。）及び貯留等工作物等の技術上の基準を定める省令（令和六年経済産業省令第七十四号）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-11-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-03T09:24:03+09:00"
+ }
+}

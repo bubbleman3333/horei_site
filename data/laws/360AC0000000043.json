@@ -1,0 +1,196 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "360AC0000000043",
+  "law_num": "昭和六十年法律第四十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 60,
+  "law_num_type": "Act",
+  "law_num_num": "043",
+  "promulgation_date": "1985-05-31"
+ },
+ "revision_info": {
+  "law_revision_id": "360AC0000000043_20260521_504AC0000000048",
+  "law_type": "Act",
+  "law_title": "半導体集積回路の回路配置に関する法律",
+  "law_title_kana": "はんどうたいしゅうせきかいろのかいろはいちにかんするほうりつ",
+  "abbrev": "半導体集積回路法,半導体チップ法,回路配置法",
+  "category": "産業通則",
+  "updated": "2026-05-21T01:43:19+09:00",
+  "amendment_promulgate_date": "2022-05-25",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000048",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "360AC0000000043_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20220401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20190701_430AC0000000072",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "430AC0000000072",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20190401_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20180713_430AC0000000072",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-13",
+   "amendment_law_id": "430AC0000000072",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20170531_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-05-31",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20170530_428AC0000000051",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "428AC0000000051",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360AC0000000043_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　回路配置利用権の設定の登録",
+  "第三章　回路配置利用権等",
+  "第四章　登録機関",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、半導体集積回路の回路配置の適正な利用の確保を図るための制度を創設することにより、半導体集積回路の開発を促進し、もつて国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1985-05-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:43:19+09:00"
+ }
+}

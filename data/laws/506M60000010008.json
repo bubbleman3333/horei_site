@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60000010008",
+  "law_num": "令和六年法務省令第八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "008",
+  "promulgation_date": "2024-03-08"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60000010008_20260401_508M60000010010",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定不法行為等に係る被害者の迅速かつ円滑な救済に資するための日本司法支援センターの業務の特例並びに宗教法人による財産の処分及び管理の特例に関する法律施行規則",
+  "law_title_kana": "とくていふほうこういとうにかかるひがいしゃのじんそくかつえんかつなきゅうさいにしするためのにほんしほうしえんせんたーのぎょうむのとくれいならびにしゅうきょうほうじんによるざいさんのしょぶんおよびかんりのとくれいにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2026-04-02T21:53:53+09:00",
+  "amendment_promulgate_date": "2026-03-16",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010010",
+  "amendment_law_title": "総合法律支援法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60000010008_20260401_508M60000010010",
+   "amendment_promulgate_date": "2026-03-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000010010",
+   "amendment_law_title": "総合法律支援法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60000010008_20240319_000000000000000",
+   "amendment_promulgate_date": "2024-03-08",
+   "amendment_enforcement_date": "2024-03-19",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（業務方法書に記載すべき事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定不法行為等に係る被害者の迅速かつ円滑な救済に資するための日本司法支援センターの業務の特例並びに宗教法人による財産の処分及び管理の特例に関する法律（以下「法」という。）第三条第三項に規定する法務省令で定める事項は、同条第一項に規定する業務（以下「特定被害者法律援助事業」という。）に関する次に掲げる事項とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-03-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:53:53+09:00"
+ }
+}

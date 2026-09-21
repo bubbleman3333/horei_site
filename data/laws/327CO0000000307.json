@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "327CO0000000307",
+  "law_num": "昭和二十七年政令第三百七号",
+  "law_num_era": "Showa",
+  "law_num_year": 27,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "307",
+  "promulgation_date": "1952-07-31"
+ },
+ "revision_info": {
+  "law_revision_id": "327CO0000000307_20260807_508CO0000000246",
+  "law_type": "CabinetOrder",
+  "law_title": "企業会計審議会令",
+  "law_title_kana": "きぎょうかいけいしんぎかいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-19T11:47:14+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000246",
+  "amendment_law_title": "金融庁組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "327CO0000000307_20260807_508CO0000000246",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508CO0000000246",
+   "amendment_law_title": "金融庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000307_20180717_430CO0000000208",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-17",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000208",
+   "amendment_law_title": "金融庁組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000307_20010106_412CO0000000303",
+   "amendment_promulgate_date": "2000-06-07",
+   "amendment_enforcement_date": "2001-01-06",
+   "amendment_law_id": "412CO0000000303",
+   "amendment_law_num": "平成十二年政令第三百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令は、金融庁組織令（平成十年政令第三百九十二号）第三十四条第二項に定めるもののほか、企業会計審議会（以下「審議会」という。）に関し必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1952-07-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-19T11:47:14+09:00"
+ }
+}

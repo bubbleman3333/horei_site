@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "348M50000080015",
+  "law_num": "昭和四十八年文部省令第十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 48,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "015",
+  "promulgation_date": "1973-07-27"
+ },
+ "revision_info": {
+  "law_revision_id": "348M50000080015_20260331_508M60000080014",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "児童生徒急増地域の指定に関する細目を定める省令",
+  "law_title_kana": "じどうせいときゅうぞうちいきのしていにかんするさいもくをさだめるしょうれい",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-30T14:34:02+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-03-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080014",
+  "amendment_law_title": "児童生徒急増地域の指定に関する細目を定める省令を廃止する省令",
+  "amendment_law_num": "令和八年文部科学省令第十四号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-03-31",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "348M50000080015_20260331_508M60000080014",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000080014",
+   "amendment_law_title": "児童生徒急増地域の指定に関する細目を定める省令を廃止する省令",
+   "amendment_law_num": "令和八年文部科学省令第十四号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "348M50000080015_19830428_358M50000080020",
+   "amendment_promulgate_date": "1983-04-28",
+   "amendment_enforcement_date": "1983-04-28",
+   "amendment_law_id": "358M50000080020",
+   "amendment_law_num": "昭和五十八年文部省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（市町村の廃置分合等があつた場合における児童又は生徒の数の算定方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "廃置分合又は境界変更により新たに設置され、又は境界が変更された市（特別区を含む。）町村（市町村の組合を含む。）又は地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市の区（以下「市町村等」という。）については、義務教育諸学校施設費国庫負担法施行令（昭和三十三年政令第百八十九号。以下「令」という。）附則第三項に規定する数又は割合を算定する場合には、当該算定の基礎となる市町村等の指定を行う年度若しくはその前年度の五月一日における児童若しくは生徒の数又は当該日の三年前の日における児童若しくは生徒の数の算定方法は、次に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1973-07-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-30T14:34:02+09:00"
+ }
+}

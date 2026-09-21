@@ -1,0 +1,281 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "325M50000002013",
+  "law_num": "昭和二十五年総理府令第十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "013",
+  "promulgation_date": "1950-04-20"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50000002013_20251222_507M60000008111",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公職選挙法施行規則",
+  "law_title_kana": "こうしょくせんきょほうせこうきそく",
+  "abbrev": "公選法施行規則",
+  "category": "国会",
+  "updated": "2026-01-13T09:41:47+09:00",
+  "amendment_promulgate_date": "2025-12-22",
+  "amendment_enforcement_date": "2025-12-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000008111",
+  "amendment_law_title": "公職選挙法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年総務省令第百十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50000002013_20251222_507M60000008111",
+   "amendment_promulgate_date": "2025-12-22",
+   "amendment_enforcement_date": "2025-12-22",
+   "amendment_law_id": "507M60000008111",
+   "amendment_law_title": "公職選挙法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20250627_507M60000008064",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-06-27",
+   "amendment_law_id": "507M60000008064",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20250604_507M60000008057",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-06-04",
+   "amendment_law_id": "507M60000008057",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20240610_506M60000008062",
+   "amendment_promulgate_date": "2024-06-10",
+   "amendment_enforcement_date": "2024-06-10",
+   "amendment_law_id": "506M60000008062",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20230301_504M60000008081",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-03-01",
+   "amendment_law_id": "504M60000008081",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20230217_505M60000008006",
+   "amendment_promulgate_date": "2023-02-10",
+   "amendment_enforcement_date": "2023-02-17",
+   "amendment_law_id": "505M60000008006",
+   "amendment_law_title": "最高裁判所裁判官国民審査法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20220406_504M60000008032",
+   "amendment_promulgate_date": "2022-04-06",
+   "amendment_enforcement_date": "2022-04-06",
+   "amendment_law_id": "504M60000008032",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20210101_502M60000008132",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000008132",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20201212_502M60000008088",
+   "amendment_promulgate_date": "2020-09-16",
+   "amendment_enforcement_date": "2020-12-12",
+   "amendment_law_id": "502M60000008088",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20201201_502M60000008101",
+   "amendment_promulgate_date": "2020-11-16",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000008101",
+   "amendment_law_title": "公職選挙法施行規則及び日本国憲法の改正手続に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20200916_502M60000008088",
+   "amendment_promulgate_date": "2020-09-16",
+   "amendment_enforcement_date": "2020-09-16",
+   "amendment_law_id": "502M60000008088",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20200910_502M60000008076",
+   "amendment_promulgate_date": "2020-08-12",
+   "amendment_enforcement_date": "2020-09-10",
+   "amendment_law_id": "502M60000008076",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20190701_501M60000008019",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008019",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う総務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20190601_501M60000008013",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "501M60000008013",
+   "amendment_law_title": "公職選挙法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20190531_501M60000008013",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-05-31",
+   "amendment_law_id": "501M60000008013",
+   "amendment_law_title": "公職選挙法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20190531_501M60000008012",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-05-31",
+   "amendment_law_id": "501M60000008012",
+   "amendment_law_title": "最高裁判所裁判官国民審査法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20181225_430M60000008068",
+   "amendment_promulgate_date": "2018-12-21",
+   "amendment_enforcement_date": "2018-12-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000008068",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年総務省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20181025_430M60000008059",
+   "amendment_promulgate_date": "2018-10-24",
+   "amendment_enforcement_date": "2018-10-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000008059",
+   "amendment_law_title": "公職選挙法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年総務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20180601_430M60000008029",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000008029",
+   "amendment_law_title": "公職選挙法施行規則及び在外選挙執行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年総務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20170601_429M60000008041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429M60000008041",
+   "amendment_law_num": "平成二十九年総務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20170410_429M60000008033",
+   "amendment_promulgate_date": "2017-04-07",
+   "amendment_enforcement_date": "2017-04-10",
+   "amendment_law_id": "429M60000008033",
+   "amendment_law_num": "平成二十九年総務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000002013_20160619_428M60000008062",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2016-06-19",
+   "amendment_law_id": "428M60000008062",
+   "amendment_law_num": "平成二十八年総務省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　選挙人名簿等の様式",
+  "第二章　期日前投票及び不在者投票",
+  "第二章の二　供託",
+  "第三章　選挙運動",
+  "第四章　選挙運動に関する収入及び支出並びに寄附",
+  "第四章の二　推薦団体の選挙運動の特例",
+  "第五章　政党その他の政治団体等の選挙における政治活動",
+  "第六章　補則"
+ ],
+ "article1": {
+  "caption": "（選挙人名簿の様式等）",
+  "title": "第一条",
+  "paragraphs": [
+   "選挙人名簿（公職選挙法（昭和二十五年法律第百号。以下「法」という。）第十九条第三項の規定により磁気ディスクをもつて調製するものを除く。）は、別記第一号様式に準じて調製しなければならない。",
+   "法第十九条第三項の規定により磁気ディスクをもつて調製する選挙人名簿は、当該選挙人名簿に記録されている事項を記載した書類を別記第一号様式に準じて調製できるものでなければならない。",
+   "磁気ディスクをもつて調製する選挙人名簿に記録されている全部の事項を記載した書類及び公職選挙法施行令（昭和二十五年政令第八十九号。以下「令」という。）第十九条第一項に規定する選挙人名簿記載書類は、別記第一号様式に準じて調製しなければならない。",
+   "選挙人名簿の抄本及び磁気ディスクをもつて調製する選挙人名簿に記録されている一部の事項を記載した書類は、別記第二号様式に準じて調製しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-04-20",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-01-13T09:41:47+09:00"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000275",
+  "law_num": "平成十二年政令第二百七十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "275",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000275_20260401_507CO0000000412",
+  "law_type": "CabinetOrder",
+  "law_title": "財政制度等審議会令",
+  "law_title_kana": "ざいせいせいどとうしんぎかいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-02T01:01:38+09:00",
+  "amendment_promulgate_date": "2025-12-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000412",
+  "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和七年政令第四百十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000275_20260401_507CO0000000412",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000412",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第四百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000275_20260401_507CO0000000292",
+   "amendment_promulgate_date": "2025-08-08",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000292",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律及び貨物自動車運送事業法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000275_20230401_505CO0000000068",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000068",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000275_20181201_430CO0000000329",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_law_id": "430CO0000000329",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第三百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000275_20161216_428CO0000000378",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2016-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000378",
+   "amendment_law_title": "財政制度等審議会令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（所掌事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "財政制度等審議会（以下「審議会」という。）は、財務省設置法第七条第一項に規定するもののほか、次に掲げる事務をつかさどる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T01:01:38+09:00"
+ }
+}

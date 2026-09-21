@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "328M50000100043",
+  "law_num": "昭和二十八年厚生省令第四十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "043",
+  "promulgation_date": "1953-09-18"
+ },
+ "revision_info": {
+  "law_revision_id": "328M50000100043_20260521_508M60000100088",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "社会保険審査官及び社会保険審査会法施行規則",
+  "law_title_kana": "しゃかいほけんしんさかんおよびしゃかいほけんしんさかいほうしこうきそく",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-05-22T16:17:15+09:00",
+  "amendment_promulgate_date": "2026-04-28",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100088",
+  "amendment_law_title": "社会保険審査官及び社会保険審査会法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第八十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328M50000100043_20260521_508M60000100088",
+   "amendment_promulgate_date": "2026-04-28",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000100088",
+   "amendment_law_title": "社会保険審査官及び社会保険審査会法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328M50000100043_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000100043_20191216_501M60000100080",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000100080",
+   "amendment_law_title": "厚生労働省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000100043_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000100043_20160401_428M60000100025",
+   "amendment_promulgate_date": "2016-02-25",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000100025",
+   "amendment_law_num": "平成二十八年厚生労働省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（総括社会保険審査官）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方厚生局（地方厚生支局を含む。）に、総括社会保険審査官一人を置き、社会保険審査官をもつて充てる。",
+   "総括社会保険審査官は、命を受けて、社会保険審査官及び社会保険審査会法（昭和二十八年法律第二百六号。以下「法」という。）第一条第一項に規定する審査請求に関する事務を行い、及び社会保険審査官の行う事務を総括する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-09-18",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-22T16:17:15+09:00"
+ }
+}

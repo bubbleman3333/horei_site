@@ -1,0 +1,111 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000280",
+  "law_num": "平成十二年政令第二百八十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "280",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000280_20260101_507CO0000000333",
+  "law_type": "CabinetOrder",
+  "law_title": "中央教育審議会令",
+  "law_title_kana": "ちゅうおうきょういくしんぎかいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-01-01T04:13:57+09:00",
+  "amendment_promulgate_date": "2025-09-25",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000333",
+  "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百三十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000280_20260101_507CO0000000333",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000333",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000280_20240401_505CO0000000327",
+   "amendment_promulgate_date": "2023-11-10",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000327",
+   "amendment_law_title": "日本語教育の適正かつ確実な実施を図るための日本語教育機関の認定等に関する法律施行令",
+   "amendment_law_num": "令和五年政令第三百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000280_20230220_505CO0000000012",
+   "amendment_promulgate_date": "2023-01-25",
+   "amendment_enforcement_date": "2023-02-20",
+   "amendment_law_id": "505CO0000000012",
+   "amendment_law_title": "独立行政法人大学改革支援・学位授与機構法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000280_20210401_501CO0000000198",
+   "amendment_promulgate_date": "2019-12-20",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "501CO0000000198",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法第五条の規定により読み替えて適用する地方公務員法第五十八条第三項の規定により読み替えて適用する労働基準法第三十二条の四第三項の審議会等を定める政令",
+   "amendment_law_num": "令和元年政令第百九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000280_20181016_430CO0000000287",
+   "amendment_promulgate_date": "2018-10-01",
+   "amendment_enforcement_date": "2018-10-16",
+   "amendment_law_id": "430CO0000000287",
+   "amendment_law_title": "文部科学省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000280_20160401_427CO0000000421",
+   "amendment_promulgate_date": "2015-12-16",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000421",
+   "amendment_law_title": "学校教育法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第四百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（組織）",
+  "title": "第一条",
+  "paragraphs": [
+   "中央教育審議会（以下「審議会」という。）は、委員三十人以内で組織する。",
+   "審議会に、特別の事項を調査審議させるため必要があるときは、臨時委員を置くことができる。",
+   "審議会に、専門の事項を調査させるため必要があるときは、専門委員を置くことができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T04:13:57+09:00"
+ }
+}

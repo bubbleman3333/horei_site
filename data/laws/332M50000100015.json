@@ -1,0 +1,293 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "332M50000100015",
+  "law_num": "昭和三十二年厚生省令第十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 32,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "015",
+  "promulgation_date": "1957-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "332M50000100015_20260601_508M60000100021",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "保険医療機関及び保険医療養担当規則",
+  "law_title_kana": "ほけんいりょうきかんおよびほけんいりょうようたんとうきそく",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-06-01T00:37:46+09:00",
+  "amendment_promulgate_date": "2026-03-05",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100021",
+  "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "332M50000100015_20260601_508M60000100021",
+   "amendment_promulgate_date": "2026-03-05",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000100021",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20260401_508M60000100008",
+   "amendment_promulgate_date": "2026-01-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100008",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則及び保険薬局及び保険薬剤師療養担当規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20251120_507M60000100103",
+   "amendment_promulgate_date": "2025-10-22",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507M60000100103",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20250401_507M60000100032",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100032",
+   "amendment_law_title": "医療法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20241202_506M60000100154",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000100154",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20241001_506M60000100035",
+   "amendment_promulgate_date": "2024-03-05",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000100035",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20240601_506M60000100035",
+   "amendment_promulgate_date": "2024-03-05",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506M60000100035",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20240401_505M60000100147",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000100147",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20231201_505M60000100147",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505M60000100147",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20231130_505M60000100147",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2023-11-30",
+   "amendment_law_id": "505M60000100147",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20230401_505M60000100048",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000100048",
+   "amendment_law_title": "こども家庭庁設置法等の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20230401_504M60000100124",
+   "amendment_promulgate_date": "2022-09-05",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000100124",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則及び保険薬局及び保険薬剤師療養担当規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20230117_505M60000100003",
+   "amendment_promulgate_date": "2023-01-17",
+   "amendment_enforcement_date": "2023-01-17",
+   "amendment_law_id": "505M60000100003",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則及び保険薬局及び保険薬剤師療養担当規則の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20221001_504M60000100031",
+   "amendment_promulgate_date": "2022-03-04",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100031",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20220401_504M60000100031",
+   "amendment_promulgate_date": "2022-03-04",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000100031",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20220401_502M60000100024",
+   "amendment_promulgate_date": "2020-03-05",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502M60000100024",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20201001_502M60000100024",
+   "amendment_promulgate_date": "2020-03-05",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000100024",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20200901_502M60000100141",
+   "amendment_promulgate_date": "2020-07-17",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100141",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20200401_502M60000100024",
+   "amendment_promulgate_date": "2020-03-05",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000100024",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20180401_430M60000100020",
+   "amendment_promulgate_date": "2018-03-05",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000100020",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20160401_428M60000100027",
+   "amendment_promulgate_date": "2016-03-04",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000100027",
+   "amendment_law_num": "平成二十八年厚生労働省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100015_20160401_426M60000100017",
+   "amendment_promulgate_date": "2014-03-05",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426M60000100017",
+   "amendment_law_num": "平成二十六年厚生労働省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　保険医療機関の療養担当",
+  "第二章　保険医の診療方針等",
+  "第三章　雑則"
+ ],
+ "article1": {
+  "caption": "（療養の給付の担当の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "保険医療機関が担当する療養の給付並びに被保険者及び被保険者であつた者並びにこれらの者の被扶養者の療養（以下単に「療養の給付」という。）の範囲は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1957-04-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T00:37:46+09:00"
+ }
+}

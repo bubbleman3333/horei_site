@@ -1,0 +1,288 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "328AC0000000006",
+  "law_num": "昭和二十八年法律第六号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "Act",
+  "law_num_num": "006",
+  "promulgation_date": "1953-02-28"
+ },
+ "revision_info": {
+  "law_revision_id": "328AC0000000006_20260525_506AC0000000052",
+  "law_type": "Act",
+  "law_title": "酒税法",
+  "law_title_kana": "しゅぜいほう",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-05-25T00:12:45+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000052",
+  "amendment_law_title": "事業性融資の推進等に関する法律",
+  "amendment_law_num": "令和六年法律第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328AC0000000006_20260525_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20250628_507AC0000000045",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-06-28",
+   "amendment_law_id": "507AC0000000045",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20250528_507AC0000000045",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-05-28",
+   "amendment_law_id": "507AC0000000045",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20241001_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20240614_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-14",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20240401_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20231001_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20220401_430AC0000000059",
+   "amendment_promulgate_date": "2018-06-20",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "430AC0000000059",
+   "amendment_law_title": "民法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20210801_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20210401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20201001_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20200901_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20200401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20200401_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20191204_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2019-12-04",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20180401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20180401_429AC0000000002",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000002",
+   "amendment_law_title": "地方税法及び航空機燃料譲与税法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20171008_428AC0000000016",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428AC0000000016",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20170601_428AC1000000057",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "428AC1000000057",
+   "amendment_law_title": "酒税法及び酒税の保全及び酒類業組合等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000006_20170401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　酒類の製造免許及び酒類の販売業免許等",
+  "第三章　課税標準及び税率",
+  "第四章　免税及び税額控除等",
+  "第五章　申告及び納付等",
+  "第六章　納税の担保",
+  "第七章　削除",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（課税物件）",
+  "title": "第一条",
+  "paragraphs": [
+   "酒類には、この法律により、酒税を課する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-02-28",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-25T00:12:45+09:00"
+ }
+}

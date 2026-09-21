@@ -1,0 +1,306 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "423M60000040020",
+  "law_num": "平成二十三年財務省令第二十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "020",
+  "promulgation_date": "2011-04-27"
+ },
+ "revision_info": {
+  "law_revision_id": "423M60000040020_20260414_508M60000040039",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則",
+  "law_title_kana": "ひがしにほんだいしんさいのひさいしゃとうにかかるこくぜいかんけいほうりつのりんじとくれいにかんするほうりつせこうきそく",
+  "abbrev": "震災特例法施行規則",
+  "category": "国税",
+  "updated": "2026-05-20T10:55:20+09:00",
+  "amendment_promulgate_date": "2026-04-14",
+  "amendment_enforcement_date": "2026-04-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040039",
+  "amendment_law_title": "法人税法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423M60000040020_20270401_508M60000040024",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000040024",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20260414_508M60000040039",
+   "amendment_promulgate_date": "2026-04-14",
+   "amendment_enforcement_date": "2026-04-14",
+   "amendment_law_id": "508M60000040039",
+   "amendment_law_title": "法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20260401_508M60000040024",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040024",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20250401_507M60000040030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040030",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20240412_506M60000040036",
+   "amendment_promulgate_date": "2024-04-12",
+   "amendment_enforcement_date": "2024-04-12",
+   "amendment_law_id": "506M60000040036",
+   "amendment_law_title": "法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20240401_506M60000040027",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000040027",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20240301_505M60000040055",
+   "amendment_promulgate_date": "2023-11-06",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "505M60000040055",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20230609_505M60000040042",
+   "amendment_promulgate_date": "2023-06-09",
+   "amendment_enforcement_date": "2023-06-09",
+   "amendment_law_id": "505M60000040042",
+   "amendment_law_title": "租税特別措置法施行規則及び東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20230401_505M60000040024",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000040024",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20230401_504M60000040030",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000040030",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20220401_504M60000040030",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040030",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20220401_503M60000040027",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000040027",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20220401_502M60000040056",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502M60000040056",
+   "amendment_law_title": "法人税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20220101_503M60000040027",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000040027",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20210415_503M60000040042",
+   "amendment_promulgate_date": "2021-04-15",
+   "amendment_enforcement_date": "2021-04-15",
+   "amendment_law_id": "503M60000040042",
+   "amendment_law_title": "法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20210401_503M60000040027",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000040027",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20201001_501M60000040036",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501M60000040036",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20201001_430M60000040029",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "430M60000040029",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20200401_502M60000040021",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000040021",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20190412_431M60000040031",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-04-12",
+   "amendment_law_id": "431M60000040031",
+   "amendment_law_title": "法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20190401_431M60000040019",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000040019",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20180401_430M60000040029",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040029",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20180101_429M60000040026",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429M60000040026",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20170519_429M60000040026",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-05-19",
+   "amendment_law_id": "429M60000040026",
+   "amendment_law_num": "平成二十九年財務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040020_20170401_429M60000040026",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000040026",
+   "amendment_law_num": "平成二十九年財務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　所得税法等の特例",
+  "第三章　法人税法等の特例",
+  "第四章　相続税法等の特例",
+  "第五章　登録免許税法等の特例",
+  "第六章　自動車重量税法等の特例"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、「東日本大震災」とは、東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律（以下「法」という。）第二条第一項に規定する東日本大震災をいう。",
+   "次章において「居住者」又は「確定申告書」とは、それぞれ法第二条第二項第一号又は第二号に規定する居住者又は確定申告書をいう。",
+   "第三章において「人格のない社団等」又は「法人課税信託」とは、それぞれ法第二条第三項第一号又は第二号に規定する人格のない社団等又は法人課税信託をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-04-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T10:55:20+09:00"
+ }
+}

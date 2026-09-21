@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60003FFA001",
+  "law_num": "平成二十年内閣府・総務省・法務省・外務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2008-06-13"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60003FFA001_20260701_508M60003FFA002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地球温暖化対策の推進に関する法律第二十二条第三項の規定に基づく主務大臣の権限の委任に関する命令",
+  "law_title_kana": "ちきゅうおんだんかたいさくのすいしんにかんするほうりつだいにじゅうにじょうだいさんこうのきていにもとづくしゅむだいじんのけんげんのいにんにかんするめいれい",
+  "abbrev": "地球温暖化対策推進法第二十二条第三項の規定に基づく主務大臣の権限の委任に関する命令,温対法第二十二条第三項の規定に基づく主務大臣の権限の委任に関する命令",
+  "category": "環境保全",
+  "updated": "2026-07-14T10:51:02+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60003FFA002",
+  "amendment_law_title": "温室効果ガス算定排出量等の報告等に関する命令及び地球温暖化対策の推進に関する法律第二十二条第三項の規定に基づく主務大臣の権限の委任に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・総務省・法務省・外務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60003FFA001_20260701_508M60003FFA002",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60003FFA002",
+   "amendment_law_title": "温室効果ガス算定排出量等の報告等に関する命令及び地球温暖化対策の推進に関する法律第二十二条第三項の規定に基づく主務大臣の権限の委任に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・法務省・外務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60003FFA001_20220401_504M60003FFA001",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60003FFA001",
+   "amendment_law_title": "温室効果ガス算定排出量等の報告等に関する命令及び地球温暖化対策の推進に関する法律第二十二条第三項の規定に基づく主務大臣の権限の委任に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・総務省・法務省・外務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60003FFA001_20160527_428M60003FFA005",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2016-05-27",
+   "amendment_law_id": "428M60003FFA005",
+   "amendment_law_num": "平成二十八年内閣府・総務省・法務省・外務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省・防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "地球温暖化対策の推進に関する法律第二十二条第三項の規定に基づく主務大臣の権限は、次の表の上欄に掲げる主務大臣の権限ごとに、同表の下欄に掲げる地方支分部局の長に委任されるものとする。ただし、主務大臣が自らその権限を行うことを妨げない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-06-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-14T10:51:02+09:00"
+ }
+}

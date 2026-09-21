@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000256",
+  "law_num": "令和七年政令第二百五十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "256",
+  "promulgation_date": "2025-07-11"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000256_20260701_508CO0000000217",
+  "law_type": "CabinetOrder",
+  "law_title": "ランピースキン病を家畜伝染病予防法第六十二条第一項の疾病の種類として指定する等の政令",
+  "law_title_kana": "らんぴーすきんびょうをかちくでんせんびょうよぼうほうだいろくじゅうにじょうだいいちこうのしっぺいのしゅるいとしてしていするとうのせいれい",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-07-08T10:05:07+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000217",
+  "amendment_law_title": "家畜伝染病予防法施行令及び関税法施行令の一部を改正する等の政令",
+  "amendment_law_num": "令和八年政令第二百十七号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-07-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000256_20260701_508CO0000000217",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000217",
+   "amendment_law_title": "家畜伝染病予防法施行令及び関税法施行令の一部を改正する等の政令",
+   "amendment_law_num": "令和八年政令第二百十七号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "507CO0000000256_20250728_000000000000000",
+   "amendment_promulgate_date": "2025-07-11",
+   "amendment_enforcement_date": "2025-07-28",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（家畜伝染病予防法第六十二条第一項の疾病の種類の指定等）",
+  "title": "第一条",
+  "paragraphs": [
+   "家畜伝染病予防法（以下「法」という。）第六十二条第一項の動物及び疾病の種類並びに地域を次のとおり指定する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-07-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T10:05:07+09:00"
+ }
+}

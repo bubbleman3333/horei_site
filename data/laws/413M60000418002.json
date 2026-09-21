@@ -1,0 +1,150 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000418002",
+  "law_num": "平成十三年総務省・法務省・経済産業省令第二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "2001-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000418002_20260101_507M60004010002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "電子署名及び認証業務に関する法律施行規則",
+  "law_title_kana": "でんししょめいおよびにんしょうぎょうむにかんするほうりつしこうきそく",
+  "abbrev": "電子署名法施行規則",
+  "category": "電気通信",
+  "updated": "2026-01-01T04:24:11+09:00",
+  "amendment_promulgate_date": "2025-06-30",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60004010002",
+  "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する命令",
+  "amendment_law_num": "令和七年デジタル庁・法務省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000418002_20260101_507M60004010002",
+   "amendment_promulgate_date": "2025-06-30",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60004010002",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20250630_507M60004010002",
+   "amendment_promulgate_date": "2025-06-30",
+   "amendment_enforcement_date": "2025-06-30",
+   "amendment_law_id": "507M60004010002",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20241202_506M60004010001",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60004010001",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・法務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20220401_504M60004010001",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60004010001",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和四年デジタル庁・法務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20210901_503M60000418002",
+   "amendment_promulgate_date": "2021-08-27",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000418002",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省・法務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20201222_502M60000418003",
+   "amendment_promulgate_date": "2020-12-22",
+   "amendment_enforcement_date": "2020-12-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000418003",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省・法務省・経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20200330_502M60000418002",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000418002",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省・法務省・経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20200116_502M60000418001",
+   "amendment_promulgate_date": "2020-01-16",
+   "amendment_enforcement_date": "2020-01-16",
+   "amendment_law_id": "502M60000418001",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省・法務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20190701_501M60000418001",
+   "amendment_promulgate_date": "2019-06-26",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000418001",
+   "amendment_law_title": "電子署名及び認証業務に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省・法務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000418002_20160401_428M60000418001",
+   "amendment_promulgate_date": "2016-03-23",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000418001",
+   "amendment_law_num": "平成二十八年総務省・法務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則において使用する用語は、電子署名及び認証業務に関する法律（以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T04:24:11+09:00"
+ }
+}

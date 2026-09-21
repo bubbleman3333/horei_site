@@ -1,0 +1,78 @@
+{% extends "base.html" %}
+{% from "_card.html" import card %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebSite","name":{{ site.name|tojson }},"url":{{ url()|tojson }},
+ "description":{{ site.description|tojson }},
+ "potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":{{ (url('search/') ~ '?q={search_term_string}')|tojson }}},"query-input":"required name=search_term_string"}}
+</script>
+{% endblock %}
+{% block content %}
+<section class="hero">
+  <h1>{{ site.name }}</h1>
+  <p class="lead">{{ site.description }}</p>
+  <div class="stat-row">
+    <div class="stat"><strong>{{ stats.week }}</strong><span>件が今週施行</span></div>
+    <div class="stat"><strong>{{ stats.next_month }}</strong><span>件が来月施行予定</span></div>
+    <div class="stat"><strong>{{ stats.new }}</strong><span>件が新しく公布された</span></div>
+    <div class="stat"><strong>{{ stats.total }}</strong><span>件を追いかけ中</span></div>
+  </div>
+  <p class="hero-actions"><a class="button" href="{{ url('upcoming/next-month/') }}">来月施行される法令を見る</a> <a class="button ghost" href="{{ url('calendar.ics') }}">施行日をカレンダーに入れる</a></p>
+</section>
+{% if ads.list_bottom %}<div class="ad">{{ ads.list_bottom|safe }}</div>{% endif %}
+<section>
+  <h2>今週施行された法令</h2>
+  {% if enforced_week %}<ul class="cards">{% for x in enforced_week %}{{ card(x) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('enforced/this-week/') }}">今週の施行をすべて見る（{{ stats.week }} 件）</a>
+  {% else %}<p>今週はまだ施行された法令がありません。</p>{% endif %}
+</section>
+<section>
+  <h2>来月施行される法令</h2>
+  {% if next_month %}<ul class="cards">{% for x in next_month %}{{ card(x) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('upcoming/next-month/') }}">来月の施行をすべて見る（{{ stats.next_month }} 件）</a>
+  {% else %}<p>来月に施行が決まっている法令は、いまのところありません。</p>{% endif %}
+</section>
+<section>
+  <h2>今週公布された法令</h2>
+  {% if promulgated_week %}<ul class="cards">{% for x in promulgated_week %}{{ card(x) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('promulgated/this-week/') }}">今週の公布をすべて見る</a>
+  {% else %}<p>今週はまだ公布された法令がありません。</p>{% endif %}
+</section>
+<section>
+  <h2>新しく作られた法令</h2>
+  <ul class="cards">{% for x in new_laws %}{{ card(x) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('new/') }}">新しい法令をすべて見る（{{ stats.new }} 件）</a>
+</section>
+<section>
+  <h2>最近改正が施行された法令</h2>
+  <ul class="cards">{% for x in amended %}{{ card(x) }}{% endfor %}</ul>
+  <a class="more" href="{{ url('amended/') }}">最近の改正をすべて見る（{{ stats.amended }} 件）</a>
+</section>
+<section>
+  <h2>分野から探す</h2>
+  <div class="chips large">
+  {% for name, slug, n in category_index %}<a href="{{ url('category/' ~ slug ~ '/') }}">{{ name }}<small>{{ n }}</small></a>{% endfor %}
+  </div>
+</section>
+<section>
+  <h2>種別から探す</h2>
+  <div class="chips large">
+  {% for name, slug, n in type_index %}<a href="{{ url('type/' ~ slug ~ '/') }}">{{ name }}<small>{{ n }}</small></a>{% endfor %}
+  </div>
+</section>
+<section>
+  <h2>所管府省から探す</h2>
+  <div class="chips large">
+  {% for name, slug, n in ministry_index[:30] %}<a href="{{ url('ministry/' ~ slug ~ '/') }}">{{ name }}<small>{{ n }}</small></a>{% endfor %}
+  </div>
+  <a class="more" href="{{ url('ministry/') }}">府省の一覧へ（{{ stats.ministries }} 件）</a>
+</section>
+<section class="howto">
+  <h2>このサイトの使い方</h2>
+  <ol>
+    <li>週に一度、<a href="{{ url('enforced/this-week/') }}">今週の施行</a>と<a href="{{ url('promulgated/this-week/') }}">今週の公布</a>を見れば、直近で何が変わったかがわかります。</li>
+    <li>自分の担当分野だけ追いたいときは、<a href="{{ url('category/') }}">分野別</a>（労働・社会保険・国税など）や<a href="{{ url('ministry/') }}">府省別</a>から入ってください。</li>
+    <li><a href="{{ url('calendar.ics') }}">施行日カレンダー</a>を登録しておくと、施行日が予定表に自動で入ります。新着は <a href="{{ url('feed.xml') }}">RSS</a> でも受け取れます。</li>
+  </ol>
+</section>
+{% endblock %}

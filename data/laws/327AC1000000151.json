@@ -1,0 +1,157 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "327AC1000000151",
+  "law_num": "昭和二十七年法律第百五十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 27,
+  "law_num_type": "Act",
+  "law_num_num": "151",
+  "promulgation_date": "1952-05-27"
+ },
+ "revision_info": {
+  "law_revision_id": "327AC1000000151_20260521_505AC0000000063",
+  "law_type": "Act",
+  "law_title": "内航海運業法",
+  "law_title_kana": "ないこうかいうんぎょうほう",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-05-21T00:52:27+09:00",
+  "amendment_promulgate_date": "2023-06-16",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000063",
+  "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "327AC1000000151_20260521_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20250401_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20220401_503AC0000000043",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000043",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20210521_503AC0000000043",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-05-21",
+   "amendment_law_id": "503AC0000000043",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20190401_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20180525_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2018-05-25",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327AC1000000151_20061001_418AC0000000019",
+   "amendment_promulgate_date": "2006-03-31",
+   "amendment_enforcement_date": "2006-10-01",
+   "amendment_law_id": "418AC0000000019",
+   "amendment_law_num": "平成十八年法律第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、内航運送の円滑かつ適確な運営を確保することにより、輸送の安全を確保するとともに、内航海運業の健全な発達を図り、もつて公共の福祉を増進することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1952-05-27",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-21T00:52:27+09:00"
+ }
+}

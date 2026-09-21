@@ -1,0 +1,122 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "506AC0000000069",
+  "law_num": "令和六年法律第六十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "069",
+  "promulgation_date": "2024-06-26"
+ },
+ "revision_info": {
+  "law_revision_id": "506AC0000000069_20260401_507AC0000000068",
+  "law_type": "Act",
+  "law_title": "学校設置者等及び民間教育保育等事業者による児童対象性暴力等の防止等のための措置に関する法律",
+  "law_title_kana": "がっこうせっちしゃとうおよびみんかんきょういくほいくとうじぎょうしゃによるじどうたいしょうせいぼうりょくとうのぼうしとうのためのそちにかんするほうりつ",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-02T21:52:49+09:00",
+  "amendment_promulgate_date": "2025-06-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000068",
+  "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506AC0000000069_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000069_20261225_000000000000000",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2026-12-25",
+   "amendment_law_id": "000000000000000",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000069_20261001_507AC0000000029",
+   "amendment_promulgate_date": "2025-04-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000029",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000069_20260401_507AC0000000068",
+   "amendment_promulgate_date": "2025-06-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000068",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000069_20251001_507AC0000000029",
+   "amendment_promulgate_date": "2025-04-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507AC0000000029",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000069_20250425_507AC0000000029",
+   "amendment_promulgate_date": "2025-04-25",
+   "amendment_enforcement_date": "2025-04-25",
+   "amendment_law_id": "507AC0000000029",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000069_20240626_000000000000000",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2024-06-26",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　学校設置者等が講ずべき措置等",
+  "第三章　民間教育保育等事業者の認定等及び認定事業者等が講ずべき措置等",
+  "第四章　犯罪事実確認書の交付等",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、児童対象性暴力等が児童等の権利を著しく侵害し、児童等の心身に生涯にわたって回復し難い重大な影響を与えるものであることに鑑み、児童等に対して教育、保育等の役務を提供する事業を行う立場にある学校設置者等及び民間教育保育等事業者が教員等及び教育保育等従事者による児童対象性暴力等の防止等をする責務を有することを明らかにし、学校設置者等が講ずべき措置並びにこれと同等の措置を実施する体制が確保されている民間教育保育等事業者を認定する仕組み及び当該認定を受けた民間教育保育等事業者が講ずべき措置について定めるとともに、教員等及び教育保育等従事者が特定性犯罪事実該当者に該当するか否かに関する情報を国が学校設置者等及び当該認定を受けた民間教育保育等事業者に対して提供する仕組みを設けることとし、もって児童等の心身の健全な発達に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-06-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:52:49+09:00"
+ }
+}

@@ -1,0 +1,142 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "412M50000100080",
+  "law_num": "平成十二年厚生省令第八十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "080",
+  "promulgation_date": "2000-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "412M50000100080_20260601_508M60000100021",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "指定訪問看護の事業の人員及び運営に関する基準",
+  "law_title_kana": "していほうもんかんごのじぎょうのじんいんおよびうんえいにかんするきじゅん",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-06-01T01:30:21+09:00",
+  "amendment_promulgate_date": "2026-03-05",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100021",
+  "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412M50000100080_20260601_508M60000100021",
+   "amendment_promulgate_date": "2026-03-05",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000100021",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100080_20241202_506M60000100154",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000100154",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100080_20241202_505M60000100147",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "505M60000100147",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100080_20240601_506M60000100035",
+   "amendment_promulgate_date": "2024-03-05",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506M60000100035",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100080_20231201_505M60000100147",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505M60000100147",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100080_20231130_505M60000100147",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2023-11-30",
+   "amendment_law_id": "505M60000100147",
+   "amendment_law_title": "保険医療機関及び保険医療養担当規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100080_20220401_504M60000100032",
+   "amendment_promulgate_date": "2022-03-04",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000100032",
+   "amendment_law_title": "指定訪問看護の事業の人員及び運営に関する基準の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100080_20201001_502M60000100025",
+   "amendment_promulgate_date": "2020-03-05",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000100025",
+   "amendment_law_title": "指定訪問看護の事業の人員及び運営に関する基準の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100080_20081001_420M60000100149",
+   "amendment_promulgate_date": "2008-09-30",
+   "amendment_enforcement_date": "2008-10-01",
+   "amendment_law_id": "420M60000100149",
+   "amendment_law_num": "平成二十年厚生労働省令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　基本方針",
+  "第二章　人員に関する基準",
+  "第三章　設備に関する基準",
+  "第四章　運営に関する基準"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "指定訪問看護の事業は、その利用者が可能な限りその居宅において、その有する能力に応じ自立した日常生活を営むことができるよう、その療養生活を支援し、心身の機能の維持回復を目指すものでなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T01:30:21+09:00"
+ }
+}

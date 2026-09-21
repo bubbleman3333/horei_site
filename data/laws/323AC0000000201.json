@@ -1,0 +1,237 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "323AC0000000201",
+  "law_num": "昭和二十三年法律第二百一号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "Act",
+  "law_num_num": "201",
+  "promulgation_date": "1948-07-30"
+ },
+ "revision_info": {
+  "law_revision_id": "323AC0000000201_20260521_505AC0000000063",
+  "law_type": "Act",
+  "law_title": "医師法",
+  "law_title_kana": "いしほう",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-05-21T00:17:32+09:00",
+  "amendment_promulgate_date": "2023-06-16",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000063",
+  "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323AC0000000201_20260521_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20250401_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20240401_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20230401_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20230101_504AC0000000047",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504AC0000000047",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20220820_504AC0000000044",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-08-20",
+   "amendment_law_id": "504AC0000000044",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20220520_504AC0000000047",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504AC0000000047",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20220520_504AC0000000044",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504AC0000000044",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20211001_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20210528_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2021-05-28",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20200401_430AC0000000079",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430AC0000000079",
+   "amendment_law_title": "医療法及び医師法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20191214_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20180725_430AC0000000079",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2018-07-25",
+   "amendment_law_id": "430AC0000000079",
+   "amendment_law_title": "医療法及び医師法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000201_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　免許",
+  "第三章　試験",
+  "第四章　研修",
+  "第五章　業務",
+  "第六章　医師試験委員",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "医師は、医療及び保健指導を掌ることによつて公衆衛生の向上及び増進に寄与し、もつて国民の健康な生活を確保するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-07-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-21T00:17:32+09:00"
+ }
+}

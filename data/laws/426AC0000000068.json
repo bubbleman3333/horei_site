@@ -1,0 +1,188 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "426AC0000000068",
+  "law_num": "平成二十六年法律第六十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "Act",
+  "law_num_num": "068",
+  "promulgation_date": "2014-06-13"
+ },
+ "revision_info": {
+  "law_revision_id": "426AC0000000068_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "行政不服審査法",
+  "law_title_kana": "ぎょうせいふふくしんさほう",
+  "abbrev": "行審法,行服法",
+  "category": "行政手続",
+  "updated": "2026-06-29T17:22:21+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426AC0000000068_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20260521_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20240401_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20220525_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20210901_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20180401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000068_20170401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　審査請求",
+  "第三章　再調査の請求",
+  "第四章　再審査請求",
+  "第五章　行政不服審査会等",
+  "第六章　補則"
+ ],
+ "article1": {
+  "caption": "（目的等）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、行政庁の違法又は不当な処分その他公権力の行使に当たる行為に関し、国民が簡易迅速かつ公正な手続の下で広く行政庁に対する不服申立てをすることができるための制度を定めることにより、国民の権利利益の救済を図るとともに、行政の適正な運営を確保することを目的とする。",
+   "行政庁の処分その他公権力の行使に当たる行為（以下単に「処分」という。）に関する不服申立てについては、他の法律に特別の定めがある場合を除くほか、この法律の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-06-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-29T17:22:21+09:00"
+ }
+}

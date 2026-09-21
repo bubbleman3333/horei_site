@@ -1,0 +1,100 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000008155",
+  "law_num": "平成十三年総務省令第百五十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "155",
+  "promulgation_date": "2001-11-29"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000008155_20260527_508M60000008070",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "電気通信紛争処理委員会手続規則",
+  "law_title_kana": "でんきつうしんふんそうしょりいいんかいてつづききそく",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-06-11T10:57:39+09:00",
+  "amendment_promulgate_date": "2026-05-25",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008070",
+  "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第七十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000008155_20260527_508M60000008070",
+   "amendment_promulgate_date": "2026-05-25",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508M60000008070",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000008155_20221001_504M60000008064",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000008064",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000008155_20201201_502M60000008106",
+   "amendment_promulgate_date": "2020-11-19",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000008106",
+   "amendment_law_title": "電気通信紛争処理委員会手続規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000008155_20190701_501M60000008019",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008019",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う総務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000008155_20110630_423M60000008079",
+   "amendment_promulgate_date": "2011-06-29",
+   "amendment_enforcement_date": "2011-06-30",
+   "amendment_law_id": "423M60000008079",
+   "amendment_law_num": "平成二十三年総務省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（あっせん及び仲裁に関する通知の方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "電気通信紛争処理委員会令（以下「令」という。）第五条、第六条、第八条第二項（令第十条第二項において準用する場合を含む。）、第九条第一項（令第十条第二項において準用する場合を含む。次項において同じ。）及び第二項（令第十条第二項において準用する場合を含む。）並びに第十条第一項の規定による通知は、書面により行うものとする。",
+   "令第九条第一項の規定による通知には、仲裁委員に指名されることが適当でないとする理由を付すものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-11-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-11T10:57:39+09:00"
+ }
+}

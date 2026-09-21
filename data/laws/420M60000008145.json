@@ -1,0 +1,150 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60000008145",
+  "law_num": "平成二十年総務省令第百四十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "145",
+  "promulgation_date": "2008-12-16"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60000008145_20260401_508M60000008037",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "統計法施行規則",
+  "law_title_kana": "とうけいほうしこうきそく",
+  "abbrev": null,
+  "category": "統計",
+  "updated": "2026-05-01T16:24:22+09:00",
+  "amendment_promulgate_date": "2026-03-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008037",
+  "amendment_law_title": "統計法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第三十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60000008145_20260401_508M60000008037",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008037",
+   "amendment_law_title": "統計法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20260306_508M60000008022",
+   "amendment_promulgate_date": "2026-03-06",
+   "amendment_enforcement_date": "2026-03-06",
+   "amendment_law_id": "508M60000008022",
+   "amendment_law_title": "統計法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20241202_506M60000008097",
+   "amendment_promulgate_date": "2024-11-19",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000008097",
+   "amendment_law_title": "統計法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20241119_506M60000008097",
+   "amendment_promulgate_date": "2024-11-19",
+   "amendment_enforcement_date": "2024-11-19",
+   "amendment_law_id": "506M60000008097",
+   "amendment_law_title": "統計法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20230616_505M60000008054",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505M60000008054",
+   "amendment_law_title": "統計法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20220401_504M60000008014",
+   "amendment_promulgate_date": "2022-03-15",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000008014",
+   "amendment_law_title": "統計法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20210901_503M60000008090",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000008090",
+   "amendment_law_title": "統計法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20190701_501M60000008019",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008019",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う総務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20190501_431M60000008009",
+   "amendment_promulgate_date": "2019-02-22",
+   "amendment_enforcement_date": "2019-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000008009",
+   "amendment_law_title": "統計法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000008145_20160401_428M60000008009",
+   "amendment_promulgate_date": "2016-02-15",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000008009",
+   "amendment_law_num": "平成二十八年総務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、統計法（以下「法」という。）及び統計法施行令（以下「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-12-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T16:24:22+09:00"
+ }
+}

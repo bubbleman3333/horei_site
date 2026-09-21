@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "413CO0000000176",
+  "law_num": "平成十三年政令第百七十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "176",
+  "promulgation_date": "2001-04-25"
+ },
+ "revision_info": {
+  "law_revision_id": "413CO0000000176_20260701_508CO0000000205",
+  "law_type": "CabinetOrder",
+  "law_title": "食品循環資源の再生利用等の促進に関する法律施行令",
+  "law_title_kana": "しょくひんじゅんかんしげんのさいせいりようとうのそくしんにかんするほうりつせこうれい",
+  "abbrev": "食品リサイクル法施行令",
+  "category": "農業",
+  "updated": "2026-07-07T10:36:45+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000205",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413CO0000000176_20260701_508CO0000000205",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000205",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000176_20190712_501CO0000000054",
+   "amendment_promulgate_date": "2019-07-12",
+   "amendment_enforcement_date": "2019-07-12",
+   "amendment_law_id": "501CO0000000054",
+   "amendment_law_title": "食品循環資源の再生利用等の促進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000176_20160401_428CO0000000103",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000103",
+   "amendment_law_title": "内閣の重要政策に関する総合調整等に関する機能の強化のための国家行政組織法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（食事の提供を伴う事業）",
+  "title": "第一条",
+  "paragraphs": [
+   "食品循環資源の再生利用等の促進に関する法律（以下「法」という。）第二条第四項第二号の政令で定める事業は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-04-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-07T10:36:45+09:00"
+ }
+}

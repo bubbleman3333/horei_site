@@ -1,0 +1,111 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "422M60000002006",
+  "law_num": "平成二十二年内閣府令第六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 22,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "2010-03-01"
+ },
+ "revision_info": {
+  "law_revision_id": "422M60000002006_20260601_508M60000002051",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "認定資金決済事業者協会に関する内閣府令",
+  "law_title_kana": "にんていしきんけっさいじぎょうしゃきょうかいにかんするないかくふれい",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-06-11T10:47:00+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002051",
+  "amendment_law_title": "資金移動業者に関する内閣府令等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "422M60000002006_20260601_508M60000002051",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000002051",
+   "amendment_law_title": "資金移動業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002006_20230601_505M60000002050",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000002050",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002006_20210501_503M60000002011",
+   "amendment_promulgate_date": "2021-03-19",
+   "amendment_enforcement_date": "2021-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002011",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002006_20201223_502M60000002075",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002075",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002006_20200501_502M60000002035",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002035",
+   "amendment_law_title": "仮想通貨交換業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422M60000002006_20170401_429M60000002008",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002008",
+   "amendment_law_num": "平成二十九年内閣府令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において「前払式支払手段発行者」、「資金移動業」、「物品等」、「電子決済手段等取引業」、「暗号資産交換業」、「電子決済手段・暗号資産サービス仲介業」、「認定資金決済事業者協会」、「特定信託会社」、「特定信託為替取引」又は「銀行等」とは、それぞれ資金決済に関する法律（以下「法」という。）第二条に規定する前払式支払手段発行者、資金移動業、物品等、電子決済手段等取引業、暗号資産交換業、電子決済手段・暗号資産サービス仲介業、認定資金決済事業者協会、特定信託会社、特定信託為替取引又は銀行等をいう。",
+   "この府令において「前払式支払手段」とは、法第三条第一項に規定する前払式支払手段をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2010-03-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-11T10:47:00+09:00"
+ }
+}

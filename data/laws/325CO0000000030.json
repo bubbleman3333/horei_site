@@ -1,0 +1,132 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "325CO0000000030",
+  "law_num": "昭和二十五年政令第三十号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "030",
+  "promulgation_date": "1950-03-13"
+ },
+ "revision_info": {
+  "law_revision_id": "325CO0000000030_20260521_508CO0000000166",
+  "law_type": "CabinetOrder",
+  "law_title": "漁業法施行令",
+  "law_title_kana": "ぎょぎょうほうしこうれい",
+  "abbrev": null,
+  "category": "水産業",
+  "updated": "2026-05-28T10:16:41+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000166",
+  "amendment_law_title": "漁業法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325CO0000000030_20260521_508CO0000000166",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000166",
+   "amendment_law_title": "漁業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000030_20260401_506CO0000000401",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000401",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第四百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000030_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000030_20190601_501CO0000000015",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "501CO0000000015",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000030_20190401_429CO0000000232",
+   "amendment_promulgate_date": "2017-09-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000232",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000030_20170716_429CO0000000190",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-07-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000190",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000030_20170601_429CO0000000153",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000153",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000030_20160619_428CO0000000227",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2016-06-19",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000227",
+   "amendment_law_title": "公職選挙法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第二百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（漁業法の施行期日）",
+  "title": "第一条",
+  "paragraphs": [
+   "漁業法（以下「法」という。）の施行期日は、昭和二十五年三月十四日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-03-13",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-28T10:16:41+09:00"
+ }
+}

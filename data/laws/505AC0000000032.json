@@ -1,0 +1,118 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "505AC0000000032",
+  "law_num": "令和五年法律第三十二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "Act",
+  "law_num_num": "032",
+  "promulgation_date": "2023-05-19"
+ },
+ "revision_info": {
+  "law_revision_id": "505AC0000000032_20260401_507AC0000000052",
+  "law_type": "Act",
+  "law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律",
+  "law_title_kana": "だつたんそせいちょうがたけいざいこうぞうへのえんかつないこうのすいしんにかんするほうりつ",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-02T21:47:24+09:00",
+  "amendment_promulgate_date": "2025-06-04",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000052",
+  "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505AC0000000032_20260401_507AC0000000052",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000052",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000032_20260105_507AC0000000052",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2026-01-05",
+   "amendment_law_id": "507AC0000000052",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000032_20250804_507AC0000000030",
+   "amendment_promulgate_date": "2025-05-14",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507AC0000000030",
+   "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000032_20250614_507AC0000000052",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-06-14",
+   "amendment_law_id": "507AC0000000052",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000032_20240216_000000000000000",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2024-02-16",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000032_20230630_000000000000000",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2023-06-30",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505AC0000000032_20230519_000000000000000",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2023-05-19",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　脱炭素成長型経済構造移行推進戦略",
+  "第三章　脱炭素成長型経済構造移行債",
+  "第四章　化石燃料賦課金及び特定事業者負担金",
+  "第五章　脱炭素成長型投資事業者排出枠",
+  "第六章　脱炭素成長型経済構造移行推進機構",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、世界的規模でエネルギーの脱炭素化に向けた取組等が進められる中で、我が国における脱炭素成長型経済構造への円滑な移行を推進するため、脱炭素成長型経済構造移行推進戦略の策定、脱炭素成長型経済構造移行債の発行並びに化石燃料採取者等に対する賦課金の徴収及び特定事業者への排出枠の割当てに係る負担金の徴収について定めるとともに、脱炭素成長型投資事業者への排出枠の割当てに係る措置及び脱炭素成長型経済構造移行推進機構に脱炭素成長型経済構造への円滑な移行に資する事業活動を行う者に対する支援等に関する業務を行わせるための措置を講じ、もって国民生活の向上及び国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-05-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:47:24+09:00"
+ }
+}

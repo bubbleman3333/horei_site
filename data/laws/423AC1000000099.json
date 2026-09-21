@@ -1,0 +1,68 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "423AC1000000099",
+  "law_num": "平成二十三年法律第九十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "Act",
+  "law_num_num": "099",
+  "promulgation_date": "2011-08-18"
+ },
+ "revision_info": {
+  "law_revision_id": "423AC1000000099_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "東日本大震災により生じた災害廃棄物の処理に関する特別措置法",
+  "law_title_kana": "ひがしにほんだいしんさいによりしょうじたさいがいはいきぶつのしょりにかんするとくべつそちほう",
+  "abbrev": "災害廃棄物処理特措法",
+  "category": "災害対策",
+  "updated": "2026-07-01T00:58:05+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423AC1000000099_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423AC1000000099_20120210_423AC0000000125",
+   "amendment_promulgate_date": "2011-12-16",
+   "amendment_enforcement_date": "2012-02-10",
+   "amendment_law_id": "423AC0000000125",
+   "amendment_law_title": "復興庁設置法",
+   "amendment_law_num": "平成二十三年法律第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、東日本大震災により生じた災害廃棄物の処理が喫緊の課題となっていることに鑑み、国が被害を受けた市町村に代わって災害廃棄物を処理するための特例を定め、あわせて、国が講ずべきその他の措置について定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-08-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:58:05+09:00"
+ }
+}

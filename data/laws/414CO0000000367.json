@@ -1,0 +1,155 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "414CO0000000367",
+  "law_num": "平成十四年政令第三百六十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "367",
+  "promulgation_date": "2002-12-11"
+ },
+ "revision_info": {
+  "law_revision_id": "414CO0000000367_20260521_508CO0000000149",
+  "law_type": "CabinetOrder",
+  "law_title": "マンションの再生等の円滑化に関する法律施行令",
+  "law_title_kana": "まんしょんのさいせいとうのえんかつかにかんするほうりつしこうれい",
+  "abbrev": "マンション建て替え円滑化法施行令",
+  "category": "建築・住宅",
+  "updated": "2026-05-21T02:19:48+09:00",
+  "amendment_promulgate_date": "2026-04-24",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000149",
+  "amendment_law_title": "公示送達等の電子化のための国土交通省関係政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百四十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414CO0000000367_20260521_508CO0000000149",
+   "amendment_promulgate_date": "2026-04-24",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000149",
+   "amendment_law_title": "公示送達等の電子化のための国土交通省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20260401_507CO0000000388",
+   "amendment_promulgate_date": "2025-11-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000388",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20251128_507CO0000000306",
+   "amendment_promulgate_date": "2025-08-29",
+   "amendment_enforcement_date": "2025-11-28",
+   "amendment_law_id": "507CO0000000306",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和七年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20220401_503CO0000000265",
+   "amendment_promulgate_date": "2021-09-27",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000265",
+   "amendment_law_title": "マンションの管理の適正化の推進に関する法律及びマンションの建替え等の円滑化に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20210901_503CO0000000224",
+   "amendment_promulgate_date": "2021-08-04",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000224",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20200401_501CO0000000202",
+   "amendment_promulgate_date": "2019-12-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000202",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律の一部の施行に伴う国土交通省関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20191225_501CO0000000202",
+   "amendment_promulgate_date": "2019-12-25",
+   "amendment_enforcement_date": "2019-12-25",
+   "amendment_law_id": "501CO0000000202",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律の一部の施行に伴う国土交通省関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20180401_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000367_20160401_427CO0000000392",
+   "amendment_promulgate_date": "2015-11-26",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000392",
+   "amendment_law_title": "行政不服審査法及び行政不服審査法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第三百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　マンション再生事業",
+  "第二章　マンション等売却事業",
+  "第三章　マンション除却事業",
+  "第三章の二　除却等をする必要のあるマンションに係る容積率等の特例に係る敷地面積の規模",
+  "第四章　敷地分割事業",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（事業計画の縦覧についての公告）",
+  "title": "第一条",
+  "paragraphs": [
+   "市町村長は、マンションの再生等の円滑化に関する法律（平成十四年法律第七十八号。以下「法」という。）第十一条第一項（法第三十四条第二項において準用する場合を含む。）の規定により事業計画を公衆の縦覧に供しようとするときは、あらかじめ、縦覧の開始の日、場所及び時間を公告しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-12-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:19:48+09:00"
+ }
+}

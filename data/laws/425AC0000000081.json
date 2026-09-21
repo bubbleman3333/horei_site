@@ -1,0 +1,119 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "425AC0000000081",
+  "law_num": "平成二十五年法律第八十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "081",
+  "promulgation_date": "2013-11-22"
+ },
+ "revision_info": {
+  "law_revision_id": "425AC0000000081_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律",
+  "law_title_kana": "のうりんぎょぎょうのけんぜんなはってんとちょうわのとれたさいせいかのうえねるぎーでんきのはつでんのそくしんにかんするほうりつ",
+  "abbrev": "農山漁村再生可能エネルギー法",
+  "category": "農業",
+  "updated": "2026-07-01T00:58:22+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425AC0000000081_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000081_20250401_506AC0000000056",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000056",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000081_20240401_505AC0000000034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000034",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000081_20220401_503AC0000000054",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000054",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000081_20210602_503AC0000000054",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-06-02",
+   "amendment_law_id": "503AC0000000054",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000081_20181116_430AC0000000023",
+   "amendment_promulgate_date": "2018-05-18",
+   "amendment_enforcement_date": "2018-11-16",
+   "amendment_law_id": "430AC0000000023",
+   "amendment_law_title": "農業経営基盤強化促進法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000081_20160527_428AC0000000050",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2016-05-27",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000050",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、土地、水、バイオマスその他の再生可能エネルギー電気の発電のために活用することができる資源が農山漁村に豊富に存在することに鑑み、農山漁村において農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電を促進するための措置を講ずることにより、農山漁村の活性化を図るとともに、エネルギーの供給源の多様化に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-11-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:58:22+09:00"
+ }
+}

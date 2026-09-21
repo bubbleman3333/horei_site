@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "401CO0000000205",
+  "law_num": "平成元年政令第二百五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 1,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "205",
+  "promulgation_date": "1989-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "401CO0000000205_20260401_508CO0000000066",
+  "law_type": "CabinetOrder",
+  "law_title": "地域における医療及び介護の総合的な確保の促進に関する法律施行令",
+  "law_title_kana": "ちいきにおけるいりょうおよびかいごのそうごうてきなかくほのそくしんにかんするほうりつしこうれい",
+  "abbrev": "医療介護総合確保法施行令",
+  "category": "社会福祉",
+  "updated": "2026-04-14T09:50:24+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000066",
+  "amendment_law_title": "医療法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "401CO0000000205_20260401_508CO0000000066",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000066",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000205_20250401_506CO0000000352",
+   "amendment_promulgate_date": "2024-11-20",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000352",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保の促進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000205_20240401_506CO0000000066",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000066",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保の促進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000205_20230101_504CO0000000407",
+   "amendment_promulgate_date": "2022-12-28",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504CO0000000407",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保の促進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第四百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000205_20211001_503CO0000000272",
+   "amendment_promulgate_date": "2021-09-27",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503CO0000000272",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保の促進に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000205_20210528_503CO0000000160",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2021-05-28",
+   "amendment_law_id": "503CO0000000160",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保の促進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000205_20140625_426CO0000000225",
+   "amendment_promulgate_date": "2014-06-25",
+   "amendment_enforcement_date": "2014-06-25",
+   "amendment_law_id": "426CO0000000225",
+   "amendment_law_num": "平成二十六年政令第二百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第四項第一号の政令で定める要件）",
+  "title": "第一条",
+  "paragraphs": [
+   "地域における医療及び介護の総合的な確保の促進に関する法律（以下「法」という。）第二条第四項第一号の政令で定める要件は、診療所が附置されていることとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1989-06-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:50:24+09:00"
+ }
+}

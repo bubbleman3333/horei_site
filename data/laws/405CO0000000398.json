@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "405CO0000000398",
+  "law_num": "平成五年政令第三百九十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 5,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "398",
+  "promulgation_date": "1993-12-22"
+ },
+ "revision_info": {
+  "law_revision_id": "405CO0000000398_20260625_508CO0000000207",
+  "law_type": "CabinetOrder",
+  "law_title": "協同組織金融機関の優先出資に関する法律施行令",
+  "law_title_kana": "きょうどうそしききんゆうきかんのゆうせんしゅっしにかんするほうりつしこうれい",
+  "abbrev": "優先出資法施行令",
+  "category": "金融・保険",
+  "updated": "2026-07-07T10:53:54+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000207",
+  "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第二百七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "405CO0000000398_20260625_508CO0000000207",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508CO0000000207",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000398_20220901_504CO0000000268",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504CO0000000268",
+   "amendment_law_title": "会社法の一部を改正する法律及び会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律の一部の施行に伴う金融庁関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000398_20160401_428CO0000000101",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000101",
+   "amendment_law_title": "農林中央金庫及び特定農水産業協同組合等による信用事業の再編及び強化に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000398_20160401_428CO0000000027",
+   "amendment_promulgate_date": "2016-01-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000027",
+   "amendment_law_title": "農業協同組合法施行令等の一部を改正する等の政令",
+   "amendment_law_num": "平成二十八年政令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（募集の認可申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "協同組織金融機関の優先出資に関する法律（以下「法」という。）第二条第一項に規定する協同組織金融機関（以下「協同組織金融機関」という。）は、法第六条第一項の規定による優先出資を引き受ける者の募集の認可を受けようとするときは、認可申請書に主務省令で定める書類を添付して、これを行政庁に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1993-12-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-07T10:53:54+09:00"
+ }
+}

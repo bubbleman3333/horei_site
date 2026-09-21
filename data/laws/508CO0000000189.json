@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000189",
+  "law_num": "令和八年政令第百八十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "189",
+  "promulgation_date": "2026-06-03"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000189_20260603_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "令和八年四月二十二日に発生した大火による岩手県上閉伊郡大槌町の区域に係る災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令",
+  "law_title_kana": "れいわはちねんしがつにじゅうににちにはっせいしたたいかによるいわてけんかみへいぐんおおつちちょうのくいきにかかるさいがいについてのげきじんさいがいおよびこれにたいしてきようすべきそちのしていにかんするせいれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-09-11T04:22:08+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-06-03",
+  "amendment_enforcement_comment": "",
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000189_20260603_000000000000000",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-06-03",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "次の表の上欄に掲げる災害を激<Ruby>甚<Rt>じん</Rt></Ruby>災害に対処するための特別の財政援助等に関する法律（以下「法」という。）第二条第一項の激甚災害として指定し、当該激甚災害に対し適用すべき措置を同表の下欄に掲げるとおり指定する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-11T04:22:08+09:00"
+ }
+}

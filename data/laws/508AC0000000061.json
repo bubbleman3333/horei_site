@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "508AC0000000061",
+  "law_num": "令和八年法律第六十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Act",
+  "law_num_num": "061",
+  "promulgation_date": "2026-07-17"
+ },
+ "revision_info": {
+  "law_revision_id": "508AC0000000061_20260717_000000000000000",
+  "law_type": "Act",
+  "law_title": "防災庁設置法",
+  "law_title_kana": "ぼうさいちょうせっちほう",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-07-17T12:07:28+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508AC0000000061_20280716_000000000000000",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2028-07-16",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-07-16",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "508AC0000000061_20261231_000000000000000",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "令和八年十二月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "508AC0000000061_20260717_000000000000000",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　防災庁の設置並びに任務及び所掌事務",
+  "第三章　組織",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、防災庁の設置並びに任務及びこれを達成するため必要となる明確な範囲の所掌事務を定めるとともに、その所掌する行政事務を能率的に遂行するため必要な組織に関する事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-07-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-17T12:07:28+09:00"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000080039",
+  "law_num": "平成十三年文部科学省令第三十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "039",
+  "promulgation_date": "2001-03-30"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000080039_20260807_508M60000080028",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国立研究開発法人量子科学技術研究開発機構の財務及び会計に関する省令",
+  "law_title_kana": "こくりつけんきゅうかいはつほうじんりょうしかがくぎじゅつけんきゅうかいはつきこうのざいむおよびかいけいにかんするしょうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-19T12:32:50+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080028",
+  "amendment_law_title": "金融庁組織令の一部を改正する政令の施行に伴う文部科学省関係省令の整理に関する省令",
+  "amendment_law_num": "令和八年文部科学省令第二十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000080039_20260807_508M60000080028",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000080028",
+   "amendment_law_title": "金融庁組織令の一部を改正する政令の施行に伴う文部科学省関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年文部科学省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080039_20220331_504M60000080017",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "504M60000080017",
+   "amendment_law_title": "日本私立学校振興・共済事業団の財務及び会計に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080039_20210324_503M60000080010",
+   "amendment_promulgate_date": "2021-03-24",
+   "amendment_enforcement_date": "2021-03-24",
+   "amendment_law_id": "503M60000080010",
+   "amendment_law_title": "国立研究開発法人物質・材料研究機構に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080039_20191227_501M60000080030",
+   "amendment_promulgate_date": "2019-12-27",
+   "amendment_enforcement_date": "2019-12-27",
+   "amendment_law_id": "501M60000080030",
+   "amendment_law_title": "国立研究開発法人量子科学技術研究開発機構の財務及び会計に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080039_20190613_501M60000080004",
+   "amendment_promulgate_date": "2019-06-13",
+   "amendment_enforcement_date": "2019-06-13",
+   "amendment_law_id": "501M60000080004",
+   "amendment_law_title": "日本私立学校振興・共済事業団法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000080039_20160401_428M60000080022",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000080022",
+   "amendment_law_num": "平成二十八年文部科学省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（通則法第八条第三項に規定する主務省令で定める重要な財産）",
+  "title": "第一条",
+  "paragraphs": [
+   "国立研究開発法人量子科学技術研究開発機構（以下「機構」という。）に係る独立行政法人通則法（以下「通則法」という。）第八条第三項に規定する主務省令で定める重要な財産は、その保有する財産であって、その通則法第四十六条の二第一項又は第二項の認可に係る申請の日（各項ただし書の場合にあっては、当該財産の処分に関する計画を定めた通則法第三十五条の五第一項の中長期計画の認可に係る申請の日）における帳簿価額（現金及び預金にあっては、申請の日におけるその額）が五十万円以上のもの（その性質上通則法第四十六条の二の規定により処分することが不適当なものを除く。）その他文部科学大臣が定める財産とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T12:32:50+09:00"
+ }
+}

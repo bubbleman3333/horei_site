@@ -1,0 +1,156 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "429M60000080033",
+  "law_num": "平成二十九年文部科学省令第三十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "033",
+  "promulgation_date": "2017-09-08"
+ },
+ "revision_info": {
+  "law_revision_id": "429M60000080033_20260224_508M60000080005",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "専門職大学設置基準",
+  "law_title_kana": "せんもんしょくだいがくせっちきじゅん",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-03-09T09:25:04+09:00",
+  "amendment_promulgate_date": "2026-02-24",
+  "amendment_enforcement_date": "2026-02-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080005",
+  "amendment_law_title": "大学設置基準等の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省令第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "429M60000080033_20260224_508M60000080005",
+   "amendment_promulgate_date": "2026-02-24",
+   "amendment_enforcement_date": "2026-02-24",
+   "amendment_law_id": "508M60000080005",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "429M60000080033_20260101_507M60000080030",
+   "amendment_promulgate_date": "2025-12-25",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000080030",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000080033_20230731_505M60000080026",
+   "amendment_promulgate_date": "2023-07-31",
+   "amendment_enforcement_date": "2023-07-31",
+   "amendment_law_id": "505M60000080026",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000080033_20221001_504M60000080034",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000080034",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000080033_20220801_504M60000080003",
+   "amendment_promulgate_date": "2022-03-17",
+   "amendment_enforcement_date": "2022-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000080003",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000080033_20210226_503M60000080009",
+   "amendment_promulgate_date": "2021-02-26",
+   "amendment_enforcement_date": "2021-02-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000080009",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000080033_20190813_501M60000080011",
+   "amendment_promulgate_date": "2019-08-13",
+   "amendment_enforcement_date": "2019-08-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000080011",
+   "amendment_law_title": "学校教育法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000080033_20190401_430M60000080001",
+   "amendment_promulgate_date": "2018-01-26",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000080001",
+   "amendment_law_title": "大学設置基準及び短期大学設置基準の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000080033_20190401_000000000000000",
+   "amendment_promulgate_date": "2017-09-08",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　教育研究上の基本組織",
+  "第三章　収容定員",
+  "第四章　教育課程",
+  "第五章　卒業の要件等",
+  "第六章　教育研究実施組織等",
+  "第七章　教員の資格",
+  "第八章　校地、校舎等の施設及び設備等",
+  "第九章　共同教育課程に関する特例",
+  "第十章　国際連携学科に関する特例",
+  "第十一章　教育課程等に関する事項の改善に係る先導的な取組に関する特例",
+  "第十二章　地域における高等教育の機会の確保に資する取組に関する特例",
+  "第十三章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "専門職大学は、学校教育法その他の法令の規定によるほか、この省令の定めるところにより設置するものとする。",
+   "この省令で定める設置基準は、専門職大学を設置するのに必要な最低の基準とする。",
+   "専門職大学は、この省令で定める設置基準より低下した状態にならないようにすることはもとより、学校教育法第百九条第一項の点検及び評価の結果並びに認証評価の結果を踏まえ、教育研究活動等について不断の見直しを行うことにより、その水準の向上を図ることに努めなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2017-09-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-03-09T09:25:04+09:00"
+ }
+}

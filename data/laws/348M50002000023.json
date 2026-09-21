@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "348M50002000023",
+  "law_num": "昭和四十八年労働省令第二十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 48,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "1973-07-10"
+ },
+ "revision_info": {
+  "law_revision_id": "348M50002000023_20251010_507M60000100099",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "労働保険事務組合に対する報奨金に関する省令",
+  "law_title_kana": "ろうどうほけんじむくみあいにたいするほうしょうきんにかんするしょうれい",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2025-10-23T10:58:44+09:00",
+  "amendment_promulgate_date": "2025-10-10",
+  "amendment_enforcement_date": "2025-10-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100099",
+  "amendment_law_title": "労働保険事務組合に対する報奨金に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和七年厚生労働省令第九十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "348M50002000023_20251010_507M60000100099",
+   "amendment_promulgate_date": "2025-10-10",
+   "amendment_enforcement_date": "2025-10-10",
+   "amendment_law_id": "507M60000100099",
+   "amendment_law_title": "労働保険事務組合に対する報奨金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "348M50002000023_20241015_506M60000100139",
+   "amendment_promulgate_date": "2024-10-15",
+   "amendment_enforcement_date": "2024-10-15",
+   "amendment_law_id": "506M60000100139",
+   "amendment_law_title": "労働保険事務組合に対する報奨金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50002000023_20201201_502M60000100192",
+   "amendment_promulgate_date": "2020-12-01",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000100192",
+   "amendment_law_title": "労働保険事務組合に対する報奨金に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50002000023_20181017_430M60000100127",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-10-17",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000100127",
+   "amendment_law_title": "労働保険事務組合に対する報奨金に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50002000023_20161031_428M60000100163",
+   "amendment_promulgate_date": "2016-10-31",
+   "amendment_enforcement_date": "2016-10-31",
+   "amendment_law_id": "428M60000100163",
+   "amendment_law_num": "平成二十八年厚生労働省令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（令第二条第一項の厚生労働省令で定める額）",
+  "title": "第一条",
+  "paragraphs": [
+   "労働保険事務組合に対する報奨金に関する政令（昭和四十八年政令第百九十五号。以下「令」という。）第二条第一項の厚生労働省令で定める額は、次の各号に掲げる事業の区分に応じ、当該各号に掲げる額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1973-07-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-23T10:58:44+09:00"
+ }
+}

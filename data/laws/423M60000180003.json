@@ -1,0 +1,100 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "423M60000180003",
+  "law_num": "平成二十三年文部科学省・厚生労働省令第三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2011-08-05"
+ },
+ "revision_info": {
+  "law_revision_id": "423M60000180003_20260401_508M60000180002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "精神障害者の保健及び福祉に関する科目を定める省令",
+  "law_title_kana": "せいしんしょうがいしゃのほけんおよびふくしにかんするかもくをさだめるしょうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-05-15T11:50:34+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000180002",
+  "amendment_law_title": "精神障害者の保健及び福祉に関する科目を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省・厚生労働省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423M60000180003_20260401_508M60000180002",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000180002",
+   "amendment_law_title": "精神障害者の保健及び福祉に関する科目を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省・厚生労働省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423M60000180003_20210401_502M60000180002",
+   "amendment_promulgate_date": "2020-03-06",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000180002",
+   "amendment_law_title": "精神障害者の保健及び福祉に関する科目を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省・厚生労働省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000180003_20200401_502M60000180002",
+   "amendment_promulgate_date": "2020-03-06",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000180002",
+   "amendment_law_title": "精神障害者の保健及び福祉に関する科目を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省・厚生労働省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000180003_20200306_502M60000180002",
+   "amendment_promulgate_date": "2020-03-06",
+   "amendment_enforcement_date": "2020-03-06",
+   "amendment_law_id": "502M60000180002",
+   "amendment_law_title": "精神障害者の保健及び福祉に関する科目を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省・厚生労働省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000180003_20150709_427M60000180005",
+   "amendment_promulgate_date": "2015-07-09",
+   "amendment_enforcement_date": "2015-07-09",
+   "amendment_law_id": "427M60000180005",
+   "amendment_law_num": "平成二十七年文部科学省・厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第七条第一号の精神障害者の保健及び福祉に関する科目）",
+  "title": "第一条",
+  "paragraphs": [
+   "精神保健福祉士法（以下「法」という。）第七条第一号に規定する文部科学省令・厚生労働省令で定める精神障害者の保健及び福祉に関する科目は、次のとおりとする。ただし、法第七条第四号に規定する指定施設（以下「指定施設」という。）において一年以上相談援助の業務に従事した後、入学する者については、第一号から第二十号までに掲げる科目とする。",
+   "前項第十九号から第二十二号までに掲げる科目（以下「実習演習科目」という。）は、次の各号に掲げる科目の区分に応じ、それぞれ当該各号に定める時間数以上としなければならない。",
+   "第一項第十九号に掲げる科目を教授する教員は、次に掲げる者のいずれかに該当する者でなければならない。",
+   "第一項第二十号から第二十二号までに掲げる科目を教授する教員は、前項第一号から第四号までに掲げる者のいずれかに該当する者でなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-08-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-15T11:50:34+09:00"
+ }
+}

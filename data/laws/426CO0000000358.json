@@ -1,0 +1,200 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "426CO0000000358",
+  "law_num": "平成二十六年政令第三百五十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "358",
+  "promulgation_date": "2014-11-12"
+ },
+ "revision_info": {
+  "law_revision_id": "426CO0000000358_20260701_508CO0000000192",
+  "law_type": "CabinetOrder",
+  "law_title": "難病の患者に対する医療等に関する法律施行令",
+  "law_title_kana": "なんびょうのかんじゃにたいするいりょうとうにかんするほうりつしこうれい",
+  "abbrev": "難病医療法施行令,難病法施行令",
+  "category": "厚生",
+  "updated": "2026-07-01T00:59:40+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000192",
+  "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百九十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426CO0000000358_20260701_508CO0000000192",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000192",
+   "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20250701_507CO0000000202",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000202",
+   "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20240601_506CO0000000151",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506CO0000000151",
+   "amendment_law_title": "租税特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20240401_506CO0000000041",
+   "amendment_promulgate_date": "2024-02-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000041",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20231001_505CO0000000195",
+   "amendment_promulgate_date": "2023-05-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000195",
+   "amendment_law_title": "児童福祉法施行令及び難病の患者に対する医療等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20220401_503CO0000000289",
+   "amendment_promulgate_date": "2021-10-20",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000289",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う厚生労働省関係政令等の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20210101_502CO0000000381",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000381",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20200901_502CO0000000219",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000219",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20200701_502CO0000000031",
+   "amendment_promulgate_date": "2020-02-19",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502CO0000000031",
+   "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20191009_501CO0000000123",
+   "amendment_promulgate_date": "2019-10-09",
+   "amendment_enforcement_date": "2019-10-09",
+   "amendment_law_id": "501CO0000000123",
+   "amendment_law_title": "食品衛生法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20180901_430CO0000000231",
+   "amendment_promulgate_date": "2018-07-27",
+   "amendment_enforcement_date": "2018-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000231",
+   "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20180401_430CO0000000041",
+   "amendment_promulgate_date": "2018-02-28",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000041",
+   "amendment_law_title": "臨床研究法第二十四条第二号の国民の保健医療に関する法律等を定める政令",
+   "amendment_law_num": "平成三十年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20180401_429CO0000000303",
+   "amendment_promulgate_date": "2017-12-13",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000303",
+   "amendment_law_title": "難病の患者に対する医療等に関する法律施行令及び地方自治法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第三百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20180101_429CO0000000303",
+   "amendment_promulgate_date": "2017-12-13",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429CO0000000303",
+   "amendment_law_title": "難病の患者に対する医療等に関する法律施行令及び地方自治法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第三百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000358_20150401_427CO0000000138",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000138",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保を推進するための関係法律の整備等に関する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令　抄",
+   "amendment_law_num": "平成二十七年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定特定医療に係る負担上限月額）",
+  "title": "第一条",
+  "paragraphs": [
+   "難病の患者に対する医療等に関する法律（以下「法」という。）第五条第二項第一号の政令で定める額（次項において「負担上限月額」という。）は、次の各号に掲げる支給認定（法第七条第一項に規定する支給認定をいう。以下同じ。）を受けた指定難病（法第五条第一項に規定する指定難病をいう。以下同じ。）の患者又はその保護者（児童福祉法（昭和二十二年法律第百六十四号）第六条に規定する保護者をいう。以下この条及び第四条において同じ。）の区分に応じ、当該各号に定める額とする。",
+   "支給認定を受けた指定難病の患者が児童福祉法第十九条の三第三項に規定する医療費支給認定に係る同法第六条の二第二項に規定する小児慢性特定疾病児童等（以下この項において「医療費支給認定に係る小児慢性特定疾病児童等」という。）である場合又は支給認定を受けた指定難病の患者と生計を一にする者として厚生労働省令で定めるもの（以下この項において「医療費算定対象世帯員」という。）が支給認定を受けた指定難病の患者若しくは医療費支給認定に係る小児慢性特定疾病児童等である場合における負担上限月額は、前項の規定にかかわらず、同項各号に掲げる支給認定を受けた指定難病の患者又はその保護者の区分に応じ、当該各号に定める額に医療費<Ruby>按<Rt>あん</Rt></Ruby>分率（当該支給認定を受けた指定難病の患者及び医療費算定対象世帯員に係る次の各号に掲げる額を合算した額をもって当該各号に掲げる額のうち最も高い額を除して得た率をいう。）を乗じて得た額（その額に十円未満の端数があるときは、これを切り捨てた額）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-11-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:59:40+09:00"
+ }
+}

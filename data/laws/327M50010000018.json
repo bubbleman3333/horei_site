@@ -1,0 +1,124 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "327M50010000018",
+  "law_num": "昭和二十七年農林省令第十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 27,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "018",
+  "promulgation_date": "1952-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "327M50010000018_20260401_508M60000200006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "漁船損害等補償法施行規則",
+  "law_title_kana": "ぎょせんそんがいとうほしょうほうしこうきそく",
+  "abbrev": null,
+  "category": "水産業",
+  "updated": "2026-04-01T02:41:29+09:00",
+  "amendment_promulgate_date": "2026-01-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200006",
+  "amendment_law_title": "漁船損害等補償法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "327M50010000018_20260401_508M60000200006",
+   "amendment_promulgate_date": "2026-01-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000200006",
+   "amendment_law_title": "漁船損害等補償法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "327M50010000018_20231228_505M60000200063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000200063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50010000018_20230101_504M60000200072",
+   "amendment_promulgate_date": "2022-12-08",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000200072",
+   "amendment_law_title": "書面の交付を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50010000018_20220901_504M60000200049",
+   "amendment_promulgate_date": "2022-09-01",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504M60000200049",
+   "amendment_law_title": "漁船損害等補償法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50010000018_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50010000018_20190401_431M60000200007",
+   "amendment_promulgate_date": "2019-02-05",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000200007",
+   "amendment_law_title": "漁船損害等補償法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50010000018_20170401_428M60000200075",
+   "amendment_promulgate_date": "2016-12-07",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428M60000200075",
+   "amendment_law_num": "平成二十八年農林水産省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　漁船保険組合の組織",
+  "第三章　漁船保険組合の漁船保険事業等",
+  "第四章　政府の漁船保険再保険事業等",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（漁船乗組船主保険事故）",
+  "title": "第一条",
+  "paragraphs": [
+   "漁船損害等補償法（以下「法」という。）第三条第六項の農林水産省令で定める事故は、死亡、行方不明及び障害とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1952-03-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T02:41:29+09:00"
+ }
+}

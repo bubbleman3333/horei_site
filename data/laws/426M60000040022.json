@@ -1,0 +1,363 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "426M60000040022",
+  "law_num": "平成二十六年財務省令第二十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "022",
+  "promulgation_date": "2014-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "426M60000040022_20260414_508M60000040040",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方法人税法施行規則",
+  "law_title_kana": "ちほうほうじんぜいほうしこうきそく",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-05-20T09:10:12+09:00",
+  "amendment_promulgate_date": "2026-04-14",
+  "amendment_enforcement_date": "2026-04-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040040",
+  "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第四十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426M60000040022_20280101_508M60000040040",
+   "amendment_promulgate_date": "2026-04-14",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508M60000040040",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20270901_508M60000040030",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-09-01",
+   "amendment_law_id": "508M60000040030",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20261211_508M60000040040",
+   "amendment_promulgate_date": "2026-04-14",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508M60000040040",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20260414_508M60000040040",
+   "amendment_promulgate_date": "2026-04-14",
+   "amendment_enforcement_date": "2026-04-14",
+   "amendment_law_id": "508M60000040040",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20260401_507M60000040020",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000040020",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20250414_507M60000040044",
+   "amendment_promulgate_date": "2025-04-14",
+   "amendment_enforcement_date": "2025-04-14",
+   "amendment_law_id": "507M60000040044",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20250401_507M60000040020",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040020",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20240902_506M60000040037",
+   "amendment_promulgate_date": "2024-04-12",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506M60000040037",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20240412_506M60000040037",
+   "amendment_promulgate_date": "2024-04-12",
+   "amendment_enforcement_date": "2024-04-12",
+   "amendment_law_id": "506M60000040037",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20240401_505M60000040048",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000040048",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20230414_505M60000040035",
+   "amendment_promulgate_date": "2023-04-14",
+   "amendment_enforcement_date": "2023-04-14",
+   "amendment_law_id": "505M60000040035",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20230401_505M60000040014",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000040014",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20230101_504M60000040033",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000040033",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20230101_504M60000040015",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000040015",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20221231_504M60000040040",
+   "amendment_promulgate_date": "2022-04-15",
+   "amendment_enforcement_date": "2022-12-31",
+   "amendment_law_id": "504M60000040040",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20220415_504M60000040040",
+   "amendment_promulgate_date": "2022-04-15",
+   "amendment_enforcement_date": "2022-04-15",
+   "amendment_law_id": "504M60000040040",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20220401_504M60000040015",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040015",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20220401_502M60000040056",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502M60000040056",
+   "amendment_law_title": "法人税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20220101_503M60000040032",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000040032",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20210415_503M60000040043",
+   "amendment_promulgate_date": "2021-04-15",
+   "amendment_enforcement_date": "2021-04-15",
+   "amendment_law_id": "503M60000040043",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20210401_503M60000040032",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040032",
+   "amendment_law_title": "国税関係法令に係る情報通信技術を活用した行政の推進等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20200401_501M60000040036",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040036",
+   "amendment_law_title": "国税関係法令に係る行政手続等における情報通信の技術の利用に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20200401_430M60000040014",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040014",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20191001_431M60000040032",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040032",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20190701_501M60000040013",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040013",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20190412_431M60000040032",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-04-12",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040032",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20180413_430M60000040036",
+   "amendment_promulgate_date": "2018-04-13",
+   "amendment_enforcement_date": "2018-04-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040036",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20171001_429M60000040037",
+   "amendment_promulgate_date": "2017-04-14",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429M60000040037",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20171001_429M60000040018",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429M60000040018",
+   "amendment_law_title": "地方法人税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20170414_429M60000040037",
+   "amendment_promulgate_date": "2017-04-14",
+   "amendment_enforcement_date": "2017-04-14",
+   "amendment_law_id": "429M60000040037",
+   "amendment_law_num": "平成二十九年財務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000040022_20170401_429M60000040018",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000040018",
+   "amendment_law_num": "平成二十九年財務省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において「内国法人」、「外国法人」、「人格のない社団等」、「通算親法人」、「通算子法人」、「通算法人」、「地方法人税中間申告書」、「地方法人税確定申告書」、「期限後申告書」、「修正申告書」、「更正」、「還付加算金」、「課税事業年度」又は「課税対象会計年度」とは、それぞれ地方法人税法（以下「法」という。）第二条第一号から第三号まで、第六号から第八号まで、第十四号から第十七号まで、第十九号若しくは第二十二号又は第七条第一項若しくは第二項に規定する内国法人、外国法人、人格のない社団等、通算親法人、通算子法人、通算法人、地方法人税中間申告書、地方法人税確定申告書、期限後申告書、修正申告書、更正、還付加算金、課税事業年度又は課税対象会計年度をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T09:10:12+09:00"
+ }
+}

@@ -1,0 +1,129 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "406AC0000000008",
+  "law_num": "平成六年法律第八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "008",
+  "promulgation_date": "1994-03-04"
+ },
+ "revision_info": {
+  "law_revision_id": "406AC0000000008_20240401_505AC0000000036",
+  "law_type": "Act",
+  "law_title": "水道原水水質保全事業の実施の促進に関する法律",
+  "law_title_kana": "すいどうげんすいすいしつほぜんじぎょうのじっしのそくしんにかんするほうりつ",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2024-06-03T10:11:54+09:00",
+  "amendment_promulgate_date": "2023-05-26",
+  "amendment_enforcement_date": "2024-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000036",
+  "amendment_law_title": "生活衛生等関係行政の機能強化のための関係法律の整備に関する法律",
+  "amendment_law_num": "令和五年法律第三十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406AC0000000008_20270122_508AC0000000065",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-01-22",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-01-22",
+   "amendment_law_id": "508AC0000000065",
+   "amendment_law_title": "下水道法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000008_20240401_505AC0000000036",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000036",
+   "amendment_law_title": "生活衛生等関係行政の機能強化のための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000008_20230526_505AC0000000036",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "505AC0000000036",
+   "amendment_law_title": "生活衛生等関係行政の機能強化のための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000008_20220401_504AC0000000007",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504AC0000000007",
+   "amendment_law_title": "沖縄振興特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000008_20211101_503AC0000000031",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503AC0000000031",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000008_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000008_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000008_20150719_427AC0000000022",
+   "amendment_promulgate_date": "2015-05-20",
+   "amendment_enforcement_date": "2015-07-19",
+   "amendment_law_id": "427AC0000000022",
+   "amendment_law_num": "平成二十七年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、水道原水の水質の保全に資する事業の実施を促進する措置を講ずることにより、安全かつ良質な水道水の供給を確保し、もって公衆衛生の向上及び生活環境の改善に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-03-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2024-06-03T10:11:54+09:00"
+ }
+}

@@ -1,0 +1,81 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "506CO0000000341",
+  "law_num": "令和六年政令第三百四十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "341",
+  "promulgation_date": "2024-11-01"
+ },
+ "revision_info": {
+  "law_revision_id": "506CO0000000341_20260522_508CO0000000152",
+  "law_type": "CabinetOrder",
+  "law_title": "貯留権等の登録に関する政令",
+  "law_title_kana": "ちょりゅうけんとうのとうろくにかんするせいれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-05-26T10:52:39+09:00",
+  "amendment_promulgate_date": "2026-04-30",
+  "amendment_enforcement_date": "2026-05-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000152",
+  "amendment_law_title": "二酸化炭素の貯留事業に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第百五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506CO0000000341_20260522_508CO0000000152",
+   "amendment_promulgate_date": "2026-04-30",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "508CO0000000152",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506CO0000000341_20260401_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506CO0000000341_20241118_000000000000000",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　貯留権等登録簿",
+  "第三章　登録手続",
+  "第四章　登録事項の証明等",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令は、貯留権等（二酸化炭素の貯留事業に関する法律（以下「法」という。）第二十五条第一項に規定する貯留権等をいう。以下同じ。）及び貯留権を目的とする抵当権（以下単に「抵当権」という。）の登録に関し必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-11-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-26T10:52:39+09:00"
+ }
+}

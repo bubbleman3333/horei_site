@@ -1,0 +1,213 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "415CO0000000507",
+  "law_num": "平成十五年政令第五百七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "507",
+  "promulgation_date": "2003-12-10"
+ },
+ "revision_info": {
+  "law_revision_id": "415CO0000000507_20260731_508CO0000000234",
+  "law_type": "CabinetOrder",
+  "law_title": "個人情報の保護に関する法律施行令",
+  "law_title_kana": "こじんじょうほうのほごにかんするほうりつしこうれい",
+  "abbrev": "個人情報保護法施行令",
+  "category": "憲法",
+  "updated": "2026-08-12T13:37:54+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000234",
+  "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第二百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415CO0000000507_20260731_508CO0000000234",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000234",
+   "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20260521_508CO0000000038",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000038",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20260401_508CO0000000068",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000068",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20250701_507CO0000000226",
+   "amendment_promulgate_date": "2025-06-25",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000226",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20250324_506CO0000000335",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "506CO0000000335",
+   "amendment_law_title": "道路交通法の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20241202_506CO0000000260",
+   "amendment_promulgate_date": "2024-08-14",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506CO0000000260",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20230901_505CO0000000261",
+   "amendment_promulgate_date": "2023-08-14",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505CO0000000261",
+   "amendment_law_title": "新型インフルエンザ等対策特別措置法及び内閣法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第二百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20230401_504CO0000000177",
+   "amendment_promulgate_date": "2022-04-20",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000177",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20220401_503CO0000000292",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000292",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する等の政令",
+   "amendment_law_num": "令和三年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20220401_503CO0000000056",
+   "amendment_promulgate_date": "2021-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000056",
+   "amendment_law_title": "個人情報の保護に関する法律施行令及び個人情報保護委員会事務局組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20211101_503CO0000000162",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000162",
+   "amendment_law_title": "金融商品の販売等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20170530_428CO0000000324",
+   "amendment_promulgate_date": "2016-10-05",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "428CO0000000324",
+   "amendment_law_title": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20160101_427CO0000000427",
+   "amendment_promulgate_date": "2015-12-18",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_law_id": "427CO0000000427",
+   "amendment_law_title": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第四百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　個人情報取扱事業者等の義務等",
+  "第三章　行政機関等の義務等",
+  "第四章　個人情報保護委員会"
+ ],
+ "article1": {
+  "caption": "（個人識別符号）",
+  "title": "第一条",
+  "paragraphs": [
+   "個人情報の保護に関する法律（以下「法」という。）第二条第二項の政令で定める文字、番号、記号その他の符号は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-12-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-12T13:37:54+09:00"
+ }
+}

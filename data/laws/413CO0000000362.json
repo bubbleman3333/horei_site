@@ -1,0 +1,82 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "413CO0000000362",
+  "law_num": "平成十三年政令第三百六十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "362",
+  "promulgation_date": "2001-11-26"
+ },
+ "revision_info": {
+  "law_revision_id": "413CO0000000362_20260527_508CO0000000176",
+  "law_type": "CabinetOrder",
+  "law_title": "電気通信紛争処理委員会令",
+  "law_title_kana": "でんきつうしんふんそうしょりいいんかいれい",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-06-08T10:16:53+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000176",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413CO0000000362_20260527_508CO0000000176",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000176",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000362_20221001_504CO0000000289",
+   "amendment_promulgate_date": "2022-08-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000289",
+   "amendment_law_title": "電波法及び放送法の一部を改正する法律の施行に伴う関係政令の整理等に関する政令",
+   "amendment_law_num": "令和四年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000362_20160401_427CO0000000417",
+   "amendment_promulgate_date": "2015-12-16",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000417",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う総務省関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第四百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特別委員）",
+  "title": "第一条",
+  "paragraphs": [
+   "電気通信紛争処理委員会（以下「委員会」という。）に、あっせん若しくは仲裁に参与させ、又は特別の事項を調査審議させるため、特別委員を置くことができる。",
+   "特別委員は、電気通信事業、電波の利用又は放送の業務に関して優れた識見を有する者のうちから、総務大臣が任命する。",
+   "特別委員の任期は、二年とする。",
+   "特別委員は、再任されることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-11-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-08T10:16:53+09:00"
+ }
+}

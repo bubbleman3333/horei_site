@@ -1,0 +1,449 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "325M50004000040",
+  "law_num": "昭和二十五年建設省令第四十号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "040",
+  "promulgation_date": "1950-11-16"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50004000040_20260401_507M60000800080",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "建築基準法施行規則",
+  "law_title_kana": "けんちくきじゅんほうしこうきそく",
+  "abbrev": "建基法施行規則",
+  "category": "建築・住宅",
+  "updated": "2026-05-12T10:11:09+09:00",
+  "amendment_promulgate_date": "2025-07-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800080",
+  "amendment_law_title": "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第八十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50004000040_20260401_508M60000800022",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800022",
+   "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20260401_507M60000800080",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000800080",
+   "amendment_law_title": "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20260401_506M60000800068",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506M60000800068",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20260101_507M60000800080",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000800080",
+   "amendment_law_title": "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20251201_507M60000800111",
+   "amendment_promulgate_date": "2025-11-21",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507M60000800111",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20251101_507M60000800105",
+   "amendment_promulgate_date": "2025-10-28",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507M60000800105",
+   "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20251001_507M60000800089",
+   "amendment_promulgate_date": "2025-09-12",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000800089",
+   "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20250801_507M60000800080",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2025-08-01",
+   "amendment_law_id": "507M60000800080",
+   "amendment_law_title": "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20250601_507M60000800060",
+   "amendment_promulgate_date": "2025-05-26",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000800060",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20250601_506M60000800100",
+   "amendment_promulgate_date": "2024-11-21",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "506M60000800100",
+   "amendment_law_title": "高齢者、障害者等の移動等の円滑化の促進に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20250401_507M60000800023",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000800023",
+   "amendment_law_title": "国家公務員等の旅費に関する法律の一部を改正する法律及び国家公務員等の旅費に関する法律施行令の施行に伴う国土交通省関係省令の整理に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20250401_506M60000800111",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800111",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20250401_506M60000800068",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800068",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20250101_506M60000800021",
+   "amendment_promulgate_date": "2024-03-15",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000800021",
+   "amendment_law_title": "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20241101_506M60000800092",
+   "amendment_promulgate_date": "2024-10-25",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000800092",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20241001_506M60000800089",
+   "amendment_promulgate_date": "2024-10-01",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000800089",
+   "amendment_law_title": "建築基準法施行規則及び建築動態統計調査規則の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20240401_506M60000800021",
+   "amendment_promulgate_date": "2024-03-15",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800021",
+   "amendment_law_title": "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20240401_506M60000800018",
+   "amendment_promulgate_date": "2024-03-08",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800018",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20240401_505M60000800095",
+   "amendment_promulgate_date": "2023-12-14",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000800095",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20240129_506M60000800005",
+   "amendment_promulgate_date": "2024-01-29",
+   "amendment_enforcement_date": "2024-01-29",
+   "amendment_law_id": "506M60000800005",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20231228_505M60000800098",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000800098",
+   "amendment_law_title": "磁気ディスク等の記録媒体を指定する規定の見直しのための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20231213_505M60000800093",
+   "amendment_promulgate_date": "2023-12-12",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505M60000800093",
+   "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20230526_505M60000800030",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "505M60000800030",
+   "amendment_law_title": "宅地造成等規制法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和五年国土交通省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20230401_505M60000800005",
+   "amendment_promulgate_date": "2023-02-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000800005",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20230401_504M60000800092",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000800092",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20230228_504M60000800007",
+   "amendment_promulgate_date": "2022-02-28",
+   "amendment_enforcement_date": "2023-02-28",
+   "amendment_law_id": "504M60000800007",
+   "amendment_law_title": "写真のサイズ等の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20221216_504M60000800090",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2022-12-16",
+   "amendment_law_id": "504M60000800090",
+   "amendment_law_title": "港湾法施行規則及び建築基準法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20220531_504M60000800048",
+   "amendment_promulgate_date": "2022-05-27",
+   "amendment_enforcement_date": "2022-05-31",
+   "amendment_law_id": "504M60000800048",
+   "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20220401_504M60000800004",
+   "amendment_promulgate_date": "2022-01-18",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800004",
+   "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20220401_503M60000800027",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000800027",
+   "amendment_law_title": "建築基準法施行規則及び建築動態統計調査規則の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20211101_503M60000800069",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000800069",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20211022_503M60000800068",
+   "amendment_promulgate_date": "2021-10-22",
+   "amendment_enforcement_date": "2021-10-22",
+   "amendment_law_id": "503M60000800068",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20210901_503M60000800053",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000800053",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20210826_503M60000800046",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-08-26",
+   "amendment_law_id": "503M60000800046",
+   "amendment_law_title": "建築士法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20210401_502M60000800075",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000800075",
+   "amendment_law_title": "建築物のエネルギー消費性能の向上に関する法律の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年国土交通省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20200907_502M60000800074",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502M60000800074",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年国土交通省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20200401_502M60000800013",
+   "amendment_promulgate_date": "2020-03-06",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000800013",
+   "amendment_law_title": "建築基準法施行規則及び建築基準法に基づく指定建築基準適合判定資格者検定機関等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50004000040_20200401_501M60000800037",
+   "amendment_promulgate_date": "2019-10-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000800037",
+   "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（建築基準適合判定資格者検定の受検申込書）",
+  "title": "第一条",
+  "paragraphs": [
+   "建築基準適合判定資格者検定（指定建築基準適合判定資格者検定機関が建築基準適合判定資格者検定事務を行うものを除く。）を受けようとする者は、別記第一号様式による受検申込書に申請前六月以内に撮影した無帽、正面、無背景の縦の長さ四・五センチメートル、横の長さ三・五センチメートルの写真（以下「受検申込用写真」という。）を添え、これを国土交通大臣に提出しなければならない。",
+   "指定建築基準適合判定資格者検定機関が建築基準適合判定資格者検定事務を行う建築基準適合判定資格者検定を受けようとする者は、前項の受検申込書に受検申込用写真を添え、指定建築基準適合判定資格者検定機関の定めるところにより、これを指定建築基準適合判定資格者検定機関に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-11-16",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-12T10:11:09+09:00"
+ }
+}

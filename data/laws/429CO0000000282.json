@@ -1,0 +1,157 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "429CO0000000282",
+  "law_num": "平成二十九年政令第二百八十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 29,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "282",
+  "promulgation_date": "2017-11-15"
+ },
+ "revision_info": {
+  "law_revision_id": "429CO0000000282_20260710_508CO0000000221",
+  "law_type": "CabinetOrder",
+  "law_title": "衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行令",
+  "law_title_kana": "えいせいりもーとせんしんぐきろくのてきせいなとりあつかいのかくほにかんするほうりつしこうれい",
+  "abbrev": "衛星リモ―トセンシング法施行令,衛星リモセン法施行令",
+  "category": "行政組織",
+  "updated": "2026-07-15T10:52:39+09:00",
+  "amendment_promulgate_date": "2026-07-03",
+  "amendment_enforcement_date": "2026-07-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000221",
+  "amendment_law_title": "衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "429CO0000000282_20260710_508CO0000000221",
+   "amendment_promulgate_date": "2026-07-03",
+   "amendment_enforcement_date": "2026-07-10",
+   "amendment_law_id": "508CO0000000221",
+   "amendment_law_title": "衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20260605_508CO0000000194",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-06-05",
+   "amendment_law_id": "508CO0000000194",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和八年政令第百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20240714_506CO0000000240",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-14",
+   "amendment_law_id": "506CO0000000240",
+   "amendment_law_title": "銃砲刀剣類所持等取締法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20230601_505CO0000000189",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000189",
+   "amendment_law_title": "国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20230401_505CO0000000015",
+   "amendment_promulgate_date": "2023-01-25",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000015",
+   "amendment_law_title": "公認会計士法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20221229_504CO0000000399",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2022-12-29",
+   "amendment_law_id": "504CO0000000399",
+   "amendment_law_title": "国際的な不正資金等の移動等に対処するための国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和四年政令第三百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20211101_503CO0000000162",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000162",
+   "amendment_law_title": "金融商品の販売等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20190401_431CO0000000038",
+   "amendment_promulgate_date": "2019-03-15",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000038",
+   "amendment_law_title": "出入国管理及び難民認定法及び法務省設置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十一年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20171229_429CO0000000321",
+   "amendment_promulgate_date": "2017-12-27",
+   "amendment_enforcement_date": "2017-12-29",
+   "amendment_law_id": "429CO0000000321",
+   "amendment_law_title": "衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第三百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000282_20171115_000000000000000",
+   "amendment_promulgate_date": "2017-11-15",
+   "amendment_enforcement_date": "2017-11-15",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第五号の政令で定める国の機関）",
+  "title": "第一条",
+  "paragraphs": [
+   "衛星リモートセンシング記録の適正な取扱いの確保に関する法律（以下「法」という。）第二条第五号の政令で定める国の機関は、内閣官房とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2017-11-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-15T10:52:39+09:00"
+ }
+}

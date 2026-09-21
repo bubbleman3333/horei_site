@@ -1,0 +1,458 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "407M50000400077",
+  "law_num": "平成七年通商産業省令第七十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "077",
+  "promulgation_date": "1995-10-18"
+ },
+ "revision_info": {
+  "law_revision_id": "407M50000400077_20260401_507M60000400068",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "電気事業法施行規則",
+  "law_title_kana": "でんきじぎょうほうしこうきそく",
+  "abbrev": "電事法施行規則",
+  "category": "工業",
+  "updated": "2026-09-01T11:57:13+09:00",
+  "amendment_promulgate_date": "2025-10-15",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000400068",
+  "amendment_law_title": "電気事業法施行規則の一部を改正する省令による改正前の電気事業法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年経済産業省令第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "407M50000400077_20260401_507M60000400068",
+   "amendment_promulgate_date": "2025-10-15",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000400068",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令による改正前の電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20260331_508M60000400027",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000400027",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20251101_507M60000400069",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507M60000400069",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20250606_507M60000400046",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-06",
+   "amendment_law_id": "507M60000400046",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20250131_507M60000400003",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-01-31",
+   "amendment_law_id": "507M60000400003",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20241225_506M60000400088",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506M60000400088",
+   "amendment_law_title": "電気事業法施行規則及びガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20241101_506M60000400073",
+   "amendment_promulgate_date": "2024-10-31",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000400073",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20240401_506M60000400021",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000400021",
+   "amendment_law_title": "脱炭素社会の実現に向けた電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年経済産業省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20240401_506M60000400009",
+   "amendment_promulgate_date": "2024-02-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000400009",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20231228_505M60000400063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000400063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20231221_505M60000400057",
+   "amendment_promulgate_date": "2023-12-14",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "505M60000400057",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20231213_505M60000400056",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505M60000400056",
+   "amendment_law_title": "電気事業法施行規則及びガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20231101_505M60000400047",
+   "amendment_promulgate_date": "2023-10-31",
+   "amendment_enforcement_date": "2023-11-01",
+   "amendment_law_id": "505M60000400047",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20231001_505M60000400014",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000400014",
+   "amendment_law_title": "電気事業法施行規則及び電気関係報告規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20230401_505M60000400014",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000400014",
+   "amendment_law_title": "電気事業法施行規則及び電気関係報告規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20230401_505M60000400011",
+   "amendment_promulgate_date": "2023-03-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000400011",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年経済産業省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20230331_505M60000400009",
+   "amendment_promulgate_date": "2023-03-10",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505M60000400009",
+   "amendment_law_title": "電気事業法施行規則及び電気関係報告規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20230320_504M60000400096",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2023-03-20",
+   "amendment_law_id": "504M60000400096",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20221215_504M60000400094",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2022-12-15",
+   "amendment_law_id": "504M60000400094",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20221201_504M60000400088",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "504M60000400088",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20221123_504M60000400087",
+   "amendment_promulgate_date": "2022-11-22",
+   "amendment_enforcement_date": "2022-11-23",
+   "amendment_law_id": "504M60000400087",
+   "amendment_law_title": "電気事業法施行規則及びガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20221114_504M60000400086",
+   "amendment_promulgate_date": "2022-11-11",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504M60000400086",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20221101_504M60000400082",
+   "amendment_promulgate_date": "2022-11-01",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000400082",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20221101_504M60000400062",
+   "amendment_promulgate_date": "2022-07-22",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000400062",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20220520_504M60000400048",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504M60000400048",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20220401_504M60000400039",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000400039",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20220401_504M60000400024",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000400024",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "令和四年経済産業省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20211118_503M60000400080",
+   "amendment_promulgate_date": "2021-11-18",
+   "amendment_enforcement_date": "2021-11-18",
+   "amendment_law_id": "503M60000400080",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20210416_503M60000400041",
+   "amendment_promulgate_date": "2021-04-16",
+   "amendment_enforcement_date": "2021-04-16",
+   "amendment_law_id": "503M60000400041",
+   "amendment_law_title": "ガス事業法施行規則及び電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20210401_503M60000400027",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000400027",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20210401_503M60000400012",
+   "amendment_promulgate_date": "2021-03-10",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000400012",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20210401_503M60000400011",
+   "amendment_promulgate_date": "2021-03-09",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000400011",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20201001_502M60000400079",
+   "amendment_promulgate_date": "2020-09-30",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000400079",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20200729_502M60000400065",
+   "amendment_promulgate_date": "2020-07-29",
+   "amendment_enforcement_date": "2020-07-29",
+   "amendment_law_id": "502M60000400065",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20200701_502M60000400056",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502M60000400056",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20200612_502M60000400056",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502M60000400056",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20200410_502M60000400037",
+   "amendment_promulgate_date": "2020-04-10",
+   "amendment_enforcement_date": "2020-04-10",
+   "amendment_law_id": "502M60000400037",
+   "amendment_law_title": "火薬類取締法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20200401_502M60000400029",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000400029",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "令和二年経済産業省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "407M50000400077_20200401_502M60000400023",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000400023",
+   "amendment_law_title": "電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　電気事業",
+  "第二章の二　電気使用者情報の利用及び提供",
+  "第三章　電気工作物",
+  "第三章の二　土地等の使用",
+  "第四章　登録適合性確認機関、登録安全管理審査機関、指定試験機関及び登録調査機関",
+  "第五章　卸電力取引所",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、電気事業法（昭和三十九年法律第百七十号。以下「法」という。）、電気事業法施行令（昭和四十年政令第二百六号。以下「令」という。）及び電気設備に関する技術基準を定める省令（平成九年通商産業省令第五十二号）において使用する用語の例による。",
+   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1995-10-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-01T11:57:13+09:00"
+ }
+}

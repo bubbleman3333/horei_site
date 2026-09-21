@@ -1,0 +1,338 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "344CO0000000121",
+  "law_num": "昭和四十四年政令第百二十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 44,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "121",
+  "promulgation_date": "1969-05-16"
+ },
+ "revision_info": {
+  "law_revision_id": "344CO0000000121_20260731_508CO0000000241",
+  "law_type": "CabinetOrder",
+  "law_title": "行政機関職員定員令",
+  "law_title_kana": "ぎょうせいきかんしょくいんていいんれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-17T11:38:04+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000241",
+  "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "344CO0000000121_20260731_508CO0000000241",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000241",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20260731_508CO0000000234",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000234",
+   "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20260408_508CO0000000122",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000122",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20260401_508CO0000000092",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000092",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20250401_507CO0000000149",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000149",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20240731_506CO0000000254",
+   "amendment_promulgate_date": "2024-07-31",
+   "amendment_enforcement_date": "2024-07-31",
+   "amendment_law_id": "506CO0000000254",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20240401_506CO0000000087",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000087",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20230901_505CO0000000261",
+   "amendment_promulgate_date": "2023-08-14",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505CO0000000261",
+   "amendment_law_title": "新型インフルエンザ等対策特別措置法及び内閣法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第二百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20230721_505CO0000000244",
+   "amendment_promulgate_date": "2023-07-21",
+   "amendment_enforcement_date": "2023-07-21",
+   "amendment_law_id": "505CO0000000244",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20230401_505CO0000000090",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000090",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20221209_504CO0000000374",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504CO0000000374",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20220401_504CO0000000092",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000092",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20210708_503CO0000000196",
+   "amendment_promulgate_date": "2021-07-08",
+   "amendment_enforcement_date": "2021-07-08",
+   "amendment_law_id": "503CO0000000196",
+   "amendment_law_title": "内閣官房組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20210401_503CO0000000077",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000077",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20210201_502CO0000000371",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "502CO0000000371",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20200616_502CO0000000189",
+   "amendment_promulgate_date": "2020-06-16",
+   "amendment_enforcement_date": "2020-06-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000189",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20200513_502CO0000000167",
+   "amendment_promulgate_date": "2020-05-13",
+   "amendment_enforcement_date": "2020-05-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000167",
+   "amendment_law_title": "行政機関職員定員令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20200401_502CO0000000075",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000075",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20200107_501CO0000000136",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000136",
+   "amendment_law_title": "特定複合観光施設区域整備法の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20200101_501CO0000000200",
+   "amendment_promulgate_date": "2019-12-25",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000200",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第二百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20190726_501CO0000000063",
+   "amendment_promulgate_date": "2019-07-26",
+   "amendment_enforcement_date": "2019-07-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000063",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20190401_431CO0000000074",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000074",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20190101_430CO0000000349",
+   "amendment_promulgate_date": "2018-12-27",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430CO0000000349",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20180903_430CO0000000246",
+   "amendment_promulgate_date": "2018-08-31",
+   "amendment_enforcement_date": "2018-09-03",
+   "amendment_law_id": "430CO0000000246",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20180401_430CO0000000075",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000075",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20170901_429CO0000000229",
+   "amendment_promulgate_date": "2017-09-01",
+   "amendment_enforcement_date": "2017-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000229",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000121_20170401_429CO0000000066",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000066",
+   "amendment_law_title": "行政機関職員定員令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "行政機関の職員の定員に関する法律第一条第一項の定員は、次の表のとおりとする。",
+   "前項に規定する内閣府の定員のうち、宮内庁及び各外局別の定員は、次の表のとおりとする。",
+   "第一項に規定する総務省の定員のうち、公害等調整委員会の定員は、三十七人（事務局の職員の定員とする。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1969-05-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-17T11:38:04+09:00"
+ }
+}

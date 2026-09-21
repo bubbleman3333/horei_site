@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "338CO0000000358",
+  "law_num": "昭和三十八年政令第三百五十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 38,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "358",
+  "promulgation_date": "1963-10-29"
+ },
+ "revision_info": {
+  "law_revision_id": "338CO0000000358_20260408_508CO0000000136",
+  "law_type": "CabinetOrder",
+  "law_title": "戦傷病者特別援護法施行令",
+  "law_title_kana": "せんしょうびょうしゃとくべつえんごほうしこうれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-05-18T10:52:53+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000136",
+  "amendment_law_title": "未帰還者留守家族等援護法施行令及び戦傷病者特別援護法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百三十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "338CO0000000358_20260408_508CO0000000136",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000136",
+   "amendment_law_title": "未帰還者留守家族等援護法施行令及び戦傷病者特別援護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000358_20250401_507CO0000000167",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000167",
+   "amendment_law_title": "未帰還者留守家族等援護法施行令及び戦傷病者特別援護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000358_20240401_506CO0000000124",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000124",
+   "amendment_law_title": "未帰還者留守家族等援護法施行令及び戦傷病者特別援護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000358_20210401_503CO0000000092",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000092",
+   "amendment_law_title": "予防接種法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000358_20191001_501CO0000000118",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000118",
+   "amendment_law_title": "未帰還者留守家族等援護法施行令及び戦傷病者特別援護法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000358_20160401_427CO0000000444",
+   "amendment_promulgate_date": "2015-12-28",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000444",
+   "amendment_law_title": "旅客鉄道株式会社及び日本貨物鉄道株式会社に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十七年政令第四百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特殊勤務の南満洲鉄道株式会社の職員に準ずる者）",
+  "title": "第一条",
+  "paragraphs": [
+   "戦傷病者特別援護法（以下「法」という。）第二条第二項第五号に規定する南満洲鉄道株式会社の職員に準ずる者は、戦傷病者戦没者遺族等援護法施行令（昭和二十七年政令第百四十三号）第一条に規定する者とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1963-10-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-18T10:52:53+09:00"
+ }
+}

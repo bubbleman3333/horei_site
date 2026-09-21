@@ -1,0 +1,131 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "339CO0000000293",
+  "law_num": "昭和三十九年政令第二百九十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 39,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "293",
+  "promulgation_date": "1964-09-02"
+ },
+ "revision_info": {
+  "law_revision_id": "339CO0000000293_20260401_507CO0000000446",
+  "law_type": "CabinetOrder",
+  "law_title": "漁業災害補償法施行令",
+  "law_title_kana": "ぎょぎょうさいがいほしょうほうせこうれい",
+  "abbrev": null,
+  "category": "水産業",
+  "updated": "2026-04-01T05:21:12+09:00",
+  "amendment_promulgate_date": "2025-12-26",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000446",
+  "amendment_law_title": "漁業災害補償法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第四百四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "339CO0000000293_20260401_507CO0000000446",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000446",
+   "amendment_law_title": "漁業災害補償法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000293_20251226_507CO0000000446",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2025-12-26",
+   "amendment_law_id": "507CO0000000446",
+   "amendment_law_title": "漁業災害補償法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000293_20251001_507CO0000000296",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000296",
+   "amendment_law_title": "漁業災害補償法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000293_20240801_506CO0000000205",
+   "amendment_promulgate_date": "2024-06-07",
+   "amendment_enforcement_date": "2024-08-01",
+   "amendment_law_id": "506CO0000000205",
+   "amendment_law_title": "漁業災害補償法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000293_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000293_20190401_430CO0000000339",
+   "amendment_promulgate_date": "2018-12-19",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000339",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第三百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000293_20190401_430CO0000000275",
+   "amendment_promulgate_date": "2018-09-27",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000275",
+   "amendment_law_title": "漁業災害補償法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000293_20170401_428CO0000000372",
+   "amendment_promulgate_date": "2016-12-07",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000372",
+   "amendment_law_title": "漁業経営に関する補償制度の改善のための漁船損害等補償法及び漁業災害補償法の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（都道府県が処理する事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "次に掲げる農林水産大臣の権限に属する事務のうち、漁業共済組合（以下「組合」という。）で一の都道府県の区域をその地区とするもの（その組合から漁業災害補償法（以下「法」という。）第百一条第一項の規定により事務の委託を受けた者を含む。以下この条において「都道府県組合」という。）に関するものは、当該都道府県知事が行うこととする。ただし、都道府県組合の業務の適正な運営を確保するため特に必要があると認めるときは、農林水産大臣が自らこれらの権限に属する事務（法第六十九条の規定により検査を行う事務を除く。）を行うことを妨げない。",
+   "前項本文の場合においては、法中同項本文に規定する事務に係る農林水産大臣に関する規定は、都道府県知事に関する規定として都道府県知事に適用があるものとする。",
+   "都道府県知事は、第一項本文の規定に基づき、法第六十八条の規定により都道府県組合から報告を徴し、又は法第六十九条若しくは第七十一条の規定により都道府県組合の検査を行つた場合には、農林水産省令で定めるところにより、その結果を農林水産大臣に報告しなければならない。",
+   "農林水産大臣は、法第六十八条の規定により都道府県組合から報告を徴し、又は法第七十一条の規定により都道府県組合の検査を行つた場合には、農林水産省令で定めるところにより、その結果を関係都道府県知事に通知しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1964-09-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T05:21:12+09:00"
+ }
+}

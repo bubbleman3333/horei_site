@@ -1,0 +1,164 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "425AC0000000105",
+  "law_num": "平成二十五年法律第百五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "105",
+  "promulgation_date": "2013-12-13"
+ },
+ "revision_info": {
+  "law_revision_id": "425AC0000000105_20260625_508AC0000000051",
+  "law_type": "Act",
+  "law_title": "生活困窮者自立支援法",
+  "law_title_kana": "せいかつこんきゅうしゃじりつしえんほう",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-06-25T16:23:49+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000051",
+  "amendment_law_title": "社会福祉法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425AC0000000105_20270401_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20260625_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20251001_506AC0000000043",
+   "amendment_promulgate_date": "2024-06-05",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506AC0000000043",
+   "amendment_law_title": "住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20250401_506AC0000000021",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000021",
+   "amendment_law_title": "生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20240424_506AC0000000021",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-24",
+   "amendment_law_id": "506AC0000000021",
+   "amendment_law_title": "生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20190401_430AC0000000044",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000044",
+   "amendment_law_title": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20181001_430AC0000000044",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430AC0000000044",
+   "amendment_law_title": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20180608_430AC0000000044",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-06-08",
+   "amendment_law_id": "430AC0000000044",
+   "amendment_law_title": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000105_20160820_428AC0000000047",
+   "amendment_promulgate_date": "2016-05-20",
+   "amendment_enforcement_date": "2016-08-20",
+   "amendment_law_id": "428AC0000000047",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　都道府県等による支援の実施",
+  "第三章　生活困窮者就労訓練事業の認定",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、生活困窮者自立相談支援事業の実施、生活困窮者住居確保給付金の支給その他の生活困窮者に対する自立の支援に関する措置を講ずることにより、生活困窮者の自立の促進を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-12-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-25T16:23:49+09:00"
+ }
+}

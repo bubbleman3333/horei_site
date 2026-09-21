@@ -1,0 +1,63 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000299",
+  "law_num": "令和七年政令第二百九十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "299",
+  "promulgation_date": "2025-08-14"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000299_20250814_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "日本学術会議法施行令",
+  "law_title_kana": "にほんがくじゅつかいぎほうしこうれい",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2025-08-27T11:07:59+09:00",
+  "amendment_promulgate_date": "2025-08-14",
+  "amendment_enforcement_date": "2025-08-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000299_20261001_000000000000000",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000299_20250814_000000000000000",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2025-08-14",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（教育公務員及び研究公務員の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本学術会議法（令和七年法律第七十号。以下「法」という。）第九条第五項（法第二十三条第五項において準用する場合を含む。次項において同じ。）の政令で定める教育公務員は、学校教育法（昭和二十二年法律第二十六号）の規定による公立の大学の学長、副学長、学部長、教授、准教授、助教又は講師の職にある者（当該大学においてその他の職を兼ねる者を含む。）とする。",
+   "法第九条第五項の政令で定める研究公務員は、科学技術・イノベーション創出の活性化に関する法律（平成二十年法律第六十三号）第二条第八項に規定する試験研究機関等に勤務する国家公務員であって、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）の適用を受けるもののうち、研究職俸給表の適用を受ける職員でその属する職務の級が三級以上の級であるもの及び指定職俸給表の適用を受ける職員とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-08-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-08-27T11:07:59+09:00"
+ }
+}

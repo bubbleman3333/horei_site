@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000091",
+  "law_num": "令和八年政令第九十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "091",
+  "promulgation_date": "2026-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000091_20260401_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "サイバー通信情報監理委員会事務局組織令",
+  "law_title_kana": "さいばーつうしんじょうほうかんりいいんかいじむきょくそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-20T10:11:38+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000091_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（次長）",
+  "title": "第一条",
+  "paragraphs": [
+   "サイバー通信情報監理委員会の事務局（以下単に「事務局」という。）に、次長一人を置く。",
+   "次長は、事務局長を助け、事務局の事務を整理する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T10:11:38+09:00"
+ }
+}

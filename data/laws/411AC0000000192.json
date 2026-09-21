@@ -1,0 +1,167 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "411AC0000000192",
+  "law_num": "平成十一年法律第百九十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "Act",
+  "law_num_num": "192",
+  "promulgation_date": "1999-12-22"
+ },
+ "revision_info": {
+  "law_revision_id": "411AC0000000192_20251001_507AC0000000069",
+  "law_type": "Act",
+  "law_title": "国立研究開発法人農業・食品産業技術総合研究機構法",
+  "law_title_kana": "こくりつけんきゅうかいはつほうじんのうぎょうしょくひんさんぎょうぎじゅつそうごうけんきゅうきこうほう",
+  "abbrev": "農研機構法",
+  "category": "行政組織",
+  "updated": "2025-10-01T07:46:08+09:00",
+  "amendment_promulgate_date": "2025-06-18",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000069",
+  "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第六十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411AC0000000192_20270123_508AC0000000071",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2027-01-23",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-01-23",
+   "amendment_law_id": "508AC0000000071",
+   "amendment_law_title": "重要品種の育成及びその種苗の生産の振興に関する法律",
+   "amendment_law_num": "令和八年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20261201_508AC0000000072",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2026-12-01",
+   "amendment_law_id": "508AC0000000072",
+   "amendment_law_title": "種苗法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20251001_507AC0000000069",
+   "amendment_promulgate_date": "2025-06-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507AC0000000069",
+   "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20241001_506AC0000000063",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000063",
+   "amendment_law_title": "農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律",
+   "amendment_law_num": "令和六年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20220401_502AC0000000074",
+   "amendment_promulgate_date": "2020-12-09",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000074",
+   "amendment_law_title": "種苗法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20190117_430AC1000000094",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2019-01-17",
+   "amendment_law_id": "430AC1000000094",
+   "amendment_law_title": "研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20180401_429AC0000000019",
+   "amendment_promulgate_date": "2017-04-21",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000019",
+   "amendment_law_title": "農業機械化促進法を廃止する等の法律",
+   "amendment_law_num": "平成二十九年法律第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20170421_429AC0000000019",
+   "amendment_promulgate_date": "2017-04-21",
+   "amendment_enforcement_date": "2017-04-21",
+   "amendment_law_id": "429AC0000000019",
+   "amendment_law_title": "農業機械化促進法を廃止する等の法律",
+   "amendment_law_num": "平成二十九年法律第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000192_20170401_428AC0000000044",
+   "amendment_promulgate_date": "2016-05-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000044",
+   "amendment_law_title": "森林法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　役員及び職員",
+  "第三章　業務等",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、国立研究開発法人農業・食品産業技術総合研究機構の名称、目的、業務の範囲等に関する事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-12-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T07:46:08+09:00"
+ }
+}

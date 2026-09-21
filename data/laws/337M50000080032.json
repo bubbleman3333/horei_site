@@ -1,0 +1,119 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "337M50000080032",
+  "law_num": "昭和三十七年文部省令第三十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "032",
+  "promulgation_date": "1962-09-01"
+ },
+ "revision_info": {
+  "law_revision_id": "337M50000080032_20260401_508M60000080007",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "高等学校通信教育規程",
+  "law_title_kana": "こうとうがっこうつうしんきょういくきてい",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-01T05:03:32+09:00",
+  "amendment_promulgate_date": "2026-03-09",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080007",
+  "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う文部科学省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年文部科学省令第七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M50000080032_20260401_508M60000080007",
+   "amendment_promulgate_date": "2026-03-09",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000080007",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う文部科学省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年文部科学省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337M50000080032_20230401_504M60000080040",
+   "amendment_promulgate_date": "2022-12-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000080040",
+   "amendment_law_title": "高等学校通信教育規程の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000080032_20220401_503M60000080014",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000080014",
+   "amendment_law_title": "学校教育法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000080032_20220401_430M60000080013",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "430M60000080013",
+   "amendment_law_title": "高等学校通信教育規程",
+   "amendment_law_num": "平成三十年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000080032_20210401_503M60000080014",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000080014",
+   "amendment_law_title": "学校教育法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000080032_20190401_430M60000080013",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000080013",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000080032_20080401_419M60000080040",
+   "amendment_promulgate_date": "2007-12-25",
+   "amendment_enforcement_date": "2008-04-01",
+   "amendment_law_id": "419M60000080040",
+   "amendment_law_num": "平成十九年文部科学省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "高等学校の通信制の課程については、学校教育法施行規則（昭和二十二年文部省令第十一号）に規定するもののほか、この省令の定めるところによる。",
+   "この省令で定める基準は、高等学校の通信制の課程において教育を行うために必要な最低の基準とする。",
+   "通信制の課程を置く高等学校の設置者は、通信制の課程の編制、施設、設備等がこの省令で定める基準より低下した状態にならないようにすることはもとより、これらの水準の向上を図ることに努めなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-09-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T05:03:32+09:00"
+ }
+}

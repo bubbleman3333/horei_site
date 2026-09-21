@@ -1,0 +1,58 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000135",
+  "law_num": "令和七年政令第百三十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "135",
+  "promulgation_date": "2025-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000135_20260401_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "所得税法等の一部を改正する法律の一部の施行に伴うたばこ税の税率の特例に関する経過措置に関する政令",
+  "law_title_kana": "しょとくぜいほうとうのいちぶをかいせいするほうりつのいちぶのしこうにともなうたばこぜいのぜいりつのとくれいにかんするけいかそちにかんするせいれい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-04-02T21:55:48+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000135_20260401_000000000000000",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（手持品課税に係る申告等）",
+  "title": "第一条",
+  "paragraphs": [
+   "所得税法等の一部を改正する法律（令和七年法律第十三号。以下「改正法」という。）附則第六十六条第二項に規定する申告書には、同項各号に掲げる事項のほか、次に掲げる事項を記載しなければならない。",
+   "たばこ税法施行令（昭和六十年政令第五号）第十一条第二項から第五項までの規定は、前項の申告書を提出する義務がある者が当該申告書の提出期限前に当該申告書を提出しないで死亡した場合について準用する。",
+   "改正法附則第六十六条第五項の承認を受けようとする者は、製造たばこ（改正法附則第六十三条第二項に規定する製造たばこをいう。以下この条において同じ。）を保税地域（改正法附則第六十三条第二項に規定する保税地域をいう。以下この項及び第六項第四号において同じ。）に入れたときは、当該保税地域の所在地を所轄する税関長にその旨を届け出るとともに、当該製造たばこの区分（改正法附則第六十六条第二項第一号に規定する製造たばこの区分をいう。以下この条において同じ。）及び区分ごとの数量、その置かれている保税地域の所在地及び名称並びに廃棄の日時、方法及び理由を記載した申請書を当該税関長に提出しなければならない。",
+   "前項の申請書の提出を受けた税関長は、改正法附則第六十六条第五項の承認をしたときは、立会いその他の方法により当該廃棄の事実を確認するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:55:48+09:00"
+ }
+}

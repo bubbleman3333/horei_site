@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "324CO0000000231",
+  "law_num": "昭和二十四年政令第二百三十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "231",
+  "promulgation_date": "1949-06-29"
+ },
+ "revision_info": {
+  "law_revision_id": "324CO0000000231_20260521_508CO0000000146",
+  "law_type": "CabinetOrder",
+  "law_title": "労働組合法施行令",
+  "law_title_kana": "ろうどうくみあいほうしこうれい",
+  "abbrev": "労組法施行令",
+  "category": "労働",
+  "updated": "2026-05-21T00:27:34+09:00",
+  "amendment_promulgate_date": "2026-04-24",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000146",
+  "amendment_law_title": "労働組合法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324CO0000000231_20260521_508CO0000000146",
+   "amendment_promulgate_date": "2026-04-24",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000146",
+   "amendment_law_title": "労働組合法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000231_20251001_507CO0000000263",
+   "amendment_promulgate_date": "2025-07-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000263",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000231_20250718_507CO0000000263",
+   "amendment_promulgate_date": "2025-07-18",
+   "amendment_enforcement_date": "2025-07-18",
+   "amendment_law_id": "507CO0000000263",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000231_20150401_427CO0000000126",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000126",
+   "amendment_law_num": "平成二十七年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000231_20150401_427CO0000000074",
+   "amendment_promulgate_date": "2015-03-18",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000074",
+   "amendment_law_title": "独立行政法人通則法の一部を改正する法律及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令　抄",
+   "amendment_law_num": "平成二十七年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第五条の管轄）",
+  "title": "第一条",
+  "paragraphs": [
+   "労働組合法（以下「法」という。）第五条第一項の労働委員会は、当該労働組合が参与しようとする手続につき、法及びこの政令の規定により管轄権を有する労働委員会とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-06-29",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-21T00:27:34+09:00"
+ }
+}

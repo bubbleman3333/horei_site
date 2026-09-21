@@ -1,0 +1,204 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "329M50000002044",
+  "law_num": "昭和二十九年総理府令第四十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "044",
+  "promulgation_date": "1954-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "329M50000002044_20260408_508M60000002042",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "警察法施行規則",
+  "law_title_kana": "けいさつほうせこうきそく",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-05-20T10:49:47+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002042",
+  "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第四十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329M50000002044_20260408_508M60000002042",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000002042",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20250901_507M60000002074",
+   "amendment_promulgate_date": "2025-08-20",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507M60000002074",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20250401_507M60000002040",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002040",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20240701_506M60000002062",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000002062",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20240401_506M60000002040",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002040",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20231001_505M60000002069",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000002069",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20230401_505M60000002031",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000002031",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20221101_504M60000002060",
+   "amendment_promulgate_date": "2022-10-26",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000002060",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20220401_504M60000002032",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000002032",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20210401_503M60000002025",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000002025",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20200401_502M60000002025",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000002025",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20190501_431M60000002026",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000002026",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十一年内閣府令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20190401_431M60000002021",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000002021",
+   "amendment_law_title": "警察法施行規則及び警察庁旅費取扱規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十一年内閣府令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20180401_430M60000002014",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002014",
+   "amendment_law_title": "警察法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002044_20170401_429M60000002020",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002020",
+   "amendment_law_num": "平成二十九年内閣府令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　国家公安委員会の委員の服務の宣誓",
+  "第二章　警察庁の組織",
+  "第三章　地方警務官の階級別定員"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "国家公安委員会の委員に任命された者の服務の宣誓は、次の様式による宣誓書に署名して、内閣総理大臣に提出するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-06-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-20T10:49:47+09:00"
+ }
+}

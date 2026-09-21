@@ -1,0 +1,83 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000080040",
+  "law_num": "令和五年文部科学省令第四十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "040",
+  "promulgation_date": "2023-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000080040_20260401_507M60000080021",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "認定日本語教育機関認定基準",
+  "law_title_kana": "にんていにほんごきょういくきかんにんていきじゅん",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-02T21:51:43+09:00",
+  "amendment_promulgate_date": "2025-08-28",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000080021",
+  "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年文部科学省令第二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000080040_20260401_507M60000080021",
+   "amendment_promulgate_date": "2025-08-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000080021",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000080040_20240426_506M60000080018",
+   "amendment_promulgate_date": "2024-04-26",
+   "amendment_enforcement_date": "2024-04-26",
+   "amendment_law_id": "506M60000080018",
+   "amendment_law_title": "日本語教育の適正かつ確実な実施を図るための日本語教育機関の認定等に関する法律施行規則及び認定日本語教育機関認定基準の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000080040_20240401_000000000000000",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　教員及び職員の体制",
+  "第三章　施設及び設備",
+  "第四章　日本語教育課程",
+  "第五章　学習上及び生活上の支援体制"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本語教育の適正かつ確実な実施を図るための日本語教育機関の認定等に関する法律（以下「法」という。）第二条第三項第二号の文部科学省令で定める基準（以下この条において「認定基準」という。）は、この省令の定めるところによる。",
+   "認定基準は、認定日本語教育機関（法第三条第一項に規定する認定日本語教育機関をいう。以下同じ。）の認定を受けるのに必要な最低の基準とする。",
+   "認定日本語教育機関は、この省令で定める認定基準より低下した状態にならないようにすることはもとより、法第八条第一項の点検及び評価の結果を踏まえ、日本語教育（法第一条に規定する日本語教育をいう。以下同じ。）について不断の見直しを行うことにより、その水準の維持向上を図ることに努めなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-12-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:51:43+09:00"
+ }
+}

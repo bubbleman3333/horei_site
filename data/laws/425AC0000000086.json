@@ -1,0 +1,106 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "425AC0000000086",
+  "law_num": "平成二十五年法律第八十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "086",
+  "promulgation_date": "2013-11-27"
+ },
+ "revision_info": {
+  "law_revision_id": "425AC0000000086_20260721_508AC0000000052",
+  "law_type": "Act",
+  "law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律",
+  "law_title_kana": "じどうしゃのうんてんによりひとをししょうさせるこういとうのしょばつにかんするほうりつ",
+  "abbrev": "自動車運転死傷処罰法,悪質運転厳罰法,自動車運転死傷行為処罰法",
+  "category": "刑事",
+  "updated": "2026-07-21T00:07:37+09:00",
+  "amendment_promulgate_date": "2026-07-01",
+  "amendment_enforcement_date": "2026-07-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000052",
+  "amendment_law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律及び道路交通法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425AC0000000086_20260721_508AC0000000052",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-07-21",
+   "amendment_law_id": "508AC0000000052",
+   "amendment_law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律及び道路交通法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000086_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000086_20240610_505AC0000000056",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-06-10",
+   "amendment_law_id": "505AC0000000056",
+   "amendment_law_title": "出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000086_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000086_20200702_502AC0000000047",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-07-02",
+   "amendment_law_id": "502AC0000000047",
+   "amendment_law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000086_20140520_000000000000000",
+   "amendment_promulgate_date": "2013-11-27",
+   "amendment_enforcement_date": "2014-05-20",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律において「自動車」とは、道路交通法（昭和三十五年法律第百五号）第二条第一項第九号に規定する自動車及び同項第十号に規定する原動機付自転車（次条第四号イにおいて単に「原動機付自転車」という。）をいう。",
+   "この法律において「無免許運転」とは、法令の規定による運転の免許を受けている者又は道路交通法第百七条の二の規定により国際運転免許証若しくは外国運転免許証で運転することができるとされている者でなければ運転することができないこととされている自動車を当該免許を受けないで（法令の規定により当該免許の効力が停止されている場合を含む。）又は当該国際運転免許証若しくは外国運転免許証を所持しないで（同法第八十八条第一項第二号から第四号までのいずれかに該当する場合又は本邦に上陸（住民基本台帳法（昭和四十二年法律第八十一号）に基づき住民基本台帳に記録されている者が出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第六十条第一項の規定による出国の確認、同法第二十六条第一項の規定による再入国の許可（同法第二十六条の二第一項（日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号）第二十三条第二項において準用する場合を含む。）の規定により出入国管理及び難民認定法第二十六条第一項の規定による再入国の許可を受けたものとみなされる場合を含む。）又は出入国管理及び難民認定法第六十一条の二の十五第一項の規定による難民旅行証明書の交付を受けて出国し、当該出国の日から三月に満たない期間内に再び本邦に上陸した場合における当該上陸を除く。）をした日から起算して滞在期間が一年を超えている場合を含む。）、道路（道路交通法第二条第一項第一号に規定する道路をいう。）において、運転することをいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-11-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-21T00:07:37+09:00"
+ }
+}

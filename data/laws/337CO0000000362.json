@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "337CO0000000362",
+  "law_num": "昭和三十七年政令第三百六十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "362",
+  "promulgation_date": "1962-09-20"
+ },
+ "revision_info": {
+  "law_revision_id": "337CO0000000362_20260214_507CO0000000417",
+  "law_type": "CabinetOrder",
+  "law_title": "船員法関係手数料令",
+  "law_title_kana": "せんいんほうかんけいてすうりょうれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-02-14T00:19:52+09:00",
+  "amendment_promulgate_date": "2025-12-17",
+  "amendment_enforcement_date": "2026-02-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000417",
+  "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第四百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337CO0000000362_20260214_507CO0000000417",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "507CO0000000417",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第四百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000362_20250401_506CO0000000306",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000306",
+   "amendment_law_title": "国家公務員等の旅費に関する法律施行令",
+   "amendment_law_num": "令和六年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000362_20230701_505CO0000000197",
+   "amendment_promulgate_date": "2023-06-02",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505CO0000000197",
+   "amendment_law_title": "海上運送法施行令及び船員法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000362_20171001_429CO0000000162",
+   "amendment_promulgate_date": "2017-06-16",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000162",
+   "amendment_law_title": "海上運送法施行令及び船員法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000362_20140805_425CO0000000127",
+   "amendment_promulgate_date": "2013-04-26",
+   "amendment_enforcement_date": "2014-08-05",
+   "amendment_law_id": "425CO0000000127",
+   "amendment_law_title": "船員法の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令　抄",
+   "amendment_law_num": "平成二十五年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "船員法（以下「法」という。）第百二十一条の二の規定により納付しなければならない手数料の額は、次の各号に掲げる者の区分に応じ、当該各号に定める額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-09-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-02-14T00:19:52+09:00"
+ }
+}

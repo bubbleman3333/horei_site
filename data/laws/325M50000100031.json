@@ -1,0 +1,231 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "325M50000100031",
+  "law_num": "昭和二十五年厚生省令第三十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "031",
+  "promulgation_date": "1950-06-24"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50000100031_20260331_508M60000100067",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "精神保健及び精神障害者福祉に関する法律施行規則",
+  "law_title_kana": "せいしんほけんおよびせいしんしょうがいしゃふくしにかんするほうりつしこうきそく",
+  "abbrev": "精神保健法施行規則",
+  "category": "厚生",
+  "updated": "2026-05-14T10:30:19+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-03-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100067",
+  "amendment_law_title": "厚生労働省の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第六十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50000100031_20260331_508M60000100067",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000100067",
+   "amendment_law_title": "厚生労働省の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20260301_508M60000100012",
+   "amendment_promulgate_date": "2026-02-09",
+   "amendment_enforcement_date": "2026-03-01",
+   "amendment_law_id": "508M60000100012",
+   "amendment_law_title": "精神保健及び精神障害者福祉に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20251001_506M60000100018",
+   "amendment_promulgate_date": "2024-01-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506M60000100018",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20241202_506M60000100119",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000100119",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20240701_506M60000100099",
+   "amendment_promulgate_date": "2024-06-25",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000100099",
+   "amendment_law_title": "特別児童扶養手当等の支給に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20240401_505M60000100144",
+   "amendment_promulgate_date": "2023-11-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000100144",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備及び経過措置に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20230401_505M60000100048",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000100048",
+   "amendment_law_title": "こども家庭庁設置法等の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20230401_505M60000100015",
+   "amendment_promulgate_date": "2023-02-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000100015",
+   "amendment_law_title": "精神保健及び精神障害者福祉に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20220401_504M60000100046",
+   "amendment_promulgate_date": "2022-03-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000100046",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20191214_501M60000100046",
+   "amendment_promulgate_date": "2019-09-13",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60000100046",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20190701_501M60000100021",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100021",
+   "amendment_law_title": "精神保健及び精神障害者福祉に関する法律施行規則及び障害者の日常生活及び社会生活を総合的に支援するための法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20190401_431M60000100048",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000100048",
+   "amendment_law_title": "身体障害者福祉法施行規則及び精神保健及び精神障害者福祉に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20180401_430M60000100030",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000100030",
+   "amendment_law_title": "介護保険法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "平成三十年厚生労働省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20180401_430M60000100028",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000100028",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律及び児童福祉法の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20170701_427M60000100150",
+   "amendment_promulgate_date": "2015-09-29",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_law_id": "427M60000100150",
+   "amendment_law_title": "",
+   "amendment_law_num": "平成二十七年厚生労働省令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100031_20170401_426M60000100004",
+   "amendment_promulgate_date": "2014-01-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "426M60000100004",
+   "amendment_law_title": "精神保健及び精神障害者福祉に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十六年厚生労働省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "精神保健及び精神障害者福祉に関する法律（昭和二十五年法律第百二十三号。以下「法」という。）第五条第二項第四号の厚生労働省令で定める者は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-06-24",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-14T10:30:19+09:00"
+ }
+}

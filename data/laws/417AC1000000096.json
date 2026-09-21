@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "417AC1000000096",
+  "law_num": "平成十七年法律第九十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "Act",
+  "law_num_num": "096",
+  "promulgation_date": "2005-08-15"
+ },
+ "revision_info": {
+  "law_revision_id": "417AC1000000096_20260605_508AC0000000032",
+  "law_type": "Act",
+  "law_title": "出入国管理及び難民認定法第二条第五号ロの旅券を所持する外国人の上陸申請の特例に関する法律",
+  "law_title_kana": "しゅつにゅうこくかんりおよびなんみんにんていほうだいにじょうだいごごうろのりょけんをしょじするがいこくじんのじょうりくしんせいのとくれいにかんするほうりつ",
+  "abbrev": "入管法第二条第五号ロの旅券を所持する外国人の上陸申請の特例に関する法律,難民認定法第二条第五号ロの旅券を所持する外国人の上陸申請の特例に関する法律,出入国管理法第二条第五号ロの旅券を所持する外国人の上陸申請の特例に関する法律",
+  "category": "外事",
+  "updated": "2026-06-05T10:51:11+09:00",
+  "amendment_promulgate_date": "2026-06-05",
+  "amendment_enforcement_date": "2026-06-05",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000032",
+  "amendment_law_title": "出入国管理及び難民認定法及び出入国管理及び難民認定法第二条第五号ロの旅券を所持する外国人の上陸申請の特例に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第三十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417AC1000000096_20290331_508AC0000000032",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2029-03-31",
+   "amendment_enforcement_comment": "令和十一年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2029-03-31",
+   "amendment_law_id": "508AC0000000032",
+   "amendment_law_title": "出入国管理及び難民認定法及び出入国管理及び難民認定法第二条第五号ロの旅券を所持する外国人の上陸申請の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417AC1000000096_20260605_508AC0000000032",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-06-05",
+   "amendment_law_id": "508AC0000000032",
+   "amendment_law_title": "出入国管理及び難民認定法及び出入国管理及び難民認定法第二条第五号ロの旅券を所持する外国人の上陸申請の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417AC1000000096_20231201_505AC0000000056",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505AC0000000056",
+   "amendment_law_title": "出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC1000000096_20050926_000000000000000",
+   "amendment_promulgate_date": "2005-08-15",
+   "amendment_enforcement_date": "2005-09-26",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "出入国管理及び難民認定法（昭和二十六年政令第三百十九号）第二条第五号ロに該当する旅券を所持する外国人（同条第一号に規定する外国人をいい、同条第二号に規定する乗員を除く。）であって、観光その他の目的で本邦に短期間滞在しようとする者のうち政令で定めるものが本邦に上陸しようとする場合においては、同法第六条第一項本文の規定にかかわらず、その旅券には、日本国領事官等（同法第二条第四号に規定する日本国領事官等をいう。）の査証を要しない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-08-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-05T10:51:11+09:00"
+ }
+}

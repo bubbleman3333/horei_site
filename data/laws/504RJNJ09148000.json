@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "504RJNJ09148000",
+  "law_num": "令和四年人事院規則九―一四八",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "Rule",
+  "law_num_num": "9_148",
+  "promulgation_date": "2022-02-18"
+ },
+ "revision_info": {
+  "law_revision_id": "504RJNJ09148000_20260401_508RJNJ09008097",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―一四八（給与法附則第十項、第十二項又は第十三項の規定による俸給）",
+  "law_title_kana": "じんじいんきそくきゅうのひゃくよんじゅうはちきゅうよほうふそくだいじゅっこうだいじゅうにこうまたはだいじゅうさんこうのきていによるほうきゅう",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-04-02T21:47:05+09:00",
+  "amendment_promulgate_date": "2026-02-13",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ09008097",
+  "amendment_law_title": "人事院規則九―八（初任給、昇格、昇給等の基準）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―八―九七",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504RJNJ09148000_20260401_508RJNJ09008097",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09008097",
+   "amendment_law_title": "人事院規則九―八（初任給、昇格、昇給等の基準）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―八―九七",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504RJNJ09148000_20230401_000000000000000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則は、給与法附則第十項、第十二項又は第十三項の規定による俸給に関し必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-02-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:47:05+09:00"
+ }
+}

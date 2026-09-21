@@ -1,0 +1,446 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "322M40000800023",
+  "law_num": "昭和二十二年運輸省令第二十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "1947-09-01"
+ },
+ "revision_info": {
+  "law_revision_id": "322M40000800023_20260513_508M60000800055",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "船員法施行規則",
+  "law_title_kana": "せんいんほうしこうきそく",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-08-20T18:35:37+09:00",
+  "amendment_promulgate_date": "2026-05-12",
+  "amendment_enforcement_date": "2026-05-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800055",
+  "amendment_law_title": "船員法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第五十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322M40000800023_21171231_504M60000800074",
+   "amendment_promulgate_date": "2022-10-11",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "千九百七十七年の漁船の安全のためのトレモリノス国際条約に関する千九百九十三年のトレモリノス議定書の規定の実施に関する二千十二年のケープタウン協定が日本国について効力を生ずる日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "504M60000800074",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20260513_508M60000800055",
+   "amendment_promulgate_date": "2026-05-12",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_law_id": "508M60000800055",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20260513_508M60000800019",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_law_id": "508M60000800019",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20260401_508M60000800019",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800019",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20260214_508M60000800007",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "508M60000800007",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20260214_507M60000800090",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "507M60000800090",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20260101_507M60000800090",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000800090",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20250919_507M60000800090",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2025-09-19",
+   "amendment_law_id": "507M60000800090",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20250401_507M60000800023",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000800023",
+   "amendment_law_title": "国家公務員等の旅費に関する法律の一部を改正する法律及び国家公務員等の旅費に関する法律施行令の施行に伴う国土交通省関係省令の整理に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20250401_506M60000800109",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800109",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20240401_506M60000800003",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800003",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20231201_505M60000800091",
+   "amendment_promulgate_date": "2023-12-01",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505M60000800091",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20230731_505M60000800060",
+   "amendment_promulgate_date": "2023-07-31",
+   "amendment_enforcement_date": "2023-07-31",
+   "amendment_law_id": "505M60000800060",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20230701_505M60000800052",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60000800052",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20230401_504M60000800042",
+   "amendment_promulgate_date": "2022-04-15",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000800042",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20230401_504M60000800002",
+   "amendment_promulgate_date": "2022-01-07",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000800002",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20230228_504M60000800007",
+   "amendment_promulgate_date": "2022-02-28",
+   "amendment_enforcement_date": "2023-02-28",
+   "amendment_law_id": "504M60000800007",
+   "amendment_law_title": "写真のサイズ等の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20220401_504M60000800002",
+   "amendment_promulgate_date": "2022-01-07",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800002",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20211101_503M60000800063",
+   "amendment_promulgate_date": "2021-10-01",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000800063",
+   "amendment_law_title": "航路標識法施行規則及び船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20210701_503M60000800042",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503M60000800042",
+   "amendment_law_title": "海上交通安全法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20210305_503M60000800008",
+   "amendment_promulgate_date": "2021-03-05",
+   "amendment_enforcement_date": "2021-03-05",
+   "amendment_law_id": "503M60000800008",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20201226_502M60000800061",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2020-12-26",
+   "amendment_law_id": "502M60000800061",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20201201_502M60000800096",
+   "amendment_promulgate_date": "2020-11-30",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000800096",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20201001_502M60000800072",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000800072",
+   "amendment_law_title": "海洋汚染等及び海上災害の防止に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20200401_502M60000800039",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000800039",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20200401_502M60000800012",
+   "amendment_promulgate_date": "2020-03-05",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000800012",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20200101_501M60000800046",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "501M60000800046",
+   "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20191216_501M60000800047",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000800047",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20190827_501M60000800031",
+   "amendment_promulgate_date": "2019-08-27",
+   "amendment_enforcement_date": "2019-08-27",
+   "amendment_law_id": "501M60000800031",
+   "amendment_law_title": "船員法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20180701_430M60000800049",
+   "amendment_promulgate_date": "2018-06-15",
+   "amendment_enforcement_date": "2018-07-01",
+   "amendment_law_id": "430M60000800049",
+   "amendment_law_title": "海上運送法及び船員法の一部を改正する法律の施行に伴う船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20180131_429M60000800064",
+   "amendment_promulgate_date": "2017-10-25",
+   "amendment_enforcement_date": "2018-01-31",
+   "amendment_law_id": "429M60000800064",
+   "amendment_law_title": "海上交通安全法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20171001_429M60000800055",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429M60000800055",
+   "amendment_law_title": "海上運送法及び船員法の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20170901_429M60000800050",
+   "amendment_promulgate_date": "2017-09-01",
+   "amendment_enforcement_date": "2017-09-01",
+   "amendment_law_id": "429M60000800050",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000800023_20170401_429M60000800004",
+   "amendment_promulgate_date": "2017-01-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000800004",
+   "amendment_law_num": "平成二十九年国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　船長の職務及び権限",
+  "第三章　雇入契約の成立等の届出等",
+  "第四章　船員手帳",
+  "第五章　給料その他の報酬",
+  "第六章　労働時間、休日及び定員",
+  "第七章　有給休暇",
+  "第八章　食料並びに安全及び衛生",
+  "第八章の二　登録生存講習機関等",
+  "第九章　年少船員",
+  "第九章の二　女子船員",
+  "第十章　災害補償",
+  "第十一章　就業規則",
+  "第十一章の二　登録検査機関",
+  "第十二章　監督",
+  "第十三章　雑則"
+ ],
+ "article1": {
+  "caption": "（適用船舶の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "船員法（以下「法」という。）第一条第一項の国土交通省令で定める船舶は、日本船舶以外の次の各号に掲げる船舶とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-09-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-20T18:35:37+09:00"
+ }
+}

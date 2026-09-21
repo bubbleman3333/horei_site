@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000020013",
+  "law_num": "令和八年外務省令第十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "013",
+  "promulgation_date": "2026-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000020013_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "同行配偶者手当の支給に関する規則",
+  "law_title_kana": "どうこうはいぐうしゃてあてのしきゅうにかんするきそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-05-12T09:42:31+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000020013_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（同行配偶者手当の対象となる配偶者）",
+  "title": "第一条",
+  "paragraphs": [
+   "在外公館の名称及び位置並びに在外公館に勤務する外務公務員の給与に関する法律（以下「法」という。）第六条第四項に規定する主として在外職員の収入によって生計を維持している者は、次の各号に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-12T09:42:31+09:00"
+ }
+}

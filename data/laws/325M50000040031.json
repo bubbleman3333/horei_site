@@ -1,0 +1,114 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "325M50000040031",
+  "law_num": "昭和二十五年大蔵省令第三十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "031",
+  "promulgation_date": "1950-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50000040031_20260626_508M60000040046",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "日本銀行の公庫預託金取扱規程",
+  "law_title_kana": "にほんぎんこうのこうこよたくきんとりあつかいきてい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-07-15T10:08:17+09:00",
+  "amendment_promulgate_date": "2026-06-26",
+  "amendment_enforcement_date": "2026-06-26",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040046",
+  "amendment_law_title": "日本銀行の公庫預託金取扱規程の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50000040031_20270401_508M60000040046",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000040046",
+   "amendment_law_title": "日本銀行の公庫預託金取扱規程の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040031_20260626_508M60000040046",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2026-06-26",
+   "amendment_law_id": "508M60000040046",
+   "amendment_law_title": "日本銀行の公庫預託金取扱規程の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040031_20221104_504M60000040051",
+   "amendment_promulgate_date": "2022-10-18",
+   "amendment_enforcement_date": "2022-11-04",
+   "amendment_law_id": "504M60000040051",
+   "amendment_law_title": "日本銀行国庫金取扱規程等の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040031_20210101_502M60000040076",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000040076",
+   "amendment_law_title": "政府所有有価証券取扱規程等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040031_20190701_501M60000040010",
+   "amendment_promulgate_date": "2019-06-26",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040010",
+   "amendment_law_title": "政府所有有価証券取扱規程等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040031_20111027_423M60000040071",
+   "amendment_promulgate_date": "2011-10-27",
+   "amendment_enforcement_date": "2011-10-27",
+   "amendment_law_id": "423M60000040071",
+   "amendment_law_num": "平成二十三年財務省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章から第四章まで　削除",
+  "第五章　公庫の預託金",
+  "第六章　帳簿",
+  "第七章　計表等"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "日本銀行（本店、支店及び代理店をいう。以下同じ。）は、この省令に定めるものの外、日本銀行国庫金取扱規程（昭和二十二年大蔵省令第九十三号）の規定に準じて、国庫に預託された公庫の預託金の出納を取り扱わなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-04-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-15T10:08:17+09:00"
+ }
+}

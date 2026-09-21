@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "419M60400000023",
+  "law_num": "平成十九年国家公安委員会規則第二十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "Rule",
+  "law_num_num": "023",
+  "promulgation_date": "2007-10-30"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60400000023_20260521_508M60400000012",
+  "law_type": "Rule",
+  "law_title": "少年法第六条の二第三項の規定に基づく警察職員の職務等に関する規則",
+  "law_title_kana": "しょうねんほうだいろくじょうのにだいさんこうのきていにもとづくけいさつしょくいんのしょくむとうにかんするきそく",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-06-03T09:20:57+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000012",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60400000023_20260521_508M60400000012",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000012",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000023_20220401_504M60400000001",
+   "amendment_promulgate_date": "2022-01-11",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000001",
+   "amendment_law_title": "犯罪捜査規範及び少年警察活動規則の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000023_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000023_20120622_424M60400000008",
+   "amendment_promulgate_date": "2012-06-21",
+   "amendment_enforcement_date": "2012-06-22",
+   "amendment_law_id": "424M60400000008",
+   "amendment_law_num": "平成二十四年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（警察職員の職務）",
+  "title": "第一条",
+  "paragraphs": [
+   "少年補導職員（少年警察活動規則（平成十四年国家公安委員会規則第二十号）第二条第十三号に規定する少年補導職員をいう。）のうちから、低年齢少年（十四歳未満の者をいう。）に対する質問その他の職務に必要な事項に関する教育訓練を受け、専門的知識を有する者として警察本部長（警視総監及び道府県警察本部長をいう。以下同じ。）が少年法（以下「法」という。）第六条の二第三項に規定する警察職員に指定したものは、上司である警察官の命を受け、触法少年（法第三条第一項第二号に規定する少年をいう。）に係る事件の原因及び動機並びに当該少年の性格、行状、経歴、教育程度、環境、家庭の状況、交友関係等を明らかにするために必要な調査を行うことができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-10-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-03T09:20:57+09:00"
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "501CO0000000003",
+  "law_num": "令和元年政令第三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 1,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "003",
+  "promulgation_date": "2019-05-15"
+ },
+ "revision_info": {
+  "law_revision_id": "501CO0000000003_20260401_508CO0000000011",
+  "law_type": "CabinetOrder",
+  "law_title": "令和七年に開催される国際博覧会の準備及び運営のために必要な特別措置に関する法律施行令",
+  "law_title_kana": "れいわななねんにかいさいされるこくさいはくらんかいのじゅんびおよびうんえいのためにひつようなとくべつそちにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2026-04-16T13:16:43+09:00",
+  "amendment_promulgate_date": "2026-02-16",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000011",
+  "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "501CO0000000003_20260401_508CO0000000011",
+   "amendment_promulgate_date": "2026-02-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000011",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "501CO0000000003_20250401_507CO0000000140",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000140",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "501CO0000000003_20230401_505CO0000000027",
+   "amendment_promulgate_date": "2023-02-01",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000027",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "501CO0000000003_20221001_504CO0000000266",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000266",
+   "amendment_law_title": "地方公務員等共済組合法施行令及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律及び地方公務員等共済組合法及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の一部を改正する法律の施行に伴う地方公務員等共済組合法による長期給付等に関する経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "501CO0000000003_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "501CO0000000003_20201228_502CO0000000373",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502CO0000000373",
+   "amendment_law_title": "平成三十二年東京オリンピック競技大会・東京パラリンピック競技大会特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "501CO0000000003_20200612_502CO0000000185",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502CO0000000185",
+   "amendment_law_title": "福島復興再生特別措置法施行令及び厚生年金保険法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "501CO0000000003_20190523_000000000000000",
+   "amendment_promulgate_date": "2019-05-15",
+   "amendment_enforcement_date": "2019-05-23",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（派遣職員に関する国家公務員共済組合法の特例に係る負担金の金額）",
+  "title": "第一条",
+  "paragraphs": [
+   "令和七年に開催される国際博覧会の準備及び運営のために必要な特別措置に関する法律（以下「法」という。）第二十八条第四項（法第三十五条第一項において準用する場合を含む。）の規定により読み替えられた国家公務員共済組合法（昭和三十三年法律第百二十八号。第一号において「読替え後の国共済法」という。）第九十九条第二項の規定により博覧会協会（法第十四条第一項の規定により指定された博覧会協会をいう。以下同じ。）及び国が負担すべき金額は、各月ごとに、次の各号に掲げる者の区分に応じ、それぞれ当該各号に定める金額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-05-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-16T13:16:43+09:00"
+ }
+}

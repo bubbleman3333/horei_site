@@ -1,0 +1,266 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "430CO0000000364",
+  "law_num": "平成三十年政令第三百六十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "364",
+  "promulgation_date": "2018-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "430CO0000000364_20260401_507CO0000000355",
+  "law_type": "CabinetOrder",
+  "law_title": "年金生活者支援給付金の支給に関する法律施行令",
+  "law_title_kana": "ねんきんせいかつしゃしえんきゅうふきんのしきゅうにかんするほうりつせこうれい",
+  "abbrev": "年金生活者支援給付金法施行令",
+  "category": "社会保険",
+  "updated": "2025-10-31T09:17:15+09:00",
+  "amendment_promulgate_date": "2025-10-17",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000355",
+  "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百五十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430CO0000000364_20261001_508CO0000000226",
+   "amendment_promulgate_date": "2026-07-15",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000226",
+   "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20261001_508CO0000000225",
+   "amendment_promulgate_date": "2026-07-08",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000225",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20260401_508CO0000000057",
+   "amendment_promulgate_date": "2026-03-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000057",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20260401_508CO0000000043",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000043",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20260401_507CO0000000355",
+   "amendment_promulgate_date": "2025-10-17",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000355",
+   "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20251001_507CO0000000253",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000253",
+   "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20251001_507CO0000000235",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000235",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20250401_507CO0000000086",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000086",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20241001_506CO0000000242",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000242",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20240401_506CO0000000132",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000132",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20240401_505CO0000000072",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000072",
+   "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20231001_505CO0000000233",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000233",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20230401_505CO0000000122",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000122",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20220401_504CO0000000121",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000121",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20211001_503CO0000000099",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503CO0000000099",
+   "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20210801_502CO0000000369",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "502CO0000000369",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第三百六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20210101_502CO0000000369",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000369",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第三百六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20200801_502CO0000000180",
+   "amendment_promulgate_date": "2020-06-10",
+   "amendment_enforcement_date": "2020-08-01",
+   "amendment_law_id": "502CO0000000180",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20200605_502CO0000000178",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2020-06-05",
+   "amendment_law_id": "502CO0000000178",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20200401_502CO0000000107",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000107",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20191001_000000000000000",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000364_20190701_501CO0000000044",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000044",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第一項に規定する政令で定める額）",
+  "title": "第一条",
+  "paragraphs": [
+   "年金生活者支援給付金の支給に関する法律（以下「法」という。）第二条第一項に規定する政令で定める額は、昭和三十一年四月一日以前に生まれた者については八十万六千七百円とし、同月二日以後に生まれた者については八十万九千円とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-12-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-31T09:17:15+09:00"
+ }
+}

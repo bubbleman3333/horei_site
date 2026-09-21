@@ -1,0 +1,237 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "416M60000400096",
+  "law_num": "平成十六年経済産業省令第九十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "096",
+  "promulgation_date": "2004-09-27"
+ },
+ "revision_info": {
+  "law_revision_id": "416M60000400096_20260630_508M60000400057",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "鉱山保安法施行規則",
+  "law_title_kana": "こうざんほあんほうせこうきそく",
+  "abbrev": null,
+  "category": "鉱業",
+  "updated": "2026-07-09T15:11:12+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-06-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400057",
+  "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416M60000400096_20260630_508M60000400057",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-06-30",
+   "amendment_law_id": "508M60000400057",
+   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20250707_507M60000400054",
+   "amendment_promulgate_date": "2025-07-07",
+   "amendment_enforcement_date": "2025-07-07",
+   "amendment_law_id": "507M60000400054",
+   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20240628_506M60000400040",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-06-28",
+   "amendment_law_id": "506M60000400040",
+   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20231001_505M60000400027",
+   "amendment_promulgate_date": "2023-05-25",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000400027",
+   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20230401_505M60000400011",
+   "amendment_promulgate_date": "2023-03-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000400011",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年経済産業省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20230320_504M60000400096",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2023-03-20",
+   "amendment_law_id": "504M60000400096",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20210501_503M60000400040",
+   "amendment_promulgate_date": "2021-04-08",
+   "amendment_enforcement_date": "2021-05-01",
+   "amendment_law_id": "503M60000400040",
+   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20210401_503M60000400012",
+   "amendment_promulgate_date": "2021-03-10",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000400012",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20210401_503M60000400007",
+   "amendment_promulgate_date": "2021-03-01",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000400007",
+   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20200626_502M60000400060",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2020-06-26",
+   "amendment_law_id": "502M60000400060",
+   "amendment_law_title": "火薬類取締法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20200410_502M60000400037",
+   "amendment_promulgate_date": "2020-04-10",
+   "amendment_enforcement_date": "2020-04-10",
+   "amendment_law_id": "502M60000400037",
+   "amendment_law_title": "火薬類取締法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20190801_501M60000400031",
+   "amendment_promulgate_date": "2019-08-01",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_law_id": "501M60000400031",
+   "amendment_law_title": "鉱山保安法施行規則及び金属鉱業等鉱害対策特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年経済産業省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20190401_430M60000400034",
+   "amendment_promulgate_date": "2018-06-15",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000400034",
+   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年経済産業省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20180401_430M60000400009",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000400009",
+   "amendment_law_title": "鉱山保安法施行規則及び鉱業上使用する工作物等の技術基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年経済産業省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20170705_429M60000400050",
+   "amendment_promulgate_date": "2017-07-05",
+   "amendment_enforcement_date": "2017-07-05",
+   "amendment_law_id": "429M60000400050",
+   "amendment_law_title": "経済産業省組織規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年経済産業省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416M60000400096_20160801_428M60000400086",
+   "amendment_promulgate_date": "2016-08-01",
+   "amendment_enforcement_date": "2016-08-01",
+   "amendment_law_id": "428M60000400086",
+   "amendment_law_num": "平成二十八年経済産業省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　鉱業権者が講ずべき措置及び鉱山労働者が守るべき事項",
+  "第三章　保安教育",
+  "第四章　特定施設等",
+  "第五章　鉱山の現況調査及び保安規程",
+  "第六章　保安管理体制",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、鉱山保安法（以下「法」という。）において使用する用語の例による。",
+   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号の定めるところによる。",
+   "前二項に規定するもののほか、この省令において使用する電気、火薬類、毒物、劇物、高圧ガス、核原料物質及び核燃料物質並びに鉄道に関する用語は、それぞれ電気設備に関する技術基準を定める省令（平成九年通商産業省令第五十二号）、火薬類取締法（昭和二十五年法律第百四十九号）、火薬類取締法施行令（昭和二十五年政令第三百二十三号）、火薬類取締法施行規則（昭和二十五年通商産業省令第八十八号）、毒物及び劇物取締法（昭和二十五年法律第三百三号）、高圧ガス保安法（昭和二十六年法律第二百四号）、一般高圧ガス保安規則（昭和四十一年通商産業省令第五十三号）、コンビナート等保安規則（昭和六十一年通商産業省令第八十八号）、原子力基本法（昭和三十年法律第百八十六号）及び鉄道に関する技術上の基準を定める省令（平成十三年国土交通省令第百五十一号）の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-09-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-09T15:11:12+09:00"
+ }
+}

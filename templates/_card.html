@@ -1,0 +1,15 @@
+{% macro card(x) -%}
+{% set st, label = x.status(today) %}
+<li class="card">
+  <a class="card-title" href="{{ url(x.path) }}">{{ x.title }}</a>
+  <div class="card-meta">
+    <span class="badge {{ st }}">{{ label }}</span>
+    <span class="tag">{{ x.type_label }}</span>
+    {% if x.category %}<span class="tag">{{ x.category }}</span>{% endif %}
+    {% if x.promulgated %}<span>公布 {{ x.promulgated|date }}</span>{% endif %}
+    {% if x.enforced %}<span>現行 {{ x.enforced|date }}施行</span>{% endif %}
+  </div>
+  {% if x.amend_law_title %}<p class="card-catch">直近の改正: {{ x.amend_law_title }}{% if x.amend_law_num %}（{{ x.amend_law_num }}）{% endif %}</p>{% endif %}
+  {% if x.summary_line %}<p class="card-lead">{{ x.summary_line }}</p>{% endif %}
+</li>
+{%- endmacro %}

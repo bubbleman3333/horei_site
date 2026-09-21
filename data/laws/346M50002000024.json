@@ -1,0 +1,225 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "346M50002000024",
+  "law_num": "昭和四十六年労働省令第二十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "024",
+  "promulgation_date": "1971-09-08"
+ },
+ "revision_info": {
+  "law_revision_id": "346M50002000024_20260401_507M60000100030",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "高年齢者等の雇用の安定等に関する法律施行規則",
+  "law_title_kana": "こうねんれいしゃとうのこようのあんていとうにかんするほうりつしこうきそく",
+  "abbrev": "高年齢者雇用安定法施行規則",
+  "category": "労働",
+  "updated": "2026-04-01T06:23:10+09:00",
+  "amendment_promulgate_date": "2025-03-28",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100030",
+  "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年厚生労働省令第三十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346M50002000024_20260401_507M60000100030",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000100030",
+   "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20250401_507M60000100030",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100030",
+   "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20250401_506M60000100144",
+   "amendment_promulgate_date": "2024-10-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100144",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20240401_505M60000100068",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000100068",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20231227_505M60000100165",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000100165",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20231226_505M60000100161",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2023-12-26",
+   "amendment_law_id": "505M60000100161",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20230401_504M60000100028",
+   "amendment_promulgate_date": "2022-03-01",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000100028",
+   "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20230105_505M60000100001",
+   "amendment_promulgate_date": "2023-01-05",
+   "amendment_enforcement_date": "2023-01-05",
+   "amendment_law_id": "505M60000100001",
+   "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20220401_504M60000100074",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000100074",
+   "amendment_law_title": "沖縄振興特別措置法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20210401_502M60000100180",
+   "amendment_promulgate_date": "2020-10-30",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000100180",
+   "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20200529_502M60000100106",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2020-05-29",
+   "amendment_law_id": "502M60000100106",
+   "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20200401_502M60000100078",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000100078",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20180706_430M60000100083",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2018-07-06",
+   "amendment_law_id": "430M60000100083",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20180410_430M60000100060",
+   "amendment_promulgate_date": "2018-04-10",
+   "amendment_enforcement_date": "2018-04-10",
+   "amendment_law_id": "430M60000100060",
+   "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50002000024_20160407_428M60000100089",
+   "amendment_promulgate_date": "2016-04-07",
+   "amendment_enforcement_date": "2016-04-07",
+   "amendment_law_id": "428M60000100089",
+   "amendment_law_num": "平成二十八年厚生労働省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　定年の引上げ、継続雇用制度の導入等による高年齢者の安定した雇用の確保の促進等",
+  "第三章　高年齢者等の再就職の促進等",
+  "第四章　削除",
+  "第五章　シルバー人材センター等",
+  "第六章　国による援助等",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（高年齢者の年齢）",
+  "title": "第一条",
+  "paragraphs": [
+   "高年齢者等の雇用の安定等に関する法律（昭和四十六年法律第六十八号。以下「法」という。）第二条第一項の厚生労働省令で定める年齢は、五十五歳とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-09-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:23:10+09:00"
+ }
+}

@@ -1,0 +1,118 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "419CO0000000358",
+  "law_num": "平成十九年政令第三百五十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "358",
+  "promulgation_date": "2007-12-07"
+ },
+ "revision_info": {
+  "law_revision_id": "419CO0000000358_20260701_508CO0000000202",
+  "law_type": "CabinetOrder",
+  "law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令",
+  "law_title_kana": "こうにんかいけいしほうのしんぱんてつづきにおけるさんこうにんおよびかんていにんのりょひおよびてあてにかんするせいれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-07-03T09:55:42+09:00",
+  "amendment_promulgate_date": "2026-06-19",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000202",
+  "amendment_law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419CO0000000358_20260701_508CO0000000202",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000202",
+   "amendment_law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000358_20250701_507CO0000000077",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000077",
+   "amendment_law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000358_20250401_507CO0000000077",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000077",
+   "amendment_law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000358_20240701_506CO0000000219",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000219",
+   "amendment_law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000358_20230701_505CO0000000214",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505CO0000000214",
+   "amendment_law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000358_20190801_501CO0000000068",
+   "amendment_promulgate_date": "2019-07-31",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000068",
+   "amendment_law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000358_20080401_000000000000000",
+   "amendment_promulgate_date": "2007-12-07",
+   "amendment_enforcement_date": "2008-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（旅費）",
+  "title": "第一条",
+  "paragraphs": [
+   "公認会計士法（以下「法」という。）第三十四条の六十四の規定により参考人又は鑑定人（次項及び第三項並びに第三条第一項において「参考人等」という。）が請求することができる旅費の種目は、鉄道賃、船賃、航空賃、その他の交通費、宿泊費及び包括宿泊費とする。",
+   "法第三十四条の六十四の規定により参考人等が請求することができる旅費の額は、旅行（出頭（法第三十四条の四十七第一項の規定により求められた出頭をいう。次条第十項、第三条第二項及び第四条において同じ。）又は鑑定（法第三十四条の五十第一項の規定により命ぜられた鑑定をいう。次条第十項、第三条及び第四条において同じ。）及びこれらのための移動をいう。次項、次条第十項及び第三条第二項において同じ。）のため前項に規定する旅費の各種目について現に支払った額（次条の規定により計算した当該種目の基準額が、当該種目について現に支払った額より少ない場合は、当該種目に係る当該基準額）を合計した額とする。",
+   "参考人等が、内閣府令で定めるやむを得ない事情により旅行を中止し、又は変更したときは、各種目ごとに、当該旅行のため既に支出した金額のうちその者の損失となる金額又は支出を要する金額で内閣府令で定めるものを旅費として請求することができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-12-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-03T09:55:42+09:00"
+ }
+}

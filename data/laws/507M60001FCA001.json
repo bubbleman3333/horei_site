@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60001FCA001",
+  "law_num": "令和七年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2025-02-18"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60001FCA001_20260401_507M60001FCA009",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "荷主の貨物自動車運送役務の持続可能な提供の確保に資する運転者の運送及び荷役等の効率化に関する判断の基準となるべき事項を定める命令",
+  "law_title_kana": "にぬしのかもつじどうしゃうんそうえきむのじぞくかのうなていきょうのかくほにしするうんてんしゃのうんそうおよびにやくとうのこうりつかにかんするはんだんのきじゅんとなるべきじこうをさだめるめいれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-04-02T22:01:47+09:00",
+  "amendment_promulgate_date": "2025-08-29",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60001FCA009",
+  "amendment_law_title": "荷主の貨物自動車運送役務の持続可能な提供の確保に資する運転者の運送及び荷役等の効率化に関する判断の基準となるべき事項を定める命令の一部を改正する命令",
+  "amendment_law_num": "令和七年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60001FCA001_20260401_507M60001FCA009",
+   "amendment_promulgate_date": "2025-08-29",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60001FCA009",
+   "amendment_law_title": "荷主の貨物自動車運送役務の持続可能な提供の確保に資する運転者の運送及び荷役等の効率化に関する判断の基準となるべき事項を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "507M60001FCA001_20250401_000000000000000",
+   "amendment_promulgate_date": "2025-02-18",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（運転者の運送及び荷役等の効率化の実施の原則）",
+  "title": "第一条",
+  "paragraphs": [
+   "荷主は、物資の流通の効率化に関する法律（以下「法」という。）第三十三条第一項の基本方針に定められた貨物自動車運送役務の持続可能な提供の確保に資する運転者の運送及び荷役等の効率化の推進の目標を達成するため、その事業の特性及び従業者の安全その他の必要な事情に配慮した上で、運転者の荷待ち時間等の短縮及び運転者一人当たりの一回の運送ごとの貨物の重量の増加を図るための措置を計画的かつ効率的に実施するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-02-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T22:01:47+09:00"
+ }
+}

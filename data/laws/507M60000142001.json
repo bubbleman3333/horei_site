@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000142001",
+  "law_num": "令和七年内閣府・財務省・厚生労働省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2025-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000142001_20260401_508M60000142001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "子ども・子育て支援特別会計事務取扱規則",
+  "law_title_kana": "こどもこそだてしえんとくべつかいけいじむとりあつかいきそく",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-04-02T21:59:58+09:00",
+  "amendment_promulgate_date": "2026-02-02",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000142001",
+  "amendment_law_title": "子ども・子育て支援特別会計事務取扱規則の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・財務省・厚生労働省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000142001_20260401_508M60000142001",
+   "amendment_promulgate_date": "2026-02-02",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000142001",
+   "amendment_law_title": "子ども・子育て支援特別会計事務取扱規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省・厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "507M60000142001_20260202_508M60000142001",
+   "amendment_promulgate_date": "2026-02-02",
+   "amendment_enforcement_date": "2026-02-02",
+   "amendment_law_id": "508M60000142001",
+   "amendment_law_title": "子ども・子育て支援特別会計事務取扱規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省・厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "507M60000142001_20250401_000000000000000",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（総括部局長及び所管部局長の指定の通知）",
+  "title": "第一条",
+  "paragraphs": [
+   "所管大臣（特別会計に関する法律（以下「法」という。）第百二十三条の三第一項の大臣をいう。以下同じ。）は、総括部局長（特別会計に関する法律施行令（以下「令」という。）第十二条に規定する総括部局長をいう。以下同じ。）の指定又は所管部局長（令第十七条第三項に規定する所管部局長をいう。以下同じ。）の指定をした場合には、遅滞なく、その旨を他の所管大臣に通知しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:59:58+09:00"
+ }
+}

@@ -1,0 +1,286 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "354M50000400074",
+  "law_num": "昭和五十四年通商産業省令第七十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 54,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "074",
+  "promulgation_date": "1979-09-29"
+ },
+ "revision_info": {
+  "law_revision_id": "354M50000400074_20260701_508M60000400059",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則",
+  "law_title_kana": "えねるぎーのしようのごうりかおよびひかせきえねるぎーへのてんかんとうにかんするほうりつしこうきそく",
+  "abbrev": "省エネ法施行規則",
+  "category": "工業",
+  "updated": "2026-07-09T15:10:18+09:00",
+  "amendment_promulgate_date": "2026-07-01",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400059",
+  "amendment_law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "354M50000400074_20260701_508M60000400059",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60000400059",
+   "amendment_law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20260401_507M60000400081",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000400081",
+   "amendment_law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20250401_507M60000400017",
+   "amendment_promulgate_date": "2025-03-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000400017",
+   "amendment_law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20250401_506M60000400047",
+   "amendment_promulgate_date": "2024-07-18",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000400047",
+   "amendment_law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20240401_506M60000400014",
+   "amendment_promulgate_date": "2024-03-15",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000400014",
+   "amendment_law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20240315_506M60000400015",
+   "amendment_promulgate_date": "2024-03-15",
+   "amendment_enforcement_date": "2024-03-15",
+   "amendment_law_id": "506M60000400015",
+   "amendment_law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20240315_506M60000400014",
+   "amendment_promulgate_date": "2024-03-15",
+   "amendment_enforcement_date": "2024-03-15",
+   "amendment_law_id": "506M60000400014",
+   "amendment_law_title": "エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20230401_505M60000400011",
+   "amendment_promulgate_date": "2023-03-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000400011",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年経済産業省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20230401_503M60000400057",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503M60000400057",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20220401_504M60000400024",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000400024",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "令和四年経済産業省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20210514_503M60000400047",
+   "amendment_promulgate_date": "2021-05-14",
+   "amendment_enforcement_date": "2021-05-14",
+   "amendment_law_id": "503M60000400047",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20210419_503M60000400042",
+   "amendment_promulgate_date": "2021-04-19",
+   "amendment_enforcement_date": "2021-04-19",
+   "amendment_law_id": "503M60000400042",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20210401_503M60000400033",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000400033",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20200428_502M60000400042",
+   "amendment_promulgate_date": "2020-04-28",
+   "amendment_enforcement_date": "2020-04-28",
+   "amendment_law_id": "502M60000400042",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則及びエネルギー管理講習に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20200401_502M60000400025",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000400025",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20191216_501M60000400049",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000400049",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20190415_431M60000400046",
+   "amendment_promulgate_date": "2019-04-12",
+   "amendment_enforcement_date": "2019-04-15",
+   "amendment_law_id": "431M60000400046",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20190401_431M60000400020",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000400020",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則及びエネルギー管理講習に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20181201_430M60000400067",
+   "amendment_promulgate_date": "2018-11-29",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_law_id": "430M60000400067",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年経済産業省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20180401_430M60000400016",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000400016",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年経済産業省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20170401_429M60000400034",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000400034",
+   "amendment_law_num": "平成二十九年経済産業省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "354M50000400074_20170401_429M60000400029",
+   "amendment_promulgate_date": "2017-03-30",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000400029",
+   "amendment_law_num": "平成二十九年経済産業省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令で使用する用語は、エネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律（昭和五十四年法律第四十九号。以下「法」という。）及びエネルギーの使用の合理化及び非化石エネルギーへの転換等に関する法律施行令（昭和五十四年政令第二百六十七号。以下「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1979-09-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-09T15:10:18+09:00"
+ }
+}

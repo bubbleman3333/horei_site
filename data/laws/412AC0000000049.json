@@ -1,0 +1,261 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "412AC0000000049",
+  "law_num": "平成十二年法律第四十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "Act",
+  "law_num_num": "049",
+  "promulgation_date": "2000-04-26"
+ },
+ "revision_info": {
+  "law_revision_id": "412AC0000000049_20260521_504AC0000000048",
+  "law_type": "Act",
+  "law_title": "弁理士法",
+  "law_title_kana": "べんりしほう",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-21T02:10:14+09:00",
+  "amendment_promulgate_date": "2022-05-25",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000048",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412AC0000000049_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20260401_505AC0000000033",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "505AC0000000033",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20240401_505AC0000000051",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000051",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20230401_504AC0000000004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20221101_502AC0000000033",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "502AC0000000033",
+   "amendment_law_title": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20220401_504AC0000000004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20220401_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20210521_503AC0000000042",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-05-21",
+   "amendment_law_id": "503AC0000000042",
+   "amendment_law_title": "特許法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20191214_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20190701_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20180530_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-05-30",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000049_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　弁理士試験等",
+  "第二章の二　実務修習",
+  "第三章　登録",
+  "第四章　弁理士の義務",
+  "第五章　弁理士の責任",
+  "第六章　弁理士法人",
+  "第七章　日本弁理士会",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（弁理士の使命）",
+  "title": "第一条",
+  "paragraphs": [
+   "弁理士は、知的財産（知的財産基本法（平成十四年法律第百二十二号）第二条第一項に規定する知的財産をいう。以下この条において同じ。）に関する専門家として、知的財産権（同条第二項に規定する知的財産権をいう。）の適正な保護及び利用の促進その他の知的財産に係る制度の適正な運用に寄与し、もって経済及び産業の発展に資することを使命とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-04-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:10:14+09:00"
+ }
+}

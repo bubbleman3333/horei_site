@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "360M50400000003",
+  "law_num": "昭和六十年国家公安委員会規則第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 60,
+  "law_num_type": "Rule",
+  "law_num_num": "003",
+  "promulgation_date": "1985-01-11"
+ },
+ "revision_info": {
+  "law_revision_id": "360M50400000003_20251128_507M60400000018",
+  "law_type": "Rule",
+  "law_title": "風俗環境浄化協会等に関する規則",
+  "law_title_kana": "ふうぞくかんきょうじょうかきょうかいとうにかんするきそく",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2025-11-28T00:48:39+09:00",
+  "amendment_promulgate_date": "2025-10-17",
+  "amendment_enforcement_date": "2025-11-28",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60400000018",
+  "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律施行規則等の一部を改正する規則",
+  "amendment_law_num": "令和七年国家公安委員会規則第十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "360M50400000003_20251128_507M60400000018",
+   "amendment_promulgate_date": "2025-10-17",
+   "amendment_enforcement_date": "2025-11-28",
+   "amendment_law_id": "507M60400000018",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "360M50400000003_20191214_501M60400000008",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60400000008",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50400000003_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50400000003_20150624_427M60400000013",
+   "amendment_promulgate_date": "2015-06-24",
+   "amendment_enforcement_date": "2015-06-24",
+   "amendment_law_id": "427M60400000013",
+   "amendment_law_num": "平成二十七年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（都道府県風俗環境浄化協会の指定の申請の手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "風俗営業等の規制及び業務の適正化等に関する法律（以下「法」という。）第三十九条第一項の規定により都道府県風俗環境浄化協会（以下「都道府県協会」という。）の指定を受けようとする法人は、次に掲げる事項を記載した申請書を都道府県公安委員会（以下「公安委員会」という。）に提出しなければならない。",
+   "前項の申請書には、次に掲げる書類を添付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1985-01-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-28T00:48:39+09:00"
+ }
+}

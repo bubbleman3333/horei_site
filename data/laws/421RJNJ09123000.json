@@ -1,0 +1,264 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "421RJNJ09123000",
+  "law_num": "平成二十一年人事院規則九―一二三",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "Rule",
+  "law_num_num": "9_123_0",
+  "promulgation_date": "2009-02-02"
+ },
+ "revision_info": {
+  "law_revision_id": "421RJNJ09123000_20260807_508RJNJ09123047",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―一二三（本府省業務調整手当）",
+  "law_title_kana": "じんじいんきそくきゅうのひゃくにじゅうさんほんふしょうぎょうむちょうせいてあて",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-08-25T10:12:27+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ09123047",
+  "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―一二三―四七",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421RJNJ09123000_20260807_508RJNJ09123047",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508RJNJ09123047",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―一二三―四七",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20260401_508RJNJ09123046",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09123046",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―一二三―四六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20251224_507RJNJ09123045",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507RJNJ09123045",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―一二三―四五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20250401_507RJNJ09123044",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09123044",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―一二三―四四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20240401_506RJNJ09123043",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506RJNJ09123043",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則九―一二三―四三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20231001_505RJNJ09123042",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505RJNJ09123042",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―一二三―四二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20230401_505RJNJ09123041",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ09123041",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―一二三―四一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20230401_504RJNJ01079000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ01079000",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律の施行に伴う関係人事院規則の整備等に関する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一―七九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20220401_504RJNJ09123040",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504RJNJ09123040",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則九―一二三―四〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20210901_503RJNJ01077000",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503RJNJ01077000",
+   "amendment_law_title": "人事院規則一―七七（デジタル庁設置法の施行に伴う関係人事院規則の整備等に関する人事院規則）",
+   "amendment_law_num": "令和三年人事院規則一―七七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20210401_503RJNJ09123039",
+   "amendment_promulgate_date": "2021-04-01",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503RJNJ09123039",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―一二三―三九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20201001_502RJNJ09123038",
+   "amendment_promulgate_date": "2020-10-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502RJNJ09123038",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―一二三―三八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20200401_502RJNJ09123037",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502RJNJ09123037",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―一二三―三七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20200107_502RJNJ09123036",
+   "amendment_promulgate_date": "2020-01-07",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_law_id": "502RJNJ09123036",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―一二三―三六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20190401_431RJNJ09123035",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431RJNJ09123035",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十一年人事院規則九―一二三―三五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20180401_430RJNJ09123034",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RJNJ09123034",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則九―一二三―三四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20180401_430RJNJ09123033",
+   "amendment_promulgate_date": "2018-02-01",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RJNJ09123033",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則九―一二三―三三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20171215_429RJNJ09123032",
+   "amendment_promulgate_date": "2017-12-15",
+   "amendment_enforcement_date": "2017-12-15",
+   "amendment_law_id": "429RJNJ09123032",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―一二三―三二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20170701_429RJNJ09123031",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_law_id": "429RJNJ09123031",
+   "amendment_law_num": "平成二十九年人事院規則九―一二三―三一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20170531_429RJNJ09123030",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-05-31",
+   "amendment_law_id": "429RJNJ09123030",
+   "amendment_law_num": "平成二十九年人事院規則九―一二三―三〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20170401_429RJNJ09123029",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429RJNJ09123029",
+   "amendment_law_num": "平成二十九年人事院規則九―一二三―二九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421RJNJ09123000_20170401_428RJNJ09123028",
+   "amendment_promulgate_date": "2016-11-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428RJNJ09123028",
+   "amendment_law_num": "平成二十八年人事院規則九―一二三―二八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "本府省業務調整手当の支給については、別に定める場合を除き、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-02-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-25T10:12:27+09:00"
+ }
+}

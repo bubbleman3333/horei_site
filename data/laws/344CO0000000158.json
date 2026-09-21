@@ -1,0 +1,215 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "344CO0000000158",
+  "law_num": "昭和四十四年政令第百五十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 44,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "158",
+  "promulgation_date": "1969-06-13"
+ },
+ "revision_info": {
+  "law_revision_id": "344CO0000000158_20260401_508CO0000000066",
+  "law_type": "CabinetOrder",
+  "law_title": "都市計画法施行令",
+  "law_title_kana": "としけいかくほうしこうれい",
+  "abbrev": "都計法施行令",
+  "category": "都市計画",
+  "updated": "2026-04-14T09:40:22+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000066",
+  "amendment_law_title": "医療法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "344CO0000000158_20260401_508CO0000000066",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000066",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20250701_507CO0000000205",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000205",
+   "amendment_law_title": "都市計画法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20240401_505CO0000000280",
+   "amendment_promulgate_date": "2023-09-13",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000280",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第二百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20240401_505CO0000000241",
+   "amendment_promulgate_date": "2023-07-14",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000241",
+   "amendment_law_title": "特定先端大型研究施設の共用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和五年政令第二百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20220401_504CO0000000037",
+   "amendment_promulgate_date": "2022-02-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000037",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20220401_503CO0000000325",
+   "amendment_promulgate_date": "2021-12-08",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000325",
+   "amendment_law_title": "道路法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第三百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20220401_503CO0000000297",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000297",
+   "amendment_law_title": "都市計画法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20220401_502CO0000000337",
+   "amendment_promulgate_date": "2020-11-27",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000337",
+   "amendment_law_title": "都市再生特別措置法施行令及び都市計画法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20210715_503CO0000000205",
+   "amendment_promulgate_date": "2021-07-14",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_law_id": "503CO0000000205",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20200907_502CO0000000268",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502CO0000000268",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20200621_430CO0000000293",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2020-06-21",
+   "amendment_law_id": "430CO0000000293",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20181116_430CO0000000311",
+   "amendment_promulgate_date": "2018-11-09",
+   "amendment_enforcement_date": "2018-11-16",
+   "amendment_law_id": "430CO0000000311",
+   "amendment_law_title": "農業経営基盤強化促進法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第三百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20181115_429CO0000000280",
+   "amendment_promulgate_date": "2017-11-15",
+   "amendment_enforcement_date": "2018-11-15",
+   "amendment_law_id": "429CO0000000280",
+   "amendment_law_title": "人工衛星等の打上げ及び人工衛星の管理に関する法律施行令",
+   "amendment_law_num": "平成二十九年政令第二百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20180401_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344CO0000000158_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　都市計画",
+  "第三章　都市計画制限等",
+  "第四章　都市計画事業",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（特定工作物）",
+  "title": "第一条",
+  "paragraphs": [
+   "都市計画法（以下「法」という。）第四条第十一項の周辺の地域の環境の悪化をもたらすおそれがある工作物で政令で定めるものは、次に掲げるものとする。",
+   "法第四条第十一項の大規模な工作物で政令で定めるものは、次に掲げるもので、その規模が一ヘクタール以上のものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1969-06-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:40:22+09:00"
+ }
+}

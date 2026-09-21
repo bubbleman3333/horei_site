@@ -1,0 +1,185 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "426AC0000000059",
+  "law_num": "平成二十六年法律第五十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "Act",
+  "law_num_num": "059",
+  "promulgation_date": "2014-06-11"
+ },
+ "revision_info": {
+  "law_revision_id": "426AC0000000059_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "少年鑑別所法",
+  "law_title_kana": "しょうねんかんべつしょほう",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-07-02T13:04:28+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426AC0000000059_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20260521_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20250722_507AC0000000026",
+   "amendment_promulgate_date": "2025-04-23",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507AC0000000026",
+   "amendment_law_title": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
+   "amendment_law_num": "令和七年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20250601_504AC0000000067",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000067",
+   "amendment_law_title": "刑法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20250515_505AC0000000028",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2025-05-15",
+   "amendment_law_id": "505AC0000000028",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20231201_504AC0000000067",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "504AC0000000067",
+   "amendment_law_title": "刑法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20230606_505AC0000000028",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2023-06-06",
+   "amendment_law_id": "505AC0000000028",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20221101_502AC0000000033",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "502AC0000000033",
+   "amendment_law_title": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20220401_503AC0000000047",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000047",
+   "amendment_law_title": "少年法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426AC0000000059_20150701_000000000000000",
+   "amendment_promulgate_date": "2014-06-11",
+   "amendment_enforcement_date": "2015-07-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　鑑別対象者の鑑別",
+  "第三章　在所者の観護処遇",
+  "第四章　非行及び犯罪の防止に関する援助",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、少年鑑別所の適正な管理運営を図るとともに、鑑別対象者の鑑別を適切に行うほか、在所者の人権を尊重しつつ、その者の状況に応じた適切な観護処遇を行い、並びに非行及び犯罪の防止に関する援助を適切に行うことを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-06-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-02T13:04:28+09:00"
+ }
+}

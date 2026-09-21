@@ -1,0 +1,228 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "409M50000002053",
+  "law_num": "平成九年総理府令第五十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "053",
+  "promulgation_date": "1997-09-29"
+ },
+ "revision_info": {
+  "law_revision_id": "409M50000002053_20260902_508M60001000024",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "南極地域の環境の保護に関する法律施行規則",
+  "law_title_kana": "なんきょくちいきのかんきょうのほごにかんするほうりつしこうきそく",
+  "abbrev": "南極保護法施行規則,南極環境保護法施行規則",
+  "category": "環境保全",
+  "updated": "2026-09-16T09:52:25+09:00",
+  "amendment_promulgate_date": "2026-09-02",
+  "amendment_enforcement_date": "2026-09-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000024",
+  "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年環境省令第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409M50000002053_21171231_508M60001000024",
+   "amendment_promulgate_date": "2026-09-02",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "南極地域の環境の保護に関する法律の一部を改正する法律の施行の日（環境保護に関する南極条約議定書附属書ＶＩが日本国について効力を生ずる日から起算して一月を経過した日）",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "508M60001000024",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20260902_508M60001000024",
+   "amendment_promulgate_date": "2026-09-02",
+   "amendment_enforcement_date": "2026-09-02",
+   "amendment_law_id": "508M60001000024",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20260630_508M60001000018",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-06-30",
+   "amendment_law_id": "508M60001000018",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20251128_507M60001000023",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2025-11-28",
+   "amendment_law_id": "507M60001000023",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年環境省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20241025_506M60001000025",
+   "amendment_promulgate_date": "2024-10-25",
+   "amendment_enforcement_date": "2024-10-25",
+   "amendment_law_id": "506M60001000025",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年環境省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20240401_506M60001000017",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60001000017",
+   "amendment_law_title": "環境省の所管する法律の規定に基づく立入検査等をする国の職員の携帯する身分を示す証明書の様式を定める省令",
+   "amendment_law_num": "令和六年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20231109_505M60001000015",
+   "amendment_promulgate_date": "2023-11-09",
+   "amendment_enforcement_date": "2023-11-09",
+   "amendment_law_id": "505M60001000015",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年環境省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20221031_504M60001000025",
+   "amendment_promulgate_date": "2022-10-19",
+   "amendment_enforcement_date": "2022-10-31",
+   "amendment_law_id": "504M60001000025",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年環境省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20210922_503M60001000014",
+   "amendment_promulgate_date": "2021-09-22",
+   "amendment_enforcement_date": "2021-09-22",
+   "amendment_law_id": "503M60001000014",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年環境省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20201201_502M60001000029",
+   "amendment_promulgate_date": "2020-12-01",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60001000029",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20200701_502M60001000017",
+   "amendment_promulgate_date": "2020-06-29",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502M60001000017",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20200330_502M60001000009",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60001000009",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和二年環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20191009_501M60001000009",
+   "amendment_promulgate_date": "2019-10-07",
+   "amendment_enforcement_date": "2019-10-09",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60001000009",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20190901_501M60001000004",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2019-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60001000004",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年環境省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20180810_430M60001000015",
+   "amendment_promulgate_date": "2018-08-09",
+   "amendment_enforcement_date": "2018-08-10",
+   "amendment_law_id": "430M60001000015",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20170831_429M60001000020",
+   "amendment_promulgate_date": "2017-08-24",
+   "amendment_enforcement_date": "2017-08-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60001000020",
+   "amendment_law_title": "南極地域の環境の保護に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年環境省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000002053_20160830_428M60001000021",
+   "amendment_promulgate_date": "2016-08-22",
+   "amendment_enforcement_date": "2016-08-30",
+   "amendment_law_id": "428M60001000021",
+   "amendment_law_num": "平成二十八年環境省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　南極地域活動計画の確認",
+  "第三章　南極地域における行為の制限",
+  "第四章　削除",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（南極特別保護地区）",
+  "title": "第一条",
+  "paragraphs": [
+   "南極地域の環境の保護に関する法律（以下「法」という。）第三条第五号の環境省令で定める南極特別保護地区は、別記のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-09-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-16T09:52:25+09:00"
+ }
+}

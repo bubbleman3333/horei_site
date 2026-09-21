@@ -1,0 +1,137 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "431CO0000000148",
+  "law_num": "平成三十一年政令第百四十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 31,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "148",
+  "promulgation_date": "2019-04-05"
+ },
+ "revision_info": {
+  "law_revision_id": "431CO0000000148_20251112_507CO0000000372",
+  "law_type": "CabinetOrder",
+  "law_title": "シナイ半島国際平和協力隊の設置等に関する政令",
+  "law_title_kana": "しないはんとうこくさいへいわきょうりょくたいのせっちとうにかんするせいれい",
+  "abbrev": null,
+  "category": "外事",
+  "updated": "2025-11-19T09:49:42+09:00",
+  "amendment_promulgate_date": "2025-11-12",
+  "amendment_enforcement_date": "2025-11-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000372",
+  "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百七十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "431CO0000000148_20251112_507CO0000000372",
+   "amendment_promulgate_date": "2025-11-12",
+   "amendment_enforcement_date": "2025-11-12",
+   "amendment_law_id": "507CO0000000372",
+   "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000148_20241108_506CO0000000344",
+   "amendment_promulgate_date": "2024-11-08",
+   "amendment_enforcement_date": "2024-11-08",
+   "amendment_law_id": "506CO0000000344",
+   "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000148_20231110_505CO0000000326",
+   "amendment_promulgate_date": "2023-11-10",
+   "amendment_enforcement_date": "2023-11-10",
+   "amendment_law_id": "505CO0000000326",
+   "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000148_20230517_505CO0000000182",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2023-05-17",
+   "amendment_law_id": "505CO0000000182",
+   "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000148_20221107_504CO0000000344",
+   "amendment_promulgate_date": "2022-11-07",
+   "amendment_enforcement_date": "2022-11-07",
+   "amendment_law_id": "504CO0000000344",
+   "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000148_20211119_503CO0000000311",
+   "amendment_promulgate_date": "2021-11-19",
+   "amendment_enforcement_date": "2021-11-19",
+   "amendment_law_id": "503CO0000000311",
+   "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000148_20201113_502CO0000000324",
+   "amendment_promulgate_date": "2020-11-13",
+   "amendment_enforcement_date": "2020-11-13",
+   "amendment_law_id": "502CO0000000324",
+   "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000148_20191115_501CO0000000163",
+   "amendment_promulgate_date": "2019-11-15",
+   "amendment_enforcement_date": "2019-11-15",
+   "amendment_law_id": "501CO0000000163",
+   "amendment_law_title": "シナイ半島国際平和協力隊の設置等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000148_20190405_000000000000000",
+   "amendment_promulgate_date": "2019-04-05",
+   "amendment_enforcement_date": "2019-04-05",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（国際平和協力隊の設置）",
+  "title": "第一条",
+  "paragraphs": [
+   "国際平和協力本部に、シナイ半島における国際連携平和安全活動のため、次に掲げる業務及び事務を行う組織として、令和八年十一月三十日までの間、シナイ半島国際平和協力隊（以下「協力隊」という。）を置く。",
+   "国際平和協力本部長は、協力隊の隊員のうち一人を隊長として指名し、国際平和協力本部長の定めるところにより隊務を掌理させる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-04-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-19T09:49:42+09:00"
+ }
+}

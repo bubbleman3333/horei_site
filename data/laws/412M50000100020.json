@@ -1,0 +1,130 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "412M50000100020",
+  "law_num": "平成十二年厚生省令第二十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "020",
+  "promulgation_date": "2000-03-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412M50000100020_20260401_508M60000100054",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "介護給付費及び公費負担医療等に関する費用等の請求に関する命令",
+  "law_title_kana": "かいごきゅうふひおよびこうひふたんいりょうとうにかんするひようとうのせいきゅうにかんするめいれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-06-17T12:49:41+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100054",
+  "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第五十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412M50000100020_20260401_508M60000100054",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100054",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100020_20240401_505M60000102008",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000102008",
+   "amendment_law_title": "療養の給付及び公費負担医療に関する費用の請求に関する命令及び介護給付費及び公費負担医療等に関する費用等の請求に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・厚生労働省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100020_20231130_505M60000102008",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2023-11-30",
+   "amendment_law_id": "505M60000102008",
+   "amendment_law_title": "療養の給付及び公費負担医療に関する費用の請求に関する命令及び介護給付費及び公費負担医療等に関する費用等の請求に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・厚生労働省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100020_20230401_505M60000100048",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000100048",
+   "amendment_law_title": "こども家庭庁設置法等の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100020_20210401_503M60000100075",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100075",
+   "amendment_law_title": "介護給付費及び公費負担医療等に関する費用等の請求に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100020_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100020_20180401_430M60000100030",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000100030",
+   "amendment_law_title": "介護保険法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "平成三十年厚生労働省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000100020_20150401_427M60000100057",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60000100057",
+   "amendment_law_num": "平成二十七年厚生労働省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において「介護給付費」とは、介護保険法（平成九年法律第百二十三号。以下「法」という。）に規定する居宅介護サービス費、地域密着型介護サービス費、居宅介護サービス計画費、施設介護サービス費、特定入所者介護サービス費、介護予防サービス費、地域密着型介護予防サービス費、介護予防サービス計画費及び特定入居者介護予防サービス費をいう。",
+   "この省令において「公費負担医療等」とは、次に掲げる給付とする。",
+   "この省令において「審査支払機関」とは、市町村（特別区を含み、法第四十一条第十項（法第四十二条の二第九項法第四十六条第七項、法第四十八条第七項、法第五十一条の三第八項、法第五十三条第七項、法第五十四条の二第九項、法第五十八条第七項及び法第六十一条の三第八項において準用する場合を含む。）、法第百十五条の四十五の三第六項又は法第百十五条の四十七第六項の規定により審査及び支払に関する事務を国民健康保険法（昭和三十三年法律第百九十二号）第四十五条第五項に規定する国民健康保険団体連合会に委託している場合にあっては、当該国民健康保険団体連合会とする。）をいう。",
+   "この省令において「電子情報処理組織」とは、審査支払機関の使用に係る電子計算機（入出力装置を含む。以下同じ。）と、介護給付費、第一号事業支給費（法第百十五条の四十五の三第二項に規定する第一号事業支給費をいう。以下同じ。）若しくは公費負担医療等に関する費用（以下「介護給付費等」という。）又は法第百十五条の四十五第一項に規定する介護予防・日常生活支援総合事業（以下「総合事業」という。）の実施に必要な費用（第一号事業支給費に係るものを除く。以下「総合事業費」という。）の請求をしようとする指定居宅サービス事業者（法第四十一条第一項に規定する指定居宅サービス事業者をいう。以下同じ。）、指定地域密着型サービス事業者（法第四十二条の二第一項に規定する指定地域密着型サービス事業者をいう。以下同じ。）、指定居宅介護支援事業者（法第四十六条第一項に規定する指定居宅介護支援事業者をいう。以下同じ。）、介護保険施設、指定介護予防サービス事業者（法第五十三条第一項に規定する指定介護予防サービス事業者をいう。以下同じ。）、指定地域密着型介護予防サービス事業者（法第五十四条の二第一項に規定する指定地域密着型介護予防サービス事業者をいう。以下同じ。）若しくは指定介護予防支援事業者（法第五十八条第一項に規定する指定介護予防支援事業者をいう。以下同じ。）（以下「指定居宅サービス事業者等」という。）又は指定事業者（法第百十五条の四十五の三第一項に規定する指定事業者をいう。以下同じ。）若しくは総合事業受託者（法第百十五条の四十七第一項又は第四項の規定により市町村長から総合事業の実施の委託を受けた者をいう。以下同じ。）の…"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-03-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-17T12:49:41+09:00"
+ }
+}

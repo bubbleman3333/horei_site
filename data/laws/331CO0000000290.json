@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "331CO0000000290",
+  "law_num": "昭和三十一年政令第二百九十号",
+  "law_num_era": "Showa",
+  "law_num_year": 31,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "290",
+  "promulgation_date": "1956-09-11"
+ },
+ "revision_info": {
+  "law_revision_id": "331CO0000000290_20251001_507CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "都市公園法施行令",
+  "law_title_kana": "としこうえんほうしこうれい",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2025-10-01T03:20:44+09:00",
+  "amendment_promulgate_date": "2025-03-26",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000085",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "331CO0000000290_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000290_20241108_506CO0000000339",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-08",
+   "amendment_law_id": "506CO0000000339",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000290_20240401_506CO0000000161",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000161",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000290_20200907_502CO0000000268",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502CO0000000268",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000290_20180401_430CO0000000054",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000054",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律及び児童福祉法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000290_20180401_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000290_20170615_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331CO0000000290_20170115_428CO0000000393",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-01-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000393",
+   "amendment_law_title": "都市公園法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　都市公園の設置",
+  "第二章　都市公園の管理",
+  "第三章　工作物等の保管の手続等",
+  "第四章　都市公園に関する費用",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（都市公園の配置及び規模に関する技術的基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "都市公園法（以下「法」という。）第三条第一項の政令で定める技術的基準は、次条及び第二条に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1956-09-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T03:20:44+09:00"
+ }
+}

@@ -1,0 +1,143 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "409M50001000091",
+  "law_num": "平成九年郵政省令第九十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "091",
+  "promulgation_date": "1997-12-19"
+ },
+ "revision_info": {
+  "law_revision_id": "409M50001000091_20260401_508M60000008003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "第一種指定電気通信設備接続会計規則",
+  "law_title_kana": "だいいっしゅしていでんきつうしんせつびせつぞくかいけいきそく",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-04-02T00:08:31+09:00",
+  "amendment_promulgate_date": "2026-01-15",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008003",
+  "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409M50001000091_20260401_508M60000008003",
+   "amendment_promulgate_date": "2026-01-15",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008003",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409M50001000091_20250101_506M60000008110",
+   "amendment_promulgate_date": "2024-12-16",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000008110",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50001000091_20240307_506M60000008014",
+   "amendment_promulgate_date": "2024-03-07",
+   "amendment_enforcement_date": "2024-03-07",
+   "amendment_law_id": "506M60000008014",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50001000091_20231227_505M60000008099",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000008099",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50001000091_20230616_505M60000008002",
+   "amendment_promulgate_date": "2023-01-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505M60000008002",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50001000091_20210401_503M60000008001",
+   "amendment_promulgate_date": "2021-01-14",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000008001",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50001000091_20201201_502M60000008103",
+   "amendment_promulgate_date": "2020-11-19",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000008103",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50001000091_20180401_430M60000008006",
+   "amendment_promulgate_date": "2018-02-26",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000008006",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年総務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50001000091_20160523_428M60000008058",
+   "amendment_promulgate_date": "2016-05-23",
+   "amendment_enforcement_date": "2016-05-23",
+   "amendment_law_id": "428M60000008058",
+   "amendment_law_num": "平成二十八年総務省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　資産並びに費用及び収益",
+  "第三章　接続会計報告書等の公表等"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、第一種指定電気通信設備との接続に関する会計の整理の方法を定めるとともに、当該接続に関する収支の状況等を明らかにし、もって接続料の適正な算定に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-12-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T00:08:31+09:00"
+ }
+}

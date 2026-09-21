@@ -1,0 +1,62 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "508AC0000000070",
+  "law_num": "令和八年法律第七十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Act",
+  "law_num_num": "070",
+  "promulgation_date": "2026-07-24"
+ },
+ "revision_info": {
+  "law_revision_id": "508AC0000000070_20260724_000000000000000",
+  "law_type": "Act",
+  "law_title": "ヒトゲノム編集胚等の取扱いの規制に関する法律",
+  "law_title_kana": "ひとげのむへんしゅうはいとうのとりあつかいのきせいにかんするほうりつ",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-07-24T14:23:32+09:00",
+  "amendment_promulgate_date": "2026-07-24",
+  "amendment_enforcement_date": "2026-07-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508AC0000000070_20270724_000000000000000",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2027-07-24",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "508AC0000000070_20260724_000000000000000",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2026-07-24",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、ヒト<Ruby>胚<Rt>はい</Rt></Ruby>又はヒト生殖細胞に対してゲノム編集技術等を用いることが予測し得ない遺伝子改変をもたらす可能性があり、これにより、ヒト胚及び人の発育に重大な影響を及ぼすおそれがあること並びに当該遺伝子改変の影響が将来の世代にわたって個人や社会に重大な影響を及ぼすおそれがあることに鑑み、ヒトゲノム編集胚等を人又は動物の胎内に移植することを禁止するとともに、ヒトゲノム編集胚等の作成、譲受け及び輸入並びに使用を規制し、その他ヒトゲノム編集胚等の適正な取扱いを確保するための措置を講ずることにより、人の生命及び身体の安全の確保を図り、併せて科学技術の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-07-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-24T14:23:32+09:00"
+ }
+}

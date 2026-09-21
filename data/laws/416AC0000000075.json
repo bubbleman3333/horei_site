@@ -1,0 +1,315 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "416AC0000000075",
+  "law_num": "平成十六年法律第七十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "Act",
+  "law_num_num": "075",
+  "promulgation_date": "2004-06-02"
+ },
+ "revision_info": {
+  "law_revision_id": "416AC0000000075_20260521_505AC0000000053",
+  "law_type": "Act",
+  "law_title": "破産法",
+  "law_title_kana": "はさんほう",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-05-21T02:29:55+09:00",
+  "amendment_promulgate_date": "2023-06-14",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000053",
+  "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和五年法律第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416AC0000000075_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20260521_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20260401_506AC0000000033",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000033",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20241118_506AC0000000038",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_law_id": "506AC0000000038",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+   "amendment_law_num": "令和六年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20240524_506AC0000000038",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506AC0000000038",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+   "amendment_law_num": "令和六年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20240524_506AC0000000033",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506AC0000000033",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20240401_505AC0000000034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000034",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20240301_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20230401_503AC0000000024",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000024",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20210428_503AC0000000024",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2021-04-28",
+   "amendment_law_id": "503AC0000000024",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20210301_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20201001_501AC0000000018",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501AC0000000018",
+   "amendment_law_title": "船舶油濁損害賠償保障法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20200401_501AC0000000031",
+   "amendment_promulgate_date": "2019-06-12",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000031",
+   "amendment_law_title": "国有林野の管理経営に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20200401_501AC0000000002",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000002",
+   "amendment_law_title": "民事執行法及び国際的な子の奪取の民事上の側面に関する条約の実施に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20191211_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20190517_501AC0000000002",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2019-05-17",
+   "amendment_law_id": "501AC0000000002",
+   "amendment_law_title": "民事執行法及び国際的な子の奪取の民事上の側面に関する条約の実施に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000075_20141201_425AC0000000045",
+   "amendment_promulgate_date": "2013-06-19",
+   "amendment_enforcement_date": "2014-12-01",
+   "amendment_law_id": "425AC0000000045",
+   "amendment_law_num": "平成二十五年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　破産手続の開始",
+  "第三章　破産手続の機関",
+  "第四章　破産債権",
+  "第五章　財団債権",
+  "第六章　破産財団の管理",
+  "第七章　破産財団の換価",
+  "第八章　配当",
+  "第九章　破産手続の終了",
+  "第十章　相続財産の破産等に関する特則",
+  "第十章の二　信託財産の破産に関する特則",
+  "第十一章　外国倒産処理手続がある場合の特則",
+  "第十二章　免責手続及び復権",
+  "第十三章　雑則",
+  "第十四章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、支払不能又は債務超過にある債務者の財産等の清算に関する手続を定めること等により、債権者その他の利害関係人の利害及び債務者と債権者との間の権利関係を適切に調整し、もって債務者の財産等の適正かつ公平な清算を図るとともに、債務者について経済生活の再生の機会の確保を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-06-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:29:55+09:00"
+ }
+}

@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "415M600017C0001",
+  "law_num": "平成十五年財務省・文部科学省・厚生労働省・農林水産省・経済産業省・環境省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2003-11-21"
+ },
+ "revision_info": {
+  "law_revision_id": "415M600017C0001_20260701_508M600017C0001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律施行規則",
+  "law_title_kana": "いでんしくみかえせいぶつとうのしようとうのきせいによるせいぶつのたようせいのかくほにかんするほうりつしこうきそく",
+  "abbrev": "カルタヘナ議定書担保法施行規則,カルタヘナ担保法施行規則,カルタヘナ法施行規則",
+  "category": "産業通則",
+  "updated": "2026-07-13T10:11:17+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M600017C0001",
+  "amendment_law_title": "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省・文部科学省・厚生労働省・農林水産省・経済産業省・環境省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415M600017C0001_20260701_508M600017C0001",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M600017C0001",
+   "amendment_law_title": "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省・文部科学省・厚生労働省・農林水産省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415M600017C0001_20220624_504M600017C0001",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-06-24",
+   "amendment_law_id": "504M600017C0001",
+   "amendment_law_title": "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省・文部科学省・厚生労働省・農林水産省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M600017C0001_20190701_501M600017C0001",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M600017C0001",
+   "amendment_law_title": "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省・文部科学省・厚生労働省・農林水産省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M600017C0001_20190628_501M600017C0001",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-06-28",
+   "amendment_law_id": "501M600017C0001",
+   "amendment_law_title": "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省・文部科学省・厚生労働省・農林水産省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M600017C0001_20180305_429M600017C0001",
+   "amendment_promulgate_date": "2017-12-01",
+   "amendment_enforcement_date": "2018-03-05",
+   "amendment_law_id": "429M600017C0001",
+   "amendment_law_title": "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省・文部科学省・厚生労働省・農林水産省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M600017C0001_20070420_419M600017C0001",
+   "amendment_promulgate_date": "2007-04-20",
+   "amendment_enforcement_date": "2007-04-20",
+   "amendment_law_id": "419M600017C0001",
+   "amendment_law_num": "平成十九年財務省・文部科学省・厚生労働省・農林水産省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（生物の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "遺伝子組換え生物等の使用等の規制による生物の多様性の確保に関する法律（以下「法」という。）第二条第一項の主務省令で定める一の細胞（細胞群を構成しているものを除く。）又は細胞群（以下「細胞等」という。）は、次に掲げるもの以外のものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-11-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-13T10:11:17+09:00"
+ }
+}

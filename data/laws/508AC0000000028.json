@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "508AC0000000028",
+  "law_num": "令和八年法律第二十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Act",
+  "law_num_num": "028",
+  "promulgation_date": "2026-06-03"
+ },
+ "revision_info": {
+  "law_revision_id": "508AC0000000028_20260731_000000000000000",
+  "law_type": "Act",
+  "law_title": "国家情報会議設置法",
+  "law_title_kana": "こっかじょうほうかいぎせっちほう",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-07-31T00:01:23+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508AC0000000028_20260731_000000000000000",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、国家情報会議の設置及び所掌事務等について定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-31T00:01:23+09:00"
+ }
+}

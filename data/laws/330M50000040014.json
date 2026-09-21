@@ -1,0 +1,172 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "330M50000040014",
+  "law_num": "昭和三十年大蔵省令第十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "1955-04-14"
+ },
+ "revision_info": {
+  "law_revision_id": "330M50000040014_20260401_508M60000040001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "歳入歳出外の国庫内移換に関する規則",
+  "law_title_kana": "さいにゅうさいしゅつそとのこっこないいかんにかんするきそく",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-02-19T09:13:47+09:00",
+  "amendment_promulgate_date": "2026-02-02",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040001",
+  "amendment_law_title": "歳入歳出外の国庫内移換に関する規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "330M50000040014_20260401_508M60000040005",
+   "amendment_promulgate_date": "2026-03-06",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040005",
+   "amendment_law_title": "歳入歳出外の国庫内移換に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20260401_508M60000040001",
+   "amendment_promulgate_date": "2026-02-02",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040001",
+   "amendment_law_title": "歳入歳出外の国庫内移換に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20260401_507M60000040016",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000040016",
+   "amendment_law_title": "歳入歳出外の国庫内移換に関する規則及び防衛力強化資金事務取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20250401_507M60000040004",
+   "amendment_promulgate_date": "2025-02-21",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040004",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う財務省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20230802_505M60000040050",
+   "amendment_promulgate_date": "2023-08-02",
+   "amendment_enforcement_date": "2023-08-02",
+   "amendment_law_id": "505M60000040050",
+   "amendment_law_title": "防衛力強化資金事務取扱規則",
+   "amendment_law_num": "令和五年財務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20230401_505M60000040008",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000040008",
+   "amendment_law_title": "歳入歳出外の国庫内移換に関する規則及び債権管理事務取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20210101_502M60000040073",
+   "amendment_promulgate_date": "2020-12-04",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040073",
+   "amendment_law_title": "証券ヲ以テスル歳入納付ニ関スル法律施行細則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20200401_502M60000040031",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040031",
+   "amendment_law_title": "支出負担行為等取扱規則及び歳入歳出外の国庫内移換に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20190701_501M60000040011",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040011",
+   "amendment_law_title": "日本銀行国庫金取扱規程等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20190701_501M60000040005",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040005",
+   "amendment_law_title": "政府カ第三債務者トシテ差押ヘラレタル債務額ノ仕払停止仕払執行及供託ニ関スル手続等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20180401_430M60000040008",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040008",
+   "amendment_law_title": "歳入歳出外の国庫内移換に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000040014_20160215_428M60000040004",
+   "amendment_promulgate_date": "2016-02-15",
+   "amendment_enforcement_date": "2016-02-15",
+   "amendment_law_id": "428M60000040004",
+   "amendment_law_num": "平成二十八年財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（総則）",
+  "title": "第一条",
+  "paragraphs": [
+   "各省各庁の長（財政法（昭和二十二年法律第三十四号）第二十条第二項に規定する各省各庁の長をいう。以下同じ。）又はその委任を受けた職員が会計法（昭和二十二年法律第三十五号）第四十九条の規定により歳出金の支出によらない国庫金の払出をする場合における国庫内の移換に関する事務の取扱については、別に定める場合を除くほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1955-04-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-02-19T09:13:47+09:00"
+ }
+}

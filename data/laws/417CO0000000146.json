@@ -1,0 +1,448 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "417CO0000000146",
+  "law_num": "平成十七年政令第百四十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "146",
+  "promulgation_date": "2005-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "417CO0000000146_20260601_508CO0000000005",
+  "law_type": "CabinetOrder",
+  "law_title": "公益通報者保護法別表第八号の法律を定める政令",
+  "law_title_kana": "こうえきつうほうしゃほごほうべっぴょうだいはちごうのほうりつをさだめるせいれい",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-06-01T01:40:42+09:00",
+  "amendment_promulgate_date": "2026-01-23",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000005",
+  "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417CO0000000146_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20261211_508CO0000000191",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508CO0000000191",
+   "amendment_law_title": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20261001_508CO0000000184",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000184",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20260601_508CO0000000005",
+   "amendment_promulgate_date": "2026-01-23",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000005",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20260525_508CO0000000005",
+   "amendment_promulgate_date": "2026-01-23",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "508CO0000000005",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20260401_507CO0000000409",
+   "amendment_promulgate_date": "2025-12-10",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000409",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20260401_507CO0000000388",
+   "amendment_promulgate_date": "2025-11-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000388",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20260101_507CO0000000338",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000338",
+   "amendment_law_title": "下請代金支払遅延等防止法及び下請中小企業振興法の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20251218_507CO0000000279",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-12-18",
+   "amendment_law_id": "507CO0000000279",
+   "amendment_law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律第三条第一項の事業の規模を定める政令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20250401_506CO0000000332",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000332",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20250201_506CO0000000332",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2025-02-01",
+   "amendment_law_id": "506CO0000000332",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20241212_506CO0000000283",
+   "amendment_promulgate_date": "2024-09-11",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "506CO0000000283",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20241118_506CO0000000342",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_law_id": "506CO0000000342",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20241101_506CO0000000332",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506CO0000000332",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20241023_506CO0000000315",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2024-10-23",
+   "amendment_law_id": "506CO0000000315",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20240401_506CO0000000060",
+   "amendment_promulgate_date": "2024-03-21",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000060",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20240401_505CO0000000352",
+   "amendment_promulgate_date": "2023-12-08",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000352",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20231201_505CO0000000344",
+   "amendment_promulgate_date": "2023-12-01",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505CO0000000344",
+   "amendment_law_title": "水銀による環境の汚染の防止に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20231001_505CO0000000005",
+   "amendment_promulgate_date": "2023-01-18",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000005",
+   "amendment_law_title": "消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20230713_505CO0000000236",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000236",
+   "amendment_law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20230601_505CO0000000178",
+   "amendment_promulgate_date": "2023-04-28",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000178",
+   "amendment_law_title": "中小事業主が行う事業に従事する者等の労働災害等に係る共済事業に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和五年政令第百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20230526_504CO0000000393",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "504CO0000000393",
+   "amendment_law_title": "宅地造成等規制法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20230401_505CO0000000084",
+   "amendment_promulgate_date": "2023-03-29",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000084",
+   "amendment_law_title": "法人等による寄附の不当な勧誘の防止等に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20221229_504CO0000000399",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2022-12-29",
+   "amendment_law_id": "504CO0000000399",
+   "amendment_law_title": "国際的な不正資金等の移動等に対処するための国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和四年政令第三百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20221201_504CO0000000358",
+   "amendment_promulgate_date": "2022-11-28",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "504CO0000000358",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20221101_504CO0000000335",
+   "amendment_promulgate_date": "2022-10-28",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504CO0000000335",
+   "amendment_law_title": "所有者不明土地の利用の円滑化等に関する特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20221101_504CO0000000042",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504CO0000000042",
+   "amendment_law_title": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20221001_504CO0000000311",
+   "amendment_promulgate_date": "2022-09-20",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000311",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20220712_504CO0000000244",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-12",
+   "amendment_law_id": "504CO0000000244",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20220601_504CO0000000010",
+   "amendment_promulgate_date": "2022-01-04",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504CO0000000010",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20220601_504CO0000000004",
+   "amendment_promulgate_date": "2022-01-04",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504CO0000000004",
+   "amendment_law_title": "消費者被害の防止及びその回復の促進を図るための特定商取引に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20220501_504CO0000000077",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "504CO0000000077",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20220401_504CO0000000077",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000077",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20220401_503CO0000000292",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000292",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する等の政令",
+   "amendment_law_num": "令和三年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20220124_504CO0000000010",
+   "amendment_promulgate_date": "2022-01-04",
+   "amendment_enforcement_date": "2022-01-24",
+   "amendment_law_id": "504CO0000000010",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20211101_503CO0000000162",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000162",
+   "amendment_law_title": "金融商品の販売等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20210719_503CO0000000208",
+   "amendment_promulgate_date": "2021-07-16",
+   "amendment_enforcement_date": "2021-07-19",
+   "amendment_law_id": "503CO0000000208",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20210201_503CO0000000017",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "503CO0000000017",
+   "amendment_law_title": "特定デジタルプラットフォームの透明性及び公正性の向上に関する法律第四条第一項の事業の区分及び規模を定める政令",
+   "amendment_law_num": "令和三年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000146_20201215_502CO0000000334",
+   "amendment_promulgate_date": "2020-11-26",
+   "amendment_enforcement_date": "2020-12-15",
+   "amendment_law_id": "502CO0000000334",
+   "amendment_law_title": "公益通報者保護法別表第八号の法律を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "公益通報者保護法別表第八号の政令で定める法律は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T01:40:42+09:00"
+ }
+}

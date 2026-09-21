@@ -1,0 +1,110 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "339CO0000000188",
+  "law_num": "昭和三十九年政令第百八十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 39,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "188",
+  "promulgation_date": "1964-06-18"
+ },
+ "revision_info": {
+  "law_revision_id": "339CO0000000188_20211001_503CO0000000151",
+  "law_type": "CabinetOrder",
+  "law_title": "中小企業退職金共済法施行令",
+  "law_title_kana": "ちゅうしょうきぎょうたいしょくきんきょうさいほうしこうれい",
+  "abbrev": "中退法施行令",
+  "category": "労働",
+  "updated": "2024-06-06T11:13:37+09:00",
+  "amendment_promulgate_date": "2021-05-06",
+  "amendment_enforcement_date": "2021-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "503CO0000000151",
+  "amendment_law_title": "中小企業退職金共済法施行令の一部を改正する政令",
+  "amendment_law_num": "令和三年政令第百五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "339CO0000000188_20261001_508CO0000000239",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000239",
+   "amendment_law_title": "中小企業退職金共済法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000188_20211001_503CO0000000151",
+   "amendment_promulgate_date": "2021-05-06",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503CO0000000151",
+   "amendment_law_title": "中小企業退職金共済法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000188_20210101_502CO0000000367",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000367",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000188_20180501_429CO0000000292",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2018-05-01",
+   "amendment_law_id": "429CO0000000292",
+   "amendment_law_title": "確定拠出年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000188_20171127_429CO0000000292",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2017-11-27",
+   "amendment_law_id": "429CO0000000292",
+   "amendment_law_title": "確定拠出年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339CO0000000188_20160401_428CO0000000078",
+   "amendment_promulgate_date": "2016-03-25",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000078",
+   "amendment_law_title": "独立行政法人に係る改革を推進するための厚生労働省関係法律の整備等に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（退職金共済契約による退職金の額）",
+  "title": "第一条",
+  "paragraphs": [
+   "中小企業退職金共済法（以下「法」という。）第十条第二項第一号（法第十六条第三項において準用する場合を含む。）の政令で定める額は、掛金月額を千円ごとに順次区分した場合における各区分ごとの当該区分に係る掛金の納付があつた月数（以下「区分掛金納付月数」という。）に応じ別表第一の下欄に定める金額を合算して得た額（退職が死亡による場合にあつては、千円に区分掛金納付月数を乗じて得た額を合算して得た額）とする。",
+   "法第十条第二項第二号（法第十六条第三項において準用する場合を含む。）の政令で定める額は、千円に区分掛金納付月数を乗じて得た額を合算して得た額とする。",
+   "法第十条第二項第三号イ（法第十六条第三項において準用する場合を含む。）の政令で定める額は、区分掛金納付月数に応じ別表第二の下欄に定める金額を合算して得た額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1964-06-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2024-06-06T11:13:37+09:00"
+ }
+}

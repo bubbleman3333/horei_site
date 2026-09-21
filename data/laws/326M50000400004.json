@@ -1,0 +1,90 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "326M50000400004",
+  "law_num": "昭和二十六年通商産業省令第四号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "004",
+  "promulgation_date": "1951-01-31"
+ },
+ "revision_info": {
+  "law_revision_id": "326M50000400004_20260521_508M60000400043",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "鉱業登録令施行規則",
+  "law_title_kana": "こうぎょうとうろくれいしこうきそく",
+  "abbrev": null,
+  "category": "鉱業",
+  "updated": "2026-05-22T16:13:40+09:00",
+  "amendment_promulgate_date": "2026-04-30",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400043",
+  "amendment_law_title": "特許法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326M50000400004_20260521_508M60000400043",
+   "amendment_promulgate_date": "2026-04-30",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000400043",
+   "amendment_law_title": "特許法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326M50000400004_20260401_508M60000400019",
+   "amendment_promulgate_date": "2026-03-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000400019",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年経済産業省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000400004_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326M50000400004_20160401_428M60000400043",
+   "amendment_promulgate_date": "2016-03-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000400043",
+   "amendment_law_num": "平成二十八年経済産業省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（鉱業原簿の様式）",
+  "title": "第一条",
+  "paragraphs": [
+   "試掘原簿または採掘原簿は、様式第一または様式第二により調製しなければならない。",
+   "租鉱原簿または試掘共同人名簿もしくは採掘共同人名簿は、様式第三または様式第四により調製しなければならない。",
+   "試掘原簿および採掘原簿ならびに租鉱原簿には、様式第五による目録を附さなければならない。",
+   "登録用紙の表題部中の枚数欄には、登録用紙の枚数に相当する数字に、経済産業大臣又は経済産業局長の指定する職員が押印しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-01-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-22T16:13:40+09:00"
+ }
+}

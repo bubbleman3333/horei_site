@@ -1,0 +1,449 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "330CO0000000255",
+  "law_num": "昭和三十年政令第二百五十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 30,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "255",
+  "promulgation_date": "1955-09-26"
+ },
+ "revision_info": {
+  "law_revision_id": "330CO0000000255_20260408_508CO0000000128",
+  "law_type": "CabinetOrder",
+  "law_title": "補助金等に係る予算の執行の適正化に関する法律施行令",
+  "law_title_kana": "ほじょきんとうにかかるよさんのしっこうのてきせいかにかんするほうりつしこうれい",
+  "abbrev": "補助金適正化法施行令,補助金等適正化法施行令",
+  "category": "財務通則",
+  "updated": "2026-05-18T10:39:57+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000128",
+  "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百二十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "330CO0000000255_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20260408_508CO0000000128",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000128",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20260401_508CO0000000112",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000112",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20260401_507CO0000000343",
+   "amendment_promulgate_date": "2025-10-03",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000343",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20251224_507CO0000000435",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507CO0000000435",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20250401_507CO0000000158",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000158",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20250401_507CO0000000142",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000142",
+   "amendment_law_title": "大学等における修学の支援に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20250401_507CO0000000140",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000140",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20250305_507CO0000000042",
+   "amendment_promulgate_date": "2025-03-05",
+   "amendment_enforcement_date": "2025-03-05",
+   "amendment_law_id": "507CO0000000042",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20250117_506CO0000000385",
+   "amendment_promulgate_date": "2024-12-18",
+   "amendment_enforcement_date": "2025-01-17",
+   "amendment_law_id": "506CO0000000385",
+   "amendment_law_title": "旧優生保護法に基づく優生手術等を受けた者等に対する補償金等の支給等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20241225_506CO0000000389",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506CO0000000389",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20241120_506CO0000000345",
+   "amendment_promulgate_date": "2024-11-20",
+   "amendment_enforcement_date": "2024-11-20",
+   "amendment_law_id": "506CO0000000345",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20241001_506CO0000000289",
+   "amendment_promulgate_date": "2024-09-20",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000289",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20240401_506CO0000000104",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000104",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20240401_506CO0000000026",
+   "amendment_promulgate_date": "2024-02-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000026",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令　抄",
+   "amendment_law_num": "令和六年政令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20240306_506CO0000000044",
+   "amendment_promulgate_date": "2024-03-06",
+   "amendment_enforcement_date": "2024-03-06",
+   "amendment_law_id": "506CO0000000044",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20240226_506CO0000000036",
+   "amendment_promulgate_date": "2024-02-26",
+   "amendment_enforcement_date": "2024-02-26",
+   "amendment_law_id": "506CO0000000036",
+   "amendment_law_title": "国立研究開発法人宇宙航空研究開発機構法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20231206_505CO0000000349",
+   "amendment_promulgate_date": "2023-12-06",
+   "amendment_enforcement_date": "2023-12-06",
+   "amendment_law_id": "505CO0000000349",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20230401_505CO0000000133",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000133",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20221209_504CO0000000376",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504CO0000000376",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20221114_504CO0000000348",
+   "amendment_promulgate_date": "2022-11-11",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504CO0000000348",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整理及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20221001_504CO0000000299",
+   "amendment_promulgate_date": "2022-09-07",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000299",
+   "amendment_law_title": "農山漁村の活性化のための定住等及び地域間交流の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20220401_504CO0000000168",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000168",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20220401_504CO0000000167",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000167",
+   "amendment_law_title": "沖縄振興特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20211224_503CO0000000342",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2021-12-24",
+   "amendment_law_id": "503CO0000000342",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20211201_503CO0000000319",
+   "amendment_promulgate_date": "2021-12-01",
+   "amendment_enforcement_date": "2021-12-01",
+   "amendment_law_id": "503CO0000000319",
+   "amendment_law_title": "特定石綿被害建設業務労働者等認定審査会令",
+   "amendment_law_num": "令和三年政令第三百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20210519_503CO0000000155",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503CO0000000155",
+   "amendment_law_title": "預貯金者の意思に基づく個人番号の利用による預貯金口座の管理等に関する法律第十四条の政令で定める金額を定める政令",
+   "amendment_law_num": "令和三年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20210519_503CO0000000154",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503CO0000000154",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律第十六条第一項の政令で定める金額を定める政令",
+   "amendment_law_num": "令和三年政令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20210401_503CO0000000088",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000088",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20210203_503CO0000000024",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-02-03",
+   "amendment_law_id": "503CO0000000024",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20200619_502CO0000000193",
+   "amendment_promulgate_date": "2020-06-19",
+   "amendment_enforcement_date": "2020-06-19",
+   "amendment_law_id": "502CO0000000193",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20200430_502CO0000000159",
+   "amendment_promulgate_date": "2020-04-30",
+   "amendment_enforcement_date": "2020-04-30",
+   "amendment_law_id": "502CO0000000159",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20200401_502CO0000000110",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000110",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20200205_502CO0000000024",
+   "amendment_promulgate_date": "2020-02-05",
+   "amendment_enforcement_date": "2020-02-05",
+   "amendment_law_id": "502CO0000000024",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20191122_501CO0000000167",
+   "amendment_promulgate_date": "2019-11-22",
+   "amendment_enforcement_date": "2019-11-22",
+   "amendment_law_id": "501CO0000000167",
+   "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20191001_501CO0000000017",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000017",
+   "amendment_law_title": "子ども・子育て支援法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20190524_501CO0000000008",
+   "amendment_promulgate_date": "2019-05-22",
+   "amendment_enforcement_date": "2019-05-24",
+   "amendment_law_id": "501CO0000000008",
+   "amendment_law_title": "アイヌの人々の誇りが尊重される社会を実現するための施策の推進に関する法律施行令",
+   "amendment_law_num": "令和元年政令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330CO0000000255_20190424_431CO0000000160",
+   "amendment_promulgate_date": "2019-04-24",
+   "amendment_enforcement_date": "2019-04-24",
+   "amendment_law_id": "431CO0000000160",
+   "amendment_law_title": "旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律に基づき都道府県に交付する事務費に関する政令",
+   "amendment_law_num": "平成三十一年政令第百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「補助金等」、「補助事業等」、「補助事業者等」、「間接補助金等」、「間接補助事業等」、「間接補助事業者等」、「各省各庁」又は「各省各庁の長」とは、補助金等に係る予算の執行の適正化に関する法律（別表の準用規定の欄に掲げる規定において準用する場合を含む。以下「法」という。）第二条に規定する補助金等、補助事業等、補助事業者等、間接補助金等、間接補助事業等、間接補助事業者等、各省各庁又は各省各庁の長をいう。",
+   "この政令において「補助実施法人」とは、別表の準用規定の欄に掲げる規定においてその交付する補助金等について補助金等に係る予算の執行の適正化に関する法律を準用する同表の法人の欄に掲げる法人をいい、「補助実施法人の代表者」とは、同表の代表者の欄に掲げる者をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1955-09-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-18T10:39:57+09:00"
+ }
+}

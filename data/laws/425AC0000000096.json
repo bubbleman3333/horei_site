@@ -1,0 +1,285 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "425AC0000000096",
+  "law_num": "平成二十五年法律第九十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "096",
+  "promulgation_date": "2013-12-11"
+ },
+ "revision_info": {
+  "law_revision_id": "425AC0000000096_20260521_505AC0000000053",
+  "law_type": "Act",
+  "law_title": "消費者の財産的被害等の集団的な回復のための民事の裁判手続の特例に関する法律",
+  "law_title_kana": "しょうひしゃのざいさんてきひがいとうのしゅうだんてきなかいふくのためのみんじのさいばんてつづきのとくれいにかんするほうりつ",
+  "abbrev": "集団訴訟法,消費者裁判手続特例法,消費者訴訟法",
+  "category": "民事",
+  "updated": "2026-05-21T02:50:17+09:00",
+  "amendment_promulgate_date": "2023-06-14",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000053",
+  "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和五年法律第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425AC0000000096_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20260521_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20240301_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20231001_504AC0000000059",
+   "amendment_promulgate_date": "2022-06-01",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "504AC0000000059",
+   "amendment_law_title": "消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20230601_504AC0000000059",
+   "amendment_promulgate_date": "2022-06-01",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "504AC0000000059",
+   "amendment_law_title": "消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20230220_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2023-02-20",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20230105_504AC0000000099",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2023-01-05",
+   "amendment_law_id": "504AC0000000099",
+   "amendment_law_title": "消費者契約法及び独立行政法人国民生活センター法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20220601_504AC0000000059",
+   "amendment_promulgate_date": "2022-06-01",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504AC0000000059",
+   "amendment_law_title": "消費者契約法及び消費者の財産的被害の集団的な回復のための民事の裁判手続の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20220601_503AC0000000072",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "503AC0000000072",
+   "amendment_law_title": "消費者被害の防止及びその回復の促進を図るための特定商取引に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20210616_503AC0000000072",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503AC0000000072",
+   "amendment_law_title": "消費者被害の防止及びその回復の促進を図るための特定商取引に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20171001_429AC0000000043",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000043",
+   "amendment_law_title": "独立行政法人国民生活センター法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20170602_429AC0000000043",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000043",
+   "amendment_law_title": "独立行政法人国民生活センター法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000096_20161001_000000000000000",
+   "amendment_promulgate_date": "2013-12-11",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　被害回復裁判手続",
+  "第三章　特定適格消費者団体",
+  "第四章　消費者団体訴訟等支援法人",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、消費者契約に関して相当多数の消費者に生じた財産的被害等（財産的被害及び精神上の苦痛を受けたことによる損害をいう。以下同じ。）について、消費者と事業者との間の情報の質及び量並びに交渉力の格差により消費者が自らその回復を図ることには困難を伴う場合があることに鑑み、その財産的被害等を集団的に回復するため、特定適格消費者団体が被害回復裁判手続を追行することができることとすることにより、消費者の利益の擁護を図り、もって国民生活の安定向上と国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-12-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:50:17+09:00"
+ }
+}

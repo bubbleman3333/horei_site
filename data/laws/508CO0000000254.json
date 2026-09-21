@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000254",
+  "law_num": "令和八年政令第二百五十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "254",
+  "promulgation_date": "2026-08-07"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000254_20260808_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "溶融亜鉛めっき鋼帯及び鋼板に対して課する暫定的な不当廉売関税に関する政令",
+  "law_title_kana": "ようゆうあえんめっきこうたいおよびこうばんにたいしてかするざんていてきなふとうれんばいかんぜいにかんするせいれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-08-20T10:26:15+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000254_20260808_000000000000000",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-08",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（課税物件）",
+  "title": "第一条",
+  "paragraphs": [
+   "第一号に掲げる貨物であって、第二号に掲げる国（第三条第二項において「特定原産国」という。）を原産地とするもののうち、第三号に掲げる期間内に輸入されるもの（以下「特定貨物」という。）には、関税定率法（以下「法」という。）第八条第九項の規定により、同項第一号に規定する暫定的な関税（以下「暫定不当廉売関税」という。）を課する。",
+   "この政令における原産地については、関税法施行令（昭和二十九年政令第百五十号）第四条の二第四項に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-08-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-20T10:26:15+09:00"
+ }
+}

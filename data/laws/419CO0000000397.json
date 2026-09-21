@@ -1,0 +1,165 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "419CO0000000397",
+  "law_num": "平成十九年政令第三百九十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "397",
+  "promulgation_date": "2007-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "419CO0000000397_20260401_508CO0000000084",
+  "law_type": "CabinetOrder",
+  "law_title": "地方公共団体の財政の健全化に関する法律施行令",
+  "law_title_kana": "ちほうこうきょうだんたいのざいせいのけんぜんかにかんするほうりつしこうれい",
+  "abbrev": "地方自治体財政健全化法施行令,地方公共団体財政健全化法施行令,財政健全化法施行令",
+  "category": "地方財政",
+  "updated": "2026-04-20T13:45:25+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000084",
+  "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第八十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419CO0000000397_20260401_508CO0000000084",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000084",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20250401_507CO0000000118",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000118",
+   "amendment_law_title": "地方財政法施行令及び地方自治法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20240401_506CO0000000135",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000135",
+   "amendment_law_title": "地方財政法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20230401_505CO0000000131",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000131",
+   "amendment_law_title": "地方財政法施行令及び地方公共団体の財政の健全化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20220401_504CO0000000132",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000132",
+   "amendment_law_title": "地方財政法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20210401_503CO0000000111",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000111",
+   "amendment_law_title": "地方財政法施行令及び地方公共団体の財政の健全化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20200401_502CO0000000108",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000108",
+   "amendment_law_title": "地方財政法施行令及び地方公共団体の財政の健全化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20190401_431CO0000000087",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000087",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20190329_431CO0000000089",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-03-29",
+   "amendment_law_id": "431CO0000000089",
+   "amendment_law_title": "特別法人事業税及び特別法人事業譲与税に関する法律施行令",
+   "amendment_law_num": "平成三十一年政令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20180401_430CO0000000093",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000093",
+   "amendment_law_title": "地方財政法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000397_20170401_429CO0000000119",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000119",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　財政の早期健全化",
+  "第三章　財政の再生",
+  "第四章　公営企業の経営の健全化",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において、「実質赤字比率」、「標準財政規模の額」、「法適用企業」、「法非適用企業」、「連結実質赤字比率」、「公営企業」、「実質公債費比率」、「将来負担比率」、「早期健全化基準」、「財政再生基準」、「健全化判断比率」、「指定都市」、「財政健全化計画」、「再生判断比率」、「財政再生計画」、「財政再生団体」、「再生振替特例債」、「資金不足比率」、「経営健全化基準」、「経営健全化計画」、「財政健全化計画完了報告書」又は「財政再生計画完了報告書」とは、それぞれ地方公共団体の財政の健全化に関する法律（以下「法」という。）第二条各号、第三条第一項若しくは第三項、第四条第一項、第八条第一項、第九条第四項、第十二条第二項、第二十二条第二項、第二十三条第一項又は第二十七条第一項若しくは第四項に規定する実質赤字比率、標準財政規模の額、法適用企業、法非適用企業、連結実質赤字比率、公営企業、実質公債費比率、将来負担比率、早期健全化基準、財政再生基準、健全化判断比率、指定都市、財政健全化計画、再生判断比率、財政再生計画、財政再生団体、再生振替特例債、資金不足比率、経営健全化基準、経営健全化計画、財政健全化計画完了報告書又は財政再生計画完了報告書をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-12-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T13:45:25+09:00"
+ }
+}

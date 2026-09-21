@@ -1,0 +1,94 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "332CO0000000340",
+  "law_num": "昭和三十二年政令第三百四十号",
+  "law_num_era": "Showa",
+  "law_num_year": 32,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "340",
+  "promulgation_date": "1957-12-13"
+ },
+ "revision_info": {
+  "law_revision_id": "332CO0000000340_20260401_507CO0000000043",
+  "law_type": "CabinetOrder",
+  "law_title": "駐車場法施行令",
+  "law_title_kana": "ちゅうしゃじょうほうせこうれい",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2026-04-01T03:41:58+09:00",
+  "amendment_promulgate_date": "2025-03-07",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000043",
+  "amendment_law_title": "駐車場法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "332CO0000000340_20260401_507CO0000000043",
+   "amendment_promulgate_date": "2025-03-07",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000043",
+   "amendment_law_title": "駐車場法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "332CO0000000340_20201201_502CO0000000323",
+   "amendment_promulgate_date": "2020-11-13",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000323",
+   "amendment_law_title": "道路交通法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332CO0000000340_20181227_430CO0000000354",
+   "amendment_promulgate_date": "2018-12-27",
+   "amendment_enforcement_date": "2018-12-27",
+   "amendment_law_id": "430CO0000000354",
+   "amendment_law_title": "駐車場法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332CO0000000340_20170401_429CO0000000063",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000063",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　駐車場整備地区",
+  "第一章の二　路上駐車場",
+  "第二章　路外駐車場",
+  "第三章　特定用途",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（駐車場整備地区を定めることができる特別用途地区）",
+  "title": "第一条",
+  "paragraphs": [
+   "駐車場法（以下「法」という。）第三条第一項の政令で定める特別用途地区は、次に掲げる施設に係る業務の利便の増進を図ることを目的とする特別用途地区とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1957-12-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T03:41:58+09:00"
+ }
+}

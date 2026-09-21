@@ -1,0 +1,130 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "423M60000010044",
+  "law_num": "平成二十三年法務省令第四十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "044",
+  "promulgation_date": "2011-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "423M60000010044_20260614_508M60000010020",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則",
+  "law_title_kana": "にほんこくとのへいわじょうやくにもとづきにほんのこくせきをりだつしたものとうのしゅつにゅうこくかんりにかんするとくれいほうせこうきそく",
+  "abbrev": "入管特例法施行規則,出入国管理特例法施行規則",
+  "category": "外事",
+  "updated": "2026-06-14T00:27:22+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010020",
+  "amendment_law_title": "出入国管理及び難民認定法施行規則及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423M60000010044_20260614_508M60000010020",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "508M60000010020",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423M60000010044_20240610_506M60000010037",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-06-10",
+   "amendment_law_id": "506M60000010037",
+   "amendment_law_title": "出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する法律の施行に伴う法務省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年法務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000010044_20231101_505M60000010038",
+   "amendment_promulgate_date": "2023-10-25",
+   "amendment_enforcement_date": "2023-11-01",
+   "amendment_law_id": "505M60000010038",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000010044_20230327_505M60000010007",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-03-27",
+   "amendment_law_id": "505M60000010007",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000010044_20210501_503M60000010009",
+   "amendment_promulgate_date": "2021-03-18",
+   "amendment_enforcement_date": "2021-05-01",
+   "amendment_law_id": "503M60000010009",
+   "amendment_law_title": "日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000010044_20190701_501M60000010010",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000010010",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000010044_20190401_431M60000010007",
+   "amendment_promulgate_date": "2019-03-15",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010007",
+   "amendment_law_title": "出入国管理及び難民認定法及び法務省設置法の一部を改正する法律の施行に伴う法務省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成三十一年法務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000010044_20160401_428M60000010017",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000010017",
+   "amendment_law_num": "平成二十八年法務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第四条の許可の申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（平成三年法律第七十一号。以下「法」という。）第四条第三項に規定する申請は、次に掲げる書類を提出して行わなければならない。",
+   "一歳に満たない者について前項の申請をする場合は、写真の提出を要しない。ただし、出入国在留管理庁長官が提出を要するとした場合は、この限りでない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-12-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-14T00:27:22+09:00"
+ }
+}

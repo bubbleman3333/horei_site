@@ -1,0 +1,83 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "508AC0000000033",
+  "law_num": "令和八年法律第三十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Act",
+  "law_num_num": "033",
+  "promulgation_date": "2026-06-05"
+ },
+ "revision_info": {
+  "law_revision_id": "508AC0000000033_20260916_508AC0000000043",
+  "law_type": "Act",
+  "law_title": "太陽電池廃棄物の再資源化等の推進に関する法律",
+  "law_title_kana": "たいようでんちはいきぶつのさいしげんかとうのすいしんにかんするほうりつ",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-09-16T00:10:40+09:00",
+  "amendment_promulgate_date": "2026-06-19",
+  "amendment_enforcement_date": "2026-09-16",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000043",
+  "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508AC0000000033_20271204_000000000000000",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-12-04",
+   "amendment_enforcement_comment": "公布の日から起算して一年六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-12-04",
+   "amendment_law_id": "000000000000000",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "508AC0000000033_20260916_508AC0000000043",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-09-16",
+   "amendment_law_id": "508AC0000000043",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "508AC0000000033_20260605_000000000000000",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-06-05",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針等",
+  "第三章　事業用太陽電池廃棄者による事業用太陽電池の廃棄の抑制及び事業用太陽電池廃棄物の再資源化等の実施のための措置",
+  "第四章　太陽電池廃棄物再資源化等事業の実施のための措置",
+  "第五章　製造業者等及び販売業者による太陽電池の廃棄の抑制及び太陽電池廃棄物の再資源化等の円滑な実施に資する措置",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、太陽電池廃棄物の排出量の著しい増加に対処する上で太陽電池の廃棄の抑制及び太陽電池廃棄物の再資源化等による減量がより重要となることに鑑み、太陽電池の廃棄の抑制及び太陽電池廃棄物の再資源化等の推進を図るため、事業用太陽電池廃棄者による事業用太陽電池の廃棄の抑制及び事業用太陽電池廃棄物の再資源化等の実施のための措置、太陽電池廃棄物再資源化等事業の実施のための措置等を講ずることにより、廃棄物の適正な処理及び資源の有効な利用の確保を図り、もって生活環境の保全及び国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-16T00:10:40+09:00"
+ }
+}

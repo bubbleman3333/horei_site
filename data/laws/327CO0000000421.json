@@ -1,0 +1,119 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "327CO0000000421",
+  "law_num": "昭和二十七年政令第四百二十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 27,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "421",
+  "promulgation_date": "1952-09-16"
+ },
+ "revision_info": {
+  "law_revision_id": "327CO0000000421_20260401_508CO0000000039",
+  "law_type": "CabinetOrder",
+  "law_title": "航空法施行令",
+  "law_title_kana": "こうくうほうしこうれい",
+  "abbrev": null,
+  "category": "航空",
+  "updated": "2026-04-01T08:53:16+09:00",
+  "amendment_promulgate_date": "2026-03-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000039",
+  "amendment_law_title": "自衛隊法施行令及び航空法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "327CO0000000421_20260401_508CO0000000039",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000039",
+   "amendment_law_title": "自衛隊法施行令及び航空法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000421_20250709_507CO0000000251",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2025-07-09",
+   "amendment_law_id": "507CO0000000251",
+   "amendment_law_title": "航空法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000421_20221205_504CO0000000262",
+   "amendment_promulgate_date": "2022-07-29",
+   "amendment_enforcement_date": "2022-12-05",
+   "amendment_law_id": "504CO0000000262",
+   "amendment_law_title": "航空法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000421_20220729_504CO0000000262",
+   "amendment_promulgate_date": "2022-07-29",
+   "amendment_enforcement_date": "2022-07-29",
+   "amendment_law_id": "504CO0000000262",
+   "amendment_law_title": "航空法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000421_20210611_503CO0000000166",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2021-06-11",
+   "amendment_law_id": "503CO0000000166",
+   "amendment_law_title": "航空法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000421_20200923_502CO0000000213",
+   "amendment_promulgate_date": "2020-07-03",
+   "amendment_enforcement_date": "2020-09-23",
+   "amendment_law_id": "502CO0000000213",
+   "amendment_law_title": "無人航空機等の飛行による危害の発生を防止するための航空法及び重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和二年政令第二百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000421_20160401_428CO0000000057",
+   "amendment_promulgate_date": "2016-03-09",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000057",
+   "amendment_law_title": "独立行政法人に係る改革を推進するための国土交通省関係法律の整備に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第十条第二項ただし書の政令で定める航空機）",
+  "title": "第一条",
+  "paragraphs": [
+   "航空法（以下「法」という。）第十条第二項ただし書の政令で定める航空機は、次に掲げる航空機とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1952-09-16",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T08:53:16+09:00"
+ }
+}

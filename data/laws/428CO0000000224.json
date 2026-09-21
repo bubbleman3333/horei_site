@@ -1,0 +1,147 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "428CO0000000224",
+  "law_num": "平成二十八年政令第二百二十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "224",
+  "promulgation_date": "2016-05-20"
+ },
+ "revision_info": {
+  "law_revision_id": "428CO0000000224_20251208_507CO0000000389",
+  "law_type": "CabinetOrder",
+  "law_title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令",
+  "law_title_kana": "じゅうようしせつのしゅうへんちいきのじょうくうにおけるこがたむじんきとうのひこうのきんしにかんするほうりつしこうれい",
+  "abbrev": "小型無人機等飛行禁止法施行令",
+  "category": "警察",
+  "updated": "2025-12-10T00:10:10+09:00",
+  "amendment_promulgate_date": "2025-11-27",
+  "amendment_enforcement_date": "2025-12-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000389",
+  "amendment_law_title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百八十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428CO0000000224_20251208_507CO0000000389",
+   "amendment_promulgate_date": "2025-11-27",
+   "amendment_enforcement_date": "2025-12-08",
+   "amendment_law_id": "507CO0000000389",
+   "amendment_law_title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20251127_507CO0000000389",
+   "amendment_promulgate_date": "2025-11-27",
+   "amendment_enforcement_date": "2025-11-27",
+   "amendment_law_id": "507CO0000000389",
+   "amendment_law_title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20210702_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-07-02",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20201124_502CO0000000317",
+   "amendment_promulgate_date": "2020-10-30",
+   "amendment_enforcement_date": "2020-11-24",
+   "amendment_law_id": "502CO0000000317",
+   "amendment_law_title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20201030_502CO0000000317",
+   "amendment_promulgate_date": "2020-10-30",
+   "amendment_enforcement_date": "2020-10-30",
+   "amendment_law_id": "502CO0000000317",
+   "amendment_law_title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20201002_502CO0000000301",
+   "amendment_promulgate_date": "2020-10-02",
+   "amendment_enforcement_date": "2020-10-02",
+   "amendment_law_id": "502CO0000000301",
+   "amendment_law_title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20200714_502CO0000000213",
+   "amendment_promulgate_date": "2020-07-03",
+   "amendment_enforcement_date": "2020-07-14",
+   "amendment_law_id": "502CO0000000213",
+   "amendment_law_title": "無人航空機等の飛行による危害の発生を防止するための航空法及び重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和二年政令第二百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20190613_501CO0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-06-13",
+   "amendment_law_id": "501CO0000000016",
+   "amendment_law_title": "国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000224_20160523_000000000000000",
+   "amendment_promulgate_date": "2016-05-20",
+   "amendment_enforcement_date": "2016-05-23",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第一項第一号ハの政令で定める国の行政機関及びその庁舎）",
+  "title": "第一条",
+  "paragraphs": [
+   "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律（平成二十八年法律第九号。以下「法」という。）第二条第一項第一号ハの政令で定める国の行政機関は、次の表の上欄に掲げるとおりとし、同号ハの政令で定める庁舎は、同表の上欄に掲げる国の行政機関ごとに、それぞれ同表の下欄に掲げるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2016-05-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-10T00:10:10+09:00"
+ }
+}

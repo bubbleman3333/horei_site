@@ -1,0 +1,151 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "414M60000202014",
+  "law_num": "平成十四年内閣府・農林水産省令第十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "2002-12-27"
+ },
+ "revision_info": {
+  "law_revision_id": "414M60000202014_20260625_508M60000202007",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農水産業協同組合の組織再編成の促進のための特別措置に関する命令",
+  "law_title_kana": "のうすいさんぎょうきょうどうくみあいのそしきさいへんせいのそくしんのためのとくべつそちにかんするめいれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-07-08T10:48:34+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000202007",
+  "amendment_law_title": "農水産業協同組合の金融機能の強化のための特別措置に関する命令等の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・農林水産省令第七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414M60000202014_20260625_508M60000202007",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508M60000202007",
+   "amendment_law_title": "農水産業協同組合の金融機能の強化のための特別措置に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・農林水産省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20230331_505M60000202001",
+   "amendment_promulgate_date": "2023-01-27",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505M60000202001",
+   "amendment_law_title": "農林中央金庫及び特定農水産業協同組合等による信用事業の再編及び強化に関する法律施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20211122_503M60000202010",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503M60000202010",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20210901_503M60000202009",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000202009",
+   "amendment_law_title": "農業信用保証保険法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20201223_502M60000202017",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000202017",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20201201_502M60000202016",
+   "amendment_promulgate_date": "2020-12-01",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000202016",
+   "amendment_law_title": "中小漁業融資保証法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・農林水産省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20190701_501M60000202002",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000202002",
+   "amendment_law_title": "農業協同組合及び農業協同組合連合会の信用事業に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・農林水産省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20190507_501M60000202001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000202001",
+   "amendment_law_title": "農水産業協同組合の組織再編成の促進のための特別措置に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20190331_431M60000202002",
+   "amendment_promulgate_date": "2019-03-15",
+   "amendment_enforcement_date": "2019-03-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000202002",
+   "amendment_law_title": "農林中央金庫及び特定農水産業協同組合等による信用事業の再編及び強化に関する法律施行規則等の一部を改正する命令",
+   "amendment_law_num": "平成三十一年内閣府・農林水産省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000202014_20160401_428M60000202001",
+   "amendment_promulgate_date": "2016-01-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000202001",
+   "amendment_law_num": "平成二十八年内閣府・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令において「農業協同組合連合会」、「漁業協同組合連合会」、「水産加工業協同組合連合会」、「組織再編成」、「経営基盤強化計画」又は「信用農水産業協同組合連合会」とは、それぞれ金融機関等の組織再編成の促進に関する特別措置法（以下「法」という。）第二条第一項第十号から第十二号まで、第二項第一号、第三条又は第十五条第一項に規定する農業協同組合連合会、漁業協同組合連合会、水産加工業協同組合連合会、組織再編成、経営基盤強化計画又は信用農水産業協同組合連合会をいう。",
+   "この命令において「農水産業協同組合」とは、次に掲げる者をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-12-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T10:48:34+09:00"
+ }
+}

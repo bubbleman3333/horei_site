@@ -1,0 +1,284 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "351M50000040028",
+  "law_num": "昭和五十一年大蔵省令第二十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 51,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "028",
+  "promulgation_date": "1976-10-30"
+ },
+ "revision_info": {
+  "law_revision_id": "351M50000040028_20260807_508M60000002070",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "連結財務諸表の用語、様式及び作成方法に関する規則",
+  "law_title_kana": "れんけつざいむしょひょうのようごようしきおよびさくせいほうほうにかんするきそく",
+  "abbrev": "連結財務諸表規則",
+  "category": "金融・保険",
+  "updated": "2026-08-19T13:29:56+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002070",
+  "amendment_law_title": "金融庁組織規則等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第七十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "351M50000040028_20260807_508M60000002070",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000002070",
+   "amendment_law_title": "金融庁組織規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20260331_508M60000002028",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000002028",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則及び連結財務諸表の用語、様式及び作成方法に関する規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20250822_507M60000002075",
+   "amendment_promulgate_date": "2025-08-22",
+   "amendment_enforcement_date": "2025-08-22",
+   "amendment_law_id": "507M60000002075",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20250331_507M60000002031",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507M60000002031",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則及び連結財務諸表の用語、様式及び作成方法に関する規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20250324_507M60000002020",
+   "amendment_promulgate_date": "2025-03-24",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507M60000002020",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則及び連結財務諸表の用語、様式及び作成方法に関する規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20240822_506M60000002070",
+   "amendment_promulgate_date": "2024-08-22",
+   "amendment_enforcement_date": "2024-08-22",
+   "amendment_law_id": "506M60000002070",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則及び連結財務諸表の用語、様式及び作成方法に関する規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20240401_506M60000002029",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002029",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20240219_506M60000002014",
+   "amendment_promulgate_date": "2024-02-19",
+   "amendment_enforcement_date": "2024-02-19",
+   "amendment_law_id": "506M60000002014",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20230327_505M60000002022",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-03-27",
+   "amendment_law_id": "505M60000002022",
+   "amendment_law_title": "連結財務諸表の用語、様式及び作成方法に関する規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20210924_503M60000002061",
+   "amendment_promulgate_date": "2021-09-24",
+   "amendment_enforcement_date": "2021-09-24",
+   "amendment_law_id": "503M60000002061",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20210301_503M60000002005",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002005",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20200612_502M60000002046",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002046",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20200306_502M60000002009",
+   "amendment_promulgate_date": "2020-03-06",
+   "amendment_enforcement_date": "2020-03-06",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002009",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20190621_501M60000002013",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-06-21",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002013",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20190507_501M60000002002",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002002",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20190426_431M60000002027",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-04-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000002027",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則及び連結財務諸表の用語、様式及び作成方法に関する規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十一年内閣府令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20180608_430M60000002029",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-06-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002029",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20180323_430M60000002007",
+   "amendment_promulgate_date": "2018-03-23",
+   "amendment_enforcement_date": "2018-03-23",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002007",
+   "amendment_law_title": "財務諸表等の用語、様式及び作成方法に関する規則等の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20170525_429M60000002028",
+   "amendment_promulgate_date": "2017-05-25",
+   "amendment_enforcement_date": "2017-05-25",
+   "amendment_law_id": "429M60000002028",
+   "amendment_law_num": "平成二十九年内閣府令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50000040028_20170101_428M60000002066",
+   "amendment_promulgate_date": "2016-12-27",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428M60000002066",
+   "amendment_law_num": "平成二十八年内閣府令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一編　総則",
+  "第二編　連結財務諸表",
+  "第一章　総則",
+  "第二章　連結貸借対照表",
+  "第三章　連結損益計算書",
+  "第三章の二　連結包括利益計算書",
+  "第四章　連結株主資本等変動計算書",
+  "第五章　連結キャッシュ・フロー計算書",
+  "第六章　連結附属明細表",
+  "第三編　第一種中間連結財務諸表",
+  "第一章　総則",
+  "第二章　中間連結貸借対照表",
+  "第三章　中間連結損益計算書",
+  "第四章　中間連結包括利益計算書",
+  "第五章　中間連結キャッシュ・フロー計算書",
+  "第六章　株主資本等に関する注記",
+  "第四編　第二種中間連結財務諸表",
+  "第一章　総則",
+  "第二章　中間連結貸借対照表",
+  "第三章　中間連結損益計算書",
+  "第四章　中間連結包括利益計算書",
+  "第五章　中間連結株主資本等変動計算書",
+  "第六章　中間連結キャッシュ・フロー計算書",
+  "第五編　企業会計の基準の特例",
+  "第一章　指定国際会計基準",
+  "第二章　修正国際基準",
+  "第六編　雑則"
+ ],
+ "article1": {
+  "caption": "（適用の一般原則）",
+  "title": "第一条",
+  "paragraphs": [
+   "金融商品取引法（昭和二十三年法律第二十五号。以下「法」という。）第五条、第七条第一項、第九条第一項若しくは第十条第一項（これらの規定を法第二十四条の二第一項及び第二十四条の五第五項において準用する場合を含む。）、第二十四条第一項若しくは第三項又は第二十四条の五第一項（財務諸表等の用語、様式及び作成方法に関する規則（昭和三十八年大蔵省令第五十九号。以下「財務諸表等規則」という。）第一条第一項の規定により金融庁長官が指定した法人（以下「指定法人」という。）についてこれらの規定を法第二十七条において準用する場合を含む。）の規定により提出される財務計算に関する書類のうち、次の各号に掲げるものの用語、様式及び作成方法は、財務諸表等規則第一条の三の規定の適用を受けるものを除き、当該各号に定める規定の定めるところによるものとし、この規則において定めのない事項については、一般に公正妥当と認められる企業会計の基準に従うものとする。",
+   "金融庁組織令（平成十年政令第三百九十二号）第三十四条第一項に規定する企業会計審議会により公表された企業会計の基準は、前項に規定する一般に公正妥当と認められる企業会計の基準に該当するものとする。",
+   "企業会計の基準についての調査研究及び作成を業として行う団体であつて次に掲げる要件の全てを満たすもの（第三百十四条において「特定団体」という。）が作成及び公表を行つた企業会計の基準のうち、公正かつ適正な手続の下に作成及び公表が行われたものと認められ、一般に公正妥当な企業会計の基準として認められることが見込まれるものとして金融庁長官が定めるものは、第一項に規定する一般に公正妥当と認められる企業会計の基準に該当するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1976-10-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T13:29:56+09:00"
+ }
+}

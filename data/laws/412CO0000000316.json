@@ -1,0 +1,145 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000316",
+  "law_num": "平成十二年政令第三百十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "316",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000316_20260401_507CO0000000395",
+  "law_type": "CabinetOrder",
+  "law_title": "独立行政法人の組織、運営及び管理に係る共通的な事項に関する政令",
+  "law_title_kana": "どくりつぎょうせいほうじんのそしきうんえいおよびかんりにかかるきょうつうてきなじこうにかんするせいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-02T01:07:17+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000395",
+  "amendment_law_title": "独立行政法人男女共同参画機構法の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第三百九十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000316_20260401_507CO0000000395",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000395",
+   "amendment_law_title": "独立行政法人男女共同参画機構法の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000316_20250804_507CO0000000276",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507CO0000000276",
+   "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000316_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000316_20240902_506CO0000000268",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506CO0000000268",
+   "amendment_law_title": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000316_20220401_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000316_20180418_430CO0000000160",
+   "amendment_promulgate_date": "2018-04-18",
+   "amendment_enforcement_date": "2018-04-18",
+   "amendment_law_id": "430CO0000000160",
+   "amendment_law_title": "独立行政法人の組織、運営及び管理に係る共通的な事項に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000316_20180101_429CO0000000315",
+   "amendment_promulgate_date": "2017-12-22",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429CO0000000315",
+   "amendment_law_title": "独立行政法人の組織、運営及び管理に係る共通的な事項に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000316_20170401_429CO0000000022",
+   "amendment_promulgate_date": "2017-02-17",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000022",
+   "amendment_law_title": "教育公務員特例法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000316_20170401_428CO0000000396",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000396",
+   "amendment_law_title": "森林法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　研究開発に関する審議会による意見聴取",
+  "第二章　会計監査人の監査を要しない独立行政法人",
+  "第三章　不要財産等の国庫納付等",
+  "第四章　人事管理",
+  "第五章　積立金及び国庫納付金",
+  "第六章　教育公務員の範囲"
+ ],
+ "article1": {
+  "caption": "（意見聴取の対象から除かれる研究開発の事務及び事業）",
+  "title": "第一条",
+  "paragraphs": [
+   "独立行政法人通則法（以下「通則法」という。）第三十五条の四第四項に規定する軽微な研究開発（通則法第二条第三項に規定する研究開発をいう。以下同じ。）の事務及び事業として政令で定めるものは、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T01:07:17+09:00"
+ }
+}

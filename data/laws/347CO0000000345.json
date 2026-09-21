@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "347CO0000000345",
+  "law_num": "昭和四十七年政令第三百四十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "345",
+  "promulgation_date": "1972-09-28"
+ },
+ "revision_info": {
+  "law_revision_id": "347CO0000000345_20260401_507CO0000000361",
+  "law_type": "CabinetOrder",
+  "law_title": "労働安全衛生法関係手数料令",
+  "law_title_kana": "ろうどうあんぜんえいせいほうかんけいてすうりょうれい",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-04-01T06:28:31+09:00",
+  "amendment_promulgate_date": "2025-10-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000361",
+  "amendment_law_title": "労働安全衛生法施行令及び労働安全衛生法関係手数料令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百六十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347CO0000000345_20260401_507CO0000000361",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000361",
+   "amendment_law_title": "労働安全衛生法施行令及び労働安全衛生法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347CO0000000345_20231001_505CO0000000069",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000069",
+   "amendment_law_title": "労働安全衛生法施行令及び労働安全衛生法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347CO0000000345_20230401_505CO0000000009",
+   "amendment_promulgate_date": "2023-01-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000009",
+   "amendment_law_title": "労働安全衛生法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347CO0000000345_20191216_501CO0000000183",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501CO0000000183",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347CO0000000345_20141201_426CO0000000326",
+   "amendment_promulgate_date": "2014-10-01",
+   "amendment_enforcement_date": "2014-12-01",
+   "amendment_law_id": "426CO0000000326",
+   "amendment_law_num": "平成二十六年政令第三百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（免許等の手数料）",
+  "title": "第一条",
+  "paragraphs": [
+   "次の各号に掲げる者が労働安全衛生法（以下「法」という。）第百十二条第一項の規定により納付しなければならない手数料の額は、当該各号に定める金額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-09-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:28:31+09:00"
+ }
+}

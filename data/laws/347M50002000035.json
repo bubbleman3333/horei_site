@@ -1,0 +1,124 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "347M50002000035",
+  "law_num": "昭和四十七年労働省令第三十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "035",
+  "promulgation_date": "1972-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "347M50002000035_20260401_508M60000100003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "ゴンドラ安全規則",
+  "law_title_kana": "ごんどらあんぜんきそく",
+  "abbrev": "ゴンドラ則",
+  "category": "労働",
+  "updated": "2026-04-01T06:36:40+09:00",
+  "amendment_promulgate_date": "2026-01-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100003",
+  "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347M50002000035_20270401_508M60000100029",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000100029",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000035_20260401_508M60000100003",
+   "amendment_promulgate_date": "2026-01-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100003",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000035_20250401_506M60000100080",
+   "amendment_promulgate_date": "2024-04-30",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100080",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000035_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000035_20200420_502M60000100087",
+   "amendment_promulgate_date": "2020-04-20",
+   "amendment_enforcement_date": "2020-04-20",
+   "amendment_law_id": "502M60000100087",
+   "amendment_law_title": "ボイラー及び圧力容器安全規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000035_20190201_430M60000100075",
+   "amendment_promulgate_date": "2018-06-19",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_law_id": "430M60000100075",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000035_20141201_426M60000100131",
+   "amendment_promulgate_date": "2014-11-28",
+   "amendment_enforcement_date": "2014-12-01",
+   "amendment_law_id": "426M60000100131",
+   "amendment_law_num": "平成二十六年厚生労働省令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　製造及び設置",
+  "第三章　使用及び就業",
+  "第四章　定期自主検査等",
+  "第五章　性能検査",
+  "第六章　変更、休止、廃止等"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-09-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:36:40+09:00"
+ }
+}

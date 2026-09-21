@@ -1,0 +1,188 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "412AC0100000081",
+  "law_num": "平成十二年法律第八十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "Act",
+  "law_num_num": "081",
+  "promulgation_date": "2000-05-24"
+ },
+ "revision_info": {
+  "law_revision_id": "412AC0100000081_20260521_505AC0000000063",
+  "law_type": "Act",
+  "law_title": "ストーカー行為等の規制等に関する法律",
+  "law_title_kana": "すとーかーこういとうのきせいとうにかんするほうりつ",
+  "abbrev": "ストーカー規制法,ストーカー法",
+  "category": "警察",
+  "updated": "2026-05-21T02:11:19+09:00",
+  "amendment_promulgate_date": "2023-06-16",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000063",
+  "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412AC0100000081_20260521_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20260310_507AC0000000083",
+   "amendment_promulgate_date": "2025-12-10",
+   "amendment_enforcement_date": "2026-03-10",
+   "amendment_law_id": "507AC0000000083",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20251230_507AC0000000083",
+   "amendment_promulgate_date": "2025-12-10",
+   "amendment_enforcement_date": "2025-12-30",
+   "amendment_law_id": "507AC0000000083",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20251210_507AC0000000083",
+   "amendment_promulgate_date": "2025-12-10",
+   "amendment_enforcement_date": "2025-12-10",
+   "amendment_law_id": "507AC0000000083",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20240401_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20220525_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20210826_503AC0000000045",
+   "amendment_promulgate_date": "2021-05-26",
+   "amendment_enforcement_date": "2021-08-26",
+   "amendment_law_id": "503AC0000000045",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20210615_503AC0000000045",
+   "amendment_promulgate_date": "2021-05-26",
+   "amendment_enforcement_date": "2021-06-15",
+   "amendment_law_id": "503AC0000000045",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20170614_428AC0100000102",
+   "amendment_promulgate_date": "2016-12-14",
+   "amendment_enforcement_date": "2017-06-14",
+   "amendment_law_id": "428AC0100000102",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0100000081_20170103_428AC0100000102",
+   "amendment_promulgate_date": "2016-12-14",
+   "amendment_enforcement_date": "2017-01-03",
+   "amendment_law_id": "428AC0100000102",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、ストーカー行為を処罰する等ストーカー行為等について必要な規制を行うとともに、その相手方に対する援助の措置等を定めることにより、個人の身体、自由及び名誉に対する危害の発生を防止し、あわせて国民の生活の安全と平穏に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-05-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:11:19+09:00"
+ }
+}

@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "426CO0000000166",
+  "law_num": "平成二十六年政令第百六十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "166",
+  "promulgation_date": "2014-04-23"
+ },
+ "revision_info": {
+  "law_revision_id": "426CO0000000166_20260721_508CO0000000227",
+  "law_type": "CabinetOrder",
+  "law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律施行令",
+  "law_title_kana": "じどうしゃのうんてんによりひとをししょうさせるこういとうのしょばつにかんするほうりつせこうれい",
+  "abbrev": "自動車運転死傷処罰法施行令,悪質運転厳罰法施行令,自動車運転死傷行為処罰法施行令",
+  "category": "刑事",
+  "updated": "2026-07-28T13:21:50+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000227",
+  "amendment_law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百二十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426CO0000000166_20260721_508CO0000000227",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-21",
+   "amendment_law_id": "508CO0000000227",
+   "amendment_law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000166_20200702_502CO0000000205",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2020-07-02",
+   "amendment_law_id": "502CO0000000205",
+   "amendment_law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000166_20140520_000000000000000",
+   "amendment_promulgate_date": "2014-04-23",
+   "amendment_enforcement_date": "2014-05-20",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「自動車」とは、自動車の運転により人を死傷させる行為等の処罰に関する法律（以下「法」という。）第一条第一項に規定する自動車をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-04-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-28T13:21:50+09:00"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000028001",
+  "law_num": "令和八年総務省・外務省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2026-01-23"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000028001_20260123_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "令和八年一月二十三日の衆議院の解散による衆議院議員の総選挙及び当該総選挙の期日に行われる最高裁判所裁判官国民審査に係る在外公館等における在外投票の時間の特例を定める省令",
+  "law_title_kana": "れいわはちねんいちがつにじゅうさんにちのしゅうぎいんのかいさんによるしゅうぎいんぎいんのそうせんきょおよびとうがいそうせんきょのきじつにおこなわれるさいこうさいばんしょさいばんかんこくみんしんさにかかるざいがいこうかんとうにおけるざいがいとうひょうのじかんのとくれいをさだめるしょうれい",
+  "abbrev": null,
+  "category": "国会",
+  "updated": "2026-04-21T14:10:54+09:00",
+  "amendment_promulgate_date": "2026-01-23",
+  "amendment_enforcement_date": "2026-01-23",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "8",
+  "repeal_status": "LossOfEffectiveness",
+  "repeal_date": "2026-01-23",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000028001_20260123_000000000000000",
+   "amendment_promulgate_date": "2026-01-23",
+   "amendment_enforcement_date": "2026-01-23",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "令和八年一月二十三日の衆議院の解散による衆議院議員の総選挙及び当該総選挙の期日に行われる最高裁判所裁判官国民審査に係る公職選挙法施行令第百四十二条第五項（最高裁判所裁判官国民審査法施行令第十三条の規定によりその例によることとされる場合を含む。）に規定する公職選挙法（昭和二十五年法律第百号）第四十九条の二第一項第一号の規定による投票をしなければならない時間は、別表のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-01-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T14:10:54+09:00"
+ }
+}

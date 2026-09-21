@@ -1,0 +1,124 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "329M50000002039",
+  "law_num": "昭和二十九年総理府令第三十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "039",
+  "promulgation_date": "1954-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "329M50000002039_20260408_508M60002000013",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則",
+  "law_title_kana": "ぼうえいだいがっこうぼうえいいかだいがっこうぼうえいけんきゅうしょおよびぼうえいかんさつほんぶそしききそく",
+  "abbrev": null,
+  "category": "防衛",
+  "updated": "2026-05-20T14:26:59+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60002000013",
+  "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年防衛省令第十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329M50000002039_20260408_508M60002000013",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60002000013",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002039_20250401_507M60002000010",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60002000010",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002039_20230701_505M60002000009",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60002000009",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則及び防衛医科大学校の編制等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002039_20230401_505M60002000005",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60002000005",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002039_20210401_503M60002000004",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60002000004",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002039_20180401_430M60002000003",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60002000003",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年防衛省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002039_20170401_429M60002000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60002000004",
+   "amendment_law_num": "平成二十九年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　防衛大学校",
+  "第二章　防衛医科大学校",
+  "第三章　防衛研究所",
+  "第四章　防衛監察本部",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（位置）",
+  "title": "第一条",
+  "paragraphs": [
+   "防衛大学校は、神奈川県に置く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-06-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-20T14:26:59+09:00"
+ }
+}

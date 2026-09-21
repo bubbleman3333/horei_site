@@ -1,0 +1,307 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "335RJNJ09030000",
+  "law_num": "昭和三十五年人事院規則九―三〇",
+  "law_num_era": "Showa",
+  "law_num_year": 35,
+  "law_num_type": "Rule",
+  "law_num_num": "9_30_0",
+  "promulgation_date": "1960-06-09"
+ },
+ "revision_info": {
+  "law_revision_id": "335RJNJ09030000_20260731_508RJNJ09030115",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―三〇（特殊勤務手当）",
+  "law_title_kana": "じんじいんきそくきゅうのさんじゅうとくしゅきんむてあて",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-08-17T13:51:16+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ09030115",
+  "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―三〇―一一五",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "335RJNJ09030000_20260731_508RJNJ09030115",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508RJNJ09030115",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―三〇―一一五",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20260701_508RJNJ09030114",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508RJNJ09030114",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―三〇―一一四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20260408_508RJNJ09030113",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508RJNJ09030113",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―三〇―一一三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20250401_507RJNJ09030112",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09030112",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―三〇―一一二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20241202_506RJNJ09030111",
+   "amendment_promulgate_date": "2024-12-02",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506RJNJ09030111",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則九―三〇―一一一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20240701_506RJNJ09030110",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506RJNJ09030110",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則九―三〇―一一〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20240401_506RJNJ09030109",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506RJNJ09030109",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則九―三〇―一〇九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20240215_506RJNJ09030108",
+   "amendment_promulgate_date": "2024-02-15",
+   "amendment_enforcement_date": "2024-02-15",
+   "amendment_law_id": "506RJNJ09030108",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則九―三〇―一〇八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20230401_505RJNJ09030107",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ09030107",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―三〇―一〇七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20221001_504RJNJ09030106",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504RJNJ09030106",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則九―三〇―一〇六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20220401_504RJNJ09030105",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504RJNJ09030105",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則九―三〇―一〇五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20211001_503RJNJ09030104",
+   "amendment_promulgate_date": "2021-10-01",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503RJNJ09030104",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―三〇―一〇四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20210520_503RJNJ09030103",
+   "amendment_promulgate_date": "2021-05-20",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503RJNJ09030103",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―三〇―一〇三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20210401_503RJNJ09030102",
+   "amendment_promulgate_date": "2021-04-01",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503RJNJ09030102",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―三〇―一〇二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20201201_502RJNJ09030101",
+   "amendment_promulgate_date": "2020-12-01",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502RJNJ09030101",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―三〇―一〇一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20200701_502RJNJ09030100",
+   "amendment_promulgate_date": "2020-07-01",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502RJNJ09030100",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―三〇―一〇〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20200401_502RJNJ09030099",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502RJNJ09030099",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―三〇―九九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20200228_502RJNJ09030098",
+   "amendment_promulgate_date": "2020-02-28",
+   "amendment_enforcement_date": "2020-02-28",
+   "amendment_law_id": "502RJNJ09030098",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―三〇―九八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20191225_501RJNJ09030097",
+   "amendment_promulgate_date": "2019-12-25",
+   "amendment_enforcement_date": "2019-12-25",
+   "amendment_law_id": "501RJNJ09030097",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和元年人事院規則九―三〇―九七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20190501_431RJNJ09030096",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-05-01",
+   "amendment_law_id": "431RJNJ09030096",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十一年人事院規則九―三〇―九六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20190401_431RJNJ09030095",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431RJNJ09030095",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十一年人事院規則九―三〇―九五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20190314_431RJNJ09030094",
+   "amendment_promulgate_date": "2019-03-14",
+   "amendment_enforcement_date": "2019-03-14",
+   "amendment_law_id": "431RJNJ09030094",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十一年人事院規則九―三〇―九四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20180401_430RJNJ09030093",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RJNJ09030093",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則九―三〇―九三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20171012_429RJNJ09030092",
+   "amendment_promulgate_date": "2017-10-12",
+   "amendment_enforcement_date": "2017-10-12",
+   "amendment_law_id": "429RJNJ09030092",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―三〇―九二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20170714_429RJNJ09030091",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-07-14",
+   "amendment_law_id": "429RJNJ09030091",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―三〇―九一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335RJNJ09030000_20170401_429RJNJ09030090",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429RJNJ09030090",
+   "amendment_law_num": "平成二十九年人事院規則九―三〇―九〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "給与法第十三条に規定する特殊勤務手当の種類、支給される職員の範囲、支給額その他特殊勤務手当の支給に関し必要な事項は、別に定める場合を除き、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1960-06-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-17T13:51:16+09:00"
+ }
+}

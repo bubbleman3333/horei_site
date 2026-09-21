@@ -1,0 +1,237 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "336CO0000000011",
+  "law_num": "昭和三十六年政令第十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 36,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "011",
+  "promulgation_date": "1961-01-26"
+ },
+ "revision_info": {
+  "law_revision_id": "336CO0000000011_20260501_507CO0000000362",
+  "law_type": "CabinetOrder",
+  "law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令",
+  "law_title_kana": "いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつしこうれい",
+  "abbrev": "薬事法施行令,医薬品医療機器等法施行令,薬機法施行令",
+  "category": "厚生",
+  "updated": "2026-05-01T00:54:40+09:00",
+  "amendment_promulgate_date": "2025-10-31",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000362",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和七年政令第三百六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "336CO0000000011_21171231_430CO0000000362",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "環太平洋パートナーシップ協定が日本国について効力を生ずる日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "430CO0000000362",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_21171231_429CO0000000008",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "環太平洋パートナーシップ協定が日本国について効力を生ずる日の前日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "429CO0000000008",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20270520_508CO0000000210",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2027-05-20",
+   "amendment_law_id": "508CO0000000210",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20260501_507CO0000000362",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507CO0000000362",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第三百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20251120_507CO0000000357",
+   "amendment_promulgate_date": "2025-10-29",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507CO0000000357",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令及び国立研究開発法人医薬基盤・健康・栄養研究所法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20251031_507CO0000000362",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2025-10-31",
+   "amendment_law_id": "507CO0000000362",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第三百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20241212_506CO0000000283",
+   "amendment_promulgate_date": "2024-09-11",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "506CO0000000283",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20221201_503CO0000000001",
+   "amendment_promulgate_date": "2021-01-05",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "503CO0000000001",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20220520_504CO0000000196",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504CO0000000196",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20210801_503CO0000000001",
+   "amendment_promulgate_date": "2021-01-05",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503CO0000000001",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20210801_502CO0000000228",
+   "amendment_promulgate_date": "2020-07-28",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "502CO0000000228",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20200901_502CO0000000228",
+   "amendment_promulgate_date": "2020-07-28",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000228",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20200502_502CO0000000162",
+   "amendment_promulgate_date": "2020-05-02",
+   "amendment_enforcement_date": "2020-05-02",
+   "amendment_law_id": "502CO0000000162",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20200401_502CO0000000040",
+   "amendment_promulgate_date": "2020-03-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000040",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20181230_429CO0000000008",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "429CO0000000008",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20180401_430CO0000000041",
+   "amendment_promulgate_date": "2018-02-28",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000041",
+   "amendment_law_title": "臨床研究法第二十四条第二号の国民の保健医療に関する法律等を定める政令",
+   "amendment_law_num": "平成三十年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "336CO0000000011_20150401_427CO0000000002",
+   "amendment_promulgate_date": "2015-01-09",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000002",
+   "amendment_law_num": "平成二十七年政令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　地方薬事審議会",
+  "第三章　薬局",
+  "第四章　医薬品、医薬部外品及び化粧品の製造販売業及び製造業",
+  "第五章　医療機器及び体外診断用医薬品の製造販売業及び製造業等",
+  "第六章　再生医療等製品の製造販売業及び製造業",
+  "第七章　医薬品、医療機器及び再生医療等製品の販売業等",
+  "第八章　医薬品等の検査",
+  "第九章　医薬品等の取扱い",
+  "第十章　医薬品等の広告",
+  "第十一章　医薬品等の安全対策",
+  "第十二章　生物由来製品の特例",
+  "第十三章　監督",
+  "第十四章　希少疾病用医薬品、希少疾病用医療機器及び希少疾病用再生医療等製品の指定等",
+  "第十五章　雑則"
+ ],
+ "article1": {
+  "caption": "（医療機器の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（以下「法」という。）第二条第四項の医療機器は、別表第一のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1961-01-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T00:54:40+09:00"
+ }
+}

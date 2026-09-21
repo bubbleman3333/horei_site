@@ -1,0 +1,6 @@
+{% extends "base.html" %}
+{% block title %}ページが見つかりません | {{ site.name }}{% endblock %}
+{% block content %}
+<h1>ページが見つかりません</h1>
+<p>1 年以上動きが無くなって整理されたか、アドレスが変わった可能性があります。<a href="{{ url() }}">トップページ</a>か<a href="{{ url('search/') }}">検索</a>から探し直してください。</p>
+{% endblock %}

@@ -1,0 +1,215 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "503M60004000010",
+  "law_num": "令和三年デジタル庁令第十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 3,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "010",
+  "promulgation_date": "2021-12-24"
+ },
+ "revision_info": {
+  "law_revision_id": "503M60004000010_20260626_508M60004000005",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則",
+  "law_title_kana": "こうてききゅうふのしきゅうとうのじんそくかつかくじつなじっしのためのよちょきんこうざのとうろくとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-07-13T11:35:34+09:00",
+  "amendment_promulgate_date": "2026-06-26",
+  "amendment_enforcement_date": "2026-06-26",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60004000005",
+  "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+  "amendment_law_num": "令和八年デジタル庁令第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "503M60004000010_20260626_508M60004000005",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2026-06-26",
+   "amendment_law_id": "508M60004000005",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和八年デジタル庁令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20260614_507M60004000008",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "507M60004000008",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和七年デジタル庁令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20260401_508M60004000003",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60004000003",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和八年デジタル庁令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20260401_507M60004000007",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60004000007",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和七年デジタル庁令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20250728_507M60004000006",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2025-07-28",
+   "amendment_law_id": "507M60004000006",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和七年デジタル庁令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20250624_507M60004000005",
+   "amendment_promulgate_date": "2025-06-24",
+   "amendment_enforcement_date": "2025-06-24",
+   "amendment_law_id": "507M60004000005",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和七年デジタル庁令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20250401_507M60004000001",
+   "amendment_promulgate_date": "2025-03-03",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60004000001",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和七年デジタル庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20250324_506M60004000008",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "506M60004000008",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和六年デジタル庁令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20241202_506M60004000008",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60004000008",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和六年デジタル庁令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20241001_506M60004000007",
+   "amendment_promulgate_date": "2024-09-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60004000007",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和六年デジタル庁令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20240701_506M60004000006",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60004000006",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和六年デジタル庁令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20240527_506M60004000005",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60004000005",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和六年デジタル庁令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20240401_506M60004000002",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60004000002",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和六年デジタル庁令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20240301_506M60004000003",
+   "amendment_promulgate_date": "2024-02-26",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "506M60004000003",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和六年デジタル庁令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20230721_505M60004000002",
+   "amendment_promulgate_date": "2023-07-21",
+   "amendment_enforcement_date": "2023-07-21",
+   "amendment_law_id": "505M60004000002",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和五年デジタル庁令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20220722_504M60004000002",
+   "amendment_promulgate_date": "2022-07-22",
+   "amendment_enforcement_date": "2022-07-22",
+   "amendment_law_id": "504M60004000002",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和四年デジタル庁令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000010_20220101_000000000000000",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この庁令において使用する用語は、公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律（以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2021-12-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-13T11:35:34+09:00"
+ }
+}

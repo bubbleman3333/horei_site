@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "505CO0000000379",
+  "law_num": "令和五年政令第三百七十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "379",
+  "promulgation_date": "2023-12-27"
+ },
+ "revision_info": {
+  "law_revision_id": "505CO0000000379_20260401_507CO0000000412",
+  "law_type": "CabinetOrder",
+  "law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律施行令",
+  "law_title_kana": "だつたんそせいちょうがたけいざいこうぞうへのえんかつないこうのすいしんにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-02T21:49:13+09:00",
+  "amendment_promulgate_date": "2025-12-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000412",
+  "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和七年政令第四百十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505CO0000000379_20260401_507CO0000000412",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000412",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第四百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505CO0000000379_20240216_000000000000000",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-02-16",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（当該年度の前三年度中の各年度ごとの二酸化炭素の排出量の算定方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "脱炭素成長型経済構造への円滑な移行の推進に関する法律（以下「法」という。）第三十三条第一項の政令で定めるところにより算定される当該年度の前三年度中の各年度ごとの二酸化炭素の排出量は、次の各号に掲げる事業分野の区分に応じそれぞれ当該各号に定める量の合計量とする。",
+   "二以上の事業分野において事業活動を行う事業者の当該年度の前三年度中の各年度ごとの二酸化炭素の排出量は、各事業分野について前項の規定によって算定した量の合計量を、その事業者の当該年度の前三年度中の各年度ごとの二酸化炭素の排出量とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-12-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:49:13+09:00"
+ }
+}

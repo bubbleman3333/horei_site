@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "341M50010000036",
+  "law_num": "昭和四十一年農林省令第三十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "036",
+  "promulgation_date": "1966-07-01"
+ },
+ "revision_info": {
+  "law_revision_id": "341M50010000036_20260401_507M60000200005",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "野菜生産出荷安定法施行規則",
+  "law_title_kana": "やさいせいさんしゅっかあんていほうしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-04-01T05:56:24+09:00",
+  "amendment_promulgate_date": "2025-02-26",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000200005",
+  "amendment_law_title": "野菜生産出荷安定法施行規則及び地域資源を活用した農林漁業者等による新事業の創出等及び地域の農林水産物の利用促進に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年農林水産省令第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341M50010000036_20260401_507M60000200005",
+   "amendment_promulgate_date": "2025-02-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000200005",
+   "amendment_law_title": "野菜生産出荷安定法施行規則及び地域資源を活用した農林漁業者等による新事業の創出等及び地域の農林水産物の利用促進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341M50010000036_20250226_507M60000200005",
+   "amendment_promulgate_date": "2025-02-26",
+   "amendment_enforcement_date": "2025-02-26",
+   "amendment_law_id": "507M60000200005",
+   "amendment_law_title": "野菜生産出荷安定法施行規則及び地域資源を活用した農林漁業者等による新事業の創出等及び地域の農林水産物の利用促進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50010000036_20230101_504M60000200072",
+   "amendment_promulgate_date": "2022-12-08",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000200072",
+   "amendment_law_title": "書面の交付を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50010000036_20160401_428M60000200028",
+   "amendment_promulgate_date": "2016-04-01",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000200028",
+   "amendment_law_num": "平成二十八年農林水産省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50010000036_20160401_428M60000200006",
+   "amendment_promulgate_date": "2016-01-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000200006",
+   "amendment_law_num": "平成二十八年農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（野菜指定産地の指定の基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "野菜生産出荷安定法（以下「法」という。）第四条第二項第一号の農林水産省令で定める面積は、次の表の上欄に掲げる法第二条の指定野菜（以下「指定野菜」という。）の種類ごとに、それぞれ同表の下欄に掲げるとおりとする。",
+   "その区域が既に当該指定野菜の種別以外の指定野菜の種別（以下「他の種別」という。）に係る野菜指定産地として指定されているか、又はその区域を同時に他の種別に係る野菜指定産地としても指定しようとするものである場合における前項の規定の適用については、同項中「二十ヘクタール」とあるのは「十六ヘクタール」と、「十二ヘクタール」とあるのは「十ヘクタール」と、「八ヘクタール」とあるのは「六ヘクタール」とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1966-07-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T05:56:24+09:00"
+ }
+}

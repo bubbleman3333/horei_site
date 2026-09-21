@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60001000002",
+  "law_num": "令和六年環境省令第二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "2024-01-16"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60001000002_20260401_508M60001000012",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "気候変動適応法施行規則",
+  "law_title_kana": "きこうへんどうてきおうほうしこうきそく",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-05-14T10:20:39+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000012",
+  "amendment_law_title": "気候変動適応法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年環境省令第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60001000002_20260401_508M60001000012",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60001000012",
+   "amendment_law_title": "気候変動適応法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60001000002_20240401_000000000000000",
+   "amendment_promulgate_date": "2024-01-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（熱中症警戒情報を発表する場合）",
+  "title": "第一条",
+  "paragraphs": [
+   "気候変動適応法（以下「法」という。）第十八条の環境省令で定める場合は、特定の日における気圧、気温、相対湿度、日射量、風等の気象に関する情報を基に算出される値（小数点以下の端数があるときは、これを四捨五入する。）の最高値が、府県予報区（気象業務法施行規則（昭和二十七年運輸省令第百一号）第八条第一項に規定する府県予報区をいう。ただし、釧路・根室・十勝地方及び鹿児島県のうち、十勝地方及び奄美地方については、それぞれを一つの区域とする。）内の情報提供地点（気圧、気温、相対湿度、日射量、風等の気象に関する情報を基に値を算出し、情報提供を行う地点をいう。次条第一号において同じ。）のいずれかで三十三以上となることが予測される場合とする。ただし、法第十九条第一項の規定により熱中症特別警戒情報を発表する場合を除く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-01-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-14T10:20:39+09:00"
+ }
+}

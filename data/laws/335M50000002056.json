@@ -1,0 +1,207 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "335M50000002056",
+  "law_num": "昭和三十五年総理府令第五十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 35,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "056",
+  "promulgation_date": "1960-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "335M50000002056_20260225_508M60080000002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "放射性同位元素等の規制に関する法律施行規則",
+  "law_title_kana": "ほうしゃせいどういげんそとうのきせいにかんするほうりつしこうきそく",
+  "abbrev": "放射線障害防止法施行規則,放射性同位元素等規制法施行規則",
+  "category": "工業",
+  "updated": "2026-03-10T16:59:13+09:00",
+  "amendment_promulgate_date": "2026-02-25",
+  "amendment_enforcement_date": "2026-02-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60080000002",
+  "amendment_law_title": "放射性同位元素等の規制に関する法律施行規則の一部を改正する規則",
+  "amendment_law_num": "令和八年原子力規制委員会規則第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "335M50000002056_20260225_508M60080000002",
+   "amendment_promulgate_date": "2026-02-25",
+   "amendment_enforcement_date": "2026-02-25",
+   "amendment_law_id": "508M60080000002",
+   "amendment_law_title": "放射性同位元素等の規制に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和八年原子力規制委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20250601_507M60080000005",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60080000005",
+   "amendment_law_title": "放射性同位元素等の規制に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和七年原子力規制委員会規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20240307_506M60080000001",
+   "amendment_promulgate_date": "2024-03-07",
+   "amendment_enforcement_date": "2024-03-07",
+   "amendment_law_id": "506M60080000001",
+   "amendment_law_title": "原子力規制委員会の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和六年原子力規制委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20231001_502M60080000017",
+   "amendment_promulgate_date": "2020-09-11",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "502M60080000017",
+   "amendment_law_title": "放射線の量等の測定の信頼性確保のための放射性同位元素等の規制に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和二年原子力規制委員会規則第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20210401_502M60080000013",
+   "amendment_promulgate_date": "2020-03-18",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60080000013",
+   "amendment_law_title": "眼の水晶体の線量限度の変更のための放射性同位元素等の規制に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和二年原子力規制委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20210101_502M60080000021",
+   "amendment_promulgate_date": "2020-12-22",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60080000021",
+   "amendment_law_title": "放射性同位元素等の規制に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和二年原子力規制委員会規則第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20210101_502M60080000020",
+   "amendment_promulgate_date": "2020-12-17",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60080000020",
+   "amendment_law_title": "核燃料物質等の工場又は事業所の外における運搬に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和二年原子力規制委員会規則第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20200911_502M60080000017",
+   "amendment_promulgate_date": "2020-09-11",
+   "amendment_enforcement_date": "2020-09-11",
+   "amendment_law_id": "502M60080000017",
+   "amendment_law_title": "放射線の量等の測定の信頼性確保のための放射性同位元素等の規制に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和二年原子力規制委員会規則第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20190901_501M60080000003",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-09-01",
+   "amendment_law_id": "501M60080000003",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う原子力規制委員会関係規則の整備に関する規則",
+   "amendment_law_num": "令和元年原子力規制委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20190901_430M60080000011",
+   "amendment_promulgate_date": "2018-11-26",
+   "amendment_enforcement_date": "2019-09-01",
+   "amendment_law_id": "430M60080000011",
+   "amendment_law_title": "放射性同位元素等による放射線障害の防止に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20190701_501M60080000003",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60080000003",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う原子力規制委員会関係規則の整備に関する規則",
+   "amendment_law_num": "令和元年原子力規制委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20190401_430M60080000001",
+   "amendment_promulgate_date": "2018-01-05",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60080000001",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う原子力規制委員会関係規則の整備等に関する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20180608_430M60080000006",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-06-08",
+   "amendment_law_id": "430M60080000006",
+   "amendment_law_title": "核原料物質又は核燃料物質の製錬の事業に関する規則等の一部を改正する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20180401_430M60080000001",
+   "amendment_promulgate_date": "2018-01-05",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60080000001",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う原子力規制委員会関係規則の整備等に関する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000002056_20151005_427M60080000007",
+   "amendment_promulgate_date": "2015-10-05",
+   "amendment_enforcement_date": "2015-10-05",
+   "amendment_law_id": "427M60080000007",
+   "amendment_law_num": "平成二十七年原子力規制委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　定義",
+  "第二章　許可の申請等",
+  "第二章の二　放射性同位元素装備機器の設計認証等の申請等",
+  "第二章の三　使用施設等の基準",
+  "第二章の四　施設検査等",
+  "第三章　使用の基準等",
+  "第四章　測定の義務等",
+  "第五章　放射線取扱主任者等",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1960-09-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-03-10T16:59:13+09:00"
+ }
+}

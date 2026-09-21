@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60004018002",
+  "law_num": "令和八年デジタル庁・総務省・法務省令第二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "2026-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60004018002_20260614_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定特別永住者証明書の様式その他特定特別永住者証明書に関し必要な事項を定める命令",
+  "law_title_kana": "とくていとくべつえいじゅうしゃしょうめいしょのようしきそのたとくていとくべつえいじゅうしゃしょうめいしょにかんしひつようなじこうをさだめるめいれい",
+  "abbrev": null,
+  "category": "外事",
+  "updated": "2026-06-14T00:53:36+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60004018002_20260614_000000000000000",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定特別永住者証明書の様式）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定特別永住者証明書の様式は、別記様式によるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-14T00:53:36+09:00"
+ }
+}

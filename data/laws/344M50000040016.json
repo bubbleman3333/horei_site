@@ -1,0 +1,161 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "344M50000040016",
+  "law_num": "昭和四十四年大蔵省令第十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 44,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "016",
+  "promulgation_date": "1969-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "344M50000040016_20260401_508M60000040016",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "関税定率法施行規則",
+  "law_title_kana": "かんぜいていりつほうしこうきそく",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-05-13T12:26:14+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040016",
+  "amendment_law_title": "関税法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "344M50000040016_20260401_508M60000040016",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040016",
+   "amendment_law_title": "関税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20230401_505M60000040031",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000040031",
+   "amendment_law_title": "関税定率法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20220401_503M60000040070",
+   "amendment_promulgate_date": "2021-10-18",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000040070",
+   "amendment_law_title": "関税定率法施行規則及び関税暫定措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20220101_503M60000040070",
+   "amendment_promulgate_date": "2021-10-18",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040070",
+   "amendment_law_title": "関税定率法施行規則及び関税暫定措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20210331_503M60000040037",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_law_id": "503M60000040037",
+   "amendment_law_title": "関税定率法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20190401_431M60000040026",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040026",
+   "amendment_law_title": "関税定率法施行規則及び税関関係法令に係る行政手続等における情報通信の技術の利用に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20181001_430M60000040009",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430M60000040009",
+   "amendment_law_title": "関税定率法施行規則及び関税暫定措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20180401_430M60000040009",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040009",
+   "amendment_law_title": "関税定率法施行規則及び関税暫定措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20180109_430M60000040001",
+   "amendment_promulgate_date": "2018-01-09",
+   "amendment_enforcement_date": "2018-01-09",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040001",
+   "amendment_law_title": "関税定率法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20171008_428M60000040055",
+   "amendment_promulgate_date": "2016-06-17",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428M60000040055",
+   "amendment_law_title": "関税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十八年財務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000040016_20170401_429M60000040035",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000040035",
+   "amendment_law_num": "平成二十九年財務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（価格の換算に用いる外国為替相場）",
+  "title": "第一条",
+  "paragraphs": [
+   "関税定率法（明治四十三年法律第五十四号。以下「法」という。）第四条の七第二項（価格の換算に用いる外国為替相場）に規定する財務省令で定める外国為替相場は、同条第一項に規定する日の属する週の前々週における実勢外国為替相場の当該週間の平均値（当該平均値の算定の基礎とされる実勢外国為替相場が当該前々週にないときは、その週の直前の当該実勢外国為替相場のある週における実勢外国為替相場の当該週間の平均値とする。以下この条において単に「平均値」という。）に基づき税関長が公示する相場とする。ただし、実勢外国為替相場の著しい変動により平均値に基づくことが適当でないと認められる場合は、同項に規定する日の直近の実勢外国為替相場に基づき税関長が公示する相場とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1969-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T12:26:14+09:00"
+ }
+}

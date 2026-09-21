@@ -1,0 +1,448 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "356M50000010054",
+  "law_num": "昭和五十六年法務省令第五十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 56,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "054",
+  "promulgation_date": "1981-10-28"
+ },
+ "revision_info": {
+  "law_revision_id": "356M50000010054_20260901_508M60000010048",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "出入国管理及び難民認定法施行規則",
+  "law_title_kana": "しゅつにゅうこくかんりおよびなんみんにんていほうしこうきそく",
+  "abbrev": "入管法施行規則",
+  "category": "外事",
+  "updated": "2026-09-16T09:49:29+09:00",
+  "amendment_promulgate_date": "2026-09-01",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010048",
+  "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "356M50000010054_20270401_507M60000010045",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507M60000010045",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う法務省令の整備及び経過措置に関する省令",
+   "amendment_law_num": "令和七年法務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20270319_507M60000010043",
+   "amendment_promulgate_date": "2025-09-08",
+   "amendment_enforcement_date": "2027-03-19",
+   "amendment_law_id": "507M60000010043",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20261001_508M60000010047",
+   "amendment_promulgate_date": "2026-08-28",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000010047",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20260901_508M60000010048",
+   "amendment_promulgate_date": "2026-09-01",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508M60000010048",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20260701_508M60000010041",
+   "amendment_promulgate_date": "2026-06-23",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60000010041",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20260614_508M60000010020",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "508M60000010020",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20260521_508M60000010011",
+   "amendment_promulgate_date": "2026-03-17",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000010011",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20260401_508M60000010013",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000010013",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20260331_508M60000010024",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000010024",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20251016_507M60000010051",
+   "amendment_promulgate_date": "2025-10-10",
+   "amendment_enforcement_date": "2025-10-16",
+   "amendment_law_id": "507M60000010051",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250930_507M60000010047",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-09-30",
+   "amendment_law_id": "507M60000010047",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則及び出入国管理及び難民認定法第七条第一項第二号の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250930_507M60000010045",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-09-30",
+   "amendment_law_id": "507M60000010045",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う法務省令の整備及び経過措置に関する省令",
+   "amendment_law_num": "令和七年法務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250905_507M60000010042",
+   "amendment_promulgate_date": "2025-09-05",
+   "amendment_enforcement_date": "2025-09-05",
+   "amendment_law_id": "507M60000010042",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250601_507M60000010034",
+   "amendment_promulgate_date": "2025-05-29",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000010034",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250601_507M60000010007",
+   "amendment_promulgate_date": "2025-03-12",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000010007",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250529_507M60000010036",
+   "amendment_promulgate_date": "2025-05-29",
+   "amendment_enforcement_date": "2025-05-29",
+   "amendment_law_id": "507M60000010036",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250515_507M60000010030",
+   "amendment_promulgate_date": "2025-04-15",
+   "amendment_enforcement_date": "2025-05-15",
+   "amendment_law_id": "507M60000010030",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250401_507M60000010017",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000010017",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250401_507M60000010007",
+   "amendment_promulgate_date": "2025-03-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000010007",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20250401_507M60000010004",
+   "amendment_promulgate_date": "2025-02-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000010004",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20240610_506M60000010037",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-06-10",
+   "amendment_law_id": "506M60000010037",
+   "amendment_law_title": "出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する法律の施行に伴う法務省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年法務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20240426_506M60000010034",
+   "amendment_promulgate_date": "2024-04-26",
+   "amendment_enforcement_date": "2024-04-26",
+   "amendment_law_id": "506M60000010034",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20240422_506M60000010031",
+   "amendment_promulgate_date": "2024-04-22",
+   "amendment_enforcement_date": "2024-04-22",
+   "amendment_law_id": "506M60000010031",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20240331_506M60000010013",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-03-31",
+   "amendment_law_id": "506M60000010013",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20231201_505M60000010039",
+   "amendment_promulgate_date": "2023-11-06",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505M60000010039",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20231101_505M60000010038",
+   "amendment_promulgate_date": "2023-10-25",
+   "amendment_enforcement_date": "2023-11-01",
+   "amendment_law_id": "505M60000010038",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20230801_505M60000010029",
+   "amendment_promulgate_date": "2023-05-31",
+   "amendment_enforcement_date": "2023-08-01",
+   "amendment_law_id": "505M60000010029",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20230421_505M60000010024",
+   "amendment_promulgate_date": "2023-04-14",
+   "amendment_enforcement_date": "2023-04-21",
+   "amendment_law_id": "505M60000010024",
+   "amendment_law_title": "出入国管理及び難民認定法別表第一の二の表の高度専門職の項の下欄の基準を定める省令及び出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20230420_505M60000010026",
+   "amendment_promulgate_date": "2023-04-20",
+   "amendment_enforcement_date": "2023-04-20",
+   "amendment_law_id": "505M60000010026",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20230331_505M60000010008",
+   "amendment_promulgate_date": "2023-03-29",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505M60000010008",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則及び出入国管理及び難民認定法別表第一の二の表の高度専門職の項の下欄の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20230327_505M60000010007",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-03-27",
+   "amendment_law_id": "505M60000010007",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20230317_505M60000010004",
+   "amendment_promulgate_date": "2023-03-17",
+   "amendment_enforcement_date": "2023-03-17",
+   "amendment_law_id": "505M60000010004",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20221231_504M60000010033",
+   "amendment_promulgate_date": "2022-06-14",
+   "amendment_enforcement_date": "2022-12-31",
+   "amendment_law_id": "504M60000010033",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20220316_504M60000010008",
+   "amendment_promulgate_date": "2022-03-09",
+   "amendment_enforcement_date": "2022-03-16",
+   "amendment_law_id": "504M60000010008",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20220315_503M60000010044",
+   "amendment_promulgate_date": "2021-12-09",
+   "amendment_enforcement_date": "2022-03-15",
+   "amendment_law_id": "503M60000010044",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20220309_504M60000010008",
+   "amendment_promulgate_date": "2022-03-09",
+   "amendment_enforcement_date": "2022-03-09",
+   "amendment_law_id": "504M60000010008",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20210630_503M60000010033",
+   "amendment_promulgate_date": "2021-06-09",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_law_id": "503M60000010033",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20210426_503M60000010029",
+   "amendment_promulgate_date": "2021-04-26",
+   "amendment_enforcement_date": "2021-04-26",
+   "amendment_law_id": "503M60000010029",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20210401_503M60000010016",
+   "amendment_promulgate_date": "2021-03-30",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000010016",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "356M50000010054_20210330_503M60000010016",
+   "amendment_promulgate_date": "2021-03-30",
+   "amendment_enforcement_date": "2021-03-30",
+   "amendment_law_id": "503M60000010016",
+   "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（出入国港）",
+  "title": "第一条",
+  "paragraphs": [
+   "出入国管理及び難民認定法（以下「法」という。）第二条第八号に規定する出入国港は、次の各号に掲げるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1981-10-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-16T09:49:29+09:00"
+ }
+}

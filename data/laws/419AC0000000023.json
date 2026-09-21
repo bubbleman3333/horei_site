@@ -1,0 +1,460 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "419AC0000000023",
+  "law_num": "平成十九年法律第二十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "Act",
+  "law_num_num": "023",
+  "promulgation_date": "2007-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "419AC0000000023_20260401_507AC0000000052",
+  "law_type": "Act",
+  "law_title": "特別会計に関する法律",
+  "law_title_kana": "とくべつかいけいにかんするほうりつ",
+  "abbrev": "特別会計法,特会法",
+  "category": "財務通則",
+  "updated": "2026-01-06T10:01:15+09:00",
+  "amendment_promulgate_date": "2025-06-04",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000052",
+  "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419AC0000000023_21171231_351AC0000000038",
+   "amendment_promulgate_date": "1976-05-29",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "協定の効力発生の日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "351AC0000000038",
+   "amendment_law_title": "経済協力開発機構金融支援基金への加盟に伴う措置に関する法律",
+   "amendment_law_num": "昭和五十一年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20310716_508AC0000000060",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2031-07-16",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2031-07-16",
+   "amendment_law_id": "508AC0000000060",
+   "amendment_law_title": "労働者災害補償保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20270714_508AC0000000055",
+   "amendment_promulgate_date": "2026-07-15",
+   "amendment_enforcement_date": "2027-07-14",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-07-14",
+   "amendment_law_id": "508AC0000000055",
+   "amendment_law_title": "主要食糧の需給及び価格の安定に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20270423_508AC0000000068",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2027-04-23",
+   "amendment_enforcement_comment": "公布の日から起算して九月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-04-23",
+   "amendment_law_id": "508AC0000000068",
+   "amendment_law_title": "電気事業法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20261001_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20261001_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20260401_508AC0000000003",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000003",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20260401_507AC0000000052",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000052",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20260401_507AC0000000040",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000040",
+   "amendment_law_title": "特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20260401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20251222_507AC0000000088",
+   "amendment_promulgate_date": "2025-12-22",
+   "amendment_enforcement_date": "2025-12-22",
+   "amendment_law_id": "507AC0000000088",
+   "amendment_law_title": "地方交付税法及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20251201_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20251001_507AC0000000022",
+   "amendment_promulgate_date": "2025-04-16",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507AC0000000022",
+   "amendment_law_title": "道路法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20251001_506AC0000000026",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506AC0000000026",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20250901_507AC0000000055",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507AC0000000055",
+   "amendment_law_title": "航空法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20250804_507AC0000000030",
+   "amendment_promulgate_date": "2025-05-14",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507AC0000000030",
+   "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20250620_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-06-20",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20250514_507AC0000000030",
+   "amendment_promulgate_date": "2025-05-14",
+   "amendment_enforcement_date": "2025-05-14",
+   "amendment_law_id": "507AC0000000030",
+   "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20250416_507AC0000000022",
+   "amendment_promulgate_date": "2025-04-16",
+   "amendment_enforcement_date": "2025-04-16",
+   "amendment_law_id": "507AC0000000022",
+   "amendment_law_title": "道路法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20250401_507AC0000000008",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507AC0000000008",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20250401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20250401_506AC0000000026",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000026",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20241223_506AC0000000071",
+   "amendment_promulgate_date": "2024-12-23",
+   "amendment_enforcement_date": "2024-12-23",
+   "amendment_law_id": "506AC0000000071",
+   "amendment_law_title": "地方交付税法及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20241023_506AC0000000037",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-10-23",
+   "amendment_law_id": "506AC0000000037",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律",
+   "amendment_law_num": "令和六年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20241001_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20240902_506AC0000000045",
+   "amendment_promulgate_date": "2024-06-07",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506AC0000000045",
+   "amendment_law_title": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20240612_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-06-12",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20240524_506AC0000000037",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506AC0000000037",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律",
+   "amendment_law_num": "令和六年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20240517_506AC0000000026",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506AC0000000026",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20240401_506AC0000000005",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506AC0000000005",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20240401_505AC0000000034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000034",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20240101_431AC0000000003",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "431AC0000000003",
+   "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律",
+   "amendment_law_num": "平成三十一年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20231206_505AC0000000083",
+   "amendment_promulgate_date": "2023-12-06",
+   "amendment_enforcement_date": "2023-12-06",
+   "amendment_law_id": "505AC0000000083",
+   "amendment_law_title": "地方交付税法及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20230630_505AC0000000032",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2023-06-30",
+   "amendment_law_id": "505AC0000000032",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律",
+   "amendment_law_num": "令和五年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20230401_505AC0000000002",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505AC0000000002",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20230401_504AC0000000065",
+   "amendment_promulgate_date": "2022-06-15",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000065",
+   "amendment_law_title": "自動車損害賠償保障法及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20221201_504AC0000000062",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "504AC0000000062",
+   "amendment_law_title": "航空法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20221114_504AC0000000046",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504AC0000000046",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20221101_504AC0000000039",
+   "amendment_promulgate_date": "2022-05-09",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504AC0000000039",
+   "amendment_law_title": "情報通信技術を利用する方法による国の歳入等の納付に関する法律",
+   "amendment_law_num": "令和四年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20220615_504AC0000000065",
+   "amendment_promulgate_date": "2022-06-15",
+   "amendment_enforcement_date": "2022-06-15",
+   "amendment_law_id": "504AC0000000065",
+   "amendment_law_title": "自動車損害賠償保障法及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　各特別会計の目的、管理及び経理",
+  "第三章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、一般会計と区分して経理を行うため、特別会計を設置するとともに、その目的、管理及び経理について定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-06T10:01:15+09:00"
+ }
+}

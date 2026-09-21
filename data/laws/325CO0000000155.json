@@ -1,0 +1,100 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "325CO0000000155",
+  "law_num": "昭和二十五年政令第百五十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "155",
+  "promulgation_date": "1950-05-23"
+ },
+ "revision_info": {
+  "law_revision_id": "325CO0000000155_20260301_507CO0000000368",
+  "law_type": "CabinetOrder",
+  "law_title": "精神保健及び精神障害者福祉に関する法律施行令",
+  "law_title_kana": "せいしんほけんおよびせいしんしょうがいしゃふくしにかんするほうりつせこうれい",
+  "abbrev": "精神保健福祉法施行令",
+  "category": "厚生",
+  "updated": "2026-03-01T00:13:04+09:00",
+  "amendment_promulgate_date": "2025-11-06",
+  "amendment_enforcement_date": "2026-03-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000368",
+  "amendment_law_title": "精神保健及び精神障害者福祉に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325CO0000000155_20260301_507CO0000000368",
+   "amendment_promulgate_date": "2025-11-06",
+   "amendment_enforcement_date": "2026-03-01",
+   "amendment_law_id": "507CO0000000368",
+   "amendment_law_title": "精神保健及び精神障害者福祉に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000155_20190701_501CO0000000044",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000044",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000155_20190601_430CO0000000291",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "430CO0000000291",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の施行に伴う厚生労働省関係政令等の整理に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000155_20190401_429CO0000000232",
+   "amendment_promulgate_date": "2017-09-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429CO0000000232",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000155_20160401_427CO0000000386",
+   "amendment_promulgate_date": "2015-11-18",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000386",
+   "amendment_law_title": "精神保健及び精神障害者福祉に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "精神保健及び精神障害者福祉に関する法律（以下「法」という。）第七条の規定による国庫の補助は、各年度において都道府県が精神保健福祉センターの設置のために支出した費用の額及び運営のために支出した費用のうち次に掲げる事業に係るもの（職員の給与費を除く。）の額から、その年度における事業に伴う収入その他の収入の額を控除した精算額につき、厚生労働大臣が総務大臣及び財務大臣と協議して定める算定基準に従つて行うものとする。",
+   "前項の規定により控除しなければならない金額がその年度において都道府県が支出した費用の額を超過したときは、その超過額は、後年度における支出額から同項の規定による控除額と併せて控除する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-05-23",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-03-01T00:13:04+09:00"
+ }
+}

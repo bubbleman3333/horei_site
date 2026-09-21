@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "340M50004000023",
+  "law_num": "昭和四十年建設省令第二十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "1965-07-10"
+ },
+ "revision_info": {
+  "law_revision_id": "340M50004000023_20251001_507M60000800071",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方住宅供給公社法施行規則",
+  "law_title_kana": "ちほうじゅうたくきょうきゅうこうしゃほうしこうきそく",
+  "abbrev": null,
+  "category": "建築・住宅",
+  "updated": "2025-10-01T04:47:10+09:00",
+  "amendment_promulgate_date": "2025-06-24",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800071",
+  "amendment_law_title": "住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年国土交通省令第七十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340M50004000023_20251001_507M60000800071",
+   "amendment_promulgate_date": "2025-06-24",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000800071",
+   "amendment_law_title": "住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340M50004000023_20250401_507M60000800008",
+   "amendment_promulgate_date": "2025-02-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000800008",
+   "amendment_law_title": "地方住宅供給公社法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50004000023_20210401_503M60000800010",
+   "amendment_promulgate_date": "2021-03-25",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000800010",
+   "amendment_law_title": "地方住宅供給公社法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50004000023_20210325_503M60000800010",
+   "amendment_promulgate_date": "2021-03-25",
+   "amendment_enforcement_date": "2021-03-25",
+   "amendment_law_id": "503M60000800010",
+   "amendment_law_title": "地方住宅供給公社法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50004000023_20180918_430M60000800070",
+   "amendment_promulgate_date": "2018-09-18",
+   "amendment_enforcement_date": "2018-09-18",
+   "amendment_law_id": "430M60000800070",
+   "amendment_law_title": "地方住宅供給公社法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50004000023_20160331_428M60000800027",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-03-31",
+   "amendment_law_id": "428M60000800027",
+   "amendment_law_num": "平成二十八年国土交通省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（受入額をこえる一定額の算出方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方住宅供給公社法（以下「法」という。）第二十一条第二項に規定する受入額をこえる一定額は、住宅の積立分譲に関する契約（以下「積立分譲契約」という。）に基づき受け入れた金銭の額及び当該受け入れた金銭の額に当該金銭を受け入れた日から当該積立分譲契約に係る住宅（その敷地を含む。以下「積立分譲住宅」という。）の引渡しの日の前日までの期間について国土交通大臣が定める率を単利計算の方法により乗じて算出した金額（以下第三条及び第五条において「利息相当額」という。）を合計した金額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-07-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T04:47:10+09:00"
+ }
+}

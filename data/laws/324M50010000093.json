@@ -1,0 +1,167 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "324M50010000093",
+  "law_num": "昭和二十四年農林省令第九十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "093",
+  "promulgation_date": "1949-09-14"
+ },
+ "revision_info": {
+  "law_revision_id": "324M50010000093_20260501_508M60000200020",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "獣医師法施行規則",
+  "law_title_kana": "じゅういしほうしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-07-09T15:04:39+09:00",
+  "amendment_promulgate_date": "2026-03-26",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200020",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う農林水産省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年農林水産省令第二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324M50010000093_20260501_508M60000200020",
+   "amendment_promulgate_date": "2026-03-26",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "508M60000200020",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年農林水産省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20260326_508M60000200020",
+   "amendment_promulgate_date": "2026-03-26",
+   "amendment_enforcement_date": "2026-03-26",
+   "amendment_law_id": "508M60000200020",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年農林水産省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20240919_506M60000200049",
+   "amendment_promulgate_date": "2024-09-10",
+   "amendment_enforcement_date": "2024-09-19",
+   "amendment_law_id": "506M60000200049",
+   "amendment_law_title": "獣医師法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20221011_504M60000200058",
+   "amendment_promulgate_date": "2022-10-11",
+   "amendment_enforcement_date": "2022-10-11",
+   "amendment_law_id": "504M60000200058",
+   "amendment_law_title": "獣医師法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20191216_501M60000200047",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000200047",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20190914_501M60000200029",
+   "amendment_promulgate_date": "2019-09-13",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501M60000200029",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20190809_501M60000200025",
+   "amendment_promulgate_date": "2019-08-09",
+   "amendment_enforcement_date": "2019-08-09",
+   "amendment_law_id": "501M60000200025",
+   "amendment_law_title": "獣医師法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20190701_501M60000200010",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000200010",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20190507_501M60000200001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000200001",
+   "amendment_law_title": "元号を改める政令の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20180425_430M60000200029",
+   "amendment_promulgate_date": "2018-04-25",
+   "amendment_enforcement_date": "2018-04-25",
+   "amendment_law_id": "430M60000200029",
+   "amendment_law_title": "獣医師法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年農林水産省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000093_20141125_426M60000200058",
+   "amendment_promulgate_date": "2014-11-18",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_law_id": "426M60000200058",
+   "amendment_law_num": "平成二十六年農林水産省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（免許の申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "獣医師法（以下「法」という。）第三条の規定により、獣医師の免許を受けようとする者は、申請書（第一号様式）に次に掲げる書類を添え、登録免許税及び手数料の額に相当する金額の収入印紙を貼り付けて農林水産大臣に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-09-14",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-09T15:04:39+09:00"
+ }
+}

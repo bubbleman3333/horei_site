@@ -1,0 +1,109 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "401M50000008002",
+  "law_num": "平成元年自治省令第二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 1,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "1989-02-17"
+ },
+ "revision_info": {
+  "law_revision_id": "401M50000008002_20260331_508M60000008015",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量を指定する省令",
+  "law_title_kana": "きけんぶつのきせいにかんするせいれいべっぴょうだいいちおよびどうれいべっぴょうだいにのそうむしょうれいでさだめるぶっしつおよびすうりょうをしていするしょうれい",
+  "abbrev": null,
+  "category": "消防",
+  "updated": "2026-03-31T00:05:32+09:00",
+  "amendment_promulgate_date": "2026-02-27",
+  "amendment_enforcement_date": "2026-03-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008015",
+  "amendment_law_title": "危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量を指定する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "401M50000008002_20260331_508M60000008015",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000008015",
+   "amendment_law_title": "危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量を指定する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "401M50000008002_20250301_506M60000008083",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "506M60000008083",
+   "amendment_law_title": "危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量を指定する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401M50000008002_20230201_504M60000008053",
+   "amendment_promulgate_date": "2022-08-01",
+   "amendment_enforcement_date": "2023-02-01",
+   "amendment_law_id": "504M60000008053",
+   "amendment_law_title": "危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量を指定する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401M50000008002_20201201_502M60000008057",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000008057",
+   "amendment_law_title": "危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量を指定する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401M50000008002_20170627_429M60000008043",
+   "amendment_promulgate_date": "2017-06-27",
+   "amendment_enforcement_date": "2017-06-27",
+   "amendment_law_id": "429M60000008043",
+   "amendment_law_title": "危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量を指定する省令の一部を改正する省令",
+   "amendment_law_num": "平成二十九年総務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401M50000008002_20170301_428M60000008080",
+   "amendment_promulgate_date": "2016-08-08",
+   "amendment_enforcement_date": "2017-03-01",
+   "amendment_law_id": "428M60000008080",
+   "amendment_law_title": "危険物の規制に関する政令別表第一及び同令別表第二の総務省令で定める物質及び数量を指定する省令の一部を改正する省令",
+   "amendment_law_num": "平成二十八年総務省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（危険物の規制に関する政令別表第一の総務省令で定める物質及び数量）",
+  "title": "第一条",
+  "paragraphs": [
+   "危険物の規制に関する政令別表第一の上欄に掲げる総務省令で定める物質は、次の表の上欄に掲げる物質とし、同令別表第一の下欄に定める総務省令で定める数量は、次の表の下欄に定める数量とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1989-02-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-03-31T00:05:32+09:00"
+ }
+}

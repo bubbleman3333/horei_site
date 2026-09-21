@@ -1,0 +1,454 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "327CO0000000368",
+  "law_num": "昭和二十七年政令第三百六十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 27,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "368",
+  "promulgation_date": "1952-08-27"
+ },
+ "revision_info": {
+  "law_revision_id": "327CO0000000368_20260801_508CO0000000240",
+  "law_type": "CabinetOrder",
+  "law_title": "防衛省の職員の給与等に関する法律施行令",
+  "law_title_kana": "ぼうえいしょうのしょくいんのきゅうよとうにかんするほうりつせこうれい",
+  "abbrev": "防衛省給与法施行令,防衛省職員給与法施行令",
+  "category": "防衛",
+  "updated": "2026-08-12T14:17:40+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000240",
+  "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "327CO0000000368_20270801_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2027-08-01",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20260801_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20260729_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-07-29",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20260703_508CO0000000222",
+   "amendment_promulgate_date": "2026-07-03",
+   "amendment_enforcement_date": "2026-07-03",
+   "amendment_law_id": "508CO0000000222",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20260408_508CO0000000137",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000137",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20260401_508CO0000000049",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000049",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令及び防衛省職員の災害補償に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20260323_508CO0000000024",
+   "amendment_promulgate_date": "2026-03-11",
+   "amendment_enforcement_date": "2026-03-23",
+   "amendment_law_id": "508CO0000000024",
+   "amendment_law_title": "自衛隊法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20251224_507CO0000000443",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507CO0000000443",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20250901_507CO0000000288",
+   "amendment_promulgate_date": "2025-08-08",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507CO0000000288",
+   "amendment_law_title": "自衛隊法施行令及び防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20250701_507CO0000000231",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000231",
+   "amendment_law_title": "防衛省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20250528_507CO0000000196",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-05-28",
+   "amendment_law_id": "507CO0000000196",
+   "amendment_law_title": "自衛隊法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20250401_507CO0000000170",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000170",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20250401_507CO0000000111",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000111",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20250401_506CO0000000343",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000343",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令及び食品衛生法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20250324_507CO0000000050",
+   "amendment_promulgate_date": "2025-03-14",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507CO0000000050",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20241225_506CO0000000391",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506CO0000000391",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20241202_506CO0000000260",
+   "amendment_promulgate_date": "2024-08-14",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506CO0000000260",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20241001_506CO0000000305",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000305",
+   "amendment_law_title": "自衛隊法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20241001_506CO0000000293",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000293",
+   "amendment_law_title": "防衛省組織令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20240701_506CO0000000237",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000237",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20240628_506CO0000000243",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-06-28",
+   "amendment_law_id": "506CO0000000243",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20240401_506CO0000000133",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000133",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20230701_505CO0000000228",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505CO0000000228",
+   "amendment_law_title": "防衛省組織令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20230401_505CO0000000123",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000123",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20230401_505CO0000000026",
+   "amendment_promulgate_date": "2023-02-01",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000026",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20230316_505CO0000000048",
+   "amendment_promulgate_date": "2023-03-10",
+   "amendment_enforcement_date": "2023-03-16",
+   "amendment_law_id": "505CO0000000048",
+   "amendment_law_title": "自衛隊法施行令及び防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20220601_504CO0000000199",
+   "amendment_promulgate_date": "2022-05-27",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504CO0000000199",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20220401_504CO0000000127",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000127",
+   "amendment_law_title": "防衛省組織令及び防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20220317_504CO0000000057",
+   "amendment_promulgate_date": "2022-03-11",
+   "amendment_enforcement_date": "2022-03-17",
+   "amendment_law_id": "504CO0000000057",
+   "amendment_law_title": "自衛隊法施行令及び防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20210825_503CO0000000239",
+   "amendment_promulgate_date": "2021-08-25",
+   "amendment_enforcement_date": "2021-08-25",
+   "amendment_law_id": "503CO0000000239",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20210701_503CO0000000189",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503CO0000000189",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20210630_503CO0000000189",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_law_id": "503CO0000000189",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20210401_503CO0000000081",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503CO0000000081",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20210318_503CO0000000044",
+   "amendment_promulgate_date": "2021-03-17",
+   "amendment_enforcement_date": "2021-03-18",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503CO0000000044",
+   "amendment_law_title": "防衛省組織令及び防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20201001_502CO0000000294",
+   "amendment_promulgate_date": "2020-09-16",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000294",
+   "amendment_law_title": "自衛隊法施行令及び防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20200828_502CO0000000215",
+   "amendment_promulgate_date": "2020-07-03",
+   "amendment_enforcement_date": "2020-08-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000215",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20200401_502CO0000000083",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000083",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20200401_502CO0000000041",
+   "amendment_promulgate_date": "2020-03-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000041",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000368_20200326_502CO0000000038",
+   "amendment_promulgate_date": "2020-03-06",
+   "amendment_enforcement_date": "2020-03-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000038",
+   "amendment_law_title": "自衛隊法施行令及び防衛省の職員の給与等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（職員の指定する者に給与を支払うことができる場合）",
+  "title": "第一条",
+  "paragraphs": [
+   "防衛省の職員の給与等に関する法律（昭和二十七年法律第二百六十六号。以下「法」という。）第三条第一項ただし書に規定する政令で定める特別の事由がある場合は、次の各号のいずれかに掲げる場合とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1952-08-27",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-12T14:17:40+09:00"
+ }
+}

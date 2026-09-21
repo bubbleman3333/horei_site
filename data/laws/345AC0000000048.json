@@ -1,0 +1,463 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "345AC0000000048",
+  "law_num": "昭和四十五年法律第四十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "Act",
+  "law_num_num": "048",
+  "promulgation_date": "1970-05-06"
+ },
+ "revision_info": {
+  "law_revision_id": "345AC0000000048_20260624_508AC0000000048",
+  "law_type": "Act",
+  "law_title": "著作権法",
+  "law_title_kana": "ちょさくけんほう",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2026-06-24T10:26:51+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000048",
+  "amendment_law_title": "著作権法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345AC0000000048_20290623_508AC0000000048",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2029-06-23",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2029-06-23",
+   "amendment_law_id": "508AC0000000048",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20270401_508AC0000000037",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000037",
+   "amendment_law_title": "学校教育法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20260624_508AC0000000048",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000048",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20260617_508AC0000000037",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2026-06-17",
+   "amendment_law_id": "508AC0000000037",
+   "amendment_law_title": "学校教育法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20260521_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20260401_505AC0000000033",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "505AC0000000033",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20251001_507AC0000000027",
+   "amendment_promulgate_date": "2025-04-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507AC0000000027",
+   "amendment_law_title": "電波法及び放送法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20250601_505AC0000000033",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "505AC0000000033",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20240719_506AC1000000055",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-07-19",
+   "amendment_law_id": "506AC1000000055",
+   "amendment_law_title": "障害のある児童及び生徒のための教科用特定図書等の普及の促進等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20240101_505AC0000000033",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505AC0000000033",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20230601_503AC0000000052",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "503AC0000000052",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20230526_505AC0000000033",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "505AC0000000033",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20220501_503AC0000000052",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "503AC0000000052",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20220401_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20220101_503AC0000000052",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503AC0000000052",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20211001_503AC0000000052",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503AC0000000052",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20210602_503AC0000000052",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-06-02",
+   "amendment_law_id": "503AC0000000052",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20210101_502AC0000000048",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502AC0000000048",
+   "amendment_law_title": "著作権法及びプログラムの著作物に係る登録の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20201001_502AC0000000048",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502AC0000000048",
+   "amendment_law_title": "著作権法及びプログラムの著作物に係る登録の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20200612_502AC0000000048",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502AC0000000048",
+   "amendment_law_title": "著作権法及びプログラムの著作物に係る登録の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20200428_430AC0000000030",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2020-04-28",
+   "amendment_law_id": "430AC0000000030",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20200428_426AC0000000035",
+   "amendment_promulgate_date": "2014-05-14",
+   "amendment_enforcement_date": "2020-04-28",
+   "amendment_law_id": "426AC0000000035",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20190701_430AC0000000072",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "430AC0000000072",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20190401_430AC0000000039",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000039",
+   "amendment_law_title": "学校教育法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20190101_430AC0000000030",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430AC0000000030",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20181230_428AC0000000108",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "428AC0000000108",
+   "amendment_law_title": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20180713_430AC0000000072",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-13",
+   "amendment_law_id": "430AC0000000072",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20180525_430AC0000000030",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2018-05-25",
+   "amendment_law_id": "430AC0000000030",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20170530_428AC0000000051",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "428AC0000000051",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000048_20161216_428AC0000000108",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2016-12-16",
+   "amendment_law_id": "428AC0000000108",
+   "amendment_law_title": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　著作者の権利",
+  "第三章　出版権",
+  "第四章　著作隣接権",
+  "第五章　著作権等の制限による利用に係る補償金",
+  "第六章　裁定による利用に係る指定補償金管理機関及び登録確認機関",
+  "第七章　紛争処理",
+  "第八章　権利侵害",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、著作物並びに実演、レコード、放送及び有線放送に関し著作者の権利及びこれに隣接する権利を定め、これらの文化的所産の公正な利用に留意しつつ、著作者等の権利の保護を図り、もつて文化の発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-05-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-24T10:26:51+09:00"
+ }
+}

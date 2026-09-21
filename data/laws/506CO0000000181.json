@@ -1,0 +1,68 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "506CO0000000181",
+  "law_num": "令和六年政令第百八十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "181",
+  "promulgation_date": "2024-05-02"
+ },
+ "revision_info": {
+  "law_revision_id": "506CO0000000181_20260521_508CO0000000157",
+  "law_type": "CabinetOrder",
+  "law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律施行令",
+  "law_title_kana": "せいてきなしたいをさつえいするこういとうのしょばつおよびおうしゅうぶつにきろくされたせいてきなしたいのえいぞうにかかるでんじてききろくのしょうきょとうにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-28T10:13:28+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000157",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506CO0000000181_20260521_508CO0000000157",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000157",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506CO0000000181_20240620_000000000000000",
+   "amendment_promulgate_date": "2024-05-02",
+   "amendment_enforcement_date": "2024-06-20",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（公告の方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律（以下「法」という。）第十七条第六項、第二十一条、第二十四条第二項又は第二十五条の二第二項の規定による公告（以下この条において「公告」という。）は、これを行う検察官が所属する検察庁の掲示場に十四日間掲示する方法によって行う。ただし、検察官が必要があると認めるときは、官報に掲載する方法を併せて行うことができる。",
+   "公告を掲示場に掲示する方法によって行うことができないときは、公告は、前項の規定にかかわらず、官報に掲載する方法によって行う。",
+   "公告をすべき事項は、公告の根拠となる法の規定、公告を行う検察官が所属する検察庁、品名及び数量、公告の初日及び末日の年月日（第一項ただし書又は前項の規定により官報に掲載する方法によって行う公告にあっては、公告の年月日）並びに次の各号に掲げる公告の区分に応じ当該各号に定める事項とする。",
+   "検察官は、特に必要があると認めるときは、第一項本文の期間を延長し、又は公告を行った後更に公告を行うことができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-05-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-28T10:13:28+09:00"
+ }
+}

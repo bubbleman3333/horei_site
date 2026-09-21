@@ -1,0 +1,456 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "323CO0000000074",
+  "law_num": "昭和二十三年政令第七十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "074",
+  "promulgation_date": "1948-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "323CO0000000074_20260701_507CO0000000346",
+  "law_type": "CabinetOrder",
+  "law_title": "児童福祉法施行令",
+  "law_title_kana": "じどうふくしほうしこうれい",
+  "abbrev": "児福法施行令",
+  "category": "社会福祉",
+  "updated": "2026-04-21T11:04:21+09:00",
+  "amendment_promulgate_date": "2025-10-08",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000346",
+  "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323CO0000000074_20270201_508CO0000000170",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2027-02-01",
+   "amendment_law_id": "508CO0000000170",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20261101_508CO0000000012",
+   "amendment_promulgate_date": "2026-02-16",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508CO0000000012",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20261001_508CO0000000074",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000074",
+   "amendment_law_title": "児童福祉法施行令及び地方自治法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20260701_508CO0000000192",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000192",
+   "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20260701_507CO0000000346",
+   "amendment_promulgate_date": "2025-10-08",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "507CO0000000346",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20260401_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20260401_508CO0000000060",
+   "amendment_promulgate_date": "2026-03-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000060",
+   "amendment_law_title": "高次脳機能障害者支援法施行令",
+   "amendment_law_num": "令和八年政令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20260401_507CO0000000285",
+   "amendment_promulgate_date": "2025-08-06",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000285",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20251201_507CO0000000387",
+   "amendment_promulgate_date": "2025-11-21",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507CO0000000387",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律施行令及び児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20251001_507CO0000000337",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000337",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20251001_507CO0000000010",
+   "amendment_promulgate_date": "2025-01-22",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000010",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20250925_507CO0000000337",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-09-25",
+   "amendment_law_id": "507CO0000000337",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20250701_507CO0000000202",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000202",
+   "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20250401_507CO0000000140",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000140",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20250401_506CO0000000247",
+   "amendment_promulgate_date": "2024-07-18",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000247",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20241001_506CO0000000048",
+   "amendment_promulgate_date": "2024-03-08",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000048",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20240601_506CO0000000151",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506CO0000000151",
+   "amendment_law_title": "租税特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20240401_506CO0000000161",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000161",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20240401_506CO0000000041",
+   "amendment_promulgate_date": "2024-02-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000041",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20240401_506CO0000000012",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000012",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20231001_505CO0000000195",
+   "amendment_promulgate_date": "2023-05-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000195",
+   "amendment_law_title": "児童福祉法施行令及び難病の患者に対する医療等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20231001_505CO0000000031",
+   "amendment_promulgate_date": "2023-02-08",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000031",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20230713_505CO0000000236",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000236",
+   "amendment_law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20230713_505CO0000000235",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000235",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20230401_505CO0000000077",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000077",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20230401_505CO0000000071",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000071",
+   "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20230401_505CO0000000059",
+   "amendment_promulgate_date": "2023-03-17",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000059",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20230401_503CO0000000209",
+   "amendment_promulgate_date": "2021-07-21",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503CO0000000209",
+   "amendment_law_title": "児童福祉法施行令及び地方自治法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20230201_504CO0000000222",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2023-02-01",
+   "amendment_law_id": "504CO0000000222",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20220701_503CO0000000320",
+   "amendment_promulgate_date": "2021-12-01",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "503CO0000000320",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20220401_503CO0000000302",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000302",
+   "amendment_law_title": "社会福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20220401_503CO0000000289",
+   "amendment_promulgate_date": "2021-10-20",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000289",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う厚生労働省関係政令等の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20220401_503CO0000000228",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000228",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20210401_502CO0000000315",
+   "amendment_promulgate_date": "2020-10-23",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502CO0000000315",
+   "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20210101_502CO0000000381",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000381",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20200901_502CO0000000219",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000219",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323CO0000000074_20200701_502CO0000000031",
+   "amendment_promulgate_date": "2020-02-19",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502CO0000000031",
+   "amendment_law_title": "児童福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　児童の保育及び児童の保護者に対する保育に関する指導を行う人材",
+  "第三章　福祉の保障",
+  "第四章　事業、養育里親及び児童福祉施設",
+  "第五章　費用",
+  "第六章　審査請求",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "児童福祉法（昭和二十二年法律第百六十四号。以下「法」という。）第六条の二第二項第二号の政令で定める者は、同項第一号に規定する指定小児慢性特定疾病医療機関に通い、又は入院する小児慢性特定疾病（同条第一項に規定する小児慢性特定疾病をいう。第二十二条第一項第二号ロにおいて同じ。）にかかつている児童以外の満二十歳に満たない者であつて、満十八歳に達する日前から引き続き指定小児慢性特定疾病医療支援（法第十九条の二第一項に規定する指定小児慢性特定疾病医療支援をいう。第二十二条第一項において同じ。）を受けているものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-03-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-21T11:04:21+09:00"
+ }
+}

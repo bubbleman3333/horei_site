@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000400003",
+  "law_num": "令和八年経済産業省令第三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2026-02-20"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000400003_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "経済産業省関係海洋再生可能エネルギー発電設備の整備に関する法律施行規則",
+  "law_title_kana": "けいざいさんぎょうしょうかんけいかいようさいせいかのうえねるぎーはつでんせつびのせいびにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-02T22:06:23+09:00",
+  "amendment_promulgate_date": "2026-02-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000400003_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-02-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定をしようとする海洋再生可能エネルギー発電設備設置募集区域の位置及び区域の公告）",
+  "title": "第一条",
+  "paragraphs": [
+   "海洋再生可能エネルギー発電設備の整備に関する法律（以下「法」という。）第三十二条第一項の規定による指定をしようとする海洋再生可能エネルギー発電設備設置募集区域の位置及び区域の同条第五項の規定による公告は、官報への掲載、インターネットの利用その他の適切な方法により行うものとする。",
+   "前項の位置及び区域は、次に掲げるところにより明示するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-02-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T22:06:23+09:00"
+ }
+}

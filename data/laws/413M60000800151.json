@@ -1,0 +1,90 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000800151",
+  "law_num": "平成十三年国土交通省令第百五十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "151",
+  "promulgation_date": "2001-12-25"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000800151_20260701_508M60000800021",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "鉄道に関する技術上の基準を定める省令",
+  "law_title_kana": "てつどうにかんするぎじゅつじょうのきじゅんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "陸運",
+  "updated": "2026-07-01T00:47:23+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800021",
+  "amendment_law_title": "鉄道に関する技術上の基準を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000800151_20260701_508M60000800021",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60000800021",
+   "amendment_law_title": "鉄道に関する技術上の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000800151_20250401_507M60000800022",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000800022",
+   "amendment_law_title": "鉄道に関する技術上の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000800151_20120801_424M60000800069",
+   "amendment_promulgate_date": "2012-07-02",
+   "amendment_enforcement_date": "2012-08-01",
+   "amendment_law_id": "424M60000800069",
+   "amendment_law_num": "平成二十四年国土交通省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　係員",
+  "第三章　線路",
+  "第四章　停車場",
+  "第五章　道路との交差",
+  "第六章　電気設備",
+  "第七章　運転保安設備",
+  "第八章　車両",
+  "第八章の二　その他の設備",
+  "第九章　施設及び車両の保全",
+  "第十章　運転",
+  "第十一章　特殊鉄道"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、鉄道の輸送の用に供する施設（以下「施設」という。）及び車両の構造及び取扱いについて、必要な技術上の基準を定めることにより、安全な輸送及び安定的な輸送の確保を図り、もって公共の福祉の増進に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-12-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:47:23+09:00"
+ }
+}

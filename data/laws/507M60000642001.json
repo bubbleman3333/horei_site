@@ -1,0 +1,57 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000642001",
+  "law_num": "令和七年内閣府・財務省・農林水産省・経済産業省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2025-07-02"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000642001_20260525_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "事業性融資の推進等に関する法律第十二条第一項に規定する主務省令で定める契約等を定める命令",
+  "law_title_kana": "じぎょうせいゆうしのすいしんとうにかんするほうりつだいじゅうにじょうだいいちこうにきていするしゅむしょうれいでさだめるけいやくとうをさだめるめいれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-25T02:17:00+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000642001_20260525_000000000000000",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（個人保証等の制限）",
+  "title": "第一条",
+  "paragraphs": [
+   "事業性融資の推進等に関する法律（以下「法」という。）第十二条第一項に規定する主務省令で定める契約は、特定被担保債権に係る債務（同項に規定する特定被担保債権に係る債務をいう。以下この条及び次条において同じ。）を保証する保証契約であって保証人が法人であるもののうち、次に掲げるものとする。",
+   "法第十二条第一項第二号に規定する主務省令で定めるものは、次に掲げるものとする。",
+   "法第十二条第二項に規定する主務省令で定めるときは、特定被担保債権に係る債務が連帯債務である場合において、次に掲げるときとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-07-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T02:17:00+09:00"
+ }
+}

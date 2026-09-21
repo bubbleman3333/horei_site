@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "328AC1000000238",
+  "law_num": "昭和二十八年法律第二百三十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "Act",
+  "law_num_num": "238",
+  "promulgation_date": "1953-08-18"
+ },
+ "revision_info": {
+  "law_revision_id": "328AC1000000238_20260723_508AC1000000063",
+  "law_type": "Act",
+  "law_title": "高等学校の定時制教育及び通信教育振興法",
+  "law_title_kana": "こうとうがっこうのていじせいきょういくおよびつうしんきょういくしんこうほう",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-08-05T10:43:40+09:00",
+  "amendment_promulgate_date": "2026-07-23",
+  "amendment_enforcement_date": "2026-07-23",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC1000000063",
+  "amendment_law_title": "高等学校の定時制教育及び通信教育振興法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328AC1000000238_20270401_508AC0000000037",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000037",
+   "amendment_law_title": "学校教育法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "328AC1000000238_20270123_508AC1000000063",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-01-23",
+   "amendment_law_id": "508AC1000000063",
+   "amendment_law_title": "高等学校の定時制教育及び通信教育振興法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "328AC1000000238_20260723_508AC1000000063",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-07-23",
+   "amendment_law_id": "508AC1000000063",
+   "amendment_law_title": "高等学校の定時制教育及び通信教育振興法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328AC1000000238_20260401_507AC0000000068",
+   "amendment_promulgate_date": "2025-06-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000068",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC1000000238_20230401_503AC0000000063",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000063",
+   "amendment_law_title": "地方公務員法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC1000000238_20200401_429AC0000000029",
+   "amendment_promulgate_date": "2017-05-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000029",
+   "amendment_law_title": "地方公務員法及び地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC1000000238_20080401_419AC0000000096",
+   "amendment_promulgate_date": "2007-06-27",
+   "amendment_enforcement_date": "2008-04-01",
+   "amendment_law_id": "419AC0000000096",
+   "amendment_law_num": "平成十九年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（この法律の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、勤労青年教育の重要性にかんがみ、教育基本法（平成十八年法律第百二十号）の精神にのつとり、働きながら学ぶ青年に対し、教育の機会均等を保障し、勤労と修学に対する正しい信念を確立させ、もつて国民の教育水準と生産能力の向上に寄与するため、高等学校（中等教育学校の後期課程を含む。以下同じ。）の定時制教育及び通信教育の振興を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-08-18",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-05T10:43:40+09:00"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "339AC0000000145",
+  "law_num": "昭和三十九年法律第百四十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 39,
+  "law_num_type": "Act",
+  "law_num_num": "145",
+  "promulgation_date": "1964-07-03"
+ },
+ "revision_info": {
+  "law_revision_id": "339AC0000000145_20260525_506AC0000000052",
+  "law_type": "Act",
+  "law_title": "近畿圏の近郊整備区域及び都市開発区域の整備及び開発に関する法律",
+  "law_title_kana": "きんきけんのきんこうせいびくいきおよびとしかいはつくいきのせいびおよびかいはつにかんするほうりつ",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2026-05-25T00:27:05+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000052",
+  "amendment_law_title": "事業性融資の推進等に関する法律",
+  "amendment_law_num": "令和六年法律第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "339AC0000000145_20260525_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000145_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000145_20240614_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-14",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000145_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000145_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　工業団地造成事業等",
+  "第三章　雑則",
+  "第四章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、近畿圏の建設とその秩序ある発展に寄与するため、近郊整備区域内及び都市開発区域内における宅地の造成その他近郊整備区域及び都市開発区域の整備及び開発に関し必要な事項を定め、近郊整備区域の計画的な市街地としての整備及び都市開発区域の工業都市、住居都市その他の都市としての開発に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1964-07-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T00:27:05+09:00"
+ }
+}

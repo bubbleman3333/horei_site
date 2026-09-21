@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000418",
+  "law_num": "令和七年政令第四百十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "418",
+  "promulgation_date": "2025-12-17"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000418_20251217_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "船員法等の一部を改正する法律の施行に伴う経過措置に関する政令",
+  "law_title_kana": "せんいんほうとうのいちぶをかいせいするほうりつのしこうにともなうけいかそちにかんするせいれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2025-12-24T09:46:33+09:00",
+  "amendment_promulgate_date": "2025-12-17",
+  "amendment_enforcement_date": "2025-12-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000418_20251217_000000000000000",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2025-12-17",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "国土交通大臣は、船員法等の一部を改正する法律（以下「改正法」という。）第一条の規定による改正後の船員法（昭和二十二年法律第百号）第七十三条第一項の政令の制定又は改廃の立案をしようとするときは、改正法の施行の日前においても、同条第二項の規定の例により、交通政策審議会の議を経ることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-12-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-24T09:46:33+09:00"
+ }
+}

@@ -1,0 +1,404 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "401AC0000000064",
+  "law_num": "平成元年法律第六十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 1,
+  "law_num_type": "Act",
+  "law_num_num": "064",
+  "promulgation_date": "1989-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "401AC0000000064_20260605_508AC0000000031",
+  "law_type": "Act",
+  "law_title": "地域における医療及び介護の総合的な確保の促進に関する法律",
+  "law_title_kana": "ちいきにおけるいりょうおよびかいごのそうごうてきなかくほのそくしんにかんするほうりつ",
+  "abbrev": "医療介護総合確保法",
+  "category": "社会福祉",
+  "updated": "2026-06-05T10:30:50+09:00",
+  "amendment_promulgate_date": "2026-06-05",
+  "amendment_enforcement_date": "2026-06-05",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000031",
+  "amendment_law_title": "健康保険法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第三十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "401AC0000000064_20281211_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2028-12-11",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-12-11",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20280604_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2028-06-04",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-04",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20270401_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20270401_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20270101_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20261001_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20260605_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-06-05",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20260401_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20251212_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2025-12-12",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20250401_505AC0000000031",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000031",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20241001_504AC0000000096",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "504AC0000000096",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20240401_505AC0000000031",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000031",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20240401_504AC0000000096",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0000000096",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20240301_503AC0000000066",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "503AC0000000066",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20230519_505AC0000000031",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2023-05-19",
+   "amendment_law_id": "505AC0000000031",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20230101_504AC0000000047",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504AC0000000047",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20221209_504AC0000000096",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504AC0000000096",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20220520_504AC0000000047",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504AC0000000047",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20220201_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2022-02-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20220101_503AC0000000066",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503AC0000000066",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20211001_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20211001_502AC0000000052",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "502AC0000000052",
+   "amendment_law_title": "地域共生社会の実現のための社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20210611_503AC0000000066",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2021-06-11",
+   "amendment_law_id": "503AC0000000066",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20210528_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2021-05-28",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20210401_502AC0000000052",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000052",
+   "amendment_law_title": "地域共生社会の実現のための社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20210401_501AC0000000009",
+   "amendment_promulgate_date": "2019-05-22",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "501AC0000000009",
+   "amendment_law_title": "医療保険制度の適正かつ効率的な運営を図るための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20201001_501AC0000000009",
+   "amendment_promulgate_date": "2019-05-22",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501AC0000000009",
+   "amendment_law_title": "医療保険制度の適正かつ効率的な運営を図るための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20200612_502AC0000000052",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502AC0000000052",
+   "amendment_law_title": "地域共生社会の実現のための社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20200401_501AC0000000009",
+   "amendment_promulgate_date": "2019-05-22",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000009",
+   "amendment_law_title": "医療保険制度の適正かつ効率的な運営を図るための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20191001_501AC0000000009",
+   "amendment_promulgate_date": "2019-05-22",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501AC0000000009",
+   "amendment_law_title": "医療保険制度の適正かつ効率的な運営を図るための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20190522_501AC0000000009",
+   "amendment_promulgate_date": "2019-05-22",
+   "amendment_enforcement_date": "2019-05-22",
+   "amendment_law_id": "501AC0000000009",
+   "amendment_law_title": "医療保険制度の適正かつ効率的な運営を図るための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401AC0000000064_20150401_426AC0000000083",
+   "amendment_promulgate_date": "2014-06-25",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "426AC0000000083",
+   "amendment_law_num": "平成二十六年法律第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　地域における医療及び介護の総合的な確保",
+  "第三章　国民の保健医療の向上及び福祉の増進に資する情報の分析等の推進",
+  "第三章の二　電磁的方法による処方箋の提供等の推進",
+  "第三章の三　電子診療録等情報の利用等の推進",
+  "第三章の四　再編計画の認定",
+  "第四章　特定民間施設の整備",
+  "第五章　社会保険診療報酬支払基金の業務",
+  "第六章　国民健康保険団体連合会の業務",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、国民の健康の保持及び福祉の増進に係る多様なサービスへの需要が増大していることに鑑み、地域における創意工夫を生かしつつ、地域において効率的かつ質の高い医療提供体制を構築するとともに地域包括ケアシステムを構築することを通じ、地域における医療及び介護の総合的な確保を促進する措置を講じ、もって高齢者をはじめとする国民の健康の保持及び福祉の増進を図り、あわせて国民が生きがいを持ち健康で安らかな生活を営むことができる地域社会の形成に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1989-06-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-05T10:30:50+09:00"
+ }
+}

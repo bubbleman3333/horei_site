@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60001500003",
+  "law_num": "令和六年厚生労働省・経済産業省・環境省令第三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2024-07-10"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60001500003_20251217_507M60001500003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "ＰＦＯＩの取扱いに関する技術上の基準（許可製造業者に係るものを除く。）を定める省令",
+  "law_title_kana": "ＰＦＯＩのとりあつかいにかんするぎじゅつじょうのきじゅん（きょかせいぞうぎょうしゃにかかるものをのぞく。）をさだめるしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-01-08T10:02:02+09:00",
+  "amendment_promulgate_date": "2025-12-17",
+  "amendment_enforcement_date": "2025-12-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60001500003",
+  "amendment_law_title": "ＰＦＯＩ等の製造設備に関する技術上の基準を定める省令等の一部を改正する省令",
+  "amendment_law_num": "令和七年厚生労働省・経済産業省・環境省令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60001500003_20251217_507M60001500003",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2025-12-17",
+   "amendment_law_id": "507M60001500003",
+   "amendment_law_title": "ＰＦＯＩ等の製造設備に関する技術上の基準を定める省令等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省・経済産業省・環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60001500003_20250110_000000000000000",
+   "amendment_promulgate_date": "2024-07-10",
+   "amendment_enforcement_date": "2025-01-10",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-07-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-08T10:02:02+09:00"
+ }
+}

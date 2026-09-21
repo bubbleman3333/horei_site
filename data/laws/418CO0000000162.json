@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "418CO0000000162",
+  "law_num": "平成十八年政令第百六十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "162",
+  "promulgation_date": "2006-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "418CO0000000162_20260401_508CO0000000045",
+  "law_type": "CabinetOrder",
+  "law_title": "独立行政法人国立美術館法施行令",
+  "law_title_kana": "どくりつぎょうせいほうじんこくりつびじゅつかんほうせこうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-03T15:32:42+09:00",
+  "amendment_promulgate_date": "2026-03-23",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000045",
+  "amendment_law_title": "文部科学省組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第四十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418CO0000000162_20260401_508CO0000000045",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000045",
+   "amendment_law_title": "文部科学省組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000162_20181001_430CO0000000266",
+   "amendment_promulgate_date": "2018-09-27",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430CO0000000266",
+   "amendment_law_title": "文部科学省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000162_20070401_419CO0000000059",
+   "amendment_promulgate_date": "2007-03-26",
+   "amendment_enforcement_date": "2007-04-01",
+   "amendment_law_id": "419CO0000000059",
+   "amendment_law_num": "平成十九年政令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "独立行政法人国立美術館法（以下「法」という。）第五条第五項の評価委員は、必要の都度、次に掲げる者につき文部科学大臣が任命する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-03T15:32:42+09:00"
+ }
+}

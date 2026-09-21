@@ -1,0 +1,245 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "409AC0000000049",
+  "law_num": "平成九年法律第四十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "Act",
+  "law_num_num": "049",
+  "promulgation_date": "1997-05-09"
+ },
+ "revision_info": {
+  "law_revision_id": "409AC0000000049_20260401_507AC0000000047",
+  "law_type": "Act",
+  "law_title": "密集市街地における防災街区の整備の促進に関する法律",
+  "law_title_kana": "みっしゅうしがいちにおけるぼうさいがいくのせいびのそくしんにかんするほうりつ",
+  "abbrev": "密集法,密集市街地整備法",
+  "category": "都市計画",
+  "updated": "2026-04-02T00:01:43+09:00",
+  "amendment_promulgate_date": "2025-05-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000047",
+  "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第四十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409AC0000000049_20270526_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2027-05-26",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20261126_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-11-26",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20260401_507AC0000000047",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000047",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20250530_507AC0000000047",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-05-30",
+   "amendment_law_id": "507AC0000000047",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20240401_505AC0000000058",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000058",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20220401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20210901_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20200401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20200401_430AC0000000072",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430AC0000000072",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20190625_430AC0000000067",
+   "amendment_promulgate_date": "2018-06-27",
+   "amendment_enforcement_date": "2019-06-25",
+   "amendment_law_id": "430AC0000000067",
+   "amendment_law_title": "建築基準法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20180713_430AC0000000072",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-13",
+   "amendment_law_id": "430AC0000000072",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20180401_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20170726_429AC0000000025",
+   "amendment_promulgate_date": "2017-04-26",
+   "amendment_enforcement_date": "2017-07-26",
+   "amendment_law_id": "429AC0000000025",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十九年法律第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20170512_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2017-05-12",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000049_20160901_428AC0000000072",
+   "amendment_promulgate_date": "2016-06-07",
+   "amendment_enforcement_date": "2016-09-01",
+   "amendment_law_id": "428AC0000000072",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　防災街区整備方針",
+  "第三章　防災再開発促進地区の区域における建築物の建替え等の促進",
+  "第四章　特定防災街区整備地区",
+  "第五章　防災街区整備地区計画等",
+  "第六章　防災街区整備事業",
+  "第七章　防災都市施設の整備のための特別の措置",
+  "第八章　避難経路協定",
+  "第九章　防災街区整備推進機構",
+  "第十章　雑則",
+  "第十一章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、密集市街地について計画的な再開発又は開発整備による防災街区の整備を促進するために必要な措置を講ずることにより、密集市街地の防災に関する機能の確保と土地の合理的かつ健全な利用を図り、もって公共の福祉に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-05-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T00:01:43+09:00"
+ }
+}

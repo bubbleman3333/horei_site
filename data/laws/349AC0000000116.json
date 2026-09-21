@@ -1,0 +1,428 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "349AC0000000116",
+  "law_num": "昭和四十九年法律第百十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 49,
+  "law_num_type": "Act",
+  "law_num_num": "116",
+  "promulgation_date": "1974-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "349AC0000000116_20260513_507AC0000000032",
+  "law_type": "Act",
+  "law_title": "雇用保険法",
+  "law_title_kana": "こようほけんほう",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-05-13T00:22:40+09:00",
+  "amendment_promulgate_date": "2025-05-14",
+  "amendment_enforcement_date": "2026-05-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000032",
+  "amendment_law_title": "船員法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第三十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "349AC0000000116_20281001_506AC0000000026",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2028-10-01",
+   "amendment_law_id": "506AC0000000026",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20260513_507AC0000000032",
+   "amendment_promulgate_date": "2025-05-14",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_law_id": "507AC0000000032",
+   "amendment_law_title": "船員法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20251001_506AC0000000026",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506AC0000000026",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20250514_507AC0000000032",
+   "amendment_promulgate_date": "2025-05-14",
+   "amendment_enforcement_date": "2025-05-14",
+   "amendment_law_id": "507AC0000000032",
+   "amendment_law_title": "船員法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20250401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20250401_506AC0000000026",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000026",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20250401_502AC0000000014",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "502AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20241001_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20241001_506AC0000000026",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000026",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20240612_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-06-12",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20240517_506AC0000000026",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506AC0000000026",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20221001_504AC0000000012",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504AC0000000012",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20221001_503AC0000000058",
+   "amendment_promulgate_date": "2021-06-09",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "503AC0000000058",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び雇用保険法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20220701_504AC0000000012",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504AC0000000012",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20220401_504AC0000000012",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504AC0000000012",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20220331_504AC0000000012",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "504AC0000000012",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20220101_502AC0000000014",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "502AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20210901_503AC0000000058",
+   "amendment_promulgate_date": "2021-06-09",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000058",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び雇用保険法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20210609_503AC0000000058",
+   "amendment_promulgate_date": "2021-06-09",
+   "amendment_enforcement_date": "2021-06-09",
+   "amendment_law_id": "503AC0000000058",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び雇用保険法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20210401_502AC0000000014",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20200901_502AC0000000014",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20200801_502AC0000000014",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-08-01",
+   "amendment_law_id": "502AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20200612_502AC0000000054",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502AC0000000054",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響に対応するための雇用保険法の臨時特例等に関する法律",
+   "amendment_law_num": "令和二年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20200401_502AC0000000014",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20200401_428AC0000000017",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "428AC0000000017",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20200331_502AC0000000014",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-03-31",
+   "amendment_law_id": "502AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20190401_430AC0000000071",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000071",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20180706_430AC0000000071",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2018-07-06",
+   "amendment_law_id": "430AC0000000071",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20180101_429AC0000000014",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20171001_429AC0000000014",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20170801_429AC0000000014",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_law_id": "429AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20170401_429AC0000000014",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349AC0000000116_20170401_428AC0000000063",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000063",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　適用事業等",
+  "第三章　失業等給付",
+  "第三章の二　育児休業等給付",
+  "第四章　雇用安定事業等",
+  "第五章　費用の負担",
+  "第六章　不服申立て及び訴訟",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "雇用保険は、労働者が失業した場合及び労働者について雇用の継続が困難となる事由が生じた場合に必要な給付を行うほか、労働者が自ら職業に関する教育訓練を受けた場合並びに労働者が子を養育するための休業及び所定労働時間を短縮することによる就業をした場合に必要な給付を行うことにより、労働者の生活及び雇用の安定を図るとともに、求職活動を容易にする等その就職を促進し、あわせて、労働者の職業の安定に資するため、失業の予防、雇用状態の是正及び雇用機会の増大、労働者の能力の開発及び向上その他労働者の福祉の増進を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1974-12-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T00:22:40+09:00"
+ }
+}

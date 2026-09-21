@@ -1,0 +1,220 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "423AC0000000040",
+  "law_num": "平成二十三年法律第四十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "Act",
+  "law_num_num": "040",
+  "promulgation_date": "2011-05-02"
+ },
+ "revision_info": {
+  "law_revision_id": "423AC0000000040_20251001_504AC0000000104",
+  "law_type": "Act",
+  "law_title": "東日本大震災に対処するための特別の財政援助及び助成に関する法律",
+  "law_title_kana": "ひがしにほんだいしんさいにたいしょするためのとくべつのざいせいえんじょおよびじょせいにかんするほうりつ",
+  "abbrev": "東日本大震災財特法",
+  "category": "災害対策",
+  "updated": "2025-10-01T10:13:17+09:00",
+  "amendment_promulgate_date": "2022-12-16",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000104",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第百四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423AC0000000040_20290624_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2029-06-24",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2029-06-24",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20281211_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2028-12-11",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-12-11",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20270401_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20251001_504AC0000000104",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "504AC0000000104",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20250901_507AC0000000055",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507AC0000000055",
+   "amendment_law_title": "航空法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20250606_507AC0000000055",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-06-06",
+   "amendment_law_id": "507AC0000000055",
+   "amendment_law_title": "航空法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20220701_504AC0000000037",
+   "amendment_promulgate_date": "2022-05-02",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504AC0000000037",
+   "amendment_law_title": "環境と調和のとれた食料システムの確立のための環境負荷低減事業活動の促進等に関する法律",
+   "amendment_law_num": "令和四年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20220401_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20220101_503AC0000000066",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503AC0000000066",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20211001_503AC0000000077",
+   "amendment_promulgate_date": "2021-06-18",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503AC0000000077",
+   "amendment_law_title": "公共建築物等における木材の利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20210520_503AC0000000030",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503AC0000000030",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20190801_501AC1000000027",
+   "amendment_promulgate_date": "2019-06-07",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501AC1000000027",
+   "amendment_law_title": "災害弔慰金の支給等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20180401_428AC0000000065",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000065",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律及び児童福祉法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20170701_429AC0000000052",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000052",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000040_20170401_429AC0000000014",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000014",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　特別の災害復旧事業についての補助",
+  "第三章　内閣府関係",
+  "第四章　総務省関係",
+  "第五章　財務省関係",
+  "第六章　文部科学省関係",
+  "第七章　厚生労働省関係",
+  "第八章　農林水産省関係",
+  "第九章　経済産業省関係",
+  "第十章　国土交通省関係",
+  "第十一章　環境省関係",
+  "第十二章　防衛省関係",
+  "第十三章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、東日本大震災に対処するため、地方公共団体等に対する特別の財政援助及び社会保険の加入者等についての負担の軽減、農林漁業者、中小企業者等に対する金融上の支援等の特別の助成に関する措置について定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-05-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T10:13:17+09:00"
+ }
+}

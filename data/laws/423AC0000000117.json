@@ -1,0 +1,398 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "423AC0000000117",
+  "law_num": "平成二十三年法律第百十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "Act",
+  "law_num_num": "117",
+  "promulgation_date": "2011-12-02"
+ },
+ "revision_info": {
+  "law_revision_id": "423AC0000000117_20260401_507AC0000000013",
+  "law_type": "Act",
+  "law_title": "東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法",
+  "law_title_kana": "ひがしにほんだいしんさいからのふっこうのためのしさくをじっしするためにひつようなざいげんのかくほにかんするとくべつそちほう",
+  "abbrev": "復興財源確保法",
+  "category": "国債",
+  "updated": "2025-07-10T08:42:57+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000013",
+  "amendment_law_title": "所得税法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423AC0000000117_20280101_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_enforcement_comment": "次号に掲げる規定の施行の日の属する年の翌年の一月一日",
+   "amendment_scheduled_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20270101_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20261201_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-12-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20260401_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20260401_508AC0000000006",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000006",
+   "amendment_law_title": "東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20260401_507AC0000000013",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000013",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20260401_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20260101_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20250401_507AC0000000013",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507AC0000000013",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20250101_505AC0000000003",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505AC0000000003",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20240601_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20240401_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20230401_505AC0000000003",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505AC0000000003",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20220401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20220101_503AC0000000011",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503AC0000000011",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20211122_503AC0000000011",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503AC0000000011",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20210401_503AC0000000011",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503AC0000000011",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20210401_502AC0000000046",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000046",
+   "amendment_law_title": "復興庁設置法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20210101_431AC0000000006",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "431AC0000000006",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十一年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20200612_502AC0000000046",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502AC0000000046",
+   "amendment_law_title": "復興庁設置法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20200401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20200401_431AC0000000006",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431AC0000000006",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十一年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20200101_431AC0000000006",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "431AC0000000006",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十一年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20200101_430AC0000000007",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "430AC0000000007",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20190401_431AC0000000006",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431AC0000000006",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十一年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20190107_430AC0000000016",
+   "amendment_promulgate_date": "2018-04-18",
+   "amendment_enforcement_date": "2019-01-07",
+   "amendment_law_id": "430AC0000000016",
+   "amendment_law_title": "国際観光旅客税法",
+   "amendment_law_num": "平成三十年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20180401_430AC0000000007",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430AC0000000007",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20180401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20180101_428AC0000000015",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "428AC0000000015",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20180101_426AC0000000010",
+   "amendment_promulgate_date": "2014-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "426AC0000000010",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20170401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC0000000117_20170401_428AC0000000015",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000015",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　財政投融資特別会計からの国債整理基金特別会計への繰入れ",
+  "第三章　日本たばこ産業株式会社、東京地下鉄株式会社及び日本郵政株式会社の株式の国債整理基金特別会計への所属替等",
+  "第四章　復興特別所得税",
+  "第五章　復興特別法人税",
+  "第六章　復興債の発行等",
+  "第七章　復興特別税の収入の使途等"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、東日本大震災（平成二十三年三月十一日に発生した東北地方太平洋沖地震及びこれに伴う原子力発電所の事故による災害をいう。以下同じ。）からの復興を図ることを目的として東日本大震災復興基本法（平成二十三年法律第七十六号）第二条に定める基本理念に基づき平成二十三年度から令和七年度までの間において実施する施策（以下「復興施策」という。）に必要な財源を確保するための特別措置として、財政投融資特別会計からの国債整理基金特別会計への繰入れ並びに日本たばこ産業株式会社、東京地下鉄株式会社及び日本郵政株式会社の株式の所属替等の措置を講ずるとともに、復興特別所得税及び復興特別法人税（以下「復興特別税」という。）を創設するほか、当該財源についての公債の発行に関する措置等を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-12-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-07-10T08:42:57+09:00"
+ }
+}

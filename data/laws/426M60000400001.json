@@ -1,0 +1,333 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "426M60000400001",
+  "law_num": "平成二十六年経済産業省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2014-01-17"
+ },
+ "revision_info": {
+  "law_revision_id": "426M60000400001_20260731_508M60000400063",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "経済産業省関係産業競争力強化法施行規則",
+  "law_title_kana": "けいざいさんぎょうしょうかんけいさんぎょうきょうそうりょくきょうかほうしこうきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-08-20T09:56:45+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400063",
+  "amendment_law_title": "経済産業省関係産業競争力強化法施行規則及び株式会社東日本大震災事業者再生支援機構法第五十九条第一項の要件を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426M60000400001_20260731_508M60000400063",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508M60000400063",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則及び株式会社東日本大震災事業者再生支援機構法第五十九条第一項の要件を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20260525_508M60000400053",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "508M60000400053",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20260331_508M60000400030",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000400030",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20250401_507M60000400031",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000400031",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20250401_506M60000400055",
+   "amendment_promulgate_date": "2024-09-02",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000400055",
+   "amendment_law_title": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年経済産業省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20240902_506M60000400055",
+   "amendment_promulgate_date": "2024-09-02",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506M60000400055",
+   "amendment_law_title": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年経済産業省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20231228_505M60000400063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000400063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20230721_505M60000400037",
+   "amendment_promulgate_date": "2023-07-21",
+   "amendment_enforcement_date": "2023-07-21",
+   "amendment_law_id": "505M60000400037",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20230401_505M60000400019",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000400019",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20230131_505M60000400001",
+   "amendment_promulgate_date": "2023-01-10",
+   "amendment_enforcement_date": "2023-01-31",
+   "amendment_law_id": "505M60000400001",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20221201_504M60000400089",
+   "amendment_promulgate_date": "2022-12-01",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "504M60000400089",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20220401_504M60000400030",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000400030",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則及び国内外における経営資源活用の共同化に関する調査に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20210802_503M60000400065",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503M60000400065",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年経済産業省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20210616_503M60000400053",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503M60000400053",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律の一部の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年経済産業省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20210616_503M60000400052",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503M60000400052",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律の一部の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年経済産業省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20201001_502M60000400075",
+   "amendment_promulgate_date": "2020-09-16",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000400075",
+   "amendment_law_title": "中小企業の事業承継の促進のための中小企業における経営の承継の円滑化に関する法律等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和二年経済産業省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20200427_502M60000400039",
+   "amendment_promulgate_date": "2020-04-27",
+   "amendment_enforcement_date": "2020-04-27",
+   "amendment_law_id": "502M60000400039",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20200401_502M60000400035",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000400035",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20191214_501M60000400048",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60000400048",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20190401_431M60000400039",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000400039",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20190329_431M60000400038",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-03-29",
+   "amendment_law_id": "431M60000400038",
+   "amendment_law_title": "経済産業省関係産業競争力強化法施行規則の一部を改正する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20180925_430M60000400059",
+   "amendment_promulgate_date": "2018-09-25",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430M60000400059",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律の一部の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "平成三十年経済産業省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20180709_430M60000400039",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2018-07-09",
+   "amendment_law_id": "430M60000400039",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "平成三十年経済産業省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20180401_430M60000400005",
+   "amendment_promulgate_date": "2018-03-12",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000400005",
+   "amendment_law_title": "特許法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年経済産業省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20180401_429M60000400052",
+   "amendment_promulgate_date": "2017-07-11",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429M60000400052",
+   "amendment_law_title": "工業所有権に関する手続等の特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年経済産業省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000400001_20170401_429M60000400030",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000400030",
+   "amendment_law_num": "平成二十九年経済産業省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　産業活動における新陳代謝の活性化",
+  "第三章　株式会社産業革新投資機構による特定事業活動の支援等",
+  "第四章　中小企業の活力の再生",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、産業競争力強化法（以下「法」という。）及び産業競争力強化法施行令（次章第四節及び第六十五条において「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-01-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-20T09:56:45+09:00"
+ }
+}

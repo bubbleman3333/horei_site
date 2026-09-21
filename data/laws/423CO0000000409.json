@@ -1,0 +1,170 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "423CO0000000409",
+  "law_num": "平成二十三年政令第四百九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "409",
+  "promulgation_date": "2011-12-22"
+ },
+ "revision_info": {
+  "law_revision_id": "423CO0000000409_20260701_508CO0000000205",
+  "law_type": "CabinetOrder",
+  "law_title": "東日本大震災復興特別区域法施行令",
+  "law_title_kana": "ひがしにほんだいしんさいふっこうとくべつくいきほうしこうれい",
+  "abbrev": "復興特区法施行令",
+  "category": "災害対策",
+  "updated": "2026-07-07T10:25:45+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000205",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423CO0000000409_20260701_508CO0000000205",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000205",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20250401_507CO0000000159",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000159",
+   "amendment_law_title": "土地改良法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20230401_505CO0000000105",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000105",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20221202_504CO0000000370",
+   "amendment_promulgate_date": "2022-12-02",
+   "amendment_enforcement_date": "2022-12-02",
+   "amendment_law_id": "504CO0000000370",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20220401_504CO0000000166",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000166",
+   "amendment_law_title": "土地改良法施行令及び後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20210715_503CO0000000205",
+   "amendment_promulgate_date": "2021-07-14",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_law_id": "503CO0000000205",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20210401_502CO0000000300",
+   "amendment_promulgate_date": "2020-10-02",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502CO0000000300",
+   "amendment_law_title": "復興庁設置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20200401_502CO0000000139",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000139",
+   "amendment_law_title": "防災のための集団移転促進事業に係る国の財政上の特別措置等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20181017_430CO0000000294",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-10-17",
+   "amendment_law_id": "430CO0000000294",
+   "amendment_law_title": "土地改良法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20170726_429CO0000000200",
+   "amendment_promulgate_date": "2017-07-21",
+   "amendment_enforcement_date": "2017-07-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000200",
+   "amendment_law_title": "公営住宅法施行令及び住宅地区改良法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20170615_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000409_20170401_429CO0000000089",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000089",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第三項第二号ニの政令で定める事業）",
+  "title": "第一条",
+  "paragraphs": [
+   "東日本大震災復興特別区域法（以下「法」という。）第二条第三項第二号ニの政令で定める事業は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-12-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-07T10:25:45+09:00"
+ }
+}

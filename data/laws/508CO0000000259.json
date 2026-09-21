@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000259",
+  "law_num": "令和八年政令第二百五十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "259",
+  "promulgation_date": "2026-08-07"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000259_20260828_508CO0000000264",
+  "law_type": "CabinetOrder",
+  "law_title": "令和八年熊本地震による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令",
+  "law_title_kana": "れいわはちねんくまもとじしんによるさいがいについてのげきじんさいがいおよびこれにたいしてきようすべきそちのしていにかんするせいれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-09-14T09:53:26+09:00",
+  "amendment_promulgate_date": "2026-08-28",
+  "amendment_enforcement_date": "2026-08-28",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000264",
+  "amendment_law_title": "令和八年熊本地震による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000259_20260828_508CO0000000264",
+   "amendment_promulgate_date": "2026-08-28",
+   "amendment_enforcement_date": "2026-08-28",
+   "amendment_law_id": "508CO0000000264",
+   "amendment_law_title": "令和八年熊本地震による災害についての激甚災害及びこれに対し適用すべき措置の指定に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "508CO0000000259_20260807_000000000000000",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "次の表の上欄に掲げる災害を激<Ruby>甚<Rt>じん</Rt></Ruby>災害に対処するための特別の財政援助等に関する法律（以下「法」という。）第二条第一項の激甚災害として指定し、当該激甚災害に対し適用すべき措置を同表の下欄に掲げるとおり指定する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-08-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-14T09:53:26+09:00"
+ }
+}

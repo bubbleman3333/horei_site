@@ -1,0 +1,283 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "333CO0000000033",
+  "law_num": "昭和三十三年政令第三十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "033",
+  "promulgation_date": "1958-03-17"
+ },
+ "revision_info": {
+  "law_revision_id": "333CO0000000033_20260525_507CO0000000244",
+  "law_type": "CabinetOrder",
+  "law_title": "銃砲刀剣類所持等取締法施行令",
+  "law_title_kana": "じゅうほうとうけんるいしょじとうとりしまりほうしこうれい",
+  "abbrev": "銃刀法施行令",
+  "category": "警察",
+  "updated": "2026-05-25T00:20:36+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000244",
+  "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第二百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333CO0000000033_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20260525_507CO0000000244",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507CO0000000244",
+   "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20260501_507CO0000000247",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507CO0000000247",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20240714_506CO0000000240",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-14",
+   "amendment_law_id": "506CO0000000240",
+   "amendment_law_title": "銃砲刀剣類所持等取締法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20230713_505CO0000000236",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000236",
+   "amendment_law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20230713_505CO0000000235",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000235",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20230101_501CO0000000180",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "501CO0000000180",
+   "amendment_law_title": "スポーツ基本法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20220712_504CO0000000243",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-12",
+   "amendment_law_id": "504CO0000000243",
+   "amendment_law_title": "銃砲刀剣類所持等取締法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20220601_504CO0000000004",
+   "amendment_promulgate_date": "2022-01-04",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504CO0000000004",
+   "amendment_law_title": "消費者被害の防止及びその回復の促進を図るための特定商取引に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20220401_504CO0000000034",
+   "amendment_promulgate_date": "2022-01-28",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000034",
+   "amendment_law_title": "銃砲刀剣類所持等取締法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20220315_503CO0000000285",
+   "amendment_promulgate_date": "2021-10-15",
+   "amendment_enforcement_date": "2022-03-15",
+   "amendment_law_id": "503CO0000000285",
+   "amendment_law_title": "銃砲刀剣類所持等取締法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20211101_503CO0000000162",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000162",
+   "amendment_law_title": "金融商品の販売等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20210719_431CO0000000072",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2021-07-19",
+   "amendment_law_id": "431CO0000000072",
+   "amendment_law_title": "特定複合観光施設区域整備法施行令",
+   "amendment_law_num": "平成三十一年政令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20201009_502CO0000000305",
+   "amendment_promulgate_date": "2020-10-09",
+   "amendment_enforcement_date": "2020-10-09",
+   "amendment_law_id": "502CO0000000305",
+   "amendment_law_title": "銃砲刀剣類所持等取締法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20200501_502CO0000000142",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502CO0000000142",
+   "amendment_law_title": "資金決済に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20191211_501CO0000000180",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501CO0000000180",
+   "amendment_law_title": "スポーツ基本法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20180401_429CO0000000112",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000112",
+   "amendment_law_title": "国税通則法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20171201_429CO0000000174",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2017-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000174",
+   "amendment_law_title": "特定商取引に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20171101_429CO0000000136",
+   "amendment_promulgate_date": "2017-04-07",
+   "amendment_enforcement_date": "2017-11-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000136",
+   "amendment_law_title": "外国人の技能実習の適正な実施及び技能実習生の保護に関する法律施行令",
+   "amendment_law_num": "平成二十九年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20170713_429CO0000000180",
+   "amendment_promulgate_date": "2017-07-05",
+   "amendment_enforcement_date": "2017-07-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000180",
+   "amendment_law_title": "警察法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20170711_429CO0000000181",
+   "amendment_promulgate_date": "2017-07-05",
+   "amendment_enforcement_date": "2017-07-11",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000181",
+   "amendment_law_title": "銃砲刀剣類所持等取締法施行令及び海賊多発海域における日本船舶の警備に関する特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000033_20150529_426CO0000000410",
+   "amendment_promulgate_date": "2014-12-24",
+   "amendment_enforcement_date": "2015-05-29",
+   "amendment_law_id": "426CO0000000410",
+   "amendment_law_num": "平成二十六年政令第四百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定有害鳥獣駆除）",
+  "title": "第一条",
+  "paragraphs": [
+   "銃砲刀剣類所持等取締法（以下「法」という。）第三条の十三第四号の政令で定める有害鳥獣駆除は、鳥獣の保護及び管理並びに狩猟の適正化に関する法律（平成十四年法律第八十八号）第九条第一項の規定による許可に基づく鳥獣の捕獲又は殺傷以外の有害鳥獣駆除とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-03-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T00:20:36+09:00"
+ }
+}

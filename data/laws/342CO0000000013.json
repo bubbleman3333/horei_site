@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "342CO0000000013",
+  "law_num": "昭和四十二年政令第十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 42,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "013",
+  "promulgation_date": "1967-02-02"
+ },
+ "revision_info": {
+  "law_revision_id": "342CO0000000013_20260527_508CO0000000176",
+  "law_type": "CabinetOrder",
+  "law_title": "首都圏近郊緑地保全法施行令",
+  "law_title_kana": "しゅとけんきんこうりょくちほぜんほうしこうれい",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2026-06-10T09:44:40+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000176",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "342CO0000000013_20260527_508CO0000000176",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000176",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000013_20241108_506CO0000000339",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-08",
+   "amendment_law_id": "506CO0000000339",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000013_20230401_505CO0000000068",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000068",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000013_20111227_423CO0000000427",
+   "amendment_promulgate_date": "2011-12-26",
+   "amendment_enforcement_date": "2011-12-27",
+   "amendment_law_id": "423CO0000000427",
+   "amendment_law_num": "平成二十三年政令第四百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（収用委員会の裁決の申請手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "首都圏近郊緑地保全法（以下「法」という。）第六条第九項の規定により土地収用法（昭和二十六年法律第二百十九号）第九十四条第二項の規定による裁決を申請しようとする者は、国土交通省令で定める様式に従い、同条第三項各号（第三号を除く。）に掲げる事項を記載した裁決申請書を収用委員会に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1967-02-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-10T09:44:40+09:00"
+ }
+}

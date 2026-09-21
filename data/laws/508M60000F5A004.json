@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000F5A004",
+  "law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "004",
+  "promulgation_date": "2026-05-28"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000F5A004_20261001_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令",
+  "law_title_kana": "じゅうようでんしけいさんきにたいするふせいなこういによるひがいのぼうしにかんするほうりつにもとづくとくべつしゃかいきばんじぎょうしゃによるとくていしんがいじしょうとうのほうこくとうにかんするめいれい",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-06-11T10:55:30+09:00",
+  "amendment_promulgate_date": "2026-05-28",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000F5A004_20261001_000000000000000",
+   "amendment_promulgate_date": "2026-05-28",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "508M60000F5A004_20260918_508M60000F5A007",
+   "amendment_promulgate_date": "2026-08-31",
+   "amendment_enforcement_date": "2026-09-18",
+   "amendment_law_id": "508M60000F5A007",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（重要電子計算機）",
+  "title": "第一条",
+  "paragraphs": [
+   "重要電子計算機に対する不正な行為による被害の防止に関する法律施行令（以下この条において「令」という。）第一条第三項第二号の主務省令で定める電子計算機は、特定重要設備（経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（令和四年法律第四十三号。以下「経済安全保障推進法」という。）第五十条第一項に規定する特定重要設備をいう。以下同じ。）と電気通信回線（公衆の用に供されているものを除く。）で直接又は間接に接続されている電子計算機（令第一条第三項第一号に掲げるものを除く。）であって、次のいずれかに該当するものとする。",
+   "令第一条第三項第三号の主務省令で定める電子計算機は、一号電子計算機による情報処理の用に供される電磁的記録を作成するために用いられる電子計算機（一号電子計算機及び前項各号に規定するものを除く。）であって、当該電磁的記録が一定の期間ごとに当該一号電子計算機に入力されるもののうち、次のいずれかに該当するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-05-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-11T10:55:30+09:00"
+ }
+}

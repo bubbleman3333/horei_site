@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "419CO0000000331",
+  "law_num": "平成十九年政令第三百三十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "331",
+  "promulgation_date": "2007-11-07"
+ },
+ "revision_info": {
+  "law_revision_id": "419CO0000000331_20251001_507CO0000000326",
+  "law_type": "CabinetOrder",
+  "law_title": "出資の受入れ、預り金及び金利等の取締りに関する法律施行令",
+  "law_title_kana": "しゅっしのうけいれあずかりきんおよびきんりとうのとりしまりにかんするほうりつしこうれい",
+  "abbrev": "出資法施行令",
+  "category": "金融・保険",
+  "updated": "2025-10-03T09:21:22+09:00",
+  "amendment_promulgate_date": "2025-09-18",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000326",
+  "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百二十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419CO0000000331_20251001_507CO0000000326",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000326",
+   "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000331_20191001_501CO0000000093",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000093",
+   "amendment_law_title": "利息制限法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000331_20181022_430CO0000000293",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-10-22",
+   "amendment_law_id": "430CO0000000293",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000331_20170401_428CO0000000396",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000396",
+   "amendment_law_title": "森林法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（保証の業務に関して行政機関の監督を受ける者）",
+  "title": "第一条",
+  "paragraphs": [
+   "出資の受入れ、預り金及び金利等の取締りに関する法律（以下「法」という。）第五条の二第三項の政令で定める者は、次に掲げる者とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-11-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-03T09:21:22+09:00"
+ }
+}

@@ -1,0 +1,121 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "403M50400000001",
+  "law_num": "平成三年国家公安委員会規則第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 3,
+  "law_num_type": "Rule",
+  "law_num_num": "001",
+  "promulgation_date": "1991-01-31"
+ },
+ "revision_info": {
+  "law_revision_id": "403M50400000001_20260521_508M60400000009",
+  "law_type": "Rule",
+  "law_title": "自動車の保管場所の確保等に関する法律施行規則",
+  "law_title_kana": "じどうしゃのほかんばしょのかくほとうにかんするほうりつせこうきそく",
+  "abbrev": "ガレージ法施行規則,車庫法施行規則",
+  "category": "警察",
+  "updated": "2026-05-28T11:18:49+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000009",
+  "amendment_law_title": "国家公安委員会の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "403M50400000001_20260521_508M60400000009",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000009",
+   "amendment_law_title": "国家公安委員会の所管する法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000001_20250401_506M60400000017",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60400000017",
+   "amendment_law_title": "自動車の保管場所の確保等に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000001_20250301_507M60400000002",
+   "amendment_promulgate_date": "2025-02-10",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "507M60400000002",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000001_20201228_502M60400000013",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60400000013",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000001_20191216_501M60400000010",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60400000010",
+   "amendment_law_title": "行政手続等における情報通信の技術の利用に関する法律の施行に伴う国家公安委員会の所管する関係法令に規定する対象手続等を定める国家公安委員会規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000001_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000001_20110719_422M60400000006",
+   "amendment_promulgate_date": "2010-11-05",
+   "amendment_enforcement_date": "2011-07-19",
+   "amendment_law_id": "422M60400000006",
+   "amendment_law_num": "平成二十二年国家公安委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（保管場所の確保を証する書面の交付の申請の手続等）",
+  "title": "第一条",
+  "paragraphs": [
+   "自動車の保管場所の確保等に関する法律施行令（昭和三十七年政令第三百二十九号）第二条第一項の規定により自動車の保有者が行う自動車の保管場所の確保等に関する法律（以下「法」という。）第四条第一項の書面の交付の申請は、申請書二通（都道府県公安委員会規則で別段の定めをしたときは、一通）を当該申請に係る場所の位置を管轄する警察署長に提出して行うものとする。",
+   "前項の申請を行う場合において、申請書二通のうち一通（同項の規定による別段の定めにより申請書一通を提出することとされる場合にあっては、当該申請書）には、次に掲げる書面を添付しなければならない。",
+   "前項の規定にかかわらず、次に掲げる場合には、前項第二号に掲げる書面の添付を省略することができる。ただし、警察署長は、当該申請に係る場所の付近の目標となる地物及びその位置を知るため特に必要があると認めるときは、同号に掲げる書面の提出を求めることができる。",
+   "第一項の申請書及び法第四条第一項の書面の様式は、別記様式第一号のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1991-01-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-28T11:18:49+09:00"
+ }
+}

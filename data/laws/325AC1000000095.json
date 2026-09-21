@@ -1,0 +1,309 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "325AC1000000095",
+  "law_num": "昭和二十五年法律第九十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "095",
+  "promulgation_date": "1950-04-03"
+ },
+ "revision_info": {
+  "law_revision_id": "325AC1000000095_20260401_507AC0000000089",
+  "law_type": "Act",
+  "law_title": "一般職の職員の給与に関する法律",
+  "law_title_kana": "いっぱんしょくのしょくいんのきゅうよにかんするほうりつ",
+  "abbrev": "一般職給与法,一般職職員給与法",
+  "category": "国家公務員",
+  "updated": "2026-04-01T01:36:42+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000089",
+  "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第八十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325AC1000000095_20260401_507AC0000000089",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000089",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20251224_507AC0000000089",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507AC0000000089",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20250401_506AC0000000072",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000072",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20250401_505AC0000000073",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000073",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20241225_506AC0000000072",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506AC0000000072",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20240401_505AC0000000073",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000073",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20231124_505AC0000000073",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2023-11-24",
+   "amendment_law_id": "505AC0000000073",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20230401_504AC0000000081",
+   "amendment_promulgate_date": "2022-11-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000081",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20230401_503AC0000000061",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000061",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20221118_504AC0000000081",
+   "amendment_promulgate_date": "2022-11-18",
+   "amendment_enforcement_date": "2022-11-18",
+   "amendment_law_id": "504AC0000000081",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20220413_504AC0000000017",
+   "amendment_promulgate_date": "2022-04-13",
+   "amendment_enforcement_date": "2022-04-13",
+   "amendment_law_id": "504AC0000000017",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20210611_503AC0000000061",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2021-06-11",
+   "amendment_law_id": "503AC0000000061",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20210401_502AC0000000065",
+   "amendment_promulgate_date": "2020-11-30",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000065",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20210401_502AC0000000063",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000063",
+   "amendment_law_title": "科学技術基本法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20201130_502AC0000000065",
+   "amendment_promulgate_date": "2020-11-30",
+   "amendment_enforcement_date": "2020-11-30",
+   "amendment_law_id": "502AC0000000065",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20200624_502AC0000000063",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2020-06-24",
+   "amendment_law_id": "502AC0000000063",
+   "amendment_law_title": "科学技術基本法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20200401_501AC0000000051",
+   "amendment_promulgate_date": "2019-11-22",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000051",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20191122_501AC0000000051",
+   "amendment_promulgate_date": "2019-11-22",
+   "amendment_enforcement_date": "2019-11-22",
+   "amendment_law_id": "501AC0000000051",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20190401_430AC0000000082",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000082",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20181130_430AC0000000082",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-11-30",
+   "amendment_law_id": "430AC0000000082",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20180401_429AC0000000077",
+   "amendment_promulgate_date": "2017-12-15",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000077",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20171215_429AC0000000077",
+   "amendment_promulgate_date": "2017-12-15",
+   "amendment_enforcement_date": "2017-12-15",
+   "amendment_law_id": "429AC0000000077",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000095_20170401_428AC0000000080",
+   "amendment_promulgate_date": "2016-11-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000080",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（この法律の目的及び効力）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、別に法律で定めるものを除き、国家公務員法（昭和二十二年法律第百二十号）第六十四条第一項に規定する給与に関する法律として、国家公務員法第二条に規定する一般職に属する職員（以下「職員」という。）の給与に関する事項を定めることを目的とする。",
+   "この法律の規定は、国家公務員法のいかなる条項をも廃止し、若しくは修正し、又はこれに代わるものではない。この法律の規定が国家公務員法の規定に矛盾する場合においては、その規定は、当然その効力を失う。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-04-03",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T01:36:42+09:00"
+ }
+}

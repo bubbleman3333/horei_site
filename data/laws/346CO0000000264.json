@@ -1,0 +1,148 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "346CO0000000264",
+  "law_num": "昭和四十六年政令第二百六十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "264",
+  "promulgation_date": "1971-08-11"
+ },
+ "revision_info": {
+  "law_revision_id": "346CO0000000264_20231201_505CO0000000344",
+  "law_type": "CabinetOrder",
+  "law_title": "特定工場における公害防止組織の整備に関する法律施行令",
+  "law_title_kana": "とくていこうじょうにおけるこうがいぼうしそしきのせいびにかんするほうりつしこうれい",
+  "abbrev": "公害防止組織整備法施行令",
+  "category": "環境保全",
+  "updated": "2023-12-15T13:11:59+09:00",
+  "amendment_promulgate_date": "2023-12-01",
+  "amendment_enforcement_date": "2023-12-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505CO0000000344",
+  "amendment_law_title": "水銀による環境の汚染の防止に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和五年政令第三百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346CO0000000264_20261001_508CO0000000196",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000196",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20231201_505CO0000000344",
+   "amendment_promulgate_date": "2023-12-01",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505CO0000000344",
+   "amendment_law_title": "水銀による環境の汚染の防止に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20230607_505CO0000000202",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2023-06-07",
+   "amendment_law_id": "505CO0000000202",
+   "amendment_law_title": "特定工場における公害防止組織の整備に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20230401_505CO0000000068",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000068",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20210801_503CO0000000001",
+   "amendment_promulgate_date": "2021-01-05",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503CO0000000001",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20181201_430CO0000000329",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_law_id": "430CO0000000329",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第三百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20180525_430CO0000000170",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2018-05-25",
+   "amendment_law_id": "430CO0000000170",
+   "amendment_law_title": "特定工場における公害防止組織の整備に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20180401_429CO0000000286",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000286",
+   "amendment_law_title": "地方自治法第二百五十二条の二十二第一項の中核市の指定に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20170816_427CO0000000378",
+   "amendment_promulgate_date": "2015-11-11",
+   "amendment_enforcement_date": "2017-08-16",
+   "amendment_law_id": "427CO0000000378",
+   "amendment_law_title": "水銀による環境の汚染の防止に関する法律施行令",
+   "amendment_law_num": "平成二十七年政令第三百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000264_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（対象業種）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定工場における公害防止組織の整備に関する法律（以下「法」という。）第二条の政令で定める業種は、次に掲げるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-08-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2023-12-15T13:11:59+09:00"
+ }
+}

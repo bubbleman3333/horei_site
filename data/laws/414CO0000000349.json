@@ -1,0 +1,128 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "414CO0000000349",
+  "law_num": "平成十四年政令第三百四十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "349",
+  "promulgation_date": "2002-11-27"
+ },
+ "revision_info": {
+  "law_revision_id": "414CO0000000349_20260521_508CO0000000157",
+  "law_type": "CabinetOrder",
+  "law_title": "国際受刑者移送法施行令",
+  "law_title_kana": "こくさいじゅけいしゃいそうほうしこうれい",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-28T10:00:21+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000157",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414CO0000000349_20270601_508CO0000000253",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2027-06-01",
+   "amendment_law_id": "508CO0000000253",
+   "amendment_law_title": "更生保護制度の充実を図るための保護司法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和八年政令第二百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000349_20260521_508CO0000000157",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000157",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000349_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000349_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000349_20231201_505CO0000000258",
+   "amendment_promulgate_date": "2023-08-04",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505CO0000000258",
+   "amendment_law_title": "刑法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000349_20231115_505CO0000000322",
+   "amendment_promulgate_date": "2023-11-10",
+   "amendment_enforcement_date": "2023-11-15",
+   "amendment_law_id": "505CO0000000322",
+   "amendment_law_title": "国際受刑者移送法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000349_20220401_503CO0000000341",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000341",
+   "amendment_law_title": "国際受刑者移送法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000349_20160601_428CO0000000199",
+   "amendment_promulgate_date": "2016-04-15",
+   "amendment_enforcement_date": "2016-06-01",
+   "amendment_law_id": "428CO0000000199",
+   "amendment_law_title": "刑法等の一部を改正する法律及び薬物使用等の罪を犯した者に対する刑の一部の執行猶予に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二十一条の規定による刑法等の適用に関する技術的読替え）",
+  "title": "第一条",
+  "paragraphs": [
+   "国際受刑者移送法（以下「法」という。）第二十一条の規定による同条に規定する法律の規定の適用については、次の表の第一欄に掲げる法律の同表の第二欄に掲げる規定中同表の第三欄に掲げる字句は、それぞれ同表の第四欄に掲げる字句とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-11-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-28T10:00:21+09:00"
+ }
+}

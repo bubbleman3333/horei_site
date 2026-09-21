@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "349CO0000000004",
+  "law_num": "昭和四十九年政令第四号",
+  "law_num_era": "Showa",
+  "law_num_year": 49,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "004",
+  "promulgation_date": "1974-01-14"
+ },
+ "revision_info": {
+  "law_revision_id": "349CO0000000004_20260122_508CO0000000003",
+  "law_type": "CabinetOrder",
+  "law_title": "国民生活安定緊急措置法施行令",
+  "law_title_kana": "こくみんせいかつあんていきんきゅうそちほうせこうれい",
+  "abbrev": "生活安定法施行令",
+  "category": "商業",
+  "updated": "2026-02-03T09:08:59+09:00",
+  "amendment_promulgate_date": "2026-01-21",
+  "amendment_enforcement_date": "2026-01-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000003",
+  "amendment_law_title": "国民生活安定緊急措置法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "349CO0000000004_20260122_508CO0000000003",
+   "amendment_promulgate_date": "2026-01-21",
+   "amendment_enforcement_date": "2026-01-22",
+   "amendment_law_id": "508CO0000000003",
+   "amendment_law_title": "国民生活安定緊急措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000004_20250623_507CO0000000213",
+   "amendment_promulgate_date": "2025-06-13",
+   "amendment_enforcement_date": "2025-06-23",
+   "amendment_law_id": "507CO0000000213",
+   "amendment_law_title": "国民生活安定緊急措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000004_20200829_502CO0000000254",
+   "amendment_promulgate_date": "2020-08-28",
+   "amendment_enforcement_date": "2020-08-29",
+   "amendment_law_id": "502CO0000000254",
+   "amendment_law_title": "国民生活安定緊急措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000004_20200526_502CO0000000173",
+   "amendment_promulgate_date": "2020-05-22",
+   "amendment_enforcement_date": "2020-05-26",
+   "amendment_law_id": "502CO0000000173",
+   "amendment_law_title": "国民生活安定緊急措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000004_20200315_502CO0000000042",
+   "amendment_promulgate_date": "2020-03-11",
+   "amendment_enforcement_date": "2020-03-15",
+   "amendment_law_id": "502CO0000000042",
+   "amendment_law_title": "国民生活安定緊急措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000004_20020701_414CO0000000200",
+   "amendment_promulgate_date": "2002-06-07",
+   "amendment_enforcement_date": "2002-07-01",
+   "amendment_law_id": "414CO0000000200",
+   "amendment_law_num": "平成十四年政令第二百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（報告の徴収）",
+  "title": "第一条",
+  "paragraphs": [
+   "国民生活安定緊急措置法（以下「法」という。）第三十条第一項の規定により主務大臣が報告させることができる事項は、次のとおりとする。",
+   "法第三十条第二項の規定により主務大臣が報告させることができる事項は、法第二十二条第一項に規定する生活関連物資等の生産、輸入、販売若しくは輸送又は当該生活関連物資等に係る物品の保管の事業を行う者については、当該生活関連物資等の生産、輸入、販売、輸送又は保管に関する業務又は経理の状況とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1974-01-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-02-03T09:08:59+09:00"
+ }
+}

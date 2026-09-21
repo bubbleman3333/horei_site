@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60001000033",
+  "law_num": "令和六年環境省令第三十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "033",
+  "promulgation_date": "2024-12-18"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60001000033_20260701_508M60001000019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地域における生物の多様性の増進のための活動の促進等に関する法律第三十五条第三項の規定により地方環境局長に委任する権限を定める省令",
+  "law_title_kana": "ちいきにおけるせいぶつのたようせいのぞうしんのためのかつどうのそくしんとうにかんするほうりつだいさんじゅうごじょうだいさんこうのきていによりちほうかんきょうきょくちょうにいにんするけんげんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-09-16T18:00:19+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": "",
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000019",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年環境省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60001000033_20260701_508M60001000019",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "508M60001000019",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60001000033_20250401_000000000000000",
+   "amendment_promulgate_date": "2024-12-18",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "地域における生物の多様性の増進のための活動の促進等に関する法律（以下「法」という。）第二十七条第二項に規定する環境大臣の権限は、地方環境局長に委任する。ただし、環境大臣が自ら行うことは妨げない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-12-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-16T18:00:19+09:00"
+ }
+}

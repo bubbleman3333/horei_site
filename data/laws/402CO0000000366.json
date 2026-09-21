@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "402CO0000000366",
+  "law_num": "平成二年政令第三百六十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 2,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "366",
+  "promulgation_date": "1990-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "402CO0000000366_20260731_508CO0000000234",
+  "law_type": "CabinetOrder",
+  "law_title": "特別職の職員の給与に関する法律施行令",
+  "law_title_kana": "とくべつしょくのしょくいんのきゅうよにかんするほうりつせこうれい",
+  "abbrev": "特別職職員給与法施行令,特別職給与法施行令",
+  "category": "国家公務員",
+  "updated": "2026-08-12T13:42:53+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000234",
+  "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第二百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "402CO0000000366_20260731_508CO0000000234",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000234",
+   "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000366_20251224_507CO0000000433",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507CO0000000433",
+   "amendment_law_title": "特別職の職員の給与に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000366_20201130_502CO0000000339",
+   "amendment_promulgate_date": "2020-11-30",
+   "amendment_enforcement_date": "2020-11-30",
+   "amendment_law_id": "502CO0000000339",
+   "amendment_law_title": "特別職の職員の給与に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402CO0000000366_20140530_426CO0000000195",
+   "amendment_promulgate_date": "2014-05-29",
+   "amendment_enforcement_date": "2014-05-30",
+   "amendment_law_id": "426CO0000000195",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令　抄",
+   "amendment_law_num": "平成二十六年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（俸給等を支給しない場合の基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "特別職の職員の給与に関する法律（以下「法」という。）第四条第一項の政令で定める基準は、内閣官房令で定めるところにより算定した一年当たりの同項に規定する所得の額が七百万円を超えることとする。ただし、法第一条第十二号から第四十一号までに掲げる特別職の職員が他の職務に従事し、又は営利事業を営み、その他金銭上の利益を目的とする業務を行う期間が一年に満たない場合その他内閣総理大臣が定める場合にあっては、内閣官房令で定めるところにより算定した一月当たりの同項に規定する所得の額が五十八万三千円を超えることとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1990-12-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-12T13:42:53+09:00"
+ }
+}

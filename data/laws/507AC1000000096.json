@@ -1,0 +1,60 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "507AC1000000096",
+  "law_num": "令和七年法律第九十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "Act",
+  "law_num_num": "096",
+  "promulgation_date": "2025-12-24"
+ },
+ "revision_info": {
+  "law_revision_id": "507AC1000000096_20260401_000000000000000",
+  "law_type": "Act",
+  "law_title": "高次脳機能障害者支援法",
+  "law_title_kana": "こうじのうきのうしょうがいしゃしえんほう",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-04-02T21:55:13+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507AC1000000096_20260401_000000000000000",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　高次脳機能障害者に対する支援に関する施策",
+  "第三章　高次脳機能障害者支援センター等",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、高次脳機能障害の特性に関する国民の理解が必ずしも十分でないこと等の理由により、高次脳機能障害者が適切な支援を受けることができず、日常生活又は社会生活を円滑に営む上での困難を有する状況があることに鑑み、高次脳機能障害者に対する支援に関し、基本理念を定め、国等の責務を明らかにするとともに、地域での生活支援、相談体制の整備、高次脳機能障害者支援センターの指定等について定めることにより、高次脳機能障害者の自立及び社会参加のためその生活全般にわたる支援を図り、もって高次脳機能障害者を含めた国民一人一人がその個性と能力を十分に発揮し、相互に人格と個性を尊重しつつ支え合いながら共生する活力ある社会の実現に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-12-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:55:13+09:00"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "341CO0000000224",
+  "law_num": "昭和四十一年政令第二百二十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "224",
+  "promulgation_date": "1966-07-01"
+ },
+ "revision_info": {
+  "law_revision_id": "341CO0000000224_20260401_506CO0000000355",
+  "law_type": "CabinetOrder",
+  "law_title": "野菜生産出荷安定法施行令",
+  "law_title_kana": "やさいせいさんしゅっかあんていほうせこうれい",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-04-01T05:54:48+09:00",
+  "amendment_promulgate_date": "2024-12-04",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506CO0000000355",
+  "amendment_law_title": "野菜生産出荷安定法施行令の一部を改正する政令",
+  "amendment_law_num": "令和六年政令第三百五十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341CO0000000224_20260401_506CO0000000355",
+   "amendment_promulgate_date": "2024-12-04",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000355",
+   "amendment_law_title": "野菜生産出荷安定法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000224_20020607_414CO0000000201",
+   "amendment_promulgate_date": "2002-06-07",
+   "amendment_enforcement_date": "2002-06-07",
+   "amendment_law_id": "414CO0000000201",
+   "amendment_law_num": "平成十四年政令第二百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定野菜）",
+  "title": "第一条",
+  "paragraphs": [
+   "野菜生産出荷安定法（以下「法」という。）第二条の政令で定める種別に属する野菜は、次の表の上欄に掲げる野菜の種類ごとにそれぞれ同表の下欄に掲げる種別に属するもの並びにたまねぎ、ばれいしよ及びほうれんそうとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1966-07-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T05:54:48+09:00"
+ }
+}

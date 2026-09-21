@@ -1,0 +1,80 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "501AC1000000048",
+  "law_num": "令和元年法律第四十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 1,
+  "law_num_type": "Act",
+  "law_num_num": "048",
+  "promulgation_date": "2019-06-28"
+ },
+ "revision_info": {
+  "law_revision_id": "501AC1000000048_20231201_505AC0000000056",
+  "law_type": "Act",
+  "law_title": "日本語教育の推進に関する法律",
+  "law_title_kana": "にほんごきょういくのすいしんにかんするほうりつ",
+  "abbrev": "日本語教育推進法",
+  "category": "教育",
+  "updated": "2026-02-19T13:33:01+09:00",
+  "amendment_promulgate_date": "2023-06-16",
+  "amendment_enforcement_date": "2023-12-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000056",
+  "amendment_law_title": "出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第五十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "501AC1000000048_20270401_506AC0000000060",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "506AC0000000060",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "501AC1000000048_20231201_505AC0000000056",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505AC0000000056",
+   "amendment_law_title": "出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "501AC1000000048_20190628_000000000000000",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-06-28",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針等",
+  "第三章　基本的施策",
+  "第四章　日本語教育推進会議等"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、日本語教育の推進が、我が国に居住する外国人が日常生活及び社会生活を国民と共に円滑に営むことができる環境の整備に資するとともに、我が国に対する諸外国の理解と関心を深める上で重要であることに鑑み、日本語教育の推進に関し、基本理念を定め、並びに国、地方公共団体及び事業主の責務を明らかにするとともに、基本方針の策定その他日本語教育の推進に関する施策の基本となる事項を定めることにより、日本語教育の推進に関する施策を総合的かつ効果的に推進し、もって多様な文化を尊重した活力ある共生社会の実現に資するとともに、諸外国との交流の促進並びに友好関係の維持及び発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-06-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-02-19T13:33:01+09:00"
+ }
+}

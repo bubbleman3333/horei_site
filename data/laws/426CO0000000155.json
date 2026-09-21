@@ -1,0 +1,465 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "426CO0000000155",
+  "law_num": "平成二十六年政令第百五十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "155",
+  "promulgation_date": "2014-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "426CO0000000155_20260710_508CO0000000220",
+  "law_type": "CabinetOrder",
+  "law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令",
+  "law_title_kana": "ぎょうせいてつづきにおけるとくていのこじんをしきべつするためのばんごうのりようとうにかんするほうりつせこうれい",
+  "abbrev": "マイナンバー法施行令,個人番号法施行令,番号法施行令",
+  "category": "行政手続",
+  "updated": "2026-07-17T09:25:31+09:00",
+  "amendment_promulgate_date": "2026-07-03",
+  "amendment_enforcement_date": "2026-07-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000220",
+  "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426CO0000000155_20260710_508CO0000000220",
+   "amendment_promulgate_date": "2026-07-03",
+   "amendment_enforcement_date": "2026-07-10",
+   "amendment_law_id": "508CO0000000220",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20260614_507CO0000000423",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "507CO0000000423",
+   "amendment_law_title": "出入国管理及び難民認定法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第四百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20260526_507CO0000000351",
+   "amendment_promulgate_date": "2025-10-10",
+   "amendment_enforcement_date": "2026-05-26",
+   "amendment_law_id": "507CO0000000351",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20260401_507CO0000000343",
+   "amendment_promulgate_date": "2025-10-03",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000343",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20251010_507CO0000000351",
+   "amendment_promulgate_date": "2025-10-10",
+   "amendment_enforcement_date": "2025-10-10",
+   "amendment_law_id": "507CO0000000351",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20250704_507CO0000000245",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2025-07-04",
+   "amendment_law_id": "507CO0000000245",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20250401_507CO0000000006",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000006",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20250117_507CO0000000006",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-01-17",
+   "amendment_law_id": "507CO0000000006",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20241202_506CO0000000285",
+   "amendment_promulgate_date": "2024-09-13",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506CO0000000285",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20241001_506CO0000000289",
+   "amendment_promulgate_date": "2024-09-20",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000289",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20240527_506CO0000000188",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506CO0000000188",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20240401_506CO0000000064",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000064",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20240301_502CO0000000249",
+   "amendment_promulgate_date": "2020-08-28",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "502CO0000000249",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20240101_504CO0000000300",
+   "amendment_promulgate_date": "2022-09-09",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504CO0000000300",
+   "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律施行令",
+   "amendment_law_num": "令和四年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20230401_505CO0000000015",
+   "amendment_promulgate_date": "2023-01-25",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000015",
+   "amendment_law_title": "公認会計士法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20230401_504CO0000000177",
+   "amendment_promulgate_date": "2022-04-20",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000177",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20220601_503CO0000000243",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "503CO0000000243",
+   "amendment_law_title": "児童手当法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20220401_503CO0000000292",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000292",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する等の政令",
+   "amendment_law_num": "令和三年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20220111_502CO0000000249",
+   "amendment_promulgate_date": "2020-08-28",
+   "amendment_enforcement_date": "2022-01-11",
+   "amendment_law_id": "502CO0000000249",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20211101_503CO0000000162",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000162",
+   "amendment_law_title": "金融商品の販売等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20210913_502CO0000000249",
+   "amendment_promulgate_date": "2020-08-28",
+   "amendment_enforcement_date": "2021-09-13",
+   "amendment_law_id": "502CO0000000249",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20210901_503CO0000000236",
+   "amendment_promulgate_date": "2021-08-25",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000236",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20210401_503CO0000000117",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000117",
+   "amendment_law_title": "国税通則法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20200828_502CO0000000249",
+   "amendment_promulgate_date": "2020-08-28",
+   "amendment_enforcement_date": "2020-08-28",
+   "amendment_law_id": "502CO0000000249",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20200525_502CO0000000164",
+   "amendment_promulgate_date": "2020-05-07",
+   "amendment_enforcement_date": "2020-05-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000164",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20200114_501CO0000000164",
+   "amendment_promulgate_date": "2019-11-22",
+   "amendment_enforcement_date": "2020-01-14",
+   "amendment_law_id": "501CO0000000164",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20191105_431CO0000000152",
+   "amendment_promulgate_date": "2019-04-17",
+   "amendment_enforcement_date": "2019-11-05",
+   "amendment_law_id": "431CO0000000152",
+   "amendment_law_title": "住民基本台帳法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20191001_501CO0000000017",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000017",
+   "amendment_law_title": "子ども・子育て支援法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20191001_430CO0000000364",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "430CO0000000364",
+   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令",
+   "amendment_law_num": "平成三十年政令第三百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20190620_501CO0000000025",
+   "amendment_promulgate_date": "2019-06-12",
+   "amendment_enforcement_date": "2019-06-20",
+   "amendment_law_id": "501CO0000000025",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20180401_430CO0000000124",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000124",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20180101_429CO0000000278",
+   "amendment_promulgate_date": "2017-11-15",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000278",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20170530_429CO0000000019",
+   "amendment_promulgate_date": "2017-02-15",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000019",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20170530_428CO0000000332",
+   "amendment_promulgate_date": "2016-10-21",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000332",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令及び財務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20170530_428CO0000000324",
+   "amendment_promulgate_date": "2016-10-05",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000324",
+   "amendment_law_title": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20170530_426CO0000000155",
+   "amendment_promulgate_date": "2014-03-31",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "426CO0000000155",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令",
+   "amendment_law_num": "平成二十六年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20170529_429CO0000000149",
+   "amendment_promulgate_date": "2017-05-26",
+   "amendment_enforcement_date": "2017-05-29",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000149",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行令及び行政手続における特定の個人を識別するための番号の利用等に関する法律施行令及び財務省組織令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000155_20170401_429CO0000000047",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000047",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　個人番号",
+  "第三章　個人番号カード",
+  "第四章　特定個人情報の提供",
+  "第五章　特定個人情報の保護",
+  "第六章　特定個人情報の取扱いに関する監督等",
+  "第七章　法人番号",
+  "第八章　雑則"
+ ],
+ "article1": {
+  "caption": "（個人番号カードの記載事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "行政手続における特定の個人を識別するための番号の利用等に関する法律（以下「法」という。）第二条第七項第七号の政令で定める事項は、次に掲げる事項とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-17T09:25:31+09:00"
+ }
+}

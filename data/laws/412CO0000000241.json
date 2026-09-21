@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000241",
+  "law_num": "平成十二年政令第二百四十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "241",
+  "promulgation_date": "2000-05-31"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000241_20260401_508CO0000000077",
+  "law_type": "CabinetOrder",
+  "law_title": "平成十九年十月以後における旧令による共済組合等からの年金受給者のための特別措置法等の規定による年金の額の改定に関する政令",
+  "law_title_kana": "へいせいじゅうきゅうねんじゅうがついごにおけるきゅうれいによるきょうさいくみあいとうからのねんきんじゅきゅうしゃのためのとくべつそちほうとうのきていによるねんきんのがくのかいていにかんするせいれい",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-04-14T09:36:45+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000077",
+  "amendment_law_title": "平成十九年十月以後における旧令による共済組合等からの年金受給者のための特別措置法等の規定による年金の額の改定に関する政令及び令和七年度における旧国家公務員等共済組合法による退職年金等の俸給年額改定率の改定に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第七十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000241_20260401_508CO0000000077",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000077",
+   "amendment_law_title": "平成十九年十月以後における旧令による共済組合等からの年金受給者のための特別措置法等の規定による年金の額の改定に関する政令及び令和七年度における旧国家公務員等共済組合法による退職年金等の俸給年額改定率の改定に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000241_20250401_507CO0000000108",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000108",
+   "amendment_law_title": "国家公務員共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000241_20240612_506CO0000000206",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-06-12",
+   "amendment_law_id": "506CO0000000206",
+   "amendment_law_title": "平成十九年十月以後における旧令による共済組合等からの年金受給者のための特別措置法等の規定による年金の額の改定に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000241_20240425_506CO0000000174",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506CO0000000174",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和六年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000241_20151001_427CO0000000344",
+   "amendment_promulgate_date": "2015-09-30",
+   "amendment_enforcement_date": "2015-10-01",
+   "amendment_law_id": "427CO0000000344",
+   "amendment_law_title": "国家公務員共済組合法施行令等の一部を改正する等の政令",
+   "amendment_law_num": "平成二十七年政令第三百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-05-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:36:45+09:00"
+ }
+}

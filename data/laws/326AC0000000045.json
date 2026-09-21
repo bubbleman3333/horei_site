@@ -1,0 +1,466 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "326AC0000000045",
+  "law_num": "昭和二十六年法律第四十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "Act",
+  "law_num_num": "045",
+  "promulgation_date": "1951-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "326AC0000000045_20260625_508AC0000000051",
+  "law_type": "Act",
+  "law_title": "社会福祉法",
+  "law_title_kana": "しゃかいふくしほう",
+  "abbrev": "社福法",
+  "category": "社会福祉",
+  "updated": "2026-06-25T15:38:52+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000051",
+  "amendment_law_title": "社会福祉法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326AC0000000045_20290624_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2029-06-24",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2029-06-24",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20280624_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2028-06-24",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-24",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20270401_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20260625_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20251001_506AC0000000043",
+   "amendment_promulgate_date": "2024-06-05",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506AC0000000043",
+   "amendment_law_title": "住宅確保要配慮者に対する賃貸住宅の供給の促進に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20250401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20250401_506AC0000000021",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000021",
+   "amendment_law_title": "生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20241001_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20241001_506AC0000000021",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000021",
+   "amendment_law_title": "生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20240612_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-06-12",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20240424_506AC0000000021",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-24",
+   "amendment_law_id": "506AC0000000021",
+   "amendment_law_title": "生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20240401_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20240401_504AC0000000066",
+   "amendment_promulgate_date": "2022-06-15",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0000000066",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20230401_504AC0000000076",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000076",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20221001_504AC0000000012",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504AC0000000012",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20220622_504AC0000000076",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504AC0000000076",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20220615_504AC0000000066",
+   "amendment_promulgate_date": "2022-06-15",
+   "amendment_enforcement_date": "2022-06-15",
+   "amendment_law_id": "504AC0000000066",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20220525_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20220401_502AC0000000052",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000052",
+   "amendment_law_title": "地域共生社会の実現のための社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20220401_430AC0000000059",
+   "amendment_promulgate_date": "2018-06-20",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "430AC0000000059",
+   "amendment_law_title": "民法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20220331_504AC0000000012",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "504AC0000000012",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20210520_503AC0000000030",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503AC0000000030",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20210401_502AC0000000052",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000052",
+   "amendment_law_title": "地域共生社会の実現のための社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20210301_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20200612_502AC0000000052",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502AC0000000052",
+   "amendment_law_title": "地域共生社会の実現のための社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20200401_430AC0000000044",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430AC0000000044",
+   "amendment_law_title": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20191211_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20190401_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20181001_430AC0000000044",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430AC0000000044",
+   "amendment_law_title": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20180620_430AC0000000059",
+   "amendment_promulgate_date": "2018-06-20",
+   "amendment_enforcement_date": "2018-06-20",
+   "amendment_law_id": "430AC0000000059",
+   "amendment_law_title": "民法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20180608_430AC0000000044",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-06-08",
+   "amendment_law_id": "430AC0000000044",
+   "amendment_law_title": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20180401_429AC0000000052",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000052",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20180401_428AC0100000110",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "428AC0100000110",
+   "amendment_law_title": "民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律",
+   "amendment_law_num": "平成二十八年法律第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20170602_429AC0000000052",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000052",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20170531_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-05-31",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000045_20170401_428AC0000000063",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000063",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　地方社会福祉審議会",
+  "第三章　福祉に関する事務所",
+  "第四章　社会福祉主事",
+  "第五章　指導監督及び訓練",
+  "第六章　社会福祉法人",
+  "第七章　社会福祉事業",
+  "第八章　福祉サービスの適切な利用",
+  "第九章　社会福祉事業等に従事する者の確保の促進",
+  "第十章　地域福祉の推進",
+  "第十一章　社会福祉連携推進法人",
+  "第十二章　雑則",
+  "第十三章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、社会福祉を目的とする事業の全分野における共通的基本事項を定め、社会福祉を目的とする他の法律と相まつて、福祉サービスの利用者の利益の保護及び地域における社会福祉（以下「地域福祉」という。）の推進を図るとともに、社会福祉事業の公明かつ適正な実施の確保及び社会福祉を目的とする事業の健全な発達を図り、もつて社会福祉の増進に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-03-29",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-06-25T15:38:52+09:00"
+ }
+}

@@ -1,0 +1,153 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "350M50000800007",
+  "law_num": "昭和五十年運輸省令第七号",
+  "law_num_era": "Showa",
+  "law_num_year": 50,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "007",
+  "promulgation_date": "1975-03-19"
+ },
+ "revision_info": {
+  "law_revision_id": "350M50000800007_20260401_508M60000800019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "船内における食料の支給を行う者に関する省令",
+  "law_title_kana": "せんないにおけるしょくりょうのしきゅうをおこなうものにかんするしょうれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-04-15T12:26:34+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800019",
+  "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "350M50000800007_20260401_508M60000800019",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800019",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20250401_507M60000800037",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000800037",
+   "amendment_law_title": "船舶に乗り組む医師及び衛生管理者に関する省令及び船内における食料の支給を行う者に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20220401_504M60000800002",
+   "amendment_promulgate_date": "2022-01-07",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800002",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20201201_502M60000800096",
+   "amendment_promulgate_date": "2020-11-30",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800096",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20191216_501M60000800047",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800047",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20191125_501M60000800044",
+   "amendment_promulgate_date": "2019-11-25",
+   "amendment_enforcement_date": "2019-11-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800044",
+   "amendment_law_title": "船内における食料の支給を行う者に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000800007_20140805_425M60000800031",
+   "amendment_promulgate_date": "2013-05-01",
+   "amendment_enforcement_date": "2014-08-05",
+   "amendment_law_id": "425M60000800031",
+   "amendment_law_title": "船員法の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備及び経過措置に関する省令　抄",
+   "amendment_law_num": "平成二十五年国土交通省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（船内における食料の支給を行う者の乗組み）",
+  "title": "第一条",
+  "paragraphs": [
+   "船員法（以下「法」という。）第八十条第四項の国土交通省令で定める船舶は、次の表の上欄に掲げるとおりとし、同項の国土交通省令で定める基準は、同欄に掲げる船舶ごとにそれぞれ同表の下欄に掲げるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1975-03-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-15T12:26:34+09:00"
+ }
+}

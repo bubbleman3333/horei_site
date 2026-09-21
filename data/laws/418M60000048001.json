@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "418M60000048001",
+  "law_num": "平成十八年総務省・財務省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2006-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "418M60000048001_20260401_508M60000048002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方財政法施行令第二条第四項、第十七条第四項、第二十一条第四項及び第二十八条第三項並びに地方公共団体の財政の健全化に関する法律施行令第十四条第二項に規定する総務省令・財務省令で定める要件を定める省令",
+  "law_title_kana": "ちほうざいせいほうしこうれいだいにじょうだいよんこうだいななじょうだいよんこうおよびだいにじゅういちじょうだいさんこうならびにちほうこうきょうだんたいのざいせいのけんぜんかにかんするほうりつしこうれいだいじゅうよんじょうだいにこうにきていするそうむしょうれいざいむしょうれいでさだめるようけんをさだめるしょうれい",
+  "abbrev": "地財法施行令第二条第四項、第十七条第四項、第二十一条第四項及び第二十八条第三項並びに地方公共団体の財政の健全化に関する法律施行令第十四条第二項に規定する総務省令・財務省令で定める要件を定める省令",
+  "category": "地方財政",
+  "updated": "2026-05-13T11:56:33+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000048002",
+  "amendment_law_title": "地方財政法施行令第二条第四項、第十七条第四項、第二十一条第四項及び第二十八条第三項並びに地方公共団体の財政の健全化に関する法律施行令第十四条第二項に規定する総務省令・財務省令で定める要件を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省・財務省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418M60000048001_20260401_508M60000048002",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000048002",
+   "amendment_law_title": "地方財政法施行令第二条第四項、第十七条第四項、第二十一条第四項及び第二十八条第三項並びに地方公共団体の財政の健全化に関する法律施行令第十四条第二項に規定する総務省令・財務省令で定める要件を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省・財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418M60000048001_20160401_428M60000048002",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000048002",
+   "amendment_law_num": "平成二十八年総務省・財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "地方財政法施行令（昭和二十三年政令第二百六十七号）第二条第四項、第十七条第四項、第二十一条第四項及び第二十八条第三項並びに地方公共団体の財政の健全化に関する法律施行令（平成十九年政令第三百九十七号）第十四条第二項に規定する総務省令・財務省令で定める要件は、総務大臣が地方財政法（昭和二十三年法律第百九号）第五条の三第一項並びに地方財政法施行令第二条第三項、第二十一条第三項及び第二十八条第二項の規定による協議を受けて同意をしようとする地方債、同法第五条の三第六項の規定による届出を受けた地方債、同令第十七条第三項の規定による報告を受けた地方債並びに同法第五条の四第一項及び第三項から第五項まで並びに地方公共団体の財政の健全化に関する法律（平成十九年法律第九十四号）第十三条第一項に規定する許可をしようとする地方債の資金が同令第十八条の二で定める公的資金を含まないものであって、地方債の限度額が、次の地方公共団体の区分に応じ、当該各号に定める額未満のものであることとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T11:56:33+09:00"
+ }
+}

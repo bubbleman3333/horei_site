@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000100040",
+  "law_num": "令和八年厚生労働省令第四十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "040",
+  "promulgation_date": "2026-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000100040_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "社会保険診療報酬支払基金の支払基金電子診療録等情報管理業務に係る財務及び会計に関する省令",
+  "law_title_kana": "しゃかいほけんしんりょうほうしゅうしはらいききんのしはらいききんでんししんりょうろくとうじょうほうかんりぎょうむにかかるざいむおよびかいけいにかんするしょうれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-04-14T10:11:05+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000100040_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（経理原則）",
+  "title": "第一条",
+  "paragraphs": [
+   "社会保険診療報酬支払基金（以下「支払基金」という。）は、地域における医療及び介護の総合的な確保の促進に関する法律（以下「法」という。）第二十五条第一項に規定する支払基金電子診療録等情報管理業務（以下「支払基金電子診療録等情報管理業務」という。）に係る財政状態及び経営成績を明らかにするため、財産の増減及び異動並びに収益及び費用をその発生の事実に基づいて処理しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T10:11:05+09:00"
+ }
+}

@@ -1,0 +1,274 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "344M50004000049",
+  "law_num": "昭和四十四年建設省令第四十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 44,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "049",
+  "promulgation_date": "1969-08-25"
+ },
+ "revision_info": {
+  "law_revision_id": "344M50004000049_20260527_508M60000800058",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "都市計画法施行規則",
+  "law_title_kana": "としけいかくほうしこうきそく",
+  "abbrev": "都計法施行規則",
+  "category": "都市計画",
+  "updated": "2026-06-05T16:33:22+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800058",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第五十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "344M50004000049_20260527_508M60000800058",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508M60000800058",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20250601_507M60000800060",
+   "amendment_promulgate_date": "2025-05-26",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000800060",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20241108_506M60000800097",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-08",
+   "amendment_law_id": "506M60000800097",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20240401_506M60000800006",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800006",
+   "amendment_law_title": "海上運送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20230526_505M60000800030",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "505M60000800030",
+   "amendment_law_title": "宅地造成等規制法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和五年国土交通省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20221114_504M60000800080",
+   "amendment_promulgate_date": "2022-11-14",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504M60000800080",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整理に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20220401_503M60000800079",
+   "amendment_promulgate_date": "2021-12-16",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000800079",
+   "amendment_law_title": "宅地造成等規制法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20220401_503M60000800069",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000800069",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20220401_502M60000800092",
+   "amendment_promulgate_date": "2020-11-27",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502M60000800092",
+   "amendment_law_title": "都市再生特別措置法施行規則及び都市計画法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20210901_503M60000800053",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000800053",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20210715_503M60000800048",
+   "amendment_promulgate_date": "2021-07-14",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_law_id": "503M60000800048",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20210401_502M60000800074",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000800074",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年国土交通省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20200907_502M60000800074",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502M60000800074",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年国土交通省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20190914_501M60000800034",
+   "amendment_promulgate_date": "2019-09-13",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501M60000800034",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律等の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20190814_501M60000800028",
+   "amendment_promulgate_date": "2019-08-14",
+   "amendment_enforcement_date": "2019-08-14",
+   "amendment_law_id": "501M60000800028",
+   "amendment_law_title": "都市計画法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20180715_430M60000800058",
+   "amendment_promulgate_date": "2018-07-11",
+   "amendment_enforcement_date": "2018-07-15",
+   "amendment_law_id": "430M60000800058",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成三十年国土交通省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20180401_429M60000800049",
+   "amendment_promulgate_date": "2017-08-02",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429M60000800049",
+   "amendment_law_title": "都市緑地法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20170619_429M60000800036",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2017-06-19",
+   "amendment_law_id": "429M60000800036",
+   "amendment_law_title": "水防法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20170401_429M60000800019",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000800019",
+   "amendment_law_num": "平成二十九年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50004000049_20170401_429M60000800012",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000800012",
+   "amendment_law_num": "平成二十九年国土交通省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　都市計画",
+  "第三章　都市計画制限等",
+  "第四章　都市計画事業",
+  "第五章　都市施設等整備協定",
+  "第六章　都市計画協力団体",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（都市計画区域の指定にあたり勘案すべき事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "都市計画法（以下「法」という。）第五条第一項（同条第六項において準用する場合を含む。）の国土交通省令で定める事項は、法第十一条第一項各号に掲げる施設の配置及び利用とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1969-08-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-05T16:33:22+09:00"
+ }
+}

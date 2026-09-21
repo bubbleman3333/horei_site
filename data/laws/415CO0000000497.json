@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "415CO0000000497",
+  "law_num": "平成十五年政令第四百九十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "497",
+  "promulgation_date": "2003-12-10"
+ },
+ "revision_info": {
+  "law_revision_id": "415CO0000000497_20260214_507CO0000000417",
+  "law_type": "CabinetOrder",
+  "law_title": "船舶安全法及び船舶職員法の一部を改正する法律附則第六条の規定による船舶職員及び小型船舶操縦者法の規定の技術的読替え等に関する政令",
+  "law_title_kana": "せんぱくあんぜんほうおよびせんぱくしょくいんほうのいちぶをかいせいするほうりつふそくだいろくじょうのきていによるせんぱくしょくいんおよびこがたせんぱくそうじゅうしゃほうのきていのぎじゅつてきよみかえとうにかんするせいれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-02-14T00:51:30+09:00",
+  "amendment_promulgate_date": "2025-12-17",
+  "amendment_enforcement_date": "2026-02-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000417",
+  "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第四百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415CO0000000497_20260214_507CO0000000417",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "507CO0000000417",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第四百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000497_20040301_000000000000000",
+   "amendment_promulgate_date": "2003-12-10",
+   "amendment_enforcement_date": "2004-03-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（登録電子通信移行講習等に関する読替え）",
+  "title": "第一条",
+  "paragraphs": [
+   "船舶安全法及び船舶職員法の一部を改正する法律（以下「一部改正法」という。）附則第六条の規定による技術的読替えは、次の表のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-12-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-02-14T00:51:30+09:00"
+ }
+}

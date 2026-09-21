@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "420RJNJ09122000",
+  "law_num": "平成二十年人事院規則九―一二二",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "Rule",
+  "law_num_num": "9_122",
+  "promulgation_date": "2008-02-01"
+ },
+ "revision_info": {
+  "law_revision_id": "420RJNJ09122000_20260401_508RJNJ09034036",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―一二二（専門スタッフ職調整手当）",
+  "law_title_kana": "じんじいんきそくきゅうのひゃくにじゅうにせんもんすたっふしょくちょうせいてあて",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-04-02T19:55:56+09:00",
+  "amendment_promulgate_date": "2026-02-13",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ09034036",
+  "amendment_law_title": "人事院規則九―三四（初任給調整手当）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―三四―三六",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420RJNJ09122000_20260401_508RJNJ09034036",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09034036",
+   "amendment_law_title": "人事院規則九―三四（初任給調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―三四―三六",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420RJNJ09122000_20180401_430RJNJ01071000",
+   "amendment_promulgate_date": "2018-02-01",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RJNJ01071000",
+   "amendment_law_title": "人事院規則一―七一（一般職の職員の給与に関する法律等の一部を改正する法律の施行に伴う関係人事院規則の整理に関する人事院規則）",
+   "amendment_law_num": "平成三十年人事院規則一―七一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420RJNJ09122000_20101201_422RJNJ09122001",
+   "amendment_promulgate_date": "2010-11-30",
+   "amendment_enforcement_date": "2010-12-01",
+   "amendment_law_id": "422RJNJ09122001",
+   "amendment_law_num": "平成二十二年人事院規則九―一二二―一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "専門スタッフ職調整手当の支給については、別に定める場合を除き、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-02-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T19:55:56+09:00"
+ }
+}

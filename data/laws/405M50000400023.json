@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "405M50000400023",
+  "law_num": "平成五年通商産業省令第二十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "1993-04-19"
+ },
+ "revision_info": {
+  "law_revision_id": "405M50000400023_20260525_508M60000400046",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "ゴルフ場等に係る会員契約の適正化に関する法律施行規則",
+  "law_title_kana": "ごるふじょうとうにかかるかいいんけいやくのてきせいかにかんするほうりつしこうきそく",
+  "abbrev": "ゴルフ場会員適正化法施行規則,ゴルフ会員契約適正化法施行規則",
+  "category": "商業",
+  "updated": "2026-05-29T12:01:37+09:00",
+  "amendment_promulgate_date": "2026-05-13",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400046",
+  "amendment_law_title": "ゴルフ場等に係る会員契約の適正化に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "405M50000400023_20260525_508M60000400046",
+   "amendment_promulgate_date": "2026-05-13",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "508M60000400046",
+   "amendment_law_title": "ゴルフ場等に係る会員契約の適正化に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "405M50000400023_20231228_505M60000400063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000400063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000400023_20230526_505M60000400026",
+   "amendment_promulgate_date": "2023-05-25",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "505M60000400026",
+   "amendment_law_title": "ゴルフ場等に係る会員契約の適正化に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000400023_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000400023_20190507_501M60000400001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000400001",
+   "amendment_law_title": "元号を改める政令の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000400023_20090424_421M60000400026",
+   "amendment_promulgate_date": "2009-04-24",
+   "amendment_enforcement_date": "2009-04-24",
+   "amendment_law_id": "421M60000400026",
+   "amendment_law_num": "平成二十一年経済産業省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（募集の届出）",
+  "title": "第一条",
+  "paragraphs": [
+   "ゴルフ場等に係る会員契約の適正化に関する法律（以下「法」という。）第三条第一項の規定による届出をする者は、様式第一の届出書に、その写し四通を添えて、主務大臣に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1993-04-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-29T12:01:37+09:00"
+ }
+}

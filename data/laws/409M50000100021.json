@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "409M50000100021",
+  "law_num": "平成九年厚生省令第二十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "021",
+  "promulgation_date": "1997-03-26"
+ },
+ "revision_info": {
+  "law_revision_id": "409M50000100021_20260501_507M60000100117",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "医薬品の安全性に関する非臨床試験の実施の基準に関する省令",
+  "law_title_kana": "いやくひんのあんぜんせいにかんするひりんしょうしけんのじっしのきじゅんにかんするしょうれい",
+  "abbrev": "医薬品ＧＬＰ省令",
+  "category": "厚生",
+  "updated": "2026-05-01T01:13:34+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100117",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409M50000100021_20270520_508M60000100110",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2027-05-20",
+   "amendment_law_id": "508M60000100110",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409M50000100021_20260501_507M60000100117",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507M60000100117",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409M50000100021_20220520_504M60000100084",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504M60000100084",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000100021_20210801_503M60000100015",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100015",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000100021_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000100021_20200901_502M60000100155",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100155",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000100021_20141125_426M60000100087",
+   "amendment_promulgate_date": "2014-07-30",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_law_id": "426M60000100087",
+   "amendment_law_num": "平成二十六年厚生労働省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　職員及び組織",
+  "第三章　試験施設及び機器",
+  "第四章　試験施設等における操作",
+  "第五章　被験物質等の取扱い",
+  "第六章　試験計画書及び試験の実施",
+  "第七章　報告及び保存",
+  "第八章　複数の場所にわたって実施される試験"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号。以下「法」という。）第十四条第三項（同条第十三項及び法第十九条の二第五項において準用する場合並びに法第十四条の二の二の二第五項（法第十九条の二第五項において準用する場合を含む。以下同じ。）において適用する場合を含む。以下同じ。）、法第十四条の二の二第二項（法第十九条の二第五項において準用する場合を含む。以下同じ。）並びに法第十四条の四第五項及び第十四条の六第四項（これらの規定を法第十九条の四において準用する場合を含む。以下同じ。）の厚生労働省令で定める基準のうち、医薬品の安全性に関する非臨床試験（医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則（昭和三十六年厚生省令第一号）第四十条第一項第一号ヘ（第百二条第二項において準用する場合を含む。）及び第五十九条第一項本文（第百十一条において準用する場合を含む。）並びに法第十四条の六第四項（法第十九条の四において準用する場合を含む。）の資料のうち急性毒性、亜急性毒性、慢性毒性、遺伝毒性、催奇形性その他の毒性に関するものの収集及び作成のために、試験施設又は試験場所において試験系を用いて行われるものに限る。以下「試験」という。）に係るものを定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-03-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T01:13:34+09:00"
+ }
+}

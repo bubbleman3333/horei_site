@@ -1,0 +1,109 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60001000014",
+  "law_num": "平成十三年環境省令第十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "2001-04-03"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60001000014_20260807_508M60001000022",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国立研究開発法人国立環境研究所の業務運営並びに財務及び会計等に関する省令",
+  "law_title_kana": "こくりつけんきゅうかいはつほうじんこくりつかんきょうけんきゅうじょのぎょうむうんえいならびにざいむおよびかいけいとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-19T12:34:43+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000022",
+  "amendment_law_title": "国立研究開発法人国立環境研究所の業務運営並びに財務及び会計等に関する省令及び独立行政法人環境再生保全機構に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年環境省令第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60001000014_20260807_508M60001000022",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60001000022",
+   "amendment_law_title": "国立研究開発法人国立環境研究所の業務運営並びに財務及び会計等に関する省令及び独立行政法人環境再生保全機構に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60001000014_20220302_504M60001000003",
+   "amendment_promulgate_date": "2022-03-02",
+   "amendment_enforcement_date": "2022-03-02",
+   "amendment_law_id": "504M60001000003",
+   "amendment_law_title": "国立研究開発法人国立環境研究所の業務運営並びに財務及び会計等に関する省令及び独立行政法人環境再生保全機構に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60001000014_20190718_501M60001000003",
+   "amendment_promulgate_date": "2019-07-18",
+   "amendment_enforcement_date": "2019-07-18",
+   "amendment_law_id": "501M60001000003",
+   "amendment_law_title": "国立研究開発法人国立環境研究所の業務運営並びに財務及び会計等に関する省令及び独立行政法人環境再生保全機構に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和元年環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60001000014_20190401_431M60001000006",
+   "amendment_promulgate_date": "2019-03-27",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60001000006",
+   "amendment_law_title": "国立研究開発法人国立環境研究所の業務運営並びに財務及び会計等に関する省令及び独立行政法人環境再生保全機構に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60001000014_20181201_430M60001000022",
+   "amendment_promulgate_date": "2018-11-29",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60001000022",
+   "amendment_law_title": "国立研究開発法人国立環境研究所の業務運営並びに財務及び会計等に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60001000014_20150401_427M60001000012",
+   "amendment_promulgate_date": "2015-04-01",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60001000012",
+   "amendment_law_num": "平成二十七年環境省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（独立行政法人通則法第八条第三項に規定する重要な財産であって主務省令で定めるもの）",
+  "title": "第一条",
+  "paragraphs": [
+   "国立研究開発法人国立環境研究所（以下「研究所」という。）に係る独立行政法人通則法（以下「通則法」という。）第八条第三項に規定する重要な財産であって主務省令で定めるものは、同法第四十六条の二第一項又は第二項の認可の申請の日（各項のただし書の場合にあっては、当該財産の処分に関する計画を定めた同法第三十五条の五第一項の中長期計画の認可の申請の日）におけるその帳簿価額（現金又は預金である場合にあっては、同法第四十六条の二第一項又は第三十五条の五第一項の認可の申請の日におけるその額）が五十万円以上の財産（その性質上同法第四十六条の二の規定により処分することが不適当なものを除く。）その他環境大臣が定める財産とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-04-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T12:34:43+09:00"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "504M60000002056",
+  "law_num": "令和四年内閣府令第五十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "056",
+  "promulgation_date": "2022-09-16"
+ },
+ "revision_info": {
+  "law_revision_id": "504M60000002056_20260401_508M60000002002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "重要施設周辺及び国境離島等における土地等の利用状況の調査及び利用の規制等に関する法律施行規則",
+  "law_title_kana": "じゅうようしせつしゅうへんおよびこっきょうりとうとうにおけるとちとうのりようじょうきょうのちょうさおよびりようのきせいとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "土地",
+  "updated": "2026-04-02T21:44:39+09:00",
+  "amendment_promulgate_date": "2026-01-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002002",
+  "amendment_law_title": "重要施設周辺及び国境離島等における土地等の利用状況の調査及び利用の規制等に関する法律施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504M60000002056_20260401_508M60000002002",
+   "amendment_promulgate_date": "2026-01-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000002002",
+   "amendment_law_title": "重要施設周辺及び国境離島等における土地等の利用状況の調査及び利用の規制等に関する法律施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504M60000002056_20220920_000000000000000",
+   "amendment_promulgate_date": "2022-09-16",
+   "amendment_enforcement_date": "2022-09-20",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（関係地方公共団体への通知事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "重要施設周辺及び国境離島等における土地等の利用状況の調査及び利用の規制等に関する法律（以下「法」という。）第五条第五項（同条第六項の規定により注視区域の変更について準用する場合を含む。）及び第十二条第五項の内閣府令で定める事項は、指定の事由とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-09-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:44:39+09:00"
+ }
+}

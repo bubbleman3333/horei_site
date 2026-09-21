@@ -1,0 +1,460 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "329M50000100037",
+  "law_num": "昭和二十九年厚生省令第三十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "037",
+  "promulgation_date": "1954-07-01"
+ },
+ "revision_info": {
+  "law_revision_id": "329M50000100037_20260401_508M60000100050",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "厚生年金保険法施行規則",
+  "law_title_kana": "こうせいねんきんほけんほうしこうきそく",
+  "abbrev": "厚生年金法施行規則",
+  "category": "社会保険",
+  "updated": "2026-05-14T10:57:07+09:00",
+  "amendment_promulgate_date": "2026-03-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100050",
+  "amendment_law_title": "国民年金法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第五十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329M50000100037_20261001_508M60000100018",
+   "amendment_promulgate_date": "2026-02-26",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100018",
+   "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20260401_508M60000100050",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100050",
+   "amendment_law_title": "国民年金法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20260401_508M60000100038",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100038",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20251101_507M60000100092",
+   "amendment_promulgate_date": "2025-09-24",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507M60000100092",
+   "amendment_law_title": "消費生活協同組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20251001_507M60000100092",
+   "amendment_promulgate_date": "2025-09-24",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000100092",
+   "amendment_law_title": "消費生活協同組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250924_507M60000100092",
+   "amendment_promulgate_date": "2025-09-24",
+   "amendment_enforcement_date": "2025-09-24",
+   "amendment_law_id": "507M60000100092",
+   "amendment_law_title": "消費生活協同組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250601_507M60000100062",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000100062",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う厚生労働省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250601_507M60000100013",
+   "amendment_promulgate_date": "2025-02-21",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000100013",
+   "amendment_law_title": "厚生年金保険法施行規則及び国民年金法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250401_507M60000100036",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100036",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250401_506M60000100163",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100163",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250401_506M60000100043",
+   "amendment_promulgate_date": "2024-03-14",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100043",
+   "amendment_law_title": "厚生年金保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250301_507M60000100013",
+   "amendment_promulgate_date": "2025-02-21",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "507M60000100013",
+   "amendment_law_title": "厚生年金保険法施行規則及び国民年金法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250101_506M60000100163",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000100163",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20250101_506M60000100052",
+   "amendment_promulgate_date": "2024-03-26",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000100052",
+   "amendment_law_title": "厚生年金保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20241202_506M60000100157",
+   "amendment_promulgate_date": "2024-12-02",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000100157",
+   "amendment_law_title": "厚生年金保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20241101_506M60000100147",
+   "amendment_promulgate_date": "2024-10-31",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000100147",
+   "amendment_law_title": "厚生年金保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240701_506M60000100052",
+   "amendment_promulgate_date": "2024-03-26",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000100052",
+   "amendment_law_title": "厚生年金保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240527_506M60000100089",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000100089",
+   "amendment_law_title": "厚生年金保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240527_506M60000100086",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000100086",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240401_506M60000100062",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100062",
+   "amendment_law_title": "国民年金法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240401_506M60000100060",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100060",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240401_506M60000100058",
+   "amendment_promulgate_date": "2024-03-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "506M60000100058",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240401_506M60000100052",
+   "amendment_promulgate_date": "2024-03-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100052",
+   "amendment_law_title": "厚生年金保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240401_506M60000100004",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100004",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20240101_505M60000100155",
+   "amendment_promulgate_date": "2023-12-15",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000100155",
+   "amendment_law_title": "厚生年金保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20230929_505M60000100125",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-09-29",
+   "amendment_law_id": "505M60000100125",
+   "amendment_law_title": "厚生年金保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20230101_504M60000100173",
+   "amendment_promulgate_date": "2022-12-26",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000100173",
+   "amendment_law_title": "厚生年金保険法施行規則及び国民年金法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20221001_504M60000100136",
+   "amendment_promulgate_date": "2022-09-27",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100136",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20221001_504M60000100134",
+   "amendment_promulgate_date": "2022-09-22",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100134",
+   "amendment_law_title": "厚生年金保険法施行規則及び公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律の一部の施行に伴う経過措置に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20221001_504M60000100129",
+   "amendment_promulgate_date": "2022-09-13",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100129",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20221001_504M60000100126",
+   "amendment_promulgate_date": "2022-09-08",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100126",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20221001_504M60000100060",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100060",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20221001_504M60000100046",
+   "amendment_promulgate_date": "2022-03-29",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100046",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20220501_504M60000100052",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "504M60000100052",
+   "amendment_law_title": "国民年金法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20220401_504M60000100046",
+   "amendment_promulgate_date": "2022-03-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000100046",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20220401_503M60000100115",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000100115",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20220331_504M60000100056",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "504M60000100056",
+   "amendment_law_title": "健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20220329_504M60000100046",
+   "amendment_promulgate_date": "2022-03-29",
+   "amendment_enforcement_date": "2022-03-29",
+   "amendment_law_id": "504M60000100046",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20220101_503M60000100202",
+   "amendment_promulgate_date": "2021-12-27",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000100202",
+   "amendment_law_title": "国民年金法施行令等の一部を改正する政令の施行に伴う厚生労働省関係省令の整備及び経過措置に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000100037_20210401_503M60000100046",
+   "amendment_promulgate_date": "2021-03-08",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100046",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　被保険者及び七十歳以上の使用される者",
+  "第二章　事業主",
+  "第三章　受給権者",
+  "第三章の二　離婚等をした場合における特例",
+  "第三章の三　被扶養配偶者である期間についての特例",
+  "第四章　認可に関する通知等",
+  "第五章　費用負担",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（選択）",
+  "title": "第一条",
+  "paragraphs": [
+   "被保険者（厚生年金保険法（昭和二十九年法律第百十五号。以下「法」という。）第二条の五第一項第一号に規定する第一号厚生年金被保険者（以下「第一号厚生年金被保険者」という。）に限る。第八条の二、第十条の三、第三十二条の二及び第三章の二を除き、以下同じ。）又は法第二十七条に規定する七十歳以上の使用される者（法律によつて組織された共済組合（以下単に「共済組合」という。）の組合員又は私立学校教職員共済法（昭和二十八年法律第二百四十五号）の規定による私立学校教職員共済制度の加入者（以下「私学教職員共済制度の加入者」という。）を除く。以下「七十歳以上の使用される者」という。）は、同時に二以上の事業所又は事務所（第一号厚生年金被保険者に係るものに限る。以下単に「事業所」という。）に使用されるに至つたとき（当該二以上の事業所に係る日本年金機構（以下「機構」という。）の業務が二以上の年金事務所（日本年金機構法（平成十九年法律第百九号）第二十九条に規定する年金事務所をいう。以下同じ。）に分掌されている場合に限る。）は、その者に係る機構の業務を分掌する年金事務所（法附則第四条の二の規定の適用を受ける第一号厚生年金被保険者にあつては、当該規定の適用に係る事業所に係る機構の業務を分掌する年金事務所に限る。）を選択しなければならない。",
+   "前項の選択は、二以上の事業所に使用されるに至つた日から十日以内に、次に掲げる事項を記載した届書を、機構に提出することによつて行うものとする。",
+   "被保険者が、全国健康保険協会（以下「協会」という。）の管掌する健康保険の被保険者であることにより、健康保険法施行規則（大正十五年内務省令第三十六号）第二条の規定による届出をしたときは、あわせて、前項の届出をしたものとみなす。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-07-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-14T10:57:07+09:00"
+ }
+}

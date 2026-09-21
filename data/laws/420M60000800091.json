@@ -1,0 +1,106 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60000800091",
+  "law_num": "平成二十年国土交通省令第九十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "091",
+  "promulgation_date": "2008-10-31"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60000800091_20260527_508M60000800058",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国土交通省関係地域における歴史的風致の維持及び向上に関する法律施行規則",
+  "law_title_kana": "こくどこうつうしょうかんけいちいきにおけるれきしてきふうちのいじおよびこうじょうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2026-06-08T13:33:03+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800058",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第五十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60000800091_20260527_508M60000800058",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508M60000800058",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60000800091_20221114_504M60000800080",
+   "amendment_promulgate_date": "2022-11-14",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504M60000800080",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整理に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000800091_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000800091_20170619_429M60000800036",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2017-06-19",
+   "amendment_law_id": "429M60000800036",
+   "amendment_law_num": "平成二十九年国土交通省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000800091_20170401_429M60000800019",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000800019",
+   "amendment_law_num": "平成二十九年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000800091_20170401_429M60000800012",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000800012",
+   "amendment_law_num": "平成二十九年国土交通省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（地域における歴史的風致の形成に寄与する施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "地域における歴史的風致の維持及び向上に関する法律施行令（以下「令」という。）第二条第一号ハの国土交通省令で定める施設は、休憩所、舟遊場、弓場、記念碑、時計台その他これらに類するものであって地域における歴史的風致の形成に寄与するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-10-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-08T13:33:03+09:00"
+ }
+}

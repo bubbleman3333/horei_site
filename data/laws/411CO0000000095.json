@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "411CO0000000095",
+  "law_num": "平成十一年政令第九十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "095",
+  "promulgation_date": "1999-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "411CO0000000095_20260401_508CO0000000084",
+  "law_type": "CabinetOrder",
+  "law_title": "地方特例交付金等の地方財政の特別措置に関する法律施行令",
+  "law_title_kana": "ちほうとくれいこうふきんとうのちほうざいせいのとくべつそちにかんするほうりつしこうれい",
+  "abbrev": "地方特例交付金法施行令",
+  "category": "地方財政",
+  "updated": "2026-04-21T10:18:09+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000084",
+  "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第八十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411CO0000000095_20260401_508CO0000000084",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000084",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000095_20240401_506CO0000000135",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000135",
+   "amendment_law_title": "地方財政法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000095_20220401_504CO0000000132",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000132",
+   "amendment_law_title": "地方財政法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000095_20200401_502CO0000000061",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000061",
+   "amendment_law_title": "地方公務員法及び地方自治法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000095_20190401_431CO0000000090",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000090",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "平成三十一年政令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000095_20170401_429CO0000000119",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000119",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（市町村に係る地方特例交付金の額の算定及び交付に関する都道府県知事の事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方特例交付金等の地方財政の特別措置に関する法律（以下「法」という。）第六条の規定により、都道府県知事は、当該都道府県の区域内の市町村に対し交付すべき地方特例交付金の額の算定及び交付に関し、次に掲げる事務を取り扱わなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:18:09+09:00"
+ }
+}

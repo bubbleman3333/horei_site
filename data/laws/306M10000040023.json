@@ -1,0 +1,168 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "306M10000040023",
+  "law_num": "昭和六年大蔵省令第二十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "1931-06-29"
+ },
+ "revision_info": {
+  "law_revision_id": "306M10000040023_20250930_507M60000002085",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "無尽業法施行細則",
+  "law_title_kana": "むじんぎょうほうしこうさいそく",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2025-12-22T11:11:57+09:00",
+  "amendment_promulgate_date": "2025-09-30",
+  "amendment_enforcement_date": "2025-09-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000002085",
+  "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+  "amendment_law_num": "令和七年内閣府令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "306M10000040023_20250930_507M60000002085",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-09-30",
+   "amendment_law_id": "507M60000002085",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20250601_507M60000002049",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000002049",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20231227_505M60000002087",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000002087",
+   "amendment_law_title": "内閣府の所管する金融関連法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20210630_503M60000002044",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_law_id": "503M60000002044",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20210331_503M60000002013",
+   "amendment_promulgate_date": "2021-03-26",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_law_id": "503M60000002013",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20210301_503M60000002005",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503M60000002005",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20201223_502M60000002075",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000002075",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20191214_501M60000002041",
+   "amendment_promulgate_date": "2019-11-21",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60000002041",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20190701_501M60000002014",
+   "amendment_promulgate_date": "2019-06-24",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000002014",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20190507_501M60000002002",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000002002",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "306M10000040023_20170401_429M60000002006",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002006",
+   "amendment_law_num": "平成二十九年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　業務",
+  "第三章　経理等",
+  "第四章　合併、会社分割又は事業の譲渡若しくは譲受け",
+  "第五章　業務及財産ノ管理ノ委託",
+  "第六章　廃業及解散",
+  "第七章　指定紛争解決機関",
+  "第八章　雑則"
+ ],
+ "article1": {
+  "caption": "（営業の免許の申請等）",
+  "title": "第一条",
+  "paragraphs": [
+   "無尽業を営もうとする株式会社は、免許申請書に次に掲げる書面を添付して金融庁長官を経由して内閣総理大臣に提出しなければならない。",
+   "無尽会社以外の株式会社が従前の目的を変更して無尽業を営むため無尽業法第二条第一項の規定による営業の免許を受けようとするときは、前項各号（第六号を除く。）に掲げる書面のほか、次に掲げる書面を免許申請書に添付しなければならない。",
+   "無尽業法第二条第三項に規定する内閣府令で定めるものは、電磁的記録媒体（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって電子計算機による情報処理の用に供されるものに係る記録媒体をいう。以下同じ。）をもって調製するファイルに情報を記録したものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1931-06-29",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-12-22T11:11:57+09:00"
+ }
+}

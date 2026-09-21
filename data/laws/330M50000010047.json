@@ -1,0 +1,92 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "330M50000010047",
+  "law_num": "昭和三十年法務省令第四十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "047",
+  "promulgation_date": "1955-03-07"
+ },
+ "revision_info": {
+  "law_revision_id": "330M50000010047_20260521_508M60000010036",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "鉱害賠償登録規則",
+  "law_title_kana": "こうがいばいしょうとうろくきそく",
+  "abbrev": null,
+  "category": "鉱業",
+  "updated": "2026-05-21T00:59:16+09:00",
+  "amendment_promulgate_date": "2026-04-13",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010036",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行に伴う法務省関係省令の整理に関する省令",
+  "amendment_law_num": "令和八年法務省令第三十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "330M50000010047_20260521_508M60000010036",
+   "amendment_promulgate_date": "2026-04-13",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000010036",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行に伴う法務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年法務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "330M50000010047_20240624_506M60000010032",
+   "amendment_promulgate_date": "2024-04-22",
+   "amendment_enforcement_date": "2024-06-24",
+   "amendment_law_id": "506M60000010032",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000010047_20200330_502M60000010008",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60000010008",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000010047_20160401_428M60000010012",
+   "amendment_promulgate_date": "2016-03-24",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000010012",
+   "amendment_law_num": "平成二十八年法務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　登録に関する帳簿",
+  "第二章　登録申請の手続",
+  "第三章　登録手続"
+ ],
+ "article1": {
+  "caption": "（登録簿）",
+  "title": "第一条",
+  "paragraphs": [
+   "鉱害賠償登録簿（以下「登録簿」という。）には、附録第一号様式による表紙及び附録第二号様式による目録を付さなければならない。",
+   "登録簿は、バインダー式帳簿とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1955-03-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T00:59:16+09:00"
+ }
+}

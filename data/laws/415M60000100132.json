@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "415M60000100132",
+  "law_num": "平成十五年厚生労働省令第百三十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "132",
+  "promulgation_date": "2003-08-29"
+ },
+ "revision_info": {
+  "law_revision_id": "415M60000100132_20251120_507M60000100103",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "厚生労働省関係構造改革特別区域法第三十五条に規定する政令等規制事業に係る省令の特例に関する措置を定める省令",
+  "law_title_kana": "こうせいろうどうしょうかんけいこうぞうかいかくとくべつくいきほうだいさんじゅうごじょうにきていするせいれいとうきせいじぎょうにかかるしょうれいのとくれいにかんするそちをさだめるしょうれい",
+  "abbrev": "厚生労働省関係特区法に規定する特例措置及び特定事業を定める省令",
+  "category": "地方自治",
+  "updated": "2025-11-20T00:46:19+09:00",
+  "amendment_promulgate_date": "2025-10-22",
+  "amendment_enforcement_date": "2025-11-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100103",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415M60000100132_20251120_507M60000100103",
+   "amendment_promulgate_date": "2025-10-22",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507M60000100103",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415M60000100132_20230401_505M60000100048",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000100048",
+   "amendment_law_title": "こども家庭庁設置法等の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000100132_20220831_504M60000100111",
+   "amendment_promulgate_date": "2022-08-18",
+   "amendment_enforcement_date": "2022-08-31",
+   "amendment_law_id": "504M60000100111",
+   "amendment_law_title": "厚生労働省関係構造改革特別区域法第三十四条に規定する政令等規制事業に係る省令の特例に関する措置を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000100132_20160831_428M60000100144",
+   "amendment_promulgate_date": "2016-08-31",
+   "amendment_enforcement_date": "2016-08-31",
+   "amendment_law_id": "428M60000100144",
+   "amendment_law_num": "平成二十八年厚生労働省令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条から第三条まで",
+  "paragraphs": [
+   "削除"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-08-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-20T00:46:19+09:00"
+ }
+}

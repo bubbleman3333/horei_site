@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "406CO0000000371",
+  "law_num": "平成六年政令第三百七十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "371",
+  "promulgation_date": "1994-11-25"
+ },
+ "revision_info": {
+  "law_revision_id": "406CO0000000371_20260101_507CO0000000293",
+  "law_type": "CabinetOrder",
+  "law_title": "政党助成法施行令",
+  "law_title_kana": "せいとうじょせいほうせこうれい",
+  "abbrev": "政党助成法施行令",
+  "category": "国会",
+  "updated": "2026-01-01T03:51:30+09:00",
+  "amendment_promulgate_date": "2025-08-14",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000293",
+  "amendment_law_title": "政治資金規正法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第二百九十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406CO0000000371_20260101_507CO0000000293",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000293",
+   "amendment_law_title": "政治資金規正法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000371_20010106_412CO0000000304",
+   "amendment_promulgate_date": "2000-06-07",
+   "amendment_enforcement_date": "2001-01-06",
+   "amendment_law_id": "412CO0000000304",
+   "amendment_law_num": "平成十二年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（政党の届出の特例等）",
+  "title": "第一条",
+  "paragraphs": [
+   "政党助成法（以下「法」という。）第五条第一項又は第六条第一項の規定による届出については、当該届出に係る法第五条第一項第六号イに規定する前回の総選挙又は同号ハに規定する前回の通常選挙の全ての当選人について公職選挙法（昭和二十五年法律第百号）第百一条第二項、第百一条の二第二項、第百一条の二の二第二項又は第百一条の三第二項の規定による告示（以下この条及び第十四条第二項において「当選人の告示」という。）がされた日が当該届出に係る基準日（法第五条第一項に規定する基準日をいう。以下同じ。）又は選挙基準日（法第六条第一項に規定する選挙基準日をいう。第四条を除き、以下同じ。）の翌日から起算して五日を経過した日後である場合においては、法第五条第一項又は第六条第一項の規定にかかわらず、当該前回の総選挙又は前回の通常選挙の全ての当選人について当選人の告示がされた日の翌日から起算して十日以内に届け出るものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-11-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T03:51:30+09:00"
+ }
+}

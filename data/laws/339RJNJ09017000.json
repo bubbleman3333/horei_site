@@ -1,0 +1,379 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "339RJNJ09017000",
+  "law_num": "昭和三十九年人事院規則九―一七",
+  "law_num_era": "Showa",
+  "law_num_year": 39,
+  "law_num_type": "Rule",
+  "law_num_num": "9_17_0",
+  "promulgation_date": "1964-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "339RJNJ09017000_20260804_508RJNJ09017178",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―一七（俸給の特別調整額）",
+  "law_title_kana": "じんじいんきそくきゅうのじゅうななほうきゅうのとくべつちょうせいがく",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-08-19T13:23:53+09:00",
+  "amendment_promulgate_date": "2026-08-04",
+  "amendment_enforcement_date": "2026-08-04",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ09017178",
+  "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―一七―一七八",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "339RJNJ09017000_20260804_508RJNJ09017178",
+   "amendment_promulgate_date": "2026-08-04",
+   "amendment_enforcement_date": "2026-08-04",
+   "amendment_law_id": "508RJNJ09017178",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―一七―一七八",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20260701_508RJNJ09017177",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508RJNJ09017177",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―一七―一七七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20260408_508RJNJ09017176",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508RJNJ09017176",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―一七―一七六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20260401_508RJNJ09017175",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09017175",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―一七―一七五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20251224_507RJNJ09017174",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507RJNJ09017174",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―一七―一七四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20250401_507RJNJ09017173",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09017173",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―一七―一七三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20250401_507RJNJ09017172",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09017172",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―一七―一七二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20241225_506RJNJ09017171",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506RJNJ09017171",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則九―一七―一七一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20240401_506RJNJ09017170",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506RJNJ09017170",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和六年人事院規則九―一七―一七〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20230701_505RJNJ09017169",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505RJNJ09017169",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―一七―一六九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20230401_505RJNJ09017168",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ09017168",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―一七―一六八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20230401_504RJNJ01079000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504RJNJ01079000",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律の施行に伴う関係人事院規則の整備等に関する人事院規則",
+   "amendment_law_num": "令和四年人事院規則一―七九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20220401_504RJNJ09017167",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504RJNJ09017167",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和四年人事院規則九―一七―一六七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20211001_503RJNJ09017166",
+   "amendment_promulgate_date": "2021-10-01",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503RJNJ09017166",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―一七―一六六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20210901_503RJNJ01077000",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503RJNJ01077000",
+   "amendment_law_title": "人事院規則一―七七（デジタル庁設置法の施行に伴う関係人事院規則の整備等に関する人事院規則）",
+   "amendment_law_num": "令和三年人事院規則一―七七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20210710_503RJNJ09017165",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-07-10",
+   "amendment_law_id": "503RJNJ09017165",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―一七―一六五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20210701_503RJNJ09017165",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503RJNJ09017165",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―一七―一六五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20210401_503RJNJ09017164",
+   "amendment_promulgate_date": "2021-04-01",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503RJNJ09017164",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和三年人事院規則九―一七―一六四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20201001_502RJNJ09017163",
+   "amendment_promulgate_date": "2020-10-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502RJNJ09017163",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―一七―一六三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20200401_502RJNJ09017162",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502RJNJ09017162",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―一七―一六二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20200107_502RJNJ09017161",
+   "amendment_promulgate_date": "2020-01-07",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_law_id": "502RJNJ09017161",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和二年人事院規則九―一七―一六一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20190501_431RJNJ09017160",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-05-01",
+   "amendment_law_id": "431RJNJ09017160",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十一年人事院規則九―一七―一六〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20190401_431RJNJ09017159",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431RJNJ09017159",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十一年人事院規則九―一七―一五九",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20181130_430RJNJ09017158",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-11-30",
+   "amendment_law_id": "430RJNJ09017158",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則九―一七―一五八",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20181001_430RJNJ09017157",
+   "amendment_promulgate_date": "2018-10-01",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430RJNJ09017157",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則九―一七―一五七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20180401_430RJNJ09017156",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RJNJ09017156",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成三十年人事院規則九―一七―一五六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20180401_430RJNJ01071000",
+   "amendment_promulgate_date": "2018-02-01",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RJNJ01071000",
+   "amendment_law_title": "人事院規則一―七一（一般職の職員の給与に関する法律等の一部を改正する法律の施行に伴う関係人事院規則の整理に関する人事院規則）",
+   "amendment_law_num": "平成三十年人事院規則一―七一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20180101_429RJNJ09017155",
+   "amendment_promulgate_date": "2017-12-28",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429RJNJ09017155",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―一七―一五五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20171215_429RJNJ09017154",
+   "amendment_promulgate_date": "2017-12-15",
+   "amendment_enforcement_date": "2017-12-15",
+   "amendment_law_id": "429RJNJ09017154",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―一七―一五四",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20171001_429RJNJ09017153",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429RJNJ09017153",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―一七―一五三",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20170714_429RJNJ09017152",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-07-14",
+   "amendment_law_id": "429RJNJ09017152",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―一七―一五二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20170711_429RJNJ09017151",
+   "amendment_promulgate_date": "2017-07-07",
+   "amendment_enforcement_date": "2017-07-11",
+   "amendment_law_id": "429RJNJ09017151",
+   "amendment_law_title": "人事院規則九―一七（俸給の特別調整額）の一部を改正する人事院規則",
+   "amendment_law_num": "平成二十九年人事院規則九―一七―一五一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339RJNJ09017000_20170401_429RJNJ09017150",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429RJNJ09017150",
+   "amendment_law_num": "平成二十九年人事院規則九―一七―一五〇",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（支給官職及び区分）",
+  "title": "第一条",
+  "paragraphs": [
+   "給与法第十条の二第一項の規定により俸給の特別調整を行う官職は、別表第一に掲げる官職及び人事院がこれに相当すると認める官職とする。",
+   "別表第一に掲げる官職に係る俸給の特別調整額の区分は、同表の官職欄の区分に応じ、同表の区分欄に定める区分とする。ただし、同表に掲げる官職（同表中その区分について人事院が別に定めることとされている官職を除く。）のうち人事院が別に定める官職にあつては、当該官職に対応する同表の区分欄に定める区分より一段高い区分とすることができる。",
+   "第一項に規定する人事院が別表第一に掲げる官職に相当すると認める官職に係る俸給の特別調整額の区分については、当該官職が当該別表第一に掲げる官職が掲げられている同表の官職欄に掲げられているものとして、前項の規定を適用する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1964-12-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T13:23:53+09:00"
+ }
+}

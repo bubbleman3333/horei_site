@@ -1,0 +1,68 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "337M50000800031",
+  "law_num": "昭和三十七年運輸省令第三十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "031",
+  "promulgation_date": "1962-06-08"
+ },
+ "revision_info": {
+  "law_revision_id": "337M50000800031_20251020_507M60000800104",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "海上保安庁職員服制",
+  "law_title_kana": "かいじょうほあんちょうしょくいんふくせい",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2025-10-28T11:03:06+09:00",
+  "amendment_promulgate_date": "2025-10-20",
+  "amendment_enforcement_date": "2025-10-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800104",
+  "amendment_law_title": "海上保安庁職員服制の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第百四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M50000800031_20251020_507M60000800104",
+   "amendment_promulgate_date": "2025-10-20",
+   "amendment_enforcement_date": "2025-10-20",
+   "amendment_law_id": "507M60000800104",
+   "amendment_law_title": "海上保安庁職員服制の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800031_20130516_425M60000800048",
+   "amendment_promulgate_date": "2013-05-16",
+   "amendment_enforcement_date": "2013-05-16",
+   "amendment_law_id": "425M60000800048",
+   "amendment_law_num": "平成二十五年国土交通省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（制服及び制帽）",
+  "title": "第一条",
+  "paragraphs": [
+   "海上保安庁職員（以下「職員」という。）の制服は、別表第一に定めるとおりとする。",
+   "職員の制帽は、別表第二に定めるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-06-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-28T11:03:06+09:00"
+ }
+}

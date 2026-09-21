@@ -1,0 +1,412 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "329AC0000000061",
+  "law_num": "昭和二十九年法律第六十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "Act",
+  "law_num_num": "061",
+  "promulgation_date": "1954-04-02"
+ },
+ "revision_info": {
+  "law_revision_id": "329AC0000000061_20260601_508AC0000000005",
+  "law_type": "Act",
+  "law_title": "関税法",
+  "law_title_kana": "かんぜいほう",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-06-01T00:31:34+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000005",
+  "amendment_law_title": "関税定率法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329AC0000000061_20271001_508AC0000000005",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-10-01",
+   "amendment_law_id": "508AC0000000005",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20270101_507AC0000000016",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "507AC0000000016",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20260601_508AC0000000005",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508AC0000000005",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20260401_508AC0000000005",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000005",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20250401_507AC0000000016",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507AC0000000016",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20250101_506AC0000000009",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506AC0000000009",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20241001_506AC0000000009",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000009",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20240401_506AC0000000009",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506AC0000000009",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20240401_505AC0000000051",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000051",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20240401_504AC0000000096",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0000000096",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20240101_505AC0000000006",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505AC0000000006",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20231001_505AC0000000006",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505AC0000000006",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20230401_505AC0000000006",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505AC0000000006",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20221001_504AC0000000005",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504AC0000000005",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20220401_504AC0000000005",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504AC0000000005",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20220401_502AC0000000009",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000009",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20220101_503AC0000000012",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503AC0000000012",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20210401_503AC0000000012",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503AC0000000012",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20210101_502AC0000000009",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502AC0000000009",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20201001_502AC0000000009",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502AC0000000009",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20200401_502AC0000000009",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502AC0000000009",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20200401_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20191216_501AC0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501AC0000000016",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20190701_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20190317_429AC0000000013",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2019-03-17",
+   "amendment_law_id": "429AC0000000013",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20190107_430AC0000000016",
+   "amendment_promulgate_date": "2018-04-18",
+   "amendment_enforcement_date": "2019-01-07",
+   "amendment_law_id": "430AC0000000016",
+   "amendment_law_title": "国際観光旅客税法",
+   "amendment_law_num": "平成三十年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20180410_430AC0000000008",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-10",
+   "amendment_law_id": "430AC0000000008",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20180401_429AC0000000013",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000013",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20171008_428AC0000000016",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428AC0000000016",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20170601_429AC0000000013",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429AC0000000013",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000061_20170401_429AC0000000013",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429AC0000000013",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　関税の確定、納付、徴収及び還付",
+  "第三章　船舶及び航空機",
+  "第四章　保税地域",
+  "第五章　運送",
+  "第六章　通関",
+  "第六章の二　認定通関業者",
+  "第七章　収容及び留置",
+  "第七章の二　行政手続法との関係",
+  "第八章　不服申立て",
+  "第九章　雑則",
+  "第十章　罰則",
+  "第十一章　犯則事件の調査及び処分"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、関税の確定、納付、徴収及び還付並びに貨物の輸出及び輸入についての税関手続の適正な処理を図るため必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-04-02",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-06-01T00:31:34+09:00"
+ }
+}

@@ -1,0 +1,448 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "349CO0000000179",
+  "law_num": "昭和四十九年政令第百七十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 49,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "179",
+  "promulgation_date": "1974-05-27"
+ },
+ "revision_info": {
+  "law_revision_id": "349CO0000000179_20260401_508CO0000000082",
+  "law_type": "CabinetOrder",
+  "law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、在外住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令",
+  "law_title_kana": "ざいがいこうかんにきんむするがいむこうむいんのざいきんきほんてあてのがくじゅうきょてあてにかかるこうじょがくおよびげんどがくならびにしじょきょういくてあてにかかるじこふたんがくをさだめるせいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-27T19:46:27+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000082",
+  "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令及び在外公館に勤務する外務公務員の特殊語学手当に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第八十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "349CO0000000179_20260401_508CO0000000082",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000082",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令及び在外公館に勤務する外務公務員の特殊語学手当に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20260401_508CO0000000080",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000080",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20250409_507CO0000000173",
+   "amendment_promulgate_date": "2025-04-09",
+   "amendment_enforcement_date": "2025-04-09",
+   "amendment_law_id": "507CO0000000173",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20250401_507CO0000000115",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000115",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20250401_506CO0000000393",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000393",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20250101_506CO0000000393",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506CO0000000393",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20241101_506CO0000000321",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506CO0000000321",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20240401_506CO0000000134",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000134",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令及び在外公館に勤務する外務公務員の特殊語学手当に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20240101_505CO0000000373",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505CO0000000373",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20231101_505CO0000000312",
+   "amendment_promulgate_date": "2023-11-01",
+   "amendment_enforcement_date": "2023-11-01",
+   "amendment_law_id": "505CO0000000312",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20230801_505CO0000000249",
+   "amendment_promulgate_date": "2023-07-26",
+   "amendment_enforcement_date": "2023-08-01",
+   "amendment_law_id": "505CO0000000249",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20230401_505CO0000000155",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000155",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20230101_504CO0000000401",
+   "amendment_promulgate_date": "2022-12-28",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504CO0000000401",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第四百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20221221_504CO0000000385",
+   "amendment_promulgate_date": "2022-12-21",
+   "amendment_enforcement_date": "2022-12-21",
+   "amendment_law_id": "504CO0000000385",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20221101_504CO0000000337",
+   "amendment_promulgate_date": "2022-10-28",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504CO0000000337",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20220831_504CO0000000281",
+   "amendment_promulgate_date": "2022-08-31",
+   "amendment_enforcement_date": "2022-08-31",
+   "amendment_law_id": "504CO0000000281",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20220801_504CO0000000264",
+   "amendment_promulgate_date": "2022-07-29",
+   "amendment_enforcement_date": "2022-08-01",
+   "amendment_law_id": "504CO0000000264",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20220401_504CO0000000096",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000096",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20220101_503CO0000000340",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000340",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20211101_503CO0000000293",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000293",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20210801_503CO0000000216",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503CO0000000216",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20210401_503CO0000000105",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000105",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20210305_503CO0000000041",
+   "amendment_promulgate_date": "2021-03-05",
+   "amendment_enforcement_date": "2021-03-05",
+   "amendment_law_id": "503CO0000000041",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20210101_502CO0000000374",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000374",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20201101_502CO0000000316",
+   "amendment_promulgate_date": "2020-10-30",
+   "amendment_enforcement_date": "2020-11-01",
+   "amendment_law_id": "502CO0000000316",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20200801_502CO0000000226",
+   "amendment_promulgate_date": "2020-07-28",
+   "amendment_enforcement_date": "2020-08-01",
+   "amendment_law_id": "502CO0000000226",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20200401_502CO0000000135",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000135",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20200101_501CO0000000210",
+   "amendment_promulgate_date": "2019-12-26",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "501CO0000000210",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第二百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20191101_501CO0000000137",
+   "amendment_promulgate_date": "2019-10-30",
+   "amendment_enforcement_date": "2019-11-01",
+   "amendment_law_id": "501CO0000000137",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20190801_501CO0000000066",
+   "amendment_promulgate_date": "2019-07-31",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_law_id": "501CO0000000066",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20190401_431CO0000000127",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000127",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20190101_430CO0000000351",
+   "amendment_promulgate_date": "2018-12-27",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430CO0000000351",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20181101_430CO0000000303",
+   "amendment_promulgate_date": "2018-10-31",
+   "amendment_enforcement_date": "2018-11-01",
+   "amendment_law_id": "430CO0000000303",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20180801_430CO0000000221",
+   "amendment_promulgate_date": "2018-07-27",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430CO0000000221",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20180701_430CO0000000195",
+   "amendment_promulgate_date": "2018-06-29",
+   "amendment_enforcement_date": "2018-07-01",
+   "amendment_law_id": "430CO0000000195",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20180401_430CO0000000122",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000122",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20180101_429CO0000000314",
+   "amendment_promulgate_date": "2017-12-22",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429CO0000000314",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第三百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20171101_429CO0000000270",
+   "amendment_promulgate_date": "2017-10-27",
+   "amendment_enforcement_date": "2017-11-01",
+   "amendment_law_id": "429CO0000000270",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20170801_429CO0000000202",
+   "amendment_promulgate_date": "2017-07-26",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_law_id": "429CO0000000202",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349CO0000000179_20170401_429CO0000000121",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000121",
+   "amendment_law_title": "在外公館に勤務する外務公務員の在勤基本手当の額、住居手当に係る控除額及び限度額並びに子女教育手当に係る自己負担額を定める政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（在勤基本手当の月額）",
+  "title": "第一条",
+  "paragraphs": [
+   "在外公館の名称及び位置並びに在外公館に勤務する外務公務員の給与に関する法律（以下「法」という。）第十一条に規定する政令で定める額は、別表第一に定めるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1974-05-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-27T19:46:27+09:00"
+ }
+}

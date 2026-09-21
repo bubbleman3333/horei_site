@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "417CO0000000269",
+  "law_num": "平成十七年政令第二百六十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "269",
+  "promulgation_date": "2005-07-29"
+ },
+ "revision_info": {
+  "law_revision_id": "417CO0000000269_20260101_507CO0000000369",
+  "law_type": "CabinetOrder",
+  "law_title": "有限責任事業組合契約に関する法律施行令",
+  "law_title_kana": "ゆうげんせきにんじぎょうくみあいけいやくにかんするほうりつしこうれい",
+  "abbrev": "有限責任事業組合契約法施行令,ＬＬＰ法施行令",
+  "category": "産業通則",
+  "updated": "2026-01-01T04:33:04+09:00",
+  "amendment_promulgate_date": "2025-11-12",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000369",
+  "amendment_law_title": "行政書士法の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+  "amendment_law_num": "令和七年政令第三百六十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417CO0000000269_20260101_507CO0000000369",
+   "amendment_promulgate_date": "2025-11-12",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000369",
+   "amendment_law_title": "行政書士法の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和七年政令第三百六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000269_20220401_503CO0000000344",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000344",
+   "amendment_law_title": "特許法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第三百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000269_20140401_425CO0000000222",
+   "amendment_promulgate_date": "2013-07-26",
+   "amendment_enforcement_date": "2014-04-01",
+   "amendment_law_id": "425CO0000000222",
+   "amendment_law_num": "平成二十五年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（その性質上組合員の責任の限度を出資の価額とすることが適当でない業務）",
+  "title": "第一条",
+  "paragraphs": [
+   "有限責任事業組合契約に関する法律（以下「法」という。）第七条第一項第一号に規定するその性質上組合員の責任の限度を出資の価額とすることが適当でない業務として政令で定めるものは、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-07-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T04:33:04+09:00"
+ }
+}

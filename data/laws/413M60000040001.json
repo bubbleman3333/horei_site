@@ -1,0 +1,466 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000040001",
+  "law_num": "平成十三年財務省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2001-01-06"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000040001_20260710_508M60000040048",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "財務省組織規則",
+  "law_title_kana": "ざいむしょうそしききそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-07-15T10:35:40+09:00",
+  "amendment_promulgate_date": "2026-07-01",
+  "amendment_enforcement_date": "2026-07-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040048",
+  "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000040001_20261001_508M60000040048",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000040048",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20260710_508M60000040048",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-07-10",
+   "amendment_law_id": "508M60000040048",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20260701_508M60000040048",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60000040048",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20260525_508M60000040044",
+   "amendment_promulgate_date": "2026-05-25",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "508M60000040044",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20260408_508M60000040037",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000040037",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20260401_508M60000040035",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040035",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20260401_508M60000040015",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040015",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20260201_507M60000040057",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2026-02-01",
+   "amendment_law_id": "507M60000040057",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20260101_507M60000040071",
+   "amendment_promulgate_date": "2025-12-19",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000040071",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20250710_507M60000040057",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2025-07-10",
+   "amendment_law_id": "507M60000040057",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20250701_507M60000040057",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507M60000040057",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20250613_507M60000040053",
+   "amendment_promulgate_date": "2025-06-13",
+   "amendment_enforcement_date": "2025-06-13",
+   "amendment_law_id": "507M60000040053",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20250501_507M60000040049",
+   "amendment_promulgate_date": "2025-05-01",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507M60000040049",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20250401_507M60000040038",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040038",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20241101_506M60000040050",
+   "amendment_promulgate_date": "2024-07-01",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000040050",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20241001_506M60000040058",
+   "amendment_promulgate_date": "2024-10-01",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000040058",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20240902_506M60000040054",
+   "amendment_promulgate_date": "2024-09-02",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506M60000040054",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20240710_506M60000040050",
+   "amendment_promulgate_date": "2024-07-01",
+   "amendment_enforcement_date": "2024-07-10",
+   "amendment_law_id": "506M60000040050",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20240701_506M60000040050",
+   "amendment_promulgate_date": "2024-07-01",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000040050",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20240531_506M60000040043",
+   "amendment_promulgate_date": "2024-05-31",
+   "amendment_enforcement_date": "2024-05-31",
+   "amendment_law_id": "506M60000040043",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20240401_506M60000040034",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000040034",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20240201_506M60000040004",
+   "amendment_promulgate_date": "2024-02-01",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000040004",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20240101_505M60000040059",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000040059",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20230710_505M60000040044",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-10",
+   "amendment_law_id": "505M60000040044",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20230701_505M60000040044",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60000040044",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20230601_505M60000040041",
+   "amendment_promulgate_date": "2023-05-29",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000040041",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20230401_505M60000040009",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000040009",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20220710_504M60000040044",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-10",
+   "amendment_law_id": "504M60000040044",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20220701_504M60000040044",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504M60000040044",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20220401_504M60000040035",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040035",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20220301_504M60000040004",
+   "amendment_promulgate_date": "2022-03-01",
+   "amendment_enforcement_date": "2022-03-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000040004",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20211122_503M60000040076",
+   "amendment_promulgate_date": "2021-11-19",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040076",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20211120_503M60000040076",
+   "amendment_promulgate_date": "2021-11-19",
+   "amendment_enforcement_date": "2021-11-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040076",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20211101_503M60000040073",
+   "amendment_promulgate_date": "2021-11-01",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040073",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20211001_503M60000040069",
+   "amendment_promulgate_date": "2021-10-01",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040069",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20210901_503M60000040064",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040064",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20210820_503M60000040060",
+   "amendment_promulgate_date": "2021-08-20",
+   "amendment_enforcement_date": "2021-08-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040060",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20210802_503M60000040059",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040059",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20210710_503M60000040053",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-07-10",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040053",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000040001_20210701_503M60000040053",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040053",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　本省",
+  "第二章　国税庁",
+  "第三章　財務省顧問、財務省特別顧問、財務省参与及び財務省参事",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（財政経済特別研究官、地域経済特別分析官、経済財政政策調整官、企画官及び専門調査官）",
+  "title": "第一条",
+  "paragraphs": [
+   "大臣官房に、財政経済特別研究官一人、地域経済特別分析官一人、経済財政政策調整官一人、企画官二十一人以内（うち一人は、関係のある他の職を占める者をもって充てられるものとする。）及び専門調査官七人以内を置く。",
+   "財政経済特別研究官は、命を受けて、財政経済政策について、極めて高度の専門的な知識経験に基づく情報の収集及び分析並びに関係国の政府等との連絡及び情報交換等を行い、財務省の所掌に関する重要な財政経済政策の企画及び立案の支援を行う。",
+   "地域経済特別分析官は、命を受けて、財政経済政策について、極めて高度の専門的な知識経験に基づく情報の収集及び分析並びに地方公共団体等との連絡及び情報交換等を行い、財務省の所掌に関する重要な財政経済政策の企画及び立案の支援を行う。",
+   "経済財政政策調整官は、命を受けて、財務省の所掌事務のうち経済財政に関する重要事項についての調整に当たる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-01-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-15T10:35:40+09:00"
+ }
+}

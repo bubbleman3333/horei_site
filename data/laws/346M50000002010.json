@@ -1,0 +1,197 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "346M50000002010",
+  "law_num": "昭和四十六年総理府令第十号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "010",
+  "promulgation_date": "1971-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "346M50000002010_20260710_508M60080000006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "使用済燃料の再処理の事業に関する規則",
+  "law_title_kana": "しようずみねんりょうのさいしょりのじぎょうにかんするきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-07-27T09:39:53+09:00",
+  "amendment_promulgate_date": "2026-07-10",
+  "amendment_enforcement_date": "2026-07-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60080000006",
+  "amendment_law_title": "試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年原子力規制委員会規則第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346M50000002010_20260710_508M60080000006",
+   "amendment_promulgate_date": "2026-07-10",
+   "amendment_enforcement_date": "2026-07-10",
+   "amendment_law_id": "508M60080000006",
+   "amendment_law_title": "試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年原子力規制委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20240530_506M60080000003",
+   "amendment_promulgate_date": "2024-05-30",
+   "amendment_enforcement_date": "2024-05-30",
+   "amendment_law_id": "506M60080000003",
+   "amendment_law_title": "核燃料物質の使用等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和六年原子力規制委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20240307_506M60080000001",
+   "amendment_promulgate_date": "2024-03-07",
+   "amendment_enforcement_date": "2024-03-07",
+   "amendment_law_id": "506M60080000001",
+   "amendment_law_title": "原子力規制委員会の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和六年原子力規制委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20220330_504M60080000002",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2022-03-30",
+   "amendment_law_id": "504M60080000002",
+   "amendment_law_title": "試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和四年原子力規制委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20200401_502M60080000012",
+   "amendment_promulgate_date": "2020-03-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60080000012",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う試験研究用等原子炉施設等に係る原子力規制委員会関係規則の整備等に関する規則",
+   "amendment_law_num": "令和二年原子力規制委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20200401_430M60080000008",
+   "amendment_promulgate_date": "2018-08-21",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430M60080000008",
+   "amendment_law_title": "原子力事業者等による放射線管理等報告の合理化のための原子力規制委員会関係規則の整備に関する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20190914_501M60080000004",
+   "amendment_promulgate_date": "2019-09-13",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501M60080000004",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う原子力規制委員会関係規則の整理に関する規則",
+   "amendment_law_num": "令和元年原子力規制委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20190701_501M60080000003",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60080000003",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う原子力規制委員会関係規則の整備に関する規則",
+   "amendment_law_num": "令和元年原子力規制委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20190701_501M60080000002",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60080000002",
+   "amendment_law_title": "試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年原子力規制委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20190401_430M60080000008",
+   "amendment_promulgate_date": "2018-08-21",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60080000008",
+   "amendment_law_title": "原子力事業者等による放射線管理等報告の合理化のための原子力規制委員会関係規則の整備に関する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20181001_429M60080000017",
+   "amendment_promulgate_date": "2017-12-22",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "429M60080000017",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う原子力規制委員会関係規則の整備等に関する規則",
+   "amendment_law_num": "平成二十九年原子力規制委員会規則第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20180608_430M60080000006",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-06-08",
+   "amendment_law_id": "430M60080000006",
+   "amendment_law_title": "核原料物質又は核燃料物質の製錬の事業に関する規則等の一部を改正する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20171222_429M60080000017",
+   "amendment_promulgate_date": "2017-12-22",
+   "amendment_enforcement_date": "2017-12-22",
+   "amendment_law_id": "429M60080000017",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う原子力規制委員会関係規則の整備等に関する規則",
+   "amendment_law_num": "平成二十九年原子力規制委員会規則第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20170403_429M60080000004",
+   "amendment_promulgate_date": "2017-04-03",
+   "amendment_enforcement_date": "2017-04-03",
+   "amendment_law_id": "429M60080000004",
+   "amendment_law_num": "平成二十九年原子力規制委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000002010_20160921_428M60080000010",
+   "amendment_promulgate_date": "2016-09-21",
+   "amendment_enforcement_date": "2016-09-21",
+   "amendment_law_id": "428M60080000010",
+   "amendment_law_num": "平成二十八年原子力規制委員会規則第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則において使用する用語は、核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号。以下「法」という。）において使用する用語の例による。",
+   "この規則において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-27T09:39:53+09:00"
+ }
+}

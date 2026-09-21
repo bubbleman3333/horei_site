@@ -1,0 +1,160 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "326AC0000000053",
+  "law_num": "昭和二十六年法律第五十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "Act",
+  "law_num_num": "053",
+  "promulgation_date": "1951-03-30"
+ },
+ "revision_info": {
+  "law_revision_id": "326AC0000000053_20260507_508AC0000000014",
+  "law_type": "Act",
+  "law_title": "裁判所職員定員法",
+  "law_title_kana": "さいばんしょしょくいんていいんほう",
+  "abbrev": null,
+  "category": "司法",
+  "updated": "2026-05-07T11:19:08+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000014",
+  "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326AC0000000053_20260507_508AC0000000014",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-07",
+   "amendment_law_id": "508AC0000000014",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20250418_507AC0000000023",
+   "amendment_promulgate_date": "2025-04-18",
+   "amendment_enforcement_date": "2025-04-18",
+   "amendment_law_id": "507AC0000000023",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20240412_506AC0000000014",
+   "amendment_promulgate_date": "2024-04-12",
+   "amendment_enforcement_date": "2024-04-12",
+   "amendment_law_id": "506AC0000000014",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20230414_505AC0000000010",
+   "amendment_promulgate_date": "2023-04-14",
+   "amendment_enforcement_date": "2023-04-14",
+   "amendment_law_id": "505AC0000000010",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20220422_504AC0000000030",
+   "amendment_promulgate_date": "2022-04-22",
+   "amendment_enforcement_date": "2022-04-22",
+   "amendment_law_id": "504AC0000000030",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20210414_503AC0000000020",
+   "amendment_promulgate_date": "2021-04-14",
+   "amendment_enforcement_date": "2021-04-14",
+   "amendment_law_id": "503AC0000000020",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20200424_502AC0000000020",
+   "amendment_promulgate_date": "2020-04-24",
+   "amendment_enforcement_date": "2020-04-24",
+   "amendment_law_id": "502AC0000000020",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20190426_431AC0000000015",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-04-26",
+   "amendment_law_id": "431AC0000000015",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "平成三十一年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20180418_430AC0000000014",
+   "amendment_promulgate_date": "2018-04-18",
+   "amendment_enforcement_date": "2018-04-18",
+   "amendment_law_id": "430AC0000000014",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20170421_429AC0000000017",
+   "amendment_promulgate_date": "2017-04-21",
+   "amendment_enforcement_date": "2017-04-21",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000017",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0000000053_20160603_428AC0000000052",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2016-06-03",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000052",
+   "amendment_law_title": "裁判所職員定員法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "下級裁判所の裁判官の員数は、次の表のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-03-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-07T11:19:08+09:00"
+ }
+}

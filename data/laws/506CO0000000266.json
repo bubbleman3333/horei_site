@@ -1,0 +1,73 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "506CO0000000266",
+  "law_num": "令和六年政令第二百六十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "266",
+  "promulgation_date": "2024-08-20"
+ },
+ "revision_info": {
+  "law_revision_id": "506CO0000000266_20260401_508CO0000000066",
+  "law_type": "CabinetOrder",
+  "law_title": "国立健康危機管理研究機構法施行令",
+  "law_title_kana": "こくりつけんこうききかんりけんきゅうきこうほうしこうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-04-14T09:48:08+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000066",
+  "amendment_law_title": "医療法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506CO0000000266_20260401_508CO0000000066",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000066",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506CO0000000266_20250401_000000000000000",
+   "amendment_promulgate_date": "2024-08-20",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506CO0000000266_20240820_000000000000000",
+   "amendment_promulgate_date": "2024-08-20",
+   "amendment_enforcement_date": "2024-08-20",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（教育公務員及び研究公務員の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "国立健康危機管理研究機構法（以下「法」という。）第十三条ただし書の政令で定める教育公務員は、学校教育法（昭和二十二年法律第二十六号）の規定による公立の大学の学長、副学長、学部長、教授、准教授、助教又は講師の職にある者（当該大学においてその他の職を兼ねる者を含む。）とする。",
+   "法第十三条ただし書の政令で定める研究公務員は、科学技術・イノベーション創出の活性化に関する法律（平成二十年法律第六十三号）第二条第八項に規定する試験研究機関等に勤務する国家公務員であって、一般職の職員の給与に関する法律（昭和二十五年法律第九十五号）の適用を受けるもののうち、研究職俸給表の適用を受ける職員でその属する職務の級が三級以上の級であるもの及び指定職俸給表の適用を受ける職員とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-08-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:48:08+09:00"
+ }
+}

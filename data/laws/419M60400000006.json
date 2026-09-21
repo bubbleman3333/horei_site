@@ -1,0 +1,124 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "419M60400000006",
+  "law_num": "平成十九年国家公安委員会規則第六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "Rule",
+  "law_num_num": "006",
+  "promulgation_date": "2007-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60400000006_20260722_508M60400000016",
+  "law_type": "Rule",
+  "law_title": "遺失物法施行規則",
+  "law_title_kana": "いしつぶつほうしこうきそく",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-08-04T09:50:22+09:00",
+  "amendment_promulgate_date": "2026-07-22",
+  "amendment_enforcement_date": "2026-07-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000016",
+  "amendment_law_title": "遺失物法施行規則の一部を改正する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60400000006_20260722_508M60400000016",
+   "amendment_promulgate_date": "2026-07-22",
+   "amendment_enforcement_date": "2026-07-22",
+   "amendment_law_id": "508M60400000016",
+   "amendment_law_title": "遺失物法施行規則の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000006_20241202_506M60400000013",
+   "amendment_promulgate_date": "2024-10-25",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60400000013",
+   "amendment_law_title": "犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000006_20230301_505M60400000001",
+   "amendment_promulgate_date": "2023-01-10",
+   "amendment_enforcement_date": "2023-03-01",
+   "amendment_law_id": "505M60400000001",
+   "amendment_law_title": "遺失物法施行規則の一部を改正する規則",
+   "amendment_law_num": "令和五年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000006_20201228_502M60400000013",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60400000013",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000006_20191214_501M60400000008",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000008",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000006_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60400000006_20170401_429M60400000001",
+   "amendment_promulgate_date": "2017-02-14",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60400000001",
+   "amendment_law_num": "平成二十九年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　警察署長等の措置",
+  "第二章　施設占有者の措置等",
+  "第三章　雑則"
+ ],
+ "article1": {
+  "caption": "（拾得物件控書の作成）",
+  "title": "第一条",
+  "paragraphs": [
+   "警察署長は、遺失物法（以下「法」という。）第四条第一項又は法第十三条第一項の規定による提出（以下この章において単に「提出」という。）を受けたときは、別記様式第一号の拾得物件控書を作成しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-04T09:50:22+09:00"
+ }
+}

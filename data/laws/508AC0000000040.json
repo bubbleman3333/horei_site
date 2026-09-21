@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "508AC0000000040",
+  "law_num": "令和八年法律第四十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Act",
+  "law_num_num": "040",
+  "promulgation_date": "2026-06-17"
+ },
+ "revision_info": {
+  "law_revision_id": "508AC0000000040_20270401_000000000000000",
+  "law_type": "Act",
+  "law_title": "予備自衛官等の職務の円滑な遂行を図るための国家公務員及び地方公務員の兼業の特例に関する法律",
+  "law_title_kana": "よびじえいかんとうのしょくむのえんかつなすいこうをはかるためのこっかこうむいんおよびちほうこうむいんのけんぎょうのとくれいにかんするほうりつ",
+  "abbrev": null,
+  "category": "防衛",
+  "updated": "2026-09-14T19:28:54+09:00",
+  "amendment_promulgate_date": "2026-06-17",
+  "amendment_enforcement_date": "2027-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508AC0000000040_20270401_000000000000000",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、予備自衛官等の職務の重要性に鑑み、国家公務員及び地方公務員が予備自衛官等の兼業を行う場合における国家公務員法（昭和二十二年法律第百二十号）、地方公務員法（昭和二十五年法律第二百六十一号）等の特例を定め、予備自衛官等が招集に応ずるための環境を整備するとともに、その職務の重要性に対する国民の関心と理解を深めることにより、その職務の円滑な遂行を図り、もって予備自衛官等の継続的かつ安定的な確保に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-14T19:28:54+09:00"
+ }
+}

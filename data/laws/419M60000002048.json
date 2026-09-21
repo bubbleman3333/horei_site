@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60000002048",
+  "law_num": "平成十九年内閣府令第四十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "048",
+  "promulgation_date": "2007-07-13"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60000002048_20260525_507M60000002068",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "担保付社債信託法施行規則",
+  "law_title_kana": "たんぽつきしゃさいしんたくほうしこうきそく",
+  "abbrev": "担信法施行規則",
+  "category": "民事",
+  "updated": "2026-05-25T02:05:41+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000002068",
+  "amendment_law_title": "信託業法施行規則等の一部を改正する内閣府令",
+  "amendment_law_num": "令和七年内閣府令第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60000002048_20260525_507M60000002068",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507M60000002068",
+   "amendment_law_title": "信託業法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002048_20250401_507M60000002008",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002008",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002048_20231227_505M60000002087",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000002087",
+   "amendment_law_title": "内閣府の所管する金融関連法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002048_20150501_427M60000002037",
+   "amendment_promulgate_date": "2015-04-28",
+   "amendment_enforcement_date": "2015-05-01",
+   "amendment_law_id": "427M60000002037",
+   "amendment_law_num": "平成二十七年内閣府令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（信託会社の免許の申請等）",
+  "title": "第一条",
+  "paragraphs": [
+   "担保付社債信託法（以下「法」という。）第三条の免許を受けようとする会社は、免許申請書に次に掲げる書面を添付して、金融庁長官を経由して内閣総理大臣に提出しなければならない。",
+   "前項に規定する書類のほか、株式会社にあっては、株主の氏名又は商号若しくは名称及びその持株数を記載した書面並びに創立総会の議事録（会社法（平成十七年法律第八十六号）第八十二条第一項の規定により創立総会の決議があったものとみなされる場合においては、当該場合に該当することを証明する書面）を添付しなければならない。",
+   "信託会社（法第一条に規定する信託会社をいう。以下同じ。）以外の会社が従前の目的を変更して担保付社債に関する信託事業を営むため法第三条の規定による営業の免許を受けようとするときは、第一項各号に掲げる書類のほか、次に掲げる書類を免許申請書に添付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-07-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T02:05:41+09:00"
+ }
+}

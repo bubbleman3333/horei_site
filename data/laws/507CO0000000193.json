@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000193",
+  "law_num": "令和七年政令第百九十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "193",
+  "promulgation_date": "2025-05-23"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000193_20260521_508CO0000000157",
+  "law_type": "CabinetOrder",
+  "law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+  "law_title_kana": "けいほうとうのいちぶをかいせいするほうりつおよびけいほうとうのいちぶをかいせいするほうりつのしこうにともなうかんけいほうりつのせいりとうにかんするほうりつのしこうにともなうかんけいせいれいのせいりとうおよびけいかそちにかんするせいれい",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-22T16:21:20+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000157",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000193_20270601_508CO0000000253",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2027-06-01",
+   "amendment_law_id": "508CO0000000253",
+   "amendment_law_title": "更生保護制度の充実を図るための保護司法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和八年政令第二百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000193_20260521_508CO0000000157",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000157",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000193_20250601_000000000000000",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　関係政令の整理等",
+  "第二章　経過措置"
+ ],
+ "article1": {
+  "caption": "（罰則の適用に関する経過措置）",
+  "title": "第三十九条",
+  "paragraphs": [
+   "この政令の施行後にした行為に対して、他の政令の規定によりなお従前の例によることとされ、なお効力を有することとされ又は改正前若しくは廃止前の政令の規定の例によることとされる罰則を適用する場合において、当該罰則に定める刑（刑法施行法（明治四十一年法律第二十九号）第十九条第一項の規定又は沖縄の復帰に伴う特別措置に関する法律（昭和四十六年法律第百二十九号）第二十五条第四項の規定の適用後のものを含む。）に刑法等の一部を改正する法律（以下「刑法等一部改正法」という。）第二条の規定による改正前の刑法（明治四十年法律第四十五号。以下この条において「旧刑法」という。）第十二条に規定する懲役（以下この条及び第四十一条において「懲役」という。）、旧刑法第十三条に規定する禁錮（以下「禁錮」という。）又は旧刑法第十六条に規定する拘留（以下この条及び次条において「旧拘留」という。）が含まれるときは、当該刑のうち無期の懲役又は禁錮はそれぞれ無期拘禁刑と、有期の懲役又は禁錮はそれぞれその刑と長期及び短期（刑法施行法第二十条の規定の適用後のものを含む。）を同じくする有期拘禁刑と、旧拘留は長期及び短期（刑法施行法第二十条の規定の適用後のものを含む。）を同じくする拘留とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-05-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-22T16:21:20+09:00"
+ }
+}

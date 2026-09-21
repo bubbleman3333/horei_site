@@ -1,0 +1,155 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "334M50000040010",
+  "law_num": "昭和三十四年大蔵省令第十号",
+  "law_num_era": "Showa",
+  "law_num_year": 34,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "010",
+  "promulgation_date": "1959-02-25"
+ },
+ "revision_info": {
+  "law_revision_id": "334M50000040010_20260401_508M60000040007",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国家公務員宿舎法施行規則",
+  "law_title_kana": "こっかこうむいんしゅくしゃほうしこうきそく",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-04-01T04:23:05+09:00",
+  "amendment_promulgate_date": "2026-03-16",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040007",
+  "amendment_law_title": "国家公務員宿舎法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "334M50000040010_20270301_508M60000040007",
+   "amendment_promulgate_date": "2026-03-16",
+   "amendment_enforcement_date": "2027-03-01",
+   "amendment_law_id": "508M60000040007",
+   "amendment_law_title": "国家公務員宿舎法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20260401_508M60000040007",
+   "amendment_promulgate_date": "2026-03-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040007",
+   "amendment_law_title": "国家公務員宿舎法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20250401_507M60000040008",
+   "amendment_promulgate_date": "2025-03-18",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040008",
+   "amendment_law_title": "国家公務員宿舎法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20210401_502M60000040054",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000040054",
+   "amendment_law_title": "国家公務員宿舎法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20200630_502M60000040054",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2020-06-30",
+   "amendment_law_id": "502M60000040054",
+   "amendment_law_title": "国家公務員宿舎法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20191216_501M60000040038",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000040038",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う財務省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年財務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20190701_501M60000040010",
+   "amendment_promulgate_date": "2019-06-26",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000040010",
+   "amendment_law_title": "政府所有有価証券取扱規程等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20190507_501M60000040001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000040001",
+   "amendment_law_title": "元号を改める政令の施行に伴う財務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20180401_430M60000040002",
+   "amendment_promulgate_date": "2018-01-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000040002",
+   "amendment_law_title": "国家公務員宿舎法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334M50000040010_20160401_428M60000040001",
+   "amendment_promulgate_date": "2016-01-22",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000040001",
+   "amendment_law_num": "平成二十八年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　宿舎の設置等",
+  "第三章　宿舎の維持及び管理",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において「独立行政法人」、「職員」、「宿舎」、「各省各庁」、「各省各庁の長」、「宿舎の種類」、「省庁別宿舎」、「官署」、「合同宿舎」、「設置計画」又は「被貸与者」とは、国家公務員宿舎法（昭和二十四年法律第百十七号。以下「法」という。）第二条、第三条、第四条第二項、第五条、第八条又は第十三条の三に規定する独立行政法人、職員、宿舎、各省各庁、各省各庁の長、宿舎の種類、省庁別宿舎、官署、合同宿舎、設置計画又は被貸与者をいう。",
+   "この省令において「自動車の保管場所」とは、国家公務員宿舎法施行令（昭和三十三年政令第三百四十一号。以下「令」という。）第一条第二項に規定する自動車の保管場所をいう。",
+   "この省令において「単独宿舎」とは、家屋の全部が一の職員に貸与される宿舎を、「共同宿舎」とは、単独宿舎以外の宿舎をいう。",
+   "この省令において「書面等」、「電磁的記録」、「申請等」、「処分通知等」又は「作成等」とは、情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第三条に規定する書面等、電磁的記録、申請等、処分通知等又は作成等をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1959-02-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T04:23:05+09:00"
+ }
+}

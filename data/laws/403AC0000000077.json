@@ -1,0 +1,258 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "403AC0000000077",
+  "law_num": "平成三年法律第七十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 3,
+  "law_num_type": "Act",
+  "law_num_num": "077",
+  "promulgation_date": "1991-05-15"
+ },
+ "revision_info": {
+  "law_revision_id": "403AC0000000077_20260521_505AC0000000063",
+  "law_type": "Act",
+  "law_title": "暴力団員による不当な行為の防止等に関する法律",
+  "law_title_kana": "ぼうりょくだんいんによるふとうなこういのぼうしとうにかんするほうりつ",
+  "abbrev": "暴対法,暴力団対策法",
+  "category": "警察",
+  "updated": "2026-05-21T01:54:06+09:00",
+  "amendment_promulgate_date": "2023-06-16",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000063",
+  "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "403AC0000000077_20260521_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20260401_505AC0000000033",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "505AC0000000033",
+   "amendment_law_title": "著作権法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20241212_505AC0000000084",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "505AC0000000084",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20241101_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20240401_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20240201_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20230713_505AC0000000067",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505AC0000000067",
+   "amendment_law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律",
+   "amendment_law_num": "令和五年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20211101_502AC0000000050",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "502AC0000000050",
+   "amendment_law_title": "金融サービスの利用者の利便の向上及び保護を図るための金融商品の販売等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20200612_502AC0000000050",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502AC0000000050",
+   "amendment_law_title": "金融サービスの利用者の利便の向上及び保護を図るための金融商品の販売等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20200401_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20200401_430AC0000000071",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430AC0000000071",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20190401_430AC0000000071",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000071",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20171201_429AC0000000046",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-12-01",
+   "amendment_law_id": "429AC0000000046",
+   "amendment_law_title": "不動産特定共同事業法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403AC0000000077_20160601_425AC0000000049",
+   "amendment_promulgate_date": "2013-06-19",
+   "amendment_enforcement_date": "2016-06-01",
+   "amendment_law_id": "425AC0000000049",
+   "amendment_law_title": "刑法等の一部を改正する法律",
+   "amendment_law_num": "平成二十五年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　暴力的要求行為の規制等",
+  "第三章　対立抗争時の事務所の使用制限等",
+  "第四章　加入の強要の規制その他の規制等",
+  "第四章の二　特定危険指定暴力団等の指定等",
+  "第五章　指定暴力団の代表者等の損害賠償責任",
+  "第六章　暴力団員による不当な行為の防止等に関する国等の責務及び民間活動の促進",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、暴力団員の行う暴力的要求行為等について必要な規制を行い、及び暴力団の対立抗争等による市民生活に対する危険を防止するために必要な措置を講ずるとともに、暴力団員の活動による被害の予防等に資するための民間の公益的団体の活動を促進する措置等を講ずることにより、市民生活の安全と平穏の確保を図り、もって国民の自由と権利を保護することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1991-05-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:54:06+09:00"
+ }
+}

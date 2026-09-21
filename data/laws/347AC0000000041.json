@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "347AC0000000041",
+  "law_num": "昭和四十七年法律第四十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "Act",
+  "law_num_num": "041",
+  "promulgation_date": "1972-05-29"
+ },
+ "revision_info": {
+  "law_revision_id": "347AC0000000041_20250701_507AC0000000051",
+  "law_type": "Act",
+  "law_title": "日本下水道事業団法",
+  "law_title_kana": "にほんげすいどうじぎょうだんほう",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2025-07-01T00:33:00+09:00",
+  "amendment_promulgate_date": "2025-06-04",
+  "amendment_enforcement_date": "2025-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000051",
+  "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347AC0000000041_20270122_508AC0000000065",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-01-22",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-01-22",
+   "amendment_law_id": "508AC0000000065",
+   "amendment_law_title": "下水道法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "347AC0000000041_20250701_507AC0000000051",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507AC0000000051",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347AC0000000041_20211101_503AC0000000031",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503AC0000000031",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347AC0000000041_20180831_430AC0000000040",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2018-08-31",
+   "amendment_law_id": "430AC0000000040",
+   "amendment_law_title": "海外社会資本事業への我が国事業者の参入の促進に関する法律",
+   "amendment_law_num": "平成三十年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347AC0000000041_20150719_427AC0000000022",
+   "amendment_promulgate_date": "2015-05-20",
+   "amendment_enforcement_date": "2015-07-19",
+   "amendment_law_id": "427AC0000000022",
+   "amendment_law_num": "平成二十七年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　設立",
+  "第三章　管理",
+  "第四章　業務",
+  "第五章　財務及び会計",
+  "第六章　監督",
+  "第七章　補則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本下水道事業団は、地方公共団体等の要請に基づき、下水道の根幹的施設の建設及び維持管理を行い、下水道に関する技術的援助を行うとともに、下水道技術者の養成並びに下水道に関する技術の開発及び実用化を図ること等により、下水道の整備を促進し、もつて生活環境の改善と公共用水域の水質の保全に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-05-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-07-01T00:33:00+09:00"
+ }
+}

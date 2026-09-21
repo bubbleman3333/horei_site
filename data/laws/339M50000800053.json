@@ -1,0 +1,139 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "339M50000800053",
+  "law_num": "昭和三十九年運輸省令第五十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 39,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "053",
+  "promulgation_date": "1964-07-31"
+ },
+ "revision_info": {
+  "law_revision_id": "339M50000800053_20260401_508M60000800014",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "船員労働安全衛生規則",
+  "law_title_kana": "せんいんろうどうあんぜんえいせいきそく",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-04-01T05:26:28+09:00",
+  "amendment_promulgate_date": "2026-03-19",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800014",
+  "amendment_law_title": "船員労働安全衛生規則の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "339M50000800053_20260401_508M60000800014",
+   "amendment_promulgate_date": "2026-03-19",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800014",
+   "amendment_law_title": "船員労働安全衛生規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "339M50000800053_20260214_507M60000800090",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "507M60000800090",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000800053_20230401_504M60000800042",
+   "amendment_promulgate_date": "2022-04-15",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000800042",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000800053_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000800053_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000800053_20180701_430M60000800049",
+   "amendment_promulgate_date": "2018-06-15",
+   "amendment_enforcement_date": "2018-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000800049",
+   "amendment_law_title": "海上運送法及び船員法の一部を改正する法律の施行に伴う船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000800053_20171001_429M60000800055",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000800055",
+   "amendment_law_title": "海上運送法及び船員法の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339M50000800053_20150121_426M60000800092",
+   "amendment_promulgate_date": "2014-12-08",
+   "amendment_enforcement_date": "2015-01-21",
+   "amendment_law_id": "426M60000800092",
+   "amendment_law_num": "平成二十六年国土交通省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　安全基準及び衛生基準等",
+  "第三章　個別作業基準",
+  "第四章　特殊危害防止基準",
+  "第五章　年少船員の就業制限",
+  "第六章　女子船員の就業制限",
+  "第七章　登録安全担当者講習実施機関",
+  "第八章　登録危険作業講習実施機関"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "船内作業による危害の防止及び船内衛生の保持に関し、船舶所有者のとるべき措置及びその基準並びに船員の遵守するべき事項は、他の法令に定めるもののほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1964-07-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T05:26:28+09:00"
+ }
+}

@@ -1,0 +1,204 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "350M50000008017",
+  "law_num": "昭和五十年自治省令第十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 50,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "1975-09-26"
+ },
+ "revision_info": {
+  "law_revision_id": "350M50000008017_20260101_507M60000008110",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "政治資金規正法施行規則",
+  "law_title_kana": "せいじしきんきせいほうしこうきそく",
+  "abbrev": "政治資金法施行規則",
+  "category": "国会",
+  "updated": "2026-01-06T11:40:31+09:00",
+  "amendment_promulgate_date": "2025-12-19",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000008110",
+  "amendment_law_title": "政治資金規正法施行規則及び政党助成法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年総務省令第百十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "350M50000008017_20270101_507M60000008081",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "507M60000008081",
+   "amendment_law_title": "政治資金規正法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20260101_507M60000008110",
+   "amendment_promulgate_date": "2025-12-19",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000008110",
+   "amendment_law_title": "政治資金規正法施行規則及び政党助成法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20260101_507M60000008080",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000008080",
+   "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20251001_507M60000008079",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008079",
+   "amendment_law_title": "政治資金規正法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20240401_505M60000008092",
+   "amendment_promulgate_date": "2023-12-15",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000008092",
+   "amendment_law_title": "政治資金規正法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20221101_504M60000008049",
+   "amendment_promulgate_date": "2022-07-25",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000008049",
+   "amendment_law_title": "政治資金規正法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20210901_503M60000008074",
+   "amendment_promulgate_date": "2021-08-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000008074",
+   "amendment_law_title": "政治資金規正法施行規則及び政党助成法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20210215_503M60000008010",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503M60000008010",
+   "amendment_law_title": "政治資金規正法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20210201_503M60000008005",
+   "amendment_promulgate_date": "2021-02-01",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "503M60000008005",
+   "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20191216_501M60000008064",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000008064",
+   "amendment_law_title": "総務省関係法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "令和元年総務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20190808_501M60000008032",
+   "amendment_promulgate_date": "2019-08-08",
+   "amendment_enforcement_date": "2019-08-08",
+   "amendment_law_id": "501M60000008032",
+   "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20190701_501M60000008019",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000008019",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う総務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20190531_501M60000008009",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-05-31",
+   "amendment_law_id": "501M60000008009",
+   "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20180601_430M60000008007",
+   "amendment_promulgate_date": "2018-02-28",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430M60000008007",
+   "amendment_law_title": "政治資金規正法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年総務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000008017_20160401_427M60000008089",
+   "amendment_promulgate_date": "2015-10-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427M60000008089",
+   "amendment_law_num": "平成二十七年総務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　政治団体の届出等",
+  "第二章　公職の候補者に係る資金管理団体の届出等",
+  "第三章　国会議員関係政治団体に関する特例等",
+  "第四章　報告書の公開",
+  "第五章　寄附等に関する制限",
+  "第六章　補則"
+ ],
+ "article1": {
+  "caption": "（政治団体の設立の届出）",
+  "title": "第一条",
+  "paragraphs": [
+   "政治資金規正法（昭和二十三年法律第百九十四号。以下「法」という。）第六条第一項に規定する文書は、別記第一号様式によるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1975-09-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-06T11:40:31+09:00"
+ }
+}

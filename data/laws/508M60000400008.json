@@ -1,0 +1,59 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000400008",
+  "law_num": "令和八年経済産業省令第八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "008",
+  "promulgation_date": "2026-03-19"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000400008_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "ユニット形エアコンディショナの製造等の事業を行う者の脱炭素化再生資源の利用の促進に関する判断の基準となるべき事項を定める省令",
+  "law_title_kana": "ゆにっとがたえあこんでぃしょなのせいぞうとうのじぎょうをおこなうもののだつたんそかさいせいしげんのりようのそくしんにかんするはんだんのきじゅんとなるべきじこうをさだめるしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-06T11:35:14+09:00",
+  "amendment_promulgate_date": "2026-03-19",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000400008_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-19",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　製造事業者の判断の基準となるべき事項",
+  "第二章　輸入販売事業者の判断の基準となるべき事項"
+ ],
+ "article1": {
+  "caption": "（目標の設定）",
+  "title": "第一条",
+  "paragraphs": [
+   "ユニット形エアコンディショナ（パッケージ用のものを除く。以下同じ。）の製造（事業の用に供するために発注して製造することを含む。以下この項において同じ。）の事業を行う者（以下「製造事業者」という。）は、技術的かつ経済的に可能な範囲で、製造するユニット形エアコンディショナに係る再生プラスチック（資源の有効な利用の促進に関する法律施行令（平成三年政令第三百二十七号）第四条第一項に規定する再生資源をいう。以下同じ。）の利用量及び利用率（ユニット形エアコンディショナの原材料のプラスチックに占める利用された再生プラスチックの質量の割合をいう。以下同じ。）の向上を計画的に行うため、再生プラスチックの利用の促進に関する目標を定めるものとする。",
+   "製造事業者は、ユニット形エアコンディショナに係る再生プラスチックの利用量及び利用率の向上に当たっては、国産再生プラスチック（国内で生産された再生プラスチックをいう。以下この項において同じ。）の利用が我が国における資源の有効な利用及び脱炭素化に資することに鑑み、国産再生プラスチックを利用するよう配慮するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-06T11:35:14+09:00"
+ }
+}

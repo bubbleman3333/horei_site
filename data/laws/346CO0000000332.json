@@ -1,0 +1,104 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "346CO0000000332",
+  "law_num": "昭和四十六年政令第三百三十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "332",
+  "promulgation_date": "1971-11-01"
+ },
+ "revision_info": {
+  "law_revision_id": "346CO0000000332_20260401_508CO0000000098",
+  "law_type": "CabinetOrder",
+  "law_title": "勤労者財産形成促進法施行令",
+  "law_title_kana": "きんろうしゃざいさんけいせいそくしんほうしこうれい",
+  "abbrev": "財形法施行令",
+  "category": "労働",
+  "updated": "2026-04-21T10:57:34+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000098",
+  "amendment_law_title": "租税特別措置法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第九十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346CO0000000332_20260401_508CO0000000098",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000098",
+   "amendment_law_title": "租税特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000332_20250501_507CO0000000101",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507CO0000000101",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000332_20250101_505CO0000000134",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505CO0000000134",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000332_20241101_506CO0000000331",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506CO0000000331",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346CO0000000332_20160101_427CO0000000141",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_law_id": "427CO0000000141",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　勤労者の貯蓄に関する措置",
+  "第三章　勤労者の持家建設の推進等に関する措置",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において、「勤労者」、「持家」、「勤労者財産形成貯蓄契約」、「勤労者財産形成年金貯蓄契約」、「勤労者財産形成住宅貯蓄契約」、「勤労者財産形成給付金契約」若しくは「財産形成給付金」、「勤労者財産形成基金契約」、「第一種勤労者財産形成基金契約」若しくは「第二種勤労者財産形成基金契約」又は「財産形成基金給付金」、「第一種財産形成基金給付金」若しくは「第二種財産形成基金給付金」とは、それぞれ勤労者財産形成促進法（以下「法」という。）第二条第一号に規定する勤労者、同条第三号に規定する持家、法第六条第一項に規定する勤労者財産形成貯蓄契約、同条第二項に規定する勤労者財産形成年金貯蓄契約、同条第四項に規定する勤労者財産形成住宅貯蓄契約、法第六条の二に規定する勤労者財産形成給付金契約若しくは財産形成給付金、法第六条の三に規定する勤労者財産形成基金契約、第一種勤労者財産形成基金契約若しくは第二種勤労者財産形成基金契約又は法第六条の四に規定する財産形成基金給付金、第一種財産形成基金給付金若しくは第二種財産形成基金給付金をいう。",
+   "この政令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-11-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:57:34+09:00"
+ }
+}

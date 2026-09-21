@@ -1,0 +1,76 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "416CO0000000241",
+  "law_num": "平成十六年政令第二百四十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "241",
+  "promulgation_date": "2004-07-23"
+ },
+ "revision_info": {
+  "law_revision_id": "416CO0000000241_20260807_508CO0000000246",
+  "law_type": "CabinetOrder",
+  "law_title": "金融機能強化審査会令",
+  "law_title_kana": "きんゆうきのうきょうかしんさかいれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-08-19T11:50:20+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000246",
+  "amendment_law_title": "金融庁組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416CO0000000241_20260807_508CO0000000246",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508CO0000000246",
+   "amendment_law_title": "金融庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000241_20210721_503CO0000000201",
+   "amendment_promulgate_date": "2021-07-09",
+   "amendment_enforcement_date": "2021-07-21",
+   "amendment_law_id": "503CO0000000201",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律施行令及び金融機能強化審査会令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000241_20040801_000000000000000",
+   "amendment_promulgate_date": "2004-07-23",
+   "amendment_enforcement_date": "2004-08-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（議事）",
+  "title": "第一条",
+  "paragraphs": [
+   "金融機能強化審査会は、委員の過半数が出席しなければ、会議を開き、議決することができない。",
+   "金融機能強化審査会の議事は、委員で会議に出席したものの過半数で決し、可否同数のときは、会長の決するところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-07-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T11:50:20+09:00"
+ }
+}

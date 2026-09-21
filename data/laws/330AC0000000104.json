@@ -1,0 +1,148 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "330AC0000000104",
+  "law_num": "昭和三十年法律第百四号",
+  "law_num_era": "Showa",
+  "law_num_year": 30,
+  "law_num_type": "Act",
+  "law_num_num": "104",
+  "promulgation_date": "1955-07-30"
+ },
+ "revision_info": {
+  "law_revision_id": "330AC0000000104_20260401_508AC0000000012",
+  "law_type": "Act",
+  "law_title": "地方揮発油税法",
+  "law_title_kana": "ちほうきはつゆぜいほう",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-04-01T12:21:46+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000012",
+  "amendment_law_title": "所得税法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "330AC0000000104_20340401_431AC0000000006",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2034-04-01",
+   "amendment_law_id": "431AC0000000006",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十一年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20260401_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20241001_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20240401_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20190401_431AC0000000006",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431AC0000000006",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十一年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20180401_430AC0000000007",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430AC0000000007",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20180401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000104_20170401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（課税目的及び課税物件）",
+  "title": "第一条",
+  "paragraphs": [
+   "都道府県及び市町村（特別区を含む。）に対し財源を譲与するため、揮発油には、この法律により、地方揮発油税を課する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1955-07-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T12:21:46+09:00"
+ }
+}

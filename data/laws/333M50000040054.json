@@ -1,0 +1,460 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "333M50000040054",
+  "law_num": "昭和三十三年大蔵省令第五十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "054",
+  "promulgation_date": "1958-10-11"
+ },
+ "revision_info": {
+  "law_revision_id": "333M50000040054_20260801_508M60000040052",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国家公務員共済組合法施行規則",
+  "law_title_kana": "こっかこうむいんきょうさいくみあいほうしこうきそく",
+  "abbrev": "国公共済法施行規則",
+  "category": "国家公務員",
+  "updated": "2026-08-17T13:52:34+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040052",
+  "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333M50000040054_20260801_508M60000040052",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508M60000040052",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20260601_508M60000040045",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000040045",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20260401_508M60000040011",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040011",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20260301_508M60000040004",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-03-01",
+   "amendment_law_id": "508M60000040004",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20251101_507M60000040063",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507M60000040063",
+   "amendment_law_title": "国家公務員共済組合法施行規則及び厚生年金保険法等の一部を改正する法律等の施行に伴う存続組合及び指定基金に係る特例業務等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20251001_507M60000040063",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000040063",
+   "amendment_law_title": "国家公務員共済組合法施行規則及び厚生年金保険法等の一部を改正する法律等の施行に伴う存続組合及び指定基金に係る特例業務等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20250601_507M60000040051",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000040051",
+   "amendment_law_title": "国家公務員共済組合法施行規則及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行及び国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律の一部の施行に伴う国家公務員共済組合法による長期給付等に関する経過措置に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20250601_507M60000040005",
+   "amendment_promulgate_date": "2025-02-28",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000040005",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20250401_507M60000040014",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040014",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20250301_507M60000040005",
+   "amendment_promulgate_date": "2025-02-28",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "507M60000040005",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20250101_506M60000040069",
+   "amendment_promulgate_date": "2024-12-18",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000040069",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20241202_506M60000040064",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000040064",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20241101_506M60000040059",
+   "amendment_promulgate_date": "2024-10-31",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000040059",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20240527_506M60000040042",
+   "amendment_promulgate_date": "2024-05-27",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000040042",
+   "amendment_law_title": "国家公務員共済組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20240507_506M60000040040",
+   "amendment_promulgate_date": "2024-04-30",
+   "amendment_enforcement_date": "2024-05-07",
+   "amendment_law_id": "506M60000040040",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20240401_506M60000040011",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000040011",
+   "amendment_law_title": "国家公務員共済組合法施行規則及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行及び国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律の一部の施行に伴う国家公務員共済組合法による長期給付等に関する経過措置に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20240301_506M60000040005",
+   "amendment_promulgate_date": "2024-02-28",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "506M60000040005",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20230929_505M60000040053",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-09-29",
+   "amendment_law_id": "505M60000040053",
+   "amendment_law_title": "国家公務員共済組合法施行規則及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行及び国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律の一部の施行に伴う国家公務員共済組合法による長期給付等に関する経過措置に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20230401_505M60000040004",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000040004",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20221001_504M60000040049",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000040049",
+   "amendment_law_title": "国家公務員共済組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20221001_504M60000040045",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000040045",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20220624_504M60000040043",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-06-24",
+   "amendment_law_id": "504M60000040043",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20220401_504M60000040007",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040007",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20220331_504M60000040008",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "504M60000040008",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20220101_503M60000040084",
+   "amendment_promulgate_date": "2021-12-28",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000040084",
+   "amendment_law_title": "国家公務員共済組合法施行規則及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の施行及び国家公務員の退職給付の給付水準の見直し等のための国家公務員退職手当法等の一部を改正する法律の一部の施行に伴う国家公務員共済組合法による長期給付等に関する経過措置に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20210831_503M60000040062",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-08-31",
+   "amendment_law_id": "503M60000040062",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20210129_503M60000040002",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-01-29",
+   "amendment_law_id": "503M60000040002",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20210101_502M60000040078",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000040078",
+   "amendment_law_title": "国家公務員共済組合法施行規則及び厚生年金保険法等の一部を改正する法律等の施行に伴う存続組合及び指定基金に係る特例業務等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20201228_502M60000040092",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000040092",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20201026_502M60000040067",
+   "amendment_promulgate_date": "2020-10-26",
+   "amendment_enforcement_date": "2020-10-26",
+   "amendment_law_id": "502M60000040067",
+   "amendment_law_title": "国家公務員共済組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20201001_502M60000040066",
+   "amendment_promulgate_date": "2020-09-30",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000040066",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20201001_501M60000040030",
+   "amendment_promulgate_date": "2019-11-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501M60000040030",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20201001_501M60000040025",
+   "amendment_promulgate_date": "2019-09-06",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501M60000040025",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20200612_502M60000040048",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502M60000040048",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20200401_501M60000040030",
+   "amendment_promulgate_date": "2019-11-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000040030",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20200401_501M60000040020",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000040020",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20191216_501M60000040038",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000040038",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う財務省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年財務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20190906_501M60000040025",
+   "amendment_promulgate_date": "2019-09-06",
+   "amendment_enforcement_date": "2019-09-06",
+   "amendment_law_id": "501M60000040025",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20190830_501M60000040020",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2019-08-30",
+   "amendment_law_id": "501M60000040020",
+   "amendment_law_title": "国家公務員共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040054_20190801_430M60000040071",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_law_id": "430M60000040071",
+   "amendment_law_title": "国家公務員共済組合法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　組合",
+  "第三章　連合会",
+  "第四章　組合員",
+  "第五章　給付",
+  "第五章の二　福祉事業",
+  "第五章の三　費用の負担",
+  "第六章　掛金等及び負担金",
+  "第六章の二　地方公務員共済組合連合会に対する財政調整拠出金",
+  "第六章の三　国家公務員共済組合審査会",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、国家公務員共済組合及び国家公務員共済組合連合会の財務その他その運営に関し必要な事項を定めるとともに、国家公務員共済組合法（昭和三十三年法律第百二十八号。以下「法」という。）及び国家公務員共済組合法の長期給付に関する施行法（昭和三十三年法律第百二十九号。以下「施行法」という。）の実施のための手続その他法及び施行法の執行に関して必要な細則を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-10-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-17T13:52:34+09:00"
+ }
+}

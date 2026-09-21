@@ -1,0 +1,73 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "502M60000800091",
+  "law_num": "令和二年国土交通省令第九十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "091",
+  "promulgation_date": "2020-11-20"
+ },
+ "revision_info": {
+  "law_revision_id": "502M60000800091_20260401_508M60000800038",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定車両停留施設の構造及び設備の基準を定める省令",
+  "law_title_kana": "とくていしゃりょうていりゅうしせつのこうぞうおよびせつびのきじゅんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "道路",
+  "updated": "2026-05-01T16:31:30+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800038",
+  "amendment_law_title": "道路法施行規則及び特定車両停留施設の構造及び設備の基準を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第三十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502M60000800091_20260401_508M60000800038",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800038",
+   "amendment_law_title": "道路法施行規則及び特定車両停留施設の構造及び設備の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "502M60000800091_20201201_000000000000000",
+   "amendment_promulgate_date": "2020-11-20",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000800091_20201125_000000000000000",
+   "amendment_promulgate_date": "2020-11-20",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（この省令の趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、特定車両停留施設を新設し、又は改築する場合における特定車両停留施設の構造及び設備の一般的技術的基準を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-11-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T16:31:30+09:00"
+ }
+}

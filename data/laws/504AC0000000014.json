@@ -1,0 +1,86 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "504AC0000000014",
+  "law_num": "令和四年法律第十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "Act",
+  "law_num_num": "014",
+  "promulgation_date": "2022-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "504AC0000000014_20251224_507AC0000000090",
+  "law_type": "Act",
+  "law_title": "二千二十五年日本国際博覧会政府代表の設置に関する臨時措置法",
+  "law_title_kana": "にせんにじゅうごねんにほんこくさいはくらんかいせいふだいひょうのせっちにかんするりんじそちほう",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2025-12-24T11:18:16+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2025-12-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000090",
+  "amendment_law_title": "特別職の職員の給与に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第九十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504AC0000000014_20251224_507AC0000000090",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507AC0000000090",
+   "amendment_law_title": "特別職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000014_20241225_506AC0000000073",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506AC0000000073",
+   "amendment_law_title": "特別職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000014_20231124_505AC0000000074",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2023-11-24",
+   "amendment_law_id": "505AC0000000074",
+   "amendment_law_title": "特別職の職員の給与に関する法律及び二千二十五年日本国際博覧会政府代表の設置に関する臨時措置法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000014_20220401_000000000000000",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的等）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、令和七年に開催される二千二十五年日本国際博覧会に関し、国際博覧会条約第十二条の規定に基づく政府代表の設置及びその任務、給与等について定めることを目的とする。",
+   "この法律において「国際博覧会条約」とは、千九百八十八年五月三十一日に総会において採択された千九百二十八年十一月二十二日の国際博覧会に関する条約（千九百四十八年五月十日、千九百六十六年十一月十六日及び千九百七十二年十一月三十日の議定書並びに千九百八十二年六月二十四日の改正によって改正され及び補足されたもの）の改正により改正された千九百二十八年十一月二十二日にパリで署名され、千九百四十八年五月十日、千九百六十六年十一月十六日及び千九百七十二年十一月三十日の議定書並びに千九百八十二年六月二十四日の改正によって改正され及び補足された国際博覧会に関する条約をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-24T11:18:16+09:00"
+ }
+}

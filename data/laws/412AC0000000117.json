@@ -1,0 +1,118 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "412AC0000000117",
+  "law_num": "平成十二年法律第百十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "Act",
+  "law_num_num": "117",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412AC0000000117_20260522_506AC0000000038",
+  "law_type": "Act",
+  "law_title": "特定放射性廃棄物の最終処分に関する法律",
+  "law_title_kana": "とくていほうしゃせいはいきぶつのさいしゅうしょぶんにかんするほうりつ",
+  "abbrev": "最終処分法",
+  "category": "工業",
+  "updated": "2026-05-22T00:15:13+09:00",
+  "amendment_promulgate_date": "2024-05-24",
+  "amendment_enforcement_date": "2026-05-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000038",
+  "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+  "amendment_law_num": "令和六年法律第三十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412AC0000000117_20260522_506AC0000000038",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "506AC0000000038",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+   "amendment_law_num": "令和六年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000117_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000117_20241118_506AC0000000038",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_law_id": "506AC0000000038",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+   "amendment_law_num": "令和六年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000117_20240524_506AC0000000038",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506AC0000000038",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律",
+   "amendment_law_num": "令和六年法律第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000117_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412AC0000000117_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針等",
+  "第三章　概要調査地区等の選定",
+  "第四章　最終処分の実施等",
+  "第五章　原子力発電環境整備機構",
+  "第六章　指定法人",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、発電に関する原子力の適正な利用に資するため、発電用原子炉の運転に伴って生じた使用済燃料の再処理等を行った後に生ずる特定放射性廃棄物の最終処分を計画的かつ確実に実施させるために必要な措置等を講ずることにより、発電に関する原子力に係る環境の整備を図り、もって国民経済の健全な発展と国民生活の安定に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-22T00:15:13+09:00"
+ }
+}

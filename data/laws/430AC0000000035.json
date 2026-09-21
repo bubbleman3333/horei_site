@@ -1,0 +1,95 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "430AC0000000035",
+  "law_num": "平成三十年法律第三十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "Act",
+  "law_num_num": "035",
+  "promulgation_date": "2018-06-01"
+ },
+ "revision_info": {
+  "law_revision_id": "430AC0000000035_20260401_507AC0000000048",
+  "law_type": "Act",
+  "law_title": "森林経営管理法",
+  "law_title_kana": "しんりんけいえいかんりほう",
+  "abbrev": null,
+  "category": "林業",
+  "updated": "2026-04-02T21:23:02+09:00",
+  "amendment_promulgate_date": "2025-05-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000048",
+  "amendment_law_title": "森林経営管理法及び森林法の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430AC0000000035_20260401_507AC0000000048",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000048",
+   "amendment_law_title": "森林経営管理法及び森林法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000035_20210401_503AC0000000015",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503AC0000000015",
+   "amendment_law_title": "森林の間伐等の実施の促進に関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000035_20190401_000000000000000",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000035_20180601_000000000000000",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　市町村への経営管理権の集積",
+  "第三章　市町村による森林の経営管理",
+  "第四章　民間事業者への経営管理実施権の配分",
+  "第五章　経営管理の集約化の推進",
+  "第六章　経営管理支援法人",
+  "第七章　災害等防止措置命令等",
+  "第八章　林業経営者に対する支援措置",
+  "第九章　雑則",
+  "第十章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、森林法（昭和二十六年法律第二百四十九号）第五条第一項の規定によりたてられた地域森林計画の対象とする森林について、市町村が、森林所有者から経営管理権を取得した上で、自ら経営管理を行い、又は経営管理実施権を民間事業者に設定する等の措置を講ずることにより、林業経営の効率化及び森林の管理の適正化の一体的な促進を図り、もって林業の持続的発展及び森林の有する多面的機能の発揮に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-06-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:23:02+09:00"
+ }
+}

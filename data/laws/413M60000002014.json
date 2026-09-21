@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000002014",
+  "law_num": "平成十三年内閣府令第十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "2001-03-14"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000002014_20260807_508M60000002067",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "独立行政法人国立公文書館の業務運営並びに財務及び会計に関する内閣府令",
+  "law_title_kana": "どくりつぎょうせいほうじんこくりつこうぶんしょかんのぎょうむうんえいならびにざいむおよびかいけいにかんするないかくふれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-19T12:25:07+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002067",
+  "amendment_law_title": "独立行政法人国立公文書館の業務運営並びに財務及び会計に関する内閣府令の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第六十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000002014_20260807_508M60000002067",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000002067",
+   "amendment_law_title": "独立行政法人国立公文書館の業務運営並びに財務及び会計に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000002014_20190628_501M60000002016",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-06-28",
+   "amendment_law_id": "501M60000002016",
+   "amendment_law_title": "独立行政法人国立公文書館の業務運営並びに財務及び会計に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000002014_20190401_431M60000002007",
+   "amendment_promulgate_date": "2019-03-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000002007",
+   "amendment_law_title": "独立行政法人国立公文書館の業務運営並びに財務及び会計に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十一年内閣府令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000002014_20150401_427M60000002019",
+   "amendment_promulgate_date": "2015-03-30",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60000002019",
+   "amendment_law_num": "平成二十七年内閣府令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（通則法第八条第三項に規定する主務省令で定める重要な財産）",
+  "title": "第一条",
+  "paragraphs": [
+   "独立行政法人国立公文書館（以下「国立公文書館」という。）に係る独立行政法人通則法（以下「通則法」という。）第八条第三項に規定する主務省令で定める重要な財産は、その保有する財産であって、その通則法第四十六条の二第一項又は第二項の認可に係る申請の日（各項ただし書の場合にあっては、当該財産の処分に関する計画を定めた通則法第三十五条の十第一項の事業計画の認可に係る申請の日）における帳簿価額（現金及び預金にあっては、申請の日におけるその額）が五十万円以上のもの（その性質上通則法第四十六条の二の規定により処分することが不適当なものを除く。）その他内閣総理大臣が定める財産とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T12:25:07+09:00"
+ }
+}

@@ -1,0 +1,277 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "329CO0000000155",
+  "law_num": "昭和二十九年政令第百五十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "155",
+  "promulgation_date": "1954-06-22"
+ },
+ "revision_info": {
+  "law_revision_id": "329CO0000000155_20260401_508CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "関税定率法施行令",
+  "law_title_kana": "かんぜいていりつほうしこうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-04-20T14:00:36+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000085",
+  "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329CO0000000155_20280401_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-04-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20260401_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20250401_507CO0000000141",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000141",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20241210_506CO0000000208",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-12-10",
+   "amendment_law_id": "506CO0000000208",
+   "amendment_law_title": "関税定率法施行令及び輸入品に対する内国消費税の徴収等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20240401_506CO0000000158",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20230813_505CO0000000238",
+   "amendment_promulgate_date": "2023-07-07",
+   "amendment_enforcement_date": "2023-08-13",
+   "amendment_law_id": "505CO0000000238",
+   "amendment_law_title": "関税定率法施行令及び輸入品に対する内国消費税の徴収等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20230619_505CO0000000207",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-19",
+   "amendment_law_id": "505CO0000000207",
+   "amendment_law_title": "関税定率法施行令及び輸入品に対する内国消費税の徴収等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20230401_505CO0000000158",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20230401_505CO0000000035",
+   "amendment_promulgate_date": "2023-02-10",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000035",
+   "amendment_law_title": "博物館法の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和五年政令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20220401_504CO0000000135",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000135",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20220101_503CO0000000131",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000131",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20200401_502CO0000000128",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000128",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20190701_501CO0000000044",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000044",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20190401_431CO0000000133",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000133",
+   "amendment_law_title": "関税定率法及び関税暫定措置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十一年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20181230_429CO0000000006",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "429CO0000000006",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20180401_430CO0000000152",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000152",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20180401_429CO0000000296",
+   "amendment_promulgate_date": "2017-12-01",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000296",
+   "amendment_law_title": "地方独立行政法人法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20180401_429CO0000000271",
+   "amendment_promulgate_date": "2017-10-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000271",
+   "amendment_law_title": "畜産経営の安定に関する法律及び独立行政法人農畜産業振興機構法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20171008_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20171008_428CO0000000240",
+   "amendment_promulgate_date": "2016-06-17",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428CO0000000240",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000155_20170401_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　簡易税率",
+  "第一章の二　課税価格の計算",
+  "第二章　変質、損傷等の場合の減税又は戻し税等",
+  "第三章　加工又は修繕のため輸出された貨物の減税",
+  "第四章　製造用原料品の減税又は免税",
+  "第五章　無条件免税",
+  "第六章　特定用途免税",
+  "第七章　外交官用貨物等の免税",
+  "第八章　再輸出免税",
+  "第九章　再輸出減税",
+  "第十章　輸出貨物の製造用原料品の減免税又は戻し税等",
+  "第十章の二　輸入時と同一状態で再輸出される場合の戻し税等",
+  "第十一章　違約品等の再輸出又は廃棄の場合の戻し税等",
+  "第十二章　軽減税率適用貨物の用途外使用の制限等",
+  "第十二章の二　関税の軽減、免除等を受けた貨物の転用",
+  "第十三章　雑則"
+ ],
+ "article1": {
+  "caption": "（別送して輸入する貨物の簡易税率の適用の手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "関税定率法（以下「法」という。）第三条の二第一項（入国者の輸入貨物に対する簡易税率）に規定する別送して輸入する貨物について法の別表の付表第一に定める税率の適用を受けようとする者は、本邦への入国の際に、当該貨物の品名、数量、輸入の予定時期及び予定地並びに積出地を記載した申告書を税関長に提出してその申告をしたことについての確認を受け、税関長がやむを得ない特別の事由があると認める場合を除くほか、その入国後六月以内に当該貨物を輸入しなければならない。",
+   "税関長は、前項の申告書の提出があつたときは、当該申告書にその申告があつた旨を記載してこれを還付するものとする。",
+   "第一項の貨物を輸入する者は、その輸入申告の際に、前項の規定により還付された申告書を税関長に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-06-22",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-20T14:00:36+09:00"
+ }
+}

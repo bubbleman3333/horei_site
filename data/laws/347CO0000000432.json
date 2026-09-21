@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "347CO0000000432",
+  "law_num": "昭和四十七年政令第四百三十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "432",
+  "promulgation_date": "1972-12-21"
+ },
+ "revision_info": {
+  "law_revision_id": "347CO0000000432_20260401_508CO0000000066",
+  "law_type": "CabinetOrder",
+  "law_title": "防災のための集団移転促進事業に係る国の財政上の特別措置等に関する法律施行令",
+  "law_title_kana": "ぼうさいのためのしゅうだんいてんそくしんじぎょうにかかるくにのざいせいじょうのとくべつそちとうにかんするほうりつせこうれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-04-14T09:41:06+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000066",
+  "amendment_law_title": "医療法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347CO0000000432_20260401_508CO0000000066",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000066",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347CO0000000432_20210715_503CO0000000205",
+   "amendment_promulgate_date": "2021-07-14",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_law_id": "503CO0000000205",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347CO0000000432_20200401_502CO0000000139",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000139",
+   "amendment_law_title": "防災のための集団移転促進事業に係る国の財政上の特別措置等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347CO0000000432_20050401_417CO0000000127",
+   "amendment_promulgate_date": "2005-04-01",
+   "amendment_enforcement_date": "2005-04-01",
+   "amendment_law_id": "417CO0000000127",
+   "amendment_law_num": "平成十七年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第二項の住宅団地の規模）",
+  "title": "第一条",
+  "paragraphs": [
+   "防災のための集団移転促進事業に係る国の財政上の特別措置等に関する法律（以下「法」という。）第二条第二項に規定する政令で定める規模は、法第三条第一項に規定する集団移転促進事業計画（以下「集団移転促進事業計画」という。）において定める移転しようとする住居の数に応じ五戸を下らない範囲内で国土交通省令で定める戸数の住宅を集団的に建設することができる規模とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-12-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:41:06+09:00"
+ }
+}

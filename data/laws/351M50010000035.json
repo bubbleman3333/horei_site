@@ -1,0 +1,456 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "351M50010000035",
+  "law_num": "昭和五十一年農林省令第三十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 51,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "035",
+  "promulgation_date": "1976-07-24"
+ },
+ "revision_info": {
+  "law_revision_id": "351M50010000035_20260706_508M60000200001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "飼料及び飼料添加物の成分規格等に関する省令",
+  "law_title_kana": "しりょうおよびしりょうてんかぶつのせいぶんきかくとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-07-06T00:01:24+09:00",
+  "amendment_promulgate_date": "2026-01-06",
+  "amendment_enforcement_date": "2026-07-06",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200001",
+  "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "351M50010000035_20270106_508M60000200001",
+   "amendment_promulgate_date": "2026-01-06",
+   "amendment_enforcement_date": "2027-01-06",
+   "amendment_law_id": "508M60000200001",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20260706_508M60000200001",
+   "amendment_promulgate_date": "2026-01-06",
+   "amendment_enforcement_date": "2026-07-06",
+   "amendment_law_id": "508M60000200001",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20260526_508M60000200042",
+   "amendment_promulgate_date": "2026-05-26",
+   "amendment_enforcement_date": "2026-05-26",
+   "amendment_law_id": "508M60000200042",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20260330_508M60000200022",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2026-03-30",
+   "amendment_law_id": "508M60000200022",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20260106_508M60000200001",
+   "amendment_promulgate_date": "2026-01-06",
+   "amendment_enforcement_date": "2026-01-06",
+   "amendment_law_id": "508M60000200001",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20251201_507M60000200051",
+   "amendment_promulgate_date": "2025-12-01",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507M60000200051",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20250825_507M60000200038",
+   "amendment_promulgate_date": "2025-08-25",
+   "amendment_enforcement_date": "2025-08-25",
+   "amendment_law_id": "507M60000200038",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20250610_507M60000200027",
+   "amendment_promulgate_date": "2025-06-10",
+   "amendment_enforcement_date": "2025-06-10",
+   "amendment_law_id": "507M60000200027",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20250501_507M60000200023",
+   "amendment_promulgate_date": "2025-05-01",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507M60000200023",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20250306_507M60000200007",
+   "amendment_promulgate_date": "2025-03-06",
+   "amendment_enforcement_date": "2025-03-06",
+   "amendment_law_id": "507M60000200007",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20241225_506M60000200064",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506M60000200064",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20241101_506M60000200056",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000200056",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20241003_506M60000200052",
+   "amendment_promulgate_date": "2024-10-03",
+   "amendment_enforcement_date": "2024-10-03",
+   "amendment_law_id": "506M60000200052",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20240826_506M60000200044",
+   "amendment_promulgate_date": "2024-08-26",
+   "amendment_enforcement_date": "2024-08-26",
+   "amendment_law_id": "506M60000200044",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20240328_506M60000200014",
+   "amendment_promulgate_date": "2024-03-28",
+   "amendment_enforcement_date": "2024-03-28",
+   "amendment_law_id": "506M60000200014",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20240129_506M60000200003",
+   "amendment_promulgate_date": "2024-01-29",
+   "amendment_enforcement_date": "2024-01-29",
+   "amendment_law_id": "506M60000200003",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20231028_505M60000200030",
+   "amendment_promulgate_date": "2023-04-28",
+   "amendment_enforcement_date": "2023-10-28",
+   "amendment_law_id": "505M60000200030",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20230926_505M60000200047",
+   "amendment_promulgate_date": "2023-09-26",
+   "amendment_enforcement_date": "2023-09-26",
+   "amendment_law_id": "505M60000200047",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20230801_505M60000200006",
+   "amendment_promulgate_date": "2023-02-01",
+   "amendment_enforcement_date": "2023-08-01",
+   "amendment_law_id": "505M60000200006",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20230724_505M60000200040",
+   "amendment_promulgate_date": "2023-07-24",
+   "amendment_enforcement_date": "2023-07-24",
+   "amendment_law_id": "505M60000200040",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20230428_505M60000200030",
+   "amendment_promulgate_date": "2023-04-28",
+   "amendment_enforcement_date": "2023-04-28",
+   "amendment_law_id": "505M60000200030",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20230404_505M60000200028",
+   "amendment_promulgate_date": "2023-04-04",
+   "amendment_enforcement_date": "2023-04-04",
+   "amendment_law_id": "505M60000200028",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20230201_505M60000200006",
+   "amendment_promulgate_date": "2023-02-01",
+   "amendment_enforcement_date": "2023-02-01",
+   "amendment_law_id": "505M60000200006",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20221206_504M60000200071",
+   "amendment_promulgate_date": "2022-12-06",
+   "amendment_enforcement_date": "2022-12-06",
+   "amendment_law_id": "504M60000200071",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20221017_504M60000200059",
+   "amendment_promulgate_date": "2022-10-17",
+   "amendment_enforcement_date": "2022-10-17",
+   "amendment_law_id": "504M60000200059",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20220121_504M60000200004",
+   "amendment_promulgate_date": "2022-01-21",
+   "amendment_enforcement_date": "2022-01-21",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000200004",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20210415_503M60000200030",
+   "amendment_promulgate_date": "2021-04-15",
+   "amendment_enforcement_date": "2021-04-15",
+   "amendment_law_id": "503M60000200030",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20210415_502M60000200071",
+   "amendment_promulgate_date": "2020-10-15",
+   "amendment_enforcement_date": "2021-04-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000200071",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20210401_502M60000200056",
+   "amendment_promulgate_date": "2020-08-26",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000200056",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20210309_503M60000200008",
+   "amendment_promulgate_date": "2021-03-09",
+   "amendment_enforcement_date": "2021-03-09",
+   "amendment_law_id": "503M60000200008",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20201201_502M60000200040",
+   "amendment_promulgate_date": "2020-06-01",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000200040",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20201022_502M60000200074",
+   "amendment_promulgate_date": "2020-10-22",
+   "amendment_enforcement_date": "2020-10-22",
+   "amendment_law_id": "502M60000200074",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20201015_502M60000200071",
+   "amendment_promulgate_date": "2020-10-15",
+   "amendment_enforcement_date": "2020-10-15",
+   "amendment_law_id": "502M60000200071",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20200529_502M60000200039",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2020-05-29",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000200039",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20200528_502M60000200038",
+   "amendment_promulgate_date": "2020-05-28",
+   "amendment_enforcement_date": "2020-05-28",
+   "amendment_law_id": "502M60000200038",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20200130_502M60000200004",
+   "amendment_promulgate_date": "2020-01-30",
+   "amendment_enforcement_date": "2020-01-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000200004",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20191227_501M60000200036",
+   "amendment_promulgate_date": "2019-10-08",
+   "amendment_enforcement_date": "2019-12-27",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200036",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20191117_501M60000200002",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2019-11-17",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200002",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20191008_501M60000200036",
+   "amendment_promulgate_date": "2019-10-08",
+   "amendment_enforcement_date": "2019-10-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200036",
+   "amendment_law_title": "飼料及び飼料添加物の成分規格等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "351M50010000035_20190701_501M60000200010",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200010",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "飼料の安全性の確保及び品質の改善に関する法律（以下「法」という。）第三条第一項に規定する飼料の成分規格並びに製造等の方法及び表示の基準については、別表第一に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1976-07-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-06T00:01:24+09:00"
+ }
+}

@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000264",
+  "law_num": "平成十二年政令第二百六十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "264",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000264_20260807_508CO0000000246",
+  "law_type": "CabinetOrder",
+  "law_title": "自動車損害賠償責任保険審議会令",
+  "law_title_kana": "じどうしゃそんがいばいしょうせきにんほけんしんぎかいれい",
+  "abbrev": "自賠責保険審議会令",
+  "category": "陸運",
+  "updated": "2026-08-19T11:50:44+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000246",
+  "amendment_law_title": "金融庁組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000264_20260807_508CO0000000246",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508CO0000000246",
+   "amendment_law_title": "金融庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000264_20010106_000000000000000",
+   "amendment_promulgate_date": "2000-06-07",
+   "amendment_enforcement_date": "2001-01-06",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（組織）",
+  "title": "第一条",
+  "paragraphs": [
+   "自動車損害賠償責任保険審議会（以下「審議会」という。）は、委員十三人をもって組織する。",
+   "審議会に、特別の事項を調査審議させるため必要があるときは、特別委員を置くことができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T11:50:44+09:00"
+ }
+}

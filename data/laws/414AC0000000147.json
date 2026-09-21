@@ -1,0 +1,259 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "414AC0000000147",
+  "law_num": "平成十四年法律第百四十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "Act",
+  "law_num_num": "147",
+  "promulgation_date": "2002-12-11"
+ },
+ "revision_info": {
+  "law_revision_id": "414AC0000000147_20260731_508AC0000000029",
+  "law_type": "Act",
+  "law_title": "独立行政法人中小企業基盤整備機構法",
+  "law_title_kana": "どくりつぎょうせいほうじんちゅうしょうきぎょうきばんせいびきこうほう",
+  "abbrev": "中小機構法",
+  "category": "行政組織",
+  "updated": "2026-07-31T16:47:21+09:00",
+  "amendment_promulgate_date": "2026-06-05",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000029",
+  "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414AC0000000147_20261204_508AC0000000029",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-12-04",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-12-04",
+   "amendment_law_id": "508AC0000000029",
+   "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20260731_508AC0000000029",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508AC0000000029",
+   "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20260101_507AC0000000041",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507AC0000000041",
+   "amendment_law_title": "下請代金支払遅延等防止法及び下請中小企業振興法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20240902_506AC0000000045",
+   "amendment_promulgate_date": "2024-06-07",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506AC0000000045",
+   "amendment_law_title": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20210802_503AC0000000070",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503AC0000000070",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律",
+   "amendment_law_num": "令和三年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20210617_503AC0000000070",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-17",
+   "amendment_law_id": "503AC0000000070",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律",
+   "amendment_law_num": "令和三年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20210616_503AC0000000070",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503AC0000000070",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律",
+   "amendment_law_num": "令和三年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20210401_502AC0000000046",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000046",
+   "amendment_law_title": "復興庁設置法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20201001_502AC0000000058",
+   "amendment_promulgate_date": "2020-06-19",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502AC0000000058",
+   "amendment_law_title": "中小企業の事業承継の促進のための中小企業における経営の承継の円滑化に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20190716_501AC0000000021",
+   "amendment_promulgate_date": "2019-06-05",
+   "amendment_enforcement_date": "2019-07-16",
+   "amendment_law_id": "501AC0000000021",
+   "amendment_law_title": "中小企業の事業活動の継続に資するための中小企業等経営強化法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20190605_501AC0000000021",
+   "amendment_promulgate_date": "2019-06-05",
+   "amendment_enforcement_date": "2019-06-05",
+   "amendment_law_id": "501AC0000000021",
+   "amendment_law_title": "中小企業の事業活動の継続に資するための中小企業等経営強化法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20180925_430AC0000000026",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430AC0000000026",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20180709_430AC0000000026",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-07-09",
+   "amendment_law_id": "430AC0000000026",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20180606_430AC0000000025",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-06-06",
+   "amendment_law_id": "430AC0000000025",
+   "amendment_law_title": "生産性向上特別措置法",
+   "amendment_law_num": "平成三十年法律第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20180523_430AC0000000026",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-05-23",
+   "amendment_law_id": "430AC0000000026",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20170801_429AC0000000035",
+   "amendment_promulgate_date": "2017-05-19",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000035",
+   "amendment_law_title": "農業競争力強化支援法",
+   "amendment_law_num": "平成二十九年法律第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20170731_429AC0000000047",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-07-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000047",
+   "amendment_law_title": "企業立地の促進等による地域における産業集積の形成及び活性化に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414AC0000000147_20160701_428AC0000000058",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2016-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000058",
+   "amendment_law_title": "中小企業の新たな事業活動の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　役員及び職員",
+  "第三章　業務等",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、独立行政法人中小企業基盤整備機構の名称、目的、業務の範囲等に関する事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-12-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-31T16:47:21+09:00"
+ }
+}

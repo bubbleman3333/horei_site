@@ -1,0 +1,90 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60000400075",
+  "law_num": "令和六年経済産業省令第七十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "075",
+  "promulgation_date": "2024-11-07"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60000400075_20260522_508M60000400051",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "貯留権等の登録に関する政令施行規則",
+  "law_title_kana": "ちょりゅうけんとうのとうろくにかんするせいれいしこうきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-06-01T16:37:48+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400051",
+  "amendment_law_title": "二酸化炭素の貯留事業に関する法律第二条第八項に規定する試掘権の登録に関する政令施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60000400075_20260522_508M60000400051",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "508M60000400051",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律第二条第八項に規定する試掘権の登録に関する政令施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60000400075_20260310_508M60000400005",
+   "amendment_promulgate_date": "2026-03-04",
+   "amendment_enforcement_date": "2026-03-10",
+   "amendment_law_id": "508M60000400005",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律第二条第八項に規定する試掘権の登録に関する政令施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506M60000400075_20251001_507M60000400064",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000400064",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律第二条第八項に規定する試掘権の登録に関する政令施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506M60000400075_20241118_000000000000000",
+   "amendment_promulgate_date": "2024-11-07",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　登録記録等",
+  "第三章　登録手続",
+  "第四章　登録事項の証明等"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-11-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T16:37:48+09:00"
+ }
+}

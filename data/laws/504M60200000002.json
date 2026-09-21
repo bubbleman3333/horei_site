@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "504M60200000002",
+  "law_num": "令和四年公正取引委員会規則第二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "Rule",
+  "law_num_num": "002",
+  "promulgation_date": "2022-08-12"
+ },
+ "revision_info": {
+  "law_revision_id": "504M60200000002_20260521_508M60200000002",
+  "law_type": "Rule",
+  "law_title": "私的独占の禁止及び公正取引の確保に関する法律第四十条の処分に関する規則",
+  "law_title_kana": "してきどくせんのきんしおよびこうせいとりひきのかくほにかんするほうりつだいよんじゅうじょうのしょぶんにかんするきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-27T10:55:18+09:00",
+  "amendment_promulgate_date": "2026-05-01",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60200000002",
+  "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年公正取引委員会規則第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504M60200000002_20260521_508M60200000002",
+   "amendment_promulgate_date": "2026-05-01",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60200000002",
+   "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年公正取引委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504M60200000002_20220812_000000000000000",
+   "amendment_promulgate_date": "2022-08-12",
+   "amendment_enforcement_date": "2022-08-12",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（期間の計算）",
+  "title": "第一条",
+  "paragraphs": [
+   "期間の計算については、民法（明治二十九年法律第八十九号）の期間に関する規定に従う。",
+   "期間の末日が行政機関の休日に関する法律（昭和六十三年法律第九十一号）第一条第一項各号に掲げる日に当たるときは、期間は、その翌日に満了する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-08-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T10:55:18+09:00"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000400102",
+  "law_num": "平成十三年経済産業省令第百二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "102",
+  "promulgation_date": "2001-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000400102_20260807_508M60000400068",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "独立行政法人工業所有権情報・研修館の業務運営、財務及び会計並びに人事管理に関する省令",
+  "law_title_kana": "どくりつぎょうせいほうじんこうぎょうしょゆうけんけんしゅうかんのぎょうむうんえいざいむおよびかいけいならびにじんじかんりにかんするしょうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-24T09:47:00+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400068",
+  "amendment_law_title": "独立行政法人経済産業研究所の業務運営、財務及び会計並びに人事管理に関する省令等の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000400102_20260807_508M60000400068",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000400068",
+   "amendment_law_title": "独立行政法人経済産業研究所の業務運営、財務及び会計並びに人事管理に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400102_20240902_506M60000400055",
+   "amendment_promulgate_date": "2024-09-02",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506M60000400055",
+   "amendment_law_title": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年経済産業省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400102_20190601_501M60000400007",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "501M60000400007",
+   "amendment_law_title": "独立行政法人工業所有権情報・研修館の業務運営、財務及び会計並びに人事管理に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和元年経済産業省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400102_20190401_431M60000400024",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000400024",
+   "amendment_law_title": "独立行政法人工業所有権情報・研修館の業務運営、財務及び会計並びに人事管理に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400102_20150401_427M60000400039",
+   "amendment_promulgate_date": "2015-04-01",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60000400039",
+   "amendment_law_num": "平成二十七年経済産業省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（独立行政法人通則法第八条第三項に規定する主務省令で定める重要な財産）",
+  "title": "第一条",
+  "paragraphs": [
+   "独立行政法人工業所有権情報・研修館（以下「情報・研修館」という。）に係る独立行政法人通則法（以下「通則法」という。）第八条第三項に規定する主務省令で定める重要な財産は、その保有する財産であって、その通則法第四十六条の二第一項又は第二項の認可に係る申請の日（各項ただし書の場合にあっては、当該財産の処分に関する計画を定めた通則法第三十条第一項の中期計画の認可に係る申請の日。以下この条において同じ。）における帳簿価額（現金及び預金にあっては、申請の日におけるその額）が五十万円以上のもの（その性質上通則法第四十六条の二の規定により処分することが不適当なものを除く。）その他経済産業大臣が定める財産とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-24T09:47:00+09:00"
+ }
+}

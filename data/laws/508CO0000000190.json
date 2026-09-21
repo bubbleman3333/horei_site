@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000190",
+  "law_num": "令和八年政令第百九十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "190",
+  "promulgation_date": "2026-06-03"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000190_20260603_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律の施行期日を定める政令",
+  "law_title_kana": "えんかつなじぎょうさいせいをはかるためのじぎょうしゃのきんゆうきかんとうにたいするさいむのちょうせいのてつづきとうにかんするほうりつのしこうきじつをさだめるせいれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-09-10T20:30:25+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-06-03",
+  "amendment_enforcement_comment": "",
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000190_20260603_000000000000000",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-06-03",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律の施行期日は、令和八年十二月十一日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-10T20:30:25+09:00"
+ }
+}

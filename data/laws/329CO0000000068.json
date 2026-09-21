@@ -1,0 +1,120 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "329CO0000000068",
+  "law_num": "昭和二十九年政令第六十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "068",
+  "promulgation_date": "1954-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "329CO0000000068_20251225_506CO0000000374",
+  "law_type": "CabinetOrder",
+  "law_title": "ガス事業法施行令",
+  "law_title_kana": "がすじぎょうほうしこうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2025-12-25T00:04:25+09:00",
+  "amendment_promulgate_date": "2024-12-13",
+  "amendment_enforcement_date": "2025-12-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506CO0000000374",
+  "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和六年政令第三百七十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329CO0000000068_20251225_506CO0000000374",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-12-25",
+   "amendment_law_id": "506CO0000000374",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000068_20231221_505CO0000000276",
+   "amendment_promulgate_date": "2023-09-06",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "505CO0000000276",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000068_20230116_505CO0000000002",
+   "amendment_promulgate_date": "2023-01-12",
+   "amendment_enforcement_date": "2023-01-16",
+   "amendment_law_id": "505CO0000000002",
+   "amendment_law_title": "ガス事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000068_20230112_505CO0000000002",
+   "amendment_promulgate_date": "2023-01-12",
+   "amendment_enforcement_date": "2023-01-12",
+   "amendment_law_id": "505CO0000000002",
+   "amendment_law_title": "ガス事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000068_20220401_504CO0000000037",
+   "amendment_promulgate_date": "2022-02-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000037",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000068_20220401_502CO0000000244",
+   "amendment_promulgate_date": "2020-08-13",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000244",
+   "amendment_law_title": "ガス事業法施行令及び電気事業法等の一部を改正する等の法律の施行に伴う経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000068_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定ガス発生設備）",
+  "title": "第一条",
+  "paragraphs": [
+   "ガス事業法（以下「法」という。）第二条第一項の政令で定める簡易なガス発生設備は、高圧ガス保安法（昭和二十六年法律第二百四号）又は液化石油ガスの保安の確保及び取引の適正化に関する法律（昭和四十二年法律第百四十九号）に規定する規格又は技術上の基準に適合する容器（液化天然ガス用保冷容器を除く。）並びに当該容器内において発生するガスの集合装置及び当該容器に附属する気化装置（当該容器内又は当該容器に附属する気化装置内において発生するガスの成分に変更を加える装置を有するものを除く。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-04-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-12-25T00:04:25+09:00"
+ }
+}

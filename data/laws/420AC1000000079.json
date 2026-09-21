@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "420AC1000000079",
+  "law_num": "平成二十年法律第七十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "Act",
+  "law_num_num": "079",
+  "promulgation_date": "2008-06-18"
+ },
+ "revision_info": {
+  "law_revision_id": "420AC1000000079_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律",
+  "law_title_kana": "せいしょうねんがあんぜんにあんしんしていんたーねっとをりようできるかんきょうのせいびとうにかんするほうりつ",
+  "abbrev": "青少年インターネット環境整備法",
+  "category": "電気通信",
+  "updated": "2026-07-01T12:05:36+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420AC1000000079_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420AC1000000079_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420AC1000000079_20260527_507AC0000000046",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "507AC0000000046",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC1000000079_20230401_504AC1000000077",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC1000000077",
+   "amendment_law_title": "こども基本法",
+   "amendment_law_num": "令和四年法律第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC1000000079_20180201_429AC1000000075",
+   "amendment_promulgate_date": "2017-06-23",
+   "amendment_enforcement_date": "2018-02-01",
+   "amendment_law_id": "429AC1000000075",
+   "amendment_law_title": "青少年が安全に安心してインターネットを利用できる環境の整備等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC1000000079_20100401_421AC0000000071",
+   "amendment_promulgate_date": "2009-07-08",
+   "amendment_enforcement_date": "2010-04-01",
+   "amendment_law_id": "421AC0000000071",
+   "amendment_law_title": "子ども・若者育成支援推進法",
+   "amendment_law_num": "平成二十一年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本計画",
+  "第三章　インターネットの適切な利用に関する教育及び啓発活動の推進等",
+  "第四章　青少年が青少年有害情報の閲覧をすることを防止するための措置",
+  "第五章　インターネットの適切な利用に関する活動を行う民間団体等",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、インターネットにおいて青少年有害情報が多く流通している状況にかんがみ、青少年のインターネットを適切に活用する能力の習得に必要な措置を講ずるとともに、青少年有害情報フィルタリングソフトウェアの性能の向上及び利用の普及その他の青少年がインターネットを利用して青少年有害情報を閲覧する機会をできるだけ少なくするための措置等を講ずることにより、青少年が安全に安心してインターネットを利用できるようにして、青少年の権利の擁護に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-06-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T12:05:36+09:00"
+ }
+}

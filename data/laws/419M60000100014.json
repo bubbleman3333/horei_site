@@ -1,0 +1,448 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60000100014",
+  "law_num": "平成十九年厚生労働省令第十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "2007-02-28"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60000100014_20260906_508M60000100135",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令",
+  "law_title_kana": "いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつだいにじょうだいじゅうごこうにきていするしていやくぶつおよびどうほうだいななじゅうろくじょうのよんにきていするいりょうとうのようとをさだめるしょうれい",
+  "abbrev": "薬事法第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令,医薬品医療機器等法第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令",
+  "category": "厚生",
+  "updated": "2026-09-09T09:33:11+09:00",
+  "amendment_promulgate_date": "2026-08-27",
+  "amendment_enforcement_date": "2026-09-06",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100135",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百三十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60000100014_20260906_508M60000100135",
+   "amendment_promulgate_date": "2026-08-27",
+   "amendment_enforcement_date": "2026-09-06",
+   "amendment_law_id": "508M60000100135",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20260828_508M60000100131",
+   "amendment_promulgate_date": "2026-08-18",
+   "amendment_enforcement_date": "2026-08-28",
+   "amendment_law_id": "508M60000100131",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20260627_508M60000100103",
+   "amendment_promulgate_date": "2026-06-17",
+   "amendment_enforcement_date": "2026-06-27",
+   "amendment_law_id": "508M60000100103",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20260601_508M60000100024",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000100024",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20260314_508M60000100020",
+   "amendment_promulgate_date": "2026-03-04",
+   "amendment_enforcement_date": "2026-03-14",
+   "amendment_law_id": "508M60000100020",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20260131_508M60000100005",
+   "amendment_promulgate_date": "2026-01-21",
+   "amendment_enforcement_date": "2026-01-31",
+   "amendment_law_id": "508M60000100005",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20251108_507M60000100105",
+   "amendment_promulgate_date": "2025-10-29",
+   "amendment_enforcement_date": "2025-11-08",
+   "amendment_law_id": "507M60000100105",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20251003_507M60000100089",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2025-10-03",
+   "amendment_law_id": "507M60000100089",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20250908_507M60000100085",
+   "amendment_promulgate_date": "2025-08-29",
+   "amendment_enforcement_date": "2025-09-08",
+   "amendment_law_id": "507M60000100085",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20250713_507M60000100073",
+   "amendment_promulgate_date": "2025-07-03",
+   "amendment_enforcement_date": "2025-07-13",
+   "amendment_law_id": "507M60000100073",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20250526_507M60000100060",
+   "amendment_promulgate_date": "2025-05-16",
+   "amendment_enforcement_date": "2025-05-26",
+   "amendment_law_id": "507M60000100060",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20250401_507M60000100010",
+   "amendment_promulgate_date": "2025-02-18",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100010",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20250315_507M60000100017",
+   "amendment_promulgate_date": "2025-03-05",
+   "amendment_enforcement_date": "2025-03-15",
+   "amendment_law_id": "507M60000100017",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20250301_506M60000100148",
+   "amendment_promulgate_date": "2024-10-31",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "506M60000100148",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の一部の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20250206_507M60000100005",
+   "amendment_promulgate_date": "2025-01-27",
+   "amendment_enforcement_date": "2025-02-06",
+   "amendment_law_id": "507M60000100005",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20241220_506M60000100158",
+   "amendment_promulgate_date": "2024-12-10",
+   "amendment_enforcement_date": "2024-12-20",
+   "amendment_law_id": "506M60000100158",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20241116_506M60000100151",
+   "amendment_promulgate_date": "2024-11-06",
+   "amendment_enforcement_date": "2024-11-16",
+   "amendment_law_id": "506M60000100151",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20240830_506M60000100113",
+   "amendment_promulgate_date": "2024-08-20",
+   "amendment_enforcement_date": "2024-08-30",
+   "amendment_law_id": "506M60000100113",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20240817_506M60000100110",
+   "amendment_promulgate_date": "2024-08-07",
+   "amendment_enforcement_date": "2024-08-17",
+   "amendment_law_id": "506M60000100110",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20240511_506M60000100081",
+   "amendment_promulgate_date": "2024-05-01",
+   "amendment_enforcement_date": "2024-05-11",
+   "amendment_law_id": "506M60000100081",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20240316_506M60000100036",
+   "amendment_promulgate_date": "2024-03-06",
+   "amendment_enforcement_date": "2024-03-16",
+   "amendment_law_id": "506M60000100036",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20240129_506M60000100011",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-01-29",
+   "amendment_law_id": "506M60000100011",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20240106_505M60000100166",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-01-06",
+   "amendment_law_id": "505M60000100166",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20231202_505M60000100143",
+   "amendment_promulgate_date": "2023-11-22",
+   "amendment_enforcement_date": "2023-12-02",
+   "amendment_law_id": "505M60000100143",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20231105_505M60000100134",
+   "amendment_promulgate_date": "2023-10-26",
+   "amendment_enforcement_date": "2023-11-05",
+   "amendment_law_id": "505M60000100134",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20230929_505M60000100113",
+   "amendment_promulgate_date": "2023-09-19",
+   "amendment_enforcement_date": "2023-09-29",
+   "amendment_law_id": "505M60000100113",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20230910_505M60000100109",
+   "amendment_promulgate_date": "2023-08-31",
+   "amendment_enforcement_date": "2023-09-10",
+   "amendment_law_id": "505M60000100109",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20230804_505M60000100098",
+   "amendment_promulgate_date": "2023-07-25",
+   "amendment_enforcement_date": "2023-08-04",
+   "amendment_law_id": "505M60000100098",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20230701_505M60000100086",
+   "amendment_promulgate_date": "2023-06-21",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60000100086",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20230320_505M60000100021",
+   "amendment_promulgate_date": "2023-03-10",
+   "amendment_enforcement_date": "2023-03-20",
+   "amendment_law_id": "505M60000100021",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20221226_504M60000100168",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2022-12-26",
+   "amendment_law_id": "504M60000100168",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20220909_504M60000100120",
+   "amendment_promulgate_date": "2022-08-30",
+   "amendment_enforcement_date": "2022-09-09",
+   "amendment_law_id": "504M60000100120",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20220826_504M60000100106",
+   "amendment_promulgate_date": "2022-07-27",
+   "amendment_enforcement_date": "2022-08-26",
+   "amendment_law_id": "504M60000100106",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20220708_504M60000100098",
+   "amendment_promulgate_date": "2022-06-28",
+   "amendment_enforcement_date": "2022-07-08",
+   "amendment_law_id": "504M60000100098",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20220317_504M60000100034",
+   "amendment_promulgate_date": "2022-03-07",
+   "amendment_enforcement_date": "2022-03-17",
+   "amendment_law_id": "504M60000100034",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20220129_504M60000100009",
+   "amendment_promulgate_date": "2022-01-19",
+   "amendment_enforcement_date": "2022-01-29",
+   "amendment_law_id": "504M60000100009",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20211031_503M60000100174",
+   "amendment_promulgate_date": "2021-10-21",
+   "amendment_enforcement_date": "2021-10-31",
+   "amendment_law_id": "503M60000100174",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20211008_503M60000100152",
+   "amendment_promulgate_date": "2021-09-08",
+   "amendment_enforcement_date": "2021-10-08",
+   "amendment_law_id": "503M60000100152",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20210904_503M60000100142",
+   "amendment_promulgate_date": "2021-08-25",
+   "amendment_enforcement_date": "2021-09-04",
+   "amendment_law_id": "503M60000100142",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二条第十五項に規定する指定薬物及び同法第七十六条の四に規定する医療等の用途を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100014_20210801_503M60000100015",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100015",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定薬物）",
+  "title": "第一条",
+  "paragraphs": [
+   "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号。以下「法」という。）第二条第十五項の規定に基づき、次に掲げる物を指定薬物に指定する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-02-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-09T09:33:11+09:00"
+ }
+}

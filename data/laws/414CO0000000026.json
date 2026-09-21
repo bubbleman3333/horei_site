@@ -1,0 +1,137 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "414CO0000000026",
+  "law_num": "平成十四年政令第二十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "026",
+  "promulgation_date": "2002-02-06"
+ },
+ "revision_info": {
+  "law_revision_id": "414CO0000000026_20260401_508CO0000000083",
+  "law_type": "CabinetOrder",
+  "law_title": "自動車運転代行業の業務の適正化に関する法律施行令",
+  "law_title_kana": "じどうしゃうんてんだいこうぎょうのぎょうむのてきせいかにかんするほうりつしこうれい",
+  "abbrev": "運転代行業適正化法施行令,自動車運転代行業法施行令",
+  "category": "警察",
+  "updated": "2026-04-20T13:55:30+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000083",
+  "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第八十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414CO0000000026_20260401_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000026_20240401_505CO0000000315",
+   "amendment_promulgate_date": "2023-11-06",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000315",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の施行に伴う警察庁関係政令等の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000026_20230701_505CO0000000054",
+   "amendment_promulgate_date": "2023-03-17",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505CO0000000054",
+   "amendment_law_title": "道路交通法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000026_20230401_504CO0000000391",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000391",
+   "amendment_law_title": "道路交通法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000026_20221001_504CO0000000304",
+   "amendment_promulgate_date": "2022-09-14",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000304",
+   "amendment_law_title": "道路交通法施行令及び自動車運転代行業の業務の適正化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000026_20220401_503CO0000000335",
+   "amendment_promulgate_date": "2021-12-17",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000335",
+   "amendment_law_title": "警察庁組織令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000026_20191214_501CO0000000133",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501CO0000000133",
+   "amendment_law_title": "自動車運転代行業の業務の適正化に関する法律施行令及び遺失物法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000026_20191001_428CO0000000133",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "428CO0000000133",
+   "amendment_law_title": "地方税法施行令等の一部を改正する等の政令",
+   "amendment_law_num": "平成二十八年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000026_20150401_426CO0000000291",
+   "amendment_promulgate_date": "2014-09-03",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "426CO0000000291",
+   "amendment_law_num": "平成二十六年政令第二百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（申請書の添付書類）",
+  "title": "第一条",
+  "paragraphs": [
+   "自動車運転代行業の業務の適正化に関する法律（以下「法」という。）第五条第一項の政令で定める書類は、次の各号に掲げる区分に応じ、当該各号に定める書類とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-02-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T13:55:30+09:00"
+ }
+}

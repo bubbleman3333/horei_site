@@ -1,0 +1,119 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "428CO0000000032",
+  "law_num": "平成二十八年政令第三十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "032",
+  "promulgation_date": "2016-01-29"
+ },
+ "revision_info": {
+  "law_revision_id": "428CO0000000032_20250401_507CO0000000019",
+  "law_type": "CabinetOrder",
+  "law_title": "障害を理由とする差別の解消の推進に関する法律施行令",
+  "law_title_kana": "しょうがいをりゆうとするさべつのかいしょうのすいしんにかんするほうりつしこうれい",
+  "abbrev": "障害者差別解消法施行令",
+  "category": "社会福祉",
+  "updated": "2025-04-02T11:37:26+09:00",
+  "amendment_promulgate_date": "2025-01-29",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000019",
+  "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428CO0000000032_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000032_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000032_20240216_505CO0000000379",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-02-16",
+   "amendment_law_id": "505CO0000000379",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律施行令",
+   "amendment_law_num": "令和五年政令第三百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000032_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000032_20220617_504CO0000000218",
+   "amendment_promulgate_date": "2022-06-16",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504CO0000000218",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000032_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000032_20170401_429CO0000000004",
+   "amendment_promulgate_date": "2017-01-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000004",
+   "amendment_law_title": "貿易保険法及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第四号ニ及びホの政令で定める機関）",
+  "title": "第一条",
+  "paragraphs": [
+   "障害を理由とする差別の解消の推進に関する法律（以下「法」という。）第二条第四号ニの政令で定める特別の機関は、警察庁とする。",
+   "法第二条第四号ホの政令で定める特別の機関は、検察庁とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2016-01-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-04-02T11:37:26+09:00"
+ }
+}

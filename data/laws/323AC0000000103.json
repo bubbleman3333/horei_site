@@ -1,0 +1,347 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "323AC0000000103",
+  "law_num": "昭和二十三年法律第百三号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "Act",
+  "law_num_num": "103",
+  "promulgation_date": "1948-07-06"
+ },
+ "revision_info": {
+  "law_revision_id": "323AC0000000103_20260812_508AC0000000064",
+  "law_type": "Act",
+  "law_title": "公認会計士法",
+  "law_title_kana": "こうにんかいけいしほう",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-08-12T00:04:36+09:00",
+  "amendment_promulgate_date": "2026-07-23",
+  "amendment_enforcement_date": "2026-08-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000064",
+  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323AC0000000103_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20270528_505AC0000000080",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2027-05-28",
+   "amendment_enforcement_comment": "公布の日から起算して三年六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-28",
+   "amendment_law_id": "505AC0000000080",
+   "amendment_law_title": "情報通信技術の進展等の環境変化に対応するための社債、株式等の振替に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20270401_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20260812_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-08-12",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20250401_505AC0000000080",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000080",
+   "amendment_law_title": "情報通信技術の進展等の環境変化に対応するための社債、株式等の振替に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20241101_505AC0000000080",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "505AC0000000080",
+   "amendment_law_title": "情報通信技術の進展等の環境変化に対応するための社債、株式等の振替に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20231129_505AC0000000080",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2023-11-29",
+   "amendment_law_id": "505AC0000000080",
+   "amendment_law_title": "情報通信技術の進展等の環境変化に対応するための社債、株式等の振替に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20230401_504AC0000000041",
+   "amendment_promulgate_date": "2022-05-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000041",
+   "amendment_law_title": "公認会計士法及び金融商品取引法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20230401_504AC0000000004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20221101_502AC0000000033",
+   "amendment_promulgate_date": "2020-05-29",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "502AC0000000033",
+   "amendment_law_title": "外国弁護士による法律事務の取扱いに関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20221001_501AC0000000044",
+   "amendment_promulgate_date": "2019-06-26",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "501AC0000000044",
+   "amendment_law_title": "法科大学院の教育と司法試験等との連携等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20220518_504AC0000000041",
+   "amendment_promulgate_date": "2022-05-18",
+   "amendment_enforcement_date": "2022-05-18",
+   "amendment_law_id": "504AC0000000041",
+   "amendment_law_title": "公認会計士法及び金融商品取引法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20220401_504AC0000000004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20210901_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20191216_501AC0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501AC0000000016",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20191214_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20190401_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20190401_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323AC0000000103_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　公認会計士試験等",
+  "第三章　公認会計士の登録",
+  "第四章　公認会計士の義務",
+  "第五章　公認会計士の責任",
+  "第五章の二　監査法人",
+  "第五章の三　有限責任監査法人の登録に関する特則",
+  "第五章の四　上場会社等に係る財務書類の監査又は証明に関する特則",
+  "第五章の五　外国監査法人等",
+  "第五章の六　審判手続等",
+  "第六章　公認会計士・監査審査会",
+  "第六章の二　日本公認会計士協会",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（公認会計士の使命）",
+  "title": "第一条",
+  "paragraphs": [
+   "公認会計士は、監査及び会計の専門家として、独立した立場において、財務書類その他の財務に関する情報の信頼性を確保することにより、会社等の公正な事業活動、投資者及び債権者の保護等を図り、もつて国民経済の健全な発展に寄与することを使命とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-07-06",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-12T00:04:36+09:00"
+ }
+}

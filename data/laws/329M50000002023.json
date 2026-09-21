@@ -1,0 +1,455 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "329M50000002023",
+  "law_num": "昭和二十九年総理府令第二十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "1954-05-13"
+ },
+ "revision_info": {
+  "law_revision_id": "329M50000002023_20260721_508M60000008089",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方税法施行規則",
+  "law_title_kana": "ちほうぜいほうしこうきそく",
+  "abbrev": null,
+  "category": "地方財政",
+  "updated": "2026-08-12T13:41:19+09:00",
+  "amendment_promulgate_date": "2026-07-21",
+  "amendment_enforcement_date": "2026-07-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008089",
+  "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第八十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329M50000002023_20290401_508M60000008047",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2029-04-01",
+   "amendment_law_id": "508M60000008047",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20290101_508M60000008089",
+   "amendment_promulgate_date": "2026-07-21",
+   "amendment_enforcement_date": "2029-01-01",
+   "amendment_enforcement_comment": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（令和八年法律第六十四号）の施行の日の属する年の翌々年の一月一日",
+   "amendment_scheduled_enforcement_date": "2029-01-01",
+   "amendment_law_id": "508M60000008089",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20280401_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-04-01",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20280101_508M60000008089",
+   "amendment_promulgate_date": "2026-07-21",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508M60000008089",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20280101_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20270901_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-09-01",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20270501_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-05-01",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20270401_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20270101_508M60000008089",
+   "amendment_promulgate_date": "2026-07-21",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508M60000008089",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20270101_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20270101_507M60000008067",
+   "amendment_promulgate_date": "2025-07-22",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "507M60000008067",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20270101_505M60000008037",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "505M60000008037",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20261211_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20261126_508M60000008046",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-11-26",
+   "amendment_enforcement_comment": "都市再生特別措置法等の一部を改正する法律（令和八年法律第二十三号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_law_id": "508M60000008046",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20261119_508M60000008045",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-11-19",
+   "amendment_enforcement_comment": "物資の流通の効率化に関する法律の一部を改正する法律（令和八年法律第二十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-11-19",
+   "amendment_law_id": "508M60000008045",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20261001_508M60000008089",
+   "amendment_promulgate_date": "2026-07-21",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000008089",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20261001_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260721_508M60000008089",
+   "amendment_promulgate_date": "2026-07-21",
+   "amendment_enforcement_date": "2026-07-21",
+   "amendment_law_id": "508M60000008089",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260527_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260521_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260401_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260401_507M60000008102",
+   "amendment_promulgate_date": "2025-11-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000008102",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260401_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260401_506M60000008092",
+   "amendment_promulgate_date": "2024-10-04",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506M60000008092",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260401_506M60000008073",
+   "amendment_promulgate_date": "2024-07-22",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506M60000008073",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260401_506M60000008037",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506M60000008037",
+   "amendment_law_title": "地方税法施行規則及び航空機燃料譲与税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260101_507M60000008116",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000008116",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260101_507M60000008067",
+   "amendment_promulgate_date": "2025-07-22",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000008067",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20260101_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20251128_507M60000008102",
+   "amendment_promulgate_date": "2025-11-26",
+   "amendment_enforcement_date": "2025-11-28",
+   "amendment_law_id": "507M60000008102",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20251121_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-11-21",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20251001_507M60000008083",
+   "amendment_promulgate_date": "2025-08-22",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008083",
+   "amendment_law_title": "放送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20251001_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20250905_507M60000008091",
+   "amendment_promulgate_date": "2025-09-05",
+   "amendment_enforcement_date": "2025-09-05",
+   "amendment_law_id": "507M60000008091",
+   "amendment_law_title": "地方税法施行規則及び航空機燃料譲与税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20250804_507M60000008067",
+   "amendment_promulgate_date": "2025-07-22",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507M60000008067",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20250722_507M60000008067",
+   "amendment_promulgate_date": "2025-07-22",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507M60000008067",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20250722_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20250606_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-06-06",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20250401_507M60000008030",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000008030",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20250401_507M60000008008",
+   "amendment_promulgate_date": "2025-03-03",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000008008",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（道府県及び市町村に関する規定の都及び特別区への準用等）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則中道府県に関する規定は都に、市町村に関する規定（法人（地方税法（昭和二十五年法律第二百二十六号。以下「法」という。）第二百九十四条第八項において法人とみなされるものを含む。）に対して課する市町村民税並びに固定資産税、特別土地保有税、事業所税及び都市計画税に関する規定を除く。）は特別区に準用する。この場合において、「道府県」、「道府県民税」、「道府県たばこ税」又は「道府県知事」とあるのは、それぞれ「都」、「都民税」、「都たばこ税」又は「都知事」と、「市町村」、「市町村民税」、「市町村たばこ税」又は「市町村長」とあるのは、それぞれ「特別区」、「特別区民税」、「特別区たばこ税」又は「特別区長」と読み替えるものとする。",
+   "都の市町村に対するこの規則の適用については、「道府県知事」とあるのは「都知事」と読み替えるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-05-13",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-12T13:41:19+09:00"
+ }
+}

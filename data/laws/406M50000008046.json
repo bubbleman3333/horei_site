@@ -1,0 +1,112 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "406M50000008046",
+  "law_num": "平成六年自治省令第四十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "046",
+  "promulgation_date": "1994-11-28"
+ },
+ "revision_info": {
+  "law_revision_id": "406M50000008046_20260101_507M60000008080",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "政党交付金の交付を受ける政党等に対する法人格の付与に関する法律施行規則",
+  "law_title_kana": "せいとうこうふきんのこうふをうけるせいとうとうにたいするほうじんかくのふよにかんするほうりつせこうきそく",
+  "abbrev": "政党法人格付与法施行規則,政党法人化法施行規則",
+  "category": "国会",
+  "updated": "2026-01-01T03:53:13+09:00",
+  "amendment_promulgate_date": "2025-08-14",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000008080",
+  "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年総務省令第八十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406M50000008046_20260101_507M60000008080",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000008080",
+   "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406M50000008046_20210201_503M60000008005",
+   "amendment_promulgate_date": "2021-02-01",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "503M60000008005",
+   "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000008046_20190808_501M60000008032",
+   "amendment_promulgate_date": "2019-08-08",
+   "amendment_enforcement_date": "2019-08-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008032",
+   "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000008046_20190701_501M60000008019",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008019",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う総務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000008046_20190531_501M60000008009",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-05-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008009",
+   "amendment_law_title": "政治資金規正法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000008046_20150925_427M60000008079",
+   "amendment_promulgate_date": "2015-09-25",
+   "amendment_enforcement_date": "2015-09-25",
+   "amendment_law_id": "427M60000008079",
+   "amendment_law_num": "平成二十七年総務省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（中央選挙管理会の確認に係る届出等）",
+  "title": "第一条",
+  "paragraphs": [
+   "政党（政党交付金の交付を受ける政党等に対する法人格の付与に関する法律（平成六年法律第百六号。以下「法」という。）第三条に規定する政党をいう。）は、法第五条の確認を受けようとする場合には、郵便又は民間事業者による信書の送達に関する法律（平成十四年法律第九十九号）第二条第六項に規定する一般信書便事業者、同条第九項に規定する特定信書便事業者若しくは同法第三条第四号に規定する外国信書便事業者による同法第二条第二項に規定する信書便によることなく文書で届け出なければならない。",
+   "法第五条第一項の規定による届出に係る文書は、別記第一号様式によるものとする。",
+   "前項の届出に併せて提出する法第五条第二項第三号に規定する承諾書及び宣誓書は、別記第二号様式によるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-11-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T03:53:13+09:00"
+ }
+}

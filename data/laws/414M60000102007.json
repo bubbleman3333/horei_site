@@ -1,0 +1,111 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "414M60000102007",
+  "law_num": "平成十四年内閣府・厚生労働省令第七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "007",
+  "promulgation_date": "2002-12-27"
+ },
+ "revision_info": {
+  "law_revision_id": "414M60000102007_20260625_508M60000102009",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "労働金庫及び労働金庫連合会の組織再編成の促進のための特別措置に関する命令",
+  "law_title_kana": "ろうどうきんこおよびろうどうきんこれんごうかいのそしきさいへんせいのそくしんのためのとくべつそちにかんするめいれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-07-08T10:48:00+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000102009",
+  "amendment_law_title": "労働金庫及び労働金庫連合会の金融機能の強化のための特別措置に関する命令等の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・厚生労働省令第九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414M60000102007_20260625_508M60000102009",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508M60000102009",
+   "amendment_law_title": "労働金庫及び労働金庫連合会の金融機能の強化のための特別措置に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・厚生労働省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414M60000102007_20210630_503M60000102006",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000102006",
+   "amendment_law_title": "労働金庫法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・厚生労働省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000102007_20201223_502M60000102014",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000102014",
+   "amendment_law_title": "労働金庫法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・厚生労働省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000102007_20190701_501M60000102003",
+   "amendment_promulgate_date": "2019-06-24",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000102003",
+   "amendment_law_title": "労働金庫法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000102007_20190507_501M60000102001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000102001",
+   "amendment_law_title": "労働金庫及び労働金庫連合会の組織再編成の促進のための特別措置に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414M60000102007_20060501_418M60000102003",
+   "amendment_promulgate_date": "2006-04-28",
+   "amendment_enforcement_date": "2006-05-01",
+   "amendment_law_id": "418M60000102003",
+   "amendment_law_num": "平成十八年内閣府・厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令において「組織再編成」、「経営基盤強化計画」、「信用金庫等」又は「労働金庫等」とは、それぞれ金融機関等の組織再編成の促進に関する特別措置法（以下「法」という。）第二条第二項第一号、第三条、第十二条第一項又は第十三条第一項に規定する組織再編成、経営基盤強化計画、信用金庫等又は労働金庫等をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-12-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T10:48:00+09:00"
+ }
+}

@@ -1,0 +1,123 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "328AC0000000068",
+  "law_num": "昭和二十八年法律第六十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "Act",
+  "law_num_num": "068",
+  "promulgation_date": "1953-07-21"
+ },
+ "revision_info": {
+  "law_revision_id": "328AC0000000068_20260521_507AC0000000039",
+  "law_type": "Act",
+  "law_title": "逃亡犯罪人引渡法",
+  "law_title_kana": "とうぼうはんざいにんひきわたしほう",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-21T00:54:53+09:00",
+  "amendment_promulgate_date": "2025-05-23",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000039",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328AC0000000068_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000068_20260521_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000068_20250722_507AC0000000026",
+   "amendment_promulgate_date": "2025-04-23",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507AC0000000026",
+   "amendment_law_title": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
+   "amendment_law_num": "令和七年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000068_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000068_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000068_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328AC0000000068_20071001_419AC0000000037",
+   "amendment_promulgate_date": "2007-05-11",
+   "amendment_enforcement_date": "2007-10-01",
+   "amendment_law_id": "419AC0000000037",
+   "amendment_law_title": "国際刑事裁判所に対する協力等に関する法律",
+   "amendment_law_num": "平成十九年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律において「引渡条約」とは、日本国と外国との間に締結された犯罪人の引渡しに関する条約をいう。",
+   "この法律において「請求国」とは、日本国に対して犯罪人の引渡しを請求した外国をいう。",
+   "この法律において「引渡犯罪」とは、請求国からの犯罪人の引渡しの請求において当該犯罪人が犯したとする犯罪をいう。",
+   "この法律において「逃亡犯罪人」とは、引渡犯罪について請求国の刑事に関する手続が行なわれた者をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-07-21",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-21T00:54:53+09:00"
+ }
+}

@@ -1,0 +1,425 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "344M50000020008",
+  "law_num": "昭和四十四年外務省令第八号",
+  "law_num_era": "Showa",
+  "law_num_year": 44,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "008",
+  "promulgation_date": "1969-06-12"
+ },
+ "revision_info": {
+  "law_revision_id": "344M50000020008_20260401_508M60000020011",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "研修員手当の号の適用に関する規則",
+  "law_title_kana": "けんしゅういんてあてのごうのてきようにかんするきそく",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-05-14T09:49:48+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000020011",
+  "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+  "amendment_law_num": "令和八年外務省令第十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "344M50000020008_20260401_508M60000020011",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000020011",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年外務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20250409_507M60000020009",
+   "amendment_promulgate_date": "2025-04-09",
+   "amendment_enforcement_date": "2025-04-09",
+   "amendment_law_id": "507M60000020009",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和七年外務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20250401_507M60000020008",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000020008",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和七年外務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20241101_506M60000020017",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000020017",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和六年外務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20240401_506M60000020008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000020008",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和六年外務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20240101_505M60000020017",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000020017",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和五年外務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20231101_505M60000020013",
+   "amendment_promulgate_date": "2023-11-01",
+   "amendment_enforcement_date": "2023-11-01",
+   "amendment_law_id": "505M60000020013",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和五年外務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20230801_505M60000020012",
+   "amendment_promulgate_date": "2023-07-31",
+   "amendment_enforcement_date": "2023-08-01",
+   "amendment_law_id": "505M60000020012",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和五年外務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20230401_505M60000020009",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000020009",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和五年外務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20230120_505M60000020001",
+   "amendment_promulgate_date": "2023-01-20",
+   "amendment_enforcement_date": "2023-01-20",
+   "amendment_law_id": "505M60000020001",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和五年外務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20221221_504M60000020013",
+   "amendment_promulgate_date": "2022-12-21",
+   "amendment_enforcement_date": "2022-12-21",
+   "amendment_law_id": "504M60000020013",
+   "amendment_law_title": "研修員の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年外務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20221101_504M60000020011",
+   "amendment_promulgate_date": "2022-10-28",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000020011",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年外務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20220831_504M60000020008",
+   "amendment_promulgate_date": "2022-08-31",
+   "amendment_enforcement_date": "2022-08-31",
+   "amendment_law_id": "504M60000020008",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年外務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20220801_504M60000020007",
+   "amendment_promulgate_date": "2022-07-29",
+   "amendment_enforcement_date": "2022-08-01",
+   "amendment_law_id": "504M60000020007",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年外務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20220401_504M60000020004",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000020004",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年外務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20220101_503M60000020013",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000020013",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和三年外務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20211101_503M60000020011",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000020011",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和三年外務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20210801_503M60000020009",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000020009",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和三年外務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20210401_503M60000020007",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000020007",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和三年外務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20210305_503M60000020001",
+   "amendment_promulgate_date": "2021-03-05",
+   "amendment_enforcement_date": "2021-03-05",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000020001",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和三年外務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20210101_502M60000020013",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000020013",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年外務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20201101_502M60000020011",
+   "amendment_promulgate_date": "2020-10-30",
+   "amendment_enforcement_date": "2020-11-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000020011",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年外務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20200801_502M60000020009",
+   "amendment_promulgate_date": "2020-07-28",
+   "amendment_enforcement_date": "2020-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000020009",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年外務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20200401_502M60000020006",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000020006",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年外務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20200101_501M60000020011",
+   "amendment_promulgate_date": "2019-12-26",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000020011",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和元年外務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20191101_501M60000020006",
+   "amendment_promulgate_date": "2019-10-30",
+   "amendment_enforcement_date": "2019-11-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000020006",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和元年外務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20190801_501M60000020004",
+   "amendment_promulgate_date": "2019-07-31",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000020004",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和元年外務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20190401_431M60000020005",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000020005",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年外務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20190101_430M60000020014",
+   "amendment_promulgate_date": "2018-12-27",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000020014",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年外務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20181101_430M60000020010",
+   "amendment_promulgate_date": "2018-10-31",
+   "amendment_enforcement_date": "2018-11-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000020010",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年外務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20180801_430M60000020007",
+   "amendment_promulgate_date": "2018-07-31",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000020007",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年外務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20180401_430M60000020004",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000020004",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年外務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20180101_429M60000020012",
+   "amendment_promulgate_date": "2017-12-22",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000020012",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年外務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20171101_429M60000020010",
+   "amendment_promulgate_date": "2017-10-27",
+   "amendment_enforcement_date": "2017-11-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000020010",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年外務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20170801_429M60000020009",
+   "amendment_promulgate_date": "2017-07-31",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000020009",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年外務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000020008_20170401_429M60000020005",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000020005",
+   "amendment_law_num": "平成二十九年外務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（号の適用）",
+  "title": "第一条",
+  "paragraphs": [
+   "在外公館の名称及び位置並びに在外公館に勤務する外務公務員の給与に関する法律別表第三に定める研修員手当の号の適用は、外務職員の研修に関する省令（昭和二十七年外務省令第十八号）第四条第一項及び第二項の規定により外国において研修を命ぜられたものについては、別表に定めるところに従い、その者の属する在外公館に対応する号を適用する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1969-06-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-14T09:49:48+09:00"
+ }
+}

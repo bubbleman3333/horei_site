@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "359M50400000002",
+  "law_num": "昭和五十九年国家公安委員会規則第二号",
+  "law_num_era": "Showa",
+  "law_num_year": 59,
+  "law_num_type": "Rule",
+  "law_num_num": "002",
+  "promulgation_date": "1984-02-14"
+ },
+ "revision_info": {
+  "law_revision_id": "359M50400000002_20260401_508M60400000002",
+  "law_type": "Rule",
+  "law_title": "国家公安委員会の所管に属する公益信託の引受けの許可及び監督に関する規則",
+  "law_title_kana": "こっかこうあんいいんかいのしょかんにぞくするこうえきしんたくのひきうけのきょかおよびかんとくにかんするきそく",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-05-07T15:55:03+09:00",
+  "amendment_promulgate_date": "2026-03-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000002",
+  "amendment_law_title": "国家公安委員会の所管に属する公益信託の引受けの許可及び監督に関する規則を廃止する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第二号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-04-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "359M50400000002_20260401_508M60400000002",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60400000002",
+   "amendment_law_title": "国家公安委員会の所管に属する公益信託の引受けの許可及び監督に関する規則を廃止する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第二号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "359M50400000002_20201228_502M60400000013",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60400000013",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359M50400000002_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359M50400000002_20190524_501M60400000001",
+   "amendment_promulgate_date": "2019-05-24",
+   "amendment_enforcement_date": "2019-05-24",
+   "amendment_law_id": "501M60400000001",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359M50400000002_20070930_419M60400000020",
+   "amendment_promulgate_date": "2007-09-14",
+   "amendment_enforcement_date": "2007-09-30",
+   "amendment_law_id": "419M60400000020",
+   "amendment_law_num": "平成十九年国家公安委員会規則第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "内閣総理大臣の所管に属する公益信託の引受けの許可及び監督に関する内閣府令（以下「府令」という。）第一条第一項に規定する公益信託のうち国家公安委員会の所掌事務に関連する事項を目的とするもの（以下「警察関係公益信託」という。）の引受けの許可及び監督については、公益信託ニ関スル法律（大正十一年法律第六十二号。以下「法」という。）及び府令の規定によるほか、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1984-02-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-07T15:55:03+09:00"
+ }
+}

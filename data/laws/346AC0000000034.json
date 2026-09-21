@@ -1,0 +1,267 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "346AC0000000034",
+  "law_num": "昭和四十六年法律第三十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "Act",
+  "law_num_num": "034",
+  "promulgation_date": "1971-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "346AC0000000034_20260812_508AC0000000064",
+  "law_type": "Act",
+  "law_title": "預金保険法",
+  "law_title_kana": "よきんほけんほう",
+  "abbrev": "預保法",
+  "category": "金融・保険",
+  "updated": "2026-08-12T00:20:31+09:00",
+  "amendment_promulgate_date": "2026-07-23",
+  "amendment_enforcement_date": "2026-08-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000064",
+  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346AC0000000034_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20271205_507AC0000000057",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2027-12-05",
+   "amendment_enforcement_comment": "譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-12-05",
+   "amendment_law_id": "507AC0000000057",
+   "amendment_law_title": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20270722_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-07-22",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-07-22",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20260812_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-08-12",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20260625_508AC0000000015",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508AC0000000015",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20260507_508AC0000000015",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-07",
+   "amendment_law_id": "508AC0000000015",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20260401_506AC0000000030",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000030",
+   "amendment_law_title": "公益信託に関する法律",
+   "amendment_law_num": "令和六年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20250606_507AC0000000057",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-06-06",
+   "amendment_law_id": "507AC0000000057",
+   "amendment_law_title": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20230601_504AC0000000061",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "504AC0000000061",
+   "amendment_law_title": "安定的かつ効率的な資金決済制度の構築を図るための資金決済に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20220610_504AC0000000061",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2022-06-10",
+   "amendment_law_id": "504AC0000000061",
+   "amendment_law_title": "安定的かつ効率的な資金決済制度の構築を図るための資金決済に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20220401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20211122_503AC0000000046",
+   "amendment_promulgate_date": "2021-05-26",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503AC0000000046",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響による社会経済情勢の変化に対応して金融の機能の強化及び安定の確保を図るための銀行法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20200401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000034_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　預金保険機構",
+  "第三章　預金保険",
+  "第三章の二　資金決済に関する債権者の保護",
+  "第四章　預金等債権の買取り",
+  "第五章　金融整理管財人による管理",
+  "第六章　破綻した金融機関の業務承継",
+  "第六章の二　金融機関の特定回収困難債権の買取り",
+  "第七章　金融危機への対応",
+  "第七章の二　金融システムの安定を図るための金融機関等の資産及び負債の秩序ある処理に関する措置",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、預金者等の保護及び破綻金融機関に係る資金決済の確保を図るため、金融機関が預金等の払戻しを停止した場合に必要な保険金等の支払と預金等債権の買取りを行うほか、破綻金融機関に係る合併等に対する適切な資金援助、金融整理管財人による管理及び破綻金融機関の業務承継その他の金融機関の破綻の処理に関する措置、特定回収困難債権の買取りの措置、金融危機への対応の措置並びに金融機関等の資産及び負債の秩序ある処理に関する措置等の制度を確立し、もつて信用秩序の維持に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-12T00:20:31+09:00"
+ }
+}

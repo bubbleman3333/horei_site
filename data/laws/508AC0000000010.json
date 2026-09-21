@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "508AC0000000010",
+  "law_num": "令和八年法律第十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Act",
+  "law_num_num": "010",
+  "promulgation_date": "2026-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "508AC0000000010_20260331_000000000000000",
+  "law_type": "Act",
+  "law_title": "農業構造転換の推進に必要な施策の集中的な実施の財源に充てるための日本中央競馬会の国庫納付金の納付に関する臨時措置法",
+  "law_title_kana": "のうぎょうこうぞうてんかんのすいしんにひつようなしさくのしゅうちゅうてきなじっしのざいげんにあてるためのにっぽんちゅうおうけいばかいのこっこのうふきんののうふにかんするりんじそちほう",
+  "abbrev": null,
+  "category": "地方財政",
+  "updated": "2026-04-01T12:12:52+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-03-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508AC0000000010_20260331_000000000000000",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、令和八年度から令和十一年度までに限り集中的に行う、農地の区画の拡大、共同利用施設の再編整備、農業の生産性の向上のためのスマート農業技術の活用の促進に関する法律（令和六年法律第六十三号）第二条第一項に規定するスマート農業技術の開発及びこれを活用した生産方式の導入、農産物の輸出を行う産地の育成その他の農業構造転換の推進に必要な施策の実施に要する経費の財源に充てるため、令和八年度から令和十一年度までにおける日本中央競馬会の国庫納付金の納付の特例を定め、もって食料安全保障の確保に資するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T12:12:52+09:00"
+ }
+}

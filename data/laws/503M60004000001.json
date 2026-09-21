@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "503M60004000001",
+  "law_num": "令和三年デジタル庁令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 3,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2021-09-01"
+ },
+ "revision_info": {
+  "law_revision_id": "503M60004000001_20260901_508M60004000006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "デジタル庁組織規則",
+  "law_title_kana": "でじたるちょうそしききそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-09-14T09:59:05+09:00",
+  "amendment_promulgate_date": "2026-08-28",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60004000006",
+  "amendment_law_title": "デジタル庁組織規則の一部を改正する庁令",
+  "amendment_law_num": "令和八年デジタル庁令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "503M60004000001_20260901_508M60004000006",
+   "amendment_promulgate_date": "2026-08-28",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508M60004000006",
+   "amendment_law_title": "デジタル庁組織規則の一部を改正する庁令",
+   "amendment_law_num": "令和八年デジタル庁令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000001_20260408_508M60004000004",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60004000004",
+   "amendment_law_title": "デジタル庁組織規則の一部を改正する庁令",
+   "amendment_law_num": "令和八年デジタル庁令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000001_20250401_507M60004000004",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60004000004",
+   "amendment_law_title": "デジタル庁組織規則の一部を改正する庁令",
+   "amendment_law_num": "令和七年デジタル庁令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000001_20240401_506M60004000004",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60004000004",
+   "amendment_law_title": "デジタル庁組織規則の一部を改正する庁令",
+   "amendment_law_num": "令和六年デジタル庁令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000001_20230401_505M60004000001",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60004000001",
+   "amendment_law_title": "デジタル庁組織規則の一部を改正する庁令",
+   "amendment_law_num": "令和五年デジタル庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000001_20220401_504M60004000001",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60004000001",
+   "amendment_law_title": "デジタル庁組織規則の一部を改正する庁令",
+   "amendment_law_num": "令和四年デジタル庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60004000001_20210901_000000000000000",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（企画官）",
+  "title": "第一条",
+  "paragraphs": [
+   "デジタル庁に、企画官を置く。",
+   "企画官は、命を受けて、参事官の職務のうち特定事項の調査、企画及び立案を助ける。",
+   "企画官の定数は、併任の者を除き二十一人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2021-09-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-14T09:59:05+09:00"
+ }
+}

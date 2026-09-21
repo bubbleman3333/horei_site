@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "411M50001000024",
+  "law_num": "平成十一年郵政省令第二十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "024",
+  "promulgation_date": "1999-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "411M50001000024_20260527_508M60000008074",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "日本電信電話株式会社等に関する法律第二条第三項第一号の区域を定める省令",
+  "law_title_kana": "にほんでんしんでんわかぶしきがいしゃとうにかんするほうりつだいにじょうだいさんこうだいいちごうのくいきをさだめるしょうれい",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-06-05T16:32:22+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008074",
+  "amendment_law_title": "日本電信電話株式会社等に関する法律第二条第六項第一号及び第二号の区域を定める省令",
+  "amendment_law_num": "令和八年総務省令第七十四号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-05-27",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411M50001000024_20260527_508M60000008074",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508M60000008074",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律第二条第六項第一号及び第二号の区域を定める省令",
+   "amendment_law_num": "令和八年総務省令第七十四号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "411M50001000024_20090301_421M60000008004",
+   "amendment_promulgate_date": "2009-02-03",
+   "amendment_enforcement_date": "2009-03-01",
+   "amendment_law_id": "421M60000008004",
+   "amendment_law_num": "平成二十一年総務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号）第二条第三項第一号の総務省令で定める区域は、北海道、岩手県、福井県、鳥取県、徳島県、高知県及び沖縄県以外の都道府県の区域について、東日本電信電話株式会社にあっては別表第一、西日本電信電話株式会社にあっては別表第二に掲げる区域とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-05T16:32:22+09:00"
+ }
+}

@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "424CO0000000244",
+  "law_num": "平成二十四年政令第二百四十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "244",
+  "promulgation_date": "2012-09-20"
+ },
+ "revision_info": {
+  "law_revision_id": "424CO0000000244_20260513_508CO0000000144",
+  "law_type": "CabinetOrder",
+  "law_title": "障害者虐待の防止、障害者の養護者に対する支援等に関する法律施行令",
+  "law_title_kana": "しょうがいしゃぎゃくたいのぼうししょうがいしゃのようごしゃにたいするしえんとうにかんするほうりつしこうれい",
+  "abbrev": "障害者虐待防止法施行令",
+  "category": "社会福祉",
+  "updated": "2026-05-18T10:54:01+09:00",
+  "amendment_promulgate_date": "2026-04-22",
+  "amendment_enforcement_date": "2026-05-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000144",
+  "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424CO0000000244_20260513_508CO0000000144",
+   "amendment_promulgate_date": "2026-04-22",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_law_id": "508CO0000000144",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000244_20121001_000000000000000",
+   "amendment_promulgate_date": "2012-09-20",
+   "amendment_enforcement_date": "2012-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "障害者虐待の防止、障害者の養護者に対する支援等に関する法律（以下「法」という。）第二条第五項の政令で定める事業主は、障害者（同条第一項に規定する障害者をいう。）が船員職業安定法（昭和二十三年法律第百三十号）第六条第十四項に規定する派遣船員である場合において当該派遣船員に係る同条第十三項に規定する船員派遣の役務の提供を受ける事業主とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-09-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-18T10:54:01+09:00"
+ }
+}

@@ -1,0 +1,448 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "426M6000000A005",
+  "law_num": "平成二十六年内閣府・総務省令第五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "005",
+  "promulgation_date": "2014-09-10"
+ },
+ "revision_info": {
+  "law_revision_id": "426M6000000A005_20260614_507M60004008011",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令",
+  "law_title_kana": "ぎょうせいてつづきにおけるとくていのこじんをしきべつするためのばんごうのりようとうにかんするほうりつべっぴょうのしゅむしょうれいでさだめるじむをさだめるめいれい",
+  "abbrev": null,
+  "category": "行政手続",
+  "updated": "2026-07-13T09:55:52+09:00",
+  "amendment_promulgate_date": "2025-07-28",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60004008011",
+  "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和七年デジタル庁・総務省令第十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426M6000000A005_20270101_508M60004008019",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508M60004008019",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260626_508M60004008019",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2026-06-26",
+   "amendment_law_id": "508M60004008019",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260614_507M60004008011",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "507M60004008011",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・総務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260601_508M60004008017",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60004008017",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260601_507M60004008010",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "507M60004008010",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・総務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260408_508M60004008016",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60004008016",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260401_508M60004008015",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60004008015",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260401_508M60004008013",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60004008013",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260401_508M60004008012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60004008012",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260401_507M60004008009",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60004008009",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・総務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260301_508M60004008004",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-03-01",
+   "amendment_law_id": "508M60004008004",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260214_508M60004008003",
+   "amendment_promulgate_date": "2026-01-30",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "508M60004008003",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20260129_508M60004008001",
+   "amendment_promulgate_date": "2026-01-29",
+   "amendment_enforcement_date": "2026-01-29",
+   "amendment_law_id": "508M60004008001",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20251202_507M60004008016",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2025-12-02",
+   "amendment_law_id": "507M60004008016",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・総務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20251001_507M60004008014",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60004008014",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・総務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20250804_507M60004008013",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507M60004008013",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・総務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20250728_507M60004008008",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2025-07-28",
+   "amendment_law_id": "507M60004008008",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・総務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20250401_507M60004008003",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60004008003",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年デジタル庁・総務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20250401_506M60004008019",
+   "amendment_promulgate_date": "2024-09-20",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60004008019",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20241202_506M60004008022",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60004008022",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20241001_506M60004008019",
+   "amendment_promulgate_date": "2024-09-20",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60004008019",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240919_506M60004008016",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-09-19",
+   "amendment_law_id": "506M60004008016",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240830_506M60004008014",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-08-30",
+   "amendment_law_id": "506M60004008014",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240701_506M60004008013",
+   "amendment_promulgate_date": "2024-07-01",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60004008013",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則及び行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240527_506M60004008007",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60004008007",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240527_505M60004008011",
+   "amendment_promulgate_date": "2023-07-21",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "505M60004008011",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和五年デジタル庁・総務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240424_506M60004008004",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-24",
+   "amendment_law_id": "506M60004008004",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律別表第二の主務省令で定める事務及び情報を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240401_506M60004008003",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60004008003",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律別表第二の主務省令で定める事務及び情報を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240401_506M60004008001",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60004008001",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和六年デジタル庁・総務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240401_505M60004008010",
+   "amendment_promulgate_date": "2023-07-21",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60004008010",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和五年デジタル庁・総務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20240101_505M60004008018",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60004008018",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律別表第二の主務省令で定める事務及び情報を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和五年デジタル庁・総務省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20231129_505M60004008016",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2023-11-29",
+   "amendment_law_id": "505M60004008016",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律別表第二の主務省令で定める事務及び情報を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和五年デジタル庁・総務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20230721_505M60004008010",
+   "amendment_promulgate_date": "2023-07-21",
+   "amendment_enforcement_date": "2023-07-21",
+   "amendment_law_id": "505M60004008010",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和五年デジタル庁・総務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20230401_505M60004008005",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60004008005",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和五年デジタル庁・総務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20221209_504M60004008012",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504M60004008012",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律別表第二の主務省令で定める事務及び情報を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和四年デジタル庁・総務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20221202_504M60004008011",
+   "amendment_promulgate_date": "2022-12-02",
+   "amendment_enforcement_date": "2022-12-02",
+   "amendment_law_id": "504M60004008011",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律別表第二の主務省令で定める事務及び情報を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和四年デジタル庁・総務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20221001_504M60004008010",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60004008010",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和四年デジタル庁・総務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20220722_504M60004008007",
+   "amendment_promulgate_date": "2022-07-22",
+   "amendment_enforcement_date": "2022-07-22",
+   "amendment_law_id": "504M60004008007",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和四年デジタル庁・総務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20220601_504M60004008004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504M60004008004",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和四年デジタル庁・総務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M6000000A005_20220401_504M60004008004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60004008004",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表第一の主務省令で定める事務を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和四年デジタル庁・総務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "行政手続における特定の個人を識別するための番号の利用等に関する法律（以下「法」という。）別表一の項の主務省令で定める事務は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-09-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-13T09:55:52+09:00"
+ }
+}

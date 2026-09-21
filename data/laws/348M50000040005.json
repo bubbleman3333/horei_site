@@ -1,0 +1,455 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "348M50000040005",
+  "law_num": "昭和四十八年大蔵省令第五号",
+  "law_num_era": "Showa",
+  "law_num_year": 48,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "005",
+  "promulgation_date": "1973-01-30"
+ },
+ "revision_info": {
+  "law_revision_id": "348M50000040005_20260625_508M60000002057",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "企業内容等の開示に関する内閣府令",
+  "law_title_kana": "きぎょうないようとうのかいじにかんするないかくふれい",
+  "abbrev": "開示府令",
+  "category": "金融・保険",
+  "updated": "2026-07-08T10:47:15+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002057",
+  "amendment_law_title": "金融機能の強化のための特別措置に関する内閣府令等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "348M50000040005_20260625_508M60000002057",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508M60000002057",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20260501_507M60000002069",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507M60000002069",
+   "amendment_law_title": "発行者以外の者による株券等の公開買付けの開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20260401_508M60000002035",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000002035",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20260220_508M60000002005",
+   "amendment_promulgate_date": "2026-02-20",
+   "amendment_enforcement_date": "2026-02-20",
+   "amendment_law_id": "508M60000002005",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令及び特定有価証券の内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20250501_507M60000002023",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507M60000002023",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20250401_507M60000002013",
+   "amendment_promulgate_date": "2025-02-21",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002013",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令及び金融商品取引業等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20250401_507M60000002008",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002008",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20250225_507M60000002013",
+   "amendment_promulgate_date": "2025-02-21",
+   "amendment_enforcement_date": "2025-02-25",
+   "amendment_law_id": "507M60000002013",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令及び金融商品取引業等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20250131_507M60000002006",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-01-31",
+   "amendment_law_id": "507M60000002006",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20240801_506M60000002053",
+   "amendment_promulgate_date": "2024-04-16",
+   "amendment_enforcement_date": "2024-08-01",
+   "amendment_law_id": "506M60000002053",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令及び企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20240401_506M60000002029",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002029",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20240401_506M60000002016",
+   "amendment_promulgate_date": "2024-03-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002016",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20240401_505M60000002081",
+   "amendment_promulgate_date": "2023-12-22",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000002081",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令及び特定有価証券の内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20240401_505M60000002057",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000002057",
+   "amendment_law_title": "財務計算に関する書類その他の情報の適正性を確保するための体制に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20231227_505M60000002087",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000002087",
+   "amendment_law_title": "内閣府の所管する金融関連法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20231001_505M60000002066",
+   "amendment_promulgate_date": "2023-09-15",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000002066",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20230601_505M60000002050",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000002050",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20230401_505M60000002011",
+   "amendment_promulgate_date": "2023-01-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000002011",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令及び特定有価証券の内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20230131_505M60000002011",
+   "amendment_promulgate_date": "2023-01-31",
+   "amendment_enforcement_date": "2023-01-31",
+   "amendment_law_id": "505M60000002011",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令及び特定有価証券の内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20220901_504M60000002048",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504M60000002048",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20220129_504M60000002006",
+   "amendment_promulgate_date": "2022-01-28",
+   "amendment_enforcement_date": "2022-01-29",
+   "amendment_law_id": "504M60000002006",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20211122_503M60000002069",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503M60000002069",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20210625_503M60000002043",
+   "amendment_promulgate_date": "2021-06-25",
+   "amendment_enforcement_date": "2021-06-25",
+   "amendment_law_id": "503M60000002043",
+   "amendment_law_title": "財務諸表等の監査証明に関する内閣府令及び企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20210301_503M60000002005",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503M60000002005",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20210215_503M60000002006",
+   "amendment_promulgate_date": "2021-02-15",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503M60000002006",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20201223_502M60000002075",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000002075",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20200501_502M60000002035",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502M60000002035",
+   "amendment_law_title": "仮想通貨交換業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20200417_502M60000002037",
+   "amendment_promulgate_date": "2020-04-17",
+   "amendment_enforcement_date": "2020-04-17",
+   "amendment_law_id": "502M60000002037",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20200323_502M60000002013",
+   "amendment_promulgate_date": "2020-03-23",
+   "amendment_enforcement_date": "2020-03-23",
+   "amendment_law_id": "502M60000002013",
+   "amendment_law_title": "財務計算に関する書類その他の情報の適正性を確保するための体制に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20200306_502M60000002010",
+   "amendment_promulgate_date": "2020-03-06",
+   "amendment_enforcement_date": "2020-03-06",
+   "amendment_law_id": "502M60000002010",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20191227_501M60000002053",
+   "amendment_promulgate_date": "2019-12-27",
+   "amendment_enforcement_date": "2019-12-27",
+   "amendment_law_id": "501M60000002053",
+   "amendment_law_title": "財務諸表等の監査証明に関する内閣府令及び企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20190701_501M60000002014",
+   "amendment_promulgate_date": "2019-06-24",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000002014",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20190701_501M60000002013",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000002013",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20190621_501M60000002013",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-06-21",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002013",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20190507_501M60000002002",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002002",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20190131_431M60000002003",
+   "amendment_promulgate_date": "2019-01-31",
+   "amendment_enforcement_date": "2019-01-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000002003",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十一年内閣府令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20181130_430M60000002054",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-11-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002054",
+   "amendment_law_title": "財務諸表等の監査証明に関する内閣府令及び企業内容等の開示に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20180401_429M60000002055",
+   "amendment_promulgate_date": "2017-12-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000002055",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "平成二十九年内閣府令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20180126_430M60000002003",
+   "amendment_promulgate_date": "2018-01-26",
+   "amendment_enforcement_date": "2018-01-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002003",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348M50000040005_20170714_429M60000002040",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-07-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000002040",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令及び有価証券の取引等の規制に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "平成二十九年内閣府令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1973-01-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T10:47:15+09:00"
+ }
+}

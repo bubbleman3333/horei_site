@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "419CO0000000199",
+  "law_num": "平成十九年政令第百九十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "199",
+  "promulgation_date": "2007-07-04"
+ },
+ "revision_info": {
+  "law_revision_id": "419CO0000000199_20260525_507CO0000000244",
+  "law_type": "CabinetOrder",
+  "law_title": "信託法施行令",
+  "law_title_kana": "しんたくほうせこうれい",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-05-25T02:03:37+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000244",
+  "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第二百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419CO0000000199_20260525_507CO0000000244",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507CO0000000244",
+   "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000199_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000199_20140520_426CO0000000166",
+   "amendment_promulgate_date": "2014-04-23",
+   "amendment_enforcement_date": "2014-05-20",
+   "amendment_law_id": "426CO0000000166",
+   "amendment_law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律施行令",
+   "amendment_law_num": "平成二十六年政令第百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（電磁的方法による通知の承諾等）",
+  "title": "第一条",
+  "paragraphs": [
+   "信託法第百九条第二項の規定により電磁的方法（同法第百八条第三号に規定する電磁的方法をいう。以下同じ。）により通知を発しようとする者（次項において「通知発出者」という。）は、法務省令で定めるところにより、あらかじめ、当該通知の相手方に対し、その用いる電磁的方法の種類及び内容を示し、書面又は電磁的方法による承諾を得なければならない。",
+   "前項の規定による承諾を得た通知発出者は、同項の相手方から書面又は電磁的方法により電磁的方法による通知を受けない旨の申出があったときは、当該相手方に対し、当該通知を電磁的方法によって発してはならない。ただし、当該相手方が再び同項の規定による承諾をした場合は、この限りでない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-07-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T02:03:37+09:00"
+ }
+}

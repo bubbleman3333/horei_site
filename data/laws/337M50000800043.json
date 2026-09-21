@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "337M50000800043",
+  "law_num": "昭和三十七年運輸省令第四十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "043",
+  "promulgation_date": "1962-08-13"
+ },
+ "revision_info": {
+  "law_revision_id": "337M50000800043_20260401_508M60000800019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "船舶に乗り組む医師及び衛生管理者に関する省令",
+  "law_title_kana": "せんぱくにのりくむいしおよびえいせいかんりしゃにかんするしょうれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-05-08T15:57:15+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800019",
+  "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M50000800043_20260401_508M60000800019",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800019",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800043_20250401_507M60000800037",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000800037",
+   "amendment_law_title": "船舶に乗り組む医師及び衛生管理者に関する省令及び船内における食料の支給を行う者に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800043_20220401_504M60000800002",
+   "amendment_promulgate_date": "2022-01-07",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800002",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800043_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800043_20191216_501M60000800047",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000800047",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800043_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800043_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800043_20170615_429M60000800037",
+   "amendment_promulgate_date": "2017-06-15",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_law_id": "429M60000800037",
+   "amendment_law_num": "平成二十九年国土交通省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000800043_20120101_423M60000800093",
+   "amendment_promulgate_date": "2011-12-02",
+   "amendment_enforcement_date": "2012-01-01",
+   "amendment_law_id": "423M60000800093",
+   "amendment_law_num": "平成二十三年国土交通省令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（医師の乗組み）",
+  "title": "第一条",
+  "paragraphs": [
+   "船員法（以下「法」という。）第八十二条第二号の国土交通省令の定める船舶は、海上運送法（昭和二十四年法律第百八十七号）に規定する定期航路事業に従事する船舶その他一定の航路に常時就航する船舶（当該船舶に関し国土交通大臣の定めるところにより疾病予防並びに疾病及び傷害の治療のため有効な特別の措置を講じ、かつ、衛生管理者適任証書を受有する者二名を衛生管理者として選任したものを除く。）とする。",
+   "前項の衛生管理者のうち一名は、次に掲げる要件のいずれかに該当するものでなければならない。",
+   "法第八十二条第三号の国土交通省令の定める母船式漁業に従事する漁船は、最大とう載人員百人以上又は総トン数三千トン以上の母船とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-08-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-08T15:57:15+09:00"
+ }
+}

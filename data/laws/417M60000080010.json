@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000080010",
+  "law_num": "平成十七年文部科学省令第十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "010",
+  "promulgation_date": "2005-03-28"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000080010_20260527_508M60000080024",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "重要文化的景観に係る選定及び届出等に関する規則",
+  "law_title_kana": "じゅうようぶんかてきけいかんにかかるせんていおよびとどけでとうにかんするきそく",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2026-06-11T10:42:31+09:00",
+  "amendment_promulgate_date": "2026-05-26",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080024",
+  "amendment_law_title": "重要文化的景観に係る選定及び届出等に関する規則の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省令第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000080010_20260527_508M60000080024",
+   "amendment_promulgate_date": "2026-05-26",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508M60000080024",
+   "amendment_law_title": "重要文化的景観に係る選定及び届出等に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000080010_20230401_505M60000080020",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000080020",
+   "amendment_law_title": "重要文化的景観に係る選定及び届出等に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000080010_20190401_431M60000080007",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000080007",
+   "amendment_law_title": "国宝、重要文化財又は重要有形民俗文化財の管理に関する届出書等に関する規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000080010_20110630_423M60000080024",
+   "amendment_promulgate_date": "2011-06-29",
+   "amendment_enforcement_date": "2011-06-30",
+   "amendment_law_id": "423M60000080024",
+   "amendment_law_num": "平成二十三年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第百三十四条第一項の文部科学省令で定める基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "文化財保護法（以下「法」という。）第百三十四条第一項の文部科学省令で定める基準は、次のとおりとする。",
+   "文化的景観保存活用計画には、次に掲げる事項を記載するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-03-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-11T10:42:31+09:00"
+ }
+}

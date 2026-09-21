@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000440001",
+  "law_num": "令和五年財務省・経済産業省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2023-05-26"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000440001_20260601_508M60000440001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "外国為替取引等取扱業者遵守基準を定める省令",
+  "law_title_kana": "がいこくかわせとりひきとうとりあつかいぎょうしゃじゅんしゅきじゅんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "外国為替・貿易",
+  "updated": "2026-06-08T10:23:59+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000440001",
+  "amendment_law_title": "外国為替取引等取扱業者遵守基準を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省・経済産業省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000440001_20260601_508M60000440001",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000440001",
+   "amendment_law_title": "外国為替取引等取扱業者遵守基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000440001_20240401_000000000000000",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（外国為替取引等取扱業者遵守基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "外国為替取引等取扱業者（外国為替及び外国貿易法（以下「法」という。）第五十五条の九の二第一項に規定する外国為替取引等取扱業者をいう。以下同じ。）が遵守すべき基準は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-05-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-08T10:23:59+09:00"
+ }
+}

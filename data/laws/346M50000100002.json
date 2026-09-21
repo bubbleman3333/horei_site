@@ -1,0 +1,175 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "346M50000100002",
+  "law_num": "昭和四十六年厚生省令第二号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "1971-01-21"
+ },
+ "revision_info": {
+  "law_revision_id": "346M50000100002_20260401_507M60000100124",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "建築物における衛生的環境の確保に関する法律施行規則",
+  "law_title_kana": "けんちくぶつにおけるえいせいてきかんきょうのかくほにかんするほうりつしこうきそく",
+  "abbrev": "ビル管理法施行規則,建築物衛生法施行規則",
+  "category": "厚生",
+  "updated": "2026-04-01T06:21:41+09:00",
+  "amendment_promulgate_date": "2025-12-23",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100124",
+  "amendment_law_title": "建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346M50000100002_20261001_508M60000100107",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100107",
+   "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20260401_507M60000100124",
+   "amendment_promulgate_date": "2025-12-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000100124",
+   "amendment_law_title": "建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20251222_507M60000100115",
+   "amendment_promulgate_date": "2025-11-20",
+   "amendment_enforcement_date": "2025-12-22",
+   "amendment_law_id": "507M60000100115",
+   "amendment_law_title": "クリーニング業法施行規則及び建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20231227_505M60000100165",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000100165",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20231226_505M60000100161",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2023-12-26",
+   "amendment_law_id": "505M60000100161",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20231001_505M60000100029",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000100029",
+   "amendment_law_title": "労働安全衛生法施行令及び労働安全衛生法関係手数料令の一部を改正する政令の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20230929_505M60000100123",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-09-29",
+   "amendment_law_id": "505M60000100123",
+   "amendment_law_title": "建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20220401_503M60000100199",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000100199",
+   "amendment_law_title": "建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20210401_502M60000100196",
+   "amendment_promulgate_date": "2020-12-08",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000100196",
+   "amendment_law_title": "クリーニング業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20190401_430M60000100015",
+   "amendment_promulgate_date": "2018-02-16",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000100015",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う厚生労働省関係省令の整理等に関する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100002_20160401_428M60000100047",
+   "amendment_promulgate_date": "2016-03-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000100047",
+   "amendment_law_num": "平成二十八年厚生労働省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　特定建築物の維持管理",
+  "第二章　建築物における衛生的環境の確保に関する事業の登録",
+  "第三章　登録業者等の団体の指定",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（特定建築物についての届出）",
+  "title": "第一条",
+  "paragraphs": [
+   "建築物における衛生的環境の確保に関する法律（昭和四十五年法律第二十号。以下「法」という。）第五条第一項（同条第二項において準用する場合を含む。）の規定による届出は、次の各号に掲げる事項を記載した届書を当該特定建築物（法第二条第一項に規定する特定建築物をいう。以下同じ。）の所在場所を管轄する都道府県知事（保健所を設置する市又は特別区にあつては、市長又は区長。以下この章において同じ。）に提出して行うものとする。",
+   "法第五条第二項において準用する同条第一項の規定による届出については、前項第九号中「特定建築物が使用される」とあるのは、「特定建築物に該当する」と読み替えるものとする。",
+   "第一項（前項の規定により読み替える場合を含む。）の届書には、次の各号に掲げる場合の区分に応じ、当該各号に定める書類を添付しなければならない。",
+   "法第五条第三項の規定による届出は、第一項若しくは第二項の規定による届出事項に変更があつた旨又は当該特定建築物が特定建築物に該当しないこととなつた旨を記載した届書を当該特定建築物の所在場所を管轄する都道府県知事に提出して行うものとする。この場合において、当該変更が前項各号の権原を有する者の変更を伴うときは、当該変更後の当該各号に定める書類を添付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-01-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:21:41+09:00"
+ }
+}

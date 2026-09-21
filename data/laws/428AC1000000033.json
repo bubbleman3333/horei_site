@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "428AC1000000033",
+  "law_num": "平成二十八年法律第三十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "Act",
+  "law_num_num": "033",
+  "promulgation_date": "2016-04-27"
+ },
+ "revision_info": {
+  "law_revision_id": "428AC1000000033_20260715_508AC1000000054",
+  "law_type": "Act",
+  "law_title": "有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法",
+  "law_title_kana": "ゆうじんこっきょうりとうちいきのほぜんおよびとくていゆうじんこっきょうりとうちいきにかかるちいきしゃかいのいじにかんするとくべつそちほう",
+  "abbrev": "有人国境離島法",
+  "category": "憲法",
+  "updated": "2026-07-28T13:37:49+09:00",
+  "amendment_promulgate_date": "2026-07-15",
+  "amendment_enforcement_date": "2026-07-15",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC1000000054",
+  "amendment_law_title": "有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第五十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428AC1000000033_20270401_508AC1000000054",
+   "amendment_promulgate_date": "2026-07-15",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC1000000054",
+   "amendment_law_title": "有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "428AC1000000033_20260715_508AC1000000054",
+   "amendment_promulgate_date": "2026-07-15",
+   "amendment_enforcement_date": "2026-07-15",
+   "amendment_law_id": "508AC1000000054",
+   "amendment_law_title": "有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別措置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428AC1000000033_20250401_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428AC1000000033_20170401_000000000000000",
+   "amendment_promulgate_date": "2016-04-27",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、我が国の領海、排他的経済水域等を適切に管理する必要性が増大していることに鑑み、有人国境離島地域が有する我が国の領海、排他的経済水域等の保全等に関する活動の拠点としての機能を維持するため、有人国境離島地域の保全及び特定有人国境離島地域に係る地域社会の維持に関する特別の措置を講じ、もって我が国の領海、排他的経済水域等の保全等に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2016-04-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-28T13:37:49+09:00"
+ }
+}

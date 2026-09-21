@@ -1,0 +1,110 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "340M50000800037",
+  "law_num": "昭和四十年運輸省令第三十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "037",
+  "promulgation_date": "1965-05-19"
+ },
+ "revision_info": {
+  "law_revision_id": "340M50000800037_20260101_507M60000800121",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "船舶消防設備規則",
+  "law_title_kana": "せんぱくしょうぼうせつびきそく",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-01-16T09:46:24+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800121",
+  "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第百二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340M50000800037_20260101_507M60000800121",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000800121",
+   "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340M50000800037_20200101_501M60000800046",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "501M60000800046",
+   "amendment_law_title": "船舶設備規程等の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000800037_20191216_501M60000800047",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000800047",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000800037_20171228_429M60000800075",
+   "amendment_promulgate_date": "2017-12-28",
+   "amendment_enforcement_date": "2017-12-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000800075",
+   "amendment_law_title": "船舶消防設備規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000800037_20170101_428M60000800088",
+   "amendment_promulgate_date": "2016-12-28",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428M60000800088",
+   "amendment_law_num": "平成二十八年国土交通省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000800037_20170101_428M60000800084",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428M60000800084",
+   "amendment_law_num": "平成二十八年国土交通省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　消防設備の備付数量及び備付方法"
+ ],
+ "article1": {
+  "caption": "（総トン数）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令を適用する場合における総トン数は、船舶安全法施行規則（昭和三十八年運輸省令第四十一号）第六十六条の二の総トン数とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-05-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-16T09:46:24+09:00"
+ }
+}

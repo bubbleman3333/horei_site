@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "341CO0000000222",
+  "law_num": "昭和四十一年政令第二百二十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "222",
+  "promulgation_date": "1966-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "341CO0000000222_20250401_507CO0000000019",
+  "law_type": "CabinetOrder",
+  "law_title": "行政相談委員法第二条第一項第一号の法人を定める政令",
+  "law_title_kana": "ぎょうせいそうだんいいんほうだいにじょうだいいっこうだいいちごうのほうじんをさだめるせいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2025-04-01T15:13:46+09:00",
+  "amendment_promulgate_date": "2025-01-29",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000019",
+  "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341CO0000000222_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000222_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000222_20240425_506CO0000000174",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506CO0000000174",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和六年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000222_20171101_429CO0000000136",
+   "amendment_promulgate_date": "2017-04-07",
+   "amendment_enforcement_date": "2017-11-01",
+   "amendment_law_id": "429CO0000000136",
+   "amendment_law_title": "外国人の技能実習の適正な実施及び技能実習生の保護に関する法律施行令",
+   "amendment_law_num": "平成二十九年政令第百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341CO0000000222_20160401_428CO0000000021",
+   "amendment_promulgate_date": "2016-01-26",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000021",
+   "amendment_law_title": "道路運送車両法及び自動車検査独立行政法人法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "行政相談委員法第二条第一項第一号に規定する政令で定める法人は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1966-06-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-04-01T15:13:46+09:00"
+ }
+}

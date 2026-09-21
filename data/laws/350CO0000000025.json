@@ -1,0 +1,179 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "350CO0000000025",
+  "law_num": "昭和五十年政令第二十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 50,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "025",
+  "promulgation_date": "1975-03-10"
+ },
+ "revision_info": {
+  "law_revision_id": "350CO0000000025_20260408_508CO0000000129",
+  "law_type": "CabinetOrder",
+  "law_title": "雇用保険法施行令",
+  "law_title_kana": "こようほけんほうせこうれい",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-05-18T10:46:17+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000129",
+  "amendment_law_title": "雇用保険法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百二十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "350CO0000000025_20281001_506CO0000000317",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2028-10-01",
+   "amendment_law_id": "506CO0000000317",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20260408_508CO0000000129",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000129",
+   "amendment_law_title": "雇用保険法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20250401_507CO0000000161",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000161",
+   "amendment_law_title": "雇用保険法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20250401_506CO0000000317",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000317",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20240517_506CO0000000186",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506CO0000000186",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20240401_506CO0000000112",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000112",
+   "amendment_law_title": "雇用保険法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20240226_506CO0000000040",
+   "amendment_promulgate_date": "2024-02-26",
+   "amendment_enforcement_date": "2024-02-26",
+   "amendment_law_id": "506CO0000000040",
+   "amendment_law_title": "雇用保険法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20220701_504CO0000000171",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504CO0000000171",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20220401_504CO0000000171",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000171",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20200901_502CO0000000219",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000219",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20200612_502CO0000000188",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502CO0000000188",
+   "amendment_law_title": "雇用保険法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350CO0000000025_20170401_429CO0000000129",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000129",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（都道府県が処理する事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "雇用保険法（以下「法」という。）第二条第二項の規定により、法第六十三条第一項第一号に掲げる事業のうち職業能力開発促進法（昭和四十四年法律第六十四号）第十一条第一項に規定する計画に基づく職業訓練を行う事業主及び職業訓練の推進のための活動を行う同法第十三条に規定する事業主等（中央職業能力開発協会を除く。）に対する助成の事業の実施に関する事務は、都道府県知事が行うこととする。",
+   "前項の規定により都道府県が処理することとされている事務は、地方自治法（昭和二十二年法律第六十七号）第二条第九項第一号に規定する第一号法定受託事務とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1975-03-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-18T10:46:17+09:00"
+ }
+}

@@ -1,0 +1,185 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "344AC0000000038",
+  "law_num": "昭和四十四年法律第三十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 44,
+  "law_num_type": "Act",
+  "law_num_num": "038",
+  "promulgation_date": "1969-06-03"
+ },
+ "revision_info": {
+  "law_revision_id": "344AC0000000038_20260527_508AC0000000023",
+  "law_type": "Act",
+  "law_title": "都市再開発法",
+  "law_title_kana": "としさいかいはつほう",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2026-05-27T10:45:57+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000023",
+  "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "344AC0000000038_20270526_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2027-05-26",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20261126_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-11-26",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20260527_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20210901_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20200401_430AC0000000072",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430AC0000000072",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20180713_430AC0000000072",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-13",
+   "amendment_law_id": "430AC0000000072",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344AC0000000038_20160901_428AC0000000072",
+   "amendment_promulgate_date": "2016-06-07",
+   "amendment_enforcement_date": "2016-09-01",
+   "amendment_law_id": "428AC0000000072",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第一章の二　第一種市街地再開発事業及び第二種市街地再開発事業に関する都市計画",
+  "第一章の三　市街地再開発促進区域",
+  "第二章　施行者",
+  "第三章　第一種市街地再開発事業",
+  "第四章　第二種市街地再開発事業",
+  "第四章の二　土地区画整理事業との一体的施行に関する特則",
+  "第五章　費用の負担等",
+  "第六章　監督等",
+  "第七章　再開発事業の計画の認定",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、市街地の計画的な再開発に関し必要な事項を定めることにより、都市における土地の合理的かつ健全な高度利用と都市機能の更新とを図り、もつて公共の福祉に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1969-06-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T10:45:57+09:00"
+ }
+}

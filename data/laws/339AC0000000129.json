@@ -1,0 +1,159 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "339AC0000000129",
+  "law_num": "昭和三十九年法律第百二十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 39,
+  "law_num_type": "Act",
+  "law_num_num": "129",
+  "promulgation_date": "1964-07-01"
+ },
+ "revision_info": {
+  "law_revision_id": "339AC0000000129_20260401_507AC0000000029",
+  "law_type": "Act",
+  "law_title": "母子及び父子並びに寡婦福祉法",
+  "law_title_kana": "ぼしおよびふしならびにかふふくしほう",
+  "abbrev": "母子父子寡婦福祉法,母子父子寡婦法",
+  "category": "社会福祉",
+  "updated": "2026-04-01T05:16:06+09:00",
+  "amendment_promulgate_date": "2025-04-25",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000029",
+  "amendment_law_title": "児童福祉法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第二十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "339AC0000000129_20260401_507AC0000000029",
+   "amendment_promulgate_date": "2025-04-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000029",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20251001_507AC0000000029",
+   "amendment_promulgate_date": "2025-04-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507AC0000000029",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20240401_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20230401_504AC0000000076",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000076",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20220622_504AC0000000076",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504AC0000000076",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20220525_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20200910_502AC0000000041",
+   "amendment_promulgate_date": "2020-06-10",
+   "amendment_enforcement_date": "2020-09-10",
+   "amendment_law_id": "502AC0000000041",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和二年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "339AC0000000129_20170401_428AC0000000063",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000063",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針等",
+  "第三章　母子家庭に対する福祉の措置",
+  "第四章　父子家庭に対する福祉の措置",
+  "第五章　寡婦に対する福祉の措置",
+  "第六章　福祉資金貸付金に関する特別会計等",
+  "第七章　母子・父子福祉施設",
+  "第八章　費用",
+  "第九章　雑則",
+  "第十章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、母子家庭等及び寡婦の福祉に関する原理を明らかにするとともに、母子家庭等及び寡婦に対し、その生活の安定と向上のために必要な措置を講じ、もつて母子家庭等及び寡婦の福祉を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1964-07-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T05:16:06+09:00"
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "359AC0000000085",
+  "law_num": "昭和五十九年法律第八十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 59,
+  "law_num_type": "Act",
+  "law_num_num": "085",
+  "promulgation_date": "1984-12-25"
+ },
+ "revision_info": {
+  "law_revision_id": "359AC0000000085_20260527_507AC0000000046",
+  "law_type": "Act",
+  "law_title": "日本電信電話株式会社等に関する法律",
+  "law_title_kana": "にほんでんしんでんわかぶしきがいしゃとうにかんするほうりつ",
+  "abbrev": "ＮＴＴ法",
+  "category": "電気通信",
+  "updated": "2026-05-27T00:15:04+09:00",
+  "amendment_promulgate_date": "2025-05-28",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000046",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "359AC0000000085_20270527_507AC0000000046",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2027-05-27",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-27",
+   "amendment_law_id": "507AC0000000046",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20260527_507AC0000000046",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "507AC0000000046",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20250528_507AC0000000046",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-05-28",
+   "amendment_law_id": "507AC0000000046",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20240425_506AC0000000020",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506AC0000000020",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20210401_502AC0000000030",
+   "amendment_promulgate_date": "2020-05-22",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000030",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20210301_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20200522_502AC0000000030",
+   "amendment_promulgate_date": "2020-05-22",
+   "amendment_enforcement_date": "2020-05-22",
+   "amendment_law_id": "502AC0000000030",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20191211_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359AC0000000085_20150501_426AC0000000091",
+   "amendment_promulgate_date": "2014-06-27",
+   "amendment_enforcement_date": "2015-05-01",
+   "amendment_law_id": "426AC0000000091",
+   "amendment_law_num": "平成二十六年法律第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、日本電信電話株式会社、東日本電信電話株式会社及び西日本電信電話株式会社について定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1984-12-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T00:15:04+09:00"
+ }
+}

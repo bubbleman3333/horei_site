@@ -1,0 +1,280 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "327CO0000000479",
+  "law_num": "昭和二十七年政令第四百七十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 27,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "479",
+  "promulgation_date": "1952-12-04"
+ },
+ "revision_info": {
+  "law_revision_id": "327CO0000000479_20260401_507CO0000000444",
+  "law_type": "CabinetOrder",
+  "law_title": "道路法施行令",
+  "law_title_kana": "どうろほうしこうれい",
+  "abbrev": null,
+  "category": "道路",
+  "updated": "2026-08-27T18:45:06+09:00",
+  "amendment_promulgate_date": "2025-12-26",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000444",
+  "amendment_law_title": "道路法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第四百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "327CO0000000479_20260401_507CO0000000444",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000444",
+   "amendment_law_title": "道路法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20251001_507CO0000000332",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000332",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20250925_507CO0000000332",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-09-25",
+   "amendment_law_id": "507CO0000000332",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20250416_507CO0000000179",
+   "amendment_promulgate_date": "2025-04-16",
+   "amendment_enforcement_date": "2025-04-16",
+   "amendment_law_id": "507CO0000000179",
+   "amendment_law_title": "道路法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20241023_506CO0000000315",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2024-10-23",
+   "amendment_law_id": "506CO0000000315",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行のための低炭素水素等の供給及び利用の促進に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20240401_505CO0000000324",
+   "amendment_promulgate_date": "2023-11-10",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000324",
+   "amendment_law_title": "道路法施行令及び建築基準法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20230401_504CO0000000378",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000378",
+   "amendment_law_title": "道路法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20220401_504CO0000000037",
+   "amendment_promulgate_date": "2022-02-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000037",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20220401_503CO0000000325",
+   "amendment_promulgate_date": "2021-12-08",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000325",
+   "amendment_law_title": "道路法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第三百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20210925_503CO0000000261",
+   "amendment_promulgate_date": "2021-09-24",
+   "amendment_enforcement_date": "2021-09-25",
+   "amendment_law_id": "503CO0000000261",
+   "amendment_law_title": "踏切道改良促進法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20210620_503CO0000000174",
+   "amendment_promulgate_date": "2021-06-18",
+   "amendment_enforcement_date": "2021-06-20",
+   "amendment_law_id": "503CO0000000174",
+   "amendment_law_title": "道路法施行令及び高速自動車国道法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20210401_503CO0000000132",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000132",
+   "amendment_law_title": "踏切道改良促進法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20201125_502CO0000000329",
+   "amendment_promulgate_date": "2020-11-20",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_id": "502CO0000000329",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20200527_502CO0000000175",
+   "amendment_promulgate_date": "2020-05-27",
+   "amendment_enforcement_date": "2020-05-27",
+   "amendment_law_id": "502CO0000000175",
+   "amendment_law_title": "道路法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20200401_502CO0000000086",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000086",
+   "amendment_law_title": "道路法施行令及び道路整備事業に係る国の財政上の特別措置に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20200401_501CO0000000112",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000112",
+   "amendment_law_title": "道路法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20191001_501CO0000000112",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000112",
+   "amendment_law_title": "道路法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20190320_431CO0000000041",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-03-20",
+   "amendment_law_id": "431CO0000000041",
+   "amendment_law_title": "車両制限令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20180930_430CO0000000280",
+   "amendment_promulgate_date": "2018-09-28",
+   "amendment_enforcement_date": "2018-09-30",
+   "amendment_law_id": "430CO0000000280",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20180401_430CO0000000128",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000128",
+   "amendment_law_title": "道路整備事業に係る国の財政上の特別措置に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327CO0000000479_20170401_429CO0000000002",
+   "amendment_promulgate_date": "2017-01-18",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000002",
+   "amendment_law_title": "道路法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　道路管理者等",
+  "第二章　道路の占用",
+  "第二章の二　違法放置等物件の保管の手続等",
+  "第二章の三　危険物を積載する車両の水底トンネルの通行の禁止又は制限",
+  "第二章の四　連結位置及び連結料",
+  "第三章　道路に関する費用の負担及び補助",
+  "第三章の二　長時間放置された車両の保管の手続等",
+  "第四章　道の区域内の道路の特例",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（都道府県等が行う国道の新設又は改築）",
+  "title": "第一条",
+  "paragraphs": [
+   "道路法（以下「法」という。）第十二条ただし書の政令で定める特別の事情は、次に掲げるものとする。",
+   "前項の規定は、法第十七条第一項又は第二項の規定により指定市又は指定市以外の市が国道の新設又は改築を行う場合について準用する。この場合において、前項各号中「都道府県知事」とあるのはそれぞれ「指定市の長」又は「指定市以外の市の長」と、「都道府県」とあるのはそれぞれ「指定市」又は「指定市以外の市」と読み替えるものとする。",
+   "第一項（第三号及び第四号を除く。）の規定は、法第十七条第四項の規定により指定市以外の市町村が国道の新設又は改築を行う場合について準用する。この場合において、第一項第一号中「都道府県知事又は都道府県」とあるのは「指定市以外の市町村の長又は指定市以外の市町村」と、同項第五号及び第六号中「都道府県」とあるのは「指定市以外の市町村」と読み替えるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1952-12-04",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-27T18:45:06+09:00"
+ }
+}

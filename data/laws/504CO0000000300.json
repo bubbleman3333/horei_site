@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "504CO0000000300",
+  "law_num": "令和四年政令第三百号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "300",
+  "promulgation_date": "2022-09-09"
+ },
+ "revision_info": {
+  "law_revision_id": "504CO0000000300_20260401_508CO0000000083",
+  "law_type": "CabinetOrder",
+  "law_title": "森林環境税及び森林環境譲与税に関する法律施行令",
+  "law_title_kana": "しんりんかんきょうぜいおよびしんりんかんきょうじょうよぜいにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-04-21T10:37:35+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000083",
+  "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第八十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504CO0000000300_20260401_508CO0000000083",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000083",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000300_20240401_506CO0000000012",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000012",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000300_20240101_000000000000000",
+   "amendment_promulgate_date": "2022-09-09",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第四条第一項第三号の政令で定める金額）",
+  "title": "第一条",
+  "paragraphs": [
+   "森林環境税及び森林環境譲与税に関する法律（以下「法」という。）第四条第一項第三号に規定する政令で定める金額は、第一号に掲げる金額に、法の施行地に住所を有する者の同一生計配偶者（地方税法（昭和二十五年法律第二百二十六号）第二百九十二条第一項第七号に規定する同一生計配偶者をいう。以下この条において同じ。）及び扶養親族（地方税法第二百九十二条第一項第九号に規定する扶養親族をいい、年齢十六歳未満の者及び同法第三百十四条の二第一項第十一号に規定する控除対象扶養親族に限る。以下この条において同じ。）の数に一を加えた数を乗じて得た金額に、十万円を加算した金額（その者が同一生計配偶者又は扶養親族を有する場合には、当該金額に第二号に掲げる金額を加算した金額）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-09-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:37:35+09:00"
+ }
+}

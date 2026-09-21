@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "345AC0000000082",
+  "law_num": "昭和四十五年法律第八十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "Act",
+  "law_num_num": "082",
+  "promulgation_date": "1970-05-20"
+ },
+ "revision_info": {
+  "law_revision_id": "345AC0000000082_20260903_508AC0000000027",
+  "law_type": "Act",
+  "law_title": "地方道路公社法",
+  "law_title_kana": "ちほうどうろこうしゃほう",
+  "abbrev": null,
+  "category": "道路",
+  "updated": "2026-09-03T00:20:45+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-09-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000027",
+  "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和八年法律第二十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345AC0000000082_20260903_508AC0000000027",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-09-03",
+   "amendment_law_id": "508AC0000000027",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和八年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000082_20130614_425AC0000000044",
+   "amendment_promulgate_date": "2013-06-14",
+   "amendment_enforcement_date": "2013-06-14",
+   "amendment_law_id": "425AC0000000044",
+   "amendment_law_num": "平成二十五年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　設立",
+  "第三章　役員及び職員",
+  "第四章　業務",
+  "第五章　財務及び会計",
+  "第六章　解散及び清算",
+  "第七章　監督",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方道路公社は、その通行又は利用について料金を徴収することができる道路の新設、改築、維持、修繕その他の管理を総合的かつ効率的に行なうこと等により、地方的な幹線道路の整備を促進して交通の円滑化を図り、もつて地方における住民の福祉の増進と産業経済の発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-05-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-03T00:20:45+09:00"
+ }
+}

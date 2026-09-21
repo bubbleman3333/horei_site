@@ -1,0 +1,211 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "405CO0000000163",
+  "law_num": "平成五年政令第百六十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 5,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "163",
+  "promulgation_date": "1993-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "405CO0000000163_20260424_508CO0000000145",
+  "law_type": "CabinetOrder",
+  "law_title": "皇太子徳仁親王の婚姻を記念するための五万円の貨幣の形式等に関する政令",
+  "law_title_kana": "こうたいしなるひとしんのうのこんいんをきねんするためのごまんえんのかへいのけいしきとうにかんするせいれい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-05-18T10:40:42+09:00",
+  "amendment_promulgate_date": "2026-04-24",
+  "amendment_enforcement_date": "2026-04-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000145",
+  "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百四十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "405CO0000000163_20260424_508CO0000000145",
+   "amendment_promulgate_date": "2026-04-24",
+   "amendment_enforcement_date": "2026-04-24",
+   "amendment_law_id": "508CO0000000145",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20260401_508CO0000000111",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000111",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20240426_506CO0000000179",
+   "amendment_promulgate_date": "2024-04-26",
+   "amendment_enforcement_date": "2024-04-26",
+   "amendment_law_id": "506CO0000000179",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20240202_506CO0000000024",
+   "amendment_promulgate_date": "2024-02-02",
+   "amendment_enforcement_date": "2024-02-02",
+   "amendment_law_id": "506CO0000000024",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20230419_505CO0000000170",
+   "amendment_promulgate_date": "2023-04-19",
+   "amendment_enforcement_date": "2023-04-19",
+   "amendment_law_id": "505CO0000000170",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20220805_504CO0000000269",
+   "amendment_promulgate_date": "2022-08-05",
+   "amendment_enforcement_date": "2022-08-05",
+   "amendment_law_id": "504CO0000000269",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20220311_504CO0000000058",
+   "amendment_promulgate_date": "2022-03-11",
+   "amendment_enforcement_date": "2022-03-11",
+   "amendment_law_id": "504CO0000000058",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20210127_503CO0000000012",
+   "amendment_promulgate_date": "2021-01-27",
+   "amendment_enforcement_date": "2021-01-27",
+   "amendment_law_id": "503CO0000000012",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20191204_501CO0000000172",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2019-12-04",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000172",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20190515_501CO0000000001",
+   "amendment_promulgate_date": "2019-05-15",
+   "amendment_enforcement_date": "2019-05-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000001",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20181130_430CO0000000324",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-11-30",
+   "amendment_law_id": "430CO0000000324",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20180810_430CO0000000240",
+   "amendment_promulgate_date": "2018-08-10",
+   "amendment_enforcement_date": "2018-08-10",
+   "amendment_law_id": "430CO0000000240",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20180530_430CO0000000171",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-05-30",
+   "amendment_law_id": "430CO0000000171",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20180228_430CO0000000039",
+   "amendment_promulgate_date": "2018-02-28",
+   "amendment_enforcement_date": "2018-02-28",
+   "amendment_law_id": "430CO0000000039",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20180119_430CO0000000005",
+   "amendment_promulgate_date": "2018-01-19",
+   "amendment_enforcement_date": "2018-01-19",
+   "amendment_law_id": "430CO0000000005",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000163_20161019_428CO0000000328",
+   "amendment_promulgate_date": "2016-10-19",
+   "amendment_enforcement_date": "2016-10-19",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000328",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（素材等）",
+  "title": "第一条",
+  "paragraphs": [
+   "皇太子徳仁親王の婚姻を記念するための五万円の貨幣の発行に関する法律第一条の規定により発行する貨幣の素材、品位、量目及び形式を次のように定める。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1993-04-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-18T10:40:42+09:00"
+ }
+}

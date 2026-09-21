@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000042006",
+  "law_num": "令和五年内閣府・財務省令第六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "2023-08-09"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000042006_20260918_508M60000042004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "内閣府・財務省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する命令",
+  "law_title_kana": "ないかくふざいむしょうかんけいけいざいしさくをいったいてきにこうずることによるあんぜんほしょうのかくほのすいしんにかんするほうりつにもとづくとくていしゃかいきばんじぎょうしゃのしていとうにかんするめいれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-09-18T00:03:56+09:00",
+  "amendment_promulgate_date": "2026-07-14",
+  "amendment_enforcement_date": "2026-09-18",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000042004",
+  "amendment_law_title": "内閣府・財務省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・財務省令第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000042006_20260918_508M60000042004",
+   "amendment_promulgate_date": "2026-07-14",
+   "amendment_enforcement_date": "2026-09-18",
+   "amendment_law_id": "508M60000042004",
+   "amendment_law_title": "内閣府・財務省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000042006_20231117_505M60000042007",
+   "amendment_promulgate_date": "2023-11-16",
+   "amendment_enforcement_date": "2023-11-17",
+   "amendment_law_id": "505M60000042007",
+   "amendment_law_title": "内閣府・財務省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく特定社会基盤事業者の指定等に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・財務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000042006_20231101_000000000000000",
+   "amendment_promulgate_date": "2023-08-09",
+   "amendment_enforcement_date": "2023-11-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定重要設備）",
+  "title": "第一条",
+  "paragraphs": [
+   "経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（以下「法」という。）第五十条第一項の主務省令で定めるものは、預金保険法（昭和四十六年法律第三十四号）第三十四条に規定する業務を行う事業については、同条第二号から第六号まで、第九号及び第十一号から第十三号までの業務（特定社会基盤役務の提供を行うために不可欠なものに限る。）に関するデータの処理（当該処理が停止した場合に当該業務に大きな支障が生ずるおそれがあるものに限る。）の全部又は一部を行うよう構成された情報処理システム（情報処理の促進に関する法律（昭和四十五年法律第九十号）第二条第三項に規定する情報処理システムをいい、当該業務の運営のために特に必要なものに限る。以下この条において同じ。）並びに当該情報処理システムを稼働させる情報処理システムとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-08-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-18T00:03:56+09:00"
+ }
+}

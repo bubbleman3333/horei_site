@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "428M60000002006",
+  "law_num": "平成二十八年内閣府令第六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "2016-02-05"
+ },
+ "revision_info": {
+  "law_revision_id": "428M60000002006_20260701_508M60000002058",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "不当景品類及び不当表示防止法施行規則",
+  "law_title_kana": "ふとうけいひんるいおよびふとうひょうじぼうしほうせこうきそく",
+  "abbrev": "景表法施行規則,景品表示法施行規則",
+  "category": "産業通則",
+  "updated": "2026-07-15T10:09:45+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002058",
+  "amendment_law_title": "不当景品類及び不当表示防止法施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第五十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428M60000002006_20260701_508M60000002058",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60000002058",
+   "amendment_law_title": "不当景品類及び不当表示防止法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428M60000002006_20260515_508M60000002022",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-05-15",
+   "amendment_law_id": "508M60000002022",
+   "amendment_law_title": "不当景品類及び不当表示防止法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000002006_20241001_506M60000002054",
+   "amendment_promulgate_date": "2024-04-18",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000002054",
+   "amendment_law_title": "不当景品類及び不当表示防止法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000002006_20230314_505M60000002016",
+   "amendment_promulgate_date": "2023-03-14",
+   "amendment_enforcement_date": "2023-03-14",
+   "amendment_law_id": "505M60000002016",
+   "amendment_law_title": "不当景品類及び不当表示防止法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000002006_20201228_502M60000002087",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002087",
+   "amendment_law_title": "不当景品類及び不当表示防止法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000002006_20190701_501M60000002017",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う消費者庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000002006_20160401_000000000000000",
+   "amendment_promulgate_date": "2016-02-05",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において使用する用語は、不当景品類及び不当表示防止法（以下「法」という。）及び不当景品類及び不当表示防止法施行令（平成二十一年政令第二百十八号。以下「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2016-02-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-15T10:09:45+09:00"
+ }
+}

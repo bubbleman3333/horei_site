@@ -1,0 +1,137 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "349M50000500001",
+  "law_num": "昭和四十九年厚生省・通商産業省令第一号",
+  "law_num_era": "Showa",
+  "law_num_year": 49,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1974-04-15"
+ },
+ "revision_info": {
+  "law_revision_id": "349M50000500001_20260701_507M60001500002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令",
+  "law_title_kana": "しんきかがくぶっしつのせいぞうまたはゆにゅうにかかるとどけでとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-07-01T00:33:54+09:00",
+  "amendment_promulgate_date": "2025-10-08",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60001500002",
+  "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和七年厚生労働省・経済産業省・環境省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "349M50000500001_20290101_507M60001500002",
+   "amendment_promulgate_date": "2025-10-08",
+   "amendment_enforcement_date": "2029-01-01",
+   "amendment_law_id": "507M60001500002",
+   "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省・経済産業省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "349M50000500001_20260701_507M60001500002",
+   "amendment_promulgate_date": "2025-10-08",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "507M60001500002",
+   "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省・経済産業省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "349M50000500001_20201228_502M60001500003",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60001500003",
+   "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令及び有害性情報の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省・経済産業省・環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000500001_20200612_502M60001500002",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502M60001500002",
+   "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省・経済産業省・環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000500001_20200401_502M60001500001",
+   "amendment_promulgate_date": "2020-02-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60001500001",
+   "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000500001_20191216_501M60001500003",
+   "amendment_promulgate_date": "2019-12-10",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60001500003",
+   "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省・経済産業省・環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000500001_20190701_501M60001500001",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60001500001",
+   "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令及び有害性情報の報告に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000500001_20190101_430M60001500005",
+   "amendment_promulgate_date": "2018-07-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430M60001500005",
+   "amendment_law_title": "新規化学物質の製造又は輸入に係る届出等に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省・経済産業省・環境省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "349M50000500001_20141001_426M60001500001",
+   "amendment_promulgate_date": "2014-06-30",
+   "amendment_enforcement_date": "2014-10-01",
+   "amendment_law_id": "426M60001500001",
+   "amendment_law_num": "平成二十六年厚生労働省・経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、化学物質の審査及び製造等の規制に関する法律（昭和四十八年法律第百十七号。以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1974-04-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:33:54+09:00"
+ }
+}

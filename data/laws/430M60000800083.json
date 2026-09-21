@@ -1,0 +1,132 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "430M60000800083",
+  "law_num": "平成三十年国土交通省令第八十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "083",
+  "promulgation_date": "2018-11-09"
+ },
+ "revision_info": {
+  "law_revision_id": "430M60000800083_20250930_507M60000800099",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "所有者不明土地の利用の円滑化等に関する特別措置法施行規則",
+  "law_title_kana": "しょゆうしゃふめいとちのりようのえんかつかとうにかんするとくべつそちほうしこうきそく",
+  "abbrev": "所有者不明土地法施行規則",
+  "category": "国土開発",
+  "updated": "2025-10-14T09:44:57+09:00",
+  "amendment_promulgate_date": "2025-09-30",
+  "amendment_enforcement_date": "2025-09-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800099",
+  "amendment_law_title": "所有者不明土地の利用の円滑化等に関する特別措置法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第九十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430M60000800083_20250930_507M60000800099",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-09-30",
+   "amendment_law_id": "507M60000800099",
+   "amendment_law_title": "所有者不明土地の利用の円滑化等に関する特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430M60000800083_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000800083_20230916_505M60000800070",
+   "amendment_promulgate_date": "2023-09-15",
+   "amendment_enforcement_date": "2023-09-16",
+   "amendment_law_id": "505M60000800070",
+   "amendment_law_title": "所有者不明土地の利用の円滑化等に関する特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000800083_20230401_505M60000800032",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000800032",
+   "amendment_law_title": "所有者不明土地の利用の円滑化等に関する特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000800083_20221101_504M60000800075",
+   "amendment_promulgate_date": "2022-11-01",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000800075",
+   "amendment_law_title": "所有者不明土地の利用の円滑化等に関する特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000800083_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000800083_20190601_431M60000800035",
+   "amendment_promulgate_date": "2019-04-25",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "431M60000800035",
+   "amendment_law_title": "所有者不明土地の利用の円滑化等に関する特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年国土交通省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000800083_20181115_000000000000000",
+   "amendment_promulgate_date": "2018-11-09",
+   "amendment_enforcement_date": "2018-11-15",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　所有者不明土地の利用の円滑化及び管理の適正化のための特別の措置",
+  "第三章　土地の所有者の効果的な探索のための特別の措置",
+  "第四章　所有者不明土地利用円滑化等推進法人",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（土地所有者確知必要情報を保有すると思料される者）",
+  "title": "第一条",
+  "paragraphs": [
+   "所有者不明土地の利用の円滑化等に関する特別措置法施行令（以下「令」という。）第一条第二号の国土交通省令で定める者は、次に掲げるものとする。ただし、第二号、第三号、第十号イ並びに第十一号イ及びロに掲げる者については、令第一条第一号から第四号まで並びに令第八条第一号から第四号まで及び令第九条第一号から第四号まで又は令第十一条第一号から第四号までに掲げる措置（市町村長が所有者不明土地の利用の円滑化等に関する特別措置法（以下「法」という。）第三十八条第一項の規定による勧告をしようとする場合又は国の行政機関の長若しくは地方公共団体の長（以下「国の行政機関の長等」という。）が法第四十二条第一項から第三項まで若しくは第五項（第四項に係る部分を除く。）の規定による請求をしようとする場合にあっては、令第一条第一号から第四号までに掲げる措置）により判明したものに限る。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-11-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-14T09:44:57+09:00"
+ }
+}

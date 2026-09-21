@@ -1,0 +1,209 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "421AC0000000063",
+  "law_num": "平成二十一年法律第六十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "Act",
+  "law_num_num": "063",
+  "promulgation_date": "2009-06-26"
+ },
+ "revision_info": {
+  "law_revision_id": "421AC0000000063_20260731_508AC0000000029",
+  "law_type": "Act",
+  "law_title": "株式会社地域経済活性化支援機構法",
+  "law_title_kana": "かぶしきがいしゃちいきけいざいかっせいかしえんきこうほう",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-07-31T16:50:29+09:00",
+  "amendment_promulgate_date": "2026-06-05",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000029",
+  "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421AC0000000063_20260731_508AC0000000029",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508AC0000000029",
+   "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20250911_507AC0000000058",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2025-09-11",
+   "amendment_law_id": "507AC0000000058",
+   "amendment_law_title": "株式会社地域経済活性化支援機構法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20240902_506AC0000000045",
+   "amendment_promulgate_date": "2024-06-07",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506AC0000000045",
+   "amendment_law_title": "新たな事業の創出及び産業への投資を促進するための産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20210901_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20210802_503AC0000000070",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503AC0000000070",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律",
+   "amendment_law_num": "令和三年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20210616_503AC0000000070",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503AC0000000070",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律",
+   "amendment_law_num": "令和三年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20200619_502AC0000000057",
+   "amendment_promulgate_date": "2020-06-19",
+   "amendment_enforcement_date": "2020-06-19",
+   "amendment_law_id": "502AC0000000057",
+   "amendment_law_title": "株式会社地域経済活性化支援機構法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20180925_430AC0000000026",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430AC0000000026",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20180709_430AC0000000026",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-07-09",
+   "amendment_law_id": "430AC0000000026",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20180523_430AC0000000027",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-05-23",
+   "amendment_law_id": "430AC0000000027",
+   "amendment_law_title": "株式会社地域経済活性化支援機構法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000063_20160401_427AC0000000066",
+   "amendment_promulgate_date": "2015-09-11",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427AC0000000066",
+   "amendment_law_title": "内閣の重要政策に関する総合調整等に関する機能の強化のための国家行政組織法等の一部を改正する法律",
+   "amendment_law_num": "平成二十七年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　設立",
+  "第三章　管理",
+  "第四章　業務",
+  "第五章　財務及び会計",
+  "第六章　監督",
+  "第七章　解散等",
+  "第八章　預金保険機構の業務の特例等",
+  "第九章　雑則",
+  "第十章　罰則"
+ ],
+ "article1": {
+  "caption": "（機構の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "株式会社地域経済活性化支援機構は、雇用機会の確保に配慮しつつ、地域における総合的な経済力の向上を通じて大規模な災害を受けた地域の経済の再建その他の地域経済の活性化を図り、併せてこれにより地域の信用秩序の基盤強化にも資するようにするため、金融機関、地方公共団体等と連携しつつ、有用な経営資源を有しながら過大な債務を負っている中小企業者その他の事業者に対して金融機関等が有する債権の買取りその他の業務を通じた当該事業者の事業の再生の支援及び地域経済の活性化に資する資金供給を行う投資事業有限責任組合の無限責任組合員としてその業務を執行する株式会社の経営管理その他の業務を通じた地域経済の活性化に資する事業活動の支援を行うことを目的とする株式会社とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-06-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-31T16:50:29+09:00"
+ }
+}

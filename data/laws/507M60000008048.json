@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000008048",
+  "law_num": "令和七年総務省令第四十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "048",
+  "promulgation_date": "2025-05-02"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000008048_20251210_507M60000008108",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "住民基本台帳法施行令の一部を改正する政令の施行に伴う経過措置を定める省令",
+  "law_title_kana": "じゅうみんきほんだいちょうほうしこうれいのいちぶをかいせいするせいれいのしこうにともなうけいかそちをさだめるしょうれい",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2025-12-18T16:59:26+09:00",
+  "amendment_promulgate_date": "2025-12-10",
+  "amendment_enforcement_date": "2025-12-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000008108",
+  "amendment_law_title": "住民基本台帳法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年総務省令第百八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000008048_20251210_507M60000008108",
+   "amendment_promulgate_date": "2025-12-10",
+   "amendment_enforcement_date": "2025-12-10",
+   "amendment_law_id": "507M60000008108",
+   "amendment_law_title": "住民基本台帳法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "507M60000008048_20250526_000000000000000",
+   "amendment_promulgate_date": "2025-05-02",
+   "amendment_enforcement_date": "2025-05-26",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "住民基本台帳法施行令（昭和四十二年政令第二百九十二号）第三十条の十四第一項に規定する旧氏等記載者のうち、当該旧氏等記載者に係る住民票に記載（住民基本台帳法（昭和四十二年法律第八十一号）第六条第三項の規定により磁気ディスクをもって調製する住民票にあっては、記録。以下同じ。）がされている旧氏（同令第三十条の十三に規定する旧氏をいう。以下同じ。）及び旧氏の振り仮名（同条に規定する旧氏の振り仮名をいう。以下同じ。）の変更の請求をする者であって、請求をしようとする旧氏の記載又は記録がされている戸籍又は除かれた戸籍に旧氏の振り仮名の記載又は記録がされていないものに係る同令第三十条の十四第四項及び第五項の規定の適用については、次の表の上欄に掲げるこれらの規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。",
+   "住民基本台帳法施行令の一部を改正する政令附則第六条の規定により読み替えて適用する住民基本台帳法施行令第三十条の十四第一項に規定する旧氏記載者のうち、当該旧氏記載者に係る住民票に記載がされている旧氏の変更の請求及び請求をしようとする旧氏に係る旧氏の振り仮名の当該住民票への記載の請求をする者であって、当該請求をしようとする旧氏の記載又は記録がされている戸籍又は除かれた戸籍に旧氏の振り仮名の記載又は記録がされていないものに係る同条第四項及び第五項の規定の適用については、次の表の上欄に掲げるこれらの規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-05-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-18T16:59:26+09:00"
+ }
+}

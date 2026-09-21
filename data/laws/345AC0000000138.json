@@ -1,0 +1,116 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "345AC0000000138",
+  "law_num": "昭和四十五年法律第百三十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "Act",
+  "law_num_num": "138",
+  "promulgation_date": "1970-12-25"
+ },
+ "revision_info": {
+  "law_revision_id": "345AC0000000138_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "水質汚濁防止法",
+  "law_title_kana": "すいしつおだくぼうしほう",
+  "abbrev": "水濁法",
+  "category": "環境保全",
+  "updated": "2026-07-01T00:28:06+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345AC0000000138_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000138_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000138_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000138_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000138_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000138_20160520_428AC0000000047",
+   "amendment_promulgate_date": "2016-05-20",
+   "amendment_enforcement_date": "2016-05-20",
+   "amendment_law_id": "428AC0000000047",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　排出水の排出の規制等",
+  "第二章の二　生活排水対策の推進",
+  "第三章　水質の汚濁の状況の監視等",
+  "第四章　損害賠償",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、工場及び事業場から公共用水域に排出される水の排出及び地下に浸透する水の浸透を規制するとともに、生活排水対策の実施を推進すること等によつて、公共用水域及び地下水の水質の汚濁（水質以外の水の状態が悪化することを含む。以下同じ。）の防止を図り、もつて国民の健康を保護するとともに生活環境を保全し、並びに工場及び事業場から排出される汚水及び廃液に関して人の健康に係る被害が生じた場合における事業者の損害賠償の責任について定めることにより、被害者の保護を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-12-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:28:06+09:00"
+ }
+}

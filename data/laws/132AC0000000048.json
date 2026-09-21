@@ -1,0 +1,149 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "132AC0000000048",
+  "law_num": "明治三十二年法律第四十八号",
+  "law_num_era": "Meiji",
+  "law_num_year": 32,
+  "law_num_type": "Act",
+  "law_num_num": "048",
+  "promulgation_date": "1899-03-09"
+ },
+ "revision_info": {
+  "law_revision_id": "132AC0000000048_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "商法",
+  "law_title_kana": "しょうほう",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-07-01T10:08:40+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "132AC0000000048_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "132AC0000000048_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "132AC0000000048_20230401_503AC0000000061",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000061",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "132AC0000000048_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "132AC0000000048_20190401_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "132AC0000000048_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "132AC0000000048_20160401_426AC0000000042",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000042",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一編　総則",
+  "第一章　通則",
+  "第二章　商人",
+  "第三章　商業登記",
+  "第四章　商号",
+  "第五章　商業帳簿",
+  "第六章　商業使用人",
+  "第七章　代理商",
+  "第二編　商行為",
+  "第一章　総則",
+  "第二章　売買",
+  "第三章　交互計算",
+  "第四章　匿名組合",
+  "第五章　仲立営業",
+  "第六章　問屋営業",
+  "第七章　運送取扱営業",
+  "第八章　運送営業",
+  "第九章　寄託",
+  "第三編　海商",
+  "第一章　船舶",
+  "第二章　船長",
+  "第三章　海上物品運送に関する特則",
+  "第四章　船舶の衝突",
+  "第五章　海難救助",
+  "第六章　共同海損",
+  "第七章　海上保険",
+  "第八章　船舶先取特権及び船舶抵当権"
+ ],
+ "article1": {
+  "caption": "（趣旨等）",
+  "title": "第一条",
+  "paragraphs": [
+   "商人の営業、商行為その他商事については、他の法律に特別の定めがあるものを除くほか、この法律の定めるところによる。",
+   "商事に関し、この法律に定めがない事項については商慣習に従い、商慣習がないときは、民法（明治二十九年法律第八十九号）の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1899-03-09",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-01T10:08:40+09:00"
+ }
+}

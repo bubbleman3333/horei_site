@@ -1,0 +1,139 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "342CO0000000284",
+  "law_num": "昭和四十二年政令第二百八十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 42,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "284",
+  "promulgation_date": "1967-09-07"
+ },
+ "revision_info": {
+  "law_revision_id": "342CO0000000284_20251001_507CO0000000323",
+  "law_type": "CabinetOrder",
+  "law_title": "公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行令",
+  "law_title_kana": "こうきょうようひこうじょうしゅうへんにおけるこうくうきそうおんによるしょうがいのぼうしとうにかんするほうりつしこうれい",
+  "abbrev": "騒防法施行令,航空機騒音障害防止法施行令,航空機騒音防止法施行令",
+  "category": "環境保全",
+  "updated": "2025-10-03T09:14:50+09:00",
+  "amendment_promulgate_date": "2025-09-18",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000323",
+  "amendment_law_title": "放送法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "342CO0000000284_20251001_507CO0000000323",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000323",
+   "amendment_law_title": "放送法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000284_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000284_20221001_504CO0000000289",
+   "amendment_promulgate_date": "2022-08-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000289",
+   "amendment_law_title": "電波法及び放送法の一部を改正する法律の施行に伴う関係政令の整理等に関する政令",
+   "amendment_law_num": "令和四年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000284_20211101_503CO0000000296",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000296",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000284_20200907_502CO0000000268",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502CO0000000268",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000284_20180601_430CO0000000019",
+   "amendment_promulgate_date": "2018-01-31",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430CO0000000019",
+   "amendment_law_title": "絶滅のおそれのある野生動植物の種の保存に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000284_20180401_430CO0000000103",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000103",
+   "amendment_law_title": "公共用飛行場周辺における航空機騒音による障害の防止等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000284_20180401_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000284_20160401_427CO0000000392",
+   "amendment_promulgate_date": "2015-11-26",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000392",
+   "amendment_law_title": "行政不服審査法及び行政不服審査法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第三百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定飛行場）",
+  "title": "第一条",
+  "paragraphs": [
+   "公共用飛行場周辺における航空機騒音による障害の防止等に関する法律（以下「法」という。）第二条の政令で指定する公共用飛行場は、函館空港、仙台空港、東京国際空港、新潟空港、松山空港、高知空港、福岡空港、熊本空港、大分空港、宮崎空港、鹿児島空港及び那覇空港とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1967-09-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-03T09:14:50+09:00"
+ }
+}

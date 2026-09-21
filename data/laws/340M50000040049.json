@@ -1,0 +1,277 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "340M50000040049",
+  "law_num": "昭和四十年大蔵省令第四十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "049",
+  "promulgation_date": "1965-08-13"
+ },
+ "revision_info": {
+  "law_revision_id": "340M50000040049_20260101_506M60000040048",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国税質問検査章規則",
+  "law_title_kana": "こくぜいしつもんけんさしょうきそく",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-01-01T03:07:26+09:00",
+  "amendment_promulgate_date": "2024-06-28",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000040048",
+  "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+  "amendment_law_num": "令和六年財務省令第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340M50000040049_20280101_508M60000040028",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_enforcement_comment": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（令和八年法律第六十四号）の施行の日の属する年の翌年の一月一日",
+   "amendment_scheduled_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508M60000040028",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20270101_508M60000040028",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508M60000040028",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20260101_506M60000040048",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "506M60000040048",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20250401_507M60000040032",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040032",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20231001_504M60000040032",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "504M60000040032",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20230501_505M60000040026",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-05-01",
+   "amendment_law_id": "505M60000040026",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20230401_505M60000040026",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000040026",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20220401_504M60000040032",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040032",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20220401_502M60000040056",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502M60000040056",
+   "amendment_law_title": "法人税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20210401_503M60000040031",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000040031",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20210401_502M60000040021",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040021",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20210101_431M60000040023",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040023",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20200401_502M60000048003",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000048003",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の施行に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省・財務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20200401_502M60000048002",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000048002",
+   "amendment_law_title": "外国居住者等の所得に対する相互主義による所得税等の非課税等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省・財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20200401_431M60000040023",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040023",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20190716_431M60000040023",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-16",
+   "amendment_law_id": "431M60000040023",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20190701_431M60000040023",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040023",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20190401_431M60000040023",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040023",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20190101_430M60000040026",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040026",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20180101_428M60000040028",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "428M60000040028",
+   "amendment_law_title": "国税質問検査章規則の一部を改正する省令",
+   "amendment_law_num": "平成二十八年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20171001_429M60000040024",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429M60000040024",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50000040049_20170401_428M60000040028",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428M60000040028",
+   "amendment_law_num": "平成二十八年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "削除"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-08-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T03:07:26+09:00"
+ }
+}

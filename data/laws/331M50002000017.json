@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "331M50002000017",
+  "law_num": "昭和三十一年労働省令第十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 31,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "1956-08-01"
+ },
+ "revision_info": {
+  "law_revision_id": "331M50002000017_20260521_508M60000100088",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "労働保険審査官及び労働保険審査会法施行規則",
+  "law_title_kana": "ろうどうほけんしんさかんおよびろうどうほけんしんさかいほうしこうきそく",
+  "abbrev": "労審法施行規則",
+  "category": "労働",
+  "updated": "2026-05-27T11:21:46+09:00",
+  "amendment_promulgate_date": "2026-04-28",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100088",
+  "amendment_law_title": "社会保険審査官及び社会保険審査会法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第八十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "331M50002000017_20260521_508M60000100088",
+   "amendment_promulgate_date": "2026-04-28",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000100088",
+   "amendment_law_title": "社会保険審査官及び社会保険審査会法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "331M50002000017_20250401_507M60000100023",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100023",
+   "amendment_law_title": "労働保険審査官及び労働保険審査会法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50002000017_20210101_502M60000100207",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000100207",
+   "amendment_law_title": "労働保険審査官及び労働保険審査会法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50002000017_20191216_501M60000100080",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000100080",
+   "amendment_law_title": "厚生労働省の所管する法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50002000017_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50002000017_20160401_428M60000100025",
+   "amendment_promulgate_date": "2016-02-25",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000100025",
+   "amendment_law_num": "平成二十八年厚生労働省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（関係労働者及び関係事業主を代表する者の名称）",
+  "title": "第一条",
+  "paragraphs": [
+   "労働保険審査官及び労働保険審査会法（以下「法」という。）第五条の規定により指名された者の名称は、労働者災害補償保険制度の関係労働者又は関係事業主を代表する者は労働者災害補償保険審査参与とし、雇用保険制度の関係労働者又は関係事業主を代表する者は雇用保険審査参与とし、それぞれ当該都道府県の名を冠する。",
+   "法第三十六条の規定により指名された者の名称は、労働保険審査会参与とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1956-08-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T11:21:46+09:00"
+ }
+}

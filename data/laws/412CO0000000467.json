@@ -1,0 +1,110 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000467",
+  "law_num": "平成十二年政令第四百六十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "467",
+  "promulgation_date": "2000-11-06"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000467_20260521_508CO0000000163",
+  "law_type": "CabinetOrder",
+  "law_title": "ストーカー行為等の規制等に関する法律施行令",
+  "law_title_kana": "すとーかーこういとうのきせいとうにかんするほうりつしこうれい",
+  "abbrev": "ストーカー規制法施行令,ストーカー法施行令",
+  "category": "警察",
+  "updated": "2026-05-28T10:12:40+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000163",
+  "amendment_law_title": "ストーカー行為等の規制等に関する法律施行令及び国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する財産の凍結等に関する特別措置法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000467_20260521_508CO0000000163",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000163",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律施行令及び国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する財産の凍結等に関する特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000467_20251230_507CO0000000424",
+   "amendment_promulgate_date": "2025-12-19",
+   "amendment_enforcement_date": "2025-12-30",
+   "amendment_law_id": "507CO0000000424",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000467_20230401_504CO0000000391",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000391",
+   "amendment_law_title": "道路交通法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000467_20210826_503CO0000000230",
+   "amendment_promulgate_date": "2021-08-13",
+   "amendment_enforcement_date": "2021-08-26",
+   "amendment_law_id": "503CO0000000230",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000467_20170614_429CO0000000150",
+   "amendment_promulgate_date": "2017-05-26",
+   "amendment_enforcement_date": "2017-06-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000150",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000467_20160401_428CO0000000072",
+   "amendment_promulgate_date": "2016-03-24",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000072",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律施行令及び国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（位置情報記録・送信装置の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "ストーカー行為等の規制等に関する法律（以下「法」という。）第二条第三項第一号の政令で定める装置は、地理空間情報活用推進基本法（平成十九年法律第六十三号）第二条第四項に規定する衛星測位の技術を用いて得られる当該装置の位置に係る位置情報を電磁的記録（電子的方式、磁気的方式その他人の知覚によっては認識することができない方式で作られる記録であって、電子計算機による情報処理の用に供されるものをいう。次条において同じ。）として記録し、又はこれを送信する機能を有する装置をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-11-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-28T10:12:40+09:00"
+ }
+}

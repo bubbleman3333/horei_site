@@ -1,0 +1,273 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "344M50000002045",
+  "law_num": "昭和四十四年総理府令第四十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 44,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "045",
+  "promulgation_date": "1969-12-02"
+ },
+ "revision_info": {
+  "law_revision_id": "344M50000002045_20260408_508M60002000013",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "防衛省職員給与施行規則",
+  "law_title_kana": "ぼうえいしょうしょくいんきゅうよしこうきそく",
+  "abbrev": null,
+  "category": "防衛",
+  "updated": "2026-05-20T14:27:26+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60002000013",
+  "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年防衛省令第十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "344M50000002045_20260408_508M60002000013",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60002000013",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20260401_508M60002000011",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60002000011",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20251224_507M60002000018",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_law_id": "507M60002000018",
+   "amendment_law_title": "防衛省職員の災害補償に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20250401_507M60002000010",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60002000010",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20241225_506M60002000011",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506M60002000011",
+   "amendment_law_title": "防衛省の職員に対する寒冷地手当支給規則及び防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年防衛省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20240517_506M60002000006",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506M60002000006",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年防衛省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20240401_506M60002000005",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60002000005",
+   "amendment_law_title": "防衛省職員給与施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20231124_505M60002000015",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2023-11-24",
+   "amendment_law_id": "505M60002000015",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20230401_505M60002000003",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60002000003",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20221128_504M60002000012",
+   "amendment_promulgate_date": "2022-11-28",
+   "amendment_enforcement_date": "2022-11-28",
+   "amendment_law_id": "504M60002000012",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年防衛省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20220401_504M60002000003",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60002000003",
+   "amendment_law_title": "指定職俸給表の適用を受ける書記官その他の官職及びこれらに準ずる自衛官の官職を定める省令等の一部を改正する省令",
+   "amendment_law_num": "令和四年防衛省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20210901_503M60002000007",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60002000007",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年防衛省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20210401_503M60002000004",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60002000004",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20200401_502M60002000003",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60002000003",
+   "amendment_law_title": "防衛省職員給与施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年防衛省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20191122_501M60002000006",
+   "amendment_promulgate_date": "2019-11-22",
+   "amendment_enforcement_date": "2019-11-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60002000006",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年防衛省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20190401_431M60002000005",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60002000005",
+   "amendment_law_title": "自衛隊法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20190101_430M60002000011",
+   "amendment_promulgate_date": "2018-12-27",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60002000011",
+   "amendment_law_title": "防衛省定員規則及び防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年防衛省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20181130_430M60002000010",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-11-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60002000010",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年防衛省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20180401_430M60002000003",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60002000003",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年防衛省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20171215_429M60002000015",
+   "amendment_promulgate_date": "2017-12-15",
+   "amendment_enforcement_date": "2017-12-15",
+   "amendment_law_id": "429M60002000015",
+   "amendment_law_title": "防衛省職員給与施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年防衛省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20170608_429M60002000008",
+   "amendment_promulgate_date": "2017-06-08",
+   "amendment_enforcement_date": "2017-06-08",
+   "amendment_law_id": "429M60002000008",
+   "amendment_law_num": "平成二十九年防衛省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50000002045_20170401_429M60002000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60002000004",
+   "amendment_law_num": "平成二十九年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（三等陸尉、三等海尉又は三等空尉以上の自衛官の候補者として採用された者のその候補者である間の俸給月額）",
+  "title": "第一条",
+  "paragraphs": [
+   "防衛省の職員の給与等に関する法律（以下「法」という。）第四条第四項ただし書に規定する防衛省令で定める額は、次の各号に掲げる者の区分に応じ、当該各号に定める額とする。",
+   "自衛官として有用な経験を有すると防衛大臣が認める者の法第四条第四項ただし書に規定する防衛省令で定める額は、前項の規定にかかわらず、その者の経験に応じ、三十万八千四百円を超えない範囲内で防衛大臣の定める額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1969-12-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T14:27:26+09:00"
+ }
+}

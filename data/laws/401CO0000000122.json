@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "401CO0000000122",
+  "law_num": "平成元年政令第百二十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 1,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "122",
+  "promulgation_date": "1989-04-28"
+ },
+ "revision_info": {
+  "law_revision_id": "401CO0000000122_20260701_508CO0000000177",
+  "law_type": "CabinetOrder",
+  "law_title": "旅券法施行令",
+  "law_title_kana": "りょけんほうせこうれい",
+  "abbrev": null,
+  "category": "外事",
+  "updated": "2026-07-01T00:36:34+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000177",
+  "amendment_law_title": "旅券法施行令及び出入国管理及び難民認定法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百七十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "401CO0000000122_20260701_508CO0000000177",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000177",
+   "amendment_law_title": "旅券法施行令及び出入国管理及び難民認定法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000122_20250324_506CO0000000228",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "506CO0000000228",
+   "amendment_law_title": "旅券法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000122_20230327_504CO0000000323",
+   "amendment_promulgate_date": "2022-10-05",
+   "amendment_enforcement_date": "2023-03-27",
+   "amendment_law_id": "504CO0000000323",
+   "amendment_law_title": "旅券法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "401CO0000000122_20140320_425CO0000000364",
+   "amendment_promulgate_date": "2013-12-26",
+   "amendment_enforcement_date": "2014-03-20",
+   "amendment_law_id": "425CO0000000364",
+   "amendment_law_num": "平成二十五年政令第三百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（国内における国に納付する手数料の額及び納付の方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "旅券法（以下「法」という。）第二十条第一項の政令で定める手数料の額は、次の各号に掲げる処分の区分に応じ当該各号に定める額とする。",
+   "法第二十条第一項、第二項及び第四項の手数料は、当該手数料の額に相当する収入印紙を一般旅券又は渡航書の受領証に貼って納付するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1989-04-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:36:34+09:00"
+ }
+}

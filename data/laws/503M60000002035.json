@@ -1,0 +1,283 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "503M60000002035",
+  "law_num": "令和三年内閣府令第三十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 3,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "035",
+  "promulgation_date": "2021-06-02"
+ },
+ "revision_info": {
+  "law_revision_id": "503M60000002035_20260601_508M60000002014",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "金融サービス仲介業者等に関する内閣府令",
+  "law_title_kana": "きんゆうさーびすちゅうかいぎょうしゃとうにかんするないかくふれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-06-01T02:07:56+09:00",
+  "amendment_promulgate_date": "2026-03-30",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002014",
+  "amendment_law_title": "保険業法施行規則及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "503M60000002035_20280301_508M60000002073",
+   "amendment_promulgate_date": "2026-08-28",
+   "amendment_enforcement_date": "2028-03-01",
+   "amendment_law_id": "508M60000002073",
+   "amendment_law_title": "保険業法施行規則及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20260601_508M60000002014",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000002014",
+   "amendment_law_title": "保険業法施行規則及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20260101_507M60000002101",
+   "amendment_promulgate_date": "2025-12-15",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000002101",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20251201_507M60000002014",
+   "amendment_promulgate_date": "2025-03-11",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507M60000002014",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20251001_507M60000002086",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000002086",
+   "amendment_law_title": "貸金業法施行規則及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20250601_507M60000002049",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000002049",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20250401_507M60000002008",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002008",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20241101_506M60000002089",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000002089",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20240401_506M60000002029",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002029",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20240401_506M60000002019",
+   "amendment_promulgate_date": "2024-03-22",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002019",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20240308_506M60000002017",
+   "amendment_promulgate_date": "2024-03-08",
+   "amendment_enforcement_date": "2024-03-08",
+   "amendment_law_id": "506M60000002017",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20240201_506M60000002007",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000002007",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20231227_505M60000002087",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000002087",
+   "amendment_law_title": "内閣府の所管する金融関連法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20230601_505M60000002050",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000002050",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20220622_504M60000002040",
+   "amendment_promulgate_date": "2022-06-21",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504M60000002040",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20220622_504M60000002035",
+   "amendment_promulgate_date": "2022-04-22",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504M60000002035",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20220509_504M60000002036",
+   "amendment_promulgate_date": "2022-04-28",
+   "amendment_enforcement_date": "2022-05-09",
+   "amendment_law_id": "504M60000002036",
+   "amendment_law_title": "保険業法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20220401_504M60000002013",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000002013",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20220401_504M60000002012",
+   "amendment_promulgate_date": "2022-03-18",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000002012",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20211122_503M60000002069",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503M60000002069",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20211101_503M60000002044",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000002044",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20211101_000000000000000",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60000002035_20210630_503M60000002045",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_law_id": "503M60000002045",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　金融サービス仲介業者",
+  "第三章　認定金融サービス仲介業協会",
+  "第四章　指定紛争解決機関",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において「預金等」、「保険契約」、「有価証券」、「市場デリバティブ取引」、「外国市場デリバティブ取引」、「金融サービス仲介業」、「預金等媒介業務」、「保険媒介業務」、「有価証券等仲介業務」、「貸金業貸付媒介業務」、「金融サービス仲介業者」、「認定金融サービス仲介業協会」、「金融サービス仲介業務」、「指定紛争解決機関」、「苦情処理手続」、「紛争解決手続」、「紛争解決等業務」、「紛争解決等業務の種別」又は「手続実施基本契約」とは、それぞれ金融サービスの提供及び利用環境の整備等に関する法律（平成十二年法律第百一号。以下「法」という。）第一条の二又は第十一条に規定する預金等、保険契約、有価証券、市場デリバティブ取引、外国市場デリバティブ取引、金融サービス仲介業、預金等媒介業務、保険媒介業務、有価証券等仲介業務、貸金業貸付媒介業務、金融サービス仲介業者、認定金融サービス仲介業協会、金融サービス仲介業務、指定紛争解決機関、苦情処理手続、紛争解決手続、紛争解決等業務、紛争解決等業務の種別又は手続実施基本契約をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2021-06-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T02:07:56+09:00"
+ }
+}

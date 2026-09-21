@@ -1,0 +1,328 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "426CO0000000099",
+  "law_num": "平成二十六年政令第九十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "099",
+  "promulgation_date": "2014-03-28"
+ },
+ "revision_info": {
+  "law_revision_id": "426CO0000000099_20260401_507CO0000000360",
+  "law_type": "CabinetOrder",
+  "law_title": "国家戦略特別区域法施行令",
+  "law_title_kana": "こっかせんりゃくとくべつくいきほうしこうれい",
+  "abbrev": "国家戦略特区法施行令",
+  "category": "国土開発",
+  "updated": "2026-04-02T20:33:48+09:00",
+  "amendment_promulgate_date": "2025-10-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000360",
+  "amendment_law_title": "子ども・子育て支援法施行令及び国家戦略特別区域法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百六十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426CO0000000099_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20260401_507CO0000000360",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000360",
+   "amendment_law_title": "子ども・子育て支援法施行令及び国家戦略特別区域法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20251001_507CO0000000337",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000337",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20240216_505CO0000000379",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-02-16",
+   "amendment_law_id": "505CO0000000379",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律施行令",
+   "amendment_law_num": "令和五年政令第三百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20231213_505CO0000000330",
+   "amendment_promulgate_date": "2023-11-15",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505CO0000000330",
+   "amendment_law_title": "旅館業法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20230901_505CO0000000262",
+   "amendment_promulgate_date": "2023-08-14",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505CO0000000262",
+   "amendment_law_title": "国家戦略特別区域法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20230713_505CO0000000236",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000236",
+   "amendment_law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20230713_505CO0000000235",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000235",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20220617_504CO0000000218",
+   "amendment_promulgate_date": "2022-06-16",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504CO0000000218",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20220401_503CO0000000302",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000302",
+   "amendment_law_title": "社会福祉法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20220401_503CO0000000289",
+   "amendment_promulgate_date": "2021-10-20",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000289",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う厚生労働省関係政令等の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20201125_502CO0000000329",
+   "amendment_promulgate_date": "2020-11-20",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_id": "502CO0000000329",
+   "amendment_law_title": "道路法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第三百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20200901_502CO0000000252",
+   "amendment_promulgate_date": "2020-08-28",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000252",
+   "amendment_law_title": "国家戦略特別区域法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20200127_502CO0000000009",
+   "amendment_promulgate_date": "2020-01-24",
+   "amendment_enforcement_date": "2020-01-27",
+   "amendment_law_id": "502CO0000000009",
+   "amendment_law_title": "構造改革特別区域法施行令及び総合特別区域法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20191001_501CO0000000017",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000017",
+   "amendment_law_title": "子ども・子育て支援法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20190531_501CO0000000017",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-05-31",
+   "amendment_law_id": "501CO0000000017",
+   "amendment_law_title": "子ども・子育て支援法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20180401_429CO0000000290",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000290",
+   "amendment_law_title": "民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律施行令",
+   "amendment_law_num": "平成二十九年政令第二百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20171127_429CO0000000290",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2017-11-27",
+   "amendment_law_id": "429CO0000000290",
+   "amendment_law_title": "民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律施行令",
+   "amendment_law_num": "平成二十九年政令第二百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20170922_429CO0000000246",
+   "amendment_promulgate_date": "2017-09-21",
+   "amendment_enforcement_date": "2017-09-22",
+   "amendment_law_id": "429CO0000000246",
+   "amendment_law_title": "国家戦略特別区域法及び構造改革特別区域法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20170615_429CO0000000156",
+   "amendment_promulgate_date": "2017-06-14",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_law_id": "429CO0000000156",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20170401_429CO0000000128",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000128",
+   "amendment_law_title": "公立義務教育諸学校の学級編制及び教職員定数の標準に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20170401_429CO0000000063",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000063",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20170401_429CO0000000022",
+   "amendment_promulgate_date": "2017-02-17",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000022",
+   "amendment_law_title": "教育公務員特例法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000099_20170401_428CO0000000275",
+   "amendment_promulgate_date": "2016-08-03",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000275",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う文部科学省関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第二百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第二項第三号の政令で定める基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "国家戦略特別区域法（以下「法」という。）第二条第二項第三号の政令で定める基準は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-03-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T20:33:48+09:00"
+ }
+}

@@ -1,0 +1,183 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "421M60000800003",
+  "law_num": "平成二十一年国土交通省令第三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2009-02-24"
+ },
+ "revision_info": {
+  "law_revision_id": "421M60000800003_20251128_507M60000800101",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "長期優良住宅の普及の促進に関する法律施行規則",
+  "law_title_kana": "ちょうきゆうりょうじゅうたくのふきゅうのそくしんにかんするほうりつしこうきそく",
+  "abbrev": "長期優良住宅法施行規則",
+  "category": "建築・住宅",
+  "updated": "2025-11-28T00:56:05+09:00",
+  "amendment_promulgate_date": "2025-10-01",
+  "amendment_enforcement_date": "2025-11-28",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800101",
+  "amendment_law_title": "マンションの管理の適正化の推進に関する法律施行規則及び長期優良住宅の普及の促進に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第百一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421M60000800003_20270401_508M60000800070",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000800070",
+   "amendment_law_title": "マンションの管理の適正化の推進に関する法律施行規則及び長期優良住宅の普及の促進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20251128_507M60000800101",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2025-11-28",
+   "amendment_law_id": "507M60000800101",
+   "amendment_law_title": "マンションの管理の適正化の推進に関する法律施行規則及び長期優良住宅の普及の促進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20250401_506M60000800111",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800111",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20240401_506M60000800018",
+   "amendment_promulgate_date": "2024-03-08",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800018",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20240401_505M60000800075",
+   "amendment_promulgate_date": "2023-09-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000800075",
+   "amendment_law_title": "建築物のエネルギー消費性能の向上に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20230401_505M60000800005",
+   "amendment_promulgate_date": "2023-02-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000800005",
+   "amendment_law_title": "建築基準法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20230401_504M60000800092",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000800092",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20221001_504M60000800061",
+   "amendment_promulgate_date": "2022-08-16",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000800061",
+   "amendment_law_title": "長期優良住宅の普及の促進に関する法律施行規則及び住宅の品質確保の促進等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20220220_503M60000800067",
+   "amendment_promulgate_date": "2021-10-20",
+   "amendment_enforcement_date": "2022-02-20",
+   "amendment_law_id": "503M60000800067",
+   "amendment_law_title": "住宅の質の向上及び円滑な取引環境の整備のための長期優良住宅の普及の促進に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20210401_502M60000800075",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800075",
+   "amendment_law_title": "建築物のエネルギー消費性能の向上に関する法律の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年国土交通省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000800003_20160401_428M60000800006",
+   "amendment_promulgate_date": "2016-02-04",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800006",
+   "amendment_law_num": "平成二十八年国土交通省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（長期使用構造等とするための措置）",
+  "title": "第一条",
+  "paragraphs": [
+   "長期優良住宅の普及の促進に関する法律（以下「法」という。）第二条第四項第一号イに掲げる事項に関し誘導すべき国土交通省令で定める基準は、住宅の構造に応じた腐食、腐朽又は摩損しにくい部材の使用その他の同条第三項第一号及び第二号に掲げる住宅の部分の構造の腐食、腐朽及び摩損の防止を適切に図るための措置として国土交通大臣が定めるものが講じられていることとする。",
+   "法第二条第四項第一号ロに掲げる事項に関し誘導すべき国土交通省令で定める基準は、同条第三項第一号に掲げる住宅の部分（以下「構造躯体」という。）の地震による損傷の軽減を適切に図るための措置として国土交通大臣が定めるものが講じられていることとする。",
+   "法第二条第四項第二号の国土交通省令で定める措置は、居住者の加齢による身体の機能の低下、居住者の世帯構成の異動その他の事由による住宅の利用の状況の変化に対応した間取りの変更に伴う構造の変更及び設備の変更を容易にするための措置として国土交通大臣が定めるものとする。",
+   "法第二条第四項第三号の国土交通省令で定める措置は、同条第三項第三号に掲げる住宅の設備について、同項第一号に掲げる住宅の部分に影響を及ぼすことなく点検又は調査を行い、及び必要に応じ修繕又は改良を行うことができるようにするための措置その他の維持保全を容易にするための措置として国土交通大臣が定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-02-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-28T00:56:05+09:00"
+ }
+}

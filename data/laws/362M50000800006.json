@@ -1,0 +1,226 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "362M50000800006",
+  "law_num": "昭和六十二年運輸省令第六号",
+  "law_num_era": "Showa",
+  "law_num_year": 62,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "1987-02-20"
+ },
+ "revision_info": {
+  "law_revision_id": "362M50000800006_20260401_507M60000800120",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "鉄道事業法施行規則",
+  "law_title_kana": "てつどうじぎょうほうしこうきそく",
+  "abbrev": null,
+  "category": "陸運",
+  "updated": "2026-04-01T07:29:36+09:00",
+  "amendment_promulgate_date": "2025-12-15",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800120",
+  "amendment_law_title": "内航海運業法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第百二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "362M50000800006_20260401_507M60000800120",
+   "amendment_promulgate_date": "2025-12-15",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000800120",
+   "amendment_law_title": "内航海運業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20251215_507M60000800120",
+   "amendment_promulgate_date": "2025-12-15",
+   "amendment_enforcement_date": "2025-12-15",
+   "amendment_law_id": "507M60000800120",
+   "amendment_law_title": "内航海運業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20231001_505M60000800073",
+   "amendment_promulgate_date": "2023-09-22",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000800073",
+   "amendment_law_title": "地域公共交通の活性化及び再生に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年国土交通省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20230401_505M60000800012",
+   "amendment_promulgate_date": "2023-03-17",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000800012",
+   "amendment_law_title": "鉄道事業法施行規則及び軌道法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20211228_503M60000800082",
+   "amendment_promulgate_date": "2021-12-28",
+   "amendment_enforcement_date": "2021-12-28",
+   "amendment_law_id": "503M60000800082",
+   "amendment_law_title": "軌道法施行規則及び鉄道事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20211101_503M60000800064",
+   "amendment_promulgate_date": "2021-10-01",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000800064",
+   "amendment_law_title": "鉄道事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年国土交通省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20210401_503M60000800031",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000800031",
+   "amendment_law_title": "踏切道改良促進法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20210201_502M60000800087",
+   "amendment_promulgate_date": "2020-11-02",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "502M60000800087",
+   "amendment_law_title": "海上運送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20201102_502M60000800087",
+   "amendment_promulgate_date": "2020-11-02",
+   "amendment_enforcement_date": "2020-11-02",
+   "amendment_law_id": "502M60000800087",
+   "amendment_law_title": "海上運送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20190914_501M60000800034",
+   "amendment_promulgate_date": "2019-09-13",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800034",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律等の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20180831_430M60000800064",
+   "amendment_promulgate_date": "2018-08-24",
+   "amendment_enforcement_date": "2018-08-31",
+   "amendment_law_id": "430M60000800064",
+   "amendment_law_title": "海外社会資本事業への我が国事業者の参入の促進に関する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "平成三十年国土交通省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20170615_429M60000800037",
+   "amendment_promulgate_date": "2017-06-15",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_law_id": "429M60000800037",
+   "amendment_law_num": "平成二十九年国土交通省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362M50000800006_20160401_428M60000800039",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800039",
+   "amendment_law_num": "平成二十八年国土交通省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　鉄道事業",
+  "第三章　索道事業",
+  "第四章　削除",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、鉄道事業法（以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1987-02-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T07:29:36+09:00"
+ }
+}

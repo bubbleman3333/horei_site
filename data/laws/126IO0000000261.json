@@ -1,0 +1,70 @@
+{
+ "law_info": {
+  "law_type": "ImperialOrder",
+  "law_id": "126IO0000000261",
+  "law_num": "明治二十六年勅令第二百六十一号",
+  "law_num_era": "Meiji",
+  "law_num_year": 26,
+  "law_num_type": "ImperialOrder",
+  "law_num_num": "261",
+  "promulgation_date": "1893-12-27"
+ },
+ "revision_info": {
+  "law_revision_id": "126IO0000000261_20260318_508CO0000000038",
+  "law_type": "ImperialOrder",
+  "law_title": "明治二十六年勅令第二百六十一号（政府ノ債務ニ対シ差押命令ヲ受クル場合ニ於ケル会計上ノ規程）",
+  "law_title_kana": "せいふのさいむにたいしさしおさえめいれいをうくるばあいにおけるかいけいじょうのきてい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-03-26T14:01:33+09:00",
+  "amendment_promulgate_date": "2026-03-18",
+  "amendment_enforcement_date": "2026-03-18",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000038",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "126IO0000000261_20260318_508CO0000000038",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-03-18",
+   "amendment_law_id": "508CO0000000038",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "126IO0000000261_20050401_416CO0000000419",
+   "amendment_promulgate_date": "2004-12-27",
+   "amendment_enforcement_date": "2005-04-01",
+   "amendment_law_id": "416CO0000000419",
+   "amendment_law_num": "平成十六年政令第四百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "政府ヲ第三債務者トシテ発スル差押命令又ハ差押処分（以下「差押命令等」ト謂フ）ハ左ノ三項ニ掲クルモノノ外仕払命令官ニ宛之ヲ発スルモノトス",
+   "仕払命令官既ニ現金前渡ノ仕払命令又ハ仕払請求書ヲ発シタル場合ニ於テハ現金前渡ヲ受ケタル官吏ニ向テ差押命令等ヲ発スルモノトス但シ記名公債元利ニ対スル差押命令等ハ公債元利ノ仕払ヲ取扱フ銀行ニ向テ発スルモノトス",
+   "出納官吏カ繰替払ヲ為ス歳出金ニ対スル差押命令等ハ其ノ繰替払ヲ命令スル官吏ニ向テ発スルモノトス",
+   "預金、保管金、供託金ニ対スル差押命令等ハ中央金庫ニ係ルモノハ金庫出納役ニ、本支金庫ニ係ルモノハ関係ノ金庫出納役代理人ニ向テ発スルモノトス但シ出納官吏ノ保管ニ係ル歳入歳出外現金ニ対スル差押命令等ハ当該出納官吏ニ向テ発スルモノトス"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1893-12-27",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-03-26T14:01:33+09:00"
+ }
+}

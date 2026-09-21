@@ -1,0 +1,162 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "324M50000040049",
+  "law_num": "昭和二十四年大蔵省令第四十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "049",
+  "promulgation_date": "1949-06-01"
+ },
+ "revision_info": {
+  "law_revision_id": "324M50000040049_20260710_508M60000040048",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "調査査察部等の所掌事務の範囲を定める省令",
+  "law_title_kana": "ちょうさささつぶとうのしょしょうじむのはんいをさだめるしょうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-07-15T09:59:26+09:00",
+  "amendment_promulgate_date": "2026-07-01",
+  "amendment_enforcement_date": "2026-07-10",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040048",
+  "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324M50000040049_20260710_508M60000040048",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-07-10",
+   "amendment_law_id": "508M60000040048",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20260401_508M60000040015",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040015",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20240710_506M60000040050",
+   "amendment_promulgate_date": "2024-07-01",
+   "amendment_enforcement_date": "2024-07-10",
+   "amendment_law_id": "506M60000040050",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20220710_504M60000040044",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-10",
+   "amendment_law_id": "504M60000040044",
+   "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20220401_504M60000040035",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040035",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20210710_503M60000040053",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-07-10",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040053",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20200710_502M60000040057",
+   "amendment_promulgate_date": "2020-07-01",
+   "amendment_enforcement_date": "2020-07-10",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040057",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20200101_501M60000040039",
+   "amendment_promulgate_date": "2019-12-27",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040039",
+   "amendment_law_title": "財務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20180501_430M60000040005",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040005",
+   "amendment_law_title": "調査査察部等の所掌事務の範囲を定める省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20180401_430M60000040005",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040005",
+   "amendment_law_title": "調査査察部等の所掌事務の範囲を定める省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000040049_20160401_428M60000040038",
+   "amendment_promulgate_date": "2016-04-01",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000040038",
+   "amendment_law_num": "平成二十八年財務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "国税庁の調査査察部並びに国税局の調査査察部、調査部、調査第一部、調査第二部、調査第三部、調査第四部及び査察部並びに沖縄国税事務所の調査課及び査察課の所掌事務の範囲は、内国税の賦課（国税通則法（昭和三十七年法律第六十六号）第七十四条の七の二第一項の規定による報告の求めに関することを除く。）及び徴収並びに外国との租税に関する協定の実施のために行う調査に関する事務のうち、次に掲げるものとし、第一号から第四号まで及び第六号に掲げるものは、調査課（関東信越国税局の調査査察部にあつては、調査管理課、調査総括課、調査審理課、国際調査課、特別国税調査官及び統括国税調査官とし、東京国税局の調査第一部にあつては、調査管理課、広域情報管理課、調査総括課、調査審理課、国際調査管理課、国際調査課、国際機動課、事前確認審査課、調査開発課、特別国税調査官、統括国税調査官及び情報企画分析官とし、東京国税局の調査第二部、調査第三部及び調査第四部にあつては、調査総括課及び統括国税調査官とし、名古屋国税局の調査部にあつては、調査管理課、広域情報管理課、調査総括課、調査審理課、国際調査管理課、国際調査課、調査開発課、特別国税調査官及び統括国税調査官とし、大阪国税局の調査第一部にあつては、調査管理課、広域情報管理課、調査総括課、調査審理課、国際調査管理課、国際調査課、事前確認審査課、調査開発課、特別国税調査官、統括国税調査官及び情報企画分析官とし、大阪国税局の調査第二部にあつては、調査総括課及び統括国税調査官とし、札幌国税局、仙台国税局、金沢国税局、広島国税局、高松国税局、福岡国税局及び熊本国税局の調査査察部にあつては…"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-06-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-15T09:59:26+09:00"
+ }
+}

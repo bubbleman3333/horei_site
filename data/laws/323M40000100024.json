@@ -1,0 +1,118 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "323M40000100024",
+  "law_num": "昭和二十三年厚生省令第二十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "024",
+  "promulgation_date": "1948-07-13"
+ },
+ "revision_info": {
+  "law_revision_id": "323M40000100024_20260521_508M60000100085",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "墓地、埋葬等に関する法律施行規則",
+  "law_title_kana": "ぼちまいそうとうにかんするほうりつしこうきそく",
+  "abbrev": "墓地埋葬法施行規則",
+  "category": "厚生",
+  "updated": "2026-05-21T00:24:42+09:00",
+  "amendment_promulgate_date": "2026-04-27",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100085",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整理に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323M40000100024_20260521_508M60000100085",
+   "amendment_promulgate_date": "2026-04-27",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000100085",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100024_20260401_506M60000100150",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506M60000100150",
+   "amendment_law_title": "墓地、埋葬等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100024_20250401_506M60000100150",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100150",
+   "amendment_law_title": "墓地、埋葬等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100024_20221209_504M60000100165",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-09",
+   "amendment_law_id": "504M60000100165",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100024_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100024_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100024_20080512_420M60000100106",
+   "amendment_promulgate_date": "2008-05-02",
+   "amendment_enforcement_date": "2008-05-12",
+   "amendment_law_id": "420M60000100106",
+   "amendment_law_num": "平成二十年厚生労働省令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "墓地、埋葬等に関する法律（昭和二十三年法律第四十八号。以下「法」という。）第五条第一項の規定により、市町村長（特別区の区長を含む。以下同じ。）の埋葬又は火葬の許可を受けようとする者は、次の事項を記載した申請書を、同条第二項に規定する市町村長に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-07-13",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-21T00:24:42+09:00"
+ }
+}

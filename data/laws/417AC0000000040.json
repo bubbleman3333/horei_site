@@ -1,0 +1,159 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "417AC0000000040",
+  "law_num": "平成十七年法律第四十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "Act",
+  "law_num_num": "040",
+  "promulgation_date": "2005-05-06"
+ },
+ "revision_info": {
+  "law_revision_id": "417AC0000000040_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "有限責任事業組合契約に関する法律",
+  "law_title_kana": "ゆうげんせきにんじぎょうくみあいけいやくにかんするほうりつ",
+  "abbrev": "有限責任事業組合契約法,ＬＬＰ法",
+  "category": "産業通則",
+  "updated": "2026-07-01T11:43:56+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417AC0000000040_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20230401_503AC0000000024",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000024",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20220901_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20210428_503AC0000000024",
+   "amendment_promulgate_date": "2021-04-28",
+   "amendment_enforcement_date": "2021-04-28",
+   "amendment_law_id": "503AC0000000024",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20210215_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20191211_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000040_20130101_423AC0000000053",
+   "amendment_promulgate_date": "2011-05-25",
+   "amendment_enforcement_date": "2013-01-01",
+   "amendment_law_id": "423AC0000000053",
+   "amendment_law_num": "平成二十三年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　組合員の権利及び義務",
+  "第三章　組合員の加入及び脱退",
+  "第四章　計算等",
+  "第五章　組合の解散及び清算",
+  "第六章　民法の準用",
+  "第七章　登記",
+  "第八章　組合財産の分割禁止の登記",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、共同で営利を目的とする事業を営むための組合契約であって、組合員の責任の限度を出資の価額とするものに関する制度を確立することにより、個人又は法人が共同して行う事業の健全な発展を図り、もって我が国の経済活力の向上に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-05-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T11:43:56+09:00"
+ }
+}

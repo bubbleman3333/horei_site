@@ -1,0 +1,241 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000020001",
+  "law_num": "平成十三年外務省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2001-01-06"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000020001_20260801_508M60000020021",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "外務省組織規則",
+  "law_title_kana": "がいむしょうそしききそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-17T13:46:17+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000020021",
+  "amendment_law_title": "外務省組織規則の一部を改正する省令",
+  "amendment_law_num": "令和八年外務省令第二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000020001_20260801_508M60000020021",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508M60000020021",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年外務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20260401_508M60000020016",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000020016",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年外務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20250801_507M60000020014",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-08-01",
+   "amendment_law_id": "507M60000020014",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年外務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20250417_507M60000020010",
+   "amendment_promulgate_date": "2025-04-16",
+   "amendment_enforcement_date": "2025-04-17",
+   "amendment_law_id": "507M60000020010",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年外務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20240801_506M60000020013",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-08-01",
+   "amendment_law_id": "506M60000020013",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年外務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20240701_506M60000020013",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000020013",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和六年外務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20230401_505M60000020008",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000020008",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年外務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20220926_504M60000020009",
+   "amendment_promulgate_date": "2022-09-20",
+   "amendment_enforcement_date": "2022-09-26",
+   "amendment_law_id": "504M60000020009",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年外務省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20220401_504M60000020005",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000020005",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年外務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20210401_503M60000020004",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000020004",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年外務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20200803_502M60000020010",
+   "amendment_promulgate_date": "2020-07-31",
+   "amendment_enforcement_date": "2020-08-03",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000020010",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和二年外務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20200401_502M60000020004",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000020004",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和二年外務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20191001_501M60000020005",
+   "amendment_promulgate_date": "2019-10-01",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000020005",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和元年外務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20190401_431M60000020003",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000020003",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年外務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20181203_430M60000020011",
+   "amendment_promulgate_date": "2018-12-03",
+   "amendment_enforcement_date": "2018-12-03",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000020011",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年外務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20180701_430M60000020005",
+   "amendment_promulgate_date": "2018-06-29",
+   "amendment_enforcement_date": "2018-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000020005",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年外務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20180401_430M60000020003",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000020003",
+   "amendment_law_title": "外務省組織規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年外務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000020001_20170401_429M60000020006",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000020006",
+   "amendment_law_num": "平成二十九年外務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　内部部局等",
+  "第二章　施設等機関",
+  "第三章　外務省顧問及び外務省参与"
+ ],
+ "article1": {
+  "caption": "（監察査察室、公文書監理室及び外交史料館並びに記録官及び企画官）",
+  "title": "第一条",
+  "paragraphs": [
+   "総務課に、監察査察室、公文書監理室及び外交史料館並びに記録官一人及び企画官四人を置く。",
+   "監察査察室は、次に掲げる事務をつかさどる。",
+   "監察査察室に、室長を置く。",
+   "公文書監理室は、次に掲げる事務をつかさどる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-01-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-17T13:46:17+09:00"
+ }
+}

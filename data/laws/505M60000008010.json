@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000008010",
+  "law_num": "令和五年総務省令第十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "010",
+  "promulgation_date": "2023-03-01"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000008010_20260401_508M60000008024",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "総務省の所管する法令に係る情報通信技術を利用する方法による国の歳入等の納付に関する法律施行規則",
+  "law_title_kana": "そうむしょうのしょかんするほうれいにかかるじょうほうつうしんぎじゅつをりようするほうほうによるくにのさいにゅうとうののうふにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-04-02T21:51:03+09:00",
+  "amendment_promulgate_date": "2026-03-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008024",
+  "amendment_law_title": "総務省の所管する法令に係る情報通信技術を利用する方法による国の歳入等の納付に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000008010_20260401_508M60000008024",
+   "amendment_promulgate_date": "2026-03-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008024",
+   "amendment_law_title": "総務省の所管する法令に係る情報通信技術を利用する方法による国の歳入等の納付に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000008010_20250401_507M60000008035",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000008035",
+   "amendment_law_title": "総務省の所管する法令に係る情報通信技術を利用する方法による国の歳入等の納付に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000008010_20230301_000000000000000",
+   "amendment_promulgate_date": "2023-03-01",
+   "amendment_enforcement_date": "2023-03-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "総務省の所管する法令に係る歳入等の納付を、情報通信技術を利用する方法による国の歳入等の納付に関する法律（以下「法」という。）第三条第一項の規定に基づき情報通信技術を利用して自ら納付する方法により行わせる場合又は法第四条の規定に基づき情報通信技術を利用して指定納付受託者に委託して納付する方法により行わせる場合については、他の法律及び法律に基づく命令（告示を含む。）に特別の定めのある場合を除くほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-03-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:51:03+09:00"
+ }
+}

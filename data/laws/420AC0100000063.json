@@ -1,0 +1,204 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "420AC0100000063",
+  "law_num": "平成二十年法律第六十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "Act",
+  "law_num_num": "063",
+  "promulgation_date": "2008-06-11"
+ },
+ "revision_info": {
+  "law_revision_id": "420AC0100000063_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "科学技術・イノベーション創出の活性化に関する法律",
+  "law_title_kana": "かがくぎじゅついのべーしょんそうしゅつのかっせいかにかんするほうりつ",
+  "abbrev": "研究開発力強化法,科技イノベ活性化法",
+  "category": "産業通則",
+  "updated": "2026-07-23T12:08:43+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420AC0100000063_20270618_508AC0000000041",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2027-06-18",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-06-18",
+   "amendment_law_id": "508AC0000000041",
+   "amendment_law_title": "産業技術力強化法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20270416_508AC0000000059",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2027-04-16",
+   "amendment_enforcement_comment": "公布の日から起算して九月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-04-16",
+   "amendment_law_id": "508AC0000000059",
+   "amendment_law_title": "科学技術・イノベーション創出の活性化に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20260717_508AC0000000059",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000059",
+   "amendment_law_title": "科学技術・イノベーション創出の活性化に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20250401_505AC0000000047",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000047",
+   "amendment_law_title": "国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20230607_505AC0000000047",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2023-06-07",
+   "amendment_law_id": "505AC0000000047",
+   "amendment_law_title": "国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20221114_504AC0000000046",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504AC0000000046",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20220520_504AC0000000046",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504AC0000000046",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20210401_502AC0000000063",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000063",
+   "amendment_law_title": "科学技術基本法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20200624_502AC0000000063",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2020-06-24",
+   "amendment_law_id": "502AC0000000063",
+   "amendment_law_title": "科学技術基本法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20190401_430AC0000000033",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000033",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20190117_430AC1000000094",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2019-01-17",
+   "amendment_law_id": "430AC1000000094",
+   "amendment_law_title": "研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420AC0100000063_20170401_428AC0000000044",
+   "amendment_promulgate_date": "2016-05-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000044",
+   "amendment_law_title": "森林法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　研究開発等の推進のための基盤の強化",
+  "第三章　競争の促進等",
+  "第四章　国及び民間事業者等の資金により行われる研究開発等の効率的推進等",
+  "第五章　イノベーションの創出の促進等",
+  "第六章　研究開発システムの改革に関する内外の動向等の調査研究等",
+  "第七章　研究開発独立行政法人に対する主務大臣の要求",
+  "第八章　更なる科学技術・イノベーション創出の活性化に向けた検討",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、国際競争の激化、急速な少子高齢化の進展等の経済社会情勢の変化に対応して、我が国の経済社会を更に発展させるためには科学技術・イノベーション創出の活性化を通じてこれに関する知識、人材及び資金の好循環を実現することが極めて重要であることに鑑み、科学技術・イノベーション創出の活性化に関し、基本理念を定め、並びに国、地方公共団体、研究開発法人及び大学等並びに民間事業者の責務等を明らかにするとともに、科学技術・イノベーション創出の活性化のために必要な事項等を定めることにより、我が国の国際競争力の強化、経済社会の健全な発展及び国民生活の向上に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-06-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-23T12:08:43+09:00"
+ }
+}

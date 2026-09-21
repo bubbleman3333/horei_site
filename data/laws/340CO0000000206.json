@@ -1,0 +1,230 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "340CO0000000206",
+  "law_num": "昭和四十年政令第二百六号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "206",
+  "promulgation_date": "1965-06-15"
+ },
+ "revision_info": {
+  "law_revision_id": "340CO0000000206_20260401_507CO0000000384",
+  "law_type": "CabinetOrder",
+  "law_title": "電気事業法施行令",
+  "law_title_kana": "でんきじぎょうほうしこうれい",
+  "abbrev": "電事法施行令",
+  "category": "工業",
+  "updated": "2026-04-01T05:47:40+09:00",
+  "amendment_promulgate_date": "2025-11-19",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000384",
+  "amendment_law_title": "環境影響評価法施行令及び電気事業法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百八十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340CO0000000206_20260401_507CO0000000384",
+   "amendment_promulgate_date": "2025-11-19",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000384",
+   "amendment_law_title": "環境影響評価法施行令及び電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20251001_507CO0000000328",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000328",
+   "amendment_law_title": "電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20250324_507CO0000000050",
+   "amendment_promulgate_date": "2025-03-14",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507CO0000000050",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20250307_507CO0000000045",
+   "amendment_promulgate_date": "2025-03-07",
+   "amendment_enforcement_date": "2025-03-07",
+   "amendment_law_id": "507CO0000000045",
+   "amendment_law_title": "電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20240401_506CO0000000062",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000062",
+   "amendment_law_title": "脱炭素社会の実現に向けた電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20240306_506CO0000000045",
+   "amendment_promulgate_date": "2024-03-06",
+   "amendment_enforcement_date": "2024-03-06",
+   "amendment_law_id": "506CO0000000045",
+   "amendment_law_title": "電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20231221_505CO0000000276",
+   "amendment_promulgate_date": "2023-09-06",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "505CO0000000276",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20230401_505CO0000000068",
+   "amendment_promulgate_date": "2023-03-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000068",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20230320_504CO0000000364",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2023-03-20",
+   "amendment_law_id": "504CO0000000364",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20221201_504CO0000000362",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "504CO0000000362",
+   "amendment_law_title": "電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20221101_504CO0000000327",
+   "amendment_promulgate_date": "2022-10-06",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504CO0000000327",
+   "amendment_law_title": "電気事業法施行令及び電気事業法等の一部を改正する法律附則第九条第一項の託送供給等約款の認可の申請の期限等を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20220401_504CO0000000037",
+   "amendment_promulgate_date": "2022-02-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000037",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20210401_503CO0000000066",
+   "amendment_promulgate_date": "2021-03-24",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000066",
+   "amendment_law_title": "電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20200612_502CO0000000186",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502CO0000000186",
+   "amendment_law_title": "電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20200401_502CO0000000130",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000130",
+   "amendment_law_title": "電気事業法施行令及び電気事業法等の一部を改正する法律附則第九条第一項の託送供給等約款の認可の申請の期限等を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20190401_429CO0000000232",
+   "amendment_promulgate_date": "2017-09-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429CO0000000232",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20171130_429CO0000000275",
+   "amendment_promulgate_date": "2017-11-10",
+   "amendment_enforcement_date": "2017-11-30",
+   "amendment_law_id": "429CO0000000275",
+   "amendment_law_title": "自衛隊法施行令及び電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000206_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（電気工作物から除かれる工作物）",
+  "title": "第一条",
+  "paragraphs": [
+   "電気事業法（以下「法」という。）第二条第一項第十八号の政令で定める工作物は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-06-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T05:47:40+09:00"
+ }
+}

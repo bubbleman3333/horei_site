@@ -1,0 +1,268 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "345M50000400097",
+  "law_num": "昭和四十五年通商産業省令第九十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "097",
+  "promulgation_date": "1970-10-09"
+ },
+ "revision_info": {
+  "law_revision_id": "345M50000400097_20251225_507M60000400006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "ガス事業法施行規則",
+  "law_title_kana": "がすじぎょうほうしこうきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2025-12-25T00:11:47+09:00",
+  "amendment_promulgate_date": "2025-01-31",
+  "amendment_enforcement_date": "2025-12-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000400006",
+  "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+  "amendment_law_num": "令和七年経済産業省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345M50000400097_20251225_507M60000400006",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-12-25",
+   "amendment_law_id": "507M60000400006",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20250715_507M60000400055",
+   "amendment_promulgate_date": "2025-07-14",
+   "amendment_enforcement_date": "2025-07-15",
+   "amendment_law_id": "507M60000400055",
+   "amendment_law_title": "ガス事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20241225_506M60000400088",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506M60000400088",
+   "amendment_law_title": "電気事業法施行規則及びガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20241218_506M60000400086",
+   "amendment_promulgate_date": "2024-12-17",
+   "amendment_enforcement_date": "2024-12-18",
+   "amendment_law_id": "506M60000400086",
+   "amendment_law_title": "ガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20241201_506M60000400080",
+   "amendment_promulgate_date": "2024-11-22",
+   "amendment_enforcement_date": "2024-12-01",
+   "amendment_law_id": "506M60000400080",
+   "amendment_law_title": "ガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20240312_506M60000400013",
+   "amendment_promulgate_date": "2024-03-11",
+   "amendment_enforcement_date": "2024-03-12",
+   "amendment_law_id": "506M60000400013",
+   "amendment_law_title": "ガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20231228_505M60000400063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000400063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20231221_505M60000400060",
+   "amendment_promulgate_date": "2023-12-20",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "505M60000400060",
+   "amendment_law_title": "ガス事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20231213_505M60000400056",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505M60000400056",
+   "amendment_law_title": "電気事業法施行規則及びガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20230116_505M60000400002",
+   "amendment_promulgate_date": "2023-01-12",
+   "amendment_enforcement_date": "2023-01-16",
+   "amendment_law_id": "505M60000400002",
+   "amendment_law_title": "ガス事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20221123_504M60000400087",
+   "amendment_promulgate_date": "2022-11-22",
+   "amendment_enforcement_date": "2022-11-23",
+   "amendment_law_id": "504M60000400087",
+   "amendment_law_title": "電気事業法施行規則及びガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20220901_504M60000400070",
+   "amendment_promulgate_date": "2022-08-31",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504M60000400070",
+   "amendment_law_title": "ガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20220401_503M60000400041",
+   "amendment_promulgate_date": "2021-04-16",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000400041",
+   "amendment_law_title": "ガス事業法施行規則及び電気事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20201001_502M60000400079",
+   "amendment_promulgate_date": "2020-09-30",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000400079",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20200701_502M60000400056",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502M60000400056",
+   "amendment_law_title": "電気事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20200410_502M60000400037",
+   "amendment_promulgate_date": "2020-04-10",
+   "amendment_enforcement_date": "2020-04-10",
+   "amendment_law_id": "502M60000400037",
+   "amendment_law_title": "火薬類取締法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20190401_431M60000400008",
+   "amendment_promulgate_date": "2019-01-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000400008",
+   "amendment_law_title": "ガス事業法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20180401_430M60000400008",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000400008",
+   "amendment_law_title": "ガス事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年経済産業省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000400097_20170401_429M60000400015",
+   "amendment_promulgate_date": "2017-03-28",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000400015",
+   "amendment_law_num": "平成二十九年経済産業省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　ガス小売事業",
+  "第三章　ガス導管事業",
+  "第四章　ガス製造事業",
+  "第五章　ガス事業以外のガスの供給等の事業",
+  "第六章　あつせん及び仲裁",
+  "第七章　指定試験機関及び登録ガス工作物検査機関",
+  "第八章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、ガス事業法（昭和二十九年法律第五十一号。以下「法」という。）およびガス事業法施行令（昭和二十九年政令第六十八号。以下「令」という。）において使用する用語の例による。",
+   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-10-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-25T00:11:47+09:00"
+ }
+}

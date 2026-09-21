@@ -1,0 +1,118 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "326CO0000000291",
+  "law_num": "昭和二十六年政令第二百九十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "291",
+  "promulgation_date": "1951-08-31"
+ },
+ "revision_info": {
+  "law_revision_id": "326CO0000000291_20251001_504CO0000000279",
+  "law_type": "CabinetOrder",
+  "law_title": "日本農林規格等に関する法律施行令",
+  "law_title_kana": "にほんのうりんきかくとうにかんするほうりつしこうれい",
+  "abbrev": "ジャス法施行令,ＪＡＳ法施行令",
+  "category": "農業",
+  "updated": "2025-10-01T02:59:03+09:00",
+  "amendment_promulgate_date": "2022-08-10",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504CO0000000279",
+  "amendment_law_title": "農林水産物及び食品の輸出の促進に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和四年政令第二百七十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326CO0000000291_20251001_504CO0000000279",
+   "amendment_promulgate_date": "2022-08-10",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "504CO0000000279",
+   "amendment_law_title": "農林水産物及び食品の輸出の促進に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000291_20250401_506CO0000000306",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000306",
+   "amendment_law_title": "国家公務員等の旅費に関する法律施行令",
+   "amendment_law_num": "令和六年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000291_20221001_504CO0000000279",
+   "amendment_promulgate_date": "2022-08-10",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000279",
+   "amendment_law_title": "農林水産物及び食品の輸出の促進に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000291_20200716_502CO0000000002",
+   "amendment_promulgate_date": "2020-01-16",
+   "amendment_enforcement_date": "2020-07-16",
+   "amendment_law_id": "502CO0000000002",
+   "amendment_law_title": "日本農林規格等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000291_20191216_501CO0000000183",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501CO0000000183",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000291_20180401_430CO0000000003",
+   "amendment_promulgate_date": "2018-01-17",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000003",
+   "amendment_law_title": "農林物資の規格化等に関する法律及び独立行政法人農林水産消費安全技術センター法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000291_20160401_428CO0000000036",
+   "amendment_promulgate_date": "2016-02-03",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000036",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の施行に伴う内閣府関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（飲食料品及び油脂以外の農林物資）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本農林規格等に関する法律（昭和二十五年法律第百七十五号。以下「法」という。）第二条第一項第二号の政令で定める物資は、観賞用の植物、工芸農作物、立木竹、観賞用の魚、真珠、いぐさ製品、生糸、漆、竹材、木材（航空機用の合板を除く。）、木炭及び農産物、林産物、畜産物又は水産物を原料又は材料とする飼料とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-08-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-10-01T02:59:03+09:00"
+ }
+}

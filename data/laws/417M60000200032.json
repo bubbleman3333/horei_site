@@ -1,0 +1,105 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000200032",
+  "law_num": "平成十七年農林水産省令第三十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "032",
+  "promulgation_date": "2005-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000200032_20260501_508M60000200020",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "動物用医療機器の臨床試験の実施の基準に関する省令",
+  "law_title_kana": "どうぶつよういりょうききのりんしょうしけんのじっしのきじゅんにかんするしょうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-05-01T02:00:32+09:00",
+  "amendment_promulgate_date": "2026-03-26",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200020",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う農林水産省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年農林水産省令第二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000200032_20260501_508M60000200020",
+   "amendment_promulgate_date": "2026-03-26",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "508M60000200020",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年農林水産省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200032_20231228_505M60000200063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000200063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200032_20230101_504M60000200072",
+   "amendment_promulgate_date": "2022-12-08",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000200072",
+   "amendment_law_title": "書面の交付を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200032_20200901_502M60000200057",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000200057",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和二年農林水産省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200032_20160930_428M60000200065",
+   "amendment_promulgate_date": "2016-09-30",
+   "amendment_enforcement_date": "2016-09-30",
+   "amendment_law_id": "428M60000200065",
+   "amendment_law_num": "平成二十八年農林水産省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　治験の依頼をしようとする者による治験の依頼に関する基準",
+  "第三章　治験依頼者による治験の管理に関する基準",
+  "第四章　実施機関が行う治験の基準",
+  "第五章　自ら治験を実施する者が行う治験の基準",
+  "第六章　使用成績評価の資料の基準",
+  "第七章　治験の依頼等の基準"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（以下「法」という。）第八十三条第一項の規定により読み替えて適用される法第二十三条の二の五第三項（同条第十三項（法第二十三条の二の十七第五項において準用する場合を含む。）及び法第二十三条の二の十七第五項において準用する場合を含む。以下同じ。）、第二十三条の二の六の二第二項（法第二十三条の二の十七第五項及び第六項において準用する場合を含む。）並びに法第二十三条の二の九第四項（法第二十三条の二の十九において準用する場合を含む。以下同じ。）の農林水産省令で定める基準のうち動物用医療機器（専ら動物のために使用されることが目的とされている医療機器をいう。以下同じ。）の臨床試験の実施に係るもの並びに法第八十三条第一項の規定により読み替えて適用される第八十条の二第一項、第四項及び第五項に規定する農林水産省令で定める基準を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T02:00:32+09:00"
+ }
+}

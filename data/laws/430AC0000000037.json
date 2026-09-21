@@ -1,0 +1,101 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "430AC0000000037",
+  "law_num": "平成三十年法律第三十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "Act",
+  "law_num_num": "037",
+  "promulgation_date": "2018-06-01"
+ },
+ "revision_info": {
+  "law_revision_id": "430AC0000000037_20260401_506AC0000000050",
+  "law_type": "Act",
+  "law_title": "地域における大学の振興及び若者の雇用機会の創出による若者の修学及び就業の促進に関する法律",
+  "law_title_kana": "ちいきにおけるだいがくのしんこうおよびわかもののこようきかいのそうしゅつによるわかもののしゅうがくおよびしゅうぎょうのそくしんにかんするほうりつ",
+  "abbrev": "地方大学振興法,地方大学・産業創生法",
+  "category": "国土開発",
+  "updated": "2026-04-02T21:23:49+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000050",
+  "amendment_law_title": "学校教育法の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第五十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430AC0000000037_20260401_506AC0000000050",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000050",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000037_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000037_20210519_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000037_20190401_000000000000000",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000037_20181001_000000000000000",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430AC0000000037_20180601_000000000000000",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、我が国における急速な少子化の進行及び地域の若者の著しい減少により地域の活力が低下していることに鑑み、地域における大学（学校教育法（昭和二十二年法律第二十六号）第一条に規定する大学をいう。以下同じ。）の振興及び若者の雇用機会の創出のための措置を講ずることにより、地域における若者の修学及び就業を促進し、もって地域の活力の向上及び持続的発展を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-06-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:23:49+09:00"
+ }
+}

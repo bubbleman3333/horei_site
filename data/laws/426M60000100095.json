@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "426M60000100095",
+  "law_num": "平成二十六年厚生労働省令第九十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "095",
+  "promulgation_date": "2014-08-06"
+ },
+ "revision_info": {
+  "law_revision_id": "426M60000100095_20260501_507M60000100117",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律第二十三条の二の五第七項第一号に規定する医療機器又は体外診断用医薬品の区分を定める省令",
+  "law_title_kana": "いやくひん、いりょうききとうのひんしつ、ゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつだいにじゅうさんじょうのにのごだいななこうだいいちごうにきていするいりょうききまたはたいがいしんだんよういやくひんのくぶんをさだめるしょうれい",
+  "abbrev": "薬事法第二十三条の二の五第八項第一号に規定する医療機器又は体外診断用医薬品の区分を定める省令,医薬品医療機器等法第二十三条の二の五第八項第一号に規定する医療機器又は体外診断用医薬品の区分を定める省令",
+  "category": "厚生",
+  "updated": "2026-05-01T02:30:18+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100117",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426M60000100095_20260501_507M60000100117",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507M60000100117",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426M60000100095_20200901_502M60000100155",
+   "amendment_promulgate_date": "2020-08-31",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000100155",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000100095_20141125_000000000000000",
+   "amendment_promulgate_date": "2014-08-06",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号。以下「法」という。）第二十三条の二の五第七項第一号の厚生労働省令で定める区分（以下「製品群区分」という。）を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-08-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T02:30:18+09:00"
+ }
+}

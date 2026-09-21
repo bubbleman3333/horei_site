@@ -1,0 +1,467 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "322M40000080011",
+  "law_num": "昭和二十二年文部省令第十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "011",
+  "promulgation_date": "1947-05-23"
+ },
+ "revision_info": {
+  "law_revision_id": "322M40000080011_20260401_507M60000080021",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "学校教育法施行規則",
+  "law_title_kana": "がっこうきょういくほうしこうきそく",
+  "abbrev": "学教法施行規則",
+  "category": "教育",
+  "updated": "2026-03-09T09:29:14+09:00",
+  "amendment_promulgate_date": "2025-08-28",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000080021",
+  "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年文部科学省令第二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322M40000080011_20260401_508M60000080007",
+   "amendment_promulgate_date": "2026-03-09",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000080007",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う文部科学省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年文部科学省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20260401_507M60000080021",
+   "amendment_promulgate_date": "2025-08-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000080021",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20260224_508M60000080005",
+   "amendment_promulgate_date": "2026-02-24",
+   "amendment_enforcement_date": "2026-02-24",
+   "amendment_law_id": "508M60000080005",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20251001_507M60000080025",
+   "amendment_promulgate_date": "2025-09-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000080025",
+   "amendment_law_title": "学校教育法施行規則及び文部科学省関係構造改革特別区域法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20250401_506M60000080033",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000080033",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20250401_506M60000080027",
+   "amendment_promulgate_date": "2024-09-30",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000080027",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20240829_506M60000080024",
+   "amendment_promulgate_date": "2024-08-29",
+   "amendment_enforcement_date": "2024-08-29",
+   "amendment_law_id": "506M60000080024",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20240401_505M60000080042",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000080042",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20230401_505M60000080018",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000080018",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20230401_504M60000080015",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000080015",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20221001_504M60000080034",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000080034",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220831_504M60000080029",
+   "amendment_promulgate_date": "2022-08-31",
+   "amendment_enforcement_date": "2022-08-31",
+   "amendment_law_id": "504M60000080029",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220620_504M60000080020",
+   "amendment_promulgate_date": "2022-06-20",
+   "amendment_enforcement_date": "2022-06-20",
+   "amendment_law_id": "504M60000080020",
+   "amendment_law_title": "学校教育法施行規則及び専修学校設置基準の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220401_504M60000080018",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000080018",
+   "amendment_law_title": "高等学校卒業程度認定審査規則",
+   "amendment_law_num": "令和四年文部科学省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220401_503M60000080045",
+   "amendment_promulgate_date": "2021-09-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000080045",
+   "amendment_law_title": "特別支援学校設置基準",
+   "amendment_law_num": "令和三年文部科学省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220401_503M60000080044",
+   "amendment_promulgate_date": "2021-09-13",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000080044",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220401_503M60000080014",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503M60000080014",
+   "amendment_law_title": "学校教育法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220401_431M60000080003",
+   "amendment_promulgate_date": "2019-02-04",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "431M60000080003",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220401_430M60000080013",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "430M60000080013",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220322_504M60000080006",
+   "amendment_promulgate_date": "2022-03-22",
+   "amendment_enforcement_date": "2022-03-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000080006",
+   "amendment_law_title": "大学院設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20220317_504M60000080003",
+   "amendment_promulgate_date": "2022-03-17",
+   "amendment_enforcement_date": "2022-03-17",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504M60000080003",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20211029_503M60000080049",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-10-29",
+   "amendment_law_id": "503M60000080049",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20210823_503M60000080037",
+   "amendment_promulgate_date": "2021-08-23",
+   "amendment_enforcement_date": "2021-08-23",
+   "amendment_law_id": "503M60000080037",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20210401_503M60000080014",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000080014",
+   "amendment_law_title": "学校教育法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20210331_503M60000080014",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_law_id": "503M60000080014",
+   "amendment_law_title": "学校教育法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20210226_503M60000080009",
+   "amendment_promulgate_date": "2021-02-26",
+   "amendment_enforcement_date": "2021-02-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000080009",
+   "amendment_law_title": "大学設置基準等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20200401_502M60000080015",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000080015",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20200401_501M60000080021",
+   "amendment_promulgate_date": "2019-10-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000080021",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20200401_501M60000080013",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000080013",
+   "amendment_law_title": "学校教育法施行規則及び大学院設置基準の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20200401_431M60000080003",
+   "amendment_promulgate_date": "2019-02-04",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431M60000080003",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20200401_429M60000080027",
+   "amendment_promulgate_date": "2017-04-28",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429M60000080027",
+   "amendment_law_num": "平成二十九年文部科学省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20200401_429M60000080020",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429M60000080020",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年文部科学省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20200210_502M60000080001",
+   "amendment_promulgate_date": "2020-02-10",
+   "amendment_enforcement_date": "2020-02-10",
+   "amendment_law_id": "502M60000080001",
+   "amendment_law_title": "高等専門学校設置基準及び学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20190821_501M60000080012",
+   "amendment_promulgate_date": "2019-08-21",
+   "amendment_enforcement_date": "2019-08-21",
+   "amendment_law_id": "501M60000080012",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20190813_501M60000080011",
+   "amendment_promulgate_date": "2019-08-13",
+   "amendment_enforcement_date": "2019-08-13",
+   "amendment_law_id": "501M60000080011",
+   "amendment_law_title": "学校教育法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年文部科学省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20190401_431M60000080003",
+   "amendment_promulgate_date": "2019-02-04",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000080003",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20190401_431M60000080002",
+   "amendment_promulgate_date": "2019-01-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000080002",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20190401_430M60000080035",
+   "amendment_promulgate_date": "2018-12-27",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000080035",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20190401_430M60000080013",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000080013",
+   "amendment_law_title": "学校教育法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年文部科学省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000080011_20190401_429M60000080035",
+   "amendment_promulgate_date": "2017-09-08",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429M60000080035",
+   "amendment_law_title": "学校教育法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年文部科学省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　義務教育",
+  "第三章　幼稚園",
+  "第四章　小学校",
+  "第五章　中学校",
+  "第五章の二　義務教育学校並びに中学校併設型小学校及び小学校併設型中学校",
+  "第六章　高等学校",
+  "第七章　中等教育学校並びに併設型中学校及び併設型高等学校",
+  "第八章　特別支援教育",
+  "第九章　大学",
+  "第十章　高等専門学校",
+  "第十一章　専修学校",
+  "第十二章　雑則"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "学校には、その学校の目的を実現するために必要な校地、校舎、校具、運動場、図書館又は図書室、保健室その他の設備を設けなければならない。",
+   "学校の位置は、教育上適切な環境に、これを定めなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-05-23",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-03-09T09:29:14+09:00"
+ }
+}

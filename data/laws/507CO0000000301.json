@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000301",
+  "law_num": "令和七年政令第三百一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "301",
+  "promulgation_date": "2025-08-20"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000301_20260601_508CO0000000162",
+  "law_type": "CabinetOrder",
+  "law_title": "盗難特定金属製物品の処分の防止等に関する法律施行令",
+  "law_title_kana": "とうなんとくていきんぞくせいぶっぴんのしょぶんのぼうしとうにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-06-01T02:14:38+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000162",
+  "amendment_law_title": "盗難特定金属製物品の処分の防止等に関する法律第二条第五号に規定する指定金属切断工具を定める政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000301_20260601_508CO0000000162",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000162",
+   "amendment_law_title": "盗難特定金属製物品の処分の防止等に関する法律第二条第五号に規定する指定金属切断工具を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000301_20250901_000000000000000",
+   "amendment_promulgate_date": "2025-08-20",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定金属切断工具）",
+  "title": "第一条",
+  "paragraphs": [
+   "盗難特定金属製物品の処分の防止等に関する法律（以下「法」という。）第二条第五号の政令で定める工具は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-08-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T02:14:38+09:00"
+ }
+}

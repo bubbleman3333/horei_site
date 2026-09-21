@@ -1,0 +1,158 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "322CO0000000268",
+  "law_num": "昭和二十二年政令第二百六十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "268",
+  "promulgation_date": "1947-12-13"
+ },
+ "revision_info": {
+  "law_revision_id": "322CO0000000268_20251201_507CO0000000120",
+  "law_type": "CabinetOrder",
+  "law_title": "昭和二十二年政令第二百六十八号（災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令）",
+  "law_title_kana": "さいがいひがいしゃにたいするそぜいのげんめんちょうしゅうゆうよとうにかんするほうりつのしこうにかんするせいれい",
+  "abbrev": "災害減免法の施行に関する政令",
+  "category": "国税",
+  "updated": "2025-12-01T00:19:16+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2025-12-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000120",
+  "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第百二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322CO0000000268_20251201_507CO0000000120",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507CO0000000120",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20250401_507CO0000000006",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000006",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20250101_505CO0000000134",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505CO0000000134",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20230401_505CO0000000134",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000134",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20220401_504CO0000000149",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000149",
+   "amendment_law_title": "災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20220101_503CO0000000120",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000120",
+   "amendment_law_title": "災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20200401_502CO0000000111",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000111",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20200401_502CO0000000021",
+   "amendment_promulgate_date": "2020-01-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000021",
+   "amendment_law_title": "道路運送車両法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20200101_430CO0000000131",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "430CO0000000131",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20180401_429CO0000000112",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000112",
+   "amendment_law_title": "国税通則法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000268_20170401_429CO0000000110",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000110",
+   "amendment_law_title": "酒税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "災害被害者に対する租税の減免、徴収猶予等に関する法律（昭和二十二年法律第百七十五号。以下「法」という。）第一条に規定する災害（以下「災害」という。）により自己（所得税法（昭和四十年法律第三十三号）第七十二条第一項に規定する政令で定める親族を含む。）の所有に係る住宅又は家財につき生じた損害金額（保険金、損害賠償金等により補てんされた金額を除く。以下第十四条第二項の場合を除き、同じ。）がその住宅又は家財の価額の十分の五以上である者で、被害を受けた年分の法第二条に規定する合計所得金額（以下「合計所得金額」という。）が千万円以下であるものに対しては、同条の規定により、被害を受けた年分の所得税の額（延滞税、利子税、過少申告加算税、無申告加算税及び重加算税の額を除く。）を軽減し又は免除する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-12-13",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-12-01T00:19:16+09:00"
+ }
+}

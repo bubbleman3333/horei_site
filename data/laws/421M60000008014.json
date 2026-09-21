@@ -1,0 +1,84 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "421M60000008014",
+  "law_num": "平成二十一年総務省令第十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "2009-02-26"
+ },
+ "revision_info": {
+  "law_revision_id": "421M60000008014_20260521_508M60000008064",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "自治紛争処理委員の調停、審査及び処理方策の提示の手続に関する省令",
+  "law_title_kana": "じちふんそうしょりいいんのちょうていしんさおよびしょりほうさくのていじのてつづきにかんするしょうれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-05-21T02:43:59+09:00",
+  "amendment_promulgate_date": "2026-04-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008064",
+  "amendment_law_title": "自治紛争処理委員の調停、審査及び処理方策の提示の手続に関する省令等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421M60000008014_20260521_508M60000008064",
+   "amendment_promulgate_date": "2026-04-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000008064",
+   "amendment_law_title": "自治紛争処理委員の調停、審査及び処理方策の提示の手続に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421M60000008014_20191216_501M60000008064",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000008064",
+   "amendment_law_title": "総務省関係法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "令和元年総務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421M60000008014_20160401_428M60000008007",
+   "amendment_promulgate_date": "2016-02-12",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000008007",
+   "amendment_law_title": "地方自治法第二百五十五条の五第一項の規定による自治紛争処理委員の審理等の手続に関する省令",
+   "amendment_law_num": "平成二十八年総務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　自治紛争処理委員",
+  "第三章　都道府県又は都道府県の機関が当事者となる普通地方公共団体相互の間又は普通地方公共団体の機関相互の間の紛争の調停",
+  "第四章　都道府県の関与に関する審査の申出があった場合の審査",
+  "第五章　都道府県が当事者となる連携協約を締結した普通地方公共団体相互の間の紛争に係る処理方策の提示"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "総務大臣が任命する自治紛争処理委員（以下「自治紛争処理委員」という。）が行う調停、審査及び処理方策の提示（地方自治法（昭和二十二年法律第六十七号。以下「法」という。）第二百五十一条の三の二第一項に規定する処理方策をいう。以下同じ。）の手続については、法及び地方自治法施行令（昭和二十二年政令第十六号。以下「令」という。）に定めるもののほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-02-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:43:59+09:00"
+ }
+}

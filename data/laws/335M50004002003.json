@@ -1,0 +1,202 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "335M50004002003",
+  "law_num": "昭和三十五年総理府・建設省令第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 35,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "1960-12-17"
+ },
+ "revision_info": {
+  "law_revision_id": "335M50004002003_20260901_508M60000802003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "道路標識、区画線及び道路標示に関する命令",
+  "law_title_kana": "どうろひょうしきくかくせんおよびどうろひょうじにかんするめいれい",
+  "abbrev": "標識令",
+  "category": "道路",
+  "updated": "2026-09-10T11:16:17+09:00",
+  "amendment_promulgate_date": "2026-06-05",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000802003",
+  "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・国土交通省令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "335M50004002003_20260901_508M60000802003",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508M60000802003",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20260401_508M60000802002",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000802002",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20250401_506M60000802003",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000802003",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20240726_506M60000802004",
+   "amendment_promulgate_date": "2024-07-26",
+   "amendment_enforcement_date": "2024-07-26",
+   "amendment_law_id": "506M60000802004",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20230701_505M60000802001",
+   "amendment_promulgate_date": "2023-03-17",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60000802001",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20230401_504M60000802007",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000802007",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20210925_503M60000802004",
+   "amendment_promulgate_date": "2021-09-24",
+   "amendment_enforcement_date": "2021-09-25",
+   "amendment_law_id": "503M60000802004",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20210701_503M60000802002",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503M60000802002",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20201201_502M60000802004",
+   "amendment_promulgate_date": "2020-11-13",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000802004",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20201125_502M60000802005",
+   "amendment_promulgate_date": "2020-11-20",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_id": "502M60000802005",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20200701_502M60000802001",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502M60000802001",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20200327_502M60000802001",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-03-27",
+   "amendment_law_id": "502M60000802001",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20181214_430M60000802005",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2018-12-14",
+   "amendment_law_id": "430M60000802005",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20170701_429M60000802003",
+   "amendment_promulgate_date": "2017-04-21",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_law_id": "429M60000802003",
+   "amendment_law_title": "道路標識、区画線及び道路標示に関する命令の一部を改正する命令",
+   "amendment_law_num": "平成二十九年内閣府・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50004002003_20170312_428M60000802002",
+   "amendment_promulgate_date": "2016-07-15",
+   "amendment_enforcement_date": "2017-03-12",
+   "amendment_law_id": "428M60000802002",
+   "amendment_law_num": "平成二十八年内閣府・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　道路標識",
+  "第二章　区画線",
+  "第三章　道路標示"
+ ],
+ "article1": {
+  "caption": "（分類）",
+  "title": "第一条",
+  "paragraphs": [
+   "道路標識は、本標識及び補助標識とする。",
+   "本標識は、案内標識、警戒標識、規制標識及び指示標識とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1960-12-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-10T11:16:17+09:00"
+ }
+}

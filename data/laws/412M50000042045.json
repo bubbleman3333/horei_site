@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "412M50000042045",
+  "law_num": "平成十二年総理府・大蔵省令第四十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "045",
+  "promulgation_date": "2000-06-29"
+ },
+ "revision_info": {
+  "law_revision_id": "412M50000042045_20260331_507M60000042002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "保険業法第百三十二条第二項に規定する区分等を定める命令",
+  "law_title_kana": "ほけんぎょうほうだいひゃくさんじゅうにじょうだいにこうにきていするくぶんとうをさだめるめいれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-03-31T00:32:05+09:00",
+  "amendment_promulgate_date": "2025-07-23",
+  "amendment_enforcement_date": "2026-03-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000042002",
+  "amendment_law_title": "保険業法第百三十二条第二項に規定する区分等を定める命令の一部を改正する命令",
+  "amendment_law_num": "令和七年内閣府・財務省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412M50000042045_20260331_507M60000042002",
+   "amendment_promulgate_date": "2025-07-23",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "507M60000042002",
+   "amendment_law_title": "保険業法第百三十二条第二項に規定する区分等を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412M50000042045_20230401_505M60000042002",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000042002",
+   "amendment_law_title": "保険業法第百三十二条第二項に規定する区分等を定める命令の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・財務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000042045_20160331_428M60000042001",
+   "amendment_promulgate_date": "2016-03-28",
+   "amendment_enforcement_date": "2016-03-31",
+   "amendment_law_id": "428M60000042001",
+   "amendment_law_num": "平成二十八年内閣府・財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（届出事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "保険業法（以下「法」という。）第百二十七条第一項第八号に規定する内閣府令・財務省令で定める場合は、次に掲げる場合とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-03-31T00:32:05+09:00"
+ }
+}

@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "406M50400000026",
+  "law_num": "平成六年国家公安委員会規則第二十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "Rule",
+  "law_num_num": "026",
+  "promulgation_date": "1994-09-26"
+ },
+ "revision_info": {
+  "law_revision_id": "406M50400000026_20260521_508M60400000010",
+  "law_type": "Rule",
+  "law_title": "聴聞及び弁明の機会の付与に関する規則",
+  "law_title_kana": "ちょうもんおよびべんめいのきかいのふよにかんするきそく",
+  "abbrev": null,
+  "category": "行政手続",
+  "updated": "2026-05-29T11:53:57+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000010",
+  "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備に関する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406M50400000026_20260521_508M60400000010",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000010",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406M50400000026_20250301_507M60400000002",
+   "amendment_promulgate_date": "2025-02-10",
+   "amendment_enforcement_date": "2025-03-01",
+   "amendment_law_id": "507M60400000002",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50400000026_20201228_502M60400000013",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60400000013",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50400000026_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50400000026_19941001_000000000000000",
+   "amendment_promulgate_date": "1994-09-26",
+   "amendment_enforcement_date": "1994-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　聴聞",
+  "第三章　弁明の機会の付与"
+ ],
+ "article1": {
+  "caption": "（適用範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "国家公安委員会、都道府県公安委員会及び警察署長並びに法令の規定によりこれらの者の権限に属する事務を委任された者（以下「行政庁」という。）が行う聴聞及び弁明の機会の付与に関する手続については、他の法令に別段の定めがある場合を除くほか、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-09-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-29T11:53:57+09:00"
+ }
+}

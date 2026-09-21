@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "355M50400000004",
+  "law_num": "昭和五十五年国家公安委員会規則第四号",
+  "law_num_era": "Showa",
+  "law_num_year": 55,
+  "law_num_type": "Rule",
+  "law_num_num": "004",
+  "promulgation_date": "1980-09-20"
+ },
+ "revision_info": {
+  "law_revision_id": "355M50400000004_20260521_508M60400000012",
+  "law_type": "Rule",
+  "law_title": "国際捜査共助等に関する法律に関する書式例",
+  "law_title_kana": "こくさいそうさきょうじょとうにかんするほうりつにかんするしょしきれい",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-06-03T13:19:03+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000012",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "355M50400000004_20260521_508M60400000012",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000012",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整備等に関する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "355M50400000004_20220401_504M60400000013",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000013",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355M50400000004_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355M50400000004_20120622_424M60400000008",
+   "amendment_promulgate_date": "2012-06-21",
+   "amendment_enforcement_date": "2012-06-22",
+   "amendment_law_id": "424M60400000008",
+   "amendment_law_num": "平成二十四年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "国際捜査共助等に関する法律に規定する処分及び調査のための措置に関して作成する書類は、別記様式第１号から第３５号までによるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1980-09-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-03T13:19:03+09:00"
+ }
+}

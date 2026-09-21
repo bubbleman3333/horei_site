@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "419AC0000000094",
+  "law_num": "平成十九年法律第九十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "Act",
+  "law_num_num": "094",
+  "promulgation_date": "2007-06-22"
+ },
+ "revision_info": {
+  "law_revision_id": "419AC0000000094_20260401_508AC0000000003",
+  "law_type": "Act",
+  "law_title": "地方公共団体の財政の健全化に関する法律",
+  "law_title_kana": "ちほうこうきょうだんたいのざいせいのけんぜんかにかんするほうりつ",
+  "abbrev": "地方自治体財政健全化法,地方公共団体財政健全化法,財政健全化法",
+  "category": "地方財政",
+  "updated": "2026-04-01T11:25:52+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000003",
+  "amendment_law_title": "地方交付税法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419AC0000000094_20260401_508AC0000000003",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000003",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000094_20240926_506AC0000000065",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2024-09-26",
+   "amendment_law_id": "506AC0000000065",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000094_20200401_429AC0000000029",
+   "amendment_promulgate_date": "2017-05-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000029",
+   "amendment_law_title": "地方公務員法及び地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000094_20180401_429AC0000000054",
+   "amendment_promulgate_date": "2017-06-09",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000054",
+   "amendment_law_title": "地方自治法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000094_20170401_428AC0000000014",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000014",
+   "amendment_law_title": "地方交付税法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　財政の早期健全化",
+  "第三章　財政の再生",
+  "第四章　公営企業の経営の健全化",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、地方公共団体の財政の健全性に関する比率の公表の制度を設け、当該比率に応じて、地方公共団体が財政の早期健全化及び財政の再生並びに公営企業の経営の健全化を図るための計画を策定する制度を定めるとともに、当該計画の実施の促進を図るための行財政上の措置を講ずることにより、地方公共団体の財政の健全化に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-06-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T11:25:52+09:00"
+ }
+}

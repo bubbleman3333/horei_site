@@ -1,0 +1,132 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "341AC0000000020",
+  "law_num": "昭和四十一年法律第二十号",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "Act",
+  "law_num_num": "020",
+  "promulgation_date": "1966-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "341AC0000000020_20260527_508AC0000000023",
+  "law_type": "Act",
+  "law_title": "都市開発資金の貸付けに関する法律",
+  "law_title_kana": "としかいはつしきんのかしつけにかんするほうりつ",
+  "abbrev": null,
+  "category": "地方財政",
+  "updated": "2026-05-27T10:35:23+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000023",
+  "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341AC0000000020_20261126_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-11-26",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "341AC0000000020_20260527_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341AC0000000020_20241108_506AC0000000040",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-11-08",
+   "amendment_law_id": "506AC0000000040",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341AC0000000020_20240529_506AC0000000040",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-05-29",
+   "amendment_law_id": "506AC0000000040",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341AC0000000020_20180715_430AC0000000022",
+   "amendment_promulgate_date": "2018-04-25",
+   "amendment_enforcement_date": "2018-07-15",
+   "amendment_law_id": "430AC0000000022",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341AC0000000020_20170615_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341AC0000000020_20170512_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2017-05-12",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341AC0000000020_20140801_426AC0000000039",
+   "amendment_promulgate_date": "2014-05-21",
+   "amendment_enforcement_date": "2014-08-01",
+   "amendment_law_id": "426AC0000000039",
+   "amendment_law_num": "平成二十六年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（都市開発資金の貸付け）",
+  "title": "第一条",
+  "paragraphs": [
+   "国は、地方公共団体に対し、次に掲げる土地の買取りに必要な資金を貸し付けることができる。",
+   "国は、地方公共団体が次に掲げる資金の貸付けを行うときは、当該地方公共団体に対し、当該貸付けに必要な資金（第三号に掲げる資金の貸付けにあつては、当該貸付けに必要な資金の二分の一以内）を貸し付けることができる。",
+   "国は、市街地再開発事業（都市再開発法（昭和四十四年法律第三十八号）による市街地再開発事業をいう。以下同じ。）による土地の合理的かつ健全な高度利用と都市機能の更新に資するため、地方公共団体が次に掲げる貸付けを行う場合において、特に必要があると認めるときは、当該地方公共団体に対し、当該貸付けに必要な資金の二分の一以内を貸し付けることができる。",
+   "国は、土地区画整理事業（土地区画整理法（昭和二十九年法律第百十九号）による土地区画整理事業をいう。以下同じ。）に関し地方公共団体が次に掲げる貸付けを行う場合において、特に必要があると認めるときは、当該地方公共団体に対し、当該貸付けに必要な資金の二分の一以内を貸し付けることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1966-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-27T10:35:23+09:00"
+ }
+}

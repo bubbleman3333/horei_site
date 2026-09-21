@@ -1,0 +1,152 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "333CO0000000307",
+  "law_num": "昭和三十三年政令第三百七号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "307",
+  "promulgation_date": "1958-11-04"
+ },
+ "revision_info": {
+  "law_revision_id": "333CO0000000307_20251001_507CO0000000270",
+  "law_type": "CabinetOrder",
+  "law_title": "電波法関係手数料令",
+  "law_title_kana": "でんぱほうかんけいてすうりょうれい",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2025-10-01T03:57:25+09:00",
+  "amendment_promulgate_date": "2025-07-25",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000270",
+  "amendment_law_title": "電波法関係手数料令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第二百七十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333CO0000000307_20261001_508CO0000000228",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000228",
+   "amendment_law_title": "電波法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20251001_507CO0000000270",
+   "amendment_promulgate_date": "2025-07-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000270",
+   "amendment_law_title": "電波法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20231225_505CO0000000351",
+   "amendment_promulgate_date": "2023-12-08",
+   "amendment_enforcement_date": "2023-12-25",
+   "amendment_law_id": "505CO0000000351",
+   "amendment_law_title": "電波法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20221001_504CO0000000289",
+   "amendment_promulgate_date": "2022-08-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000289",
+   "amendment_law_title": "電波法及び放送法の一部を改正する法律の施行に伴う関係政令の整理等に関する政令",
+   "amendment_law_num": "令和四年政令第二百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20200401_501CO0000000162",
+   "amendment_promulgate_date": "2019-11-15",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000162",
+   "amendment_law_title": "電波法関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20191216_501CO0000000183",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501CO0000000183",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20191120_501CO0000000161",
+   "amendment_promulgate_date": "2019-11-15",
+   "amendment_enforcement_date": "2019-11-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000161",
+   "amendment_law_title": "電波法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20190701_501CO0000000044",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000044",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20180801_430CO0000000219",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430CO0000000219",
+   "amendment_law_title": "電波法及び電気通信事業法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000307_20160521_428CO0000000040",
+   "amendment_promulgate_date": "2016-02-03",
+   "amendment_enforcement_date": "2016-05-21",
+   "amendment_law_id": "428CO0000000040",
+   "amendment_law_title": "電気通信事業法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義等）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令の規定の解釈に関しては、次の定義に従うものとする。",
+   "空中線電力五〇ワットを超えるレーダーは、この政令の適用に関しては、空中線電力五〇ワットの送信機とみなす。",
+   "空中線電力五〇〇ワット未満の多重無線設備（適合表示無線設備を除く。）又はテレビジョン（テレビジョン基幹放送局のテレビジョンを除く。）の送信機で五〇〇メガヘルツ以上の周波数の電波を使用するものは、この政令の適用に関しては、空中線電力五〇〇ワット（移動する無線局に係るもので空中線電力五〇ワット未満のものにあつては、空中線電力五〇ワット）の送信機とみなす。",
+   "振幅変調型式の電波を使用する無線電信で変調波について電鍵開閉操作が行われるものの送信機は、この政令の適用に関しては、当該操作につき、その規模が、当該送信機の当該操作に係る空中線電力に相当するワット数に四十分の十五を乗じて得たワット数のものとみなす。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-11-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T03:57:25+09:00"
+ }
+}

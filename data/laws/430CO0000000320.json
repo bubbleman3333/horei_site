@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "430CO0000000320",
+  "law_num": "平成三十年政令第三百二十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "320",
+  "promulgation_date": "2018-11-21"
+ },
+ "revision_info": {
+  "law_revision_id": "430CO0000000320_20260401_507CO0000000367",
+  "law_type": "CabinetOrder",
+  "law_title": "森林経営管理法施行令",
+  "law_title_kana": "しんりんけいえいかんりほうしこうれい",
+  "abbrev": null,
+  "category": "林業",
+  "updated": "2026-04-02T21:27:17+09:00",
+  "amendment_promulgate_date": "2025-11-06",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000367",
+  "amendment_law_title": "森林経営管理法及び森林法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百六十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430CO0000000320_20260401_507CO0000000367",
+   "amendment_promulgate_date": "2025-11-06",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000367",
+   "amendment_law_title": "森林経営管理法及び森林法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000320_20190401_000000000000000",
+   "amendment_promulgate_date": "2018-11-21",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（不明森林共有者の探索の方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "森林経営管理法（以下「法」という。）第十条（法第五十三条において準用する場合を含む。）の政令で定める方法は、共有者不明森林の森林所有者の氏名又は名称及び住所又は居所その他の不明森林共有者を確知するために必要な情報（以下この条において「不明森林共有者関連情報」という。）を取得するため次に掲げる措置をとる方法とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-11-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:27:17+09:00"
+ }
+}

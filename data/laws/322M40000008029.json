@@ -1,0 +1,448 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "322M40000008029",
+  "law_num": "昭和二十二年内務省令第二十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "029",
+  "promulgation_date": "1947-05-03"
+ },
+ "revision_info": {
+  "law_revision_id": "322M40000008029_20260521_508M60000008063",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方自治法施行規則",
+  "law_title_kana": "ちほうじちほうせこうきそく",
+  "abbrev": "地自法施行規則",
+  "category": "地方自治",
+  "updated": "2026-08-18T13:41:45+09:00",
+  "amendment_promulgate_date": "2026-04-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008063",
+  "amendment_law_title": "地方自治法施行規則及び地方自治法第二百五十五条の五第一項の規定による自治紛争処理委員の審理等の手続に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322M40000008029_20270701_508M60000008080",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2027-07-01",
+   "amendment_law_id": "508M60000008080",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20261001_508M60000008086",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000008086",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20260924_507M60000008087",
+   "amendment_promulgate_date": "2025-08-26",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "507M60000008087",
+   "amendment_law_title": "地方自治法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20260521_508M60000008063",
+   "amendment_promulgate_date": "2026-04-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000008063",
+   "amendment_law_title": "地方自治法施行規則及び地方自治法第二百五十五条の五第一項の規定による自治紛争処理委員の審理等の手続に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20260401_508M60000008044",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008044",
+   "amendment_law_title": "地方税法施行規則及び地方税法施行規則の一部を改正する等の省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20260401_508M60000008035",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008035",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20250516_507M60000008050",
+   "amendment_promulgate_date": "2025-05-16",
+   "amendment_enforcement_date": "2025-05-16",
+   "amendment_law_id": "507M60000008050",
+   "amendment_law_title": "地方自治法施行規則及び市町村の合併の特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20250401_507M60000008011",
+   "amendment_promulgate_date": "2025-03-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000008011",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20240926_506M60000008087",
+   "amendment_promulgate_date": "2024-09-26",
+   "amendment_enforcement_date": "2024-09-26",
+   "amendment_law_id": "506M60000008087",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20240401_506M60000008037",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000008037",
+   "amendment_law_title": "地方税法施行規則及び航空機燃料譲与税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20240401_506M60000008010",
+   "amendment_promulgate_date": "2024-02-09",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000008010",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20240401_506M60000008002",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000008002",
+   "amendment_law_title": "地方自治法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20230401_505M60000008036",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000008036",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20230401_505M60000008012",
+   "amendment_promulgate_date": "2023-03-10",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000008012",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20221228_504M60000008082",
+   "amendment_promulgate_date": "2022-12-28",
+   "amendment_enforcement_date": "2022-12-28",
+   "amendment_law_id": "504M60000008082",
+   "amendment_law_title": "地方自治法施行規則及び市町村の合併の特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20220820_504M60000008054",
+   "amendment_promulgate_date": "2022-08-12",
+   "amendment_enforcement_date": "2022-08-20",
+   "amendment_law_id": "504M60000008054",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20220610_504M60000008041",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2022-06-10",
+   "amendment_law_id": "504M60000008041",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20220104_503M60000008034",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-04",
+   "amendment_law_id": "503M60000008034",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20211126_503M60000008091",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-11-26",
+   "amendment_law_id": "503M60000008091",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20210901_503M60000008091",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000008091",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20210901_503M60000008081",
+   "amendment_promulgate_date": "2021-08-25",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000008081",
+   "amendment_law_title": "地方自治法施行規則及び市町村の合併の特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20210616_503M60000008034",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503M60000008034",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20210401_503M60000008025",
+   "amendment_promulgate_date": "2021-03-19",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000008025",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20210129_503M60000008004",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-01-29",
+   "amendment_law_id": "503M60000008004",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20210101_502M60000008131",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000008131",
+   "amendment_law_title": "地方自治法施行規則及び市町村の合併の特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20200918_502M60000008090",
+   "amendment_promulgate_date": "2020-09-18",
+   "amendment_enforcement_date": "2020-09-18",
+   "amendment_law_id": "502M60000008090",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20200401_502M60000008021",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000008021",
+   "amendment_law_title": "地方税法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20200401_502M60000008017",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000008017",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20200401_502M60000008014",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000008014",
+   "amendment_law_title": "地方自治法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20200401_431M60000008037",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431M60000008037",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20191216_501M60000008064",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000008064",
+   "amendment_law_title": "総務省関係法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "令和元年総務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20191001_501M60000008011",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501M60000008011",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20191001_431M60000008039",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "431M60000008039",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20191001_428M60000008039",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "428M60000008039",
+   "amendment_law_title": "地方税法施行規則の一部を改正する等の省令",
+   "amendment_law_num": "平成二十八年総務省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20190914_501M60000008041",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501M60000008041",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20190401_431M60000008040",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000008040",
+   "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律施行規則",
+   "amendment_law_num": "平成三十一年総務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20190401_431M60000008038",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000008038",
+   "amendment_law_title": "地方税法施行規則及び自動車重量譲与税法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20190329_431M60000008037",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-03-29",
+   "amendment_law_id": "431M60000008037",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20180401_430M60000008013",
+   "amendment_promulgate_date": "2018-03-29",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000008013",
+   "amendment_law_title": "地方自治法施行規則及び市町村の合併の特例に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年総務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20180401_430M60000008010",
+   "amendment_promulgate_date": "2018-03-19",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000008010",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年総務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "地方自治法（昭和二十二年法律第六十七号）第十六条第四項の総務省令で定める措置は、総務省関係法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則（平成十五年総務省令第四十八号）第二条第二項第一号イに規定する電子署名とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-05-03",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-18T13:41:45+09:00"
+ }
+}

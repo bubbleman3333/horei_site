@@ -1,0 +1,69 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000400071",
+  "law_num": "平成十三年経済産業省令第七十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "071",
+  "promulgation_date": "2001-03-28"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000400071_20260401_508M60000400016",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "収納家具の製造等の事業を行う者の使用済物品等の発生の抑制に関する判断の基準となるべき事項を定める省令",
+  "law_title_kana": "しゅうのうかぐのせいぞうとうのじぎょうをおこなうもののしようずみぶっぴんとうのはっせいのよくせいにかんするはんだんのきじゅんとなるべきじこうをさだめるしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-07T11:56:25+09:00",
+  "amendment_promulgate_date": "2026-03-24",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400016",
+  "amendment_law_title": "収納家具の製造の事業を行う者の使用済物品等の発生の抑制に関する判断の基準となるべき事項を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000400071_20260401_508M60000400016",
+   "amendment_promulgate_date": "2026-03-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000400016",
+   "amendment_law_title": "収納家具の製造の事業を行う者の使用済物品等の発生の抑制に関する判断の基準となるべき事項を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400071_20010401_000000000000000",
+   "amendment_promulgate_date": "2001-03-28",
+   "amendment_enforcement_date": "2001-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　製造事業者の判断の基準となるべき事項",
+  "第二章　修理事業者の判断の基準となるべき事項",
+  "第三章　賃貸事業者の判断の基準となるべき事項"
+ ],
+ "article1": {
+  "caption": "（原材料等の使用の合理化）",
+  "title": "第一条",
+  "paragraphs": [
+   "収納家具（金属製のものに限る。以下同じ。）の製造の事業を行う者（以下「製造事業者」という。）は、収納家具に係る使用済物品等の発生を抑制するため、軽量な部品等（部品又は部材をいう。以下同じ。）の採用その他の措置により、収納家具に係る原材料等の使用の合理化を行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-07T11:56:25+09:00"
+ }
+}

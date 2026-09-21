@@ -1,0 +1,225 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "426CO0000000074",
+  "law_num": "平成二十六年政令第七十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "074",
+  "promulgation_date": "2014-03-24"
+ },
+ "revision_info": {
+  "law_revision_id": "426CO0000000074_20260401_508CO0000000043",
+  "law_type": "CabinetOrder",
+  "law_title": "公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律の施行に伴う経過措置に関する政令",
+  "law_title_kana": "こうてきねんきんせいどのけんぜんせいおよびしんらいせいのかくほのためのこうせいねんきんほけんほうとうのいちぶをかいせいするほうりつのせこうにともなうけいかそちにかんするせいれい",
+  "abbrev": "公的年金制度の健全性及び信頼性の確保のための厚生年金法等の一部を改正する法律の施行に伴う経過措置に関する政令",
+  "category": "社会保険",
+  "updated": "2026-04-02T20:33:26+09:00",
+  "amendment_promulgate_date": "2026-03-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000043",
+  "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426CO0000000074_20261201_507CO0000000442",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-12-01",
+   "amendment_law_id": "507CO0000000442",
+   "amendment_law_title": "国民年金基金令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20260401_508CO0000000043",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000043",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20250501_507CO0000000101",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507CO0000000101",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20241201_503CO0000000244",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2024-12-01",
+   "amendment_law_id": "503CO0000000244",
+   "amendment_law_title": "確定拠出年金法施行令及び公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律の施行に伴う経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20241101_506CO0000000331",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506CO0000000331",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20231016_505CO0000000300",
+   "amendment_promulgate_date": "2023-10-06",
+   "amendment_enforcement_date": "2023-10-16",
+   "amendment_law_id": "505CO0000000300",
+   "amendment_law_title": "国民年金基金令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20230401_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20221001_503CO0000000253",
+   "amendment_promulgate_date": "2021-09-10",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "503CO0000000253",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20221001_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20220501_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20220401_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20200901_502CO0000000219",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000219",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20180501_429CO0000000292",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2018-05-01",
+   "amendment_law_id": "429CO0000000292",
+   "amendment_law_title": "確定拠出年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20180401_430CO0000000004",
+   "amendment_promulgate_date": "2018-01-17",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000004",
+   "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20180101_429CO0000000015",
+   "amendment_promulgate_date": "2017-02-08",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000015",
+   "amendment_law_title": "確定拠出年金法施行令及び公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律の施行に伴う経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20171127_429CO0000000292",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2017-11-27",
+   "amendment_law_id": "429CO0000000292",
+   "amendment_law_title": "確定拠出年金法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000074_20170101_428CO0000000310",
+   "amendment_promulgate_date": "2016-09-23",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428CO0000000310",
+   "amendment_law_title": "確定拠出年金法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　存続厚生年金基金に関する経過措置",
+  "第三章　存続連合会等に関する経過措置",
+  "第四章　その他の経過措置"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令は、公的年金制度の健全性及び信頼性の確保のための厚生年金保険法等の一部を改正する法律（以下「平成二十五年改正法」という。）の施行に伴い、存続厚生年金基金に係る改正前厚生年金保険法等の効力及び存続厚生年金基金の解散の特例等の存続厚生年金基金に関する事項並びに存続連合会に係る改正前厚生年金保険法等の効力等の存続連合会に関する事項等に関し必要な経過措置を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-03-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T20:33:26+09:00"
+ }
+}

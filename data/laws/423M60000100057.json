@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "423M60000100057",
+  "law_num": "平成二十三年厚生労働省令第五十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "057",
+  "promulgation_date": "2011-05-02"
+ },
+ "revision_info": {
+  "law_revision_id": "423M60000100057_20260401_508M60000100054",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "東日本大震災に対処するための特別の財政援助及び助成に関する法律の厚生労働省関係規定の施行等に関する省令",
+  "law_title_kana": "ひがしにほんだいしんさいにたいしょするためのとくべつのざいせいえんじょおよびじょせいにかんするほうりつのこうせいろうどうしょうかんけいきていのしこうとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-05-13T11:59:55+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100054",
+  "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第五十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423M60000100057_20260401_508M60000100054",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100054",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423M60000100057_20251001_507M60000100095",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000100095",
+   "amendment_law_title": "国民年金基金規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000100057_20240401_506M60000100065",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100065",
+   "amendment_law_title": "生活衛生等関係行政の機能強化のための関係法律の整備に関する法律の施行に伴う厚生労働省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000100057_20170401_429M60000100054",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000100054",
+   "amendment_law_num": "平成二十九年厚生労働省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（健康保険の標準報酬月額の改定に係る届出等）",
+  "title": "第一条",
+  "paragraphs": [
+   "東日本大震災に対処するための特別の財政援助及び助成に関する法律（平成二十三年法律第四十号。以下「法」という。）第四十九条第一項及び第二項の規定による健康保険の標準報酬月額の改定に係る届出については、健康保険法施行規則（大正十五年内務省令第三十六号。以下「健保規則」という。）第二十六条の規定を準用する。",
+   "前項において準用する健保規則第二十六条の規定による届出を行う事業主は、提出すべき届書に東日本大震災（法第二条第一項に規定する東日本大震災をいう。以下同じ。）による被害を受けたことを明らかにすることができる書類を添付しなければならない。",
+   "健康保険法（大正十一年法律第七十号）第九十九条第一項の規定により傷病手当金の支給を受けようとする者（東日本大震災による被害を受けたことにより傷病手当金の支給を受けようとする者に限る。）は、法第四十九条第四項の規定により読み替えられた健康保険法第九十九条第一項の規定が適用される場合においては、健保規則第八十四条第一項の申請書に、同条第二項、第五項及び第六項の規定により添付しなければならないこととされる書類のほか、東日本大震災による被害を受けたことにより疾病若しくは負傷又はこれによる疾病が発生したことを明らかにすることができる書類を添付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-05-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T11:59:55+09:00"
+ }
+}

@@ -1,0 +1,144 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "410M50000200086",
+  "law_num": "平成十年農林水産省令第八十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "086",
+  "promulgation_date": "1998-12-11"
+ },
+ "revision_info": {
+  "law_revision_id": "410M50000200086_20260724_508M60000200052",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "品種登録規則",
+  "law_title_kana": "ひんしゅとうろくきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-08-14T11:04:36+09:00",
+  "amendment_promulgate_date": "2026-07-24",
+  "amendment_enforcement_date": "2026-07-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200052",
+  "amendment_law_title": "種苗法施行規則及び品種登録規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410M50000200086_20260724_508M60000200052",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2026-07-24",
+   "amendment_law_id": "508M60000200052",
+   "amendment_law_title": "種苗法施行規則及び品種登録規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410M50000200086_20260521_508M60000200038",
+   "amendment_promulgate_date": "2026-05-14",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000200038",
+   "amendment_law_title": "品種登録規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000200086_20260401_508M60000200014",
+   "amendment_promulgate_date": "2026-03-09",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000200014",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年農林水産省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000200086_20220401_504M60000200015",
+   "amendment_promulgate_date": "2022-03-17",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000200015",
+   "amendment_law_title": "種苗法の一部を改正する法律の一部の施行に伴う農林水産省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年農林水産省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000200086_20210701_503M60000200040",
+   "amendment_promulgate_date": "2021-06-28",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000200040",
+   "amendment_law_title": "農林水産省組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000200086_20210401_503M60000200011",
+   "amendment_promulgate_date": "2021-03-23",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000200011",
+   "amendment_law_title": "種苗法の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年農林水産省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000200086_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000200086_20200401_502M60000200021",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000200021",
+   "amendment_law_title": "品種登録規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000200086_20110901_423M60000200052",
+   "amendment_promulgate_date": "2011-08-31",
+   "amendment_enforcement_date": "2011-09-01",
+   "amendment_law_id": "423M60000200052",
+   "amendment_law_num": "平成二十三年農林水産省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　品種登録簿",
+  "第三章　申請の手続",
+  "第四章　登録の手続"
+ ],
+ "article1": {
+  "caption": "（仮登録）",
+  "title": "第一条",
+  "paragraphs": [
+   "仮登録は、次に掲げる場合にするものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-12-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-14T11:04:36+09:00"
+ }
+}

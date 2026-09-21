@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "417CO0000000325",
+  "law_num": "平成十七年政令第三百二十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "325",
+  "promulgation_date": "2005-10-26"
+ },
+ "revision_info": {
+  "law_revision_id": "417CO0000000325_20260131_507CO0000000434",
+  "law_type": "CabinetOrder",
+  "law_title": "司法試験受験手数料令",
+  "law_title_kana": "しほうしけんじゅけんてすうりょうれい",
+  "abbrev": null,
+  "category": "司法",
+  "updated": "2026-01-31T00:02:06+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2026-01-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000434",
+  "amendment_law_title": "司法試験受験手数料令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第四百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417CO0000000325_20260131_507CO0000000434",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-01-31",
+   "amendment_law_id": "507CO0000000434",
+   "amendment_law_title": "司法試験受験手数料令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000325_20120201_423CO0000000402",
+   "amendment_promulgate_date": "2011-12-21",
+   "amendment_enforcement_date": "2012-02-01",
+   "amendment_law_id": "423CO0000000402",
+   "amendment_law_num": "平成二十三年政令第四百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（司法試験の受験手数料の額）",
+  "title": "第一条",
+  "paragraphs": [
+   "司法試験法第十一条第一項の司法試験の受験手数料の額は、三万二千円（電子出願（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用して行う出願をいう。以下同じ。）による場合にあっては、三万千円）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-10-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-31T00:02:06+09:00"
+ }
+}

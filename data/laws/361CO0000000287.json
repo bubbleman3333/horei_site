@@ -1,0 +1,101 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "361CO0000000287",
+  "law_num": "昭和六十一年政令第二百八十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 61,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "287",
+  "promulgation_date": "1986-08-29"
+ },
+ "revision_info": {
+  "law_revision_id": "361CO0000000287_20260401_507CO0000000234",
+  "law_type": "CabinetOrder",
+  "law_title": "プログラムの著作物に係る登録の特例に関する法律施行令",
+  "law_title_kana": "ぷろぐらむのちょさくぶつにかかるとうろくのとくれいにかんするほうりつせこうれい",
+  "abbrev": "プログラム登録特例法施行令,プログラム特例法施行令",
+  "category": "文化",
+  "updated": "2026-04-01T07:28:52+09:00",
+  "amendment_promulgate_date": "2025-06-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000234",
+  "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第二百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "361CO0000000287_20260401_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "361CO0000000287_20210601_503CO0000000159",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2021-06-01",
+   "amendment_law_id": "503CO0000000159",
+   "amendment_law_title": "プログラムの著作物に係る登録の特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "361CO0000000287_20210101_502CO0000000364",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502CO0000000364",
+   "amendment_law_title": "著作権法及びプログラムの著作物に係る登録の特例に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第三百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "361CO0000000287_20190701_501CO0000000042",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000042",
+   "amendment_law_title": "著作権法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "361CO0000000287_20170401_428CO0000000396",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000396",
+   "amendment_law_title": "森林法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（プログラムの著作物の複製物）",
+  "title": "第一条",
+  "paragraphs": [
+   "プログラムの著作物に係る登録の特例に関する法律（以下「法」という。）第二条のプログラムの著作物の複製物は、当該著作物を文部科学省令で定めるマイクロフィルム又は磁気ディスク（これに準ずる方法により一定の事項を確実に記録しておくことができる物を含む。）に複製したものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1986-08-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T07:28:52+09:00"
+ }
+}

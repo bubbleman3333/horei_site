@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ description }}{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"CollectionPage","name":{{ title|tojson }},"description":{{ description|tojson }},"url":{{ canonical|tojson }},
+ "isPartOf":{"@type":"WebSite","name":{{ site.name|tojson }},"url":{{ url()|tojson }}}}
+</script>
+{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">ホーム</a> › {{ title }}</nav>
+<h1>{{ title }}</h1>
+<p class="lead">{{ description }}</p>
+<table class="facts">
+<tr><th>{{ '分野' if base == 'category' else ('府省' if base == 'ministry' else '種別') }}</th><th>掲載件数</th></tr>
+{% for name, slug, n in rows %}
+<tr><td><a href="{{ url(base ~ '/' ~ slug ~ '/') }}">{{ name }}</a></td><td>{{ n }}</td></tr>
+{% endfor %}
+</table>
+{% endblock %}

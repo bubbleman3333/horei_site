@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60001500003",
+  "law_num": "令和八年厚生労働省・経済産業省・環境省令第三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2026-04-17"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60001500003_20260617_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "化学物質の審査及び製造等の規制に関する法律施行令第一条第一項第三十七号の規定に基づき化学物質を定める省令",
+  "law_title_kana": "かがくぶっしつのしんさおよびせいぞうとうのきせいにかんするほうりつしこうれいだいいちじょうだいいちこうだいさんじゅうななごうのきていにもとづきかがくぶっしつをさだめるしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-06-17T00:02:05+09:00",
+  "amendment_promulgate_date": "2026-04-17",
+  "amendment_enforcement_date": "2026-06-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60001500003_20260617_000000000000000",
+   "amendment_promulgate_date": "2026-04-17",
+   "amendment_enforcement_date": "2026-06-17",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "化学物質の審査及び製造等の規制に関する法律施行令第一条第一項第三十七号の厚生労働省令、経済産業省令、環境省令で定める化学物質は、次に掲げる化学物質とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-04-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-17T00:02:05+09:00"
+ }
+}

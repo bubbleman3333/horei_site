@@ -1,0 +1,189 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "345AC0000000137",
+  "law_num": "昭和四十五年法律第百三十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "Act",
+  "law_num_num": "137",
+  "promulgation_date": "1970-12-25"
+ },
+ "revision_info": {
+  "law_revision_id": "345AC0000000137_20260916_508AC0000000043",
+  "law_type": "Act",
+  "law_title": "廃棄物の処理及び清掃に関する法律",
+  "law_title_kana": "はいきぶつのしょりおよびせいそうにかんするほうりつ",
+  "abbrev": "廃棄物処理法,ごみ処理法,廃掃法",
+  "category": "厚生",
+  "updated": "2026-09-16T00:07:01+09:00",
+  "amendment_promulgate_date": "2026-06-19",
+  "amendment_enforcement_date": "2026-09-16",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000043",
+  "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345AC0000000137_20281218_508AC0000000043",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2028-12-18",
+   "amendment_enforcement_comment": "公布の日から起算して二年六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-12-18",
+   "amendment_law_id": "508AC0000000043",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20260916_508AC0000000043",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-09-16",
+   "amendment_law_id": "508AC0000000043",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20260619_508AC0000000043",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-06-19",
+   "amendment_law_id": "508AC0000000043",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20200401_429AC0000000061",
+   "amendment_promulgate_date": "2017-06-16",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000061",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20191214_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20180401_429AC0000000061",
+   "amendment_promulgate_date": "2017-06-16",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000061",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20170616_429AC0000000061",
+   "amendment_promulgate_date": "2017-06-16",
+   "amendment_enforcement_date": "2017-06-16",
+   "amendment_law_id": "429AC0000000061",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000137_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　一般廃棄物",
+  "第三章　産業廃棄物",
+  "第三章の二　廃棄物処理センター",
+  "第三章の三　廃棄物が地下にある土地の形質の変更",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、廃棄物の排出を抑制し、及び廃棄物の適正な分別、保管、収集、運搬、再生、処分等の処理をし、並びに生活環境を清潔にすることにより、生活環境の保全及び公衆衛生の向上を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-12-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-16T00:07:01+09:00"
+ }
+}

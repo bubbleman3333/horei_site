@@ -1,0 +1,159 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "333CO0000000227",
+  "law_num": "昭和三十三年政令第二百二十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "227",
+  "promulgation_date": "1958-07-22"
+ },
+ "revision_info": {
+  "law_revision_id": "333CO0000000227_20260507_508CO0000000159",
+  "law_type": "CabinetOrder",
+  "law_title": "証人等の被害についての給付に関する法律施行令",
+  "law_title_kana": "しょうにんとうのひがいについてのきゅうふにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-28T10:00:50+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000159",
+  "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333CO0000000227_20260507_508CO0000000159",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-07",
+   "amendment_law_id": "508CO0000000159",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20250801_507CO0000000265",
+   "amendment_promulgate_date": "2025-07-25",
+   "amendment_enforcement_date": "2025-08-01",
+   "amendment_law_id": "507CO0000000265",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20250401_507CO0000000072",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000072",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20240401_506CO0000000069",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000069",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20230401_505CO0000000074",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000074",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20220401_504CO0000000082",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000082",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20210401_503CO0000000070",
+   "amendment_promulgate_date": "2021-03-26",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000070",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20200401_502CO0000000067",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000067",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20190401_431CO0000000066",
+   "amendment_promulgate_date": "2019-03-27",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000066",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20180401_430CO0000000067",
+   "amendment_promulgate_date": "2018-03-28",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000067",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000227_20170401_429CO0000000056",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000056",
+   "amendment_law_title": "証人等の被害についての給付に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法務大臣の権限）",
+  "title": "第一条",
+  "paragraphs": [
+   "法務大臣は、証人等の被害についての給付に関する法律（以下「法」という。）の実施に関し、法による給付を受ける権利を裁定するほか、次に掲げる権限を有する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-07-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-28T10:00:50+09:00"
+ }
+}

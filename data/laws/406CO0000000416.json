@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "406CO0000000416",
+  "law_num": "平成六年政令第四百十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "416",
+  "promulgation_date": "1994-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "406CO0000000416_20260401_508CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "不当廉売関税等に関する政令",
+  "law_title_kana": "ふとうれんばいかんぜいとうにかんするせいれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-04-21T10:53:57+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000085",
+  "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406CO0000000416_20260401_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000416_20171008_428CO0000000240",
+   "amendment_promulgate_date": "2016-06-17",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428CO0000000240",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000416_20170401_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において、「供給者」、「供給国」、「指定貨物」、「不当廉売差額」又は「要還付額」とは、それぞれ関税定率法（以下「法」という。）第八条第一項又は第三十二項に規定する供給者、供給国、指定貨物、不当廉売差額又は要還付額をいい、「指定貨物供給国等」とは、法第八条の二第一項第一号に規定する指定貨物供給国等をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-12-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:53:57+09:00"
+ }
+}

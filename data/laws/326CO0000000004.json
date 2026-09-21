@@ -1,0 +1,183 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "326CO0000000004",
+  "law_num": "昭和二十六年政令第四号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "004",
+  "promulgation_date": "1951-01-19"
+ },
+ "revision_info": {
+  "law_revision_id": "326CO0000000004_20251111_507CO0000000353",
+  "law_type": "CabinetOrder",
+  "law_title": "港湾法施行令",
+  "law_title_kana": "こうわんほうせこうれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2025-11-11T00:01:41+09:00",
+  "amendment_promulgate_date": "2025-10-17",
+  "amendment_enforcement_date": "2025-11-11",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000353",
+  "amendment_law_title": "港湾法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326CO0000000004_20251111_507CO0000000353",
+   "amendment_promulgate_date": "2025-10-17",
+   "amendment_enforcement_date": "2025-11-11",
+   "amendment_law_id": "507CO0000000353",
+   "amendment_law_title": "港湾法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20251101_507CO0000000353",
+   "amendment_promulgate_date": "2025-10-17",
+   "amendment_enforcement_date": "2025-11-01",
+   "amendment_law_id": "507CO0000000353",
+   "amendment_law_title": "港湾法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20251001_507CO0000000336",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000336",
+   "amendment_law_title": "港湾法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20251001_507CO0000000263",
+   "amendment_promulgate_date": "2025-07-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000263",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20250722_507CO0000000249",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507CO0000000249",
+   "amendment_law_title": "港湾法施行令及び沖縄振興特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20240701_506CO0000000222",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000222",
+   "amendment_law_title": "港湾法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20221216_504CO0000000381",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2022-12-16",
+   "amendment_law_id": "504CO0000000381",
+   "amendment_law_title": "港湾法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20200812_502CO0000000239",
+   "amendment_promulgate_date": "2020-08-05",
+   "amendment_enforcement_date": "2020-08-12",
+   "amendment_law_id": "502CO0000000239",
+   "amendment_law_title": "港湾法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20200214_502CO0000000015",
+   "amendment_promulgate_date": "2020-01-29",
+   "amendment_enforcement_date": "2020-02-14",
+   "amendment_law_id": "502CO0000000015",
+   "amendment_law_title": "港湾法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20180401_429CO0000000253",
+   "amendment_promulgate_date": "2017-09-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000253",
+   "amendment_law_title": "港湾法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20170708_429CO0000000188",
+   "amendment_promulgate_date": "2017-07-07",
+   "amendment_enforcement_date": "2017-07-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000188",
+   "amendment_law_title": "港湾法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326CO0000000004_20160701_428CO0000000244",
+   "amendment_promulgate_date": "2016-06-24",
+   "amendment_enforcement_date": "2016-07-01",
+   "amendment_law_id": "428CO0000000244",
+   "amendment_law_title": "港湾法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　国際戦略港湾等",
+  "第二章　港湾計画",
+  "第三章　港務局の債務",
+  "第四章　港湾施設の建設等に係る資金の貸付け",
+  "第五章　港湾区域内の工事等の許可及び臨港地区内における行為の届出等",
+  "第六章　港湾環境整備負担金の負担の基準",
+  "第七章　国派遣職員に係る国家公務員倫理規程の特例",
+  "第八章　入港料を徴収されない船舶",
+  "第九章　国土交通大臣がする港湾工事等",
+  "第十章　緊急確保航路",
+  "第十一章　港湾区域の定めのない港湾の利用又は保全に支障を与えるおそれのある行為",
+  "第十二章　港湾の施設に関する技術上の基準",
+  "第十三章　雑則"
+ ],
+ "article1": {
+  "caption": "（国際戦略港湾、国際拠点港湾、重要港湾及び避難港）",
+  "title": "第一条",
+  "paragraphs": [
+   "港湾法（以下「法」という。）第二条第二項に規定する国際戦略港湾、国際拠点港湾及び重要港湾並びに同条第九項に規定する避難港は、別表第一のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-01-19",
+  "fetched_at": "2026-09-21",
+  "updated": "2025-11-11T00:01:41+09:00"
+ }
+}

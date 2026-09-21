@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "406M50002040001",
+  "law_num": "平成六年大蔵省・労働省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1994-03-25"
+ },
+ "revision_info": {
+  "law_revision_id": "406M50002040001_20260625_508M60000102009",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "労働金庫及び労働金庫連合会の優先出資に関する命令",
+  "law_title_kana": "ろうどうきんこおよびろうどうきんこれんごうかいのゆうせんしゅっしにかんするめいれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-07-08T10:46:19+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000102009",
+  "amendment_law_title": "労働金庫及び労働金庫連合会の金融機能の強化のための特別措置に関する命令等の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・厚生労働省令第九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406M50002040001_20260625_508M60000102009",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508M60000102009",
+   "amendment_law_title": "労働金庫及び労働金庫連合会の金融機能の強化のための特別措置に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・厚生労働省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406M50002040001_20240401_506M60000102006",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000102006",
+   "amendment_law_title": "労働金庫法施行規則及び労働金庫及び労働金庫連合会の優先出資に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・厚生労働省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50002040001_20231227_505M60000102011",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000102011",
+   "amendment_law_title": "労働金庫法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する命令等の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・厚生労働省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50002040001_20220901_504M60000102008",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504M60000102008",
+   "amendment_law_title": "労働金庫法施行規則及び労働金庫及び労働金庫連合会の優先出資に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・厚生労働省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50002040001_20150501_427M60000102005",
+   "amendment_promulgate_date": "2015-04-28",
+   "amendment_enforcement_date": "2015-05-01",
+   "amendment_law_id": "427M60000102005",
+   "amendment_law_num": "平成二十七年内閣府・厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（募集の認可申請書の添付書類）",
+  "title": "第一条",
+  "paragraphs": [
+   "協同組織金融機関の優先出資に関する法律施行令（以下「令」という。）第一条に規定する主務省令で定める書類は、次に掲げる書類とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-03-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T10:46:19+09:00"
+ }
+}

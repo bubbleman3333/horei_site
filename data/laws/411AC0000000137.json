@@ -1,0 +1,187 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "411AC0000000137",
+  "law_num": "平成十一年法律第百三十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "Act",
+  "law_num_num": "137",
+  "promulgation_date": "1999-08-18"
+ },
+ "revision_info": {
+  "law_revision_id": "411AC0000000137_20260521_507AC0000000039",
+  "law_type": "Act",
+  "law_title": "犯罪捜査のための通信傍受に関する法律",
+  "law_title_kana": "はんざいそうさのためのつうしんぼうじゅにかんするほうりつ",
+  "abbrev": "盗聴法,通信傍受法,組織犯罪対策三法",
+  "category": "刑事",
+  "updated": "2026-05-21T02:09:21+09:00",
+  "amendment_promulgate_date": "2025-05-23",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000039",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411AC0000000137_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20260521_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20250722_507AC0000000026",
+   "amendment_promulgate_date": "2025-04-23",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507AC0000000026",
+   "amendment_law_title": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
+   "amendment_law_num": "令和七年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20250612_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-12",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20241212_505AC0000000084",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "505AC0000000084",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20240714_506AC0000000048",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-07-14",
+   "amendment_law_id": "506AC0000000048",
+   "amendment_law_title": "銃砲刀剣類所持等取締法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20231213_505AC0000000084",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505AC0000000084",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20200401_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20190601_428AC0000000054",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "428AC0000000054",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000137_20161201_428AC0000000054",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2016-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000054",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　通信傍受の要件及び実施の手続",
+  "第三章　通信傍受の記録等",
+  "第四章　通信の秘密の尊重等",
+  "第五章　補則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、組織的な犯罪が平穏かつ健全な社会生活を著しく害していることにかんがみ、数人の共謀によって実行される組織的な殺人、薬物及び銃器の不正取引に係る犯罪等の重大犯罪において、犯人間の相互連絡等に用いられる電話その他の電気通信の傍受を行わなければ事案の真相を解明することが著しく困難な場合が増加する状況にあることを踏まえ、これに適切に対処するため必要な刑事訴訟法（昭和二十三年法律第百三十一号）に規定する電気通信の傍受を行う強制の処分に関し、通信の秘密を不当に侵害することなく事案の真相の的確な解明に資するよう、その要件、手続その他必要な事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-08-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:09:21+09:00"
+ }
+}

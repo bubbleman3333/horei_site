@@ -1,0 +1,57 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000018002",
+  "law_num": "令和八年総務省・法務省令第二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "2026-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000018002_20260614_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定特別永住者証明書の交付の申請に関する規則",
+  "law_title_kana": "とくていとくべつえいじゅうしゃしょうめいしょのこうふのしんせいにかんするきそく",
+  "abbrev": null,
+  "category": "外事",
+  "updated": "2026-06-26T10:02:57+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000018002_20260614_000000000000000",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第十六条の二第一項の規定による申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法（以下「法」という。）第十六条の二第一項の規定による申請は、住所地市町村（同条第十一項の規定により同条第一項の規定による申請をする場合にあっては、住所地市町村以外の市町村（特別区を含むものとし、地方自治法（昭和二十二年法律第六十七号）第二百五十二条の十九第一項の指定都市にあっては、区又は総合区。以下同じ。））の事務所に自ら出頭し、別記様式による申請書一通を提出して行わなければならない。",
+   "前項の申請は、次に掲げる場合には、同項の規定にかかわらず、特別永住者が自ら出頭してこれを行うことを要しない。ただし、当該申請に併せて法第十六条の二第四項の規定による申出をする場合は、この限りでない。",
+   "前項の規定により特別永住者が自ら出頭することを要しない場合において、当該特別永住者に代わって第一項の申請又は前項第三号に規定する手続をしようとする者は、市町村の長に対し、当該場合に当たることを明らかにする資料の提示又は説明をしなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-26T10:02:57+09:00"
+ }
+}

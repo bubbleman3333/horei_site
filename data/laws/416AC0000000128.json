@@ -1,0 +1,133 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "416AC0000000128",
+  "law_num": "平成十六年法律第百二十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "Act",
+  "law_num_num": "128",
+  "promulgation_date": "2004-06-18"
+ },
+ "revision_info": {
+  "law_revision_id": "416AC0000000128_20260625_508AC0000000015",
+  "law_type": "Act",
+  "law_title": "金融機能の強化のための特別措置に関する法律",
+  "law_title_kana": "きんゆうきのうのきょうかのためのとくべつそちにかんするほうりつ",
+  "abbrev": "金融機能強化法",
+  "category": "金融・保険",
+  "updated": "2026-06-25T00:08:43+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000015",
+  "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416AC0000000128_20271205_507AC0000000057",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2027-12-05",
+   "amendment_enforcement_comment": "譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-12-05",
+   "amendment_law_id": "507AC0000000057",
+   "amendment_law_title": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000128_20260625_508AC0000000015",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508AC0000000015",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000128_20260507_508AC0000000015",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-07",
+   "amendment_law_id": "508AC0000000015",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000128_20211122_503AC0000000046",
+   "amendment_promulgate_date": "2021-05-26",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503AC0000000046",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響による社会経済情勢の変化に対応して金融の機能の強化及び安定の確保を図るための銀行法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000128_20210721_503AC0000000046",
+   "amendment_promulgate_date": "2021-05-26",
+   "amendment_enforcement_date": "2021-07-21",
+   "amendment_law_id": "503AC0000000046",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響による社会経済情勢の変化に対応して金融の機能の強化及び安定の確保を図るための銀行法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000128_20200814_502AC0000000059",
+   "amendment_promulgate_date": "2020-06-19",
+   "amendment_enforcement_date": "2020-08-14",
+   "amendment_law_id": "502AC0000000059",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416AC0000000128_20161202_428AC0000000098",
+   "amendment_promulgate_date": "2016-12-02",
+   "amendment_enforcement_date": "2016-12-02",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000098",
+   "amendment_law_title": "金融資本市場をめぐる情勢の変化に対応して金融の機能の安定を確保するための金融機能の強化のための特別措置に関する法律等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　金融機関等に対する資本の増強に関する特別措置",
+  "第三章　金融組織再編成を行う金融機関等に対する資本の増強に関する特別措置",
+  "第四章　協同組織中央金融機関による協同組織金融機関に対する資本の増強に関する特別措置",
+  "第四章の二　協同組織中央金融機関等に対する資本の増強に関する特別措置",
+  "第四章の三　特定事態における資本の増強に関する特別措置",
+  "第四章の四　金融機関等の経営基盤の強化のための措置の実施に関する特別措置",
+  "第五章　預金保険機構の業務の特例等",
+  "第六章　金融機能強化審査会",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、金融機関等をめぐる情勢の変化に対応して金融機関等の金融機能の強化を図るため、当分の間、金融機関等の資本の増強等に関する特別の措置を講ずることにより、金融機関等の業務の健全かつ効率的な運営及び地域における経済の活性化を期し、もって信用秩序の維持と国民経済の健全な発展に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-06-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-25T00:08:43+09:00"
+ }
+}

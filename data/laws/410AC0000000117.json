@@ -1,0 +1,180 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "410AC0000000117",
+  "law_num": "平成十年法律第百十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "Act",
+  "law_num_num": "117",
+  "promulgation_date": "1998-10-09"
+ },
+ "revision_info": {
+  "law_revision_id": "410AC0000000117_20260101_506AC0000000056",
+  "law_type": "Act",
+  "law_title": "地球温暖化対策の推進に関する法律",
+  "law_title_kana": "ちきゅうおんだんかたいさくのすいしんにかんするほうりつ",
+  "abbrev": "地球温暖化対策推進法,温対法",
+  "category": "環境保全",
+  "updated": "2026-01-01T03:56:02+09:00",
+  "amendment_promulgate_date": "2024-06-19",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000056",
+  "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第五十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410AC0000000117_20260101_506AC0000000056",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "506AC0000000056",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20250401_506AC0000000056",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000056",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20240619_506AC0000000056",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-06-19",
+   "amendment_law_id": "506AC0000000056",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20230401_504AC0000000046",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000046",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20220701_504AC0000000060",
+   "amendment_promulgate_date": "2022-06-01",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504AC0000000060",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20220520_504AC0000000046",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504AC0000000046",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20220401_503AC0000000054",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000054",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20210602_503AC0000000054",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-06-02",
+   "amendment_law_id": "503AC0000000054",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20181201_430AC0000000045",
+   "amendment_promulgate_date": "2018-06-13",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_law_id": "430AC0000000045",
+   "amendment_law_title": "エネルギーの使用の合理化等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410AC0000000117_20160527_428AC0000000050",
+   "amendment_promulgate_date": "2016-05-27",
+   "amendment_enforcement_date": "2016-05-27",
+   "amendment_law_id": "428AC0000000050",
+   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　地球温暖化対策計画",
+  "第三章　地球温暖化対策推進本部",
+  "第四章　政府実行計画、地方公共団体実行計画等",
+  "第五章　事業活動に伴う排出削減等",
+  "第六章　株式会社脱炭素化支援機構による対象事業活動の支援等",
+  "第七章　地球温暖化対策の普及啓発等",
+  "第八章　森林等による吸収作用の保全等",
+  "第九章　国際協力排出削減量の記録、管理等",
+  "第十章　雑則",
+  "第十一章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、地球温暖化が地球全体の環境に深刻な影響を及ぼすものであり、気候系に対して危険な人為的干渉を及ぼすこととならない水準において大気中の温室効果ガスの濃度を安定化させ地球温暖化を防止することが人類共通の課題であり、全ての者が自主的かつ積極的にこの課題に取り組むことが重要であることに鑑み、地球温暖化対策に関し、地球温暖化対策計画を策定するとともに、社会経済活動その他の活動による温室効果ガスの排出の量の削減等を促進するための措置を講ずること等により、地球温暖化対策の推進を図り、もって現在及び将来の国民の健康で文化的な生活の確保に寄与するとともに人類の福祉に貢献することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-10-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T03:56:02+09:00"
+ }
+}

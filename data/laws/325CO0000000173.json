@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "325CO0000000173",
+  "law_num": "昭和二十五年政令第百七十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "173",
+  "promulgation_date": "1950-05-31"
+ },
+ "revision_info": {
+  "law_revision_id": "325CO0000000173_20260701_508CO0000000203",
+  "law_type": "CabinetOrder",
+  "law_title": "電波法による旅費等の額を定める政令",
+  "law_title_kana": "でんぱほうによるりょひとうのがくをさだめるせいれい",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-07-01T00:11:41+09:00",
+  "amendment_promulgate_date": "2026-06-19",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000203",
+  "amendment_law_title": "電波法による旅費等の額を定める政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325CO0000000173_20260701_508CO0000000203",
+   "amendment_promulgate_date": "2026-06-19",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000203",
+   "amendment_law_title": "電波法による旅費等の額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000173_20250401_507CO0000000103",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000103",
+   "amendment_law_title": "電波法による旅費等の額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000173_20240701_506CO0000000223",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506CO0000000223",
+   "amendment_law_title": "電波法による旅費等の額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000173_20230701_505CO0000000215",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505CO0000000215",
+   "amendment_law_title": "電波法による旅費等の額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000173_20190801_501CO0000000065",
+   "amendment_promulgate_date": "2019-07-26",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000065",
+   "amendment_law_title": "電波法による旅費等の額を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000173_20110630_423CO0000000181",
+   "amendment_promulgate_date": "2011-06-24",
+   "amendment_enforcement_date": "2011-06-30",
+   "amendment_law_id": "423CO0000000181",
+   "amendment_law_num": "平成二十三年政令第百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "電波法第九十二条の二（同法第百四条の三第二項及び第百四条の四第二項、電波法の一部を改正する法律（平成九年法律第四十七号）附則第四条第一項の規定によりなお効力を有することとされた同法による改正前の電波法第百四条の四第二項並びに放送法（昭和二十五年法律第百三十二号）第百八十条において準用する場合を含む。次条第二項において同じ。）の規定により出頭を求められた参考人の受ける旅費、日当及び宿泊料の額については、この政令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-05-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-01T00:11:41+09:00"
+ }
+}

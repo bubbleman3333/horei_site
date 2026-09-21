@@ -1,0 +1,110 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "422CO0000000112",
+  "law_num": "平成二十二年政令第百十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 22,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "112",
+  "promulgation_date": "2010-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "422CO0000000112_20260401_508CO0000000088",
+  "law_type": "CabinetOrder",
+  "law_title": "高等学校等就学支援金の支給に関する法律施行令",
+  "law_title_kana": "こうとうがっこうとうしゅうがくしえんきんのしきゅうにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-21T10:54:59+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000088",
+  "amendment_law_title": "高等学校等就学支援金の支給に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第八十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "422CO0000000112_20260401_508CO0000000088",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000088",
+   "amendment_law_title": "高等学校等就学支援金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000112_20230401_505CO0000000103",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000103",
+   "amendment_law_title": "高等学校等就学支援金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000112_20220701_504CO0000000227",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504CO0000000227",
+   "amendment_law_title": "高等学校等就学支援金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000112_20200401_502CO0000000089",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000089",
+   "amendment_law_title": "高等学校等就学支援金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000112_20180701_429CO0000000301",
+   "amendment_promulgate_date": "2017-12-08",
+   "amendment_enforcement_date": "2018-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000301",
+   "amendment_law_title": "高等学校等就学支援金の支給に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第三百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000112_20170401_428CO0000000353",
+   "amendment_promulgate_date": "2016-11-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000353",
+   "amendment_law_title": "地方独立行政法人法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（高等学校等に在学した期間の計算の特例）",
+  "title": "第一条",
+  "paragraphs": [
+   "高等学校等就学支援金の支給に関する法律（平成二十二年法律第十八号。以下「法」という。）第三条第三項の政令で定める月は、次に掲げる月とする。",
+   "法第三条第三項の政令で定める月数は、一月の四分の三に相当する月数とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2010-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:54:59+09:00"
+ }
+}

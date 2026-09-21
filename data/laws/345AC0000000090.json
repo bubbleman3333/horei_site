@@ -1,0 +1,301 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "345AC0000000090",
+  "law_num": "昭和四十五年法律第九十号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "Act",
+  "law_num_num": "090",
+  "promulgation_date": "1970-05-22"
+ },
+ "revision_info": {
+  "law_revision_id": "345AC0000000090_20250804_507AC0000000030",
+  "law_type": "Act",
+  "law_title": "情報処理の促進に関する法律",
+  "law_title_kana": "じょうほうしょりのそくしんにかんするほうりつ",
+  "abbrev": "情報処理促進法",
+  "category": "産業通則",
+  "updated": "2026-03-02T17:45:51+09:00",
+  "amendment_promulgate_date": "2025-05-14",
+  "amendment_enforcement_date": "2025-08-04",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000030",
+  "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第三十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345AC0000000090_20280116_508AC0000000057",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2028-01-16",
+   "amendment_enforcement_comment": "公布の日から起算して一年六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-01-16",
+   "amendment_law_id": "508AC0000000057",
+   "amendment_law_title": "情報通信技術を活用した行政の推進等に関する法律及び情報処理の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20261001_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20250804_507AC0000000030",
+   "amendment_promulgate_date": "2025-05-14",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507AC0000000030",
+   "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20250701_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20250523_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20250514_507AC0000000030",
+   "amendment_promulgate_date": "2025-05-14",
+   "amendment_enforcement_date": "2025-05-14",
+   "amendment_law_id": "507AC0000000030",
+   "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20250401_506AC0000000046",
+   "amendment_promulgate_date": "2024-06-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000046",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20240607_506AC0000000046",
+   "amendment_promulgate_date": "2024-06-07",
+   "amendment_enforcement_date": "2024-06-07",
+   "amendment_law_id": "506AC0000000046",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20231221_504AC0000000074",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "504AC0000000074",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20220622_504AC0000000074",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504AC0000000074",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20210616_503AC0000000070",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503AC0000000070",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する等の法律",
+   "amendment_law_num": "令和三年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20201001_502AC0000000058",
+   "amendment_promulgate_date": "2020-06-19",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502AC0000000058",
+   "amendment_law_title": "中小企業の事業承継の促進のための中小企業における経営の承継の円滑化に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20200515_501AC0000000067",
+   "amendment_promulgate_date": "2019-12-06",
+   "amendment_enforcement_date": "2020-05-15",
+   "amendment_law_id": "501AC0000000067",
+   "amendment_law_title": "情報処理の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20190716_501AC0000000021",
+   "amendment_promulgate_date": "2019-06-05",
+   "amendment_enforcement_date": "2019-07-16",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501AC0000000021",
+   "amendment_law_title": "中小企業の事業活動の継続に資するための中小企業等経営強化法等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20190401_430AC0000000091",
+   "amendment_promulgate_date": "2018-12-12",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000091",
+   "amendment_law_title": "サイバーセキュリティ基本法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20180925_430AC0000000026",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430AC0000000026",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20180709_430AC0000000026",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-07-09",
+   "amendment_law_id": "430AC0000000026",
+   "amendment_law_title": "産業競争力強化法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20180606_430AC0000000025",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-06-06",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430AC0000000025",
+   "amendment_law_title": "生産性向上特別措置法",
+   "amendment_law_num": "平成三十年法律第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20170731_429AC0000000047",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-07-31",
+   "amendment_law_id": "429AC0000000047",
+   "amendment_law_title": "企業立地の促進等による地域における産業集積の形成及び活性化に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345AC0000000090_20161021_428AC0000000031",
+   "amendment_promulgate_date": "2016-04-22",
+   "amendment_enforcement_date": "2016-10-21",
+   "amendment_law_id": "428AC0000000031",
+   "amendment_law_title": "サイバーセキュリティ基本法及び情報処理の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　情報処理安全確保支援士等",
+  "第三章　情報処理システムの運用及び管理に関する指針等",
+  "第四章　独立行政法人情報処理推進機構",
+  "第五章　指定高速情報処理用半導体の指定等",
+  "第六章　先端半導体・人工知能関連技術債",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、プログラムの開発を促進し、プログラムの流通を円滑にし、情報処理システムの良好な状態を維持するとともにその性能の向上を図ることでその高度利用を促進し、及び情報処理サービス業等の育成のための措置を講ずること等によつて、情報処理システムが戦略的に利用され、及び多様なデータが活用される高度な情報化社会の実現を図り、もつて国民生活の向上及び国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-05-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-03-02T17:45:51+09:00"
+ }
+}

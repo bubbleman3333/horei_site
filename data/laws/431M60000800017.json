@@ -1,0 +1,100 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "431M60000800017",
+  "law_num": "平成三十一年国土交通省令第十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 31,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "2019-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "431M60000800017_20260401_508M60000800011",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国土交通省関係海洋再生可能エネルギー発電設備の整備に関する法律施行規則",
+  "law_title_kana": "こくどこうつうしょうかんけいかいようさいせいかのうえねるぎーはつでんせつびのせいびにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-02T21:31:08+09:00",
+  "amendment_promulgate_date": "2026-02-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800011",
+  "amendment_law_title": "国土交通省関係海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "431M60000800017_20260401_508M60000800011",
+   "amendment_promulgate_date": "2026-02-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800011",
+   "amendment_law_title": "国土交通省関係海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "431M60000800017_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000800017_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000800017_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431M60000800017_20190401_000000000000000",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（促進区域内海域の占用等に係る許可）",
+  "title": "第一条",
+  "paragraphs": [
+   "海洋再生可能エネルギー発電設備の整備に関する法律（以下「法」という。）第十三条第一項第一号に掲げる行為に係る同項の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。",
+   "法第十三条第一項第二号に掲げる行為に係る同項の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。",
+   "法第十三条第一項第三号に掲げる行為に係る同項の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。",
+   "法第十三条第一項第四号に掲げる行為に係る同項の許可を受けようとする者は、次に掲げる事項を記載した申請書を国土交通大臣に提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:31:08+09:00"
+ }
+}

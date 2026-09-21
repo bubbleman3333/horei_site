@@ -1,0 +1,157 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "424M60000004003",
+  "law_num": "平成二十四年復興庁令第三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2012-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "424M60000004003_20260817_508M60000004005",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "福島復興再生特別措置法施行規則",
+  "law_title_kana": "ふくしまふっこうさいせいとくべつそちほうしこうきそく",
+  "abbrev": "福島復興再生特措法施行規則,福島特措法施行規則",
+  "category": "災害対策",
+  "updated": "2026-08-28T14:08:41+09:00",
+  "amendment_promulgate_date": "2026-08-17",
+  "amendment_enforcement_date": "2026-08-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000004005",
+  "amendment_law_title": "福島復興再生特別措置法施行規則の一部を改正する庁令",
+  "amendment_law_num": "令和八年復興庁令第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424M60000004003_20260817_508M60000004005",
+   "amendment_promulgate_date": "2026-08-17",
+   "amendment_enforcement_date": "2026-08-17",
+   "amendment_law_id": "508M60000004005",
+   "amendment_law_title": "福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和八年復興庁令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20260807_508M60000004004",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000004004",
+   "amendment_law_title": "福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和八年復興庁令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20260401_508M60000004002",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000004002",
+   "amendment_law_title": "福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和八年復興庁令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20230609_505M60000004003",
+   "amendment_promulgate_date": "2023-06-09",
+   "amendment_enforcement_date": "2023-06-09",
+   "amendment_law_id": "505M60000004003",
+   "amendment_law_title": "福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和五年復興庁令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20230331_505M60000004002",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505M60000004002",
+   "amendment_law_title": "福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和五年復興庁令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20220401_504M60000004001",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000004001",
+   "amendment_law_title": "東日本大震災復興特別区域法施行規則及び福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和四年復興庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20210401_503M60000004001",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000004001",
+   "amendment_law_title": "東日本大震災復興特別区域法施行規則及び福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和三年復興庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20201225_502M60000004001",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000004001",
+   "amendment_law_title": "東日本大震災復興特別区域法施行規則及び福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和二年復興庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20190401_431M60000004001",
+   "amendment_promulgate_date": "2019-01-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000004001",
+   "amendment_law_title": "福島復興再生特別措置法施行規則の一部を改正する庁令",
+   "amendment_law_num": "平成三十一年復興庁令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20170519_429M60000004002",
+   "amendment_promulgate_date": "2017-05-19",
+   "amendment_enforcement_date": "2017-05-19",
+   "amendment_law_id": "429M60000004002",
+   "amendment_law_num": "平成二十九年復興庁令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000004003_20150507_427M60000004003",
+   "amendment_promulgate_date": "2015-05-07",
+   "amendment_enforcement_date": "2015-05-07",
+   "amendment_law_id": "427M60000004003",
+   "amendment_law_num": "平成二十七年復興庁令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（福島復興再生計画の認定の申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "福島県知事は、福島復興再生特別措置法（以下「法」という。）第七条第一項の規定により認定の申請をしようとするときは、別記様式第一による申請書その他の同条第二項各号に掲げる事項を明らかにする書類に、次に掲げる図書を添えて、これらを内閣総理大臣に提出するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-28T14:08:41+09:00"
+ }
+}

@@ -1,0 +1,58 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000018001",
+  "law_num": "令和八年総務省・法務省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2026-03-27"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000018001_20260614_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定在留カードの交付の申請に関する規則",
+  "law_title_kana": "とくていざいりゅうかーどのこうふのしんせいにかんするきそく",
+  "abbrev": null,
+  "category": "外事",
+  "updated": "2026-06-14T00:52:59+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000018001_20260614_000000000000000",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第十九条の十五の二第一項の規定による申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "出入国管理及び難民認定法（以下「法」という。）第十九条の十五の二第一項の規定による申請は、地方出入国在留管理局に自ら出頭し、別記第一号様式による申請書一通を提出して行わなければならない。",
+   "前項の申請（法第十九条の十五の二第一項第一号に掲げる届出又は申請に係るものに限る。）は、次に掲げる場合には、前項の規定にかかわらず、中長期在留者が自ら出頭してこれを行うことを要しない。",
+   "第一項の申請（法第十九条の十五の二第一項第二号に掲げる申請に係るものに限る。以下この項において同じ。）は、次に掲げる場合には、第一項の規定にかかわらず、中長期在留者が自ら出頭してこれを行うことを要しない。",
+   "第一項の申請が法第十九条の十一第一項の規定による申請に係るものである場合には、入管法施行規則第十九条の十第二項において準用する入管法施行規則第十九条の九第二項の規定により提示された在留カードに、法第十九条の十一第一項の規定による申請があった旨の表示をするものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-14T00:52:59+09:00"
+ }
+}

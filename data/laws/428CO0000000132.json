@@ -1,0 +1,148 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "428CO0000000132",
+  "law_num": "平成二十八年政令第百三十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "132",
+  "promulgation_date": "2016-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "428CO0000000132_20260401_508CO0000000078",
+  "law_type": "CabinetOrder",
+  "law_title": "令和八年度における旧地方公務員等共済組合法による退職年金等の給料年額改定率の改定に関する政令",
+  "law_title_kana": "れいわはちねんどにおけるきゅうちほうこうむいんとうきょうさいくみあいほうによるたいしょくねんきんとうのきゅうりょうねんがくかいていりつのかいていにかんするせいれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-04-14T09:38:20+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000078",
+  "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する等の政令及び令和七年度における旧地方公務員等共済組合法による退職年金等の給料年額改定率の改定に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第七十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428CO0000000132_20260401_508CO0000000078",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000078",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する等の政令及び令和七年度における旧地方公務員等共済組合法による退職年金等の給料年額改定率の改定に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20250401_507CO0000000109",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000109",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20240401_506CO0000000130",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000130",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20230401_505CO0000000120",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000120",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20220401_504CO0000000119",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000119",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20210401_503CO0000000104",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000104",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する等の政令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20200401_502CO0000000104",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000104",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する等の政令及び平成三十一年度における旧地方公務員等共済組合法による退職年金等の給料年額改定率の改定に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20190401_431CO0000000123",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000123",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する等の政令及び平成三十年度における旧地方公務員等共済組合法による退職年金等の給料年額改定率の改定に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20180401_430CO0000000118",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000118",
+   "amendment_law_title": "地方公務員等共済組合法施行令及び平成二十九年度における旧地方公務員等共済組合法による退職年金等の給料年額改定率の改定に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000132_20170401_429CO0000000083",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000083",
+   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "令和八年度における被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律附則第六十一条第一項の規定によりなおその効力を有するものとされた同法附則第百二条の規定（同法附則第一条第三号に掲げる改正規定を除く。）による改正前の地方公務員等共済組合法等の一部を改正する法律（昭和六十年法律第百八号。以下「なお効力を有する改正前昭和六十年地共済改正法」という。）附則第九十八条第一項に規定する給料年額改定率については、なお効力を有する改正前昭和六十年地共済改正法附則別表第六を次のとおり読み替えて、なお効力を有する改正前昭和六十年地共済改正法の規定（他の法令において、引用し、準用し、又はその例による場合を含む。）を適用する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2016-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:38:20+09:00"
+ }
+}

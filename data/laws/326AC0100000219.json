@@ -1,0 +1,298 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "326AC0100000219",
+  "law_num": "昭和二十六年法律第二百十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "Act",
+  "law_num_num": "219",
+  "promulgation_date": "1951-06-09"
+ },
+ "revision_info": {
+  "law_revision_id": "326AC0100000219_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "土地収用法",
+  "law_title_kana": "とちしゅうようほう",
+  "abbrev": null,
+  "category": "土地",
+  "updated": "2026-07-02T13:11:24+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326AC0100000219_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20250401_505AC0000000047",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000047",
+   "amendment_law_title": "国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20240401_505AC0000000034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000034",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20230607_505AC0000000047",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2023-06-07",
+   "amendment_law_id": "505AC0000000047",
+   "amendment_law_title": "国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20230401_503AC0000000063",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000063",
+   "amendment_law_title": "地方公務員法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20221114_504AC0000000046",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504AC0000000046",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20220520_504AC0000000046",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504AC0000000046",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20220401_502AC0000000049",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000049",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20210611_503AC0000000065",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2021-06-11",
+   "amendment_law_id": "503AC0000000065",
+   "amendment_law_title": "航空法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20181115_428AC0000000076",
+   "amendment_promulgate_date": "2016-11-16",
+   "amendment_enforcement_date": "2018-11-15",
+   "amendment_law_id": "428AC0000000076",
+   "amendment_law_title": "人工衛星等の打上げ及び人工衛星の管理に関する法律",
+   "amendment_law_num": "平成二十八年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20180401_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20170512_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2017-05-12",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20160401_426AC0000000072",
+   "amendment_promulgate_date": "2014-06-18",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000072",
+   "amendment_law_title": "電気事業法等の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC0100000219_20160401_426AC0000000042",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000042",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　事業の準備",
+  "第二章の二　土地等の取得に関する紛争の処理",
+  "第三章　事業の認定等",
+  "第三章の二　都道府県知事が事業の認定に関する処分を行うに際して意見を聴く審議会等",
+  "第四章　収用又は使用の手続",
+  "第五章　収用委員会",
+  "第六章　損失の補償",
+  "第七章　収用又は使用の効果",
+  "第八章　収用又は使用に関する特別手続",
+  "第九章　手数料及び費用負担",
+  "第九章の二　行政手続法の適用除外",
+  "第十章　審査請求及び訴訟",
+  "第十一章　雑則",
+  "第十二章　罰則"
+ ],
+ "article1": {
+  "caption": "（この法律の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、公共の利益となる事業に必要な土地等の収用又は使用に関し、その要件、手続及び効果並びにこれに伴う損失の補償等について規定し、公共の利益の増進と私有財産との調整を図り、もつて国土の適正且つ合理的な利用に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-06-09",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-02T13:11:24+09:00"
+ }
+}

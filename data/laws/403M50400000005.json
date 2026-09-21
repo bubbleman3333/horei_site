@@ -1,0 +1,95 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "403M50400000005",
+  "law_num": "平成三年国家公安委員会規則第五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 3,
+  "law_num_type": "Rule",
+  "law_num_num": "005",
+  "promulgation_date": "1991-10-25"
+ },
+ "revision_info": {
+  "law_revision_id": "403M50400000005_20260521_508M60400000011",
+  "law_type": "Rule",
+  "law_title": "暴力団員による不当な行為の防止等に関する法律の規定に基づく意見聴取の実施に関する規則",
+  "law_title_kana": "ぼうりょくだんいんによるふとうなこういのぼうしとうにかんするほうりつのきていにもとづくいけんちょうしゅのじっしにかんするきそく",
+  "abbrev": "暴対法意見聴取規則,暴力団対策法意見聴取規則",
+  "category": "警察",
+  "updated": "2026-05-28T11:14:59+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000011",
+  "amendment_law_title": "暴力団員による不当な行為の防止等に関する法律施行規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "403M50400000005_20260521_508M60400000011",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000011",
+   "amendment_law_title": "暴力団員による不当な行為の防止等に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000005_20201228_502M60400000013",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60400000013",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000005_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50400000005_20121030_424M60400000011",
+   "amendment_promulgate_date": "2012-10-17",
+   "amendment_enforcement_date": "2012-10-30",
+   "amendment_law_id": "424M60400000011",
+   "amendment_law_num": "平成二十四年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　主宰者",
+  "第三章　代理人、補佐人、参考人等",
+  "第四章　意見聴取準備のための手続",
+  "第五章　意見聴取",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1991-10-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-28T11:14:59+09:00"
+ }
+}

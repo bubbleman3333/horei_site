@@ -1,0 +1,158 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "429M60000400023",
+  "law_num": "平成二十九年経済産業省令第二十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "023",
+  "promulgation_date": "2017-03-28"
+ },
+ "revision_info": {
+  "law_revision_id": "429M60000400023_20251225_507M60000400006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "ガス事業託送供給収支計算規則",
+  "law_title_kana": "がすじぎょうたくそうきょうきゅうしゅうしけいさんきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2025-12-25T00:32:22+09:00",
+  "amendment_promulgate_date": "2025-01-31",
+  "amendment_enforcement_date": "2025-12-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000400006",
+  "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+  "amendment_law_num": "令和七年経済産業省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "429M60000400023_20251225_507M60000400006",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-12-25",
+   "amendment_law_id": "507M60000400006",
+   "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20250715_507M60000400055",
+   "amendment_promulgate_date": "2025-07-14",
+   "amendment_enforcement_date": "2025-07-15",
+   "amendment_law_id": "507M60000400055",
+   "amendment_law_title": "ガス事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20231221_505M60000400060",
+   "amendment_promulgate_date": "2023-12-20",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "505M60000400060",
+   "amendment_law_title": "ガス事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20230428_505M60000400023",
+   "amendment_promulgate_date": "2023-04-28",
+   "amendment_enforcement_date": "2023-04-28",
+   "amendment_law_id": "505M60000400023",
+   "amendment_law_title": "ガス事業託送供給収支計算規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20230116_505M60000400002",
+   "amendment_promulgate_date": "2023-01-12",
+   "amendment_enforcement_date": "2023-01-16",
+   "amendment_law_id": "505M60000400002",
+   "amendment_law_title": "ガス事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20210510_503M60000400045",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-05-10",
+   "amendment_law_id": "503M60000400045",
+   "amendment_law_title": "ガス事業託送供給約款料金算定規則及びガス事業託送供給収支計算規則の一部を改正する省令",
+   "amendment_law_num": "令和三年経済産業省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20200907_502M60000400072",
+   "amendment_promulgate_date": "2020-09-07",
+   "amendment_enforcement_date": "2020-09-07",
+   "amendment_law_id": "502M60000400072",
+   "amendment_law_title": "電気事業託送供給等収支計算規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20200430_502M60000400044",
+   "amendment_promulgate_date": "2020-04-30",
+   "amendment_enforcement_date": "2020-04-30",
+   "amendment_law_id": "502M60000400044",
+   "amendment_law_title": "広域的運営推進機関の財務及び会計に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20200331_502M60000400027",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-03-31",
+   "amendment_law_id": "502M60000400027",
+   "amendment_law_title": "電気事業託送供給等収支計算規則及びガス事業託送供給収支計算規則の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20190329_431M60000400032",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-03-29",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000400032",
+   "amendment_law_title": "ガス事業託送供給収支計算規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000400023_20170401_000000000000000",
+   "amendment_promulgate_date": "2017-03-28",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、ガス事業法（以下「法」という。）、ガス事業法施行規則（昭和四十五年通商産業省令第九十七号）、ガス事業会計規則（昭和二十九年通商産業省令第十五号。以下「会計規則」という。）及びガス事業託送供給約款料金算定規則（平成二十九年経済産業省令第二十二号。以下「託送料金算定規則」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2017-03-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-25T00:32:22+09:00"
+ }
+}

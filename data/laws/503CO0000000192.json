@@ -1,0 +1,116 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "503CO0000000192",
+  "law_num": "令和三年政令第百九十二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 3,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "192",
+  "promulgation_date": "2021-07-02"
+ },
+ "revision_info": {
+  "law_revision_id": "503CO0000000192_20260901_508CO0000000263",
+  "law_type": "CabinetOrder",
+  "law_title": "デジタル庁組織令",
+  "law_title_kana": "でじたるちょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-09-14T09:52:42+09:00",
+  "amendment_promulgate_date": "2026-08-28",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000263",
+  "amendment_law_title": "デジタル庁組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "503CO0000000192_20260901_508CO0000000263",
+   "amendment_promulgate_date": "2026-08-28",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508CO0000000263",
+   "amendment_law_title": "デジタル庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "503CO0000000192_20250701_507CO0000000224",
+   "amendment_promulgate_date": "2025-06-25",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000224",
+   "amendment_law_title": "デジタル庁組織令及び職員の退職管理に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503CO0000000192_20250401_507CO0000000145",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000145",
+   "amendment_law_title": "デジタル庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503CO0000000192_20240401_506CO0000000080",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000080",
+   "amendment_law_title": "デジタル庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503CO0000000192_20230401_505CO0000000087",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000087",
+   "amendment_law_title": "デジタル庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503CO0000000192_20220401_504CO0000000089",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000089",
+   "amendment_law_title": "デジタル庁組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503CO0000000192_20210901_000000000000000",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（統括官）",
+  "title": "第一条",
+  "paragraphs": [
+   "デジタル庁に、統括官四人を置く。",
+   "統括官は、命を受けて、デジタル庁設置法第四条第一項及び第二項に規定する事務のほか、次に掲げる事務を分掌する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2021-07-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-14T09:52:42+09:00"
+ }
+}

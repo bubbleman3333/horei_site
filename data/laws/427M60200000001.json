@@ -1,0 +1,118 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "427M60200000001",
+  "law_num": "平成二十七年公正取引委員会規則第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 27,
+  "law_num_type": "Rule",
+  "law_num_num": "001",
+  "promulgation_date": "2015-01-21"
+ },
+ "revision_info": {
+  "law_revision_id": "427M60200000001_20260521_508M60200000002",
+  "law_type": "Rule",
+  "law_title": "公正取引委員会の意見聴取に関する規則",
+  "law_title_kana": "こうせいとりひきいいんかいのいけんちょうしゅにかんするきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-06-04T14:24:12+09:00",
+  "amendment_promulgate_date": "2026-05-01",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60200000002",
+  "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年公正取引委員会規則第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "427M60200000001_20260521_508M60200000002",
+   "amendment_promulgate_date": "2026-05-01",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60200000002",
+   "amendment_law_title": "公正取引委員会の審査に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年公正取引委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "427M60200000001_20251218_507M60200000007",
+   "amendment_promulgate_date": "2025-08-20",
+   "amendment_enforcement_date": "2025-12-18",
+   "amendment_law_id": "507M60200000007",
+   "amendment_law_title": "公正取引委員会の意見聴取に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和七年公正取引委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60200000001_20201225_502M60200000007",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60200000007",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律第九条から第十六条までの規定による認可の申請、報告及び届出等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和二年公正取引委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60200000001_20201125_502M60200000006",
+   "amendment_promulgate_date": "2020-11-25",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_id": "502M60200000006",
+   "amendment_law_title": "公正取引委員会の意見聴取に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和二年公正取引委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60200000001_20190701_501M60200000002",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60200000002",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律第九条から第十六条までの規定による認可の申請、報告及び届出等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年公正取引委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60200000001_20190510_501M60200000001",
+   "amendment_promulgate_date": "2019-05-10",
+   "amendment_enforcement_date": "2019-05-10",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60200000001",
+   "amendment_law_title": "私的独占の禁止及び公正取引の確保に関する法律第九条から第十六条までの規定による認可の申請、報告及び届出等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和元年公正取引委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60200000001_20150401_000000000000000",
+   "amendment_promulgate_date": "2015-01-21",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（この規則の趣旨・定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "公正取引委員会（以下「委員会」という。）が行う意見聴取の手続については、私的独占の禁止及び公正取引の確保に関する法律（昭和二十二年法律第五十四号）（水産業協同組合法（昭和二十三年法律第二百四十二号）第九十五条の四、中小企業等協同組合法（昭和二十四年法律第百八十一号）第百八条及びスマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律（令和六年法律第五十八号。以下「スマホソフトウェア競争促進法」という。）第四十二条において準用する場合を含む。以下「法」という。）に定めるもののほか、この規則の定めるところによる。",
+   "この規則において使用する用語であって、法において使用する用語と同一のものは、これと同一の意義において使用するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2015-01-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-04T14:24:12+09:00"
+ }
+}

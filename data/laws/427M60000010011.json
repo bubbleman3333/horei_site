@@ -1,0 +1,154 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "427M60000010011",
+  "law_num": "平成二十七年法務省令第十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 27,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "011",
+  "promulgation_date": "2015-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "427M60000010011_20260807_508M60000010046",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "総合法律支援法施行規則",
+  "law_title_kana": "そうごうほうりつしえんほうしこうきそく",
+  "abbrev": null,
+  "category": "司法",
+  "updated": "2026-08-19T13:24:21+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010046",
+  "amendment_law_title": "総合法律支援法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "427M60000010011_20260807_508M60000010046",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000010046",
+   "amendment_law_title": "総合法律支援法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20260401_508M60000010010",
+   "amendment_promulgate_date": "2026-03-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000010010",
+   "amendment_law_title": "総合法律支援法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20260113_507M60000010044",
+   "amendment_promulgate_date": "2025-09-10",
+   "amendment_enforcement_date": "2026-01-13",
+   "amendment_law_id": "507M60000010044",
+   "amendment_law_title": "総合法律支援法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20231228_505M60000010056",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000010056",
+   "amendment_law_title": "弁護士法人、外国法事務弁護士法人及び弁護士・外国法事務弁護士共同法人の業務及び会計帳簿等に関する規則及び総合法律支援法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20220401_504M60000010027",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000010027",
+   "amendment_law_title": "総合法律支援法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20200401_502M60000010030",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010030",
+   "amendment_law_title": "総合法律支援法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20190401_431M60000010014",
+   "amendment_promulgate_date": "2019-03-27",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010014",
+   "amendment_law_title": "総合法律支援法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20180124_429M60000010033",
+   "amendment_promulgate_date": "2017-10-13",
+   "amendment_enforcement_date": "2018-01-24",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000010033",
+   "amendment_law_title": "総合法律支援法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年法務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20180101_429M60000010035",
+   "amendment_promulgate_date": "2017-12-28",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000010035",
+   "amendment_law_title": "総合法律支援法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年法務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60000010011_20160701_428M60000010037",
+   "amendment_promulgate_date": "2016-06-30",
+   "amendment_enforcement_date": "2016-07-01",
+   "amendment_law_id": "428M60000010037",
+   "amendment_law_num": "平成二十八年法務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（監査報告の作成）",
+  "title": "第一条",
+  "paragraphs": [
+   "総合法律支援法（以下「法」という。）第二十三条第三項に規定する法務省令で定める事項については、この条の定めるところによる。",
+   "監事は、その職務を適切に遂行するため、次に掲げる者との意思疎通を図り、情報の収集及び監査の環境の整備に努めなければならない。この場合において、役員（監事を除く。第一号及び第五項において同じ。）は、監事の職務の執行のための必要な体制の整備に留意しなければならない。",
+   "前項の規定は、監事が公正不偏の態度及び独立の立場を保持することができなくなるおそれのある関係の創設及び維持を認めるものと解してはならない。",
+   "監事は、その職務の遂行に当たり、必要に応じ、支援センターの他の監事、支援センターの子法人の監査役その他これらの者に相当する者との意思疎通及び情報の交換を図るよう努めなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2015-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T13:24:21+09:00"
+ }
+}

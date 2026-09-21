@@ -1,0 +1,200 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "333AC0000000099",
+  "law_num": "昭和三十三年法律第九十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "Act",
+  "law_num_num": "099",
+  "promulgation_date": "1958-04-28"
+ },
+ "revision_info": {
+  "law_revision_id": "333AC0000000099_20260525_506AC0000000052",
+  "law_type": "Act",
+  "law_title": "農林漁業団体職員共済組合法",
+  "law_title_kana": "のうりんぎょぎょうだんたいしょくいんきょうさいくみあいほう",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-09-15T10:01:56+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000052",
+  "amendment_law_title": "事業性融資の推進等に関する法律",
+  "amendment_law_num": "令和六年法律第五十二号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-05-25",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333AC0000000099_20280401_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2028-04-01",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "8",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20260525_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20260401_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20250620_507AC0000000074",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-06-20",
+   "amendment_law_id": "507AC0000000074",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律",
+   "amendment_law_num": "令和七年法律第七十四号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20240614_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-14",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20220401_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20200605_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2020-06-05",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20200401_430AC0000000031",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430AC0000000031",
+   "amendment_law_title": "厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20180525_430AC0000000031",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2018-05-25",
+   "amendment_law_id": "430AC0000000031",
+   "amendment_law_title": "厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20180401_428AC0000000114",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "428AC0000000114",
+   "amendment_law_title": "公的年金制度の持続可能性の向上を図るための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20170801_424AC0000000062",
+   "amendment_promulgate_date": "2012-08-22",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_law_id": "424AC0000000062",
+   "amendment_law_title": "公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "平成二十四年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "333AC0000000099_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　組合員",
+  "第三章　給付",
+  "第四章　福祉事業",
+  "第五章　掛金及び国の補助",
+  "第六章　審査会",
+  "第七章　会計",
+  "第八章　監督",
+  "第九章　雑則",
+  "第十章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "農林漁業団体職員共済組合は、次に掲げる法律又は法律の規定に基づき設立された法人（以下「農林漁業団体」という。）の職員の相互扶助事業を行い、その福利厚生を図り、もつて農林漁業団体の事業の円滑な運営に資することを目的とする。",
+   "昭和二十三年八月二十七日に設立を許可された社団法人全国農業共済協会、昭和三十年十二月一日に設立を許可された社団法人中央畜産会、昭和三十七年八月二十八日に設立を許可された社団法人中央酪農会議及び同年十月八日に設立を許可された財団法人農林年金福祉団は、この法律の規定の適用については、前項に掲げる法律に基づいて設立された法人とみなす。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-04-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-15T10:01:56+09:00"
+ }
+}

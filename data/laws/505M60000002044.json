@@ -1,0 +1,95 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000002044",
+  "law_num": "令和五年内閣府令第四十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "044",
+  "promulgation_date": "2023-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000002044_20260401_508M60000002003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "内閣府の所管するこども家庭庁関係法令に係る国家戦略特別区域法施行規則",
+  "law_title_kana": "ないかくふのしょかんするこどもかていちょうかんけいほうれいにかかるこっかせんりゃくとくべつくいきほうしこうきそく",
+  "abbrev": null,
+  "category": "行政手続",
+  "updated": "2026-04-02T21:50:23+09:00",
+  "amendment_promulgate_date": "2026-02-13",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002003",
+  "amendment_law_title": "児童福祉法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備等に関する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第三号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-04-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000002044_20260401_508M60000002003",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000002003",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備等に関する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第三号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "505M60000002044_20251001_507M60000002084",
+   "amendment_promulgate_date": "2025-09-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000002084",
+   "amendment_law_title": "児童福祉法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002044_20250401_507M60000002007",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002007",
+   "amendment_law_title": "子ども・子育て支援法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002044_20241129_506M60000002106",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-11-29",
+   "amendment_law_id": "506M60000002106",
+   "amendment_law_title": "児童福祉法施行規則及び内閣府の所管するこども家庭庁関係法令に係る国家戦略特別区域法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002044_20230401_000000000000000",
+   "amendment_promulgate_date": "2023-04-01",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "国家戦略特別区域法（以下「法」という。）第十二条の四第一項の場合における特定教育・保育施設及び特定地域型保育事業並びに特定子ども・子育て支援施設等の運営に関する基準（平成二十六年内閣府令第三十九号）の規定の適用については、次の表の上欄に掲げる規定中同表の中欄に掲げる字句は、それぞれ同表の下欄に掲げる字句に読み替えるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:50:23+09:00"
+ }
+}

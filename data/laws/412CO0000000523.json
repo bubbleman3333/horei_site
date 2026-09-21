@@ -1,0 +1,148 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000523",
+  "law_num": "平成十二年政令第五百二十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "523",
+  "promulgation_date": "2000-12-20"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000523_20250401_506CO0000000209",
+  "law_type": "CabinetOrder",
+  "law_title": "公益的法人等への一般職の地方公務員の派遣等に関する法律第二条第一項第三号の法人を定める政令",
+  "law_title_kana": "こうえきてきほうじんとうへのいっぱんしょくのちほうこうむいんのはけんとうにかんするほうりつだいにじょうだいいっこうだいさんごうのほうじんをさだめるせいれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2025-04-02T05:20:11+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506CO0000000209",
+  "amendment_law_title": "私立学校法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和六年政令第二百九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000523_20270401_508CO0000000250",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508CO0000000250",
+   "amendment_law_title": "公益的法人等への一般職の地方公務員の派遣等に関する法律第二条第一項第三号の法人を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20250401_506CO0000000209",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000209",
+   "amendment_law_title": "私立学校法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20230401_504CO0000000319",
+   "amendment_promulgate_date": "2022-10-05",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000319",
+   "amendment_law_title": "公益的法人等への一般職の地方公務員の派遣等に関する法律第二条第一項第三号の法人を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20221114_504CO0000000348",
+   "amendment_promulgate_date": "2022-11-11",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504CO0000000348",
+   "amendment_law_title": "安定的なエネルギー需給構造の確立を図るためのエネルギーの使用の合理化等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整理及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20220617_504CO0000000218",
+   "amendment_promulgate_date": "2022-06-16",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504CO0000000218",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20200327_502CO0000000063",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-03-27",
+   "amendment_law_id": "502CO0000000063",
+   "amendment_law_title": "公益的法人等への一般職の地方公務員の派遣等に関する法律第二条第一項第三号の法人を定める政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20190401_430CO0000000126",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000126",
+   "amendment_law_title": "地方税法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20190330_431CO0000000129",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-03-30",
+   "amendment_law_id": "431CO0000000129",
+   "amendment_law_title": "国立研究開発法人科学技術振興機構法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000523_20170401_428CO0000000396",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000396",
+   "amendment_law_title": "森林法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "公益的法人等への一般職の地方公務員の派遣等に関する法律第二条第一項第三号の政令で定める法人は、次に掲げる法人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-12-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-04-02T05:20:11+09:00"
+ }
+}

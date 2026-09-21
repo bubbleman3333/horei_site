@@ -1,0 +1,229 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "330AC0000000037",
+  "law_num": "昭和三十年法律第三十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 30,
+  "law_num_type": "Act",
+  "law_num_num": "037",
+  "promulgation_date": "1955-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "330AC0000000037_20260401_508AC0000000012",
+  "law_type": "Act",
+  "law_title": "輸入品に対する内国消費税の徴収等に関する法律",
+  "law_title_kana": "ゆにゅうひんにたいするないこくしょうひぜいのちょうしゅうとうにかんするほうりつ",
+  "abbrev": "輸徴法",
+  "category": "国税",
+  "updated": "2026-04-03T16:39:11+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000012",
+  "amendment_law_title": "所得税法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "330AC0000000037_20280401_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-04-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20271001_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-10-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20260401_508AC0000000012",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000012",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20260401_508AC0000000005",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000005",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20250101_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20240401_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20240401_505AC0000000003",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000003",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20240101_505AC0000000003",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505AC0000000003",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20240101_504AC0000000004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20231001_505AC0000000006",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505AC0000000006",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20230401_505AC0000000003",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505AC0000000003",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20220401_504AC0000000004",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20181230_428AC0000000108",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "428AC0000000108",
+   "amendment_law_title": "環太平洋パートナーシップ協定の締結に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20180401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20171008_428AC0000000016",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000016",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC0000000037_20170401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、消費税法（昭和六十三年法律第百八号）、酒税法（昭和二十八年法律第六号）、たばこ税法（昭和五十九年法律第七十二号）、揮発油税法（昭和三十二年法律第五十五号）、地方揮発油税法（昭和三十年法律第百四号）、石油ガス税法（昭和四十年法律第百五十六号）又は石油石炭税法（昭和五十三年法律第二十五号）その他の内国消費税に関する法律（以下「消費税法等」という。）及び国税通則法（昭和三十七年法律第六十六号）の規定において定めるもののほか、輸入する物品に対する内国消費税の確定、納付、徴収及び免除等について定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1955-06-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-03T16:39:11+09:00"
+ }
+}

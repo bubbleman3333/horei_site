@@ -1,0 +1,8 @@
+{% extends "base.html" %}
+{% block title %}{{ title }} | {{ site.name }}{% endblock %}
+{% block description %}{{ title }} - {{ site.name }}{% endblock %}
+{% block content %}
+<nav class="crumbs"><a href="{{ url() }}">ホーム</a> › {{ title }}</nav>
+<h1>{{ title }}</h1>
+<div class="article-body">{{ body|safe }}</div>
+{% endblock %}

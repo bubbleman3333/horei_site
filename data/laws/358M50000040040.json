@@ -1,0 +1,369 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "358M50000040040",
+  "law_num": "昭和五十八年大蔵省令第四十号",
+  "law_num_era": "Showa",
+  "law_num_year": 58,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "040",
+  "promulgation_date": "1983-08-10"
+ },
+ "revision_info": {
+  "law_revision_id": "358M50000040040_20260831_508M60000002074",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "貸金業法施行規則",
+  "law_title_kana": "かしきんぎょうほうしこうきそく",
+  "abbrev": "ノンバンク規制法施行規則",
+  "category": "金融・保険",
+  "updated": "2026-09-14T10:01:02+09:00",
+  "amendment_promulgate_date": "2026-08-31",
+  "amendment_enforcement_date": "2026-08-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002074",
+  "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第七十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "358M50000040040_20260831_508M60000002074",
+   "amendment_promulgate_date": "2026-08-31",
+   "amendment_enforcement_date": "2026-08-31",
+   "amendment_law_id": "508M60000002074",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20260806_508M60000002071",
+   "amendment_promulgate_date": "2026-08-06",
+   "amendment_enforcement_date": "2026-08-06",
+   "amendment_law_id": "508M60000002071",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20251001_507M60000002086",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000002086",
+   "amendment_law_title": "貸金業法施行規則及び金融サービス仲介業者等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20250601_507M60000002049",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000002049",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20240401_506M60000002033",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002033",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20240401_506M60000002019",
+   "amendment_promulgate_date": "2024-03-22",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002019",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20240201_506M60000002007",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000002007",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20240117_506M60000002002",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-01-17",
+   "amendment_law_id": "506M60000002002",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20231227_505M60000002087",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000002087",
+   "amendment_law_title": "内閣府の所管する金融関連法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20220401_504M60000002013",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000002013",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20220324_504M60000002014",
+   "amendment_promulgate_date": "2022-03-24",
+   "amendment_enforcement_date": "2022-03-24",
+   "amendment_law_id": "504M60000002014",
+   "amendment_law_title": "貸金業法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20211101_503M60000002036",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000002036",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20210719_503M60000002050",
+   "amendment_promulgate_date": "2021-07-16",
+   "amendment_enforcement_date": "2021-07-19",
+   "amendment_law_id": "503M60000002050",
+   "amendment_law_title": "貸金業法施行規則及び金融庁等の職員が検査の際に携帯すべき身分証明書等の様式を定める内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20210630_503M60000002044",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_law_id": "503M60000002044",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20201223_502M60000002075",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_law_id": "502M60000002075",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20201001_502M60000002068",
+   "amendment_promulgate_date": "2020-10-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000002068",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20200710_502M60000002051",
+   "amendment_promulgate_date": "2020-07-10",
+   "amendment_enforcement_date": "2020-07-10",
+   "amendment_law_id": "502M60000002051",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20200401_502M60000002014",
+   "amendment_promulgate_date": "2020-03-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60000002014",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20200325_502M60000002014",
+   "amendment_promulgate_date": "2020-03-25",
+   "amendment_enforcement_date": "2020-03-25",
+   "amendment_law_id": "502M60000002014",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20200316_502M60000002012",
+   "amendment_promulgate_date": "2020-03-16",
+   "amendment_enforcement_date": "2020-03-16",
+   "amendment_law_id": "502M60000002012",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20191216_501M60000002047",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000002047",
+   "amendment_law_title": "内閣府の所管する金融関連法令に係る行政手続等における情報通信の技術の利用に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20191214_501M60000002041",
+   "amendment_promulgate_date": "2019-11-21",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60000002041",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20191201_501M60000002043",
+   "amendment_promulgate_date": "2019-11-29",
+   "amendment_enforcement_date": "2019-12-01",
+   "amendment_law_id": "501M60000002043",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20191018_501M60000002035",
+   "amendment_promulgate_date": "2019-10-18",
+   "amendment_enforcement_date": "2019-10-18",
+   "amendment_law_id": "501M60000002035",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20191015_501M60000002034",
+   "amendment_promulgate_date": "2019-10-15",
+   "amendment_enforcement_date": "2019-10-15",
+   "amendment_law_id": "501M60000002034",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20191001_501M60000002026",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501M60000002026",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20190701_501M60000002014",
+   "amendment_promulgate_date": "2019-06-24",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000002014",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20190507_501M60000002002",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000002002",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20180914_430M60000002043",
+   "amendment_promulgate_date": "2018-09-14",
+   "amendment_enforcement_date": "2018-09-14",
+   "amendment_law_id": "430M60000002043",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20180713_430M60000002037",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-13",
+   "amendment_law_id": "430M60000002037",
+   "amendment_law_title": "貸金業法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20170401_429M60000002009",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002009",
+   "amendment_law_num": "平成二十九年内閣府令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358M50000040040_20170401_429M60000002006",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002006",
+   "amendment_law_num": "平成二十九年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（同一の会社等の集団に属する会社等への貸付け及び経営を共同で支配する会社等への貸付け）",
+  "title": "第一条",
+  "paragraphs": [
+   "貸金業法施行令（昭和五十八年政令第百八十一号。以下「令」という。）第一条の二第六号に規定する他の会社等の総株主又は総出資者の共同の利益を損なうおそれがないと認められる貸付けとして内閣府令で定めるものは、同号ロ及びハに掲げる他の会社等（会社、組合その他これらに準ずる事業体（外国におけるこれらに相当するものを含む。）をいう。以下この条において同じ。）の総株主又は総出資者の同意に基づくものとする。",
+   "令第一条の二第六号イに規定する内閣府令で定めるものは、会社等が他の会社等の財務及び事業の方針の決定を支配している場合における当該他の会社等（組合その他これに準ずる事業体（外国におけるこれらに相当するものを含む。）である場合にあつては、その総組合員又は総構成員が法人（外国の法令に準拠して設立された法人を含む。）であるものに限る。）とする。",
+   "前項の「財務及び事業の方針の決定を支配している場合」とは、次に掲げる場合（財務上又は事業上の関係からみて他の会社等の財務又は事業の方針の決定を支配していないことが明らかであると認められる場合を除く。）をいう（以下この条において同じ。）。",
+   "会社等及びその一若しくは二以上の子会社等又は当該会社等の一若しくは二以上の子会社等が財務及び事業の方針の決定を支配している他の会社等は、前二項の適用については、当該会社等の子会社等とみなす。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1983-08-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-14T10:01:02+09:00"
+ }
+}

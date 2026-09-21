@@ -1,0 +1,73 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "331M50000002088",
+  "law_num": "昭和三十一年総理府令第八十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 31,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "088",
+  "promulgation_date": "1956-12-05"
+ },
+ "revision_info": {
+  "law_revision_id": "331M50000002088_20260401_508M60000008054",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "消防団員等公務災害補償等共済基金の会計及び資産の運用その他財務に関する規則",
+  "law_title_kana": "しょうぼうだんいんとうこうむさいがいほしょうとうきょうさいききんのかいけいおよびしさんのうんようそのほかざいむにかんするきそく",
+  "abbrev": null,
+  "category": "消防",
+  "updated": "2026-05-13T11:58:26+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008054",
+  "amendment_law_title": "消防団員等公務災害補償等共済基金の会計及び資産の運用その他財務に関する規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第五十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "331M50000002088_20260401_508M60000008054",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000008054",
+   "amendment_law_title": "消防団員等公務災害補償等共済基金の会計及び資産の運用その他財務に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "331M50000002088_20071001_419M60000008125",
+   "amendment_promulgate_date": "2007-09-28",
+   "amendment_enforcement_date": "2007-10-01",
+   "amendment_law_id": "419M60000008125",
+   "amendment_law_num": "平成十九年総務省令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　通則",
+  "第二章　出納機関",
+  "第三章　事業計画書",
+  "第四章　出納",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（通則）",
+  "title": "第一条",
+  "paragraphs": [
+   "消防団員等公務災害補償等共済基金（以下「基金」という。）の会計及び資産の運用その他財務に関しては、消防団員等公務災害補償等責任共済等に関する法律（昭和三十一年法律第百七号。以下「法」という。）に定めるもののほか、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1956-12-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T11:58:26+09:00"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60000008049",
+  "law_num": "令和六年総務省令第四十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "049",
+  "promulgation_date": "2024-05-24"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60000008049_20260626_508M60000008082",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "住民基本台帳法第三十条の十五の二に規定する準法定事務及び準法定事務処理者に関する省令",
+  "law_title_kana": "じゅうみんきほんだいちょうほうだいさんじゅうじょうのじゅうごのににきていするじゅんほうていじむおよびじゅんほうていじむしょりしゃにかんするしょうれい",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-07-07T15:44:19+09:00",
+  "amendment_promulgate_date": "2026-06-26",
+  "amendment_enforcement_date": "2026-06-26",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008082",
+  "amendment_law_title": "住民基本台帳法第三十条の十五の二に規定する準法定事務及び準法定事務処理者に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第八十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60000008049_20260626_508M60000008082",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2026-06-26",
+   "amendment_law_id": "508M60000008082",
+   "amendment_law_title": "住民基本台帳法第三十条の十五の二に規定する準法定事務及び準法定事務処理者に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60000008049_20260129_508M60000008008",
+   "amendment_promulgate_date": "2026-01-29",
+   "amendment_enforcement_date": "2026-01-29",
+   "amendment_law_id": "508M60000008008",
+   "amendment_law_title": "住民基本台帳法第三十条の十五の二に規定する準法定事務及び準法定事務処理者に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506M60000008049_20250728_507M60000008070",
+   "amendment_promulgate_date": "2025-07-28",
+   "amendment_enforcement_date": "2025-07-28",
+   "amendment_law_id": "507M60000008070",
+   "amendment_law_title": "住民基本台帳法第三十条の十五の二に規定する準法定事務及び準法定事務処理者に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506M60000008049_20240527_000000000000000",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "住民基本台帳法（昭和四十二年法律第八十一号。以下「法」という。）第三十条の十五の二第一項に規定する準法定事務処理者は、次の表の上欄に掲げる者とし、同項に規定する準法定事務のうち総務省令で定めるものは、同表の上欄に掲げる者ごとにそれぞれ同表の下欄に掲げる事務とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-05-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-07T15:44:19+09:00"
+ }
+}

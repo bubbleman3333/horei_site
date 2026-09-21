@@ -1,0 +1,243 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "338AC0000000133",
+  "law_num": "昭和三十八年法律第百三十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 38,
+  "law_num_type": "Act",
+  "law_num_num": "133",
+  "promulgation_date": "1963-07-11"
+ },
+ "revision_info": {
+  "law_revision_id": "338AC0000000133_20260625_508AC0000000051",
+  "law_type": "Act",
+  "law_title": "老人福祉法",
+  "law_title_kana": "ろうじんふくしほう",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-07-02T13:10:02+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000051",
+  "amendment_law_title": "社会福祉法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "338AC0000000133_20290624_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2029-06-24",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2029-06-24",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20280624_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2028-06-24",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-24",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20270401_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20260625_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20240401_505AC0000000031",
+   "amendment_promulgate_date": "2023-05-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000031",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20210401_502AC0000000052",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000052",
+   "amendment_law_title": "地域共生社会の実現のための社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20200612_502AC0000000052",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502AC0000000052",
+   "amendment_law_title": "地域共生社会の実現のための社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20200401_430AC0000000044",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430AC0000000044",
+   "amendment_law_title": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20190601_430AC0000000066",
+   "amendment_promulgate_date": "2018-06-27",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "430AC0000000066",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20180627_430AC0000000066",
+   "amendment_promulgate_date": "2018-06-27",
+   "amendment_enforcement_date": "2018-06-27",
+   "amendment_law_id": "430AC0000000066",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20180608_430AC0000000044",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-06-08",
+   "amendment_law_id": "430AC0000000044",
+   "amendment_law_title": "生活困窮者等の自立を促進するための生活困窮者自立支援法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20180401_429AC0000000052",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000052",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20170602_429AC0000000052",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000052",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338AC0000000133_20160401_426AC0000000083",
+   "amendment_promulgate_date": "2014-06-25",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000083",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保を推進するための関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　福祉の措置",
+  "第三章　事業及び施設",
+  "第三章の二　老人福祉計画",
+  "第四章　費用",
+  "第四章の二　有料老人ホーム",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、老人の福祉に関する原理を明らかにするとともに、老人に対し、その心身の健康の保持及び生活の安定のために必要な措置を講じ、もつて老人の福祉を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1963-07-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-02T13:10:02+09:00"
+ }
+}

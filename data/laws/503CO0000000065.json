@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "503CO0000000065",
+  "law_num": "令和三年政令第六十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 3,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "065",
+  "promulgation_date": "2021-03-24"
+ },
+ "revision_info": {
+  "law_revision_id": "503CO0000000065_20260709_508CO0000000223",
+  "law_type": "CabinetOrder",
+  "law_title": "炭酸二カリウムに対して課する不当廉売関税に関する政令",
+  "law_title_kana": "たんさんにかりうむにたいしてかするふとうれんばいかんぜいにかんするせいれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-07-16T11:54:59+09:00",
+  "amendment_promulgate_date": "2026-07-08",
+  "amendment_enforcement_date": "2026-07-09",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000223",
+  "amendment_law_title": "炭酸二カリウムに対して課する不当廉売関税に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "503CO0000000065_20260709_508CO0000000223",
+   "amendment_promulgate_date": "2026-07-08",
+   "amendment_enforcement_date": "2026-07-09",
+   "amendment_law_id": "508CO0000000223",
+   "amendment_law_title": "炭酸二カリウムに対して課する不当廉売関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "503CO0000000065_20210624_503CO0000000177",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-06-24",
+   "amendment_law_id": "503CO0000000177",
+   "amendment_law_title": "炭酸二カリウムに対して課する暫定的な不当廉売関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503CO0000000065_20210325_000000000000000",
+   "amendment_promulgate_date": "2021-03-24",
+   "amendment_enforcement_date": "2021-03-25",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（課税物件）",
+  "title": "第一条",
+  "paragraphs": [
+   "第一号に掲げる貨物であって、第二号に掲げる国を原産地とするもののうち、第三号に掲げる期間内に輸入されるもの（以下「特定貨物」という。）には、関税定率法（以下「法」という。）第八条第一項の規定により、不当廉売関税を課する。",
+   "前項第一号に掲げる貨物であって、同項第二号に掲げる国を原産地とするもののうち、令和三年三月二十五日から同年六月二十三日までの期間内に輸入されるもの（以下「暫定不当廉売関税賦課貨物」という。）には、法第八条第二項第一号の規定により、不当廉売関税を課する。",
+   "この政令における原産地については、関税法施行令（昭和二十九年政令第百五十号）第四条の二第四項に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2021-03-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-16T11:54:59+09:00"
+ }
+}

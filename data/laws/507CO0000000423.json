@@ -1,0 +1,58 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000423",
+  "law_num": "令和七年政令第四百二十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "423",
+  "promulgation_date": "2025-12-17"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000423_20260614_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "出入国管理及び難民認定法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+  "law_title_kana": "しゅつにゅうこくかんりおよびなんみんにんていほうとうのいちぶをかいせいするほうりつのしこうにともなうかんけいせいれいのせいびとうおよびけいかそちにかんするせいれい",
+  "abbrev": null,
+  "category": "外事",
+  "updated": "2026-06-14T00:52:43+09:00",
+  "amendment_promulgate_date": "2025-12-17",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000423_20260614_000000000000000",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　関係政令の整備等",
+  "第二章　経過措置"
+ ],
+ "article1": {
+  "caption": "（出入国管理及び難民認定法の一部改正に伴う経過措置）",
+  "title": "第五条",
+  "paragraphs": [
+   "次に掲げる場合には、出入国管理及び難民認定法等の一部を改正する法律（以下「改正法」という。）第一条の規定による改正後の出入国管理及び難民認定法（昭和二十六年政令第三百十九号。以下「新入管法」という。）第十九条の十五の二第十二項の規定にかかわらず、手数料を納付することを要しない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-12-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-14T00:52:43+09:00"
+ }
+}

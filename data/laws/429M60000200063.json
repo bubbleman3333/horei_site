@@ -1,0 +1,373 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "429M60000200063",
+  "law_num": "平成二十九年農林水産省令第六十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "063",
+  "promulgation_date": "2017-11-02"
+ },
+ "revision_info": {
+  "law_revision_id": "429M60000200063_20260701_508M60000200044",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農業保険法施行規則",
+  "law_title_kana": "のうぎょうほけんほうしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-07-01T01:02:49+09:00",
+  "amendment_promulgate_date": "2026-06-02",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200044",
+  "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "429M60000200063_20260701_508M60000200044",
+   "amendment_promulgate_date": "2026-06-02",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60000200044",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20260602_508M60000200044",
+   "amendment_promulgate_date": "2026-06-02",
+   "amendment_enforcement_date": "2026-06-02",
+   "amendment_law_id": "508M60000200044",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20250728_507M60000200032",
+   "amendment_promulgate_date": "2025-07-24",
+   "amendment_enforcement_date": "2025-07-28",
+   "amendment_law_id": "507M60000200032",
+   "amendment_law_title": "ランピースキン病を家畜伝染病予防法第六十二条第一項の疾病の種類として指定する等の政令の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20250101_506M60000200066",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000200066",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20240624_506M60000200038",
+   "amendment_promulgate_date": "2024-06-24",
+   "amendment_enforcement_date": "2024-06-24",
+   "amendment_law_id": "506M60000200038",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20231228_505M60000200063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000200063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20231218_505M60000200060",
+   "amendment_promulgate_date": "2023-12-18",
+   "amendment_enforcement_date": "2023-12-18",
+   "amendment_law_id": "505M60000200060",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20230602_505M60000200035",
+   "amendment_promulgate_date": "2023-06-02",
+   "amendment_enforcement_date": "2023-06-02",
+   "amendment_law_id": "505M60000200035",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20230525_505M60000200033",
+   "amendment_promulgate_date": "2023-05-25",
+   "amendment_enforcement_date": "2023-05-25",
+   "amendment_law_id": "505M60000200033",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20230401_505M60000200020",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000200020",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20230101_504M60000200072",
+   "amendment_promulgate_date": "2022-12-08",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000200072",
+   "amendment_law_title": "書面の交付を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20221212_504M60000200074",
+   "amendment_promulgate_date": "2022-12-12",
+   "amendment_enforcement_date": "2022-12-12",
+   "amendment_law_id": "504M60000200074",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20220401_504M60000200014",
+   "amendment_promulgate_date": "2022-03-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000200014",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20211122_503M60000200067",
+   "amendment_promulgate_date": "2021-11-22",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503M60000200067",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20210801_503M60000200043",
+   "amendment_promulgate_date": "2021-07-20",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000200043",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20210323_503M60000200012",
+   "amendment_promulgate_date": "2021-03-23",
+   "amendment_enforcement_date": "2021-03-23",
+   "amendment_law_id": "503M60000200012",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20200902_502M60000200033",
+   "amendment_promulgate_date": "2020-04-09",
+   "amendment_enforcement_date": "2020-09-02",
+   "amendment_law_id": "502M60000200033",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20200901_502M60000200058",
+   "amendment_promulgate_date": "2020-09-01",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502M60000200058",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20200701_502M60000200044",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502M60000200044",
+   "amendment_law_title": "家畜伝染病予防法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20200409_502M60000200033",
+   "amendment_promulgate_date": "2020-04-09",
+   "amendment_enforcement_date": "2020-04-09",
+   "amendment_law_id": "502M60000200033",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20191128_501M60000200043",
+   "amendment_promulgate_date": "2019-11-28",
+   "amendment_enforcement_date": "2019-11-28",
+   "amendment_law_id": "501M60000200043",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20190930_501M60000200034",
+   "amendment_promulgate_date": "2019-09-30",
+   "amendment_enforcement_date": "2019-09-30",
+   "amendment_law_id": "501M60000200034",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20190901_431M60000200012",
+   "amendment_promulgate_date": "2019-03-05",
+   "amendment_enforcement_date": "2019-09-01",
+   "amendment_law_id": "431M60000200012",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20190701_431M60000200012",
+   "amendment_promulgate_date": "2019-03-05",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "431M60000200012",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20190601_501M60000200007",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "501M60000200007",
+   "amendment_law_title": "農業保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年農林水産省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20190601_431M60000200012",
+   "amendment_promulgate_date": "2019-03-05",
+   "amendment_enforcement_date": "2019-06-01",
+   "amendment_law_id": "431M60000200012",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20190401_431M60000200012",
+   "amendment_promulgate_date": "2019-03-05",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000200012",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20181230_429M60000200005",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "429M60000200005",
+   "amendment_law_num": "平成二十九年農林水産省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20180831_430M60000200056",
+   "amendment_promulgate_date": "2018-08-31",
+   "amendment_enforcement_date": "2018-08-31",
+   "amendment_law_id": "430M60000200056",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年農林水産省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20180401_429M60000200061",
+   "amendment_promulgate_date": "2017-10-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429M60000200061",
+   "amendment_law_title": "畜産経営の安定に関する法律及び独立行政法人農畜産業振興機構法の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年農林水産省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20180401_000000000000000",
+   "amendment_promulgate_date": "2017-11-02",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429M60000200063_20180330_430M60000200018",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-03-30",
+   "amendment_law_id": "430M60000200018",
+   "amendment_law_title": "農業保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年農林水産省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　農業共済団体の組織",
+  "第三章　農業共済事業等",
+  "第四章　農業経営収入保険事業",
+  "第五章　政府の再保険事業等"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、次項で定めるものを除き、農業保険法（以下「法」という。）及び農業保険法施行令（以下「令」という。）において使用する用語の例による。",
+   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2017-11-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T01:02:49+09:00"
+ }
+}

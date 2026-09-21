@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "418CO0000000037",
+  "law_num": "平成十八年政令第三十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "037",
+  "promulgation_date": "2006-03-10"
+ },
+ "revision_info": {
+  "law_revision_id": "418CO0000000037_20260401_508CO0000000065",
+  "law_type": "CabinetOrder",
+  "law_title": "石綿による健康被害の救済に関する法律施行令",
+  "law_title_kana": "いしわたによるけんこうひがいのきゅうさいにかんするほうりつしこうれい",
+  "abbrev": "アスベスト救済法施行令,石綿健康被害救済法施行令,石綿被害者救済法施行令,石綿救済法施行令",
+  "category": "厚生",
+  "updated": "2026-04-14T09:47:43+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000065",
+  "amendment_law_title": "石綿による健康被害の救済に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第六十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418CO0000000037_20260401_508CO0000000065",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000065",
+   "amendment_law_title": "石綿による健康被害の救済に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000037_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000037_20200401_429CO0000000196",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429CO0000000196",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う労働保険の保険料の徴収等に関する法律施行令の規定の整理及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000037_20180401_427CO0000000379",
+   "amendment_promulgate_date": "2015-11-11",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "427CO0000000379",
+   "amendment_law_title": "大気汚染防止法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000037_20150601_427CO0000000093",
+   "amendment_promulgate_date": "2015-03-25",
+   "amendment_enforcement_date": "2015-06-01",
+   "amendment_law_id": "427CO0000000093",
+   "amendment_law_num": "平成二十七年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定疾病）",
+  "title": "第一条",
+  "paragraphs": [
+   "石綿による健康被害の救済に関する法律（以下「法」という。）第二条第一項の政令で定める疾病は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-03-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:47:43+09:00"
+ }
+}

@@ -1,0 +1,164 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "416CO0000000002",
+  "law_num": "平成十六年政令第二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "002",
+  "promulgation_date": "2004-01-07"
+ },
+ "revision_info": {
+  "law_revision_id": "416CO0000000002_20260401_507CO0000000258",
+  "law_type": "CabinetOrder",
+  "law_title": "独立行政法人日本学生支援機構法施行令",
+  "law_title_kana": "どくりつぎょうせいほうじんにほんがくせいしえんきこうほうしこうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-02T19:01:55+09:00",
+  "amendment_promulgate_date": "2025-07-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000258",
+  "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第二百五十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416CO0000000002_20261001_508CO0000000249",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000249",
+   "amendment_law_title": "独立行政法人日本学生支援機構法施行令及び大学等における修学の支援に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20260401_507CO0000000258",
+   "amendment_promulgate_date": "2025-07-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000258",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20250401_507CO0000000142",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000142",
+   "amendment_law_title": "大学等における修学の支援に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20240401_506CO0000000096",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000096",
+   "amendment_law_title": "独立行政法人日本学生支援機構法施行令及び大学等における修学の支援に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20221001_504CO0000000284",
+   "amendment_promulgate_date": "2022-08-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000284",
+   "amendment_law_title": "独立行政法人日本学生支援機構法施行令及び大学等における修学の支援に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20210101_502CO0000000375",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000375",
+   "amendment_law_title": "押印を求める手続の見直しのための文部科学省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20200401_501CO0000000050",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000050",
+   "amendment_law_title": "大学等における修学の支援に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20180401_430CO0000000090",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000090",
+   "amendment_law_title": "独立行政法人日本学生支援機構法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20180401_429CO0000000125",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000125",
+   "amendment_law_title": "独立行政法人日本学生支援機構法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20170401_429CO0000000125",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000125",
+   "amendment_law_title": "独立行政法人日本学生支援機構法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000002_20170401_428CO0000000390",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000390",
+   "amendment_law_title": "独立行政法人日本学生支援機構法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（第一種学資貸与金の額）",
+  "title": "第一条",
+  "paragraphs": [
+   "独立行政法人日本学生支援機構法（以下「法」という。）第十四条第一項の第一種学資貸与金（以下単に「第一種学資貸与金」という。）の月額は、次の表の上欄に掲げる学校に在学する者について、同欄に掲げる学校等及び通学形態の区分に応じ、それぞれ同表の下欄に定める額のうち貸与を受ける学生が選択する額とする。",
+   "前項の授業料月額相当額は、第一種学資貸与金の貸与を受ける学生が支払うべき授業料の年額（当該学生が在学する次の各号に掲げる大学院の課程の区分に応じ、当該各号に定める額を超える場合には、当該額）を十二で除した額（その額に一円未満の端数が生じた場合には、これを一円に切り上げた額）（当該学生の第一種学資貸与金（授業料月額相当額に係る部分に限る。）の返還債務を主たる債務とする保証（業として行うものに限る。）がされた場合にあっては、当該額に当該保証の保証料に相当する額として機構が定める額を加えた額）とする。",
+   "大学、高等専門学校（第四学年及び第五学年に限る。）又は第一項の表備考第五号に規定する専修学校（以下「貸与対象専修学校」という。）に在学する者のうち、その者の生計維持者の所得が文部科学大臣の認可を受けて独立行政法人日本学生支援機構（以下「機構」という。）の定める額以上であるものに対する第一種学資貸与金の月額については、同表大学の項下欄、高等専門学校の項下欄又は専修学校の項下欄の規定にかかわらず、同表の上欄に掲げる学校等及び通学形態の区分に応じ、それぞれ同表の下欄に定める額（そのうち最も高い額を除く。）のうち貸与を受ける学生が選択する額とする。",
+   "大学又は貸与対象専修学校において通信による教育を受ける者のうち、教員に面接して授業を受ける期間が夏季等の特別の時期に集中する者その他文部科学省令で定める者（次条において「特定通信教育受講者」という。）に対する第一種学資貸与金の額については、第一項の表大学の項下欄若しくは専修学校の項下欄又は前項の規定にかかわらず、その年当たりの合計額が八八、〇〇〇円を超えない額の範囲内で学校等の種別及び通学形態の別を考慮して機構の定める額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-01-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T19:01:55+09:00"
+ }
+}

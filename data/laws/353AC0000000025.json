@@ -1,0 +1,165 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "353AC0000000025",
+  "law_num": "昭和五十三年法律第二十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 53,
+  "law_num_type": "Act",
+  "law_num_num": "025",
+  "promulgation_date": "1978-04-18"
+ },
+ "revision_info": {
+  "law_revision_id": "353AC0000000025_20260525_506AC0000000052",
+  "law_type": "Act",
+  "law_title": "石油石炭税法",
+  "law_title_kana": "せきゆせきたんぜいほう",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-05-25T00:46:30+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000052",
+  "amendment_law_title": "事業性融資の推進等に関する法律",
+  "amendment_law_num": "令和六年法律第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "353AC0000000025_20260525_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20241001_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20240614_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-14",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20240401_506AC0000000008",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20200401_502AC0000000008",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502AC0000000008",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20180401_430AC0000000007",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430AC0000000007",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20180401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20171008_428AC0000000016",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428AC0000000016",
+   "amendment_law_title": "関税定率法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353AC0000000025_20170401_429AC0000000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429AC0000000004",
+   "amendment_law_title": "所得税法等の一部を改正する等の法律",
+   "amendment_law_num": "平成二十九年法律第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　課税標準及び税率",
+  "第三章　免税及び税額控除等",
+  "第四章　申告及び納付等",
+  "第五章　雑則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、石油石炭税の課税物件、納税義務者、課税標準、税率、免税、申告及び納付の手続その他石油石炭税の納税義務の履行について必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1978-04-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T00:46:30+09:00"
+ }
+}

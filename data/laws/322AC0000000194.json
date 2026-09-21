@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "322AC0000000194",
+  "law_num": "昭和二十二年法律第百九十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "Act",
+  "law_num_num": "194",
+  "promulgation_date": "1947-12-17"
+ },
+ "revision_info": {
+  "law_revision_id": "322AC0000000194_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "国の利害に関係のある訴訟についての法務大臣の権限等に関する法律",
+  "law_title_kana": "くにのりがいにかんけいのあるそしょうについてのほうむだいじんのけんげんとうにかんするほうりつ",
+  "abbrev": "法務大臣権限法",
+  "category": "行政組織",
+  "updated": "2026-07-23T13:38:45+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322AC0000000194_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000194_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000194_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000194_20210519_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000194_20050401_416AC0000000084",
+   "amendment_promulgate_date": "2004-06-09",
+   "amendment_enforcement_date": "2005-04-01",
+   "amendment_law_id": "416AC0000000084",
+   "amendment_law_num": "平成十六年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "国を当事者又は参加人とする訴訟については、法務大臣が、国を代表する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-12-17",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-23T13:38:45+09:00"
+ }
+}

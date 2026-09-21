@@ -1,0 +1,121 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "431AC0000000018",
+  "law_num": "平成三十一年法律第十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 31,
+  "law_num_type": "Act",
+  "law_num_num": "018",
+  "promulgation_date": "2019-04-26"
+ },
+ "revision_info": {
+  "law_revision_id": "431AC0000000018_20260401_506AC0000000047",
+  "law_type": "Act",
+  "law_title": "令和七年に開催される国際博覧会の準備及び運営のために必要な特別措置に関する法律",
+  "law_title_kana": "れいわななねんにかいさいされるこくさいはくらんかいのじゅんびおよびうんえいのためにひつようなとくべつそちにかんするほうりつ",
+  "abbrev": "平成三十七年国際博覧会特措法",
+  "category": "文化",
+  "updated": "2026-04-02T21:29:21+09:00",
+  "amendment_promulgate_date": "2024-06-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000047",
+  "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第四十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "431AC0000000018_20260401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "431AC0000000018_20250401_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431AC0000000018_20241001_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431AC0000000018_20240612_506AC0000000047",
+   "amendment_promulgate_date": "2024-06-12",
+   "amendment_enforcement_date": "2024-06-12",
+   "amendment_law_id": "506AC0000000047",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431AC0000000018_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431AC0000000018_20200916_000000000000000",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2020-09-16",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "431AC0000000018_20190523_000000000000000",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-05-23",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　国際博覧会推進本部",
+  "第三章　基本方針",
+  "第四章　博覧会協会",
+  "第五章　博覧会の円滑な準備及び運営のための支援措置等",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、令和七年に開催される国際博覧会（以下「博覧会」という。）が国家的に特に重要な意義を有することに鑑み、博覧会の円滑な準備及び運営に資するため、国際博覧会推進本部の設置及び基本方針の策定並びに博覧会協会の指定等について定めるとともに、国の補助、寄附金付郵便葉書等の発行の特例等の特別の措置を講ずるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-04-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:29:21+09:00"
+ }
+}

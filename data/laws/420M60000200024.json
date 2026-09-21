@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60000200024",
+  "law_num": "平成二十年農林水産省令第二十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "024",
+  "promulgation_date": "2008-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60000200024_20260401_508M60000200018",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "森林法施行令別表第三林道の開設に要する費用の項第六号等に規定する林道網の枢要部分となるべき林道の開設又は拡張の事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令",
+  "law_title_kana": "しんりんほうしこうれいべっぴょうだいさんりんどうのかいせつにようするひようのこうだいろくごうとうにきていするりんどうもうのすうようぶぶんとなるべきりんどうのかいせつまたはかくちょうのじぎょうにかかるかんきょうえいきょうひょうかのこうもくならびにとうがいこうもくにかかるちょうさよそくおよびひょうかをごうりてきにおこなうためのしゅほうをせんていするためのししんかんきょうのほぜんのためのそちにかんするししんとうをさだめるしょうれい",
+  "abbrev": null,
+  "category": "林業",
+  "updated": "2026-04-09T10:46:55+09:00",
+  "amendment_promulgate_date": "2026-03-24",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200018",
+  "amendment_law_title": "森林法施行令別表第三林道の開設に要する費用の項第六号等に規定する林道網の枢要部分となるべき林道の開設又は拡張の事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60000200024_20260401_508M60000200018",
+   "amendment_promulgate_date": "2026-03-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000200018",
+   "amendment_law_title": "森林法施行令別表第三林道の開設に要する費用の項第六号等に規定する林道網の枢要部分となるべき林道の開設又は拡張の事業に係る環境影響評価の項目並びに当該項目に係る調査、予測及び評価を合理的に行うための手法を選定するための指針、環境の保全のための措置に関する指針等を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60000200024_20201201_502M60000200049",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502M60000200049",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和二年農林水産省令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000200024_20150601_427M60000200059",
+   "amendment_promulgate_date": "2015-06-01",
+   "amendment_enforcement_date": "2015-06-01",
+   "amendment_law_id": "427M60000200059",
+   "amendment_law_num": "平成二十七年農林水産省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第三条の二第一項の主務省令で定める事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "環境影響評価法施行令（平成九年政令第三百四十六号。以下「令」という。）別表第一の一の項のトの第二欄に掲げる要件に該当する第一種事業（以下「第一種林道事業」という。）に係る環境影響評価法（以下「法」という。）第三条の二第一項の主務省令で定める事項は、第一種林道事業に係る規模（事業の対象となる林道の幅員及び延長をいう。以下同じ。）、区域又は構造物等の構造若しくは配置に関する事項であって、次に掲げるものを含むものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-09T10:46:55+09:00"
+ }
+}

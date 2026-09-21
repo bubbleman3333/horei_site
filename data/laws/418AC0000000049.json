@@ -1,0 +1,134 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "418AC0000000049",
+  "law_num": "平成十八年法律第四十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "Act",
+  "law_num_num": "049",
+  "promulgation_date": "2006-06-02"
+ },
+ "revision_info": {
+  "law_revision_id": "418AC0000000049_20260401_506AC0000000030",
+  "law_type": "Act",
+  "law_title": "公益社団法人及び公益財団法人の認定等に関する法律",
+  "law_title_kana": "こうえきしゃだんほうじんおよびこうえきざいだんほうじんのにんていとうにかんするほうりつ",
+  "abbrev": "公益法人法,公益法人認定法",
+  "category": "民事",
+  "updated": "2026-04-02T19:26:33+09:00",
+  "amendment_promulgate_date": "2024-05-22",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000030",
+  "amendment_law_title": "公益信託に関する法律",
+  "amendment_law_num": "令和六年法律第三十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418AC0000000049_20260401_506AC0000000030",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000030",
+   "amendment_law_title": "公益信託に関する法律",
+   "amendment_law_num": "令和六年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000049_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000049_20250401_506AC0000000029",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000029",
+   "amendment_law_title": "公益社団法人及び公益財団法人の認定等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000049_20240522_506AC0000000029",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2024-05-22",
+   "amendment_law_id": "506AC0000000029",
+   "amendment_law_title": "公益社団法人及び公益財団法人の認定等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000049_20220901_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000049_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000049_20191211_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000049_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　公益法人の認定等",
+  "第三章　公益認定等委員会及び都道府県に置かれる合議制の機関",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、内外の社会経済情勢の変化に伴い、民間の団体が自発的に行う公益を目的とする事業の実施が公益の増進のために重要となっていることにかんがみ、当該事業を適正に実施し得る公益法人を認定する制度を設けるとともに、公益法人による当該事業の適正な実施を確保するための措置等を定め、もって公益の増進及び活力ある社会の実現に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-06-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T19:26:33+09:00"
+ }
+}

@@ -1,0 +1,304 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "329CO0000000051",
+  "law_num": "昭和二十九年政令第五十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "051",
+  "promulgation_date": "1954-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "329CO0000000051_20260401_507CO0000000137",
+  "law_type": "CabinetOrder",
+  "law_title": "国税収納金整理資金に関する法律施行令",
+  "law_title_kana": "こくぜいしゅうのうきんせいりしきんにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-04-21T10:22:19+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000137",
+  "amendment_law_title": "国税収納金整理資金に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第百三十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329CO0000000051_20340401_431CO0000000100",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2034-04-01",
+   "amendment_law_id": "431CO0000000100",
+   "amendment_law_title": "地方揮発油税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20270401_507CO0000000137",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000137",
+   "amendment_law_title": "国税収納金整理資金に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20270101_508CO0000000109",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508CO0000000109",
+   "amendment_law_title": "国税収納金整理資金に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20260401_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20260401_507CO0000000137",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000137",
+   "amendment_law_title": "国税収納金整理資金に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20251231_507CO0000000401",
+   "amendment_promulgate_date": "2025-12-05",
+   "amendment_enforcement_date": "2025-12-31",
+   "amendment_law_id": "507CO0000000401",
+   "amendment_law_title": "租税特別措置法施行令及び国税収納金整理資金に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20250401_507CO0000000137",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000137",
+   "amendment_law_title": "国税収納金整理資金に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20220401_502CO0000000207",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000207",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20220101_503CO0000000119",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000119",
+   "amendment_law_title": "租税特別措置法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20220101_503CO0000000113",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000113",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20211001_503CO0000000119",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503CO0000000119",
+   "amendment_law_title": "租税特別措置法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20210628_503CO0000000172",
+   "amendment_promulgate_date": "2021-06-18",
+   "amendment_enforcement_date": "2021-06-28",
+   "amendment_law_id": "503CO0000000172",
+   "amendment_law_title": "道路交通法施行令及び予算決算及び会計令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20210401_503CO0000000125",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000125",
+   "amendment_law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20201001_502CO0000000121",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502CO0000000121",
+   "amendment_law_title": "租税特別措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20200401_502CO0000000116",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000116",
+   "amendment_law_title": "たばこ税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20191001_431CO0000000102",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "431CO0000000102",
+   "amendment_law_title": "租税特別措置法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20190621_501CO0000000032",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-06-21",
+   "amendment_law_id": "501CO0000000032",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20190401_431CO0000000104",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000104",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20190401_431CO0000000102",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000102",
+   "amendment_law_title": "租税特別措置法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20190401_431CO0000000087",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000087",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20190329_431CO0000000100",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-03-29",
+   "amendment_law_id": "431CO0000000100",
+   "amendment_law_title": "地方揮発油税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20181001_430CO0000000137",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430CO0000000137",
+   "amendment_law_title": "たばこ税法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20170401_429CO0000000114",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000114",
+   "amendment_law_title": "租税特別措置法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20170401_429CO0000000110",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000110",
+   "amendment_law_title": "酒税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000051_20170401_429CO0000000106",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000106",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　徴収及び収納",
+  "第三章　支払",
+  "第四章　歳入への組入等",
+  "第五章　帳簿及び報告等"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「国税収納金等」、「特定地方税」、「返納金」、「過誤納金の還付金等」、「償還金」、「資金」、「特別会計」、「国税等」、「国税収納命令官」、「支払命令」又は「国税資金支払命令官」とは、国税収納金整理資金に関する法律（以下「法」という。）第二条、第三条、第六条第二項、第八条第一項若しくは第二項、第十条第一項又は第十一条第一項に規定する国税収納金等、特定地方税、返納金、過誤納金の還付金等、償還金、資金、特別会計、国税等、国税収納命令官、支払命令又は国税資金支払命令官をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-03-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-21T10:22:19+09:00"
+ }
+}

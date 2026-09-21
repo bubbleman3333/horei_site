@@ -1,0 +1,454 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "352CO0000000220",
+  "law_num": "昭和五十二年政令第二百二十号",
+  "law_num_era": "Showa",
+  "law_num_year": 52,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "220",
+  "promulgation_date": "1977-06-24"
+ },
+ "revision_info": {
+  "law_revision_id": "352CO0000000220_20260808_508CO0000000254",
+  "law_type": "CabinetOrder",
+  "law_title": "電子情報処理組織による輸出入等関連業務の処理等に関する法律施行令",
+  "law_title_kana": "でんしじょうほうしょりそしきによるゆしゅつにゅうとうかんれんぎょうむのしょりとうにかんするほうりつしこうれい",
+  "abbrev": "ＮＡＣＣＳ特例法施行令",
+  "category": "国税",
+  "updated": "2026-08-24T09:40:58+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000254",
+  "amendment_law_title": "溶融亜鉛めっき鋼帯及び鋼板に対して課する暫定的な不当廉売関税に関する政令",
+  "amendment_law_num": "令和八年政令第二百五十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "352CO0000000220_20270101_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20261101_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20260808_508CO0000000254",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-08",
+   "amendment_law_id": "508CO0000000254",
+   "amendment_law_title": "溶融亜鉛めっき鋼帯及び鋼板に対して課する暫定的な不当廉売関税に関する政令",
+   "amendment_law_num": "令和八年政令第二百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20260709_508CO0000000224",
+   "amendment_promulgate_date": "2026-07-08",
+   "amendment_enforcement_date": "2026-07-09",
+   "amendment_law_id": "508CO0000000224",
+   "amendment_law_title": "ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対して課する暫定的な不当廉売関税に関する政令",
+   "amendment_law_num": "令和八年政令第二百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20260601_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20260401_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20251012_507CO0000000141",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-10-12",
+   "amendment_law_id": "507CO0000000141",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20251009_507CO0000000175",
+   "amendment_promulgate_date": "2025-04-09",
+   "amendment_enforcement_date": "2025-10-09",
+   "amendment_law_id": "507CO0000000175",
+   "amendment_law_title": "外国為替令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20250703_507CO0000000240",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2025-07-03",
+   "amendment_law_id": "507CO0000000240",
+   "amendment_law_title": "黒鉛電極に対して課する暫定的な不当廉売関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20250329_507CO0000000095",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-03-29",
+   "amendment_law_id": "507CO0000000095",
+   "amendment_law_title": "黒鉛電極に対して課する暫定的な不当廉売関税に関する政令",
+   "amendment_law_num": "令和七年政令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20241001_506CO0000000158",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20240401_506CO0000000158",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20240401_506CO0000000116",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000116",
+   "amendment_law_title": "予防接種法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20231001_505CO0000000158",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20230508_505CO0000000175",
+   "amendment_promulgate_date": "2023-04-26",
+   "amendment_enforcement_date": "2023-05-08",
+   "amendment_law_id": "505CO0000000175",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20230401_505CO0000000158",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20230401_504CO0000000293",
+   "amendment_promulgate_date": "2022-09-02",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000293",
+   "amendment_law_title": "植物防疫法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20221219_504CO0000000377",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-19",
+   "amendment_law_id": "504CO0000000377",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第三百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20221216_504CO0000000381",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2022-12-16",
+   "amendment_law_id": "504CO0000000381",
+   "amendment_law_title": "港湾法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20221208_504CO0000000372",
+   "amendment_promulgate_date": "2022-12-07",
+   "amendment_enforcement_date": "2022-12-08",
+   "amendment_law_id": "504CO0000000372",
+   "amendment_law_title": "溶融亜鉛めっき鉄線に対して課する不当廉売関税に関する政令",
+   "amendment_law_num": "令和四年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20221001_504CO0000000135",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000135",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20220401_504CO0000000135",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000135",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20220101_503CO0000000131",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000131",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20210701_503CO0000000179",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503CO0000000179",
+   "amendment_law_title": "海上交通安全法等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和三年政令第百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20210624_503CO0000000177",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-06-24",
+   "amendment_law_id": "503CO0000000177",
+   "amendment_law_title": "炭酸二カリウムに対して課する暫定的な不当廉売関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20210401_503CO0000000131",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000131",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20210117_502CO0000000128",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-01-17",
+   "amendment_law_id": "502CO0000000128",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20210101_502CO0000000348",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000348",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20201001_502CO0000000128",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502CO0000000128",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20201001_501CO0000000208",
+   "amendment_promulgate_date": "2019-12-25",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "501CO0000000208",
+   "amendment_law_title": "船舶油濁損害賠償保障法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20200401_502CO0000000128",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000128",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20191216_501CO0000000183",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501CO0000000183",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20190317_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2019-03-17",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20190107_430CO0000000161",
+   "amendment_promulgate_date": "2018-04-18",
+   "amendment_enforcement_date": "2019-01-07",
+   "amendment_law_id": "430CO0000000161",
+   "amendment_law_title": "国際観光旅客税法施行令",
+   "amendment_law_num": "平成三十年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20181230_429CO0000000006",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "429CO0000000006",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20180131_429CO0000000266",
+   "amendment_promulgate_date": "2017-10-25",
+   "amendment_enforcement_date": "2018-01-31",
+   "amendment_law_id": "429CO0000000266",
+   "amendment_law_title": "海上交通安全法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20171008_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20171008_428CO0000000240",
+   "amendment_promulgate_date": "2016-06-17",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000240",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20170601_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20170401_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（輸出入等関連業務の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "電子情報処理組織による輸出入等関連業務の処理等に関する法律（以下「法」という。）第二条第二号イ（定義）に規定する政令で定める業務は、次に掲げる業務とする。",
+   "法第二条第二号ロに規定する政令で定める申請等は、次に掲げる申請等とする。",
+   "法第二条第二号ハに規定する政令で定める申請等又は処分通知等は、次に掲げる申請等又は処分通知等とする。",
+   "法第二条第二号ニに規定する政令で定める申請等又は処分通知等は、次に掲げる申請等又は処分通知等とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1977-06-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-24T09:40:58+09:00"
+ }
+}

@@ -1,0 +1,341 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "405M50000040014",
+  "law_num": "平成五年大蔵省令第十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "1993-03-03"
+ },
+ "revision_info": {
+  "law_revision_id": "405M50000040014_20260625_508M60000002057",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "金融商品取引法第二条に規定する定義に関する内閣府令",
+  "law_title_kana": "きんゆうしょうひんとりひきほうだいにじょうにきていするていぎにかんするないかくふれい",
+  "abbrev": "証取法定義に関する内閣府令,定義府令",
+  "category": "金融・保険",
+  "updated": "2026-07-08T10:46:56+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002057",
+  "amendment_law_title": "金融機能の強化のための特別措置に関する内閣府令等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "405M50000040014_20260625_508M60000002057",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508M60000002057",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20260601_508M60000002052",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000002052",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令及び有価証券の取引等の規制に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20260601_508M60000002047",
+   "amendment_promulgate_date": "2026-05-19",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000002047",
+   "amendment_law_title": "電子決済手段等取引業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20250612_507M60000002053",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2025-06-12",
+   "amendment_law_id": "507M60000002053",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20250501_507M60000002023",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507M60000002023",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20250401_507M60000002036",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002036",
+   "amendment_law_title": "財務諸表等の監査証明に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20250401_507M60000002008",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002008",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20250101_506M60000002079",
+   "amendment_promulgate_date": "2024-09-13",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000002079",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20241101_506M60000002089",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000002089",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20240422_506M60000002049",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-22",
+   "amendment_law_id": "506M60000002049",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20231227_505M60000002087",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000002087",
+   "amendment_law_title": "内閣府の所管する金融関連法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20230601_505M60000002050",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000002050",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20221003_504M60000002053",
+   "amendment_promulgate_date": "2022-09-12",
+   "amendment_enforcement_date": "2022-10-03",
+   "amendment_law_id": "504M60000002053",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20220701_504M60000002042",
+   "amendment_promulgate_date": "2022-06-30",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504M60000002042",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20220129_504M60000002006",
+   "amendment_promulgate_date": "2022-01-28",
+   "amendment_enforcement_date": "2022-01-29",
+   "amendment_law_id": "504M60000002006",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20211122_503M60000002069",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002069",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20210709_503M60000002048",
+   "amendment_promulgate_date": "2021-07-09",
+   "amendment_enforcement_date": "2021-07-09",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002048",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20210630_503M60000002044",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002044",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20210301_503M60000002005",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002005",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20210101_502M60000002061",
+   "amendment_promulgate_date": "2020-09-18",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002061",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令及び有価証券の取引等の規制に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20201223_502M60000002075",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002075",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20200722_502M60000002053",
+   "amendment_promulgate_date": "2020-07-22",
+   "amendment_enforcement_date": "2020-07-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002053",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20200619_502M60000002047",
+   "amendment_promulgate_date": "2020-06-19",
+   "amendment_enforcement_date": "2020-06-19",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002047",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20200501_502M60000002035",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002035",
+   "amendment_law_title": "仮想通貨交換業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20200401_502M60000002015",
+   "amendment_promulgate_date": "2020-03-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002015",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20190605_501M60000002009",
+   "amendment_promulgate_date": "2019-06-05",
+   "amendment_enforcement_date": "2019-06-05",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002009",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20180401_429M60000002055",
+   "amendment_promulgate_date": "2017-12-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000002055",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "平成二十九年内閣府令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405M50000040014_20160301_428M60000002005",
+   "amendment_promulgate_date": "2016-02-03",
+   "amendment_enforcement_date": "2016-03-01",
+   "amendment_law_id": "428M60000002005",
+   "amendment_law_num": "平成二十八年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において「有価証券」、「有価証券の募集」、「有価証券の私募」、「有価証券の売出し」、「発行者」、「金融商品取引業」、「金融商品取引業者」、「金融商品市場」、「金融商品取引所」、「デリバティブ取引」、「市場デリバティブ取引」、「店頭デリバティブ取引」、「外国市場デリバティブ取引」、「金融商品」、「金融指標」、「有価証券等清算取次ぎ」、「金融商品取引清算機関」、「外国金融商品取引清算機関」、「特定投資家」、「特定上場有価証券」又は「信用格付」とは、それぞれ金融商品取引法（昭和二十三年法律第二十五号。以下「法」という。）第二条に規定する有価証券、有価証券の募集、有価証券の私募、有価証券の売出し、発行者、金融商品取引業、金融商品取引業者、金融商品市場、金融商品取引所、デリバティブ取引、市場デリバティブ取引、店頭デリバティブ取引、外国市場デリバティブ取引、金融商品、金融指標、有価証券等清算取次ぎ、金融商品取引清算機関、外国金融商品取引清算機関、特定投資家、特定上場有価証券又は信用格付をいう。",
+   "この府令において「第一種金融商品取引業」、「第二種金融商品取引業」、「投資運用業」又は「有価証券関連業」とは、それぞれ法第二十八条に規定する第一種金融商品取引業、第二種金融商品取引業、投資運用業又は有価証券関連業をいう。",
+   "この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1993-03-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T10:46:56+09:00"
+ }
+}

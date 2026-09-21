@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000010025",
+  "law_num": "令和八年法務省令第二十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "025",
+  "promulgation_date": "2026-04-03"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000010025_20260525_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "企業価値担保登記規則",
+  "law_title_kana": "きぎょうかちたんぽとうききそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-25T02:17:11+09:00",
+  "amendment_promulgate_date": "2026-04-03",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000010025_20260525_000000000000000",
+   "amendment_promulgate_date": "2026-04-03",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（企業価値担保権に関する登記）",
+  "title": "第一条",
+  "paragraphs": [
+   "企業価値担保権に関する登記（事業性融資の推進等に関する法律（以下「法」という。）第二百十六条に規定する企業価値担保権に関する登記をいう。以下同じ。）は、登記記録中企業価値担保権区にする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-04-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T02:17:11+09:00"
+ }
+}

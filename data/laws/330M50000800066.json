@@ -1,0 +1,127 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "330M50000800066",
+  "law_num": "昭和三十年運輸省令第六十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "066",
+  "promulgation_date": "1955-12-01"
+ },
+ "revision_info": {
+  "law_revision_id": "330M50000800066_20260401_508M60000800036",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "自動車損害賠償保障法施行規則",
+  "law_title_kana": "じどうしゃそんがいばいしょうほしょうほうせこうきそく",
+  "abbrev": "自賠法施行規則",
+  "category": "陸運",
+  "updated": "2026-05-14T09:57:23+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800036",
+  "amendment_law_title": "道路運送車両法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第三十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "330M50000800066_20260401_508M60000800036",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800036",
+   "amendment_law_title": "道路運送車両法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "330M50000800066_20250401_506M60000800067",
+   "amendment_promulgate_date": "2024-06-25",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800067",
+   "amendment_law_title": "道路運送車両法施行規則及び自動車損害賠償保障法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000800066_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000800066_20230401_505M60000800016",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000800016",
+   "amendment_law_title": "自動車損害賠償保障法施行規則及び自動車損害賠償保障事業業務委託契約準則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000800066_20210901_503M60000800053",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000800053",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000800066_20191001_501M60000800033",
+   "amendment_promulgate_date": "2019-09-10",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501M60000800033",
+   "amendment_law_title": "道路運送車両法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000800066_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50000800066_20170401_428M60000800087",
+   "amendment_promulgate_date": "2016-12-28",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428M60000800087",
+   "amendment_law_num": "平成二十八年国土交通省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（自動車損害賠償責任保険証明書）",
+  "title": "第一条",
+  "paragraphs": [
+   "自動車損害賠償保障法（昭和三十年法律第九十七号。以下「法」という。）第七条第一項の自動車損害賠償責任保険証明書は、第一号様式による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1955-12-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-14T09:57:23+09:00"
+ }
+}

@@ -1,0 +1,104 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "346AC0000000060",
+  "law_num": "昭和四十六年法律第六十号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "Act",
+  "law_num_num": "060",
+  "promulgation_date": "1971-05-17"
+ },
+ "revision_info": {
+  "law_revision_id": "346AC0000000060_20260401_507AC0000000059",
+  "law_type": "Act",
+  "law_title": "海洋水産資源開発促進法",
+  "law_title_kana": "かいようすいさんしげんかいはつそくしんほう",
+  "abbrev": null,
+  "category": "水産業",
+  "updated": "2026-04-01T06:17:59+09:00",
+  "amendment_promulgate_date": "2025-06-11",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000059",
+  "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346AC0000000060_20260401_507AC0000000059",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000059",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000060_20240401_505AC0000000034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000034",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000060_20201201_430AC0000000095",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "430AC0000000095",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律",
+   "amendment_law_num": "平成三十年法律第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000060_20190401_430AC0000000089",
+   "amendment_promulgate_date": "2018-12-07",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000089",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律",
+   "amendment_law_num": "平成三十年法律第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346AC0000000060_20110830_423AC0000000105",
+   "amendment_promulgate_date": "2011-08-30",
+   "amendment_enforcement_date": "2011-08-30",
+   "amendment_law_id": "423AC0000000105",
+   "amendment_law_num": "平成二十三年法律第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　海洋水産資源の開発及び利用の合理化を図るための基本方針",
+  "第三章　沿岸海域における海洋水産資源の開発等",
+  "第四章　海洋水産資源の自主的な管理に関する協定",
+  "第五章　補則",
+  "第六章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、沿岸海域における水産動植物の増殖及び養殖を計画的に推進するための措置並びに漁業者団体等による海洋水産資源の自主的な管理を促進するための措置を定めること等により、海洋水産資源の開発及び利用の合理化を促進し、もつて漁業の健全な発展と水産物の供給の安定に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-05-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:17:59+09:00"
+ }
+}

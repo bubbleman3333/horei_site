@@ -1,0 +1,171 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "350M50000100034",
+  "law_num": "昭和五十年厚生省令第三十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 50,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "034",
+  "promulgation_date": "1975-08-13"
+ },
+ "revision_info": {
+  "law_revision_id": "350M50000100034_20260801_508M60000100098",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "障害児福祉手当及び特別障害者手当の支給に関する省令",
+  "law_title_kana": "しょうがいじふくしてあておよびとくべつしょうがいしゃてあてのしきゅうにかんするしょうれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-08-01T00:26:27+09:00",
+  "amendment_promulgate_date": "2026-06-04",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100098",
+  "amendment_law_title": "特別児童扶養手当等の支給に関する法律施行規則及び障害児福祉手当及び特別障害者手当の支給に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第九十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "350M50000100034_20260801_508M60000100098",
+   "amendment_promulgate_date": "2026-06-04",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508M60000100098",
+   "amendment_law_title": "特別児童扶養手当等の支給に関する法律施行規則及び障害児福祉手当及び特別障害者手当の支給に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20240801_506M60000100109",
+   "amendment_promulgate_date": "2024-07-31",
+   "amendment_enforcement_date": "2024-08-01",
+   "amendment_law_id": "506M60000100109",
+   "amendment_law_title": "特別児童扶養手当等の支給に関する法律施行規則及び障害児福祉手当及び特別障害者手当の支給に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20221001_504M60000100126",
+   "amendment_promulgate_date": "2022-09-08",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100126",
+   "amendment_law_title": "公的給付の支給等の迅速かつ確実な実施のための預貯金口座の登録等に関する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20211022_503M60000100175",
+   "amendment_promulgate_date": "2021-10-22",
+   "amendment_enforcement_date": "2021-10-22",
+   "amendment_law_id": "503M60000100175",
+   "amendment_law_title": "厚生労働省の所管する法律又は政令の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20210506_503M60000100094",
+   "amendment_promulgate_date": "2021-05-06",
+   "amendment_enforcement_date": "2021-05-06",
+   "amendment_law_id": "503M60000100094",
+   "amendment_law_title": "特別児童扶養手当等の支給に関する法律施行規則及び障害児福祉手当及び特別障害者手当の支給に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20210101_502M60000100212",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000100212",
+   "amendment_law_title": "児童福祉法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20190701_501M60000100022",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100022",
+   "amendment_law_title": "児童扶養手当法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20180801_430M60000100101",
+   "amendment_promulgate_date": "2018-08-01",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430M60000100101",
+   "amendment_law_title": "児童扶養手当法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50000100034_20160601_428M60000100101",
+   "amendment_promulgate_date": "2016-05-23",
+   "amendment_enforcement_date": "2016-06-01",
+   "amendment_law_id": "428M60000100101",
+   "amendment_law_num": "平成二十八年厚生労働省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　障害児福祉手当",
+  "第二章　特別障害者手当",
+  "第三章　雑則"
+ ],
+ "article1": {
+  "caption": "（法第十七条第二号の厚生労働省令で定める施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "特別児童扶養手当等の支給に関する法律（以下「法」という。）第十七条第二号の厚生労働省令で定める施設は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1975-08-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-01T00:26:27+09:00"
+ }
+}

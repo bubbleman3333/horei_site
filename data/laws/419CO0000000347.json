@@ -1,0 +1,198 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "419CO0000000347",
+  "law_num": "平成十九年政令第三百四十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "347",
+  "promulgation_date": "2007-11-30"
+ },
+ "revision_info": {
+  "law_revision_id": "419CO0000000347_20260401_508CO0000000043",
+  "law_type": "CabinetOrder",
+  "law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令",
+  "law_title_kana": "しゃかいほしょうきょうていのじっしにともなうこうせいねんきんほけんほうとうのとくれいとうにかんするせいれい",
+  "abbrev": "社会保障協定の実施に伴う厚生年金法等の特例等に関する政令",
+  "category": "社会保険",
+  "updated": "2026-07-22T15:19:28+09:00",
+  "amendment_promulgate_date": "2026-03-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000043",
+  "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419CO0000000347_20260401_508CO0000000043",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000043",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20251201_506CO0000000388",
+   "amendment_promulgate_date": "2024-12-20",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "506CO0000000388",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20250620_507CO0000000223",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-06-20",
+   "amendment_law_id": "507CO0000000223",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20240401_505CO0000000308",
+   "amendment_promulgate_date": "2023-10-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000308",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20220601_504CO0000000033",
+   "amendment_promulgate_date": "2022-01-26",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504CO0000000033",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20220401_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20220201_503CO0000000304",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-02-01",
+   "amendment_law_id": "503CO0000000304",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20200401_431CO0000000146",
+   "amendment_promulgate_date": "2019-04-05",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431CO0000000146",
+   "amendment_law_title": "厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十一年政令第百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20190901_431CO0000000025",
+   "amendment_promulgate_date": "2019-02-15",
+   "amendment_enforcement_date": "2019-09-01",
+   "amendment_law_id": "431CO0000000025",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20190701_431CO0000000025",
+   "amendment_promulgate_date": "2019-02-15",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "431CO0000000025",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20180801_430CO0000000164",
+   "amendment_promulgate_date": "2018-05-07",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430CO0000000164",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20170801_429CO0000000214",
+   "amendment_promulgate_date": "2017-07-28",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_law_id": "429CO0000000214",
+   "amendment_law_title": "公的年金制度の財政基盤及び最低保障機能の強化等のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20170801_429CO0000000144",
+   "amendment_promulgate_date": "2017-05-08",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_law_id": "429CO0000000144",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419CO0000000347_20161001_425CO0000000345",
+   "amendment_promulgate_date": "2013-12-13",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_law_id": "425CO0000000345",
+   "amendment_law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令等の一部を改正する政令",
+   "amendment_law_num": "平成二十五年政令第三百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　健康保険法の特例に関する事項",
+  "第三章　船員保険法の特例に関する事項",
+  "第四章　国民健康保険法の特例に関する事項",
+  "第五章　高齢者の医療の確保に関する法律の特例に関する事項",
+  "第六章　国民年金法の特例に関する事項",
+  "第七章　厚生年金保険法の特例に関する事項",
+  "第八章　雑則",
+  "第九章　経過的特例に関する事項"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令は、社会保障協定の実施に伴う厚生年金保険法等の特例等に関する法律（以下「法」という。）の施行に伴い、我が国及び我が国以外の締約国の双方において就労する者等に係る健康保険法（大正十一年法律第七十号）、船員保険法（昭和十四年法律第七十三号）、国民健康保険法（昭和三十三年法律第百九十二号）、高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）、国民年金法（昭和三十四年法律第百四十一号）及び厚生年金保険法（昭和二十九年法律第百十五号）の特例等に関し必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-11-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-22T15:19:28+09:00"
+ }
+}

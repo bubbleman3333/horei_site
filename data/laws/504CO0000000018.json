@@ -1,0 +1,82 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "504CO0000000018",
+  "law_num": "令和四年政令第十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "018",
+  "promulgation_date": "2022-01-13"
+ },
+ "revision_info": {
+  "law_revision_id": "504CO0000000018_20260401_506CO0000000401",
+  "law_type": "CabinetOrder",
+  "law_title": "特定水産動植物等の国内流通の適正化等に関する法律施行令",
+  "law_title_kana": "とくていすいさんどうしょくぶつとうのこくないりゅうつうのてきせいかとうにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "水産業",
+  "updated": "2026-04-02T21:44:09+09:00",
+  "amendment_promulgate_date": "2024-12-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506CO0000000401",
+  "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和六年政令第四百一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504CO0000000018_20260401_506CO0000000401",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000401",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第四百一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000018_20251001_506CO0000000401",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506CO0000000401",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第四百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000018_20221201_000000000000000",
+   "amendment_promulgate_date": "2022-01-13",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504CO0000000018_20220113_000000000000000",
+   "amendment_promulgate_date": "2022-01-13",
+   "amendment_enforcement_date": "2022-01-13",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定交付機関の指定の有効期間）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定水産動植物等の国内流通の適正化等に関する法律（以下「法」という。）第十八条第一項の政令で定める期間は、三年とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-01-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:44:09+09:00"
+ }
+}

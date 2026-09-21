@@ -1,0 +1,70 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "424AC1000000080",
+  "law_num": "平成二十四年法律第八十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "080",
+  "promulgation_date": "2012-09-05"
+ },
+ "revision_info": {
+  "law_revision_id": "424AC1000000080_20141101_426AC0000000042",
+  "law_type": "Act",
+  "law_title": "大都市地域における特別区の設置に関する法律",
+  "law_title_kana": "だいとしちいきにおけるとくべつくのせっちにかんするほうりつ",
+  "abbrev": "大都市地域特別区設置法",
+  "category": "地方自治",
+  "updated": "2023-11-10T15:51:30+09:00",
+  "amendment_promulgate_date": "2014-05-30",
+  "amendment_enforcement_date": "2014-11-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "426AC0000000042",
+  "amendment_law_title": "地方自治法の一部を改正する法律",
+  "amendment_law_num": "平成二十六年法律第四十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424AC1000000080_20261030_508AC1000000078",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-10-30",
+   "amendment_enforcement_comment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-10-30",
+   "amendment_law_id": "508AC1000000078",
+   "amendment_law_title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
+   "amendment_law_num": "令和八年法律第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "424AC1000000080_20141101_426AC0000000042",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2014-11-01",
+   "amendment_law_id": "426AC0000000042",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、道府県の区域内において関係市町村を廃止し、特別区を設けるための手続並びに特別区と道府県の事務の分担並びに税源の配分及び財政の調整に関する意見の申出に係る措置について定めることにより、地域の実情に応じた大都市制度の特例を設けることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-09-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2023-11-10T15:51:30+09:00"
+ }
+}

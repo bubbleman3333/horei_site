@@ -1,0 +1,57 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "507M60200000010",
+  "law_num": "令和七年公正取引委員会規則第十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "Rule",
+  "law_num_num": "010",
+  "promulgation_date": "2025-10-01"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60200000010_20260101_000000000000000",
+  "law_type": "Rule",
+  "law_title": "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律第七条の書類等の作成及び保存に関する規則",
+  "law_title_kana": "せいぞういたくとうにかかるちゅうしょうじゅたくじぎょうしゃにたいするだいきんのしはらいのちえんとうのぼうしにかんするほうりつだいななじょうのしょるいとうのさくせいおよびほぞんにかんするきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-01-01T04:54:16+09:00",
+  "amendment_promulgate_date": "2025-10-01",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60200000010_20260101_000000000000000",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律（以下「法」という。）第七条の規定により作成する書類又は電磁的記録（以下「書類等」という。）には、次に掲げる事項を明確に記載し又は記録しなければならない。",
+   "製造委託等代金の額について具体的な金額の明示をすることが困難なやむを得ない事情がある場合においてその算定方法の明示をしたときは、前項第五号の製造委託等代金の額について、当該算定方法及びこれにより定められた具体的な金額並びに当該算定方法に変更があったときは変更後の算定方法、当該変更後の算定方法により定められた具体的な金額及びその理由を明確に記載し又は記録しなければならない。",
+   "第一項及び第二項に規定する事項は、その相互の関係を明らかにして、それぞれ別の書類等に記載又は記録をすることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-10-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T04:54:16+09:00"
+ }
+}

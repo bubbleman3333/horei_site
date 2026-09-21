@@ -1,0 +1,111 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "502AC0000000038",
+  "law_num": "令和二年法律第三十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "Act",
+  "law_num_num": "038",
+  "promulgation_date": "2020-06-03"
+ },
+ "revision_info": {
+  "law_revision_id": "502AC0000000038_20260521_505AC0000000063",
+  "law_type": "Act",
+  "law_title": "特定デジタルプラットフォームの透明性及び公正性の向上に関する法律",
+  "law_title_kana": "とくていでじたるぷらっとふぉーむのとうめいせいおよびこうせいせいのこうじょうにかんするほうりつ",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-21T02:56:13+09:00",
+  "amendment_promulgate_date": "2023-06-16",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000063",
+  "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第六十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502AC0000000038_20260521_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000038_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000038_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000038_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000038_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC0000000038_20210201_000000000000000",
+   "amendment_promulgate_date": "2020-06-03",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　特定デジタルプラットフォームの透明性及び公正性の向上に関する措置等",
+  "第三章　雑則",
+  "第四章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、近年の情報通信技術の分野における技術革新の進展により、データを活用した新たな産業が創出され、世界的規模で社会経済構造の変化が生じ、デジタルプラットフォームの果たす役割の重要性が増大している中で、デジタルプラットフォーム提供者の自主性及び自律性に配慮しつつ、商品等提供利用者等の利益の保護を図ることが課題となっている状況に鑑み、特定デジタルプラットフォーム提供者の指定、特定デジタルプラットフォーム提供者による提供条件等の開示、特定デジタルプラットフォームの透明性及び公正性についての評価その他の措置を講ずることにより、特定デジタルプラットフォームの透明性及び公正性の向上を図り、もって特定デジタルプラットフォームに関する公正かつ自由な競争の促進を通じて、国民生活の向上及び国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-06-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:56:13+09:00"
+ }
+}

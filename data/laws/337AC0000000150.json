@@ -1,0 +1,94 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "337AC0000000150",
+  "law_num": "昭和三十七年法律第百五十号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "Act",
+  "law_num_num": "150",
+  "promulgation_date": "1962-09-06"
+ },
+ "revision_info": {
+  "law_revision_id": "337AC0000000150_20251001_504AC0000000104",
+  "law_type": "Act",
+  "law_title": "激甚災害に対処するための特別の財政援助等に関する法律",
+  "law_title_kana": "げきじんさいがいにたいしょするためのとくべつのざいせいえんじょとうにかんするほうりつ",
+  "abbrev": "激甚災害法,激甚法",
+  "category": "災害対策",
+  "updated": "2025-10-01T04:31:04+09:00",
+  "amendment_promulgate_date": "2022-12-16",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000104",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第百四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337AC0000000150_20251001_504AC0000000104",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "504AC0000000104",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000150_20240401_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000150_20220525_504AC0100000052",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0100000052",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律",
+   "amendment_law_num": "令和四年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337AC0000000150_20170401_428AC0000000047",
+   "amendment_promulgate_date": "2016-05-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000047",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十八年法律第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　公共土木施設災害復旧事業等に関する特別の財政援助",
+  "第三章　農林水産業に関する特別の助成",
+  "第四章　中小企業に関する特別の助成",
+  "第五章　その他の特別の財政援助及び助成"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、災害対策基本法（昭和三十六年法律第二百二十三号）に規定する著しく激<Ruby>甚<Rt>じん</Rt></Ruby>である災害が発生した場合における国の地方公共団体に対する特別の財政援助又は被災者に対する特別の助成措置について規定するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-09-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T04:31:04+09:00"
+ }
+}

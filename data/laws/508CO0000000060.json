@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000060",
+  "law_num": "令和八年政令第六十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "060",
+  "promulgation_date": "2026-03-25"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000060_20260401_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "高次脳機能障害者支援法施行令",
+  "law_title_kana": "こうじのうきのうしょうがいしゃしえんほうしこうれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-04-08T09:30:31+09:00",
+  "amendment_promulgate_date": "2026-03-25",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000060_20260401_000000000000000",
+   "amendment_promulgate_date": "2026-03-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第一項に規定する高次脳機能障害となる認知機能の障害）",
+  "title": "第一条",
+  "paragraphs": [
+   "高次脳機能障害者支援法（以下「法」という。）第二条第一項の政令で定める認知機能の障害は、記憶障害、注意障害、遂行機能障害、社会的行動障害、失語、失行、失認その他の認知機能の障害（先天性疾病による認知機能の障害、周産期における胎児又は新生児が受けた脳の損傷による認知機能の障害並びに介護保険法（平成九年法律第百二十三号）第五条の二第一項に規定する認知症及び発達障害者支援法（平成十六年法律第百六十七号）第二条第一項に規定する発達障害に該当する認知機能の障害を除く。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-03-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-08T09:30:31+09:00"
+ }
+}

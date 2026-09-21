@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "430CO0000000163",
+  "law_num": "平成三十年政令第百六十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "163",
+  "promulgation_date": "2018-05-07"
+ },
+ "revision_info": {
+  "law_revision_id": "430CO0000000163_20260601_508CO0000000187",
+  "law_type": "CabinetOrder",
+  "law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行令",
+  "law_title_kana": "いりょうぶんやのけんきゅうかいはつにしするためのとくめいかこういりょうじょうほうおよびかめいかこういりょうじょうほうにかんするほうりつしこうれい",
+  "abbrev": "次世代医療基盤法施行令",
+  "category": "厚生",
+  "updated": "2026-06-12T09:55:54+09:00",
+  "amendment_promulgate_date": "2026-05-29",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000187",
+  "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百八十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430CO0000000163_20260601_508CO0000000187",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000187",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000163_20251201_507CO0000000393",
+   "amendment_promulgate_date": "2025-11-27",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507CO0000000393",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000163_20240401_506CO0000000060",
+   "amendment_promulgate_date": "2024-03-21",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000060",
+   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000163_20220401_503CO0000000292",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000292",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する等の政令",
+   "amendment_law_num": "令和三年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430CO0000000163_20180511_000000000000000",
+   "amendment_promulgate_date": "2018-05-07",
+   "amendment_enforcement_date": "2018-05-11",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（医療情報）",
+  "title": "第一条",
+  "paragraphs": [
+   "医療分野の研究開発に資するための匿名加工医療情報及び仮名加工医療情報に関する法律（平成二十九年法律第二十八号。以下「法」という。）第二条第一項の政令で定める記述等は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-05-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-12T09:55:54+09:00"
+ }
+}

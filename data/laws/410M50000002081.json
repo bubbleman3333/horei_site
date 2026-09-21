@@ -1,0 +1,394 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "410M50000002081",
+  "law_num": "平成十年総理府令第八十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "081",
+  "promulgation_date": "1998-12-15"
+ },
+ "revision_info": {
+  "law_revision_id": "410M50000002081_20260807_508M60000002070",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "金融庁組織規則",
+  "law_title_kana": "きんゆうちょうそしききそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-20T09:55:45+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002070",
+  "amendment_law_title": "金融庁組織規則等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第七十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410M50000002081_20260807_508M60000002070",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000002070",
+   "amendment_law_title": "金融庁組織規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20260525_507M60000002068",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507M60000002068",
+   "amendment_law_title": "信託業法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20260408_508M60000002044",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000002044",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20250701_507M60000002066",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507M60000002066",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20250401_507M60000002042",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002042",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20241101_506M60000002089",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000002089",
+   "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20240701_506M60000002064",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000002064",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20240401_506M60000002029",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002029",
+   "amendment_law_title": "企業内容等の開示に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20240401_506M60000002020",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002020",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20240201_506M60000002007",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000002007",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う金融庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20230701_505M60000002055",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60000002055",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20230601_505M60000002050",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000002050",
+   "amendment_law_title": "前払式支払手段に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20230401_505M60000002018",
+   "amendment_promulgate_date": "2023-03-24",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000002018",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20220707_504M60000002045",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-07",
+   "amendment_law_id": "504M60000002045",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20220401_504M60000002017",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000002017",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20211101_503M60000002036",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000002036",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20210901_503M60000002059",
+   "amendment_promulgate_date": "2021-08-27",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002059",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20210701_503M60000002042",
+   "amendment_promulgate_date": "2021-06-25",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002042",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20210401_503M60000002014",
+   "amendment_promulgate_date": "2021-03-29",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002014",
+   "amendment_law_title": "金融庁組織規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20201201_502M60000002071",
+   "amendment_promulgate_date": "2020-11-27",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002071",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20200701_502M60000002050",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002050",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20200501_502M60000002035",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002035",
+   "amendment_law_title": "仮想通貨交換業者に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20200401_502M60000002019",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002019",
+   "amendment_law_title": "金融庁組織規則及び公認会計士・監査審査会事務局組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20190701_501M60000002018",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002018",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20190401_431M60000002015",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000002015",
+   "amendment_law_title": "金融庁組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十一年内閣府令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20180717_430M60000002036",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-17",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002036",
+   "amendment_law_title": "金融庁組織規則等の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20180601_430M60000002024",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002024",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20180401_430M60000002016",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002016",
+   "amendment_law_title": "金融庁組織規則及び公認会計士・監査審査会事務局組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20180401_429M60000002055",
+   "amendment_promulgate_date": "2017-12-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000002055",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "平成二十九年内閣府令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20170701_429M60000002036",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_law_id": "429M60000002036",
+   "amendment_law_num": "平成二十九年内閣府令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20170530_429M60000002030",
+   "amendment_promulgate_date": "2017-05-30",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "429M60000002030",
+   "amendment_law_num": "平成二十九年内閣府令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20170401_429M60000002021",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002021",
+   "amendment_law_num": "平成二十九年内閣府令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410M50000002081_20170401_429M60000002008",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002008",
+   "amendment_law_num": "平成二十九年内閣府令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　内部部局",
+  "第二章　証券取引等監視委員会の事務局",
+  "第三章　金融庁顧問"
+ ],
+ "article1": {
+  "caption": "（管理室等及び企画官等）",
+  "title": "第一条",
+  "paragraphs": [
+   "秘書課に、管理室及び情報化統括室並びに企画官一人、人事調査官一人、管理予算調整官一人、監査専門官一人、情報企画調整官一人、業務情報化戦略調整官一人、情報セキュリティ分析専門官一人及び情報セキュリティ対策専門官一人を置く。",
+   "管理室は、秘書課の所掌事務のうち次に掲げる事務をつかさどる。",
+   "管理室に、室長を置く。",
+   "情報化統括室は、秘書課の所掌事務のうち次に掲げる事務をつかさどる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-12-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-20T09:55:45+09:00"
+ }
+}

@@ -1,0 +1,69 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "333CO0000000174",
+  "law_num": "昭和三十三年政令第百七十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "174",
+  "promulgation_date": "1958-06-10"
+ },
+ "revision_info": {
+  "law_revision_id": "333CO0000000174_20260401_507CO0000000258",
+  "law_type": "CabinetOrder",
+  "law_title": "学校保健安全法施行令",
+  "law_title_kana": "がっこうほけんあんぜんほうしこうれい",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-01T03:57:54+09:00",
+  "amendment_promulgate_date": "2025-07-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000258",
+  "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第二百五十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333CO0000000174_20260401_507CO0000000258",
+   "amendment_promulgate_date": "2025-07-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000258",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000174_20160401_427CO0000000421",
+   "amendment_promulgate_date": "2015-12-16",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000421",
+   "amendment_law_title": "学校教育法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第四百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（就学時の健康診断の時期）",
+  "title": "第一条",
+  "paragraphs": [
+   "学校保健安全法（昭和三十三年法律第五十六号。以下「法」という。）第十一条の健康診断（以下「就学時の健康診断」という。）は、学校教育法施行令（昭和二十八年政令第三百四十号）第二条の規定により学齢簿が作成された後翌学年の初めから四月前（同令第五条、第七条、第十一条、第十四条、第十五条及び第十八条の二に規定する就学に関する手続の実施に支障がない場合にあつては、三月前）までの間に行うものとする。",
+   "前項の規定にかかわらず、市町村の教育委員会は、同項の規定により定めた就学時の健康診断の実施日の翌日以後に当該市町村の教育委員会が作成した学齢簿に新たに就学予定者（学校教育法施行令第五条第一項に規定する就学予定者をいう。以下この項において同じ。）が記載された場合において、当該就学予定者が他の市町村の教育委員会が行う就学時の健康診断を受けていないときは、当該就学予定者について、速やかに就学時の健康診断を行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-06-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T03:57:54+09:00"
+ }
+}

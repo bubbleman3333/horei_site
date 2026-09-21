@@ -1,0 +1,386 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000253",
+  "law_num": "平成十二年政令第二百五十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "253",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000253_20260408_508CO0000000123",
+  "law_type": "CabinetOrder",
+  "law_title": "農林水産省組織令",
+  "law_title_kana": "のうりんすいさんしょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-05-18T10:22:44+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000123",
+  "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000253_20260408_508CO0000000123",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000123",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20260401_506CO0000000401",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000401",
+   "amendment_law_title": "漁業法及び特定水産動植物等の国内流通の適正化等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第四百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20250401_507CO0000000116",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000116",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20250331_507CO0000000116",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507CO0000000116",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20241001_506CO0000000307",
+   "amendment_promulgate_date": "2024-09-27",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000307",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20240605_506CO0000000203",
+   "amendment_promulgate_date": "2024-06-05",
+   "amendment_enforcement_date": "2024-06-05",
+   "amendment_law_id": "506CO0000000203",
+   "amendment_law_title": "農林水産省組織令及び食料・農業・農村政策審議会令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20240401_506CO0000000139",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000139",
+   "amendment_law_title": "奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20240401_506CO0000000090",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000090",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20221201_504CO0000000018",
+   "amendment_promulgate_date": "2022-01-13",
+   "amendment_enforcement_date": "2022-12-01",
+   "amendment_law_id": "504CO0000000018",
+   "amendment_law_title": "特定水産動植物等の国内流通の適正化等に関する法律第十三条第二項の規定により都道府県が処理する事務に関する政令",
+   "amendment_law_num": "令和四年政令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20221128_504CO0000000354",
+   "amendment_promulgate_date": "2022-11-28",
+   "amendment_enforcement_date": "2022-11-28",
+   "amendment_law_id": "504CO0000000354",
+   "amendment_law_title": "離島振興法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20220701_504CO0000000231",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504CO0000000231",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20220331_504CO0000000164",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "504CO0000000164",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20211001_503CO0000000249",
+   "amendment_promulgate_date": "2021-09-03",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "503CO0000000249",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20210701_503CO0000000176",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503CO0000000176",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20210401_503CO0000000137",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000137",
+   "amendment_law_title": "過疎地域の持続的発展の支援に関する特別措置法施行令",
+   "amendment_law_num": "令和三年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20200701_502CO0000000197",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502CO0000000197",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20200621_430CO0000000293",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2020-06-21",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000293",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20200401_502CO0000000074",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000074",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20200401_502CO0000000073",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000073",
+   "amendment_law_title": "農林水産物及び食品の輸出の促進に関する法律施行令",
+   "amendment_law_num": "令和二年政令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20191201_501CO0000000100",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2019-12-01",
+   "amendment_law_id": "501CO0000000100",
+   "amendment_law_title": "農林水産省組織令及び環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20190911_501CO0000000100",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2019-09-11",
+   "amendment_law_id": "501CO0000000100",
+   "amendment_law_title": "農林水産省組織令及び環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20190701_501CO0000000022",
+   "amendment_promulgate_date": "2019-06-07",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000022",
+   "amendment_law_title": "農業用ため池の管理及び保全に関する法律施行令",
+   "amendment_law_num": "令和元年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20190401_431CO0000000132",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000132",
+   "amendment_law_title": "奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十一年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20190401_431CO0000000034",
+   "amendment_promulgate_date": "2019-03-08",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000034",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20181001_430CO0000000267",
+   "amendment_promulgate_date": "2018-09-27",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000267",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20180401_430CO0000000086",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000086",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20180401_430CO0000000003",
+   "amendment_promulgate_date": "2018-01-17",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000003",
+   "amendment_law_title": "農林物資の規格化等に関する法律及び独立行政法人農林水産消費安全技術センター法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20180401_429CO0000000208",
+   "amendment_promulgate_date": "2017-07-28",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000208",
+   "amendment_law_title": "農業機械化促進法を廃止する等の法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20170724_429CO0000000193",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-07-24",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000193",
+   "amendment_law_title": "農村地域工業等導入促進法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20170701_429CO0000000168",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000168",
+   "amendment_law_title": "農林水産省組織令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20170401_428CO0000000396",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000396",
+   "amendment_law_title": "森林法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000253_20170401_428CO0000000372",
+   "amendment_promulgate_date": "2016-12-07",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000372",
+   "amendment_law_title": "漁業経営に関する補償制度の改善のための漁船損害等補償法及び漁業災害補償法の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　本省",
+  "第二章　外局"
+ ],
+ "article1": {
+  "caption": "（秘書官の定数）",
+  "title": "第一条",
+  "paragraphs": [
+   "秘書官の定数は、一人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-18T10:22:44+09:00"
+ }
+}

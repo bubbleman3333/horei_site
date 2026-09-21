@@ -1,0 +1,91 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "412RPMD08210002",
+  "law_num": "平成十二年八月二十一日内閣総理大臣決定",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "2000-08-21"
+ },
+ "revision_info": {
+  "law_revision_id": "412RPMD08210002_20260408_508RPMD04080000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "内閣総務官室に総理大臣官邸事務所等を置く規則",
+  "law_title_kana": "ないかくそうむかんしつにそうりだいじんかんていじむしょとうをおくきそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-05-25T11:36:39+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RPMD04080000",
+  "amendment_law_title": "内閣総務官室に総理大臣官邸事務所等を置く規則の一部を改正する規則",
+  "amendment_law_num": "令和八年四月八日内閣総理大臣決定",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412RPMD08210002_20260408_508RPMD04080000",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508RPMD04080000",
+   "amendment_law_title": "内閣総務官室に総理大臣官邸事務所等を置く規則の一部を改正する規則",
+   "amendment_law_num": "令和八年四月八日内閣総理大臣決定",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412RPMD08210002_20240701_506RPMD07010000",
+   "amendment_promulgate_date": "2024-07-01",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506RPMD07010000",
+   "amendment_law_title": "内閣総務官室に総理大臣官邸事務所等を置く規則の一部を改正する規則",
+   "amendment_law_num": "令和六年七月一日内閣総理大臣決定",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412RPMD08210002_20180401_430RPMD03300000",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430RPMD03300000",
+   "amendment_law_title": "内閣総務官室に総理大臣官邸事務所等を置く規則の一部を改正する規則",
+   "amendment_law_num": "平成三十年三月三十日内閣総理大臣決定",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412RPMD08210002_20150410_427RPMD04100000",
+   "amendment_promulgate_date": "2015-04-10",
+   "amendment_enforcement_date": "2015-04-10",
+   "amendment_law_id": "427RPMD04100000",
+   "amendment_law_title": "内閣総務官室に総理大臣官邸事務所等を置く規則の一部を改正する規則",
+   "amendment_law_num": "平成二十七年四月十日内閣総理大臣決定",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（総理大臣官邸事務所）",
+  "title": "第一条",
+  "paragraphs": [
+   "内閣総務官室に、総理大臣官邸の管理運営等に関する事務を行うため、総理大臣官邸事務所（以下「事務所」という。）を置く。",
+   "事務所の長は、内閣官房組織令第五条に規定する総理大臣官邸事務所長とする。",
+   "事務所に、副所長一人を置く。",
+   "副所長は、総理大臣官邸事務所長を助け、事務所の事務を整理する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-08-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T11:36:39+09:00"
+ }
+}

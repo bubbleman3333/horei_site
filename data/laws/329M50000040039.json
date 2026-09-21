@@ -1,0 +1,168 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "329M50000040039",
+  "law_num": "昭和二十九年大蔵省令第三十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "039",
+  "promulgation_date": "1954-05-31"
+ },
+ "revision_info": {
+  "law_revision_id": "329M50000040039_20240401_505M60000040017",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国税収納金整理資金事務取扱規則",
+  "law_title_kana": "こくぜいしゅうのうきんせいりしきんじむとりあつかいきそく",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2024-04-01T01:53:43+09:00",
+  "amendment_promulgate_date": "2023-03-31",
+  "amendment_enforcement_date": "2024-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505M60000040017",
+  "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和五年財務省令第十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329M50000040039_20270401_508M60000040020",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000040020",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20240401_505M60000040017",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000040017",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20230619_505M60000040043",
+   "amendment_promulgate_date": "2023-06-19",
+   "amendment_enforcement_date": "2023-06-19",
+   "amendment_law_id": "505M60000040043",
+   "amendment_law_title": "国税収納金整理資金事務取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20220401_504M60000040021",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040021",
+   "amendment_law_title": "国税通則法施行規則及び国税収納金整理資金事務取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20220104_503M60000040019",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-04",
+   "amendment_law_id": "503M60000040019",
+   "amendment_law_title": "国税通則法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20210401_503M60000040036",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000040036",
+   "amendment_law_title": "国税収納金整理資金事務取扱規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20210101_502M60000040075",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040075",
+   "amendment_law_title": "税務官署における収入官吏及び出納員並びに歳入歳出外現金出納官吏の備えるべき現金領収証書に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20200629_502M60000040052",
+   "amendment_promulgate_date": "2020-06-25",
+   "amendment_enforcement_date": "2020-06-29",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040052",
+   "amendment_law_title": "国税収納金整理資金事務取扱規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20190701_501M60000040005",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040005",
+   "amendment_law_title": "政府カ第三債務者トシテ差押ヘラレタル債務額ノ仕払停止仕払執行及供託ニ関スル手続等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20190507_501M60000040001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040001",
+   "amendment_law_title": "元号を改める政令の施行に伴う財務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329M50000040039_20160322_428M60000040011",
+   "amendment_promulgate_date": "2016-03-22",
+   "amendment_enforcement_date": "2016-03-22",
+   "amendment_law_id": "428M60000040011",
+   "amendment_law_num": "平成二十八年財務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　徴収",
+  "第三章　収納及び収納金の出納保管",
+  "第四章　支払命令",
+  "第五章　削除",
+  "第六章　歳入組入及び総括事務"
+ ],
+ "article1": {
+  "caption": "（通則）",
+  "title": "第一条",
+  "paragraphs": [
+   "国税等の徴収及び収納、過誤納金の還付金等の支払その他国税収納金整理資金（以下「資金」という。）に属する現金の受入れ、支払及び歳入への組入れに関する事務取扱いについては、他の法令に定めるもののほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-05-31",
+  "fetched_at": "2026-09-21",
+  "updated": "2024-04-01T01:53:43+09:00"
+ }
+}

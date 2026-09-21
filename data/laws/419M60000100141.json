@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60000100141",
+  "law_num": "平成十九年厚生労働省令第百四十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "141",
+  "promulgation_date": "2007-11-22"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60000100141_20260401_508M60000100047",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "後期高齢者医療の調整交付金の交付額の算定に関する省令",
+  "law_title_kana": "こうきこうれいしゃいりょうのちょうせいこうふきんのこうふがくのさんていにかんするしょうれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-04-14T10:10:36+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100047",
+  "amendment_law_title": "後期高齢者医療の調整交付金の交付額の算定に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第四十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60000100141_20260401_508M60000100047",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100047",
+   "amendment_law_title": "後期高齢者医療の調整交付金の交付額の算定に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100141_20240401_506M60000100005",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100005",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100141_20240401_506M60000100004",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100004",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100141_20221001_504M60000100001",
+   "amendment_promulgate_date": "2022-01-04",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100001",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100141_20190131_431M60000100008",
+   "amendment_promulgate_date": "2019-01-31",
+   "amendment_enforcement_date": "2019-01-31",
+   "amendment_law_id": "431M60000100008",
+   "amendment_law_title": "国民健康保険の調整交付金等の交付額の算定に関する省令及び後期高齢者医療の調整交付金の交付額の算定に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年厚生労働省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000100141_20160401_428M60000100063",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000100063",
+   "amendment_law_num": "平成二十八年厚生労働省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "後期高齢者医療の調整交付金（高齢者の医療の確保に関する法律（昭和五十七年法律第八十号。以下「法」という。）第九十五条第一項に規定する調整交付金をいう。以下同じ。）の交付額の算定に関しては、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-11-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T10:10:36+09:00"
+ }
+}

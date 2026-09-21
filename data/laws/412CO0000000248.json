@@ -1,0 +1,242 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000248",
+  "law_num": "平成十二年政令第二百四十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "248",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000248_20260614_508CO0000000178",
+  "law_type": "CabinetOrder",
+  "law_title": "法務省組織令",
+  "law_title_kana": "ほうむしょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-06-14T00:19:13+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000178",
+  "amendment_law_title": "法務省組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百七十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000248_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20260614_508CO0000000178",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "508CO0000000178",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20260115_507CO0000000405",
+   "amendment_promulgate_date": "2025-12-10",
+   "amendment_enforcement_date": "2026-01-15",
+   "amendment_law_id": "507CO0000000405",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20250515_507CO0000000186",
+   "amendment_promulgate_date": "2025-05-01",
+   "amendment_enforcement_date": "2025-05-15",
+   "amendment_law_id": "507CO0000000186",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20250401_507CO0000000059",
+   "amendment_promulgate_date": "2025-03-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000059",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20240610_506CO0000000197",
+   "amendment_promulgate_date": "2024-05-29",
+   "amendment_enforcement_date": "2024-06-10",
+   "amendment_law_id": "506CO0000000197",
+   "amendment_law_title": "出入国管理及び難民認定法及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20240401_505CO0000000163",
+   "amendment_promulgate_date": "2023-04-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000163",
+   "amendment_law_title": "困難な問題を抱える女性への支援に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20231201_505CO0000000313",
+   "amendment_promulgate_date": "2023-11-06",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505CO0000000313",
+   "amendment_law_title": "出入国管理及び難民認定法施行令及び法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20231201_505CO0000000258",
+   "amendment_promulgate_date": "2023-08-04",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505CO0000000258",
+   "amendment_law_title": "刑法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20230427_504CO0000000316",
+   "amendment_promulgate_date": "2022-09-29",
+   "amendment_enforcement_date": "2023-04-27",
+   "amendment_law_id": "504CO0000000316",
+   "amendment_law_title": "相続等により取得した土地所有権の国庫への帰属に関する法律施行令",
+   "amendment_law_num": "令和四年政令第三百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20230401_505CO0000000091",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000091",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20220401_504CO0000000094",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000094",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20220401_503CO0000000341",
+   "amendment_promulgate_date": "2021-12-24",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000341",
+   "amendment_law_title": "国際受刑者移送法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20210401_503CO0000000078",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503CO0000000078",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20200710_502CO0000000080",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-07-10",
+   "amendment_law_id": "502CO0000000080",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20200401_502CO0000000080",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000080",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20190401_431CO0000000081",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000081",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20180401_430CO0000000082",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000082",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000248_20170401_429CO0000000074",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000074",
+   "amendment_law_title": "法務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　本省",
+  "第二章　外局"
+ ],
+ "article1": {
+  "caption": "（秘書官の定数）",
+  "title": "第一条",
+  "paragraphs": [
+   "秘書官の定数は、一人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-14T00:19:13+09:00"
+ }
+}

@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000327",
+  "law_num": "平成十二年政令第三百二十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "327",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000327_20260401_508CO0000000066",
+  "law_type": "CabinetOrder",
+  "law_title": "国立研究開発法人量子科学技術研究開発機構法第二十条の規定による医療法施行令等の規定の技術的読替え等に関する政令",
+  "law_title_kana": "こくりつけんきゅうかいはつほうじんりょうしかがくぎじゅつけんきゅうかいはつきこうほうだいにじゅうじょうのきていによるいりょうほうしこうれいとうのきていのぎじゅつてきよみかえとうにかんするせいれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-14T09:31:59+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000066",
+  "amendment_law_title": "医療法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000327_20260401_508CO0000000066",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000066",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000327_20200401_501CO0000000209",
+   "amendment_promulgate_date": "2019-12-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000209",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000327_20160401_428CO0000000013",
+   "amendment_promulgate_date": "2016-01-22",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000013",
+   "amendment_law_title": "国立研究開発法人放射線医学総合研究所法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（技術的読替え）",
+  "title": "第一条",
+  "paragraphs": [
+   "国立研究開発法人量子科学技術研究開発機構法（平成十一年法律第百七十六号）第二十条の規定による技術的読替えは、次の表のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T09:31:59+09:00"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "358CO0000000013",
+  "law_num": "昭和五十八年政令第十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 58,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "013",
+  "promulgation_date": "1983-02-12"
+ },
+ "revision_info": {
+  "law_revision_id": "358CO0000000013_20260214_507CO0000000417",
+  "law_type": "CabinetOrder",
+  "law_title": "船舶職員及び小型船舶操縦者法施行令",
+  "law_title_kana": "せんぱくしょくいんおよびこがたせんぱくそうじゅうしゃほうしこうれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-02-14T00:36:28+09:00",
+  "amendment_promulgate_date": "2025-12-17",
+  "amendment_enforcement_date": "2026-02-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000417",
+  "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第四百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "358CO0000000013_20260214_507CO0000000417",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-02-14",
+   "amendment_law_id": "507CO0000000417",
+   "amendment_law_title": "船員法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第四百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "358CO0000000013_20240401_505CO0000000334",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000334",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和五年政令第三百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358CO0000000013_20180801_430CO0000000219",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430CO0000000219",
+   "amendment_law_title": "電波法及び電気通信事業法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "358CO0000000013_20050401_417CO0000000014",
+   "amendment_promulgate_date": "2005-02-02",
+   "amendment_enforcement_date": "2005-04-01",
+   "amendment_law_id": "417CO0000000014",
+   "amendment_law_num": "平成十七年政令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（運航士の職務）",
+  "title": "第一条",
+  "paragraphs": [
+   "船舶職員及び小型船舶操縦者法（以下「法」という。）第二条第三項第一号の航海士の行う船舶の運航に関する職務のうち政令で定めるものは、次に掲げる職務とする。",
+   "法第二条第三項第二号の機関士の行う機関の運転に関する職務のうち政令で定めるものは、機関及び附属設備（以下「機関等」という。）の作動状態の監視及び点検、機関等の操作、機関区域内の巡回、機関等の故障発生時等における応急措置の実施並びにこれらの業務に関する引継ぎ及び記録の作成とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1983-02-12",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-02-14T00:36:28+09:00"
+ }
+}

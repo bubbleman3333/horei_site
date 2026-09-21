@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "406AC0000000005",
+  "law_num": "平成六年法律第五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "005",
+  "promulgation_date": "1994-02-04"
+ },
+ "revision_info": {
+  "law_revision_id": "406AC0000000005_20260101_506AC1000000064",
+  "law_type": "Act",
+  "law_title": "政党助成法",
+  "law_title_kana": "せいとうじょせいほう",
+  "abbrev": "政治改革関連四法",
+  "category": "国会",
+  "updated": "2026-01-01T03:50:21+09:00",
+  "amendment_promulgate_date": "2024-06-26",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC1000000064",
+  "amendment_law_title": "政治資金規正法の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406AC0000000005_20260101_506AC1000000064",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "506AC1000000064",
+   "amendment_law_title": "政治資金規正法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000005_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000005_20250108_507AC1000000002",
+   "amendment_promulgate_date": "2025-01-08",
+   "amendment_enforcement_date": "2025-01-08",
+   "amendment_law_id": "507AC1000000002",
+   "amendment_law_title": "政治資金規正法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000005_20240626_506AC1000000064",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2024-06-26",
+   "amendment_law_id": "506AC1000000064",
+   "amendment_law_title": "政治資金規正法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000005_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000005_20191216_501AC0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501AC0000000016",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000005_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000005_20160401_426AC0000000042",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000042",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　政党の届出",
+  "第三章　政党交付金の算定等",
+  "第四章　政党交付金の使途の報告",
+  "第五章　政党の解散等に係る措置",
+  "第六章　報告書等の公表",
+  "第七章　政党交付金の返還等",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、議会制民主政治における政党の機能の重要性にかんがみ、国が政党に対し政党交付金による助成を行うこととし、このために必要な政党の要件、政党の届出その他政党交付金の交付に関する手続を定めるとともに、その使途の報告その他必要な措置を講ずることにより、政党の政治活動の健全な発達の促進及びその公明と公正の確保を図り、もって民主政治の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-02-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T03:50:21+09:00"
+ }
+}

@@ -1,0 +1,159 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000010012",
+  "law_num": "平成十三年法務省令第十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "012",
+  "promulgation_date": "2001-01-06"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000010012_20260105_507M60000010041",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "法務局及び地方法務局の支局及び出張所設置規則",
+  "law_title_kana": "ほうむきょくおよびちほうほうむきょくのしきょくおよびしゅっちょうしょせっちきそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-01-05T00:12:38+09:00",
+  "amendment_promulgate_date": "2025-08-15",
+  "amendment_enforcement_date": "2026-01-05",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000010041",
+  "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+  "amendment_law_num": "令和七年法務省令第四十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000010012_21171231_423M60000010003",
+   "amendment_promulgate_date": "2011-02-25",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "別に法務省令で定める日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "423M60000010003",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十三年法務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20260105_507M60000010041",
+   "amendment_promulgate_date": "2025-08-15",
+   "amendment_enforcement_date": "2026-01-05",
+   "amendment_law_id": "507M60000010041",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20250722_507M60000010038",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507M60000010038",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20240226_506M60000010003",
+   "amendment_promulgate_date": "2024-01-26",
+   "amendment_enforcement_date": "2024-02-26",
+   "amendment_law_id": "506M60000010003",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20230529_505M60000010027",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2023-05-29",
+   "amendment_law_id": "505M60000010027",
+   "amendment_law_title": "法務局における遺言書の保管等に関する省令及び法務局及び地方法務局の支局及び出張所設置規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20210112_502M60000010055",
+   "amendment_promulgate_date": "2020-12-16",
+   "amendment_enforcement_date": "2021-01-12",
+   "amendment_law_id": "502M60000010055",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20200710_502M60000010024",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-07-10",
+   "amendment_law_id": "502M60000010024",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20191015_501M60000010026",
+   "amendment_promulgate_date": "2019-07-16",
+   "amendment_enforcement_date": "2019-10-15",
+   "amendment_law_id": "501M60000010026",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20181001_430M60000010023",
+   "amendment_promulgate_date": "2018-09-25",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430M60000010023",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年法務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20180213_430M60000010001",
+   "amendment_promulgate_date": "2018-01-30",
+   "amendment_enforcement_date": "2018-02-13",
+   "amendment_law_id": "430M60000010001",
+   "amendment_law_title": "法務局及び地方法務局の支局及び出張所設置規則及び登記事務委任規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年法務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000010012_20161010_428M60000010043",
+   "amendment_promulgate_date": "2016-09-26",
+   "amendment_enforcement_date": "2016-10-10",
+   "amendment_law_id": "428M60000010043",
+   "amendment_law_num": "平成二十八年法務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "法務局又は地方法務局の支局（以下「支局」という。）を各法務局又は地方法務局につき別表第一の支局欄（同欄中括弧のつけてあるものを除く。以下第三条まで同様とする。）のとおりに置き、法務局若しくは地方法務局又はその支局の出張所（以下「出張所」という。）を各法務局若しくは地方法務局又はその支局につき同表の出張所欄（同欄中括弧のつけてあるものを除く。以下第三条まで同様とする。）のとおりに置く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-01-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-05T00:12:38+09:00"
+ }
+}

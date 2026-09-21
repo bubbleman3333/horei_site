@@ -1,0 +1,127 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "411AC0100000004",
+  "law_num": "平成十一年法律第四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "Act",
+  "law_num_num": "004",
+  "promulgation_date": "1999-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "411AC0100000004_20260812_508AC0000000064",
+  "law_type": "Act",
+  "law_title": "特定融資枠契約に関する法律",
+  "law_title_kana": "とくていゆうしわくけいやくにかんするほうりつ",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-08-12T00:24:43+09:00",
+  "amendment_promulgate_date": "2026-07-23",
+  "amendment_enforcement_date": "2026-08-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000064",
+  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411AC0100000004_20270401_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0100000004_20260812_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-08-12",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411AC0100000004_20250501_506AC0000000032",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "506AC0000000032",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0100000004_20241121_506AC0000000032",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2024-11-21",
+   "amendment_law_id": "506AC0000000032",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0100000004_20241101_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0100000004_20240522_506AC0000000032",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2024-05-22",
+   "amendment_law_id": "506AC0000000032",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0100000004_20240401_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0100000004_20150529_426AC0000000044",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2015-05-29",
+   "amendment_law_id": "426AC0000000044",
+   "amendment_law_num": "平成二十六年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、特定融資枠契約に係る手数料について利息制限法（昭和二十九年法律第百号）及び出資の受入れ、預り金及び金利等の取締りに関する法律（昭和二十九年法律第百九十五号）の特例を定めることにより、企業の資金調達の機動性の増大を図り、もって国民経済の健全な発展に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-12T00:24:43+09:00"
+ }
+}

@@ -1,0 +1,329 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "347M50002000039",
+  "law_num": "昭和四十七年労働省令第三十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "039",
+  "promulgation_date": "1972-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "347M50002000039_20260901_508M60000100116",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定化学物質障害予防規則",
+  "law_title_kana": "とくていかがくぶっしつしょうがいよぼうきそく",
+  "abbrev": "特化則",
+  "category": "労働",
+  "updated": "2026-09-01T00:22:44+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100116",
+  "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347M50002000039_20270401_508M60000100089",
+   "amendment_promulgate_date": "2026-04-28",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000100089",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20270401_508M60000100029",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000100029",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20261001_508M60000100116",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100116",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20260901_508M60000100116",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508M60000100116",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20260401_508M60000100003",
+   "amendment_promulgate_date": "2026-01-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100003",
+   "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20240401_505M60000100069",
+   "amendment_promulgate_date": "2023-04-21",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000100069",
+   "amendment_law_title": "有機溶剤中毒予防規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20240401_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20240101_505M60000100066",
+   "amendment_promulgate_date": "2023-04-03",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000100066",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20231227_505M60000100165",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000100165",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20231001_505M60000100069",
+   "amendment_promulgate_date": "2023-04-21",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000100069",
+   "amendment_law_title": "有機溶剤中毒予防規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20231001_505M60000100029",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000100029",
+   "amendment_law_title": "労働安全衛生法施行令及び労働安全衛生法関係手数料令の一部を改正する政令の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20230401_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20230401_504M60000100082",
+   "amendment_promulgate_date": "2022-04-15",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000100082",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20230401_504M60000100025",
+   "amendment_promulgate_date": "2022-02-24",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000100025",
+   "amendment_law_title": "労働安全衛生規則及び特定化学物質障害予防規則の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20230118_505M60000100005",
+   "amendment_promulgate_date": "2023-01-18",
+   "amendment_enforcement_date": "2023-01-18",
+   "amendment_law_id": "505M60000100005",
+   "amendment_law_title": "労働安全衛生規則及び特定化学物質障害予防規則の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20220531_504M60000100091",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2022-05-31",
+   "amendment_law_id": "504M60000100091",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20210401_502M60000100134",
+   "amendment_promulgate_date": "2020-07-01",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000100134",
+   "amendment_law_title": "石綿障害予防規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20210401_502M60000100089",
+   "amendment_promulgate_date": "2020-04-22",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000100089",
+   "amendment_law_title": "特定化学物質障害予防規則及び作業環境測定法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20201001_502M60000100134",
+   "amendment_promulgate_date": "2020-07-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000100134",
+   "amendment_law_title": "石綿障害予防規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20200828_502M60000100154",
+   "amendment_promulgate_date": "2020-08-28",
+   "amendment_enforcement_date": "2020-08-28",
+   "amendment_law_id": "502M60000100154",
+   "amendment_law_title": "じん肺法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20200701_502M60000100020",
+   "amendment_promulgate_date": "2020-03-03",
+   "amendment_enforcement_date": "2020-07-01",
+   "amendment_law_id": "502M60000100020",
+   "amendment_law_title": "労働安全衛生規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20180601_430M60000100059",
+   "amendment_promulgate_date": "2018-04-06",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000100059",
+   "amendment_law_title": "石綿障害予防規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20170601_429M60000100060",
+   "amendment_promulgate_date": "2017-04-27",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429M60000100060",
+   "amendment_law_num": "平成二十九年厚生労働省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20170601_429M60000100029",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-06-01",
+   "amendment_law_id": "429M60000100029",
+   "amendment_law_num": "平成二十九年厚生労働省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50002000039_20170401_429M60000100008",
+   "amendment_promulgate_date": "2017-02-16",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000100008",
+   "amendment_law_num": "平成二十九年厚生労働省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　製造等に係る措置",
+  "第三章　用後処理",
+  "第四章　漏えいの防止",
+  "第五章　管理",
+  "第五章の二　特殊な作業等の管理",
+  "第六章　健康診断",
+  "第七章　保護具",
+  "第八章　製造許可等",
+  "第九章　特定化学物質及び四アルキル鉛等作業主任者技能講習",
+  "第十章　報告"
+ ],
+ "article1": {
+  "caption": "（事業者の責務）",
+  "title": "第一条",
+  "paragraphs": [
+   "事業者は、化学物質による労働者のがん、皮膚炎、神経障害その他の健康障害を予防するため、使用する物質の毒性の確認、代替物の使用、作業方法の確立、関係施設の改善、作業環境の整備、健康管理の徹底その他必要な措置を講じ、もつて、労働者の危険の防止の趣旨に反しない限りで、化学物質にばく露される労働者の人数並びに労働者がばく露される期間及び程度を最小限度にするよう努めなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-09-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-01T00:22:44+09:00"
+ }
+}

@@ -1,0 +1,155 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "419AC0000000037",
+  "law_num": "平成十九年法律第三十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "Act",
+  "law_num_num": "037",
+  "promulgation_date": "2007-05-11"
+ },
+ "revision_info": {
+  "law_revision_id": "419AC0000000037_20260521_507AC0000000039",
+  "law_type": "Act",
+  "law_title": "国際刑事裁判所に対する協力等に関する法律",
+  "law_title_kana": "こくさいけいじさいばんしょにたいするきょうりょくとうにかんするほうりつ",
+  "abbrev": "ＩＣＣ協力法,国際刑事裁判所協力法",
+  "category": "外事",
+  "updated": "2026-05-21T02:40:17+09:00",
+  "amendment_promulgate_date": "2025-05-23",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000039",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419AC0000000037_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20260521_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20250722_507AC0000000026",
+   "amendment_promulgate_date": "2025-04-23",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507AC0000000026",
+   "amendment_law_title": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
+   "amendment_law_num": "令和七年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20250612_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-12",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20220401_504AC0000000006",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504AC0000000006",
+   "amendment_law_title": "警察法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20170711_429AC0000000067",
+   "amendment_promulgate_date": "2017-06-21",
+   "amendment_enforcement_date": "2017-07-11",
+   "amendment_law_id": "429AC0000000067",
+   "amendment_law_title": "組織的な犯罪の処罰及び犯罪収益の規制等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000037_20160623_428AC0000000054",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2016-06-23",
+   "amendment_law_id": "428AC0000000054",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　国際刑事裁判所に対する協力",
+  "第三章　国際刑事警察機構に対する措置",
+  "第四章　国際刑事裁判所の運営を害する罪"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、国際刑事裁判所に関するローマ規程（以下「規程」という。）が定める集団殺害犯罪その他の国際社会全体の関心事である最も重大な犯罪について、国際刑事裁判所の捜査、裁判及び刑の執行等についての必要な協力に関する手続を定めるとともに、国際刑事裁判所の運営を害する行為についての罰則を定めること等により、規程の的確な実施を確保することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-05-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:40:17+09:00"
+ }
+}

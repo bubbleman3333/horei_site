@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "423CO0000000426",
+  "law_num": "平成二十三年政令第四百二十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "426",
+  "promulgation_date": "2011-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "423CO0000000426_20251001_507CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "津波防災地域づくりに関する法律施行令",
+  "law_title_kana": "つなみぼうさいちいきづくりにかんするほうりつしこうれい",
+  "abbrev": "津波防災地域づくり法施行令",
+  "category": "災害対策",
+  "updated": "2025-10-01T10:20:54+09:00",
+  "amendment_promulgate_date": "2025-03-26",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000085",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和七年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423CO0000000426_20251001_507CO0000000085",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000085",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000426_20250701_507CO0000000205",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000205",
+   "amendment_law_title": "都市計画法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000426_20240401_506CO0000000161",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000161",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000426_20170401_429CO0000000063",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000063",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（津波防護施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "津波防災地域づくりに関する法律（以下「法」という。）第二条第十項の政令で定める施設は、盛土構造物（津波による浸水を防止する機能を有するものに限る。第十五条において同じ。）、護岸、胸壁及び<Ruby>閘<Rt>こう</Rt></Ruby>門をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-12-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T10:20:54+09:00"
+ }
+}

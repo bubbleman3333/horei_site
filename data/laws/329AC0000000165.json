@@ -1,0 +1,466 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "329AC0000000165",
+  "law_num": "昭和二十九年法律第百六十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "Act",
+  "law_num_num": "165",
+  "promulgation_date": "1954-06-09"
+ },
+ "revision_info": {
+  "law_revision_id": "329AC0000000165_20260703_508AC0000000053",
+  "law_type": "Act",
+  "law_title": "自衛隊法",
+  "law_title_kana": "じえいたいほう",
+  "abbrev": null,
+  "category": "防衛",
+  "updated": "2026-07-03T10:29:55+09:00",
+  "amendment_promulgate_date": "2026-07-03",
+  "amendment_enforcement_date": "2026-07-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000053",
+  "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329AC0000000165_20270527_507AC0000000046",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2027-05-27",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-27",
+   "amendment_law_id": "507AC0000000046",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20270331_508AC0000000053",
+   "amendment_promulgate_date": "2026-07-03",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "508AC0000000053",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20270102_508AC0000000053",
+   "amendment_promulgate_date": "2026-07-03",
+   "amendment_enforcement_date": "2027-01-02",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-01-02",
+   "amendment_law_id": "508AC0000000053",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20261127_507AC0000000044",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2026-11-27",
+   "amendment_enforcement_comment": "公布の日から起算して一年六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-11-27",
+   "amendment_law_id": "507AC0000000044",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20261001_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20260703_508AC0000000053",
+   "amendment_promulgate_date": "2026-07-03",
+   "amendment_enforcement_date": "2026-07-03",
+   "amendment_law_id": "508AC0000000053",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20260401_507AC0000000095",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000095",
+   "amendment_law_title": "防衛省の職員の給与等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20260401_507AC0000000089",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000089",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20260401_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20260401_507AC0000000059",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000059",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20260401_507AC0000000044",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000044",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20260323_507AC0000000044",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2026-03-23",
+   "amendment_law_id": "507AC0000000044",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20260101_507AC0000000032",
+   "amendment_promulgate_date": "2025-05-14",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507AC0000000032",
+   "amendment_law_title": "船員法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20251001_507AC0000000044",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507AC0000000044",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20251001_506AC0000000079",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506AC0000000079",
+   "amendment_law_title": "国家公務員の育児休業等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20250901_507AC0000000044",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507AC0000000044",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20250528_507AC0000000044",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-05-28",
+   "amendment_law_id": "507AC0000000044",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20250523_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20250401_506AC0000000072",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC0000000072",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20250401_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20250324_506AC0000000024",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "506AC0000000024",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20250324_504AC0000000032",
+   "amendment_promulgate_date": "2022-04-27",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "504AC0000000032",
+   "amendment_law_title": "道路交通法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20241225_506AC0000000072",
+   "amendment_promulgate_date": "2024-12-25",
+   "amendment_enforcement_date": "2024-12-25",
+   "amendment_law_id": "506AC0000000072",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20241001_506AC0000000024",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506AC0000000024",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20240817_506AC0000000024",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-08-17",
+   "amendment_law_id": "506AC0000000024",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20240712_506AC0000000024",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-07-12",
+   "amendment_law_id": "506AC0000000024",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20240517_506AC0000000024",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506AC0000000024",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20240425_506AC0000000020",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506AC0000000020",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20240401_505AC0000000034",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000034",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20230526_504AC0000000055",
+   "amendment_promulgate_date": "2022-05-27",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "504AC0000000055",
+   "amendment_law_title": "宅地造成等規制法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20230401_503AC0000000061",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000061",
+   "amendment_law_title": "国家公務員法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20230401_503AC0000000049",
+   "amendment_promulgate_date": "2021-05-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "503AC0000000049",
+   "amendment_law_title": "良質かつ適切な医療を効率的に提供する体制の確保を推進するための医療法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20230331_505AC0000000008",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505AC0000000008",
+   "amendment_law_title": "駐留軍関係離職者等臨時措置法及び国際協定の締結等に伴う漁業離職者に関する臨時措置法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20221216_504AC0000000087",
+   "amendment_promulgate_date": "2022-11-18",
+   "amendment_enforcement_date": "2022-12-16",
+   "amendment_law_id": "504AC0000000087",
+   "amendment_law_title": "港湾法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20221205_503AC0000000065",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2022-12-05",
+   "amendment_law_id": "503AC0000000065",
+   "amendment_law_title": "航空法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20220620_502AC0000000061",
+   "amendment_promulgate_date": "2020-06-24",
+   "amendment_enforcement_date": "2022-06-20",
+   "amendment_law_id": "502AC0000000061",
+   "amendment_law_title": "無人航空機等の飛行による危害の発生を防止するための航空法及び重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20220531_504AC0000000044",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-31",
+   "amendment_law_id": "504AC0000000044",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329AC0000000165_20220420_504AC0000000026",
+   "amendment_promulgate_date": "2022-04-20",
+   "amendment_enforcement_date": "2022-04-20",
+   "amendment_law_id": "504AC0000000026",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　指揮監督",
+  "第三章　部隊",
+  "第四章　機関",
+  "第五章　隊員",
+  "第六章　自衛隊の行動",
+  "第七章　自衛隊の権限",
+  "第八章　雑則",
+  "第九章　罰則"
+ ],
+ "article1": {
+  "caption": "（この法律の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、自衛隊の任務、自衛隊の部隊の組織及び編成、自衛隊の行動及び権限、隊員の身分取扱等を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-06-09",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-03T10:29:55+09:00"
+ }
+}

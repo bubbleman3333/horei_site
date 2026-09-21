@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "324AC1000000101",
+  "law_num": "昭和二十四年法律第百一号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "101",
+  "promulgation_date": "1949-05-24"
+ },
+ "revision_info": {
+  "law_revision_id": "324AC1000000101_20100407_422AC0000000022",
+  "law_type": "Act",
+  "law_title": "国立国会図書館法の規定により行政各部門に置かれる支部図書館及びその職員に関する法律",
+  "law_title_kana": "こくりつこっかいとしょかんほうのきていによりぎょうせいかくぶもんにおかれるしぶとしょかんおよびそのしょくいんにかんするほうりつ",
+  "abbrev": "国立国会図書館支部図書館法",
+  "category": "国会",
+  "updated": "2024-11-19T09:37:42+09:00",
+  "amendment_promulgate_date": "2010-04-07",
+  "amendment_enforcement_date": "2010-04-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "422AC0000000022",
+  "amendment_law_title": null,
+  "amendment_law_num": "平成二十二年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324AC1000000101_20261001_508AC1000000049",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508AC1000000049",
+   "amendment_law_title": "国立国会図書館法及び国立国会図書館法の規定により行政各部門に置かれる支部図書館及びその職員に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC1000000101_20100407_422AC0000000022",
+   "amendment_promulgate_date": "2010-04-07",
+   "amendment_enforcement_date": "2010-04-07",
+   "amendment_law_id": "422AC0000000022",
+   "amendment_law_num": "平成二十二年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "次の表の上欄に掲げる国立国会図書館支部図書館（以下「支部図書館」という。）は、国立国会図書館法（昭和二十三年法律第五号）の規定によりそれぞれ下欄に掲げる行政機関に置かれたものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-05-24",
+  "fetched_at": "2026-09-21",
+  "updated": "2024-11-19T09:37:42+09:00"
+ }
+}

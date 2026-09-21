@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000216",
+  "law_num": "令和八年政令第二百十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "216",
+  "promulgation_date": "2026-06-25"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000216_20260625_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "家畜伝染病予防法の一部を改正する法律の施行期日を定める政令",
+  "law_title_kana": "かちくでんせんびょうよぼうほうのいちぶをかいせいするほうりつのしこうきじつをさだめるせいれい",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-09-10T22:33:31+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": "",
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000216_20260625_000000000000000",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "家畜伝染病予防法の一部を改正する法律の施行期日は令和八年七月一日とし、同法附則第一条第二号に掲げる規定の施行期日は令和九年五月一日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-06-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-10T22:33:31+09:00"
+ }
+}

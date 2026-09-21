@@ -1,0 +1,120 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "502AC1000000078",
+  "law_num": "令和二年法律第七十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "Act",
+  "law_num_num": "078",
+  "promulgation_date": "2020-12-11"
+ },
+ "revision_info": {
+  "law_revision_id": "502AC1000000078_20251001_504AC0000000104",
+  "law_type": "Act",
+  "law_title": "労働者協同組合法",
+  "law_title_kana": "ろうどうしゃきょうどうくみあいほう",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2025-10-01T11:12:46+09:00",
+  "amendment_promulgate_date": "2022-12-16",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000104",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第百四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502AC1000000078_20270401_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "502AC1000000078_20251001_504AC0000000104",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "504AC0000000104",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "502AC1000000078_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC1000000078_20221001_504AC1000000071",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504AC1000000071",
+   "amendment_law_title": "労働者協同組合法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC1000000078_20221001_000000000000000",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC1000000078_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502AC1000000078_20201211_000000000000000",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2020-12-11",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　労働者協同組合",
+  "第二章の二　特定労働者協同組合",
+  "第三章　労働者協同組合連合会",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、各人が生活との調和を保ちつつその意欲及び能力に応じて就労する機会が必ずしも十分に確保されていない現状等を踏まえ、組合員が出資し、それぞれの意見を反映して組合の事業が行われ、及び組合員自らが事業に従事することを基本原理とする組織に関し、設立、管理その他必要な事項を定めること等により、多様な就労の機会を創出することを促進するとともに、当該組織を通じて地域における多様な需要に応じた事業が行われることを促進し、もって持続可能で活力ある地域社会の実現に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-12-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T11:12:46+09:00"
+ }
+}

@@ -1,0 +1,130 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "355AC0000000036",
+  "law_num": "昭和五十五年法律第三十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 55,
+  "law_num_type": "Act",
+  "law_num_num": "036",
+  "promulgation_date": "1980-05-01"
+ },
+ "revision_info": {
+  "law_revision_id": "355AC0000000036_20240926_506AC0000000065",
+  "law_type": "Act",
+  "law_title": "犯罪被害者等給付金の支給等による犯罪被害者等の支援に関する法律",
+  "law_title_kana": "はんざいひがいしゃとうきゅうふきんのしきゅうとうによるはんざいひがいしゃとうのしえんにかんするほうりつ",
+  "abbrev": "犯給法",
+  "category": "警察",
+  "updated": "2024-09-27T00:01:38+09:00",
+  "amendment_promulgate_date": "2024-06-26",
+  "amendment_enforcement_date": "2024-09-26",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000065",
+  "amendment_law_title": "地方自治法の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第六十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "355AC0000000036_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000036_20240926_506AC0000000065",
+   "amendment_promulgate_date": "2024-06-26",
+   "amendment_enforcement_date": "2024-09-26",
+   "amendment_law_id": "506AC0000000065",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000036_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000036_20210519_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000036_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000036_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000036_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "355AC0000000036_20160401_426AC0000000042",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000042",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、犯罪行為により不慮の死を遂げた者の遺族又は重傷病を負い若しくは障害が残つた者の犯罪被害等を早期に軽減するとともに、これらの者が再び平穏な生活を営むことができるよう支援するため、犯罪被害等を受けた者に対し犯罪被害者等給付金を支給し、及び当該犯罪行為の発生後速やかに、かつ、継続的に犯罪被害等を受けた者を援助するための措置を講じ、もつて犯罪被害等を受けた者の権利利益の保護が図られる社会の実現に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1980-05-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2024-09-27T00:01:38+09:00"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000143",
+  "law_num": "令和八年政令第百四十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "143",
+  "promulgation_date": "2026-04-22"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000143_20260513_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "船員手帳に関する政令",
+  "law_title_kana": "せんいんてちょうにかんするせいれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-05-15T16:38:18+09:00",
+  "amendment_promulgate_date": "2026-04-22",
+  "amendment_enforcement_date": "2026-05-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000143_20260513_000000000000000",
+   "amendment_promulgate_date": "2026-04-22",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（記載事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "船員法第五十条第三項の規定により船員手帳に記載する事項は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-04-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-15T16:38:18+09:00"
+ }
+}

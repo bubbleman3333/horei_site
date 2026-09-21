@@ -1,0 +1,72 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000100003",
+  "law_num": "令和七年厚生労働省令第三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2025-01-17"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000100003_20260807_508M60000100123",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国立健康危機管理研究機構の業務運営、財務及び会計並びに人事管理に関する省令",
+  "law_title_kana": "こくりつけんこうききかんりけんきゅうきこうのぎょうむうんえい、ざいむおよびかいけいならびにじんじかんりにかんするしょうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-08-19T13:33:07+09:00",
+  "amendment_promulgate_date": "2026-08-05",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100123",
+  "amendment_law_title": "金融庁組織令の一部を改正する政令の施行に伴う厚生労働省関係省令の整理に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000100003_20260807_508M60000100123",
+   "amendment_promulgate_date": "2026-08-05",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000100123",
+   "amendment_law_title": "金融庁組織令の一部を改正する政令の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "507M60000100003_20250401_000000000000000",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "507M60000100003_20250117_000000000000000",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-01-17",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（子法人）",
+  "title": "第一条",
+  "paragraphs": [
+   "国立健康危機管理研究機構法（以下「法」という。）第七条第一号に規定する厚生労働省令で定めるものは、国立健康危機管理研究機構（以下「機構」という。）が他の会社等（会社、組合その他これらに準ずる事業体（外国におけるこれらに相当するものを含む。）をいう。以下同じ。）の財務及び事業の方針の決定を支配している場合における当該他の会社等であって、機構と業務を一体的に行っていると認められるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-01-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-19T13:33:07+09:00"
+ }
+}

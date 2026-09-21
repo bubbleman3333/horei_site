@@ -1,0 +1,192 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "415M60000008005",
+  "law_num": "平成十五年総務省令第五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "005",
+  "promulgation_date": "2003-01-14"
+ },
+ "revision_info": {
+  "law_revision_id": "415M60000008005_20260521_508M60000008058",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "郵便法施行規則",
+  "law_title_kana": "ゆうびんほうせこうきそく",
+  "abbrev": null,
+  "category": "郵務",
+  "updated": "2026-05-21T02:26:49+09:00",
+  "amendment_promulgate_date": "2026-04-02",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008058",
+  "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第五十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415M60000008005_20260521_508M60000008058",
+   "amendment_promulgate_date": "2026-04-02",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000008058",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20240613_506M60000008063",
+   "amendment_promulgate_date": "2024-06-13",
+   "amendment_enforcement_date": "2024-06-13",
+   "amendment_law_id": "506M60000008063",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20240401_505M60000008101",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000008101",
+   "amendment_law_title": "郵便法施行規則及び国際郵便規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20240328_506M60000008021",
+   "amendment_promulgate_date": "2024-03-28",
+   "amendment_enforcement_date": "2024-03-28",
+   "amendment_law_id": "506M60000008021",
+   "amendment_law_title": "郵便法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20220701_504M60000008044",
+   "amendment_promulgate_date": "2022-07-01",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504M60000008044",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20210520_503M60000008056",
+   "amendment_promulgate_date": "2021-05-20",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000008056",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20210501_503M60000008029",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000008029",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20210331_503M60000008029",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_law_id": "503M60000008029",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20200828_502M60000008080",
+   "amendment_promulgate_date": "2020-08-28",
+   "amendment_enforcement_date": "2020-08-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000008080",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20191214_501M60000008062",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008062",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20191001_501M60000008024",
+   "amendment_promulgate_date": "2019-07-08",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501M60000008024",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20190708_501M60000008024",
+   "amendment_promulgate_date": "2019-07-08",
+   "amendment_enforcement_date": "2019-07-08",
+   "amendment_law_id": "501M60000008024",
+   "amendment_law_title": "郵便法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20180101_429M60000008082",
+   "amendment_promulgate_date": "2017-12-21",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000008082",
+   "amendment_law_title": "郵便法施行規則及び国際郵便規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年総務省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "415M60000008005_20170331_429M60000008022",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-03-31",
+   "amendment_law_id": "429M60000008022",
+   "amendment_law_num": "平成二十九年総務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、郵便法（昭和二十二年法律第百六十五号。以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-01-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:26:49+09:00"
+ }
+}

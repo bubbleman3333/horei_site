@@ -1,0 +1,85 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "504M60000080021",
+  "law_num": "令和四年文部科学省令第二十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "021",
+  "promulgation_date": "2022-06-21"
+ },
+ "revision_info": {
+  "law_revision_id": "504M60000080021_20260401_507M60000080024",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "教育公務員特例法施行規則",
+  "law_title_kana": "きょういくこうむいんとくれいほうしこうきそく",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-02T21:44:55+09:00",
+  "amendment_promulgate_date": "2025-09-25",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000080024",
+  "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法施行規則及び教育公務員特例法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年文部科学省令第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504M60000080021_20260401_507M60000080024",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000080024",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法施行規則及び教育公務員特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504M60000080021_20260101_507M60000080024",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000080024",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法施行規則及び教育公務員特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000080021_20230401_505M60000080007",
+   "amendment_promulgate_date": "2023-03-24",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000080007",
+   "amendment_law_title": "教育公務員特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000080021_20230401_000000000000000",
+   "amendment_promulgate_date": "2022-06-21",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第十三条第二項の文部科学省令で定める基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "教育公務員特例法（以下「法」という。）第十三条第二項の文部科学省令で定める基準は、次の各号に掲げる校務の種類とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-06-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:44:55+09:00"
+ }
+}

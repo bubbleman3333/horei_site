@@ -1,0 +1,136 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "345M50000800007",
+  "law_num": "昭和四十五年運輸省令第七号",
+  "law_num_era": "Showa",
+  "law_num_year": 45,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "007",
+  "promulgation_date": "1970-02-20"
+ },
+ "revision_info": {
+  "law_revision_id": "345M50000800007_20260401_508M60000800041",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "自動車登録規則",
+  "law_title_kana": "じどうしゃとうろくきそく",
+  "abbrev": null,
+  "category": "陸運",
+  "updated": "2026-05-11T14:51:22+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800041",
+  "amendment_law_title": "自動車登録規則及び自動車の登録及び検査に関する申請書等の様式等を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第四十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "345M50000800007_20260401_508M60000800041",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800041",
+   "amendment_law_title": "自動車登録規則及び自動車の登録及び検査に関する申請書等の様式等を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "345M50000800007_20250507_507M60000800059",
+   "amendment_promulgate_date": "2025-04-30",
+   "amendment_enforcement_date": "2025-05-07",
+   "amendment_law_id": "507M60000800059",
+   "amendment_law_title": "自動車登録規則及び道路交通に関する条約の実施に伴う道路運送車両法の特例等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000800007_20241202_506M60000800102",
+   "amendment_promulgate_date": "2024-12-02",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000800102",
+   "amendment_law_title": "航空法施行規則及び自動車登録規則の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000800007_20230101_504M60000800045",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000800045",
+   "amendment_law_title": "道路運送車両法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000800007_20220228_504M60000800008",
+   "amendment_promulgate_date": "2022-02-28",
+   "amendment_enforcement_date": "2022-02-28",
+   "amendment_law_id": "504M60000800008",
+   "amendment_law_title": "自動車登録規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000800007_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000800007_20200511_502M60000800045",
+   "amendment_promulgate_date": "2020-04-10",
+   "amendment_enforcement_date": "2020-05-11",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800045",
+   "amendment_law_title": "自動車登録規則及び道路交通に関する条約の実施に伴う道路運送車両法の特例等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "345M50000800007_20170401_428M60000800087",
+   "amendment_promulgate_date": "2016-12-28",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428M60000800087",
+   "amendment_law_num": "平成二十八年国土交通省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　自動車登録ファイル及び電子情報処理組織",
+  "第二章　登録の申請等の手続",
+  "第三章　登録等の手続",
+  "第四章　登録事項等証明書の交付等に係る手続",
+  "第四章の二　独立行政法人自動車技術総合機構の確認調査に係る手続",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（現在記録ファイルに記録する事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "自動車登録令（昭和二十六年政令第二百五十六号。以下「令」という。）第六条第二項の国土交通省令で定める事項は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1970-02-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-11T14:51:22+09:00"
+ }
+}

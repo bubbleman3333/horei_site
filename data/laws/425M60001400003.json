@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "425M60001400003",
+  "law_num": "平成二十五年経済産業省・環境省令第三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2013-03-06"
+ },
+ "revision_info": {
+  "law_revision_id": "425M60001400003_20260701_508M60001400009",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "使用済小型電子機器等の再資源化の促進に関する法律施行規則",
+  "law_title_kana": "しようずみこがたでんしききとうのさいしげんかのそくしんにかんするほうりつしこうきそく",
+  "abbrev": "小型家電リサイクル法施行規則",
+  "category": "工業",
+  "updated": "2026-07-15T10:26:53+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001400009",
+  "amendment_law_title": "使用済小型電子機器等の再資源化の促進に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省・環境省令第九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425M60001400003_20260701_508M60001400009",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001400009",
+   "amendment_law_title": "使用済小型電子機器等の再資源化の促進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省・環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425M60001400003_20190701_501M60001400003",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60001400003",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省・環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年経済産業省・環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60001400003_20150401_427M60001400001",
+   "amendment_promulgate_date": "2015-01-08",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60001400001",
+   "amendment_law_num": "平成二十七年経済産業省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、使用済小型電子機器等の再資源化の促進に関する法律（以下「法」という。）及び使用済小型電子機器等の再資源化の促進に関する法律施行令（平成二十五年政令第四十五号）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-03-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-15T10:26:53+09:00"
+ }
+}

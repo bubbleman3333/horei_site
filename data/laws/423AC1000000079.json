@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "423AC1000000079",
+  "law_num": "平成二十三年法律第七十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "Act",
+  "law_num_num": "079",
+  "promulgation_date": "2011-06-24"
+ },
+ "revision_info": {
+  "law_revision_id": "423AC1000000079_20251001_504AC0000000104",
+  "law_type": "Act",
+  "law_title": "障害者虐待の防止、障害者の養護者に対する支援等に関する法律",
+  "law_title_kana": "しょうがいしゃぎゃくたいのぼうししょうがいしゃのようごしゃにたいするしえんとうにかんするほうりつ",
+  "abbrev": "障害者虐待防止法",
+  "category": "社会福祉",
+  "updated": "2025-10-01T10:17:11+09:00",
+  "amendment_promulgate_date": "2022-12-16",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000104",
+  "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第百四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423AC1000000079_20251001_504AC0000000104",
+   "amendment_promulgate_date": "2022-12-16",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "504AC0000000104",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423AC1000000079_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC1000000079_20230401_504AC0000000076",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000076",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC1000000079_20220622_504AC0000000076",
+   "amendment_promulgate_date": "2022-06-22",
+   "amendment_enforcement_date": "2022-06-22",
+   "amendment_law_id": "504AC0000000076",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律",
+   "amendment_law_num": "令和四年法律第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC1000000079_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC1000000079_20180401_428AC0000000065",
+   "amendment_promulgate_date": "2016-06-03",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "428AC0000000065",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律及び児童福祉法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423AC1000000079_20150401_424AC0000000067",
+   "amendment_promulgate_date": "2012-08-22",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "424AC0000000067",
+   "amendment_law_num": "平成二十四年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　養護者による障害者虐待の防止、養護者に対する支援等",
+  "第三章　障害者福祉施設従事者等による障害者虐待の防止等",
+  "第四章　使用者による障害者虐待の防止等",
+  "第五章　就学する障害者等に対する虐待の防止等",
+  "第六章　市町村障害者虐待防止センター及び都道府県障害者権利擁護センター",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、障害者に対する虐待が障害者の尊厳を害するものであり、障害者の自立及び社会参加にとって障害者に対する虐待を防止することが極めて重要であること等に鑑み、障害者に対する虐待の禁止、障害者虐待の予防及び早期発見その他の障害者虐待の防止等に関する国等の責務、障害者虐待を受けた障害者に対する保護及び自立の支援のための措置、養護者の負担の軽減を図ること等の養護者に対する養護者による障害者虐待の防止に資する支援（以下「養護者に対する支援」という。）のための措置等を定めることにより、障害者虐待の防止、養護者に対する支援等に関する施策を促進し、もって障害者の権利利益の擁護に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-06-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T10:17:11+09:00"
+ }
+}

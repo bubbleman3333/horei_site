@@ -1,0 +1,129 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "340M50010000017",
+  "law_num": "昭和四十年農林省令第十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "1965-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "340M50010000017_20260724_508M60000200051",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農林水産技術会議事務局組織規則",
+  "law_title_kana": "のうりんすいさんぎじゅつかいぎじむきょくそしききそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-10T09:31:03+09:00",
+  "amendment_promulgate_date": "2026-07-24",
+  "amendment_enforcement_date": "2026-07-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200051",
+  "amendment_law_title": "農林水産技術会議事務局組織規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340M50010000017_20260724_508M60000200051",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2026-07-24",
+   "amendment_law_id": "508M60000200051",
+   "amendment_law_title": "農林水産技術会議事務局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340M50010000017_20260401_508M60000200025",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000200025",
+   "amendment_law_title": "農林水産技術会議事務局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50010000017_20250401_507M60000200017",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000200017",
+   "amendment_law_title": "農林水産技術会議事務局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50010000017_20220401_504M60000200025",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000200025",
+   "amendment_law_title": "農林水産技術会議事務局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50010000017_20210401_503M60000200021",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000200021",
+   "amendment_law_title": "農林水産技術会議事務局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和三年農林水産省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50010000017_20190117_431M60000200003",
+   "amendment_promulgate_date": "2019-01-17",
+   "amendment_enforcement_date": "2019-01-17",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000200003",
+   "amendment_law_title": "農林水産省関係研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50010000017_20180401_430M60000200021",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000200021",
+   "amendment_law_title": "農林水産技術会議事務局組織規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年農林水産省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340M50010000017_20160401_428M60000200021",
+   "amendment_promulgate_date": "2016-03-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000200021",
+   "amendment_law_num": "平成二十八年農林水産省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（事務局に置く課等）",
+  "title": "第一条",
+  "paragraphs": [
+   "事務局に、次の三課及び国際研究官一人を置く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-10T09:31:03+09:00"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "507RJNJ09153000",
+  "law_num": "令和七年人事院規則九―一五三",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "Rule",
+  "law_num_num": "9_153",
+  "promulgation_date": "2025-12-24"
+ },
+ "revision_info": {
+  "law_revision_id": "507RJNJ09153000_20251224_000000000000000",
+  "law_type": "Rule",
+  "law_title": "令和七年改正法附則第二条の規定による最高の号俸を超える俸給月額を受ける特定任期付職員の俸給月額の切替え",
+  "law_title_kana": "れいわしちねんかいせいほうふそくだいにじょうのきていによるさいこうのごうほうをこえるほうきゅうげつがくをうけるとくていにんきつきしょくいんのほうきゅうげつがくのきりかえ",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-01-16T09:54:44+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2025-12-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507RJNJ09153000_20251224_000000000000000",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2025-12-24",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "令和七年四月一日（以下「適用日」という。）の前日において任期付職員法第七条第三項の規定による俸給月額を受けていた職員の適用日における俸給月額は、その者の適用日の前日における俸給月額に対応する次の表の新俸給月額欄に定める俸給月額とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-12-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-16T09:54:44+09:00"
+ }
+}

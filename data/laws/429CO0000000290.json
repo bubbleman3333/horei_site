@@ -1,0 +1,84 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "429CO0000000290",
+  "law_num": "平成二十九年政令第二百九十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 29,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "290",
+  "promulgation_date": "2017-11-27"
+ },
+ "revision_info": {
+  "law_revision_id": "429CO0000000290_20251001_507CO0000000337",
+  "law_type": "CabinetOrder",
+  "law_title": "民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律施行令",
+  "law_title_kana": "みんかんあっせんきかんによるようしえんぐみのあっせんにかかるじどうのほごとうにかんするほうりつせこうれい",
+  "abbrev": "養子縁組あっせん法施行令",
+  "category": "社会福祉",
+  "updated": "2025-10-08T00:27:56+09:00",
+  "amendment_promulgate_date": "2025-09-25",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000337",
+  "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百三十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "429CO0000000290_20251001_507CO0000000337",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000337",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000290_20190614_501CO0000000027",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501CO0000000027",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律の施行に伴う厚生労働省関係政令の整理等に関する政令",
+   "amendment_law_num": "令和元年政令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000290_20180401_000000000000000",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "429CO0000000290_20180101_000000000000000",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第八条第四号の政令で定める法律）",
+  "title": "第一条",
+  "paragraphs": [
+   "民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律（以下「法」という。）第八条第四号の政令で定める法律は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2017-11-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-08T00:27:56+09:00"
+ }
+}

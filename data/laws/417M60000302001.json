@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000302001",
+  "law_num": "平成十七年内閣府・厚生労働省・農林水産省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2005-03-24"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000302001_20260625_508M60000302001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "協同組織金融機関の優先出資に関する法律に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する命令",
+  "law_title_kana": "きょうどうそしききんゆうきかんのゆうせんしゅっしにかんするほうりつにかかるみんかんじぎょうしゃとうがおこなうしょめんのほぞんとうにおけるじょうほうつうしんのぎじゅつのりようにかんするめいれい",
+  "abbrev": "優先出資法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する命令",
+  "category": "行政手続",
+  "updated": "2026-07-08T10:20:17+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000302001",
+  "amendment_law_title": "協同組織金融機関の優先出資に関する法律に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・厚生労働省・農林水産省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000302001_20260625_508M60000302001",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508M60000302001",
+   "amendment_law_title": "協同組織金融機関の優先出資に関する法律に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・厚生労働省・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000302001_20231227_505M60000302001",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000302001",
+   "amendment_law_title": "協同組織金融機関の優先出資に関する法律に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・厚生労働省・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000302001_20060501_418M60000302001",
+   "amendment_promulgate_date": "2006-04-26",
+   "amendment_enforcement_date": "2006-05-01",
+   "amendment_law_id": "418M60000302001",
+   "amendment_law_num": "平成十八年内閣府・厚生労働省・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "民間事業者等が、協同組織金融機関の優先出資に関する法律（以下「優先出資法」という。）に係る保存等を、電磁的記録を使用して行う場合については、他の法律及び法律に基づく命令（告示を含む。）に特別の定めのある場合を除くほか、この命令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-03-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T10:20:17+09:00"
+ }
+}

@@ -1,0 +1,235 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "424M60000040006",
+  "law_num": "平成二十四年財務省令第六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "2012-01-25"
+ },
+ "revision_info": {
+  "law_revision_id": "424M60000040006_20260901_506M60000040028",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "復興特別所得税に関する省令",
+  "law_title_kana": "ふっこうとくべつしょとくぜいにかんするしょうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-09-01T00:29:12+09:00",
+  "amendment_promulgate_date": "2024-03-30",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000040028",
+  "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和六年財務省令第二十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424M60000040006_20270101_508M60000040025",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508M60000040025",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20260901_506M60000040028",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "506M60000040028",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20260401_508M60000040025",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000040025",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20240601_506M60000040028",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506M60000040028",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20240101_505M60000040025",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000040025",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20240101_503M60000040028",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "503M60000040028",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20231001_504M60000040023",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "504M60000040023",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20220101_503M60000040028",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503M60000040028",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20210401_503M60000040028",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040028",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20200401_502M60000040021",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040021",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20200101_431M60000040014",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040014",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20200101_430M60000040030",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040030",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20190401_431M60000048006",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000048006",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律の施行に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年総務省・財務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20190401_431M60000040014",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040014",
+   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20190401_431M60000040006",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60000040006",
+   "amendment_law_title": "所得税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20190101_430M60000040030",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040030",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20180401_430M60000040030",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040030",
+   "amendment_law_title": "復興特別所得税に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040006_20170104_428M60000040021",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2017-01-04",
+   "amendment_law_id": "428M60000040021",
+   "amendment_law_num": "平成二十八年財務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、「復興特別所得税申告書」とは、東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法（以下「法」という。）第六条第八号に規定する復興特別所得税申告書をいう。",
+   "この省令において、「国内」とは、所得税法（昭和四十年法律第三十三号）第二条第一項第一号に規定する国内をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-01-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-01T00:29:12+09:00"
+ }
+}

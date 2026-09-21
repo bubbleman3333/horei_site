@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "414CO0000000389",
+  "law_num": "平成十四年政令第三百八十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "389",
+  "promulgation_date": "2002-12-20"
+ },
+ "revision_info": {
+  "law_revision_id": "414CO0000000389_20260701_508CO0000000205",
+  "law_type": "CabinetOrder",
+  "law_title": "使用済自動車の再資源化等に関する法律施行令",
+  "law_title_kana": "しようずみじどうしゃのさいしげんかとうにかんするほうりつせこうれい",
+  "abbrev": "自動車リサイクル法施行令",
+  "category": "工業",
+  "updated": "2026-07-07T10:48:17+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000205",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414CO0000000389_20260701_508CO0000000205",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000205",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000389_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000389_20191214_501CO0000000088",
+   "amendment_promulgate_date": "2019-09-06",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501CO0000000088",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000389_20140520_426CO0000000166",
+   "amendment_promulgate_date": "2014-04-23",
+   "amendment_enforcement_date": "2014-05-20",
+   "amendment_law_id": "426CO0000000166",
+   "amendment_law_title": "自動車の運転により人を死傷させる行為等の処罰に関する法律施行令",
+   "amendment_law_num": "平成二十六年政令第百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（自動車から除かれるもの）",
+  "title": "第一条",
+  "paragraphs": [
+   "使用済自動車の再資源化等に関する法律（以下「法」という。）第二条第一項第四号の政令で定める自動車は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-12-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-07T10:48:17+09:00"
+ }
+}

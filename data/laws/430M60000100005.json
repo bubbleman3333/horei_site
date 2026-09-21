@@ -1,0 +1,125 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "430M60000100005",
+  "law_num": "平成三十年厚生労働省令第五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "005",
+  "promulgation_date": "2018-01-18"
+ },
+ "revision_info": {
+  "law_revision_id": "430M60000100005_20251120_507M60000100103",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "介護医療院の人員、施設及び設備並びに運営に関する基準",
+  "law_title_kana": "かいごいりょういんのじんいんしせつおよびせつびならびにうんえいにかんするきじゅん",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2025-11-20T00:55:50+09:00",
+  "amendment_promulgate_date": "2025-10-22",
+  "amendment_enforcement_date": "2025-11-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100103",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430M60000100005_20251120_507M60000100103",
+   "amendment_promulgate_date": "2025-10-22",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507M60000100103",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430M60000100005_20240401_506M60000100016",
+   "amendment_promulgate_date": "2024-01-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100016",
+   "amendment_law_title": "指定居宅サービス等の事業の人員、設備及び運営に関する基準等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000100005_20231226_505M60000100161",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2023-12-26",
+   "amendment_law_id": "505M60000100161",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000100005_20210401_503M60000100009",
+   "amendment_promulgate_date": "2021-01-25",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100009",
+   "amendment_law_title": "指定居宅サービス等の事業の人員、設備及び運営に関する基準等の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000100005_20190101_430M60000100139",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430M60000100139",
+   "amendment_law_title": "医師法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000100005_20181201_430M60000100093",
+   "amendment_promulgate_date": "2018-07-27",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_law_id": "430M60000100093",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "430M60000100005_20180401_000000000000000",
+   "amendment_promulgate_date": "2018-01-18",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　趣旨、基本方針等",
+  "第二章　人員に関する基準",
+  "第三章　施設及び設備に関する基準",
+  "第四章　運営に関する基準",
+  "第五章　ユニット型介護医療院の基本方針並びに施設、設備及び運営に関する基準",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "介護医療院に係る介護保険法（平成九年法律第百二十三号。以下「法」という。）第百十一条第一項の規定による療養室、診察室、処置室及び機能訓練室の基準並びに同条第二項の規定による医師及び看護師の員数の基準は、それぞれ次に定める基準とする。",
+   "介護医療院に係る法第百十一条第四項の厚生労働省令で定める基準は、次の各号に掲げる基準に応じ、それぞれ当該各号に定める基準とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-01-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-20T00:55:50+09:00"
+ }
+}

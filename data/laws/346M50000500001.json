@@ -1,0 +1,187 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "346M50000500001",
+  "law_num": "昭和四十六年厚生省・通商産業省令第一号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1971-06-22"
+ },
+ "revision_info": {
+  "law_revision_id": "346M50000500001_20260701_508M60001000019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "大気汚染防止法施行規則",
+  "law_title_kana": "たいきおせんぼうしほうしこうきそく",
+  "abbrev": "大防法施行規則",
+  "category": "環境保全",
+  "updated": "2026-07-09T15:13:35+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000019",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年環境省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346M50000500001_20260701_508M60001000019",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001000019",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20260401_508M60001000006",
+   "amendment_promulgate_date": "2026-03-17",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60001000006",
+   "amendment_law_title": "大気汚染防止法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20260101_505M60001000010",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "505M60001000010",
+   "amendment_law_title": "大気汚染防止法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年環境省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20251001_507M60001000004",
+   "amendment_promulgate_date": "2025-02-17",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60001000004",
+   "amendment_law_title": "大気汚染防止法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年環境省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20240401_506M60001000017",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60001000017",
+   "amendment_law_title": "環境省の所管する法律の規定に基づく立入検査等をする国の職員の携帯する身分を示す証明書の様式を定める省令",
+   "amendment_law_num": "令和六年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20231001_502M60001000025",
+   "amendment_promulgate_date": "2020-10-15",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "502M60001000025",
+   "amendment_law_title": "大気汚染防止法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和二年環境省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20221001_504M60001000004",
+   "amendment_promulgate_date": "2022-03-03",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60001000004",
+   "amendment_law_title": "大気汚染防止法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年環境省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20220401_502M60001000025",
+   "amendment_promulgate_date": "2020-10-15",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502M60001000025",
+   "amendment_law_title": "大気汚染防止法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和二年環境省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20210401_503M60001000003",
+   "amendment_promulgate_date": "2021-03-25",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60001000003",
+   "amendment_law_title": "水質汚濁防止法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20210401_502M60001000025",
+   "amendment_promulgate_date": "2020-10-15",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60001000025",
+   "amendment_law_title": "大気汚染防止法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和二年環境省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20201228_502M60001000031",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60001000031",
+   "amendment_law_title": "押印を求める手続の見直し等のための環境省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20200330_502M60001000009",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60001000009",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和二年環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20180401_428M60001000022",
+   "amendment_promulgate_date": "2016-09-26",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "428M60001000022",
+   "amendment_law_title": "大気汚染防止法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十八年環境省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000500001_20170106_429M60001000001",
+   "amendment_promulgate_date": "2017-01-06",
+   "amendment_enforcement_date": "2017-01-06",
+   "amendment_law_id": "429M60001000001",
+   "amendment_law_num": "平成二十九年環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令で使用する用語は、大気汚染防止法（昭和四十三年法律第九十七号。以下「法」という。）及び大気汚染防止法施行令（昭和四十三年政令第三百二十九号。以下「令」という。）で使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-06-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-09T15:13:35+09:00"
+ }
+}

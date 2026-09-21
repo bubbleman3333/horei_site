@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "409CO0000000346",
+  "law_num": "平成九年政令第三百四十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "346",
+  "promulgation_date": "1997-12-03"
+ },
+ "revision_info": {
+  "law_revision_id": "409CO0000000346_20260401_507CO0000000384",
+  "law_type": "CabinetOrder",
+  "law_title": "環境影響評価法施行令",
+  "law_title_kana": "かんきょうえいきょうひょうかほうしこうれい",
+  "abbrev": "環境アセスメント法施行令,環境アセス法施行令",
+  "category": "環境保全",
+  "updated": "2026-04-02T00:07:29+09:00",
+  "amendment_promulgate_date": "2025-11-19",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000384",
+  "amendment_law_title": "環境影響評価法施行令及び電気事業法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百八十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409CO0000000346_20270401_508CO0000000230",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508CO0000000230",
+   "amendment_law_title": "環境影響評価法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000346_20260401_507CO0000000384",
+   "amendment_promulgate_date": "2025-11-19",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000384",
+   "amendment_law_title": "環境影響評価法施行令及び電気事業法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000346_20251001_507CO0000000330",
+   "amendment_promulgate_date": "2025-09-19",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000330",
+   "amendment_law_title": "環境影響評価法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000346_20220401_504CO0000000167",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000167",
+   "amendment_law_title": "沖縄振興特別措置法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000346_20220401_504CO0000000084",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000084",
+   "amendment_law_title": "軌道法に規定する国土交通大臣の権限に属する事務で都道府県が処理するもの等を定める政令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000346_20211031_503CO0000000283",
+   "amendment_promulgate_date": "2021-10-04",
+   "amendment_enforcement_date": "2021-10-31",
+   "amendment_law_id": "503CO0000000283",
+   "amendment_law_title": "環境影響評価法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000346_20200401_501CO0000000053",
+   "amendment_promulgate_date": "2019-07-05",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000053",
+   "amendment_law_title": "環境影響評価法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000346_20190325_431CO0000000061",
+   "amendment_promulgate_date": "2019-03-25",
+   "amendment_enforcement_date": "2019-03-25",
+   "amendment_law_id": "431CO0000000061",
+   "amendment_law_title": "環境影響評価法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000346_20160930_428CO0000000322",
+   "amendment_promulgate_date": "2016-09-30",
+   "amendment_enforcement_date": "2016-09-30",
+   "amendment_law_id": "428CO0000000322",
+   "amendment_law_title": "環境影響評価法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（第一種事業）",
+  "title": "第一条",
+  "paragraphs": [
+   "環境影響評価法（以下「法」という。）第二条第二項の政令で定める事業は、別表第一の第一欄に掲げる事業の種類ごとにそれぞれ同表の第二欄に掲げる要件に該当する一の事業とする。ただし、当該事業が同表の一の項から五の項まで又は八の項から十三の項までの第二欄に掲げる要件のいずれかに該当し、かつ、公有水面の埋立て又は干拓（同表の七の項の第二欄に掲げる要件に該当するもの及び同表の七の項の第三欄に掲げる要件に該当することを理由として法第四条第三項第一号の措置がとられたものに限る。以下「対象公有水面埋立て等」という。）を伴うものであるときは、対象公有水面埋立て等である部分を除くものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-12-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T00:07:29+09:00"
+ }
+}

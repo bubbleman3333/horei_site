@@ -1,0 +1,298 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "362CO0000000335",
+  "law_num": "昭和六十二年政令第三百三十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 62,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "335",
+  "promulgation_date": "1987-09-29"
+ },
+ "revision_info": {
+  "law_revision_id": "362CO0000000335_20260521_506CO0000000150",
+  "law_type": "CabinetOrder",
+  "law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令",
+  "law_title_kana": "そぜいじょうやくとうのじっしにともなうしょとくぜいほうほうじんぜいほうおよびちほうぜいほうのとくれいとうにかんするほうりつせこうれい",
+  "abbrev": "租税条約等実施特例法施行令",
+  "category": "国税",
+  "updated": "2026-05-21T01:47:19+09:00",
+  "amendment_promulgate_date": "2024-03-30",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506CO0000000150",
+  "amendment_law_title": "国税徴収法施行令の一部を改正する政令",
+  "amendment_law_num": "令和六年政令第百五十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "362CO0000000335_20260521_506CO0000000150",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "506CO0000000150",
+   "amendment_law_title": "国税徴収法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20260401_508CO0000000099",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000099",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20260101_507CO0000000119",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000119",
+   "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20260101_506CO0000000215",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "506CO0000000215",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20250401_507CO0000000006",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000006",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20250101_505CO0000000148",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "505CO0000000148",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20240101_504CO0000000133",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504CO0000000133",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20230401_505CO0000000148",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000148",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20220401_504CO0000000154",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000154",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20220401_504CO0000000133",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000133",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20220401_502CO0000000207",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000207",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20220101_503CO0000000117",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000117",
+   "amendment_law_title": "国税通則法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20220101_503CO0000000113",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000113",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20220101_502CO0000000143",
+   "amendment_promulgate_date": "2020-04-08",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "502CO0000000143",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20210101_502CO0000000109",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000109",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20200401_502CO0000000124",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000124",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20200401_502CO0000000111",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000111",
+   "amendment_law_title": "所得税法施行令及び災害被害者に対する租税の減免、徴収猶予等に関する法律の施行に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20200401_502CO0000000109",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000109",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20200101_431CO0000000087",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "431CO0000000087",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20200101_430CO0000000131",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "430CO0000000131",
+   "amendment_law_title": "所得税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20190401_431CO0000000104",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000104",
+   "amendment_law_title": "租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20190101_430CO0000000143",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_law_id": "430CO0000000143",
+   "amendment_law_title": "国税徴収法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20180101_429CO0000000105",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429CO0000000105",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "362CO0000000335_20170401_429CO0000000105",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000105",
+   "amendment_law_title": "所得税法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において、「租税条約」、「相手国等」、「相手国居住者等」又は「限度税率」とは、それぞれ租税条約等の実施に伴う所得税法、法人税法及び地方税法の特例等に関する法律（以下「法」という。）第二条に規定する租税条約、相手国等、相手国居住者等又は限度税率をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1987-09-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:47:19+09:00"
+ }
+}

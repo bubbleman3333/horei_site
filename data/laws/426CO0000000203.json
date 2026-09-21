@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "426CO0000000203",
+  "law_num": "平成二十六年政令第二百三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "203",
+  "promulgation_date": "2014-06-04"
+ },
+ "revision_info": {
+  "law_revision_id": "426CO0000000203_20260401_507CO0000000333",
+  "law_type": "CabinetOrder",
+  "law_title": "就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律施行令",
+  "law_title_kana": "しゅうがくまえのこどもにかんするきょういくほいくとうのそうごうてきなていきょうのすいしんにかんするほうりつしこうれい",
+  "abbrev": "認定こども園法施行令",
+  "category": "教育",
+  "updated": "2026-08-28T16:15:28+09:00",
+  "amendment_promulgate_date": "2025-09-25",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000333",
+  "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百三十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426CO0000000203_20260401_507CO0000000333",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000333",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000203_20251001_507CO0000000337",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000337",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000203_20250328_507CO0000000096",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-03-28",
+   "amendment_law_id": "507CO0000000096",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う厚生労働省関係政令等の整備及び経過措置に関する政令及び就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000203_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000203_20230329_505CO0000000082",
+   "amendment_promulgate_date": "2023-03-29",
+   "amendment_enforcement_date": "2023-03-29",
+   "amendment_law_id": "505CO0000000082",
+   "amendment_law_title": "就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000203_20180927_430CO0000000273",
+   "amendment_promulgate_date": "2018-09-27",
+   "amendment_enforcement_date": "2018-09-27",
+   "amendment_law_id": "430CO0000000273",
+   "amendment_law_title": "就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000203_20180401_429CO0000000290",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000290",
+   "amendment_law_title": "民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律施行令",
+   "amendment_law_num": "平成二十九年政令第二百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000203_20170922_429CO0000000246",
+   "amendment_promulgate_date": "2017-09-21",
+   "amendment_enforcement_date": "2017-09-22",
+   "amendment_law_id": "429CO0000000246",
+   "amendment_law_title": "国家戦略特別区域法及び構造改革特別区域法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000203_20170401_428CO0000000353",
+   "amendment_promulgate_date": "2016-11-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000353",
+   "amendment_law_title": "地方独立行政法人法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第三条第五項第四号ロ及び第十七条第二項第一号の政令で定める国民の福祉又は学校教育に関する法律）",
+  "title": "第一条",
+  "paragraphs": [
+   "就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（以下「法」という。）第三条第五項第四号ロ及び第十七条第二項第一号の政令で定める国民の福祉又は学校教育に関する法律は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-06-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-28T16:15:28+09:00"
+ }
+}

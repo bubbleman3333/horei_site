@@ -1,0 +1,119 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "413M60000400105",
+  "law_num": "平成十三年経済産業省令第百五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "105",
+  "promulgation_date": "2001-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "413M60000400105_20260731_508M60000400064",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "貿易保険法施行規則",
+  "law_title_kana": "ぼうえきほけんほうしこうきそく",
+  "abbrev": null,
+  "category": "外国為替・貿易",
+  "updated": "2026-08-20T09:57:52+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400064",
+  "amendment_law_title": "貿易保険法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413M60000400105_20260731_508M60000400064",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508M60000400064",
+   "amendment_law_title": "貿易保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400105_20250213_507M60000400012",
+   "amendment_promulgate_date": "2025-02-13",
+   "amendment_enforcement_date": "2025-02-13",
+   "amendment_law_id": "507M60000400012",
+   "amendment_law_title": "貿易保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400105_20230701_505M60000400031",
+   "amendment_promulgate_date": "2023-06-02",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60000400031",
+   "amendment_law_title": "貿易保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400105_20221223_504M60000400102",
+   "amendment_promulgate_date": "2022-12-23",
+   "amendment_enforcement_date": "2022-12-23",
+   "amendment_law_id": "504M60000400102",
+   "amendment_law_title": "貿易保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400105_20220701_504M60000400056",
+   "amendment_promulgate_date": "2022-06-29",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504M60000400056",
+   "amendment_law_title": "貿易保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400105_20180901_430M60000400052",
+   "amendment_promulgate_date": "2018-08-31",
+   "amendment_enforcement_date": "2018-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000400052",
+   "amendment_law_title": "貿易保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年経済産業省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413M60000400105_20170401_429M60000400026",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000400026",
+   "amendment_law_num": "平成二十九年経済産業省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、「輸出契約」、「仲介貿易契約」、「技術提供契約」、「外国政府等」、「出資外国法人等」、「出資外国法人等販売契約」、「出資外国法人等仲介貿易契約」、「出資外国法人等技術提供契約」、「貿易代金貸付金債権等」、「輸出保証」、「前払購入契約」、「海外投資」、「海外事業資金貸付」、「海外事業資金貸付金債権等」、「信用状確認者」、「信用状発行者」、「特定引受け」、「保険契約等」、「保険金等」、「引受条件」、「前払金」又は「スワップ取引」とは、それぞれ貿易保険法（昭和二十五年法律第六十七号。以下「法」という。）第二条第一項、第三項、第五項、第九項から第十五項まで、若しくは第十七項から第十九項まで、第十六条の二第一項、第二十二条、第二十三条、第四十条第一項、第六十六条第二項又は第七十四条第二項に規定する輸出契約、仲介貿易契約、技術提供契約、外国政府等、出資外国法人等、出資外国法人等販売契約、出資外国法人等仲介貿易契約、出資外国法人等技術提供契約、貿易代金貸付金債権等、輸出保証、前払購入契約、海外投資、海外事業資金貸付、海外事業資金貸付金債権等、信用状確認者、信用状発行者、特定引受け、保険契約等、保険金等、引受条件、前払金又はスワップ取引をいう。",
+   "この省令において、「子会社」とは、次の各号のいずれかに該当するものをいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-20T09:57:52+09:00"
+ }
+}

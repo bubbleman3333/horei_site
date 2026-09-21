@@ -1,0 +1,264 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "325AC1000000202",
+  "law_num": "昭和二十五年法律第二百二号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "202",
+  "promulgation_date": "1950-05-24"
+ },
+ "revision_info": {
+  "law_revision_id": "325AC1000000202_20260731_508AC1000000074",
+  "law_type": "Act",
+  "law_title": "建築士法",
+  "law_title_kana": "けんちくしほう",
+  "abbrev": null,
+  "category": "建築・住宅",
+  "updated": "2026-08-14T13:15:10+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC1000000074",
+  "amendment_law_title": "建築士法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第七十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325AC1000000202_20290730_508AC1000000074",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2029-07-30",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2029-07-30",
+   "amendment_law_id": "508AC1000000074",
+   "amendment_law_title": "建築士法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20270730_508AC1000000074",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2027-07-30",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-07-30",
+   "amendment_law_id": "508AC1000000074",
+   "amendment_law_title": "建築士法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20260731_508AC1000000074",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508AC1000000074",
+   "amendment_law_title": "建築士法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20250401_504AC0000000069",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "504AC0000000069",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20240401_504AC0000000069",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "504AC0000000069",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20220617_504AC0000000069",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000069",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20210901_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20210826_503AC0000000044",
+   "amendment_promulgate_date": "2021-05-26",
+   "amendment_enforcement_date": "2021-08-26",
+   "amendment_law_id": "503AC0000000044",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20210526_503AC0000000044",
+   "amendment_promulgate_date": "2021-05-26",
+   "amendment_enforcement_date": "2021-05-26",
+   "amendment_law_id": "503AC0000000044",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20200301_430AC1000000093",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2020-03-01",
+   "amendment_law_id": "430AC1000000093",
+   "amendment_law_title": "建築士法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20191201_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-01",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20190607_501AC0000000026",
+   "amendment_promulgate_date": "2019-06-07",
+   "amendment_enforcement_date": "2019-06-07",
+   "amendment_law_id": "501AC0000000026",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20190401_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20170531_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-05-31",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325AC1000000202_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　免許等",
+  "第三章　試験",
+  "第四章　業務",
+  "第四章の二　設計受託契約等",
+  "第五章　建築士会及び建築士会連合会",
+  "第六章　建築士事務所",
+  "第七章　建築士事務所協会及び建築士事務所協会連合会",
+  "第八章　建築士審査会",
+  "第九章　雑則",
+  "第十章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、建築物の設計、工事監理等を行う技術者の資格を定めて、その業務の適正をはかり、もつて建築物の質の向上に寄与させることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-05-24",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-14T13:15:10+09:00"
+ }
+}

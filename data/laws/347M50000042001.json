@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "347M50000042001",
+  "law_num": "昭和四十七年総理府・大蔵省令第一号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1972-08-01"
+ },
+ "revision_info": {
+  "law_revision_id": "347M50000042001_20260401_508M60000042001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "沖縄振興開発金融公庫法施行規則",
+  "law_title_kana": "おきなわしんこうかいはつきんゆうこうこほうせこうきそく",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-05-13T12:41:37+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000042001",
+  "amendment_law_title": "沖縄振興開発金融公庫法施行規則の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・財務省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347M50000042001_20260401_508M60000042001",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000042001",
+   "amendment_law_title": "沖縄振興開発金融公庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347M50000042001_20220401_504M60000042001",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000042001",
+   "amendment_law_title": "沖縄振興開発金融公庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・財務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000042001_20211101_503M60000042006",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60000042006",
+   "amendment_law_title": "沖縄振興開発金融公庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・財務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000042001_20201001_502M60000042004",
+   "amendment_promulgate_date": "2020-10-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60000042004",
+   "amendment_law_title": "沖縄振興開発金融公庫法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000042001_20141224_426M60000042005",
+   "amendment_promulgate_date": "2014-12-24",
+   "amendment_enforcement_date": "2014-12-24",
+   "amendment_law_id": "426M60000042005",
+   "amendment_law_num": "平成二十六年内閣府・財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第十九条第一項第八号の主務省令で定める中小規模の事業者）",
+  "title": "第一条",
+  "paragraphs": [
+   "沖縄振興開発金融公庫法（以下「法」という。）第十九条第一項第八号の主務省令で定める中小規模の事業者は、資本金の額若しくは出資の総額が三億円以下又は常時使用する従業員の数が三百人以下の会社であつて、次に掲げる業種に属する事業を営むものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-08-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T12:41:37+09:00"
+ }
+}

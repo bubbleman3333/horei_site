@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "210AC0000000057",
+  "law_num": "大正十年法律第五十七号",
+  "law_num_era": "Taisho",
+  "law_num_year": 10,
+  "law_num_type": "Act",
+  "law_num_num": "057",
+  "promulgation_date": "1921-04-09"
+ },
+ "revision_info": {
+  "law_revision_id": "210AC0000000057_20260525_506AC0000000052",
+  "law_type": "Act",
+  "law_title": "公有水面埋立法",
+  "law_title_kana": "こうゆうすいめんうめたてほう",
+  "abbrev": "埋立法",
+  "category": "土地",
+  "updated": "2026-05-25T00:01:28+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000052",
+  "amendment_law_title": "事業性融資の推進等に関する法律",
+  "amendment_law_num": "令和六年法律第五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "210AC0000000057_20260525_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "210AC0000000057_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "210AC0000000057_20240614_506AC0000000052",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-14",
+   "amendment_law_id": "506AC0000000052",
+   "amendment_law_title": "事業性融資の推進等に関する法律",
+   "amendment_law_num": "令和六年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "210AC0000000057_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "210AC0000000057_20150401_426AC0000000051",
+   "amendment_promulgate_date": "2014-06-04",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "426AC0000000051",
+   "amendment_law_num": "平成二十六年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "本法ニ於テ公有水面ト称スルハ河、海、湖、沼其ノ他ノ公共ノ用ニ供スル水流又ハ水面ニシテ国ノ所有ニ属スルモノヲ謂ヒ埋立ト称スルハ公有水面ノ埋立ヲ謂フ",
+   "公有水面ノ干拓ハ本法ノ適用ニ付テハ之ヲ埋立ト看做ス",
+   "本法ハ土地改良法、土地区画整理法、首都圏の近郊整備地帯及び都市開発区域の整備に関する法律、新住宅市街地開発法、近畿圏の近郊整備区域及び都市開発区域の整備及び開発に関する法律、流通業務市街地の整備に関する法律、都市再開発法、新都市基盤整備法、大都市地域における住宅及び住宅地の供給の促進に関する特別措置法又ハ密集市街地における防災街区の整備の促進に関する法律ニ依ル溝渠又ハ溜池ノ変更ノ為必要ナル埋立其ノ他政令ヲ以テ指定スル埋立ニ付之ヲ適用セス"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1921-04-09",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-25T00:01:28+09:00"
+ }
+}

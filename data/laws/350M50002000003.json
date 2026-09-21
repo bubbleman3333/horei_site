@@ -1,0 +1,458 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "350M50002000003",
+  "law_num": "昭和五十年労働省令第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 50,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "1975-03-10"
+ },
+ "revision_info": {
+  "law_revision_id": "350M50002000003_20260825_508M60000100134",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "雇用保険法施行規則",
+  "law_title_kana": "こようほけんほうしこうきそく",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-09-08T10:37:07+09:00",
+  "amendment_promulgate_date": "2026-08-25",
+  "amendment_enforcement_date": "2026-08-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100134",
+  "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "350M50002000003_20260825_508M60000100134",
+   "amendment_promulgate_date": "2026-08-25",
+   "amendment_enforcement_date": "2026-08-25",
+   "amendment_law_id": "508M60000100134",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260801_508M60000100031",
+   "amendment_promulgate_date": "2026-03-24",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508M60000100031",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260614_508M60000100100",
+   "amendment_promulgate_date": "2026-06-10",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "508M60000100100",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260521_508M60000100088",
+   "amendment_promulgate_date": "2026-04-28",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000100088",
+   "amendment_law_title": "社会保険審査官及び社会保険審査会法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260513_508M60000100092",
+   "amendment_promulgate_date": "2026-05-12",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_law_id": "508M60000100092",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260501_508M60000100074",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "508M60000100074",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260408_508M60000100077",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000100077",
+   "amendment_law_title": "雇用保険法施行規則及び建設労働者の雇用の改善等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260401_508M60000100074",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100074",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260401_508M60000100052",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100052",
+   "amendment_law_title": "高次脳機能障害者支援法の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20260202_508M60000100009",
+   "amendment_promulgate_date": "2026-01-30",
+   "amendment_enforcement_date": "2026-02-02",
+   "amendment_law_id": "508M60000100009",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20251226_507M60000100126",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2025-12-26",
+   "amendment_law_id": "507M60000100126",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20251001_507M60000100059",
+   "amendment_promulgate_date": "2025-05-08",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000100059",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20251001_507M60000100054",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000100054",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20251001_506M60000100125",
+   "amendment_promulgate_date": "2024-09-11",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506M60000100125",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律施行規則及び雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250804_507M60000100082",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507M60000100082",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250701_507M60000100071",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507M60000100071",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250701_507M60000100070",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507M60000100070",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_507M60000100054",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100054",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_507M60000100047",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100047",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_507M60000100039",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100039",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_507M60000100030",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000100030",
+   "amendment_law_title": "高年齢者等の雇用の安定等に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_506M60000100144",
+   "amendment_promulgate_date": "2024-10-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100144",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_506M60000100142",
+   "amendment_promulgate_date": "2024-10-23",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100142",
+   "amendment_law_title": "雇用保険法施行規則及び新型コロナウイルス感染症等の影響に対応するための雇用保険法の臨時特例等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_506M60000100124",
+   "amendment_promulgate_date": "2024-09-11",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100124",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律施行規則及び雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_506M60000100047",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100047",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250401_506M60000100023",
+   "amendment_promulgate_date": "2024-02-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000100023",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20250128_507M60000100006",
+   "amendment_promulgate_date": "2025-01-28",
+   "amendment_enforcement_date": "2025-01-28",
+   "amendment_law_id": "507M60000100006",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20241217_506M60000100161",
+   "amendment_promulgate_date": "2024-12-17",
+   "amendment_enforcement_date": "2024-12-17",
+   "amendment_law_id": "506M60000100161",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20241202_506M60000100157",
+   "amendment_promulgate_date": "2024-12-02",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000100157",
+   "amendment_law_title": "厚生年金保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20241202_506M60000100119",
+   "amendment_promulgate_date": "2024-08-30",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000100119",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20241001_506M60000100132",
+   "amendment_promulgate_date": "2024-09-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000100132",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20241001_506M60000100111",
+   "amendment_promulgate_date": "2024-08-13",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000100111",
+   "amendment_law_title": "雇用保険法施行規則及び生活保護法別表第一に規定する厚生労働省令で定める情報を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20240902_506M60000100120",
+   "amendment_promulgate_date": "2024-09-02",
+   "amendment_enforcement_date": "2024-09-02",
+   "amendment_law_id": "506M60000100120",
+   "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律施行規則及び雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20240701_506M60000100103",
+   "amendment_promulgate_date": "2024-07-01",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000100103",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20240701_506M60000100099",
+   "amendment_promulgate_date": "2024-06-25",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000100099",
+   "amendment_law_title": "特別児童扶養手当等の支給に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20240628_506M60000100102",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-06-28",
+   "amendment_law_id": "506M60000100102",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20240628_506M60000100101",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-06-28",
+   "amendment_law_id": "506M60000100101",
+   "amendment_law_title": "家内労働法施行規則及び雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20240517_506M60000100083",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506M60000100083",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整理に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20240401_506M60000100066",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100066",
+   "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "350M50002000003_20240401_506M60000100057",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100057",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　適用事業等",
+  "第三章　失業等給付",
+  "第三章の二　育児休業等給付",
+  "第四章　雇用安定事業等",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（事務の管轄）",
+  "title": "第一条",
+  "paragraphs": [
+   "雇用保険法（昭和四十九年法律第百十六号。以下「法」という。）第八十一条第一項の規定により、法第七条、第九条第一項、第三十七条の五第一項、第二項及び第四項並びに第三十八条第二項の規定による厚生労働大臣の権限は、都道府県労働局長に委任する。",
+   "前項の規定により都道府県労働局長に委任された権限は、法第八十一条第二項の規定により、公共職業安定所長に委任する。",
+   "雇用保険に関する事務（労働保険の保険料の徴収等に関する法律施行規則（昭和四十七年労働省令第八号）第一条第一項に規定する労働保険関係事務を除く。以下同じ。）のうち、都道府県知事が行う事務は、法第五条第一項に規定する適用事業（以下「適用事業」という。）の事業所の所在地を管轄する都道府県知事が行う。",
+   "雇用保険に関する事務のうち、都道府県労働局長が行う事務は、厚生労働大臣の指揮監督を受けて、適用事業の事業所の所在地を管轄する都道府県労働局長が行う。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1975-03-10",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-08T10:37:07+09:00"
+ }
+}

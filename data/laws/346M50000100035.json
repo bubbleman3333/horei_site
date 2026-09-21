@@ -1,0 +1,451 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "346M50000100035",
+  "law_num": "昭和四十六年厚生省令第三十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 46,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "035",
+  "promulgation_date": "1971-09-23"
+ },
+ "revision_info": {
+  "law_revision_id": "346M50000100035_20260701_508M60001000019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "廃棄物の処理及び清掃に関する法律施行規則",
+  "law_title_kana": "はいきぶつのしょりおよびせいそうにかんするほうりつしこうきそく",
+  "abbrev": "廃棄物処理法施行規則,ごみ処理法施行規則,廃掃法施行規則",
+  "category": "厚生",
+  "updated": "2026-07-14T11:00:59+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000019",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年環境省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "346M50000100035_20270401_508M60001000010",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60001000010",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20270401_507M60001000015",
+   "amendment_promulgate_date": "2025-04-22",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507M60001000015",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年環境省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20260701_508M60001000019",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001000019",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20260401_508M60001000010",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60001000010",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20260330_508M60001000010",
+   "amendment_promulgate_date": "2026-03-30",
+   "amendment_enforcement_date": "2026-03-30",
+   "amendment_law_id": "508M60001000010",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20260327_508M60001000008",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-03-27",
+   "amendment_law_id": "508M60001000008",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20260101_507M60001000015",
+   "amendment_promulgate_date": "2025-04-22",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60001000015",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年環境省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20251121_507M60001000022",
+   "amendment_promulgate_date": "2025-11-12",
+   "amendment_enforcement_date": "2025-11-21",
+   "amendment_law_id": "507M60001000022",
+   "amendment_law_title": "資源循環の促進のための再資源化事業等の高度化に関する法律施行規則",
+   "amendment_law_num": "令和七年環境省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20250422_507M60001000015",
+   "amendment_promulgate_date": "2025-04-22",
+   "amendment_enforcement_date": "2025-04-22",
+   "amendment_law_id": "507M60001000015",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年環境省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20250401_507M60001000006",
+   "amendment_promulgate_date": "2025-03-03",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60001000006",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20250316_506M60001000032",
+   "amendment_promulgate_date": "2024-12-16",
+   "amendment_enforcement_date": "2025-03-16",
+   "amendment_law_id": "506M60001000032",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年環境省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20241031_506M60001000027",
+   "amendment_promulgate_date": "2024-10-31",
+   "amendment_enforcement_date": "2024-10-31",
+   "amendment_law_id": "506M60001000027",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年環境省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20240401_506M60001000017",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60001000017",
+   "amendment_law_title": "環境省の所管する法律の規定に基づく立入検査等をする国の職員の携帯する身分を示す証明書の様式を定める省令",
+   "amendment_law_num": "令和六年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20240318_506M60001000007",
+   "amendment_promulgate_date": "2024-03-18",
+   "amendment_enforcement_date": "2024-03-18",
+   "amendment_law_id": "506M60001000007",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年環境省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20240220_506M60001000006",
+   "amendment_promulgate_date": "2024-02-20",
+   "amendment_enforcement_date": "2024-02-20",
+   "amendment_law_id": "506M60001000006",
+   "amendment_law_title": "環境省の所管する法令に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20230916_505M60001000012",
+   "amendment_promulgate_date": "2023-07-27",
+   "amendment_enforcement_date": "2023-09-16",
+   "amendment_law_id": "505M60001000012",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年環境省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20210804_503M60001000012",
+   "amendment_promulgate_date": "2021-08-04",
+   "amendment_enforcement_date": "2021-08-04",
+   "amendment_law_id": "503M60001000012",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年環境省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20201228_502M60001000031",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60001000031",
+   "amendment_law_title": "押印を求める手続の見直し等のための環境省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20201001_502M60001000019",
+   "amendment_promulgate_date": "2020-08-24",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60001000019",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20201001_502M60001000005",
+   "amendment_promulgate_date": "2020-02-25",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502M60001000005",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20200824_502M60001000019",
+   "amendment_promulgate_date": "2020-08-24",
+   "amendment_enforcement_date": "2020-08-24",
+   "amendment_law_id": "502M60001000019",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20200824_502M60001000005",
+   "amendment_promulgate_date": "2020-02-25",
+   "amendment_enforcement_date": "2020-08-24",
+   "amendment_law_id": "502M60001000005",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20200716_502M60001000018",
+   "amendment_promulgate_date": "2020-07-16",
+   "amendment_enforcement_date": "2020-07-16",
+   "amendment_law_id": "502M60001000018",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20200515_502M60001000016",
+   "amendment_promulgate_date": "2020-05-15",
+   "amendment_enforcement_date": "2020-05-15",
+   "amendment_law_id": "502M60001000016",
+   "amendment_law_title": "新型コロナウイルス感染症に対処するための廃棄物の処理及び清掃に関する法律施行規則の特例を定める省令",
+   "amendment_law_num": "令和二年環境省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20200501_502M60001000015",
+   "amendment_promulgate_date": "2020-05-01",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502M60001000015",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20200401_430M60001000002",
+   "amendment_promulgate_date": "2018-02-22",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430M60001000002",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20200330_502M60001000009",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60001000009",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和二年環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20200225_502M60001000005",
+   "amendment_promulgate_date": "2020-02-25",
+   "amendment_enforcement_date": "2020-02-25",
+   "amendment_law_id": "502M60001000005",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20191220_501M60001000019",
+   "amendment_promulgate_date": "2019-12-20",
+   "amendment_enforcement_date": "2019-12-20",
+   "amendment_law_id": "501M60001000019",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則及びポリ塩化ビフェニル廃棄物の適正な処理の推進に関する特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20191214_501M60001000014",
+   "amendment_promulgate_date": "2019-11-08",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501M60001000014",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年環境省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20190904_501M60001000005",
+   "amendment_promulgate_date": "2019-09-04",
+   "amendment_enforcement_date": "2019-09-04",
+   "amendment_law_id": "501M60001000005",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年環境省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20190627_501M60001000002",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-06-27",
+   "amendment_law_id": "501M60001000002",
+   "amendment_law_title": "元号を改める政令の施行に伴う環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20190401_430M60001000002",
+   "amendment_promulgate_date": "2018-02-22",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60001000002",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20190401_429M60001000027",
+   "amendment_promulgate_date": "2017-11-08",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429M60001000027",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年環境省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20190303_430M60001000025",
+   "amendment_promulgate_date": "2018-12-03",
+   "amendment_enforcement_date": "2019-03-03",
+   "amendment_law_id": "430M60001000025",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20181001_430M60001000019",
+   "amendment_promulgate_date": "2018-09-27",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430M60001000019",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則及び特定有害廃棄物等の輸出入等の規制に関する法律に基づく特定有害廃棄物等の範囲等を定める省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20181001_430M60001000017",
+   "amendment_promulgate_date": "2018-08-16",
+   "amendment_enforcement_date": "2018-10-01",
+   "amendment_law_id": "430M60001000017",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20180816_430M60001000017",
+   "amendment_promulgate_date": "2018-08-16",
+   "amendment_enforcement_date": "2018-08-16",
+   "amendment_law_id": "430M60001000017",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20180401_430M60001000002",
+   "amendment_promulgate_date": "2018-02-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60001000002",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "346M50000100035_20180202_430M60001000001",
+   "amendment_promulgate_date": "2018-02-02",
+   "amendment_enforcement_date": "2018-02-02",
+   "amendment_law_id": "430M60001000001",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（令第一条の環境省令で定める基準等）",
+  "title": "第一条",
+  "paragraphs": [
+   "廃棄物の処理及び清掃に関する法律施行令（昭和四十六年政令第三百号。以下「令」という。）第一条第一号の二の環境省令で定める廃水銀は、水銀又はその化合物が使用されている製品（以下「水銀使用製品」という。）が一般廃棄物となつたものから回収したものとする。",
+   "令第一条第一号の三の環境省令で定める基準は、環境大臣が定める方法により処理したものであることとする。",
+   "令別表第一の一の項の環境省令で定めるごみ処理施設は、ばいじんを焼却灰と分離して排出し、貯留することができる灰出し設備及び貯留設備が設けられている焼却施設とする。",
+   "令第一条第三号の環境省令で定める基準は、環境大臣が定める方法により処理したものであることとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1971-09-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-14T11:00:59+09:00"
+ }
+}

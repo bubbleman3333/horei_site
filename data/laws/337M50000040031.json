@@ -1,0 +1,152 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "337M50000040031",
+  "law_num": "昭和三十七年大蔵省令第三十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "031",
+  "promulgation_date": "1962-04-02"
+ },
+ "revision_info": {
+  "law_revision_id": "337M50000040031_20260521_506M60000040023",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国税徴収法施行規則",
+  "law_title_kana": "こくぜいちょうしゅうほうしこうきそく",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-05-21T01:27:28+09:00",
+  "amendment_promulgate_date": "2024-03-30",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000040023",
+  "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和六年財務省令第二十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M50000040031_20270401_508M60000040020",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000040020",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20260521_506M60000040023",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "506M60000040023",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20240101_505M60000040018",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "505M60000040018",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20230401_504M60000040022",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000040022",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20210401_503M60000040020",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040020",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20210101_502M60000040020",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040020",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20200401_502M60000040020",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040020",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20190701_431M60000040013",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040013",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20190101_430M60000040024",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000040024",
+   "amendment_law_title": "国税徴収法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年財務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337M50000040031_20090105_420M60000040084",
+   "amendment_promulgate_date": "2008-12-22",
+   "amendment_enforcement_date": "2009-01-05",
+   "amendment_law_id": "420M60000040084",
+   "amendment_law_num": "平成二十年財務省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（滞納処分費の納付の手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "国税徴収法（昭和三十四年法律第百四十七号。以下「法」という。）第二条第六号（定義）に規定する納税者は、国税徴収法施行令（昭和三十四年政令第三百二十九号。以下「令」という。）第五十条（滞納処分費の納入の告知の手続）に規定する納入告知書の送達を受けたときは、金銭に納入告知書を添えて納付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-04-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:27:28+09:00"
+ }
+}

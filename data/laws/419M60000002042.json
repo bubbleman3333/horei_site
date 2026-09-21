@@ -1,0 +1,69 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60000002042",
+  "law_num": "平成十九年内閣府令第四十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "042",
+  "promulgation_date": "2007-05-25"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60000002042_20260521_508M60000002046",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国家公安委員会関係刑事収容施設及び被収容者等の処遇に関する法律施行規則",
+  "law_title_kana": "こっかこうあんいいんかいかんけいけいじしゅうようしせつおよびひしゅうようしゃとうのしょぐうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-26T12:05:10+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002046",
+  "amendment_law_title": "銃砲刀剣類所持等取締法施行規則等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60000002042_20260521_508M60000002046",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000002046",
+   "amendment_law_title": "銃砲刀剣類所持等取締法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002042_20130401_425M60000002005",
+   "amendment_promulgate_date": "2013-02-26",
+   "amendment_enforcement_date": "2013-04-01",
+   "amendment_law_id": "425M60000002005",
+   "amendment_law_num": "平成二十五年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（留置開始時の告知等）",
+  "title": "第一条",
+  "paragraphs": [
+   "刑事収容施設及び被収容者等の処遇に関する法律（以下「法」という。）第百八十条第一項の規定による告知は、同項の規定により告知すべき事項（以下この条において「告知事項」という。）を記載した書面を提示することにより行うものとする。",
+   "前項の告知の後に告知事項に変更があったときは、法第十六条第一項に規定する留置業務管理者（以下単に「留置業務管理者」という。）は、被留置者に対し、速やかに、変更に係る告知事項を記載した書面を提示するものとする。",
+   "前二項に規定するもののほか、留置業務管理者は、被留置者が告知事項を確認するため必要と認めるときは、被留置者に対し、告知事項を記載した書面を提示するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-05-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-26T12:05:10+09:00"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "416CO0000000356",
+  "law_num": "平成十六年政令第三百五十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "356",
+  "promulgation_date": "2004-11-17"
+ },
+ "revision_info": {
+  "law_revision_id": "416CO0000000356_20251120_507CO0000000357",
+  "law_type": "CabinetOrder",
+  "law_title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令",
+  "law_title_kana": "こくりつけんきゅうかいはつほうじんいやくきばんけんこうえいようけんきゅうしょほうしこうれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2025-11-20T00:48:44+09:00",
+  "amendment_promulgate_date": "2025-10-29",
+  "amendment_enforcement_date": "2025-11-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000357",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令及び国立研究開発法人医薬基盤・健康・栄養研究所法施行令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第三百五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416CO0000000356_20251120_507CO0000000357",
+   "amendment_promulgate_date": "2025-10-29",
+   "amendment_enforcement_date": "2025-11-20",
+   "amendment_law_id": "507CO0000000357",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行令及び国立研究開発法人医薬基盤・健康・栄養研究所法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000356_20230125_505CO0000000013",
+   "amendment_promulgate_date": "2023-01-25",
+   "amendment_enforcement_date": "2023-01-25",
+   "amendment_law_id": "505CO0000000013",
+   "amendment_law_title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000356_20150401_427CO0000000074",
+   "amendment_promulgate_date": "2015-03-18",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000074",
+   "amendment_law_title": "独立行政法人通則法の一部を改正する法律及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令　抄",
+   "amendment_law_num": "平成二十七年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000356_20150401_427CO0000000035",
+   "amendment_promulgate_date": "2015-02-04",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000035",
+   "amendment_law_num": "平成二十七年政令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第十五条の三第三項の規定による納付金の納付の手続等）",
+  "title": "第一条",
+  "paragraphs": [
+   "国立研究開発法人医薬基盤・健康・栄養研究所（以下「研究所」という。）は、国立研究開発法人医薬基盤・健康・栄養研究所法（平成十六年法律第百三十五号。以下「法」という。）第十五条の三第三項の規定による命令を受けたときは、厚生労働大臣の指定する期日までに、同条第一項に規定する基金の額のうち研究所が当該基金に係る業務を円滑に遂行する上で必要がないと認められるものに相当する額として厚生労働大臣が定める額を、同条第三項の規定による納付金（以下この条において「納付金」という。）として国庫に納付しなければならない。",
+   "厚生労働大臣は、前項の規定により納付金の額を定めるときは、あらかじめ、財務大臣に協議しなければならない。",
+   "納付金は、一般会計に帰属する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-11-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-20T00:48:44+09:00"
+ }
+}

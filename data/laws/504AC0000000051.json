@@ -1,0 +1,74 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "504AC0000000051",
+  "law_num": "令和四年法律第五十一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "Act",
+  "law_num_num": "051",
+  "promulgation_date": "2022-05-25"
+ },
+ "revision_info": {
+  "law_revision_id": "504AC0000000051_20221115_000000000000000",
+  "law_type": "Act",
+  "law_title": "国際卓越研究大学の研究及び研究成果の活用のための体制の強化に関する法律",
+  "law_title_kana": "こくさいたくえつけんきゅうだいがくのけんきゅうおよびけんきゅうせいかのかつようのためのたいせいのきょうかにかんするほうりつ",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2023-08-07T15:00:00+09:00",
+  "amendment_promulgate_date": "2022-05-25",
+  "amendment_enforcement_date": "2022-11-15",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504AC0000000051_20270416_508AC0000000059",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2027-04-16",
+   "amendment_enforcement_comment": "公布の日から起算して九月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-04-16",
+   "amendment_law_id": "508AC0000000059",
+   "amendment_law_title": "科学技術・イノベーション創出の活性化に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000051_20221115_000000000000000",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-11-15",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504AC0000000051_20220525_000000000000000",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、我が国の大学の国際競争力の強化及びイノベーションの創出（科学技術・イノベーション基本法（平成七年法律第百三十号）第二条第一項に規定するイノベーションの創出をいう。第三条第二項第五号において同じ。）の促進を図るためには、国際的に卓越した研究の展開及び経済社会に変化をもたらす研究成果の活用が相当程度見込まれる大学について研究及び研究成果の活用のための体制を強化することが重要であることに鑑み、当該体制の強化の推進に関する基本的な方針の作成、国際卓越研究大学（第四条第五項に規定する国際卓越研究大学をいう。以下この条において同じ。）の認定、国際卓越研究大学の研究及び研究成果の活用のための体制の強化を目的とする事業の実施に関する計画の認可、当該事業に関する国立研究開発法人科学技術振興機構（以下「機構」という。）による助成等について定め、もって科学技術の水準の向上並びに学術及び社会の発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-05-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2023-08-07T15:00:00+09:00"
+ }
+}

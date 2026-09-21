@@ -1,0 +1,161 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "335M50000010019",
+  "law_num": "昭和三十五年法務省令第十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 35,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "019",
+  "promulgation_date": "1960-04-28"
+ },
+ "revision_info": {
+  "law_revision_id": "335M50000010019_20260408_508M60000010030",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "警察拘禁費用償還規則",
+  "law_title_kana": "けいさつこうきんひようしょうかんきそく",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-20T10:46:25+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010030",
+  "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第三十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "335M50000010019_20260408_508M60000010030",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000010030",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20250401_507M60000010029",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000010029",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20240401_506M60000010026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000010026",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20230401_505M60000010020",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000010020",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20220401_504M60000010023",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000010023",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20210401_503M60000010027",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000010027",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "令和三年法務省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20200401_502M60000010020",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010020",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20191001_501M60000010037",
+   "amendment_promulgate_date": "2019-09-30",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501M60000010037",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20190401_431M60000010030",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000010030",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年法務省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20180401_430M60000010013",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000010013",
+   "amendment_law_title": "警察拘禁費用償還規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年法務省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335M50000010019_20170401_429M60000010015",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000010015",
+   "amendment_law_num": "平成二十九年法務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "警察署内の留置場に拘禁又は留置せらるる者の費用に関する法律（明治三十五年法律第十一号）の規定により監獄費から都道府県に償還すべき費額は、一人一日につき千八百八十円とする。ただし、拘禁又は留置の初日は一日として計算し、釈放の日は算入しないものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1960-04-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T10:46:25+09:00"
+ }
+}

@@ -1,0 +1,70 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "415M60200000008",
+  "law_num": "平成十五年公正取引委員会規則第八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "Rule",
+  "law_num_num": "008",
+  "promulgation_date": "2003-12-11"
+ },
+ "revision_info": {
+  "law_revision_id": "415M60200000008_20260101_507M60200000010",
+  "law_type": "Rule",
+  "law_title": "下請代金支払遅延等防止法第五条の書類又は電磁的記録の作成及び保存に関する規則",
+  "law_title_kana": "したうけだいきんしはらいちえんとうぼうしほうだいごじょうのしょるいまたはでんじてききろくのさくせいおよびほぞんにかんするきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-01-01T04:28:53+09:00",
+  "amendment_promulgate_date": "2025-10-01",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60200000010",
+  "amendment_law_title": "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律第七条の書類等の作成及び保存に関する規則",
+  "amendment_law_num": "令和七年公正取引委員会規則第十号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-01-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415M60200000008_20260101_507M60200000010",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60200000010",
+   "amendment_law_title": "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律第七条の書類等の作成及び保存に関する規則",
+   "amendment_law_num": "令和七年公正取引委員会規則第十号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "415M60200000008_20090619_421M60200000004",
+   "amendment_promulgate_date": "2009-06-19",
+   "amendment_enforcement_date": "2009-06-19",
+   "amendment_law_id": "421M60200000004",
+   "amendment_law_num": "平成二十一年公正取引委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "下請代金支払遅延等防止法（以下「法」という。）第五条の書類又は電磁的記録には、次に掲げる事項を明確に記載し又は記録しなければならない。",
+   "法第三条の書面において下請代金の額として算定方法を記載した場合は、前項第五号の下請代金の額について、当該算定方法及びこれにより定められた具体的な金額並びに当該算定方法に変更があったときは変更後の算定方法、当該変更後の算定方法により定められた具体的な金額及びその理由を明確に記載し又は記録しなければならない。",
+   "法第三条第一項ただし書の規定に基づき、製造委託等をしたときに書面に記載しない事項（以下「特定事項」という。）がある場合には、特定事項の内容が定められなかった理由、特定事項の内容を記載した書面を交付した日及びそれに記載した特定事項の内容を明確に記載し又は記録しなければならない。",
+   "第一項から第三項までに掲げる事項は、その相互の関係を明らかにして、それぞれ別の書類又は電磁的記録に記載又は記録をすることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-12-11",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T04:28:53+09:00"
+ }
+}

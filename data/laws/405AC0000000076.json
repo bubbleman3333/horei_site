@@ -1,0 +1,113 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "405AC0000000076",
+  "law_num": "平成五年法律第七十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 5,
+  "law_num_type": "Act",
+  "law_num_num": "076",
+  "promulgation_date": "1993-06-18"
+ },
+ "revision_info": {
+  "law_revision_id": "405AC0000000076_20200601_501AC0000000024",
+  "law_type": "Act",
+  "law_title": "短時間労働者及び有期雇用労働者の雇用管理の改善等に関する法律",
+  "law_title_kana": "たんじかんろうどうしゃおよびゆうきこようろうどうしゃのこようかんりのかいぜんとうにかんするほうりつ",
+  "abbrev": "パート労働法,パートタイム法",
+  "category": "労働",
+  "updated": "2024-02-06T17:56:42+09:00",
+  "amendment_promulgate_date": "2019-06-05",
+  "amendment_enforcement_date": "2020-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "501AC0000000024",
+  "amendment_law_title": "女性の職業生活における活躍の推進に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和元年法律第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "405AC0000000076_20261001_507AC0000000063",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000063",
+   "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "405AC0000000076_20200601_501AC0000000024",
+   "amendment_promulgate_date": "2019-06-05",
+   "amendment_enforcement_date": "2020-06-01",
+   "amendment_law_id": "501AC0000000024",
+   "amendment_law_title": "女性の職業生活における活躍の推進に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "405AC0000000076_20200401_430AC0000000071",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430AC0000000071",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405AC0000000076_20190401_430AC0000000071",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000071",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405AC0000000076_20180706_430AC0000000071",
+   "amendment_promulgate_date": "2018-07-06",
+   "amendment_enforcement_date": "2018-07-06",
+   "amendment_law_id": "430AC0000000071",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律",
+   "amendment_law_num": "平成三十年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405AC0000000076_20150401_426AC0000000027",
+   "amendment_promulgate_date": "2014-04-23",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "426AC0000000027",
+   "amendment_law_num": "平成二十六年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　短時間・有期雇用労働者対策基本方針",
+  "第三章　短時間・有期雇用労働者の雇用管理の改善等に関する措置等",
+  "第四章　紛争の解決",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、我が国における少子高齢化の進展、就業構造の変化等の社会経済情勢の変化に伴い、短時間・有期雇用労働者の果たす役割の重要性が増大していることに鑑み、短時間・有期雇用労働者について、その適正な労働条件の確保、雇用管理の改善、通常の労働者への転換の推進、職業能力の開発及び向上等に関する措置等を講ずることにより、通常の労働者との均衡のとれた待遇の確保等を図ることを通じて短時間・有期雇用労働者がその有する能力を有効に発揮することができるようにし、もってその福祉の増進を図り、あわせて経済及び社会の発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1993-06-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2024-02-06T17:56:42+09:00"
+ }
+}

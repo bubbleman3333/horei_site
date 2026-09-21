@@ -1,0 +1,237 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "342CO0000000146",
+  "law_num": "昭和四十二年政令第百四十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 42,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "146",
+  "promulgation_date": "1967-06-26"
+ },
+ "revision_info": {
+  "law_revision_id": "342CO0000000146_20260522_508CO0000000152",
+  "law_type": "CabinetOrder",
+  "law_title": "登録免許税法施行令",
+  "law_title_kana": "とうろくめんきょぜいほうしこうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-05-26T10:51:32+09:00",
+  "amendment_promulgate_date": "2026-04-30",
+  "amendment_enforcement_date": "2026-05-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000152",
+  "amendment_law_title": "二酸化炭素の貯留事業に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第百五十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "342CO0000000146_20261001_507CO0000000124",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507CO0000000124",
+   "amendment_law_title": "登録免許税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20260522_508CO0000000152",
+   "amendment_promulgate_date": "2026-04-30",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "508CO0000000152",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20250401_506CO0000000372",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000372",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う関係政令の整理等に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20240401_506CO0000000144",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000144",
+   "amendment_law_title": "登録免許税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20240401_505CO0000000304",
+   "amendment_promulgate_date": "2023-10-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000304",
+   "amendment_law_title": "漁港漁場整備法及び水産業協同組合法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第三百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20231221_505CO0000000276",
+   "amendment_promulgate_date": "2023-09-06",
+   "amendment_enforcement_date": "2023-12-21",
+   "amendment_law_id": "505CO0000000276",
+   "amendment_law_title": "高圧ガス保安法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20220401_504CO0000000138",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000138",
+   "amendment_law_title": "登録免許税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20220401_504CO0000000037",
+   "amendment_promulgate_date": "2022-02-02",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000037",
+   "amendment_law_title": "強靱かつ持続可能な電気供給体制の確立を図るための電気事業法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20210801_503CO0000000001",
+   "amendment_promulgate_date": "2021-01-05",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503CO0000000001",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20210105_503CO0000000001",
+   "amendment_promulgate_date": "2021-01-05",
+   "amendment_enforcement_date": "2021-01-05",
+   "amendment_law_id": "503CO0000000001",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20200401_501CO0000000147",
+   "amendment_promulgate_date": "2019-11-07",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000147",
+   "amendment_law_title": "国有林野の管理経営に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20191120_501CO0000000161",
+   "amendment_promulgate_date": "2019-11-15",
+   "amendment_enforcement_date": "2019-11-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501CO0000000161",
+   "amendment_law_title": "電波法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20190401_431CO0000000044",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000044",
+   "amendment_law_title": "水産業協同組合法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20180401_429CO0000000198",
+   "amendment_promulgate_date": "2017-07-20",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000198",
+   "amendment_law_title": "高圧ガス保安法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20180104_429CO0000000228",
+   "amendment_promulgate_date": "2017-08-18",
+   "amendment_enforcement_date": "2018-01-04",
+   "amendment_law_id": "429CO0000000228",
+   "amendment_law_title": "通訳案内士法及び旅行業法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20170530_428CO0000000324",
+   "amendment_promulgate_date": "2016-10-05",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000324",
+   "amendment_law_title": "個人情報の保護に関する法律及び行政手続における特定の個人を識別するための番号の利用等に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20170401_429CO0000000040",
+   "amendment_promulgate_date": "2017-03-23",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000040",
+   "amendment_law_title": "電気事業法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000146_20170401_428CO0000000396",
+   "amendment_promulgate_date": "2016-12-26",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000396",
+   "amendment_law_title": "森林法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　課税標準及び税率",
+  "第三章　納付及び還付",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語の定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「登記等」、「登記機関」又は「登記官署等」とは、それぞれ登録免許税法（以下「法」という。）第二条、第五条第二号又は第八条第一項に規定する登記等、登記機関又は登記官署等をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1967-06-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-26T10:51:32+09:00"
+ }
+}

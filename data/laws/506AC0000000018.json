@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "506AC0000000018",
+  "law_num": "令和六年法律第十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "018",
+  "promulgation_date": "2024-04-19"
+ },
+ "revision_info": {
+  "law_revision_id": "506AC0000000018_20260401_507AC0000000048",
+  "law_type": "Act",
+  "law_title": "地域における生物の多様性の増進のための活動の促進等に関する法律",
+  "law_title_kana": "ちいきにおけるせいぶつのたようせいのぞうしんのためのかつどうのそくしんとうにかんするほうりつ",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-04-02T21:52:06+09:00",
+  "amendment_promulgate_date": "2025-05-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000048",
+  "amendment_law_title": "森林経営管理法及び森林法の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506AC0000000018_20260401_507AC0000000048",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000048",
+   "amendment_law_title": "森林経営管理法及び森林法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000018_20250401_000000000000000",
+   "amendment_promulgate_date": "2024-04-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000018_20240419_000000000000000",
+   "amendment_promulgate_date": "2024-04-19",
+   "amendment_enforcement_date": "2024-04-19",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針",
+  "第三章　地域生物多様性増進活動の促進等の措置",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、生物の多様性の損失が地球全体の環境に深刻な影響を及ぼしている中で、我が国においても生物の多様性の損失が続いている状況に鑑み、この状況を改善する地域における生物の多様性の増進のための活動の促進等の措置を講じ、もって豊かな生物の多様性を確保し、現在及び将来の国民の健康で文化的な生活の確保に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-04-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:52:06+09:00"
+ }
+}

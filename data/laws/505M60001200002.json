@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60001200002",
+  "law_num": "令和五年農林水産省・環境省令第二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "2023-04-04"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60001200002_20260701_508M60001200006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農薬取締法第四条第一項第十一号の農林水産省令・環境省令で定める場合を定める省令",
+  "law_title_kana": "のうやくとりしまりほうだいよんじょうだいいっこうだいじゅういちごうののうりんすいさんしょうれいかんきょうしょうれいでさだめるばあいをさだめるしょうれい",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-07-14T10:43:09+09:00",
+  "amendment_promulgate_date": "2026-07-01",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001200006",
+  "amendment_law_title": "農薬取締法第四条第一項第十一号の農林水産省令・環境省令で定める場合を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省・環境省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60001200002_20260701_508M60001200006",
+   "amendment_promulgate_date": "2026-07-01",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001200006",
+   "amendment_law_title": "農薬取締法第四条第一項第十一号の農林水産省令・環境省令で定める場合を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省・環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60001200002_20241202_506M60001200004",
+   "amendment_promulgate_date": "2024-12-02",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60001200004",
+   "amendment_law_title": "農薬取締法第四条第一項第十一号の農林水産省令・環境省令で定める場合を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年農林水産省・環境省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60001200002_20231001_000000000000000",
+   "amendment_promulgate_date": "2023-04-04",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "農薬取締法（以下「法」という。）第四条第一項第十一号に規定する農林水産省令・環境省令で定める場合は、次に掲げるときとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-04-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-14T10:43:09+09:00"
+ }
+}

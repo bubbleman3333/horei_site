@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000156",
+  "law_num": "令和八年政令第百五十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "156",
+  "promulgation_date": "2026-05-07"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000156_20260507_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行期日を定める政令",
+  "law_title_kana": "じょうほうつうしんぎじゅつのしんてんとうにたいおうするためのけいじそしょうほうとうのいちぶをかいせいするほうりつのいちぶのしこうきじつをさだめるせいれい",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-09-10T18:27:16+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-07",
+  "amendment_enforcement_comment": "",
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000156_20260507_000000000000000",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律附則第一条第三号に掲げる規定の施行期日は、令和八年五月二十一日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-05-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-10T18:27:16+09:00"
+ }
+}

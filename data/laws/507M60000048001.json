@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000048001",
+  "law_num": "令和七年総務省・財務省令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2025-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000048001_20251222_507M60000048003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "令和七年度における地方公共団体金融機構法附則第十四条の規定により国に帰属させるものとする金額を定める省令",
+  "law_title_kana": "れいわななねんどにおけるちほうこうきょうだんたいきんゆうきこうほうふそくだいじゅうよんじょうのきていによりくににきぞくさせるものとするきんがくをさだめるしょうれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-01-13T09:41:11+09:00",
+  "amendment_promulgate_date": "2025-12-22",
+  "amendment_enforcement_date": "2025-12-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000048003",
+  "amendment_law_title": "令和七年度における地方公共団体金融機構法附則第十四条の規定により国に帰属させるものとする金額を定める省令を廃止する省令",
+  "amendment_law_num": "令和七年総務省・財務省令第三号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2025-12-22",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000048001_20251222_507M60000048003",
+   "amendment_promulgate_date": "2025-12-22",
+   "amendment_enforcement_date": "2025-12-22",
+   "amendment_law_id": "507M60000048003",
+   "amendment_law_title": "令和七年度における地方公共団体金融機構法附則第十四条の規定により国に帰属させるものとする金額を定める省令を廃止する省令",
+   "amendment_law_num": "令和七年総務省・財務省令第三号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "507M60000048001_20250401_000000000000000",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "地方公共団体金融機構法附則第十四条の規定により国に帰属させるものとする公庫債権金利変動準備金の金額は、二千億円とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-13T09:41:11+09:00"
+ }
+}

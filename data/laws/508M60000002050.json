@@ -1,0 +1,68 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000002050",
+  "law_num": "令和八年内閣府令第五十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "050",
+  "promulgation_date": "2026-05-22"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000002050_20260601_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "電子決済手段・暗号資産サービス仲介業者に関する内閣府令",
+  "law_title_kana": "でんしけっさいしゅだん・あんごうしさんさーびすちゅうかいぎょうしゃにかんするないかくふれい",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-06-08T10:25:34+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000002050_20260601_000000000000000",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "508M60000002050_20260522_000000000000000",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　業務",
+  "第三章　監督",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において「資金移動業者」、「電子決済手段」、「電子決済手段等取引業」、「電子決済手段の交換等」、「電子決済手段等取引業者」、「暗号資産」、「暗号資産交換業」、「暗号資産の交換等」、「暗号資産交換業者」、「電子決済手段・暗号資産サービス仲介業」、「電子決済手段仲介行為」、「暗号資産仲介行為」、「電子決済手段・暗号資産サービス仲介業者」、「外国電子決済手段・暗号資産サービス仲介業者」、「認定資金決済事業者協会」、「指定紛争解決機関」、「特定信託会社」又は「銀行等」とは、それぞれ資金決済に関する法律（以下「法」という。）第二条に規定する資金移動業者、電子決済手段、電子決済手段等取引業、電子決済手段の交換等、電子決済手段等取引業者、暗号資産、暗号資産交換業、暗号資産の交換等、暗号資産交換業者、電子決済手段・暗号資産サービス仲介業、電子決済手段仲介行為、暗号資産仲介行為、電子決済手段・暗号資産サービス仲介業者、外国電子決済手段・暗号資産サービス仲介業者、認定資金決済事業者協会、指定紛争解決機関、特定信託会社又は銀行等をいう。",
+   "この府令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-05-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-08T10:25:34+09:00"
+ }
+}

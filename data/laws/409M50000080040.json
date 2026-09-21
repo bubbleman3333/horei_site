@@ -1,0 +1,128 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "409M50000080040",
+  "law_num": "平成九年文部省令第四十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "040",
+  "promulgation_date": "1997-11-26"
+ },
+ "revision_info": {
+  "law_revision_id": "409M50000080040_20251001_507M60000080028",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "小学校及び中学校の教諭の普通免許状授与に係る教育職員免許法の特例等に関する法律施行規則",
+  "law_title_kana": "しょうがっこうおよびちゅうがっこうのきょうゆのふつうめんきょじょうじゅよにかかるきょういくめんきょほうのとくれいとうにかんするほうりつしこうきそく",
+  "abbrev": "小学校及び中学校の教諭の普通免許状授与に係る教育免許法の特例等に関する法律施行規則,介護等体験特例法施行規則",
+  "category": "教育",
+  "updated": "2025-10-16T09:11:30+09:00",
+  "amendment_promulgate_date": "2025-09-30",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000080028",
+  "amendment_law_title": "教育職員免許法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年文部科学省令第二十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409M50000080040_20251001_507M60000080028",
+   "amendment_promulgate_date": "2025-09-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000080028",
+   "amendment_law_title": "教育職員免許法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409M50000080040_20240401_506M60000080005",
+   "amendment_promulgate_date": "2024-03-21",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000080005",
+   "amendment_law_title": "小学校及び中学校の教諭の普通免許状授与に係る教育職員免許法の特例等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000080040_20230401_505M60000080006",
+   "amendment_promulgate_date": "2023-02-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000080006",
+   "amendment_law_title": "教育職員免許法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年文部科学省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000080040_20220401_504M60000080007",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000080007",
+   "amendment_law_title": "教育職員免許法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年文部科学省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000080040_20210507_503M60000080025",
+   "amendment_promulgate_date": "2021-05-07",
+   "amendment_enforcement_date": "2021-05-07",
+   "amendment_law_id": "503M60000080025",
+   "amendment_law_title": "教育職員免許法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000080040_20210413_503M60000080024",
+   "amendment_promulgate_date": "2021-04-13",
+   "amendment_enforcement_date": "2021-04-13",
+   "amendment_law_id": "503M60000080024",
+   "amendment_law_title": "小学校及び中学校の教諭の普通免許状授与に係る教育職員免許法の特例等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000080040_20200811_502M60000080029",
+   "amendment_promulgate_date": "2020-08-11",
+   "amendment_enforcement_date": "2020-08-11",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000080029",
+   "amendment_law_title": "小学校及び中学校の教諭の普通免許状授与に係る教育職員免許法の特例等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年文部科学省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409M50000080040_20170401_429M60000080019",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000080019",
+   "amendment_law_num": "平成二十九年文部科学省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（介護等の体験の期間）",
+  "title": "第一条",
+  "paragraphs": [
+   "小学校及び中学校の教諭の普通免許状授与に係る教育職員免許法の特例等に関する法律（以下「特例法」という。）第二条第一項の文部科学省令で定める期間は、七日間とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-11-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-16T09:11:30+09:00"
+ }
+}

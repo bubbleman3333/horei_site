@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "502M60000080026",
+  "law_num": "令和二年文部科学省令第二十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 2,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "026",
+  "promulgation_date": "2020-07-17"
+ },
+ "revision_info": {
+  "law_revision_id": "502M60000080026_20260401_507M60000080024",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法施行規則",
+  "law_title_kana": "こうりつのぎむきょういくしょがっこうとうのきょういくしょくいんのきゅうよとうにかんするとくべつそちほうしこうきそく",
+  "abbrev": null,
+  "category": "教育",
+  "updated": "2026-04-02T21:37:33+09:00",
+  "amendment_promulgate_date": "2025-09-25",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000080024",
+  "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法施行規則及び教育公務員特例法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年文部科学省令第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "502M60000080026_20260401_507M60000080024",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000080024",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法施行規則及び教育公務員特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "502M60000080026_20260101_507M60000080024",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60000080024",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法施行規則及び教育公務員特例法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年文部科学省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "502M60000080026_20210401_000000000000000",
+   "amendment_promulgate_date": "2020-07-17",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（対象期間に含む期間等）",
+  "title": "第一条",
+  "paragraphs": [
+   "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法（以下この項、第六条第一項及び第七条において「法」という。）第五条第一項及び第二項の規定により読み替えて適用する地方公務員法第五十八条第三項の規定により読み替えて適用する労働基準法（以下「読替え後の労働基準法」という。）第三十二条の四第一項第二号の対象期間（以下単に「対象期間」という。）を定めるに当たっては、当該対象期間には、読替え後の労働基準法第三十二条の四の規定により労働させる教育職員（法第二条第二項に規定する教育職員をいう。以下同じ。）の所属する学校を設置する市（特別区を含む。）町村又は都道府県の教育委員会が学校教育法施行令（昭和二十八年政令第三百四十号）第二十九条第一項の規定により定める学校の夏季、冬季、学年末、農繁期等における休業日等の期間（次項において「長期休業期間等」という。）を含めるものとする。",
+   "読替え後の労働基準法第三十二条の四第一項第四号の労働日及び当該労働日ごとの労働時間並びに同条第二項の各期間における労働日及び当該各期間における労働日ごとの労働時間の設定は、一日の勤務に割り振られる勤務時間を当該日における同条の規定を適用しない場合の正規の勤務時間（一般職の職員の勤務時間、休暇等に関する法律（平成六年法律第三十三号）第五条、第六条、第八条、第十一条及び第十二条の規定に相当する条例の規定による勤務時間をいう。）に比して短く設定する日（同法第八条の規定に相当する条例の規定に基づき勤務日のうち四時間の勤務時間を当該勤務日に割り振ることをやめて当該四時間の勤務時間を同法第六条第一項又は第四項の規定に相当する条例の規定により週休日とされた日において特に勤務することを命ずる必要がある日に割り振る場合における当該勤務日を除く。）について、当該日のいずれにも勤務時間を割り振らず、かつ、当該日を長期休業期間等において連続して設定する場合に限り、行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2020-07-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:37:33+09:00"
+ }
+}

@@ -1,0 +1,137 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "325M50080000012",
+  "law_num": "昭和二十五年電波監理委員会規則第十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "Rule",
+  "law_num_num": "012",
+  "promulgation_date": "1950-09-11"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50080000012_20260730_508M60000008095",
+  "law_type": "Rule",
+  "law_title": "無線局（基幹放送局を除く。）の開設の根本的基準",
+  "law_title_kana": "むせんきょくきかんほうそうきょくをのぞくのかいせつのこんぽんてききじゅん",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-08-12T14:16:12+09:00",
+  "amendment_promulgate_date": "2026-07-30",
+  "amendment_enforcement_date": "2026-07-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008095",
+  "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第九十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50080000012_20260730_508M60000008095",
+   "amendment_promulgate_date": "2026-07-30",
+   "amendment_enforcement_date": "2026-07-30",
+   "amendment_law_id": "508M60000008095",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000012_20260723_508M60000008090",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-07-23",
+   "amendment_law_id": "508M60000008090",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000012_20260403_508M60000008059",
+   "amendment_promulgate_date": "2026-04-03",
+   "amendment_enforcement_date": "2026-04-03",
+   "amendment_law_id": "508M60000008059",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000012_20241220_506M60000008113",
+   "amendment_promulgate_date": "2024-12-20",
+   "amendment_enforcement_date": "2024-12-20",
+   "amendment_law_id": "506M60000008113",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000012_20210310_503M60000008017",
+   "amendment_promulgate_date": "2021-03-10",
+   "amendment_enforcement_date": "2021-03-10",
+   "amendment_law_id": "503M60000008017",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000012_20200731_502M60000008071",
+   "amendment_promulgate_date": "2020-07-31",
+   "amendment_enforcement_date": "2020-07-31",
+   "amendment_law_id": "502M60000008071",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000012_20200622_502M60000008061",
+   "amendment_promulgate_date": "2020-06-22",
+   "amendment_enforcement_date": "2020-06-22",
+   "amendment_law_id": "502M60000008061",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000012_20191224_501M60000008068",
+   "amendment_promulgate_date": "2019-12-24",
+   "amendment_enforcement_date": "2019-12-24",
+   "amendment_law_id": "501M60000008068",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000012_20151225_427M60000008107",
+   "amendment_promulgate_date": "2015-12-25",
+   "amendment_enforcement_date": "2015-12-25",
+   "amendment_law_id": "427M60000008107",
+   "amendment_law_num": "平成二十七年総務省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則は、無線局（基幹放送局を除く。）の開設の根本的基準を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-09-11",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-12T14:16:12+09:00"
+ }
+}

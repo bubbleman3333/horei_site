@@ -1,0 +1,93 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "406AC0000000009",
+  "law_num": "平成六年法律第九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "009",
+  "promulgation_date": "1994-03-04"
+ },
+ "revision_info": {
+  "law_revision_id": "406AC0000000009_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "特定水道利水障害の防止のための水道水源水域の水質の保全に関する特別措置法",
+  "law_title_kana": "とくていすいどうりすいしょうがいのぼうしのためのすいどうすいげんすいいきのすいしつのほぜんにかんするとくべつそちほう",
+  "abbrev": "水道水源特別措置法",
+  "category": "厚生",
+  "updated": "2026-07-01T00:39:33+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406AC0000000009_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000009_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000009_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406AC0000000009_20160401_426AC0000000072",
+   "amendment_promulgate_date": "2014-06-18",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000072",
+   "amendment_law_title": "電気事業法等の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　指定水域の水質の保全のための施策",
+  "第三章　雑則",
+  "第四章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、特定水道利水障害を防止する上で水道水源水域の水質の保全を図ることが重要であることにかんがみ、水道水源水域の水質の保全に関する基本方針を定めるとともに、特定水道利水障害の防止のための対策を実施しなければならない水道水源水域について、水質の保全に関し実施すべき施策に関する計画の策定、水質の保全に資する事業の実施、水質の汚濁の防止のための規制その他の措置を総合的かつ計画的に講ずることにより、水道水源水域の水質の保全を図り、もって国民の健康を保護することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-03-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:39:33+09:00"
+ }
+}

@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "421AC0000000024",
+  "law_num": "平成二十一年法律第二十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "Act",
+  "law_num_num": "024",
+  "promulgation_date": "2009-04-24"
+ },
+ "revision_info": {
+  "law_revision_id": "421AC0000000024_20260521_504AC0000000048",
+  "law_type": "Act",
+  "law_title": "外国等に対する我が国の民事裁判権に関する法律",
+  "law_title_kana": "がいこくとうにたいするわがくにのみんじさいばんけんにかんするほうりつ",
+  "abbrev": "民事裁判権法,対外国民事裁判権法",
+  "category": "民事",
+  "updated": "2026-05-21T02:43:37+09:00",
+  "amendment_promulgate_date": "2022-05-25",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000048",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+  "amendment_law_num": "令和四年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421AC0000000024_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000024_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421AC0000000024_20100401_000000000000000",
+   "amendment_promulgate_date": "2009-04-24",
+   "amendment_enforcement_date": "2010-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　外国等に対して裁判権が及ぶ範囲",
+  "第三章　民事の裁判手続についての特例"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、外国等に対して我が国の民事裁判権（裁判権のうち刑事に係るもの以外のものをいう。第四条において同じ。）が及ぶ範囲及び外国等に係る民事の裁判手続についての特例を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-04-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:43:37+09:00"
+ }
+}

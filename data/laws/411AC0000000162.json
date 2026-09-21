@@ -1,0 +1,209 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "411AC0000000162",
+  "law_num": "平成十一年法律第百六十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "Act",
+  "law_num_num": "162",
+  "promulgation_date": "1999-12-22"
+ },
+ "revision_info": {
+  "law_revision_id": "411AC0000000162_20250701_507AC0000000043",
+  "law_type": "Act",
+  "law_title": "国立研究開発法人情報通信研究機構法",
+  "law_title_kana": "こくりつけんきゅうかいはつほうじんじょうほうつうしんけんきゅうきこうほう",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2025-07-01T01:01:54+09:00",
+  "amendment_promulgate_date": "2025-05-23",
+  "amendment_enforcement_date": "2025-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000043",
+  "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和七年法律第四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411AC0000000162_20261001_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20250701_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20250523_507AC0000000043",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000043",
+   "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20240920_504AC0000000093",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2024-09-20",
+   "amendment_law_id": "504AC0000000093",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法及び電波法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20240401_505AC0000000087",
+   "amendment_promulgate_date": "2023-12-15",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000087",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法の一部を改正する等の法律",
+   "amendment_law_num": "令和五年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20231215_505AC0000000087",
+   "amendment_promulgate_date": "2023-12-15",
+   "amendment_enforcement_date": "2023-12-15",
+   "amendment_law_id": "505AC0000000087",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法の一部を改正する等の法律",
+   "amendment_law_num": "令和五年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20230616_504AC0000000070",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "504AC0000000070",
+   "amendment_law_title": "電気通信事業法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20221219_504AC0000000093",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-19",
+   "amendment_law_id": "504AC0000000093",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法及び電波法の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20210901_503AC0000000036",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503AC0000000036",
+   "amendment_law_title": "デジタル庁設置法",
+   "amendment_law_num": "令和三年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20210211_503AC0000000001",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-02-11",
+   "amendment_law_id": "503AC0000000001",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20190117_430AC1000000094",
+   "amendment_promulgate_date": "2018-12-14",
+   "amendment_enforcement_date": "2019-01-17",
+   "amendment_law_id": "430AC1000000094",
+   "amendment_law_title": "研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20181101_430AC0000000024",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-11-01",
+   "amendment_law_id": "430AC0000000024",
+   "amendment_law_title": "電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20180523_430AC0000000024",
+   "amendment_promulgate_date": "2018-05-23",
+   "amendment_enforcement_date": "2018-05-23",
+   "amendment_law_id": "430AC0000000024",
+   "amendment_law_title": "電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000162_20160531_428AC0000000032",
+   "amendment_promulgate_date": "2016-04-27",
+   "amendment_enforcement_date": "2016-05-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000032",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法及び特定通信・放送開発事業実施円滑化法の一部を改正する等の法律",
+   "amendment_law_num": "平成二十八年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、国立研究開発法人情報通信研究機構の名称、目的、業務の範囲等に関する事項を定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-12-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-07-01T01:01:54+09:00"
+ }
+}

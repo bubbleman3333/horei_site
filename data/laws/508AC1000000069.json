@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "508AC1000000069",
+  "law_num": "令和八年法律第六十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Act",
+  "law_num_num": "069",
+  "promulgation_date": "2026-07-24"
+ },
+ "revision_info": {
+  "law_revision_id": "508AC1000000069_20260813_000000000000000",
+  "law_type": "Act",
+  "law_title": "国旗の損壊等の処罰に関する法律",
+  "law_title_kana": "こっきのそんかいとうのしょばつにかんするほうりつ",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2026-08-13T00:01:55+09:00",
+  "amendment_promulgate_date": "2026-07-24",
+  "amendment_enforcement_date": "2026-08-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508AC1000000069_20260813_000000000000000",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2026-08-13",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律において「国旗」とは、国旗及び国歌に関する法律（平成十一年法律第百二十七号）に定める国旗として用いられていると社会通念上認められる有体物をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-07-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-13T00:01:55+09:00"
+ }
+}

@@ -1,0 +1,166 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "417AC0000000100",
+  "law_num": "平成十七年法律第百号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "Act",
+  "law_num_num": "100",
+  "promulgation_date": "2005-10-21"
+ },
+ "revision_info": {
+  "law_revision_id": "417AC0000000100_20260625_508AC1000000050",
+  "law_type": "Act",
+  "law_title": "日本郵便株式会社法",
+  "law_title_kana": "にほんゆうびんかぶしきがいしゃほう",
+  "abbrev": null,
+  "category": "郵務",
+  "updated": "2026-07-08T13:11:41+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC1000000050",
+  "amendment_law_title": "郵政民営化法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第五十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417AC0000000100_20261224_508AC1000000050",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-12-24",
+   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-12-24",
+   "amendment_law_id": "508AC1000000050",
+   "amendment_law_title": "郵政民営化法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20261124_508AC1000000050",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-11-24",
+   "amendment_enforcement_comment": "公布の日から起算して五月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-11-24",
+   "amendment_law_id": "508AC1000000050",
+   "amendment_law_title": "郵政民営化法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20260625_508AC1000000050",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508AC1000000050",
+   "amendment_law_title": "郵政民営化法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20210301_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20191211_501AC0000000071",
+   "amendment_promulgate_date": "2019-12-11",
+   "amendment_enforcement_date": "2019-12-11",
+   "amendment_law_id": "501AC0000000071",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和元年法律第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20190401_430AC1000000041",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC1000000041",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20181201_430AC1000000041",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_law_id": "430AC1000000041",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20180820_430AC1000000041",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-08-20",
+   "amendment_law_id": "430AC1000000041",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417AC0000000100_20121001_424AC0000000030",
+   "amendment_promulgate_date": "2012-05-08",
+   "amendment_enforcement_date": "2012-10-01",
+   "amendment_law_id": "424AC0000000030",
+   "amendment_law_num": "平成二十四年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　業務等",
+  "第三章　雑則",
+  "第四章　罰則"
+ ],
+ "article1": {
+  "caption": "（会社の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "日本郵便株式会社（以下「会社」という。）は、郵便の業務、銀行窓口業務及び保険窓口業務並びに郵便局を活用して行う地域住民の利便の増進に資する業務を営むことを目的とする株式会社とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-10-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-08T13:11:41+09:00"
+ }
+}

@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "410CO0000000342",
+  "law_num": "平成十年政令第三百四十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "342",
+  "promulgation_date": "1998-10-22"
+ },
+ "revision_info": {
+  "law_revision_id": "410CO0000000342_20260625_508CO0000000207",
+  "law_type": "CabinetOrder",
+  "law_title": "金融機能の早期健全化のための緊急措置に関する法律施行令",
+  "law_title_kana": "きんゆうきのうのそうきけんぜんかのためのきんきゅうそちにかんするほうりつしこうれい",
+  "abbrev": "金融早期健全化法施行令,金融機能早期健全化法施行令",
+  "category": "金融・保険",
+  "updated": "2026-07-07T10:56:00+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000207",
+  "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第二百七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410CO0000000342_20260625_508CO0000000207",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508CO0000000207",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000342_20120401_424CO0000000090",
+   "amendment_promulgate_date": "2012-03-30",
+   "amendment_enforcement_date": "2012-04-01",
+   "amendment_law_id": "424CO0000000090",
+   "amendment_law_num": "平成二十四年政令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「銀行持株会社等」、「銀行」、「協定銀行」、「株式等の引受け等」、「発行金融機関等」、「取得株式等」又は「取得貸付債権」とは、金融機能の早期健全化のための緊急措置に関する法律（以下「法」という。）第二条第一項第五号、第二項、第四項若しくは第七項、第四条第一項若しくは第二項又は第五条第四項に規定する銀行持株会社等、銀行、協定銀行、株式等の引受け等、発行金融機関等、取得株式等又は取得貸付債権をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-10-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-07T10:56:00+09:00"
+ }
+}

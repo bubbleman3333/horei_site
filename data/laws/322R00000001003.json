@@ -1,0 +1,257 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "322R00000001003",
+  "law_num": "昭和二十二年会計検査院規則第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "Rule",
+  "law_num_num": "003",
+  "promulgation_date": "1947-05-03"
+ },
+ "revision_info": {
+  "law_revision_id": "322R00000001003_20260401_508R00000001001",
+  "law_type": "Rule",
+  "law_title": "会計検査院事務総局事務分掌及び分課規則",
+  "law_title_kana": "かいけいけんさいんじむそうきょくじむぶんしょうおよびぶんかきそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-04-30T14:24:09+09:00",
+  "amendment_promulgate_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508R00000001001",
+  "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則及び計算証明規則の一部を改正する規則",
+  "amendment_law_num": "令和八年会計検査院規則第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322R00000001003_20260401_508R00000001001",
+   "amendment_promulgate_date": "2026-04-01",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508R00000001001",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則及び計算証明規則の一部を改正する規則",
+   "amendment_law_num": "令和八年会計検査院規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20250701_507R00000001004",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507R00000001004",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則及び計算証明規則の一部を改正する規則",
+   "amendment_law_num": "令和七年会計検査院規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20250401_507R00000001003",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507R00000001003",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和七年会計検査院規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20240614_506R00000001004",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-14",
+   "amendment_law_id": "506R00000001004",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和六年会計検査院規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20240405_506R00000001002",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-05",
+   "amendment_law_id": "506R00000001002",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和六年会計検査院規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20231001_505R00000001006",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505R00000001006",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和五年会計検査院規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20230901_505R00000001005",
+   "amendment_promulgate_date": "2023-09-01",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505R00000001005",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和五年会計検査院規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20230401_505R00000001004",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505R00000001004",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和五年会計検査院規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20221114_504R00000001009",
+   "amendment_promulgate_date": "2022-11-14",
+   "amendment_enforcement_date": "2022-11-14",
+   "amendment_law_id": "504R00000001009",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和四年会計検査院規則第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20220401_504R00000001007",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504R00000001007",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和四年会計検査院規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20210901_503R00000001006",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503R00000001006",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和三年会計検査院規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20210701_503R00000001004",
+   "amendment_promulgate_date": "2021-07-01",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503R00000001004",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和三年会計検査院規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20200401_502R00000001004",
+   "amendment_promulgate_date": "2020-04-01",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502R00000001004",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和二年会計検査院規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20200107_502R00000001001",
+   "amendment_promulgate_date": "2020-01-07",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_law_id": "502R00000001001",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "令和二年会計検査院規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20190401_431R00000001001",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431R00000001001",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則及び計算証明規則の一部を改正する規則",
+   "amendment_law_num": "平成三十一年会計検査院規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20180925_430R00000001003",
+   "amendment_promulgate_date": "2018-09-25",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430R00000001003",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則及び計算証明規則の一部を改正する規則",
+   "amendment_law_num": "平成三十年会計検査院規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20180720_430R00000001002",
+   "amendment_promulgate_date": "2018-07-20",
+   "amendment_enforcement_date": "2018-07-20",
+   "amendment_law_id": "430R00000001002",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "平成三十年会計検査院規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20171201_429R00000001009",
+   "amendment_promulgate_date": "2017-12-01",
+   "amendment_enforcement_date": "2017-12-01",
+   "amendment_law_id": "429R00000001009",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "平成二十九年会計検査院規則第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20170901_429R00000001007",
+   "amendment_promulgate_date": "2017-09-01",
+   "amendment_enforcement_date": "2017-09-01",
+   "amendment_law_id": "429R00000001007",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "平成二十九年会計検査院規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20170711_429R00000001006",
+   "amendment_promulgate_date": "2017-07-07",
+   "amendment_enforcement_date": "2017-07-11",
+   "amendment_law_id": "429R00000001006",
+   "amendment_law_title": "会計検査院事務総局事務分掌及び分課規則の一部を改正する規則",
+   "amendment_law_num": "平成二十九年会計検査院規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322R00000001003_20170401_429R00000001003",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429R00000001003",
+   "amendment_law_num": "平成二十九年会計検査院規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "事務総長官房に、総務、人事、調査、会計及び法規の五課を置く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-05-03",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-30T14:24:09+09:00"
+ }
+}

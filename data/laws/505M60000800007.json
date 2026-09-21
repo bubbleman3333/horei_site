@@ -1,0 +1,85 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000800007",
+  "law_num": "令和五年国土交通省令第七号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "007",
+  "promulgation_date": "2023-03-08"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000800007_20260601_508M60000800053",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "自動車損害賠償保障法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則",
+  "law_title_kana": "じどうしゃそんがいばいしょうほしょうほうにかかるみんかんじぎょうしゃとうがおこなうしょめんのほぞんとうにおけるじょうほうつうしんのぎじゅつのりようにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "行政手続",
+  "updated": "2026-06-01T02:13:12+09:00",
+  "amendment_promulgate_date": "2026-04-15",
+  "amendment_enforcement_date": "2026-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800053",
+  "amendment_law_title": "自動車損害賠償保障法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000800007_20260601_508M60000800053",
+   "amendment_promulgate_date": "2026-04-15",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508M60000800053",
+   "amendment_law_title": "自動車損害賠償保障法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000800007_20251201_507M60000800109",
+   "amendment_promulgate_date": "2025-11-14",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507M60000800109",
+   "amendment_law_title": "自動車損害賠償保障法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000800007_20241111_506M60000800093",
+   "amendment_promulgate_date": "2024-10-28",
+   "amendment_enforcement_date": "2024-11-11",
+   "amendment_law_id": "506M60000800093",
+   "amendment_law_title": "自動車損害賠償保障法に係る民間事業者等が行う書面の保存等における情報通信の技術の利用に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000800007_20230601_000000000000000",
+   "amendment_promulgate_date": "2023-03-08",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "民間事業者等が、自動車損害賠償保障法（昭和三十年法律第九十七号。以下「自賠法」という。）に係る保存等を、電磁的記録を使用して行う場合については、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-03-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-01T02:13:12+09:00"
+ }
+}

@@ -1,0 +1,85 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60000400076",
+  "law_num": "平成二十年経済産業省令第七十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "076",
+  "promulgation_date": "2008-10-21"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60000400076_20260807_508M60000400067",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "経済産業省関係科学技術・イノベーション創出の活性化に関する法律施行規則",
+  "law_title_kana": "けいざいさんぎょうしょうかんけいかがくぎじゅついのべーしょんそうしゅつのかっせいかにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-08-24T10:01:05+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400067",
+  "amendment_law_title": "経済産業省関係科学技術・イノベーション創出の活性化に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第六十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60000400076_20260807_508M60000400067",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000400067",
+   "amendment_law_title": "経済産業省関係科学技術・イノベーション創出の活性化に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60000400076_20221018_504M60000400079",
+   "amendment_promulgate_date": "2022-10-18",
+   "amendment_enforcement_date": "2022-10-18",
+   "amendment_law_id": "504M60000400079",
+   "amendment_law_title": "経済産業省関係科学技術・イノベーション創出の活性化に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000400076_20190117_431M60000400004",
+   "amendment_promulgate_date": "2019-01-17",
+   "amendment_enforcement_date": "2019-01-17",
+   "amendment_law_id": "431M60000400004",
+   "amendment_law_title": "経済産業省関係研究開発システムの改革の推進等による研究開発能力の強化及び研究開発等の効率的推進等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年経済産業省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000400076_20081021_000000000000000",
+   "amendment_promulgate_date": "2008-10-21",
+   "amendment_enforcement_date": "2008-10-21",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（本邦法人又は外国法人等の範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "科学技術・イノベーション創出の活性化に関する法律施行令（平成二十年政令第三百十四号。以下「令」という。）第六条第四項第三号の命令で定める本邦法人又は外国法人等は、次に掲げる本邦法人又は外国法人等とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-10-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-24T10:01:05+09:00"
+ }
+}

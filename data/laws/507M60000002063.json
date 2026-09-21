@@ -1,0 +1,63 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000002063",
+  "law_num": "令和七年内閣府令第六十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "063",
+  "promulgation_date": "2025-06-27"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000002063_20260401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公益信託に関する法律施行規則",
+  "law_title_kana": "こうえきしんたくにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-04-02T21:57:42+09:00",
+  "amendment_promulgate_date": "2025-06-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000002063_20260401_000000000000000",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　信託行為において定める事項",
+  "第二章　公益信託の認可等",
+  "第三章　公益信託事務の処理等",
+  "第四章　公益信託の併合等",
+  "第五章　報告及び検査",
+  "第六章　移行認可",
+  "第七章　公示及び公表"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "公益信託に関する法律（以下「法」という。）第四条第二項第四号の内閣府令で定める事項は、次に掲げる事項とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-06-27",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:57:42+09:00"
+ }
+}

@@ -1,0 +1,163 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "417CO0000000091",
+  "law_num": "平成十七年政令第九十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "091",
+  "promulgation_date": "2005-03-30"
+ },
+ "revision_info": {
+  "law_revision_id": "417CO0000000091_20260501_507CO0000000362",
+  "law_type": "CabinetOrder",
+  "law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料令",
+  "law_title_kana": "いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつかんけいてすうりょうれい",
+  "abbrev": "薬事法関係手数料令,薬機法関係手数料令,医薬品医療機器等法関係手数料令",
+  "category": "厚生",
+  "updated": "2026-05-01T01:56:55+09:00",
+  "amendment_promulgate_date": "2025-10-31",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000362",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和七年政令第三百六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417CO0000000091_21171231_430CO0000000295",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "環太平洋パートナーシップ協定が日本国について効力を生ずる日の前日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "430CO0000000295",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20270520_508CO0000000210",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2027-05-20",
+   "amendment_law_id": "508CO0000000210",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20260501_507CO0000000362",
+   "amendment_promulgate_date": "2025-10-31",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507CO0000000362",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第三百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20220520_504CO0000000196",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504CO0000000196",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20220113_504CO0000000019",
+   "amendment_promulgate_date": "2022-01-13",
+   "amendment_enforcement_date": "2022-01-13",
+   "amendment_law_id": "504CO0000000019",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20210801_503CO0000000001",
+   "amendment_promulgate_date": "2021-01-05",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503CO0000000001",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20200901_502CO0000000228",
+   "amendment_promulgate_date": "2020-07-28",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000228",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20190401_431CO0000000049",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000049",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20181230_430CO0000000295",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "430CO0000000295",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20180401_430CO0000000024",
+   "amendment_promulgate_date": "2018-01-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000024",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417CO0000000091_20170401_429CO0000000062",
+   "amendment_promulgate_date": "2017-03-29",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000062",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律関係手数料令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　国に納める手数料",
+  "第二章　独立行政法人医薬品医療機器総合機構に納める手数料"
+ ],
+ "article1": {
+  "caption": "（医薬品及び医薬部外品の製造販売業の許可の更新の申請に係る手数料の額）",
+  "title": "第一条",
+  "paragraphs": [
+   "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（以下「法」という。）第七十八条第一項第一号に掲げる者（専ら動物のために使用されることが目的とされている医薬品（体外診断用医薬品を除く。）又は医薬部外品の製造販売に係る許可の更新を申請する者に限る。）が同項の規定により国に納めなければならない手数料の額は、一万五千二百円とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-03-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T01:56:55+09:00"
+ }
+}

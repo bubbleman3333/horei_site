@@ -1,0 +1,103 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "360CO0000000326",
+  "law_num": "昭和六十年政令第三百二十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 60,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "326",
+  "promulgation_date": "1985-12-24"
+ },
+ "revision_info": {
+  "law_revision_id": "360CO0000000326_20260521_508CO0000000038",
+  "law_type": "CabinetOrder",
+  "law_title": "回路配置利用権等の登録に関する政令",
+  "law_title_kana": "かいろはいちりようけんとうのとうろくにかんするせいれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-21T01:45:04+09:00",
+  "amendment_promulgate_date": "2026-03-18",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000038",
+  "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "360CO0000000326_20260521_508CO0000000038",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000038",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000326_20260401_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000326_20250627_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-06-27",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000326_20200401_430CO0000000183",
+   "amendment_promulgate_date": "2018-06-06",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430CO0000000183",
+   "amendment_law_title": "民法の一部を改正する法律及び民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360CO0000000326_20150401_427CO0000000074",
+   "amendment_promulgate_date": "2015-03-18",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000074",
+   "amendment_law_title": "独立行政法人通則法の一部を改正する法律及び独立行政法人通則法の一部を改正する法律の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令　抄",
+   "amendment_law_num": "平成二十七年政令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　回路配置原簿及び閉鎖回路配置原簿",
+  "第三章　登録の手続",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令は、回路配置利用権に関する登録に関し必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1985-12-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T01:45:04+09:00"
+ }
+}

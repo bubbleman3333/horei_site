@@ -1,0 +1,187 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "327M50000800042",
+  "law_num": "昭和二十七年運輸省令第四十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 27,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "042",
+  "promulgation_date": "1952-07-02"
+ },
+ "revision_info": {
+  "law_revision_id": "327M50000800042_20260401_507M60000800120",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "内航海運業法施行規則",
+  "law_title_kana": "ないこうかいうんぎょうほうしこうきそく",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-04-01T02:35:47+09:00",
+  "amendment_promulgate_date": "2025-12-15",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800120",
+  "amendment_law_title": "内航海運業法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第百二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "327M50000800042_20260401_507M60000800120",
+   "amendment_promulgate_date": "2025-12-15",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000800120",
+   "amendment_law_title": "内航海運業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20251215_507M60000800120",
+   "amendment_promulgate_date": "2025-12-15",
+   "amendment_enforcement_date": "2025-12-15",
+   "amendment_law_id": "507M60000800120",
+   "amendment_law_title": "内航海運業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20250401_506M60000800109",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800109",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20240401_506M60000800002",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800002",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20220401_504M60000800013",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800013",
+   "amendment_law_title": "海上運送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20220401_504M60000800002",
+   "amendment_promulgate_date": "2022-01-07",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800002",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20210201_502M60000800087",
+   "amendment_promulgate_date": "2020-11-02",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "502M60000800087",
+   "amendment_law_title": "海上運送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20201102_502M60000800087",
+   "amendment_promulgate_date": "2020-11-02",
+   "amendment_enforcement_date": "2020-11-02",
+   "amendment_law_id": "502M60000800087",
+   "amendment_law_title": "海上運送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20190426_431M60000800036",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-04-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000800036",
+   "amendment_law_title": "内航海運業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年国土交通省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20170615_429M60000800037",
+   "amendment_promulgate_date": "2017-06-15",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_law_id": "429M60000800037",
+   "amendment_law_num": "平成二十九年国土交通省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "327M50000800042_20061001_418M60000800078",
+   "amendment_promulgate_date": "2006-07-14",
+   "amendment_enforcement_date": "2006-10-01",
+   "amendment_law_id": "418M60000800078",
+   "amendment_law_num": "平成十八年国土交通省令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、内航海運業法（以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1952-07-02",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T02:35:47+09:00"
+ }
+}

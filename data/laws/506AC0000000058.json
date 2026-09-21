@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "506AC0000000058",
+  "law_num": "令和六年法律第五十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "058",
+  "promulgation_date": "2024-06-19"
+ },
+ "revision_info": {
+  "law_revision_id": "506AC0000000058_20251218_000000000000000",
+  "law_type": "Act",
+  "law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律",
+  "law_title_kana": "すまーとふぉんにおいてりようされるとくていそふとうぇあにかかるきょうそうのそくしんにかんするほうりつ",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2025-12-18T00:21:04+09:00",
+  "amendment_promulgate_date": "2024-06-19",
+  "amendment_enforcement_date": "2025-12-18",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506AC0000000058_20251218_000000000000000",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2025-12-18",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000058_20241219_000000000000000",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-12-19",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000058_20240619_000000000000000",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-06-19",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　特定ソフトウェア事業者の指定等",
+  "第三章　指定事業者の義務",
+  "第四章　違反に対する措置等",
+  "第五章　差止請求、損害賠償等",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、我が国においてスマートフォンが国民生活及び経済活動の基盤としての役割を果たしていることに鑑み、スマートフォンの利用に特に必要な特定ソフトウェアの提供等を行う事業者に対し、特定ソフトウェアの提供等を行う事業者としての立場を利用して自ら提供する商品又は役務を競争上優位にすること及び特定ソフトウェアを利用する事業者の事業活動に不利益を及ぼすことの禁止等について定めることにより、特定ソフトウェアに係る公正かつ自由な競争の促進を図り、もって国民生活の向上及び国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-06-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-18T00:21:04+09:00"
+ }
+}

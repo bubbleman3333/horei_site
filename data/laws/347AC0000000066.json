@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "347AC0000000066",
+  "law_num": "昭和四十七年法律第六十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "Act",
+  "law_num_num": "066",
+  "promulgation_date": "1972-06-15"
+ },
+ "revision_info": {
+  "law_revision_id": "347AC0000000066_20260903_508AC0000000027",
+  "law_type": "Act",
+  "law_title": "公有地の拡大の推進に関する法律",
+  "law_title_kana": "こうゆうちのかくだいのすいしんにかんするほうりつ",
+  "abbrev": "公有地拡大推進法,公拡法",
+  "category": "土地",
+  "updated": "2026-09-03T00:21:00+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-09-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000027",
+  "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和八年法律第二十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347AC0000000066_20260903_508AC0000000027",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-09-03",
+   "amendment_law_id": "508AC0000000027",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和八年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347AC0000000066_20260401_507AC0000000068",
+   "amendment_promulgate_date": "2025-06-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000068",
+   "amendment_law_title": "公立の義務教育諸学校等の教育職員の給与等に関する特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347AC0000000066_20240919_506AC0000000053",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-09-19",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "506AC0000000053",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和六年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347AC0000000066_20240619_506AC0000000053",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-06-19",
+   "amendment_law_id": "506AC0000000053",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和六年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347AC0000000066_20160420_428AC0000000030",
+   "amendment_promulgate_date": "2016-04-20",
+   "amendment_enforcement_date": "2016-04-20",
+   "amendment_law_id": "428AC0000000030",
+   "amendment_law_title": "地域再生法の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、都市の健全な発展と秩序ある整備を促進するため必要な土地の先買いに関する制度の整備、地方公共団体に代わつて土地の先行取得を行なうこと等を目的とする土地開発公社の創設その他の措置を講ずることにより、公有地の拡大の計画的な推進を図り、もつて地域の秩序ある整備と公共の福祉の増進に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-06-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-03T00:21:00+09:00"
+ }
+}

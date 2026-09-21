@@ -1,0 +1,289 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "418M60000010057",
+  "law_num": "平成十八年法務省令第五十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "057",
+  "promulgation_date": "2006-05-23"
+ },
+ "revision_info": {
+  "law_revision_id": "418M60000010057_20260521_508M60000010015",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "刑事施設及び被収容者の処遇に関する規則",
+  "law_title_kana": "けいじしせつおよびひしゅうようしゃのしょぐうにかんするきそく",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-21T02:37:28+09:00",
+  "amendment_promulgate_date": "2026-03-24",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010015",
+  "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418M60000010057_20260521_508M60000010015",
+   "amendment_promulgate_date": "2026-03-24",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000010015",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20260408_508M60000010031",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000010031",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20250601_507M60000010037",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000010037",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20250401_507M60000010028",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000010028",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20240401_506M60000010025",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000010025",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20231201_505M60000010047",
+   "amendment_promulgate_date": "2023-11-30",
+   "amendment_enforcement_date": "2023-12-01",
+   "amendment_law_id": "505M60000010047",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則及び少年院法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20230701_504M60000010036",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "504M60000010036",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20230401_505M60000010021",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000010021",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20230401_505M60000010011",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000010011",
+   "amendment_law_title": "刑務所、少年刑務所及び拘置所組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20230401_505M60000010005",
+   "amendment_promulgate_date": "2023-03-20",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000010005",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20230401_504M60000010036",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000010036",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20221001_504M60000010036",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000010036",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20220401_504M60000010022",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000010022",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20201109_502M60000010051",
+   "amendment_promulgate_date": "2020-11-09",
+   "amendment_enforcement_date": "2020-11-09",
+   "amendment_law_id": "502M60000010051",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20200630_502M60000010042",
+   "amendment_promulgate_date": "2020-06-29",
+   "amendment_enforcement_date": "2020-06-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010042",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20200401_502M60000010019",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000010019",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20200401_501M60000010040",
+   "amendment_promulgate_date": "2019-11-19",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501M60000010040",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20191201_501M60000010040",
+   "amendment_promulgate_date": "2019-11-19",
+   "amendment_enforcement_date": "2019-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000010040",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20190513_501M60000010002",
+   "amendment_promulgate_date": "2019-05-13",
+   "amendment_enforcement_date": "2019-05-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000010002",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20180401_430M60000010014",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000010014",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年法務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20170713_429M60000010028",
+   "amendment_promulgate_date": "2017-07-10",
+   "amendment_enforcement_date": "2017-07-13",
+   "amendment_law_id": "429M60000010028",
+   "amendment_law_title": "刑事施設及び被収容者の処遇に関する規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年法務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000010057_20170401_429M60000010016",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000010016",
+   "amendment_law_num": "平成二十九年法務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　収容の開始",
+  "第三章　処遇の態様",
+  "第四章　起居動作の時間帯等",
+  "第五章　物品の貸与等及び自弁",
+  "第六章　金品の取扱い",
+  "第七章　保健衛生及び医療",
+  "第八章　書籍等の閲覧",
+  "第九章　規律及び秩序の維持",
+  "第十章　矯正処遇の実施等",
+  "第十一章　外部交通",
+  "第十二章　賞罰",
+  "第十三章　不服申立て",
+  "第十四章　釈放及び死亡",
+  "第十五章　労役場及び監置場",
+  "第十六章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則は、刑事施設及び被収容者の処遇に関し、刑事収容施設及び被収容者等の処遇に関する法律（平成十七年法律第五十号。以下「法」という。）の規定による委任に基づく事項その他法の施行に必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-05-23",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:37:28+09:00"
+ }
+}

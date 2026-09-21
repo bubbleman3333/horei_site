@@ -1,0 +1,85 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "504M60000002001",
+  "law_num": "令和四年内閣府令第一号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2022-01-04"
+ },
+ "revision_info": {
+  "law_revision_id": "504M60000002001_20260521_508M60000002049",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "預託等取引に関する法律施行規則",
+  "law_title_kana": "よたくとうとりひきにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-05-29T14:38:18+09:00",
+  "amendment_promulgate_date": "2026-05-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002049",
+  "amendment_law_title": "預託等取引に関する法律施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第四十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504M60000002001_20260521_508M60000002049",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000002049",
+   "amendment_law_title": "預託等取引に関する法律施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504M60000002001_20260520_508M60000002049",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-05-20",
+   "amendment_law_id": "508M60000002049",
+   "amendment_law_title": "預託等取引に関する法律施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000002001_20230601_505M60000002013",
+   "amendment_promulgate_date": "2023-02-01",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000002013",
+   "amendment_law_title": "預託等取引に関する法律施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000002001_20220601_000000000000000",
+   "amendment_promulgate_date": "2022-01-04",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第一項第一号の内閣府令で定める期間）",
+  "title": "第一条",
+  "paragraphs": [
+   "預託等取引に関する法律（以下「法」という。）第二条第一項第一号の内閣府令で定める期間は、三月とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-01-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-29T14:38:18+09:00"
+ }
+}

@@ -1,0 +1,215 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60002000010",
+  "law_num": "平成十九年防衛省令第十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "010",
+  "promulgation_date": "2007-08-20"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60002000010_20260408_508M60002000013",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方防衛局組織規則",
+  "law_title_kana": "ちほうぼうえいきょくそしききそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-05-20T10:20:37+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60002000013",
+  "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年防衛省令第十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60002000010_20260408_508M60002000013",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60002000013",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20250722_507M60002000013",
+   "amendment_promulgate_date": "2025-07-18",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507M60002000013",
+   "amendment_law_title": "地方防衛局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和七年防衛省令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20240401_506M60002000005",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60002000005",
+   "amendment_law_title": "防衛省職員給与施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20231015_505M60002000011",
+   "amendment_promulgate_date": "2023-08-02",
+   "amendment_enforcement_date": "2023-10-15",
+   "amendment_law_id": "505M60002000011",
+   "amendment_law_title": "地方防衛局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20230813_505M60002000010",
+   "amendment_promulgate_date": "2023-08-02",
+   "amendment_enforcement_date": "2023-08-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "505M60002000010",
+   "amendment_law_title": "地方防衛局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20230421_505M60002000007",
+   "amendment_promulgate_date": "2023-04-21",
+   "amendment_enforcement_date": "2023-04-21",
+   "amendment_law_id": "505M60002000007",
+   "amendment_law_title": "地方防衛局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20230401_505M60002000005",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60002000005",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20230331_505M60002000004",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-03-31",
+   "amendment_law_id": "505M60002000004",
+   "amendment_law_title": "地方防衛局組織規則の一部を改正する省令",
+   "amendment_law_num": "令和五年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20220401_504M60002000003",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60002000003",
+   "amendment_law_title": "指定職俸給表の適用を受ける書記官その他の官職及びこれらに準ずる自衛官の官職を定める省令等の一部を改正する省令",
+   "amendment_law_num": "令和四年防衛省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20210401_503M60002000004",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60002000004",
+   "amendment_law_title": "防衛大学校、防衛医科大学校、防衛研究所及び防衛監察本部組織規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20200401_502M60002000003",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60002000003",
+   "amendment_law_title": "防衛省職員給与施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年防衛省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20190401_431M60002000005",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60002000005",
+   "amendment_law_title": "自衛隊法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成三十一年防衛省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20181201_430M60002000007",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60002000007",
+   "amendment_law_title": "地方防衛局組織規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年防衛省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20180413_430M60002000004",
+   "amendment_promulgate_date": "2018-04-13",
+   "amendment_enforcement_date": "2018-04-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60002000004",
+   "amendment_law_title": "地方防衛局組織規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年防衛省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20180101_429M60002000017",
+   "amendment_promulgate_date": "2017-12-27",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60002000017",
+   "amendment_law_title": "地方防衛局組織規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年防衛省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60002000010_20170331_429M60002000007",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-03-31",
+   "amendment_law_id": "429M60002000007",
+   "amendment_law_num": "平成二十九年防衛省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（防衛補佐官）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方防衛局に、それぞれ防衛補佐官一人を置く。",
+   "防衛補佐官は、自衛官をもって充てる。",
+   "防衛補佐官は、地方防衛局長の命を受けて、自衛隊の部隊及び機関、地方公共団体、条約に基づいて日本国にある外国軍隊（以下「駐留軍」という。）その他の関係機関との連絡及び協力に関する重要事項についての企画及び立案に参画し、並びに地方防衛局の事務に関し、部隊の運用の見地から助言を行う。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-08-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T10:20:37+09:00"
+ }
+}

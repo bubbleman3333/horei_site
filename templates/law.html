@@ -1,0 +1,83 @@
+{% extends "base.html" %}
+{% from "_card.html" import card %}
+{% set st, label = law.status(today) %}
+{% block title %}{{ art.title }}{% if not art.written %}の改正・施行日{% endif %} | {{ site.name }}{% endblock %}
+{% block description %}{{ art.summary }}{% endblock %}
+{% block ogtype %}article{% endblock %}
+{% block head %}
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Legislation","name":{{ law.title|tojson }},
+ "legislationIdentifier":{{ law.law_num|tojson }},"legislationType":{{ law.type_label|tojson }},
+ "legislationJurisdiction":"日本","inLanguage":"ja",
+ {% if law.promulgated %}"legislationDate":"{{ law.promulgated.isoformat() }}","datePublished":"{{ law.promulgated.isoformat() }}",{% endif %}
+ {% if law.enforced %}"temporalCoverage":"{{ law.enforced.isoformat() }}/..",{% endif %}
+ "dateModified":"{{ (law.fetched_at or today).isoformat() }}",
+ "description":{{ art.summary|tojson }},"url":{{ canonical|tojson }},
+ "sameAs":{{ law.egov_url|tojson }},
+ "publisher":{"@type":"Organization","name":{{ site.name|tojson }}}}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[
+ {"@type":"ListItem","position":1,"name":"ホーム","item":{{ url()|tojson }}},
+ {"@type":"ListItem","position":2,"name":{{ law.type_label|tojson }},"item":{{ url('type/' ~ law.type_slug ~ '/')|tojson }}},
+{% if law.category %} {"@type":"ListItem","position":3,"name":{{ law.category|tojson }},"item":{{ url('category/' ~ law.category_slug ~ '/')|tojson }}},
+ {"@type":"ListItem","position":4,"name":{{ law.title|tojson }},"item":{{ canonical|tojson }}}
+{% else %} {"@type":"ListItem","position":3,"name":{{ law.title|tojson }},"item":{{ canonical|tojson }}}
+{% endif %}]}
+</script>
+{% endblock %}
+{% block content %}
+<article>
+<nav class="crumbs"><a href="{{ url() }}">ホーム</a> › <a href="{{ url('type/' ~ law.type_slug ~ '/') }}">{{ law.type_label }}</a>{% if law.category %} › <a href="{{ url('category/' ~ law.category_slug ~ '/') }}">{{ law.category }}</a>{% endif %} › {{ law.title }}</nav>
+<h1>{{ art.title }}</h1>
+{% if art.written and art.title != law.title %}<p class="small">対象の法令: {{ law.title }}</p>{% endif %}
+<p class="meta-line"><span class="badge {{ st }}">{{ label }}</span> {{ law.law_num }}{% if law.abbrev %} ・ 略称 {{ law.abbrev }}{% endif %} ・ 更新 {{ (law.fetched_at or today)|date }}</p>
+<p class="lead">{{ art.summary }}</p>
+{% if ads.article_top %}<div class="ad">{{ ads.article_top|safe }}</div>{% endif %}
+
+<table class="facts">
+  <tr><th>法令名</th><td>{{ law.title }}{% if law.title_kana %}<span class="small">（{{ law.title_kana }}）</span>{% endif %}</td></tr>
+  <tr><th>法令番号</th><td>{{ law.law_num }}</td></tr>
+  <tr><th>種別</th><td><a href="{{ url('type/' ~ law.type_slug ~ '/') }}">{{ law.type_label }}</a></td></tr>
+  {% if law.category %}<tr><th>分野</th><td><a href="{{ url('category/' ~ law.category_slug ~ '/') }}">{{ law.category }}</a></td></tr>{% endif %}
+  {% if law.ministries %}<tr><th>所管府省</th><td>{% for m in law.ministries %}<a href="{{ url('ministry/' ~ ministry_slug(m) ~ '/') }}">{{ m }}</a>{% if not loop.last %}・{% endif %}{% endfor %}<span class="small">（法令番号から）</span></td></tr>{% endif %}
+  <tr><th>公布日</th><td>{{ law.promulgated|date }}</td></tr>
+  <tr><th>現在の条文の施行日</th><td>{{ law.enforced|date }}</td></tr>
+  {% if future %}<tr><th>次の施行</th><td><strong class="left">{{ future[0].enforcement|date }}</strong>{% if law.days_until(today) is not none %}（あと{{ law.days_until(today) }}日）{% endif %}</td></tr>{% endif %}
+  {% if law.amend_law_title %}<tr><th>直近の改正法令</th><td>{{ law.amend_law_title }}{% if law.amend_law_num %}（{{ law.amend_law_num }}）{% endif %}</td></tr>{% endif %}
+  {% if law.is_repealed %}<tr><th>廃止等</th><td>{{ law.repeal_label }}（{{ law.repeal_date|date }}）</td></tr>{% endif %}
+</table>
+<p class="cta"><a class="button" href="{{ law.egov_url }}" rel="noopener" target="_blank">e-Gov 法令検索で全文を読む</a></p>
+
+<div class="article-body">
+{% if art.written %}<p class="byline">編集部の解説</p>{% endif %}
+{{ art.body_html|safe }}
+</div>
+
+{% if law.revisions %}
+<section class="official">
+  <h2>改正履歴</h2>
+  <p class="small">e-Gov 法令検索が持っている版（新しい順、最大 {{ law.revisions|length }} 件）です。「施行予定」は、まだその日が来ていない版です。</p>
+  <table class="facts revisions">
+    <tr><th>施行日</th><th>改正法令</th><th>改正法令の公布日</th><th>状態</th></tr>
+    {% for r in law.revisions %}
+    <tr>
+      <td>{{ r.enforcement|date }}{% if r.comment %}<span class="small">（{{ r.comment }}）</span>{% endif %}</td>
+      <td>{{ r.law_title or '（新規制定）' }}{% if r.law_num %}<span class="small">（{{ r.law_num }}）</span>{% endif %}</td>
+      <td>{{ r.promulgate|date }}</td>
+      <td>{% if r.is_future(today) %}<span class="badge scheduled">施行予定</span>{% elif r.status == 'CurrentEnforced' %}<span class="badge enforced">現行</span>{% else %}<span class="badge past">過去</span>{% endif %}</td>
+    </tr>
+    {% endfor %}
+  </table>
+  <p class="source">出典: e-Gov 法令検索（デジタル庁）「<a href="{{ law.egov_url }}" rel="noopener" target="_blank">{{ law.title }}</a>」（{{ (law.fetched_at or today)|date }} 取得）</p>
+</section>
+{% endif %}
+{% if ads.article_bottom %}<div class="ad">{{ ads.article_bottom|safe }}</div>{% endif %}
+</article>
+{% if related %}
+<section>
+  <h2>同じ分野で最近動きのあった法令</h2>
+  <ul class="cards">{% for r in related %}{{ card(r) }}{% endfor %}</ul>
+</section>
+{% endif %}
+{% endblock %}

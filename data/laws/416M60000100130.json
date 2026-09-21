@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "416M60000100130",
+  "law_num": "平成十六年厚生労働省令第百三十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "130",
+  "promulgation_date": "2004-09-17"
+ },
+ "revision_info": {
+  "law_revision_id": "416M60000100130_20040917_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "武力攻撃事態等における国民の保護のための措置に関する法律第九十一条第一項の規定による許可を受けようとする外国医療関係者が厚生労働大臣に提出しなければならない書面等を定める省令",
+  "law_title_kana": "ぶりょくこうげきじたいとうにおけるこくみんのほごのためのそちにかんするほうりつだいきゅうじゅういちじょうだいいっこうのきていによるきょかをうけようとするがいこくいりょうかんけいしゃがこうせいろうどうだいじんにていしゅつしなければならないしょめんとうをさだめるしょうれい",
+  "abbrev": null,
+  "category": "外事",
+  "updated": "2024-06-13T16:28:34+09:00",
+  "amendment_promulgate_date": "2004-09-17",
+  "amendment_enforcement_date": "2004-09-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416M60000100130_20261001_508M60000100107",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100107",
+   "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "416M60000100130_20040917_000000000000000",
+   "amendment_promulgate_date": "2004-09-17",
+   "amendment_enforcement_date": "2004-09-17",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（許可を受けようとする外国医療関係者が提出しなければならない書面）",
+  "title": "第一条",
+  "paragraphs": [
+   "武力攻撃事態等における国民の保護のための措置に関する法律施行令（平成十六年政令第二百七十五号。以下「令」という。）第十九条第一項の厚生労働省令で定める書面は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-09-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2024-06-13T16:28:34+09:00"
+ }
+}

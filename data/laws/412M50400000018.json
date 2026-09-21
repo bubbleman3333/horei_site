@@ -1,0 +1,117 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "412M50400000018",
+  "law_num": "平成十二年国家公安委員会規則第十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "Rule",
+  "law_num_num": "018",
+  "promulgation_date": "2000-11-21"
+ },
+ "revision_info": {
+  "law_revision_id": "412M50400000018_20260521_508M60400000011",
+  "law_type": "Rule",
+  "law_title": "ストーカー行為等の規制等に関する法律施行規則",
+  "law_title_kana": "すとーかーこういとうのきせいとうにかんするほうりつせこうきそく",
+  "abbrev": "ストーカー規制法施行規則,ストーカー法施行規則",
+  "category": "警察",
+  "updated": "2026-05-29T11:56:04+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000011",
+  "amendment_law_title": "暴力団員による不当な行為の防止等に関する法律施行規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412M50400000018_20260521_508M60400000011",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60400000011",
+   "amendment_law_title": "暴力団員による不当な行為の防止等に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412M50400000018_20260310_508M60400000001",
+   "amendment_promulgate_date": "2026-02-27",
+   "amendment_enforcement_date": "2026-03-10",
+   "amendment_law_id": "508M60400000001",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律施行規則の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50400000018_20210826_503M60400000008",
+   "amendment_promulgate_date": "2021-08-13",
+   "amendment_enforcement_date": "2021-08-26",
+   "amendment_law_id": "503M60400000008",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律施行規則及び行方不明者発見活動に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和三年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50400000018_20201228_502M60400000013",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60400000013",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50400000018_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50400000018_20170614_429M60400000005",
+   "amendment_promulgate_date": "2017-05-26",
+   "amendment_enforcement_date": "2017-06-14",
+   "amendment_law_id": "429M60400000005",
+   "amendment_law_title": "ストーカー行為等の規制等に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "平成二十九年国家公安委員会規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50400000018_20170103_428M60400000025",
+   "amendment_promulgate_date": "2016-12-14",
+   "amendment_enforcement_date": "2017-01-03",
+   "amendment_law_id": "428M60400000025",
+   "amendment_law_num": "平成二十八年国家公安委員会規則第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（警告の申出の受理）",
+  "title": "第一条",
+  "paragraphs": [
+   "ストーカー行為等の規制等に関する法律（以下「法」という。）第四条第一項の申出（以下「警告の申出」という。）の受理は、別記様式第一号の警告申出書の提出を受けることにより（当該申出が口頭によるものであるときは、別記様式第一号の警告申出書に記入を求め、又は警察職員が代書することにより）、行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-11-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-29T11:56:04+09:00"
+ }
+}

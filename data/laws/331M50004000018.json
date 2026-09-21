@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "331M50004000018",
+  "law_num": "昭和三十一年建設省令第十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 31,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "018",
+  "promulgation_date": "1956-05-16"
+ },
+ "revision_info": {
+  "law_revision_id": "331M50004000018_20251109_507M60000800103",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "道路整備特別措置法施行規則",
+  "law_title_kana": "どうろせいびとくべつそちほうしこうきそく",
+  "abbrev": null,
+  "category": "道路",
+  "updated": "2025-11-09T00:01:36+09:00",
+  "amendment_promulgate_date": "2025-10-10",
+  "amendment_enforcement_date": "2025-11-09",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000800103",
+  "amendment_law_title": "道路整備特別措置法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年国土交通省令第百三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "331M50004000018_20251109_507M60000800103",
+   "amendment_promulgate_date": "2025-10-10",
+   "amendment_enforcement_date": "2025-11-09",
+   "amendment_law_id": "507M60000800103",
+   "amendment_law_title": "道路整備特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "331M50004000018_20250416_507M60000800056",
+   "amendment_promulgate_date": "2025-04-16",
+   "amendment_enforcement_date": "2025-04-16",
+   "amendment_law_id": "507M60000800056",
+   "amendment_law_title": "道路整備特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50004000018_20240401_506M60000800002",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800002",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50004000018_20230906_505M60000800065",
+   "amendment_promulgate_date": "2023-09-01",
+   "amendment_enforcement_date": "2023-09-06",
+   "amendment_law_id": "505M60000800065",
+   "amendment_law_title": "道路整備特別措置法及び独立行政法人日本高速道路保有・債務返済機構法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和五年国土交通省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50004000018_20230607_505M60000800046",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2023-06-07",
+   "amendment_law_id": "505M60000800046",
+   "amendment_law_title": "道路整備特別措置法施行規則及び地方道路公社法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "331M50004000018_20150401_427M60000800004",
+   "amendment_promulgate_date": "2015-01-23",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427M60000800004",
+   "amendment_law_num": "平成二十七年国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（許可申請書の添付書類）",
+  "title": "第一条",
+  "paragraphs": [
+   "道路整備特別措置法（以下「法」という。）第三条第二項の国土交通省令で定める書類は、次に掲げるものとする。",
+   "会社（法第二条第四項に規定する会社をいう。以下同じ。）は、法第三条第二項の申請書を国土交通大臣に提出しようとするときは、前項各号に掲げる書類のほか、法第三条第三項の規定により道路管理者と協議し、又は道路管理者の同意を得たことを証する書類を添付しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1956-05-16",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-09T00:01:36+09:00"
+ }
+}

@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "414CO0000000379",
+  "law_num": "平成十四年政令第三百七十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 14,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "379",
+  "promulgation_date": "2002-12-18"
+ },
+ "revision_info": {
+  "law_revision_id": "414CO0000000379_20260401_508CO0000000019",
+  "law_type": "CabinetOrder",
+  "law_title": "マンションの再生等の円滑化に関する法律による不動産登記に関する政令",
+  "law_title_kana": "まんしょんのさいせいとうのえんかつかにかんするほうりつによるふどうさんとうきにかんするせいれい",
+  "abbrev": "マンション建て替え円滑化法による不動産登記に関する政令",
+  "category": "民事",
+  "updated": "2026-04-02T18:36:45+09:00",
+  "amendment_promulgate_date": "2026-03-04",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000019",
+  "amendment_law_title": "マンションの建替え等の円滑化に関する法律による不動産登記に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "414CO0000000379_20260401_508CO0000000019",
+   "amendment_promulgate_date": "2026-03-04",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000019",
+   "amendment_law_title": "マンションの建替え等の円滑化に関する法律による不動産登記に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000379_20220401_504CO0000000002",
+   "amendment_promulgate_date": "2022-01-04",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000002",
+   "amendment_law_title": "マンションの建替え等の円滑化に関する法律による不動産登記に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000379_20200401_502CO0000000057",
+   "amendment_promulgate_date": "2020-03-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000057",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律の一部の施行に伴う法務省関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "414CO0000000379_20141224_426CO0000000390",
+   "amendment_promulgate_date": "2014-12-12",
+   "amendment_enforcement_date": "2014-12-24",
+   "amendment_law_id": "426CO0000000390",
+   "amendment_law_num": "平成二十六年政令第三百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令は、マンションの再生等の円滑化に関する法律（以下「法」という。）第九十三条、第百五十七条、第百六十三条の四十九及び第二百十条の規定による不動産登記法（平成十六年法律第百二十三号）の特例を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2002-12-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T18:36:45+09:00"
+ }
+}

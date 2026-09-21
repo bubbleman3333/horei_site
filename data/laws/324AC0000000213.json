@@ -1,0 +1,149 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "324AC0000000213",
+  "law_num": "昭和二十四年法律第二百十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "213",
+  "promulgation_date": "1949-06-15"
+ },
+ "revision_info": {
+  "law_revision_id": "324AC0000000213_20260812_508AC0000000064",
+  "law_type": "Act",
+  "law_title": "簡易郵便局法",
+  "law_title_kana": "かんいゆうびんきょくほう",
+  "abbrev": null,
+  "category": "郵務",
+  "updated": "2026-08-12T00:08:16+09:00",
+  "amendment_promulgate_date": "2026-07-23",
+  "amendment_enforcement_date": "2026-08-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000064",
+  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324AC0000000213_20270722_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-07-22",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-07-22",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20260812_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-08-12",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20250501_506AC0000000032",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "506AC0000000032",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20241121_506AC0000000032",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2024-11-21",
+   "amendment_law_id": "506AC0000000032",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20240522_506AC0000000032",
+   "amendment_promulgate_date": "2024-05-22",
+   "amendment_enforcement_date": "2024-05-22",
+   "amendment_law_id": "506AC0000000032",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20190401_430AC1000000041",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC1000000041",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20180820_430AC1000000041",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-08-20",
+   "amendment_law_id": "430AC1000000041",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000213_20121001_424AC0000000030",
+   "amendment_promulgate_date": "2012-05-08",
+   "amendment_enforcement_date": "2012-10-01",
+   "amendment_law_id": "424AC0000000030",
+   "amendment_law_num": "平成二十四年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、郵便窓口業務及び印紙の売りさばきに関する業務の委託に関し必要な事項を定めることにより、これらの業務の円滑な運営に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-06-15",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-12T00:08:16+09:00"
+ }
+}

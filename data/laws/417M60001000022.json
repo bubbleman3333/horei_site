@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60001000022",
+  "law_num": "平成十七年環境省令第二十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "022",
+  "promulgation_date": "2005-09-20"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60001000022_20260701_508M60001000019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "下水道法第四十条第二項の規定により地方環境局長に委任する権限を定める省令",
+  "law_title_kana": "げすいどうほうだいよんじゅうじょうだいにこうのきていによりちほうかんきょうきょくちょうにいにんするけんげんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-07-14T11:01:54+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000019",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年環境省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60001000022_20260701_508M60001000019",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001000019",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60001000022_20211101_503M60001000017",
+   "amendment_promulgate_date": "2021-10-25",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503M60001000017",
+   "amendment_law_title": "下水道法第四十条第二項の規定により地方環境事務所長に委任する権限を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和三年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60001000022_20150719_427M60001000028",
+   "amendment_promulgate_date": "2015-07-17",
+   "amendment_enforcement_date": "2015-07-19",
+   "amendment_law_id": "427M60001000028",
+   "amendment_law_num": "平成二十七年環境省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "下水道法（以下「法」という。）に規定する環境大臣の権限のうち、次に掲げるものは、地方環境局長に委任する。ただし、第五号に掲げる権限については、環境大臣が自ら行うことを妨げない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-09-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-14T11:01:54+09:00"
+ }
+}

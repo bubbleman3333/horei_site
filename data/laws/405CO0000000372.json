@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "405CO0000000372",
+  "law_num": "平成五年政令第三百七十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 5,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "372",
+  "promulgation_date": "1993-11-19"
+ },
+ "revision_info": {
+  "law_revision_id": "405CO0000000372_20260401_507CO0000000412",
+  "law_type": "CabinetOrder",
+  "law_title": "中央環境審議会令",
+  "law_title_kana": "ちゅうおうかんきょうしんぎかいれい",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-04-01T07:56:26+09:00",
+  "amendment_promulgate_date": "2025-12-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000412",
+  "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和七年政令第四百十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "405CO0000000372_20260401_507CO0000000412",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000412",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第四百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000372_20250110_506CO0000000244",
+   "amendment_promulgate_date": "2024-07-10",
+   "amendment_enforcement_date": "2025-01-10",
+   "amendment_law_id": "506CO0000000244",
+   "amendment_law_title": "化学物質の審査及び製造等の規制に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000372_20220401_504CO0000000025",
+   "amendment_promulgate_date": "2022-01-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000025",
+   "amendment_law_title": "プラスチックに係る資源循環の促進等に関する法律施行令",
+   "amendment_law_num": "令和四年政令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "405CO0000000372_20110401_421CO0000000257",
+   "amendment_promulgate_date": "2009-10-30",
+   "amendment_enforcement_date": "2011-04-01",
+   "amendment_law_id": "421CO0000000257",
+   "amendment_law_num": "平成二十一年政令第二百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（所掌事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "中央環境審議会（以下「審議会」という。）は、環境基本法第四十一条第二項及び第三項に規定するもののほか、化学物質の審査及び製造等の規制に関する法律（昭和四十八年法律第百十七号）第五十六条、資源の有効な利用の促進に関する法律（平成三年法律第四十八号）第五十九条第三項、特定化学物質の環境への排出量の把握等及び管理の改善の促進に関する法律（平成十一年法律第八十六号）第十八条及びプラスチックに係る資源循環の促進等に関する法律（令和三年法律第六十号）第四十六条第五項並びに化学物質の審査及び製造等の規制に関する法律施行令（昭和四十九年政令第二百二号）第一条第二項の規定に基づきその権限に属させられた事項を処理する。",
+   "審議会は、前項に規定する事項に関し、環境大臣又は関係大臣に意見を述べることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1993-11-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T07:56:26+09:00"
+ }
+}

@@ -1,0 +1,63 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "508AC1000000078",
+  "law_num": "令和八年法律第七十八号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Act",
+  "law_num_num": "078",
+  "promulgation_date": "2026-07-31"
+ },
+ "revision_info": {
+  "law_revision_id": "508AC1000000078_20261030_000000000000000",
+  "law_type": "Act",
+  "law_title": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律",
+  "law_title_kana": "こっかしゃかいきのうけいぞくせいかくほしさくおよびふくしゅとのせいびにかかるしさくのすいしんにかんするほうりつ",
+  "abbrev": null,
+  "category": "国土開発",
+  "updated": "2026-08-14T13:10:52+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-10-30",
+  "amendment_enforcement_comment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
+  "amendment_scheduled_enforcement_date": "2026-10-30",
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508AC1000000078_20261030_000000000000000",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-10-30",
+   "amendment_enforcement_comment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2026-10-30",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針",
+  "第三章　基本的施策",
+  "第四章　副首都の指定等",
+  "第五章　国家社会機能継続性確保施策・副首都整備推進本部"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、国民生活及び国民経済に甚大な影響を及ぼすおそれがある大規模災害（以下単に「大規模災害」という。）に備えて、副首都の整備に係る施策その他国家社会機能の継続性が確保された国土の形成を図るための施策（以下「国家社会機能継続性確保施策」という。）に関し、基本理念を定め、国の責務等を明らかにし、基本方針の策定その他基本となる事項を定め、及び副首都の指定等について定めるとともに、国家社会機能継続性確保施策・副首都整備推進本部を設置すること等により、副首都の整備に係る施策その他国家社会機能継続性確保施策を総合的かつ計画的に推進し、もって公共の福祉の確保並びに国民生活の向上及び多極分散型経済圏の形成を通じた我が国経済の成長に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-07-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-14T13:10:52+09:00"
+ }
+}

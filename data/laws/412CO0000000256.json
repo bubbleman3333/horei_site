@@ -1,0 +1,237 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000256",
+  "law_num": "平成十二年政令第二百五十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "256",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000256_20260801_508CO0000000235",
+  "law_type": "CabinetOrder",
+  "law_title": "環境省組織令",
+  "law_title_kana": "かんきょうしょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-12T13:47:41+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000235",
+  "amendment_law_title": "環境省組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百三十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000256_20260801_508CO0000000235",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508CO0000000235",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20260701_508CO0000000205",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000205",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20260401_507CO0000000448",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000448",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第四百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20250701_507CO0000000217",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000217",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20250626_431CO0000000011",
+   "amendment_promulgate_date": "2019-01-23",
+   "amendment_enforcement_date": "2025-06-26",
+   "amendment_law_id": "431CO0000000011",
+   "amendment_law_title": "船舶の再資源化解体の適正な実施に関する法律施行令",
+   "amendment_law_num": "平成三十一年政令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20240401_506CO0000000102",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000102",
+   "amendment_law_title": "生活衛生等関係行政の機能強化のための関係法律の整備に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20240401_506CO0000000093",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000093",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20230701_505CO0000000227",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505CO0000000227",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20220701_504CO0000000236",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504CO0000000236",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20220401_504CO0000000123",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000123",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20210401_503CO0000000057",
+   "amendment_promulgate_date": "2021-03-24",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000057",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20191201_501CO0000000100",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2019-12-01",
+   "amendment_law_id": "501CO0000000100",
+   "amendment_law_title": "農林水産省組織令及び環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20190911_501CO0000000100",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2019-09-11",
+   "amendment_law_id": "501CO0000000100",
+   "amendment_law_title": "農林水産省組織令及び環境省組織令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20190401_431CO0000000084",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000084",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20180401_430CO0000000087",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000087",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20180401_430CO0000000023",
+   "amendment_promulgate_date": "2018-01-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000023",
+   "amendment_law_title": "廃棄物の処理及び清掃に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20170714_429CO0000000169",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2017-07-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000169",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000256_20170401_429CO0000000077",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000077",
+   "amendment_law_title": "環境省組織令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　秘書官",
+  "第二章　内部部局等",
+  "第三章　審議会等",
+  "第四章　施設等機関",
+  "第五章　地方支分部局"
+ ],
+ "article1": {
+  "caption": "（秘書官の定数）",
+  "title": "第一条",
+  "paragraphs": [
+   "秘書官の定数は、一人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-12T13:47:41+09:00"
+ }
+}

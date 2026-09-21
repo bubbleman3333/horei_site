@@ -1,0 +1,109 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "333M50000080021",
+  "law_num": "昭和三十三年文部省令第二十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "021",
+  "promulgation_date": "1958-08-08"
+ },
+ "revision_info": {
+  "law_revision_id": "333M50000080021_20260401_508M60000080019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "義務教育諸学校等の施設費の国庫負担等に関する法律施行規則",
+  "law_title_kana": "ぎむきょういくしょがっこうとうのしせつひのこっこふたんとうにかんするほうりつしこうきそく",
+  "abbrev": "施設費負担法施行規則",
+  "category": "教育",
+  "updated": "2026-05-11T11:05:28+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000080019",
+  "amendment_law_title": "義務教育諸学校等の施設費の国庫負担等に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333M50000080021_20260401_508M60000080019",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000080019",
+   "amendment_law_title": "義務教育諸学校等の施設費の国庫負担等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333M50000080021_20250401_506M60000080026",
+   "amendment_promulgate_date": "2024-09-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000080026",
+   "amendment_law_title": "義務教育諸学校等の施設費の国庫負担等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年文部科学省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000080021_20230401_505M60000080012",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000080012",
+   "amendment_law_title": "こども家庭庁設置法の施行に伴う関係法律の整備に関する法律等の施行に伴う文部科学省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年文部科学省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000080021_20210614_503M60000080033",
+   "amendment_promulgate_date": "2021-06-14",
+   "amendment_enforcement_date": "2021-06-14",
+   "amendment_law_id": "503M60000080033",
+   "amendment_law_title": "義務教育諸学校等の施設費の国庫負担等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年文部科学省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000080021_20190425_431M60000080019",
+   "amendment_promulgate_date": "2019-04-25",
+   "amendment_enforcement_date": "2019-04-25",
+   "amendment_law_id": "431M60000080019",
+   "amendment_law_title": "義務教育諸学校等の施設費の国庫負担等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年文部科学省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000080021_20160401_428M60000080004",
+   "amendment_promulgate_date": "2016-03-22",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000080004",
+   "amendment_law_num": "平成二十八年文部科学省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（予定学級数の算定方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "義務教育諸学校等の施設費の国庫負担等に関する法律（昭和三十三年法律第八十一号。以下「法」という。）第二条第三項ただし書の規定により文部科学大臣が定める学級の数の算定方法は、法第五条第一項の規定により工事費を算定する場合にあつては、同項に規定する文部科学大臣が定める日における当該学校の各学年ごとの児童又は生徒の数を、それぞれ三十五で除して得た数（一未満の端数を生じた場合は、一に切り上げるものとする。）の合計数に、新築又は増築を行う年度の五月一日における特別支援学級の数を加える方法とする。この場合において、当該各学年ごとの児童又は生徒の数は、第一号又は第二号に掲げる数と第三号に掲げる数を合計した数とする。",
+   "前項第三号に掲げる各学年ごとの児童又は生徒の数は、新築又は増築を行う年度の五月二日から学級数を算定する日までの間に当該学校の通学区域内における住宅の建設に伴い当該住宅に入居する予定の戸数に相当する数に、小学校にあつては〇・四五を乗じて得た数を六で、中学校にあつては〇・二二を乗じて得た数を三で、義務教育学校にあつては〇・六七を乗じて得た数を九で、それぞれ除して算定するものとする。ただし、この算定によることが著しく不適当と認められる場合においては、文部科学大臣が別に定めるところにより算定するものとする。",
+   "法第二条第三項ただし書の規定により文部科学大臣が定める学級の数の算定方法は、法第五条第二項の規定により工事費を算定する場合にあつては、同項第一号に規定する日における当該学校の各学年ごとの児童又は生徒の数を、それぞれ三十五で除して得た数（一未満の端数を生じた場合は、一に切り上げるものとする。）の合計数に、新築又は増築を行う年度の五月一日における特別支援学級の数を加える方法とする。この場合において、当該各学年ごとの児童又は生徒の数は、第一号又は第二号に掲げる数とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-08-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-11T11:05:28+09:00"
+ }
+}

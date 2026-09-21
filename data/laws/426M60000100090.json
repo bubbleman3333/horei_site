@@ -1,0 +1,105 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "426M60000100090",
+  "law_num": "平成二十六年厚生労働省令第九十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "090",
+  "promulgation_date": "2014-07-30"
+ },
+ "revision_info": {
+  "law_revision_id": "426M60000100090_20260501_507M60000100117",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "再生医療等製品の製造販売後の調査及び試験の実施の基準に関する省令",
+  "law_title_kana": "さいせいいりょうとうせいひんのせいぞうはんばいごのちょうさおよびしけんのじっしのきじゅんにかんするしょうれい",
+  "abbrev": "再生医療等製品ＧＰＳＰ省令",
+  "category": "厚生",
+  "updated": "2026-05-01T02:29:31+09:00",
+  "amendment_promulgate_date": "2025-11-28",
+  "amendment_enforcement_date": "2026-05-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100117",
+  "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426M60000100090_20260501_507M60000100117",
+   "amendment_promulgate_date": "2025-11-28",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507M60000100117",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426M60000100090_20231226_505M60000100161",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2023-12-26",
+   "amendment_law_id": "505M60000100161",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000100090_20220520_504M60000100084",
+   "amendment_promulgate_date": "2022-05-20",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504M60000100084",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年厚生労働省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000100090_20210801_503M60000100015",
+   "amendment_promulgate_date": "2021-01-29",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503M60000100015",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年厚生労働省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000100090_20180401_429M60000100116",
+   "amendment_promulgate_date": "2017-10-26",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429M60000100116",
+   "amendment_law_title": "医薬品の製造販売後の調査及び試験の実施の基準に関する省令等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年厚生労働省令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000100090_20141125_000000000000000",
+   "amendment_promulgate_date": "2014-07-30",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律（昭和三十五年法律第百四十五号。以下「法」という。）第二十三条の二十六第五項（法第二十三条の二十六の二第三項において準用する場合を含む。第十一条第一号及び第十二条において同じ。）の規定により適用される法第二十三条の二十五第三項（法第二十三条の三十七第五項において準用する場合を含む。）並びに法第二十三条の二十九第四項及び第二十三条の三十一第四項（これらの規定を法第二十三条の三十九において準用する場合を含む。）の厚生労働省令で定める基準のうち製造販売後の調査及び試験に係るもの（再生医療等製品の臨床試験の実施の基準に関する省令（平成二十六年厚生労働省令第八十九号）に定めるものを除く。）並びに再生医療等製品の製造販売業者又は外国特例承認取得者が再生医療等製品について行う製造販売後の調査及び試験の業務に関して遵守すべき事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-07-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-01T02:29:31+09:00"
+ }
+}

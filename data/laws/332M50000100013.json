@@ -1,0 +1,162 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "332M50000100013",
+  "law_num": "昭和三十二年厚生省令第十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 32,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "013",
+  "promulgation_date": "1957-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "332M50000100013_20260401_508M60000100028",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "保険医療機関及び保険薬局の指定並びに保険医及び保険薬剤師の登録に関する省令",
+  "law_title_kana": "ほけんいりょうきかんおよびほけんやっきょくのしていならびにほけんいおよびほけんやくざいしのとうろくにかんするしょうれい",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-04-06T12:03:53+09:00",
+  "amendment_promulgate_date": "2026-03-19",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100028",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第二十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "332M50000100013_20260401_508M60000100028",
+   "amendment_promulgate_date": "2026-03-19",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100028",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20260224_507M60000100114",
+   "amendment_promulgate_date": "2025-11-18",
+   "amendment_enforcement_date": "2026-02-24",
+   "amendment_law_id": "507M60000100114",
+   "amendment_law_title": "保険医療機関及び保険薬局の指定並びに保険医及び保険薬剤師の登録に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20250225_507M60000100011",
+   "amendment_promulgate_date": "2025-02-18",
+   "amendment_enforcement_date": "2025-02-25",
+   "amendment_law_id": "507M60000100011",
+   "amendment_law_title": "保険医療機関及び保険薬局の指定並びに保険医及び保険薬剤師の登録に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20240601_506M60000100034",
+   "amendment_promulgate_date": "2024-03-05",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "506M60000100034",
+   "amendment_law_title": "健康保険法施行規則及び保険医療機関及び保険薬局の指定並びに保険医及び保険薬剤師の登録に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20230701_505M60000100055",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60000100055",
+   "amendment_law_title": "生活保護法施行規則及び保険医療機関及び保険薬局の指定並びに保険医及び保険薬剤師の登録に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20210210_503M60000100030",
+   "amendment_promulgate_date": "2021-02-10",
+   "amendment_enforcement_date": "2021-02-10",
+   "amendment_law_id": "503M60000100030",
+   "amendment_law_title": "保険医療機関及び保険薬局の指定並びに保険医及び保険薬剤師の登録に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20180725_430M60000100090",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2018-07-25",
+   "amendment_law_id": "430M60000100090",
+   "amendment_law_title": "医療法施行規則及び保険医療機関及び保険薬局の指定並びに保険医及び保険薬剤師の登録に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20180401_430M60000100017",
+   "amendment_promulgate_date": "2018-02-28",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000100017",
+   "amendment_law_title": "臨床研究法施行規則",
+   "amendment_law_num": "平成三十年厚生労働省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332M50000100013_20141125_426M60000100110",
+   "amendment_promulgate_date": "2014-09-26",
+   "amendment_enforcement_date": "2014-11-25",
+   "amendment_law_id": "426M60000100110",
+   "amendment_law_title": "再生医療等の安全性の確保等に関する法律施行規則",
+   "amendment_law_num": "平成二十六年厚生労働省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　保険医療機関及び保険薬局の指定",
+  "第二章　保険医及び保険薬剤師の登録"
+ ],
+ "article1": {
+  "caption": "（権限の委任）",
+  "title": "第一条",
+  "paragraphs": [
+   "保険医療機関及び保険薬局の指定並びに保険医及び保険薬剤師の登録に関する政令（以下「令」という。）第七条第一項の規定により、令第一条（令第二条において準用する場合を含む。）及び第三条から第六条までに規定する厚生労働大臣の権限は、地方厚生局長に委任する。",
+   "令第七条第二項の規定により、前項に規定する地方厚生局長の権限は、地方厚生支局長に委任する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1957-04-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-06T12:03:53+09:00"
+ }
+}

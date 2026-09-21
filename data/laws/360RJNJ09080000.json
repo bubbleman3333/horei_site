@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "360RJNJ09080000",
+  "law_num": "昭和六十年人事院規則九―八〇",
+  "law_num_era": "Showa",
+  "law_num_year": 60,
+  "law_num_type": "Rule",
+  "law_num_num": "9_80",
+  "promulgation_date": "1985-12-21"
+ },
+ "revision_info": {
+  "law_revision_id": "360RJNJ09080000_20260401_508RJNJ09080008",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―八〇（扶養手当）",
+  "law_title_kana": "じんじいんきそくきゅうのはちじゅうふようてあて",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-04-01T07:25:28+09:00",
+  "amendment_promulgate_date": "2026-02-13",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ09080008",
+  "amendment_law_title": "人事院規則九―八〇（扶養手当）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―八〇―八",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "360RJNJ09080000_20260401_508RJNJ09080008",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508RJNJ09080008",
+   "amendment_law_title": "人事院規則九―八〇（扶養手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―八〇―八",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "360RJNJ09080000_20250401_507RJNJ09080007",
+   "amendment_promulgate_date": "2025-02-05",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507RJNJ09080007",
+   "amendment_law_title": "人事院規則九―八〇（扶養手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―八〇―七",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360RJNJ09080000_20230401_505RJNJ09080006",
+   "amendment_promulgate_date": "2023-02-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ09080006",
+   "amendment_law_title": "人事院規則九―八〇（扶養手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―八〇―六",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360RJNJ09080000_20170401_428RJNJ09080005",
+   "amendment_promulgate_date": "2016-11-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428RJNJ09080005",
+   "amendment_law_num": "平成二十八年人事院規則九―八〇―五",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（総則）",
+  "title": "第一条",
+  "paragraphs": [
+   "扶養手当の支給については、別に定める場合を除き、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1985-12-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T07:25:28+09:00"
+ }
+}

@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000260",
+  "law_num": "令和八年政令第二百六十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "260",
+  "promulgation_date": "2026-08-07"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000260_20260807_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "令和八年熊本地震による災害についての特定非常災害及びこれに対し適用すべき措置の指定に関する政令",
+  "law_title_kana": "れいわはちねんくまもとじしんによるさいがいについてのとくていひじょうさいがいおよびこれにたいしてきようすべきそちのしていにかんするせいれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-08-25T10:07:48+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000260_20260807_000000000000000",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定非常災害の指定）",
+  "title": "第一条",
+  "paragraphs": [
+   "特定非常災害の被害者の権利利益の保全等を図るための特別措置に関する法律（以下「法」という。）第二条第一項の特定非常災害として令和八年熊本地震による災害を指定し、同年七月二十八日を同項の特定非常災害発生日として定める。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-08-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-25T10:07:48+09:00"
+ }
+}

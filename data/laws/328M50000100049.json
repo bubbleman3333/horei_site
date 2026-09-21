@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "328M50000100049",
+  "law_num": "昭和二十八年厚生省令第四十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "049",
+  "promulgation_date": "1953-10-02"
+ },
+ "revision_info": {
+  "law_revision_id": "328M50000100049_20260701_508M60001000019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国立公園集団施設地区等管理規則",
+  "law_title_kana": "こくりつこうえんしゅうだんしせつちくとうかんりきそく",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-07-09T15:12:04+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000019",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年環境省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328M50000100049_20260701_508M60001000019",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001000019",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328M50000100049_20201228_502M60001000031",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60001000031",
+   "amendment_law_title": "押印を求める手続の見直し等のための環境省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000100049_20190627_501M60001000002",
+   "amendment_promulgate_date": "2019-06-27",
+   "amendment_enforcement_date": "2019-06-27",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60001000002",
+   "amendment_law_title": "元号を改める政令の施行に伴う環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年環境省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328M50000100049_20121003_424M60001000030",
+   "amendment_promulgate_date": "2012-10-03",
+   "amendment_enforcement_date": "2012-10-03",
+   "amendment_law_id": "424M60001000030",
+   "amendment_law_num": "平成二十四年環境省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則は、国立公園集団施設地区等の管理及び利用の方法を定め、もつてその管理運営の適正を図ることを目的とする。",
+   "前項の国立公園集団施設地区等とは、環境省所管の公共用財産である土地であつて、自然公園法（昭和三十二年法律第百六十一号）第三十六条第一項の指定に係る部分その他国立公園内に存するもののうち、環境大臣の定めるものの区域をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-10-02",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-09T15:12:04+09:00"
+ }
+}

@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60000002022",
+  "law_num": "平成十九年内閣府令第二十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "022",
+  "promulgation_date": "2007-03-26"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60000002022_20260408_508M60000002038",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公益認定等委員会事務局組織規則",
+  "law_title_kana": "こうえきにんていとういいんかいじむきょくそしききそく",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-05-15T16:32:00+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002038",
+  "amendment_law_title": "公益認定等委員会事務局組織規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第三十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60000002022_20260408_508M60000002038",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60000002038",
+   "amendment_law_title": "公益認定等委員会事務局組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002022_20260401_508M60000002019",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000002019",
+   "amendment_law_title": "公益認定等委員会事務局組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002022_20110401_423M60000002018",
+   "amendment_promulgate_date": "2011-04-01",
+   "amendment_enforcement_date": "2011-04-01",
+   "amendment_law_id": "423M60000002018",
+   "amendment_law_num": "平成二十三年内閣府令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（事務局に置く課等）",
+  "title": "第一条",
+  "paragraphs": [
+   "公益認定等委員会（以下「委員会」という。）の事務局に総務課並びに審査監督官八人（うち六人は、関係のある他の職を占める者をもって充てられるものとする。）及び企画官二人を置く。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-03-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-15T16:32:00+09:00"
+ }
+}

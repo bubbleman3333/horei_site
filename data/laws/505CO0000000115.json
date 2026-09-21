@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "505CO0000000115",
+  "law_num": "令和五年政令第百十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "115",
+  "promulgation_date": "2023-03-30"
+ },
+ "revision_info": {
+  "law_revision_id": "505CO0000000115_20260408_508CO0000000135",
+  "law_type": "CabinetOrder",
+  "law_title": "令和五年度における高齢者の医療の確保に関する法律による前期高齢者交付金及び前期高齢者納付金の額の算定に係る率及び割合を定める政令",
+  "law_title_kana": "れいわごねんどにおけるこうれいしゃのいりょうのかくほにかんするほうりつによるぜんきこうれいしゃこうふきんおよびぜんきこうれいしゃのうふきんのがくのさんていにかかるりつおよびわりあいをさだめるせいれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-05-18T10:51:14+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000135",
+  "amendment_law_title": "令和八年度における高齢者の医療の確保に関する法律による前期高齢者交付金及び前期高齢者納付金の額の算定に係る率及び割合を定める政令",
+  "amendment_law_num": "令和八年政令第百三十五号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-04-08",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505CO0000000115_20260408_508CO0000000135",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000135",
+   "amendment_law_title": "令和八年度における高齢者の医療の確保に関する法律による前期高齢者交付金及び前期高齢者納付金の額の算定に係る率及び割合を定める政令",
+   "amendment_law_num": "令和八年政令第百三十五号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "505CO0000000115_20230401_000000000000000",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（調整対象給付費見込額に係る率）",
+  "title": "第一条",
+  "paragraphs": [
+   "令和五年度における高齢者の医療の確保に関する法律（以下「法」という。）第三十四条第二項第二号の政令で定める率は、百分の百五十七とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-03-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-18T10:51:14+09:00"
+ }
+}

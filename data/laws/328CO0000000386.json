@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "328CO0000000386",
+  "law_num": "昭和二十八年政令第三百八十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "386",
+  "promulgation_date": "1953-12-08"
+ },
+ "revision_info": {
+  "law_revision_id": "328CO0000000386_20220501_504CO0000000039",
+  "law_type": "CabinetOrder",
+  "law_title": "保健師助産師看護師法施行令",
+  "law_title_kana": "ほけんしじょさんしかんごしほうせこうれい",
+  "abbrev": "保助看法施行令",
+  "category": "厚生",
+  "updated": "2022-05-01T00:00:12+09:00",
+  "amendment_promulgate_date": "2022-02-09",
+  "amendment_enforcement_date": "2022-05-01",
+  "amendment_enforcement_comment": "",
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504CO0000000039",
+  "amendment_law_title": "診療放射線技師法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和四年政令第三十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328CO0000000386_20261001_508CO0000000218",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000218",
+   "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000386_20220501_504CO0000000039",
+   "amendment_promulgate_date": "2022-02-09",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000039",
+   "amendment_law_title": "診療放射線技師法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000386_20191216_501CO0000000183",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501CO0000000183",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000386_20150401_427CO0000000128",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "427CO0000000128",
+   "amendment_law_num": "平成二十七年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（保健師等再教育研修修了の登録等に関する手数料）",
+  "title": "第一条",
+  "paragraphs": [
+   "保健師助産師看護師法（昭和二十三年法律第二百三号。以下「法」という。）第十五条の二第六項の政令で定める手数料の額は、三千百円（情報通信技術を活用した行政の推進等に関する法律（平成十四年法律第百五十一号）第六条第一項の規定により同項に規定する電子情報処理組織を使用する場合にあつては、二千九百五十円）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-12-08",
+  "fetched_at": "2026-09-21",
+  "updated": "2022-05-01T00:00:12+09:00"
+ }
+}

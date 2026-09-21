@@ -1,0 +1,132 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "409AC0000000081",
+  "law_num": "平成九年法律第八十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "Act",
+  "law_num_num": "081",
+  "promulgation_date": "1997-06-13"
+ },
+ "revision_info": {
+  "law_revision_id": "409AC0000000081_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "環境影響評価法",
+  "law_title_kana": "かんきょうえいきょうひょうかほう",
+  "abbrev": "環境アセスメント法,環境アセス法",
+  "category": "環境保全",
+  "updated": "2026-07-24T11:43:15+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409AC0000000081_20270619_507AC0000000073",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2027-06-19",
+   "amendment_enforcement_comment": "公布の日から起算して二年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-06-19",
+   "amendment_law_id": "507AC0000000073",
+   "amendment_law_title": "環境影響評価法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000081_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000081_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000081_20260401_507AC0000000073",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000073",
+   "amendment_law_title": "環境影響評価法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000081_20250620_507AC0000000073",
+   "amendment_promulgate_date": "2025-06-20",
+   "amendment_enforcement_date": "2025-06-20",
+   "amendment_law_id": "507AC0000000073",
+   "amendment_law_title": "環境影響評価法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000081_20200610_502AC0000000041",
+   "amendment_promulgate_date": "2020-06-10",
+   "amendment_enforcement_date": "2020-06-10",
+   "amendment_law_id": "502AC0000000041",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和二年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000081_20150604_426AC0000000051",
+   "amendment_promulgate_date": "2014-06-04",
+   "amendment_enforcement_date": "2015-06-04",
+   "amendment_law_id": "426AC0000000051",
+   "amendment_law_num": "平成二十六年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　方法書の作成前の手続",
+  "第三章　方法書",
+  "第四章　環境影響評価の実施等",
+  "第五章　準備書",
+  "第六章　評価書",
+  "第七章　対象事業の内容の修正等",
+  "第八章　評価書の公告及び縦覧後の手続",
+  "第九章　環境影響評価その他の手続の特例等",
+  "第十章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、土地の形状の変更、工作物の新設等の事業を行う事業者がその事業の実施に当たりあらかじめ環境影響評価を行うことが環境の保全上極めて重要であることにかんがみ、環境影響評価について国等の責務を明らかにするとともに、規模が大きく環境影響の程度が著しいものとなるおそれがある事業について環境影響評価が適切かつ円滑に行われるための手続その他所要の事項を定め、その手続等によって行われた環境影響評価の結果をその事業に係る環境の保全のための措置その他のその事業の内容に関する決定に反映させるための措置をとること等により、その事業に係る環境の保全について適正な配慮がなされることを確保し、もって現在及び将来の国民の健康で文化的な生活の確保に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-06-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-24T11:43:15+09:00"
+ }
+}

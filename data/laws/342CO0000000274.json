@@ -1,0 +1,110 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "342CO0000000274",
+  "law_num": "昭和四十二年政令第二百七十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 42,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "274",
+  "promulgation_date": "1967-09-01"
+ },
+ "revision_info": {
+  "law_revision_id": "342CO0000000274_20260507_508CO0000000155",
+  "law_type": "CabinetOrder",
+  "law_title": "地方公務員災害補償法施行令",
+  "law_title_kana": "ちほうこうむいんさいがいほしょうほうせこうれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-05-28T09:59:17+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000155",
+  "amendment_law_title": "地方公務員災害補償法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百五十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "342CO0000000274_20260507_508CO0000000155",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-07",
+   "amendment_law_id": "508CO0000000155",
+   "amendment_law_title": "地方公務員災害補償法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000274_20250401_507CO0000000113",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000113",
+   "amendment_law_title": "地方公務員災害補償法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000274_20230401_504CO0000000129",
+   "amendment_promulgate_date": "2022-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000129",
+   "amendment_law_title": "地方公務員法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000274_20230118_505CO0000000003",
+   "amendment_promulgate_date": "2023-01-18",
+   "amendment_enforcement_date": "2023-01-18",
+   "amendment_law_id": "505CO0000000003",
+   "amendment_law_title": "地方公務員災害補償法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000274_20180401_429CO0000000296",
+   "amendment_promulgate_date": "2017-12-01",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000296",
+   "amendment_law_title": "地方独立行政法人法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342CO0000000274_20170401_428CO0000000379",
+   "amendment_promulgate_date": "2016-12-16",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000379",
+   "amendment_law_title": "消防法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第三百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（職員）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方公務員災害補償法（以下「法」という。）第二条第一項第一号に規定する常時勤務に服することを要しない地方公務員のうちその勤務形態が常時勤務に服することを要する地方公務員に準ずる者で政令で定めるものは、次に掲げる者とする。",
+   "法第二条第一項第二号に規定する常時勤務することを要しない者のうちその勤務形態が常時勤務することを要する者に準ずる者で政令で定めるものは、前項第二号又は第三号に掲げる者に準ずる者として総務大臣が定める者とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1967-09-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-28T09:59:17+09:00"
+ }
+}

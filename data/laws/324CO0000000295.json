@@ -1,0 +1,288 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "324CO0000000295",
+  "law_num": "昭和二十四年政令第二百九十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "295",
+  "promulgation_date": "1949-08-04"
+ },
+ "revision_info": {
+  "law_revision_id": "324CO0000000295_20260415_508CO0000000140",
+  "law_type": "CabinetOrder",
+  "law_title": "土地改良法施行令",
+  "law_title_kana": "とちかいりょうほうしこうれい",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-05-18T10:42:22+09:00",
+  "amendment_promulgate_date": "2026-04-15",
+  "amendment_enforcement_date": "2026-04-15",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000140",
+  "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百四十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324CO0000000295_20260415_508CO0000000140",
+   "amendment_promulgate_date": "2026-04-15",
+   "amendment_enforcement_date": "2026-04-15",
+   "amendment_law_id": "508CO0000000140",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20260401_508CO0000000089",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000089",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20250401_507CO0000000159",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000159",
+   "amendment_law_title": "土地改良法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20250401_507CO0000000139",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000139",
+   "amendment_law_title": "土地改良法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20240401_506CO0000000109",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000109",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20230609_505CO0000000205",
+   "amendment_promulgate_date": "2023-06-09",
+   "amendment_enforcement_date": "2023-06-09",
+   "amendment_law_id": "505CO0000000205",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20230401_505CO0000000130",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000130",
+   "amendment_law_title": "土地改良法施行令及び厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の施行に伴う存続組合が支給する特例一時金等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20230401_505CO0000000105",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000105",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20230401_504CO0000000356",
+   "amendment_promulgate_date": "2022-11-28",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000356",
+   "amendment_law_title": "農業経営基盤強化促進法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20221202_504CO0000000370",
+   "amendment_promulgate_date": "2022-12-02",
+   "amendment_enforcement_date": "2022-12-02",
+   "amendment_law_id": "504CO0000000370",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20220401_504CO0000000166",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000166",
+   "amendment_law_title": "土地改良法施行令及び後進地域の開発に関する公共事業に係る国の負担割合の特例に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20210401_503CO0000000137",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000137",
+   "amendment_law_title": "過疎地域の持続的発展の支援に関する特別措置法施行令",
+   "amendment_law_num": "令和三年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20210401_503CO0000000090",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000090",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20200401_502CO0000000090",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000090",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20200401_501CO0000000102",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000102",
+   "amendment_law_title": "農地中間管理事業の推進に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20190911_501CO0000000102",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2019-09-11",
+   "amendment_law_id": "501CO0000000102",
+   "amendment_law_title": "農地中間管理事業の推進に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20190401_431CO0000000110",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000110",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20190401_430CO0000000294",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000294",
+   "amendment_law_title": "土地改良法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20181017_430CO0000000294",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-10-17",
+   "amendment_law_id": "430CO0000000294",
+   "amendment_law_title": "土地改良法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20180401_430CO0000000102",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000102",
+   "amendment_law_title": "土地改良法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20170925_429CO0000000241",
+   "amendment_promulgate_date": "2017-09-15",
+   "amendment_enforcement_date": "2017-09-25",
+   "amendment_law_id": "429CO0000000241",
+   "amendment_law_title": "土地改良法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20170526_429CO0000000151",
+   "amendment_promulgate_date": "2017-05-26",
+   "amendment_enforcement_date": "2017-05-26",
+   "amendment_law_id": "429CO0000000151",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20170519_429CO0000000146",
+   "amendment_promulgate_date": "2017-05-19",
+   "amendment_enforcement_date": "2017-05-19",
+   "amendment_law_id": "429CO0000000146",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324CO0000000295_20170401_429CO0000000089",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000089",
+   "amendment_law_title": "土地改良法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（土地改良法の施行期日）",
+  "title": "第一条",
+  "paragraphs": [
+   "土地改良法（以下「法」という。）の施行期日は、昭和二十四年八月四日とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-08-04",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-18T10:42:22+09:00"
+ }
+}

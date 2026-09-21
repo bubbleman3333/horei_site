@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "431CO0000000046",
+  "law_num": "平成三十一年政令第四十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 31,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "046",
+  "promulgation_date": "2019-03-20"
+ },
+ "revision_info": {
+  "law_revision_id": "431CO0000000046_20260401_507CO0000000448",
+  "law_type": "CabinetOrder",
+  "law_title": "海洋再生可能エネルギー発電設備の整備に関する法律施行令",
+  "law_title_kana": "かいようさいせいかのうえねるぎーはつでんせつびのせいびにかんするほうりつしこうれい",
+  "abbrev": "再エネ海域利用法施行令",
+  "category": "工業",
+  "updated": "2026-04-02T21:30:14+09:00",
+  "amendment_promulgate_date": "2025-12-26",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000448",
+  "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第四百四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "431CO0000000046_20260401_507CO0000000448",
+   "amendment_promulgate_date": "2025-12-26",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000448",
+   "amendment_law_title": "海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第四百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "431CO0000000046_20190401_000000000000000",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（海洋再生可能エネルギー源）",
+  "title": "第一条",
+  "paragraphs": [
+   "海洋再生可能エネルギー発電設備の整備に関する法律（平成三十年法律第八十九号。以下「法」という。）第二条第三項の政令で定めるものは、海域における風力とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2019-03-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:30:14+09:00"
+ }
+}

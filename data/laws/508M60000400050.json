@@ -1,0 +1,62 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000400050",
+  "law_num": "令和八年経済産業省令第五十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "050",
+  "promulgation_date": "2026-05-21"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000400050_20260522_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "二酸化炭素の貯留事業に関する法律施行規則",
+  "law_title_kana": "にさんかたんそのちょりゅうじぎょうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-06-30T11:59:51+09:00",
+  "amendment_promulgate_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-05-22",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000400050_20260522_000000000000000",
+   "amendment_promulgate_date": "2026-05-21",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　貯留事業及び試掘",
+  "第三章　導管輸送事業",
+  "第四章　貯留層の探査",
+  "第五章　土地の使用及び収用",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、二酸化炭素の貯留事業に関する法律（以下「法」という。）及び貯留等工作物等の技術上の基準を定める省令（令和六年経済産業省令第七十四号）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-05-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-30T11:59:51+09:00"
+ }
+}

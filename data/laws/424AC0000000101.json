@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "424AC0000000101",
+  "law_num": "平成二十四年法律第百一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "101",
+  "promulgation_date": "2012-11-26"
+ },
+ "revision_info": {
+  "law_revision_id": "424AC0000000101_20260401_508AC0000000013",
+  "law_type": "Act",
+  "law_title": "財政運営に必要な財源の確保を図るための公債の発行の特例に関する法律",
+  "law_title_kana": "ざいせいうんえいにひつようなざいげんのかくほをはかるためのこうさいのはっこうのとくれいにかんするほうりつ",
+  "abbrev": null,
+  "category": "国債",
+  "updated": "2026-04-01T13:40:27+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000013",
+  "amendment_law_title": "財政運営に必要な財源の確保を図るための公債の発行の特例に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424AC0000000101_20260401_508AC0000000013",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508AC0000000013",
+   "amendment_law_title": "財政運営に必要な財源の確保を図るための公債の発行の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "424AC0000000101_20210401_503AC0000000013",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503AC0000000013",
+   "amendment_law_title": "財政運営に必要な財源の確保を図るための公債の発行の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424AC0000000101_20160401_428AC0000000023",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428AC0000000023",
+   "amendment_law_title": "東日本大震災からの復興のための施策を実施するために必要な財源の確保に関する特別措置法及び財政運営に必要な財源の確保を図るための公債の発行の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、最近における国の財政収支が著しく不均衡な状況にあることに鑑み、経済・財政一体改革を推進しつつ、令和八年度から令和十二年度までの間の財政運営に必要な財源の確保を図るため、これらの年度における公債の発行の特例に関する措置を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-11-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T13:40:27+09:00"
+ }
+}

@@ -1,0 +1,76 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "426CO0000000194",
+  "law_num": "平成二十六年政令第百九十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "194",
+  "promulgation_date": "2014-05-29"
+ },
+ "revision_info": {
+  "law_revision_id": "426CO0000000194_20260731_508CO0000000234",
+  "law_type": "CabinetOrder",
+  "law_title": "退職手当審査会令",
+  "law_title_kana": "たいしょくてあてしんさかいれい",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-08-07T15:50:13+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000234",
+  "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第二百三十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426CO0000000194_20260731_508CO0000000234",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-07-31",
+   "amendment_law_id": "508CO0000000234",
+   "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000194_20230901_505CO0000000261",
+   "amendment_promulgate_date": "2023-08-14",
+   "amendment_enforcement_date": "2023-09-01",
+   "amendment_law_id": "505CO0000000261",
+   "amendment_law_title": "新型インフルエンザ等対策特別措置法及び内閣法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第二百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426CO0000000194_20140530_000000000000000",
+   "amendment_promulgate_date": "2014-05-29",
+   "amendment_enforcement_date": "2014-05-30",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（組織）",
+  "title": "第一条",
+  "paragraphs": [
+   "退職手当審査会（以下「審査会」という。）は、委員十人以内で組織する。",
+   "審査会に、特別の事項を調査審議させるため必要があるときは、臨時委員を置くことができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-05-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-07T15:50:13+09:00"
+ }
+}

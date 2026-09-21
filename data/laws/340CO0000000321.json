@@ -1,0 +1,474 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "340CO0000000321",
+  "law_num": "昭和四十年政令第三百二十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "321",
+  "promulgation_date": "1965-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "340CO0000000321_20260812_508CO0000000238",
+  "law_type": "CabinetOrder",
+  "law_title": "金融商品取引法施行令",
+  "law_title_kana": "きんゆうしょうひんとりひきほうせこうれい",
+  "abbrev": "証取法施行令,金商法施行令",
+  "category": "金融・保険",
+  "updated": "2026-08-13T11:58:13+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-08-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000238",
+  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百三十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340CO0000000321_20260812_508CO0000000238",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-08-12",
+   "amendment_law_id": "508CO0000000238",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20260701_508CO0000000174",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508CO0000000174",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20260625_508CO0000000207",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508CO0000000207",
+   "amendment_law_title": "金融機能の強化のための特別措置に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20260601_508CO0000000174",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-06-01",
+   "amendment_law_id": "508CO0000000174",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20260525_507CO0000000244",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "507CO0000000244",
+   "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20260501_507CO0000000247",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2026-05-01",
+   "amendment_law_id": "507CO0000000247",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20251114_507CO0000000375",
+   "amendment_promulgate_date": "2025-11-14",
+   "amendment_enforcement_date": "2025-11-14",
+   "amendment_law_id": "507CO0000000375",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20250704_507CO0000000247",
+   "amendment_promulgate_date": "2025-07-04",
+   "amendment_enforcement_date": "2025-07-04",
+   "amendment_law_id": "507CO0000000247",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20250702_507CO0000000244",
+   "amendment_promulgate_date": "2025-07-02",
+   "amendment_enforcement_date": "2025-07-02",
+   "amendment_law_id": "507CO0000000244",
+   "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20250613_507CO0000000211",
+   "amendment_promulgate_date": "2025-06-11",
+   "amendment_enforcement_date": "2025-06-13",
+   "amendment_law_id": "507CO0000000211",
+   "amendment_law_title": "株式会社商工組合中央金庫法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20250501_507CO0000000101",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-05-01",
+   "amendment_law_id": "507CO0000000101",
+   "amendment_law_title": "金融商品取引法及び投資信託及び投資法人に関する法律の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20250401_507CO0000000030",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000030",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20250401_506CO0000000209",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000209",
+   "amendment_law_title": "私立学校法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20250225_507CO0000000040",
+   "amendment_promulgate_date": "2025-02-21",
+   "amendment_enforcement_date": "2025-02-25",
+   "amendment_law_id": "507CO0000000040",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20241201_506CO0000000349",
+   "amendment_promulgate_date": "2024-11-20",
+   "amendment_enforcement_date": "2024-12-01",
+   "amendment_law_id": "506CO0000000349",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20241121_506CO0000000348",
+   "amendment_promulgate_date": "2024-11-20",
+   "amendment_enforcement_date": "2024-11-21",
+   "amendment_law_id": "506CO0000000348",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20241101_506CO0000000331",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506CO0000000331",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20241030_506CO0000000331",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-10-30",
+   "amendment_law_id": "506CO0000000331",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20240401_506CO0000000071",
+   "amendment_promulgate_date": "2024-03-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000071",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20230701_505CO0000000231",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505CO0000000231",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20230601_505CO0000000191",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000191",
+   "amendment_law_title": "外国為替令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20230601_505CO0000000186",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000186",
+   "amendment_law_title": "安定的かつ効率的な資金決済制度の構築を図るための資金決済に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20230101_504CO0000000192",
+   "amendment_promulgate_date": "2022-05-18",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504CO0000000192",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20220901_504CO0000000268",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504CO0000000268",
+   "amendment_law_title": "会社法の一部を改正する法律及び会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律の一部の施行に伴う金融庁関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20220501_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20220129_504CO0000000035",
+   "amendment_promulgate_date": "2022-01-28",
+   "amendment_enforcement_date": "2022-01-29",
+   "amendment_law_id": "504CO0000000035",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20211122_503CO0000000309",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503CO0000000309",
+   "amendment_law_title": "新型コロナウイルス感染症等の影響による社会経済情勢の変化に対応して金融の機能の強化及び安定の確保を図るための銀行法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第三百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20211101_503CO0000000162",
+   "amendment_promulgate_date": "2021-06-02",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000162",
+   "amendment_law_title": "金融商品の販売等に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20210301_503CO0000000021",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503CO0000000021",
+   "amendment_law_title": "会社法の一部を改正する法律及び会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律の施行に伴う金融庁関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20210215_503CO0000000020",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-02-15",
+   "amendment_law_id": "503CO0000000020",
+   "amendment_law_title": "会社法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律の一部の施行に伴う金融庁関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20201201_502CO0000000217",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502CO0000000217",
+   "amendment_law_title": "漁業法等の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20200617_502CO0000000190",
+   "amendment_promulgate_date": "2020-06-17",
+   "amendment_enforcement_date": "2020-06-17",
+   "amendment_law_id": "502CO0000000190",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20200501_502CO0000000142",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502CO0000000142",
+   "amendment_law_title": "資金決済に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20200403_502CO0000000142",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-04-03",
+   "amendment_law_id": "502CO0000000142",
+   "amendment_law_title": "資金決済に関する法律施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20200401_430CO0000000183",
+   "amendment_promulgate_date": "2018-06-06",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430CO0000000183",
+   "amendment_law_title": "民法の一部を改正する法律及び民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20191216_501CO0000000183",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501CO0000000183",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20190701_501CO0000000034",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501CO0000000034",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20190429_431CO0000000162",
+   "amendment_promulgate_date": "2019-04-26",
+   "amendment_enforcement_date": "2019-04-29",
+   "amendment_law_id": "431CO0000000162",
+   "amendment_law_title": "金融商品取引法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000321_20180601_430CO0000000173",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430CO0000000173",
+   "amendment_law_title": "銀行法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　企業内容等の開示",
+  "第三章　公開買付けに関する開示",
+  "第三章の二　株券等の大量保有の状況に関する開示",
+  "第三章の三　開示用電子情報処理組織による手続の特例等",
+  "第三章の四　特定証券情報等の提供又は公表",
+  "第三章の五　重要情報の公表",
+  "第四章　金融商品取引業者等",
+  "第四章の二　金融商品仲介業者",
+  "第四章の三　信用格付業者",
+  "第四章の四　高速取引行為者",
+  "第四章の五　投資運用関係業務受託業者",
+  "第四章の六　金融商品取引業協会",
+  "第四章の七　投資者保護基金",
+  "第五章　金融商品取引所",
+  "第五章の二　外国金融商品取引所",
+  "第五章の三　金融商品取引清算機関等",
+  "第五章の四　証券金融会社",
+  "第五章の五　指定紛争解決機関",
+  "第五章の六　特定金融指標算出者",
+  "第六章　有価証券の取引等に関する規制",
+  "第六章の二　課徴金",
+  "第七章　雑則",
+  "第八章　権限の委任",
+  "第九章　犯則事件の調査等"
+ ],
+ "article1": {
+  "caption": "（有価証券となる証券又は証書）",
+  "title": "第一条",
+  "paragraphs": [
+   "金融商品取引法（以下「法」という。）第二条第一項第二十一号に規定する政令で定める証券又は証書は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1965-09-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-13T11:58:13+09:00"
+ }
+}

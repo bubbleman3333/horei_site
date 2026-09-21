@@ -1,0 +1,453 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "412CO0000000246",
+  "law_num": "平成十二年政令第二百四十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "246",
+  "promulgation_date": "2000-06-07"
+ },
+ "revision_info": {
+  "law_revision_id": "412CO0000000246_20260804_508CO0000000242",
+  "law_type": "CabinetOrder",
+  "law_title": "総務省組織令",
+  "law_title_kana": "そうむしょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-08-17T11:39:12+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-08-04",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000242",
+  "amendment_law_title": "総務省組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412CO0000000246_20260804_508CO0000000242",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-08-04",
+   "amendment_law_id": "508CO0000000242",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20260527_508CO0000000176",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000176",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20260401_508CO0000000037",
+   "amendment_promulgate_date": "2026-03-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000037",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20260401_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20260101_507CO0000000293",
+   "amendment_promulgate_date": "2025-08-14",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507CO0000000293",
+   "amendment_law_title": "政治資金規正法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20251001_507CO0000000321",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000321",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20250804_507CO0000000276",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-08-04",
+   "amendment_law_id": "507CO0000000276",
+   "amendment_law_title": "情報処理の促進に関する法律及び特別会計に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第二百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20250701_507CO0000000229",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000229",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20250627_507CO0000000229",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2025-06-27",
+   "amendment_law_id": "507CO0000000229",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20250401_507CO0000000006",
+   "amendment_promulgate_date": "2025-01-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000006",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20250331_507CO0000000114",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507CO0000000114",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20240705_506CO0000000233",
+   "amendment_promulgate_date": "2024-06-28",
+   "amendment_enforcement_date": "2024-07-05",
+   "amendment_law_id": "506CO0000000233",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20240425_506CO0000000174",
+   "amendment_promulgate_date": "2024-04-24",
+   "amendment_enforcement_date": "2024-04-25",
+   "amendment_law_id": "506CO0000000174",
+   "amendment_law_title": "日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和六年政令第百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20240401_506CO0000000139",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000139",
+   "amendment_law_title": "奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20240401_506CO0000000026",
+   "amendment_promulgate_date": "2024-02-07",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000026",
+   "amendment_law_title": "国立研究開発法人情報通信研究機構法の一部を改正する等の法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20240101_504CO0000000300",
+   "amendment_promulgate_date": "2022-09-09",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504CO0000000300",
+   "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律施行令",
+   "amendment_law_num": "令和四年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20230707_505CO0000000234",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-07",
+   "amendment_law_id": "505CO0000000234",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20230401_505CO0000000132",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000132",
+   "amendment_law_title": "地方税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20221128_504CO0000000354",
+   "amendment_promulgate_date": "2022-11-28",
+   "amendment_enforcement_date": "2022-11-28",
+   "amendment_law_id": "504CO0000000354",
+   "amendment_law_title": "離島振興法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第三百五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20220701_504CO0000000233",
+   "amendment_promulgate_date": "2022-06-24",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504CO0000000233",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20220401_504CO0000000093",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000093",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20220401_503CO0000000292",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000292",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する等の政令",
+   "amendment_law_num": "令和三年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20220331_504CO0000000163",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "504CO0000000163",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20210701_503CO0000000187",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503CO0000000187",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20210616_503CO0000000107",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-06-16",
+   "amendment_law_id": "503CO0000000107",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20210401_503CO0000000137",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000137",
+   "amendment_law_title": "過疎地域の持続的発展の支援に関する特別措置法施行令",
+   "amendment_law_num": "令和三年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20210401_503CO0000000106",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000106",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20191001_501CO0000000017",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501CO0000000017",
+   "amendment_law_title": "子ども・子育て支援法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20191001_431CO0000000089",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "431CO0000000089",
+   "amendment_law_title": "特別法人事業税及び特別法人事業譲与税に関する法律施行令",
+   "amendment_law_num": "平成三十一年政令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20190701_431CO0000000080",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "431CO0000000080",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20190613_501CO0000000016",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-06-13",
+   "amendment_law_id": "501CO0000000016",
+   "amendment_law_title": "国会議事堂、内閣総理大臣官邸その他の国の重要な施設等、外国公館等及び原子力事業所の周辺地域の上空における小型無人機等の飛行の禁止に関する法律等の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和元年政令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20190531_501CO0000000017",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-05-31",
+   "amendment_law_id": "501CO0000000017",
+   "amendment_law_title": "子ども・子育て支援法の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20190401_431CO0000000132",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000132",
+   "amendment_law_title": "奄美群島振興開発特別措置法及び小笠原諸島振興開発特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十一年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20190401_431CO0000000088",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000088",
+   "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十一年政令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20190401_431CO0000000080",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431CO0000000080",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20190401_431CO0000000040",
+   "amendment_promulgate_date": "2019-03-20",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000040",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "平成三十一年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20181101_430CO0000000237",
+   "amendment_promulgate_date": "2018-08-08",
+   "amendment_enforcement_date": "2018-11-01",
+   "amendment_law_id": "430CO0000000237",
+   "amendment_law_title": "電気通信事業法及び国立研究開発法人情報通信研究機構法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20180820_430CO0000000239",
+   "amendment_promulgate_date": "2018-08-08",
+   "amendment_enforcement_date": "2018-08-20",
+   "amendment_law_id": "430CO0000000239",
+   "amendment_law_title": "独立行政法人郵便貯金・簡易生命保険管理機構法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000246_20180720_430CO0000000209",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000209",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　本省",
+  "第二章　消防庁"
+ ],
+ "article1": {
+  "caption": "（秘書官の定数）",
+  "title": "第一条",
+  "paragraphs": [
+   "秘書官の定数は、一人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-06-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-17T11:39:12+09:00"
+ }
+}

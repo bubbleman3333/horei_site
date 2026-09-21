@@ -1,0 +1,145 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "404AC0000000086",
+  "law_num": "平成四年法律第八十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 4,
+  "law_num_type": "Act",
+  "law_num_num": "086",
+  "promulgation_date": "1992-06-26"
+ },
+ "revision_info": {
+  "law_revision_id": "404AC0000000086_20250601_504AC0000000068",
+  "law_type": "Act",
+  "law_title": "看護師等の人材確保の促進に関する法律",
+  "law_title_kana": "かんごしとうのじんざいかくほのそくしんにかんするほうりつ",
+  "abbrev": "看護師等人材確保促進法",
+  "category": "厚生",
+  "updated": "2025-06-01T17:33:04+09:00",
+  "amendment_promulgate_date": "2022-06-17",
+  "amendment_enforcement_date": "2025-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000068",
+  "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+  "amendment_law_num": "令和四年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "404AC0000000086_20290624_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2029-06-24",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2029-06-24",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000086_20270401_508AC0000000051",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000051",
+   "amendment_law_title": "社会福祉法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000086_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000086_20240527_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000086_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000086_20210519_503AC0000000037",
+   "amendment_promulgate_date": "2021-05-19",
+   "amendment_enforcement_date": "2021-05-19",
+   "amendment_law_id": "503AC0000000037",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和三年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000086_20180401_429AC0000000052",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000052",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000086_20170602_429AC0000000052",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000052",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000086_20160401_426AC0000000083",
+   "amendment_promulgate_date": "2014-06-25",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000083",
+   "amendment_law_title": "地域における医療及び介護の総合的な確保を推進するための関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　看護師等の人材確保の促進",
+  "第三章　ナースセンター",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、我が国における急速な高齢化の進展及び保健医療を取り巻く環境の変化等に伴い、看護師等の確保の重要性が著しく増大していることにかんがみ、看護師等の確保を促進するための措置に関する基本指針を定めるとともに、看護師等の養成、処遇の改善、資質の向上、就業の促進等を、看護に対する国民の関心と理解を深めることに配慮しつつ図るための措置を講ずることにより、病院等、看護を受ける者の居宅等看護が提供される場所に、高度な専門知識と技能を有する看護師等を確保し、もって国民の保健医療の向上に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1992-06-26",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-06-01T17:33:04+09:00"
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "404CO0000000162",
+  "law_num": "平成四年政令第百六十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 4,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "162",
+  "promulgation_date": "1992-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "404CO0000000162_20260401_507CO0000000234",
+  "law_type": "CabinetOrder",
+  "law_title": "公益信託に係る主務官庁の権限に属する事務の処理等に関する政令",
+  "law_title_kana": "こうえきしんたくにかかるしゅむかんちょうのけんげんにぞくするじむのしょりとうにかんするせいれい",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-04-01T07:53:02+09:00",
+  "amendment_promulgate_date": "2025-06-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000234",
+  "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第二百三十四号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-04-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "404CO0000000162_20260401_507CO0000000234",
+   "amendment_promulgate_date": "2025-06-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000234",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第二百三十四号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "404CO0000000162_20180720_430CO0000000209",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000209",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404CO0000000162_20170901_429CO0000000230",
+   "amendment_promulgate_date": "2017-09-01",
+   "amendment_enforcement_date": "2017-09-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000230",
+   "amendment_law_title": "総務省組織令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404CO0000000162_20160401_428CO0000000103",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000103",
+   "amendment_law_title": "内閣の重要政策に関する総合調整等に関する機能の強化のための国家行政組織法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（都道府県知事等による事務の処理）",
+  "title": "第一条",
+  "paragraphs": [
+   "公益信託ニ関スル法律（大正十一年法律第六十二号）第一条に規定する公益信託（以下「公益信託」という。）であってその受益の範囲が一の都道府県の区域内に限られるもの（次項に掲げるもの及び別表第一主務官庁欄に掲げる主務官庁の所管に係る公益信託であってそれぞれその目的が同表事項欄に定める事項に該当するものを除く。）に対する同法第二条から第九条までに規定する主務官庁の権限に属する事務は、当該都道府県の知事が行う。",
+   "地方教育行政の組織及び運営に関する法律（昭和三十一年法律第百六十二号）第二十一条に規定する事務（同法第二十三条第一項の条例の定めるところにより、都道府県の知事が管理し、及び執行している事務を除く。）に関連する事項を目的とする公益信託であってその受益の範囲が一の都道府県の区域内に限られるものに対する文部科学大臣の前項に規定する権限に属する事務は、当該都道府県の教育委員会が行う。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1992-04-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T07:53:02+09:00"
+ }
+}

@@ -1,0 +1,83 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "404AC0000000070",
+  "law_num": "平成四年法律第七十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 4,
+  "law_num_type": "Act",
+  "law_num_num": "070",
+  "promulgation_date": "1992-06-03"
+ },
+ "revision_info": {
+  "law_revision_id": "404AC0000000070_20260701_508AC0000000022",
+  "law_type": "Act",
+  "law_title": "自動車から排出される窒素酸化物及び粒子状物質の特定地域における総量の削減等に関する特別措置法",
+  "law_title_kana": "じどうしゃからはいしゅつされるちっそさんかぶつおよびりゅうしじょうぶっしつのとくていちいきにおけるそうりょうのさくげんとうにかんするとくべつそちほう",
+  "abbrev": "自動車ＮＯｘ・ＰＭ法,排ガス抑制法",
+  "category": "環境保全",
+  "updated": "2026-07-01T00:37:04+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000022",
+  "amendment_law_title": "環境省設置法の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "404AC0000000070_20260701_508AC0000000022",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508AC0000000022",
+   "amendment_law_title": "環境省設置法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000070_20200401_501AC0000000014",
+   "amendment_promulgate_date": "2019-05-24",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000014",
+   "amendment_law_title": "道路運送車両法の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404AC0000000070_20110830_423AC0000000105",
+   "amendment_promulgate_date": "2011-08-30",
+   "amendment_enforcement_date": "2011-08-30",
+   "amendment_law_id": "423AC0000000105",
+   "amendment_law_num": "平成二十三年法律第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　自動車排出窒素酸化物等の総量の削減に関する基本方針及び計画",
+  "第三章　自動車排出窒素酸化物等の総量の削減に関する特別の措置",
+  "第四章　雑則",
+  "第五章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、自動車から排出される窒素酸化物及び粒子状物質による大気の汚染の状況にかんがみ、その汚染の防止に関して国、地方公共団体、事業者及び国民の果たすべき責務を明らかにするとともに、その汚染が著しい特定の地域について、自動車から排出される窒素酸化物及び粒子状物質の総量の削減に関する基本方針及び計画を策定し、当該地域内に使用の本拠の位置を有する一定の自動車につき窒素酸化物排出基準及び粒子状物質排出基準を定め、並びに事業活動に伴い自動車から排出される窒素酸化物及び粒子状物質の排出の抑制のための所要の措置を講ずること等により、大気汚染防止法（昭和四十三年法律第九十七号）による措置等と相まって、二酸化窒素及び浮遊粒子状物質による大気の汚染に係る環境基準の確保を図り、もって国民の健康を保護するとともに生活環境を保全することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1992-06-03",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-01T00:37:04+09:00"
+ }
+}

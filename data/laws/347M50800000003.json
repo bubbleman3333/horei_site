@@ -1,0 +1,123 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "347M50800000003",
+  "law_num": "昭和四十七年公害等調整委員会規則第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "Rule",
+  "law_num_num": "003",
+  "promulgation_date": "1972-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "347M50800000003_20260401_508M60800000002",
+  "law_type": "Rule",
+  "law_title": "公害紛争の処理手続等に関する規則",
+  "law_title_kana": "こうがいふんそうのしょりてつづきとうにかんするきそく",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-04-14T10:06:54+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60800000002",
+  "amendment_law_title": "公害紛争の処理手続等に関する規則の一部を改正する規則",
+  "amendment_law_num": "令和八年公害等調整委員会規則第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347M50800000003_20260401_508M60800000002",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60800000002",
+   "amendment_law_title": "公害紛争の処理手続等に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和八年公害等調整委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347M50800000003_20250401_507M60800000002",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60800000002",
+   "amendment_law_title": "公害紛争の処理手続等に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和七年公害等調整委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50800000003_20240401_506M60800000002",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60800000002",
+   "amendment_law_title": "公害紛争の処理手続等に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和六年公害等調整委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50800000003_20230401_505M60800000003",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60800000003",
+   "amendment_law_title": "公害紛争の処理手続等に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和五年公害等調整委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50800000003_20221101_504M60800000002",
+   "amendment_promulgate_date": "2022-11-01",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60800000002",
+   "amendment_law_title": "公害紛争の処理手続等に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和四年公害等調整委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50800000003_20210114_503M60800000002",
+   "amendment_promulgate_date": "2021-01-14",
+   "amendment_enforcement_date": "2021-01-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60800000002",
+   "amendment_law_title": "公害紛争の処理手続等に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和三年公害等調整委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50800000003_20160101_427M60800000001",
+   "amendment_promulgate_date": "2015-12-21",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_law_id": "427M60800000001",
+   "amendment_law_num": "平成二十七年公害等調整委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　あつせん、調停及び仲裁",
+  "第三章　裁定",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "公害等調整委員会（以下「中央委員会」という。）が公害紛争処理法（以下「法」という。）に基づいて行う公害に係る紛争についてのあつせん、調停、仲裁及び裁定の手続等については、法及び公害紛争処理法施行令（以下「令」という。）に定めるもののほか、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-09-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-14T10:06:54+09:00"
+ }
+}

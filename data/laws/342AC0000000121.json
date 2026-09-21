@@ -1,0 +1,170 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "342AC0000000121",
+  "law_num": "昭和四十二年法律第百二十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 42,
+  "law_num_type": "Act",
+  "law_num_num": "121",
+  "promulgation_date": "1967-08-01"
+ },
+ "revision_info": {
+  "law_revision_id": "342AC0000000121_20260401_507AC0000000089",
+  "law_type": "Act",
+  "law_title": "地方公務員災害補償法",
+  "law_title_kana": "ちほうこうむいんさいがいほしょうほう",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-04-01T06:00:11+09:00",
+  "amendment_promulgate_date": "2025-12-24",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000089",
+  "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第八十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "342AC0000000121_20281211_507AC0000000087",
+   "amendment_promulgate_date": "2025-12-12",
+   "amendment_enforcement_date": "2028-12-11",
+   "amendment_enforcement_comment": "公布の日から起算して三年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-12-11",
+   "amendment_law_id": "507AC0000000087",
+   "amendment_law_title": "医療法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20260401_507AC0000000089",
+   "amendment_promulgate_date": "2025-12-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000089",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20251001_507AC0000000005",
+   "amendment_promulgate_date": "2025-01-08",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507AC0000000005",
+   "amendment_law_title": "地方公務員の育児休業等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20240401_505AC0000000073",
+   "amendment_promulgate_date": "2023-11-24",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000073",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20220401_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20200605_502AC0000000040",
+   "amendment_promulgate_date": "2020-06-05",
+   "amendment_enforcement_date": "2020-06-05",
+   "amendment_law_id": "502AC0000000040",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20200331_502AC0000000011",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-03-31",
+   "amendment_law_id": "502AC0000000011",
+   "amendment_law_title": "市町村の合併の特例に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20180401_429AC0000000054",
+   "amendment_promulgate_date": "2017-06-09",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000054",
+   "amendment_law_title": "地方自治法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "342AC0000000121_20170101_428AC0000000095",
+   "amendment_promulgate_date": "2016-12-02",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428AC0000000095",
+   "amendment_law_title": "地方公務員の育児休業等に関する法律及び育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基金",
+  "第三章　補償及び福祉事業",
+  "第四章　費用の負担",
+  "第五章　不服申立て及び訴訟",
+  "第六章　雑則",
+  "第七章　非常勤の地方公務員等",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（この法律の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、地方公務員等の公務上の災害（負傷、疾病、障害又は死亡をいう。以下同じ。）又は通勤による災害に対する補償（以下「補償」という。）の迅速かつ公正な実施を確保するため、地方公共団体等に代わつて補償を行う基金の制度を設け、その行う事業に関して必要な事項を定めるとともに、その他地方公務員等の補償に関して必要な事項を定め、もつて地方公務員等及びその遺族の生活の安定と福祉の向上に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1967-08-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T06:00:11+09:00"
+ }
+}

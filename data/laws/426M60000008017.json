@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "426M60000008017",
+  "law_num": "平成二十六年総務省令第十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "2014-03-25"
+ },
+ "revision_info": {
+  "law_revision_id": "426M60000008017_20260807_508M60000008101",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地方公共団体情報システム機構法施行規則",
+  "law_title_kana": "ちほうこうきょうだんたいじょうほうしすてむきこうほうしこうきそく",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2026-08-21T14:51:53+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-07",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008101",
+  "amendment_law_title": "地方公共団体情報システム機構法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第百一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426M60000008017_20260807_508M60000008101",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-07",
+   "amendment_law_id": "508M60000008101",
+   "amendment_law_title": "地方公共団体情報システム機構法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426M60000008017_20140325_000000000000000",
+   "amendment_promulgate_date": "2014-03-25",
+   "amendment_enforcement_date": "2014-03-25",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（業務方法書の記載事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方公共団体情報システム機構法（以下「法」という。）第二十三条第二項の総務省令で定める業務方法書に記載すべき事項は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-03-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-21T14:51:53+09:00"
+ }
+}

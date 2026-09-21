@@ -1,0 +1,104 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "506AC0000000052",
+  "law_num": "令和六年法律第五十二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "Act",
+  "law_num_num": "052",
+  "promulgation_date": "2024-06-14"
+ },
+ "revision_info": {
+  "law_revision_id": "506AC0000000052_20260525_000000000000000",
+  "law_type": "Act",
+  "law_title": "事業性融資の推進等に関する法律",
+  "law_title_kana": "じぎょうせいゆうしのすいしんとうにかんするほうりつ",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-05-25T02:16:05+09:00",
+  "amendment_promulgate_date": "2024-06-14",
+  "amendment_enforcement_date": "2026-05-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "000000000000000",
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506AC0000000052_20280613_000000000000000",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律（令和五年法律第五十三号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "000000000000000",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000052_20271205_507AC0000000057",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2027-12-05",
+   "amendment_enforcement_comment": "譲渡担保契約及び所有権留保契約に関する法律（令和七年法律第五十六号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-12-05",
+   "amendment_law_id": "507AC0000000057",
+   "amendment_law_title": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000052_20260525_000000000000000",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2026-05-25",
+   "amendment_law_id": "000000000000000",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000052_20250606_507AC0000000057",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-06-06",
+   "amendment_law_id": "507AC0000000057",
+   "amendment_law_title": "譲渡担保契約及び所有権留保契約に関する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和七年法律第五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506AC0000000052_20240614_000000000000000",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-06-14",
+   "amendment_enforcement_comment": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針",
+  "第三章　企業価値担保権",
+  "第四章　事業性融資推進支援業務を行う者の認定等",
+  "第五章　事業性融資推進本部",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、事業性融資の推進等に関し、その基本理念、国の責務、基本方針の策定、企業価値担保権の設定、事業性融資推進支援業務を行う者の認定、事業性融資推進本部の設置等について定めることにより、不動産を目的とする担保権又は個人を保証人とする保証契約等に依存した融資慣行の是正及び会社の事業に必要な資金の調達等の円滑化を図り、これらにより会社の事業の継続及び成長発展を支え、もって国民経済の健全な発展に寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-06-14",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-25T02:16:05+09:00"
+ }
+}

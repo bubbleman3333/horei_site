@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "337M50200000001",
+  "law_num": "昭和三十七年公正取引委員会規則第一号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "Rule",
+  "law_num_num": "001",
+  "promulgation_date": "1962-05-15"
+ },
+ "revision_info": {
+  "law_revision_id": "337M50200000001_20260101_507M60200000009",
+  "law_type": "Rule",
+  "law_title": "下請代金支払遅延等防止法第四条の二の規定による遅延利息の率を定める規則",
+  "law_title_kana": "したうけだいきんしはらいちえんとうぼうしほうだいよんじょうのにのきていによるちえんりそくのりつをさだめるきそく",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-01-01T02:42:25+09:00",
+  "amendment_promulgate_date": "2025-10-01",
+  "amendment_enforcement_date": "2026-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60200000009",
+  "amendment_law_title": "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律第六条第一項及び第二項の率を定める規則",
+  "amendment_law_num": "令和七年公正取引委員会規則第九号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-01-01",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337M50200000001_20260101_507M60200000009",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2026-01-01",
+   "amendment_law_id": "507M60200000009",
+   "amendment_law_title": "製造委託等に係る中小受託事業者に対する代金の支払の遅延等の防止に関する法律第六条第一項及び第二項の率を定める規則",
+   "amendment_law_num": "令和七年公正取引委員会規則第九号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "337M50200000001_19700508_345M50200000001",
+   "amendment_promulgate_date": "1970-05-08",
+   "amendment_enforcement_date": "1970-05-08",
+   "amendment_law_id": "345M50200000001",
+   "amendment_law_num": "昭和四十五年公正取引委員会規則第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "下請代金支払遅延等防止法第四条の二の規定による下請代金の支払遅延に対する遅延利息の率は、年十四・六パーセントとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-05-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-01T02:42:25+09:00"
+ }
+}

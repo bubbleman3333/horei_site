@@ -1,0 +1,398 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "426M60000002044",
+  "law_num": "平成二十六年内閣府令第四十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "044",
+  "promulgation_date": "2014-06-09"
+ },
+ "revision_info": {
+  "law_revision_id": "426M60000002044_20260401_508M60000002003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "子ども・子育て支援法施行規則",
+  "law_title_kana": "こどもこそだてしえんほうしこうきそく",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-05-14T10:48:12+09:00",
+  "amendment_promulgate_date": "2026-02-13",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002003",
+  "amendment_law_title": "児童福祉法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備等に関する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426M60000002044_20261001_508M60000002054",
+   "amendment_promulgate_date": "2026-05-29",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000002054",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20260401_508M60000002029",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000002029",
+   "amendment_law_title": "児童福祉法施行規則及び子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20260401_508M60000002003",
+   "amendment_promulgate_date": "2026-02-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000002003",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備等に関する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20260401_507M60000002094",
+   "amendment_promulgate_date": "2025-11-13",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000002094",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備に関する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20251001_507M60000002084",
+   "amendment_promulgate_date": "2025-09-26",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000002084",
+   "amendment_law_title": "児童福祉法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20250401_507M60000002035",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002035",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備に関する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20250401_507M60000002007",
+   "amendment_promulgate_date": "2025-01-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002007",
+   "amendment_law_title": "子ども・子育て支援法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20250331_507M60000002035",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-03-31",
+   "amendment_law_id": "507M60000002035",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備に関する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20250128_507M60000002005",
+   "amendment_promulgate_date": "2025-01-28",
+   "amendment_enforcement_date": "2025-01-28",
+   "amendment_law_id": "507M60000002005",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20240930_506M60000002084",
+   "amendment_promulgate_date": "2024-09-30",
+   "amendment_enforcement_date": "2024-09-30",
+   "amendment_law_id": "506M60000002084",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20240401_506M60000002047",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002047",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20240401_506M60000002032",
+   "amendment_promulgate_date": "2024-03-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000002032",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20240401_505M60000002086",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000002086",
+   "amendment_law_title": "母体保護法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20231208_505M60000002076",
+   "amendment_promulgate_date": "2023-12-08",
+   "amendment_enforcement_date": "2023-12-08",
+   "amendment_law_id": "505M60000002076",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20230916_505M60000002067",
+   "amendment_promulgate_date": "2023-09-15",
+   "amendment_enforcement_date": "2023-09-16",
+   "amendment_law_id": "505M60000002067",
+   "amendment_law_title": "特定教育・保育施設及び特定地域型保育事業並びに特定子ども・子育て支援施設等の運営に関する基準及び子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20230401_505M60000002033",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000002033",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律等の施行に伴う内閣府本府関係内閣府令の整備に関する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20220401_504M60000002025",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000002025",
+   "amendment_law_title": "特定教育・保育施設及び特定地域型保育事業並びに特定子ども・子育て支援施設等の運営に関する基準及び子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20210802_503M60000002053",
+   "amendment_promulgate_date": "2021-08-02",
+   "amendment_enforcement_date": "2021-08-02",
+   "amendment_law_id": "503M60000002053",
+   "amendment_law_title": "特定教育・保育施設及び特定地域型保育事業並びに特定子ども・子育て支援施設等の運営に関する基準及び子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20210322_503M60000002012",
+   "amendment_promulgate_date": "2021-03-22",
+   "amendment_enforcement_date": "2021-03-22",
+   "amendment_law_id": "503M60000002012",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20210101_502M60000002076",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002076",
+   "amendment_law_title": "児童手当法施行規則及び子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20201001_502M60000002067",
+   "amendment_promulgate_date": "2020-10-01",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002067",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20200910_502M60000002060",
+   "amendment_promulgate_date": "2020-09-02",
+   "amendment_enforcement_date": "2020-09-10",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002060",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20200327_502M60000002017",
+   "amendment_promulgate_date": "2020-03-27",
+   "amendment_enforcement_date": "2020-03-27",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002017",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20200227_502M60000002006",
+   "amendment_promulgate_date": "2020-02-27",
+   "amendment_enforcement_date": "2020-02-27",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002006",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20191001_501M60000002006",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002006",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20190531_501M60000002006",
+   "amendment_promulgate_date": "2019-05-31",
+   "amendment_enforcement_date": "2019-05-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002006",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20190507_501M60000002001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000002001",
+   "amendment_law_title": "元号を改める政令の施行に伴う関係府令の整理に関する内閣府令",
+   "amendment_law_num": "令和元年内閣府令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20190401_431M60000002012",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000002012",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十一年内閣府令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20180927_430M60000002047",
+   "amendment_promulgate_date": "2018-09-27",
+   "amendment_enforcement_date": "2018-09-27",
+   "amendment_law_id": "430M60000002047",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20180901_430M60000002042",
+   "amendment_promulgate_date": "2018-08-31",
+   "amendment_enforcement_date": "2018-09-01",
+   "amendment_law_id": "430M60000002042",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20180401_430M60000002021",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000002021",
+   "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20170922_429M60000002044",
+   "amendment_promulgate_date": "2017-09-21",
+   "amendment_enforcement_date": "2017-09-22",
+   "amendment_law_id": "429M60000002044",
+   "amendment_law_title": "子ども・子育て支援法施行規則及び内閣府関係国家戦略特別区域法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "平成二十九年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "426M60000002044_20170401_429M60000002018",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000002018",
+   "amendment_law_num": "平成二十九年内閣府令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第一章の二　妊婦のための支援給付",
+  "第一章の三　子どものための教育・保育給付",
+  "第一章の四　子育てのための施設等利用給付",
+  "第一章の五　乳児等のための支援給付",
+  "第二章　特定教育・保育施設、特定地域型保育事業者及び特定乳児等通園支援事業者並びに特定子ども・子育て支援提供者",
+  "第三章　地域子ども・子育て支援事業",
+  "第四章　子ども・子育て支援事業計画",
+  "第五章　費用等",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（法第七条第十項第四号の基準）",
+  "title": "第一条",
+  "paragraphs": [
+   "子ども・子育て支援法（以下「法」という。）第七条第十項第四号の内閣府令で定める基準は、次の各号に掲げる施設の区分に応じ、当該各号に定める基準とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-06-09",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-14T10:48:12+09:00"
+ }
+}

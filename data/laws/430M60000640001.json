@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "430M60000640001",
+  "law_num": "平成三十年財務省・農林水産省・経済産業省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2018-10-17"
+ },
+ "revision_info": {
+  "law_revision_id": "430M60000640001_20251001_507M60000640001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "食品等の持続的な供給を実現するための食品等事業者による事業活動の促進及び食品等の取引の適正化に関する法律第十六条第一項の農林水産省令・経済産業省令・財務省令で定める海外における中小企業者に準ずるもの及び金融機関を定める省令",
+  "law_title_kana": "しょくひんとうのじぞくてきなきょうきゅうをじつげんするためのしょくひんとうじぎょうしゃによるじぎょうかつどうのそくしんおよびしょくひんとうのとりひきのてきせいかにかんするほうりつだいじゅうろくじょうだいいっこうののうりんすいさんしょうれいけいざいさんぎょうしょうれいざいむしょうれいでさだめるかいがいにおけるちゅうしょうきぎょうしゃにじゅんずるものおよびきんゆうきかんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2025-10-06T09:38:23+09:00",
+  "amendment_promulgate_date": "2025-09-18",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000640001",
+  "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律第八条第一項の農林水産省令・経済産業省令・財務省令で定める海外における中小企業者に準ずるもの及び金融機関を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和七年財務省・農林水産省・経済産業省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "430M60000640001_20251001_507M60000640001",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000640001",
+   "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律第八条第一項の農林水産省令・経済産業省令・財務省令で定める海外における中小企業者に準ずるもの及び金融機関を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省・農林水産省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "430M60000640001_20181022_000000000000000",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-10-22",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において「子会社」とは、中小企業者がその発行済株式の総数、出資口数の総数若しくは出資価額の総額の百分の五十以上に相当する数若しくは額の株式若しくは出資を有する事業者又は第一号若しくは第二号に該当し、かつ、当該中小企業者の役員若しくは従業員が、その役員の総数の二分の一以上を占める事業者をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2018-10-17",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-06T09:38:23+09:00"
+ }
+}

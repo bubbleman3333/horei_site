@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "409CO0000000324",
+  "law_num": "平成九年政令第三百二十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 9,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "324",
+  "promulgation_date": "1997-11-06"
+ },
+ "revision_info": {
+  "law_revision_id": "409CO0000000324_20260521_508CO0000000149",
+  "law_type": "CabinetOrder",
+  "law_title": "密集市街地における防災街区の整備の促進に関する法律施行令",
+  "law_title_kana": "みっしゅうしがいちにおけるぼうさいがいくのせいびのそくしんにかんするほうりつしこうれい",
+  "abbrev": "密集法施行令,密集市街地整備法施行令",
+  "category": "都市計画",
+  "updated": "2026-05-21T02:04:08+09:00",
+  "amendment_promulgate_date": "2026-04-24",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000149",
+  "amendment_law_title": "公示送達等の電子化のための国土交通省関係政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百四十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "409CO0000000324_20260521_508CO0000000149",
+   "amendment_promulgate_date": "2026-04-24",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000149",
+   "amendment_law_title": "公示送達等の電子化のための国土交通省関係政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000324_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000324_20250401_506CO0000000172",
+   "amendment_promulgate_date": "2024-04-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000172",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000324_20240401_505CO0000000293",
+   "amendment_promulgate_date": "2023-09-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000293",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000324_20200401_501CO0000000202",
+   "amendment_promulgate_date": "2019-12-25",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501CO0000000202",
+   "amendment_law_title": "民法及び家事事件手続法の一部を改正する法律の一部の施行に伴う国土交通省関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000324_20190625_501CO0000000030",
+   "amendment_promulgate_date": "2019-06-19",
+   "amendment_enforcement_date": "2019-06-25",
+   "amendment_law_id": "501CO0000000030",
+   "amendment_law_title": "建築基準法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和元年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "409CO0000000324_20160401_427CO0000000392",
+   "amendment_promulgate_date": "2015-11-26",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000392",
+   "amendment_law_title": "行政不服審査法及び行政不服審査法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第三百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　防災再開発促進地区の区域における建築物の建替え等の促進",
+  "第三章　防災街区整備地区計画等",
+  "第四章　防災街区整備事業",
+  "第五章　防災都市施設の整備のための特別の措置",
+  "第六章　防災街区整備推進機構",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（防災公共施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "密集市街地における防災街区の整備の促進に関する法律（以下「法」という。）第二条第四号の政令で定める公共施設は、緑地、広場その他の公共空地（公園を除く。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1997-11-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-21T02:04:08+09:00"
+ }
+}

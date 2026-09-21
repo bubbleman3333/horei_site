@@ -1,0 +1,75 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000002043",
+  "law_num": "令和五年内閣府令第四十三号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "043",
+  "promulgation_date": "2023-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000002043_20260401_508M60000002009",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "内閣府の所管するこども家庭庁関係法令に係る構造改革特別区域法第三十五条に規定する政令等規制事業に係る主務省令の特例に関する措置を定める内閣府令",
+  "law_title_kana": "ないかくふのしょかんするこどもかていちょうかんけいほうれいにかかるこうぞうかいかくとくべつくいきほうだいさんじゅうごじょうにきていするせいれいとうきせいじぎょうにかかるしゅむしょうれいのとくれいにかんするそちをさだめるないかくふれい",
+  "abbrev": null,
+  "category": "行政手続",
+  "updated": "2026-04-02T21:49:59+09:00",
+  "amendment_promulgate_date": "2026-03-03",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002009",
+  "amendment_law_title": "内閣府の所管するこども家庭庁関係法令に係る構造改革特別区域法第三十五条に規定する政令等規制事業に係る主務省令の特例に関する措置を定める内閣府令の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000002043_20260401_508M60000002009",
+   "amendment_promulgate_date": "2026-03-03",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000002009",
+   "amendment_law_title": "内閣府の所管するこども家庭庁関係法令に係る構造改革特別区域法第三十五条に規定する政令等規制事業に係る主務省令の特例に関する措置を定める内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002043_20250401_506M60000002109",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000002109",
+   "amendment_law_title": "児童福祉施設の設備及び運営に関する基準等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000002043_20230401_000000000000000",
+   "amendment_promulgate_date": "2023-04-01",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（児童福祉施設の設備及び運営に関する基準の特例）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方公共団体が、その設定する構造改革特別区域（構造改革特別区域法（平成十四年法律第百八十九号。以下「法」という。）第二条第一項に規定する構造改革特別区域をいう。以下同じ。）内における保育所（児童福祉法（昭和二十二年法律第百六十四号）第三十九条第一項に規定する保育所をいい、地方公共団体が設置するものに限る。以下この条及び附則第三条第一項において同じ。）について、次の各号に掲げる要件を満たしていることを認めて法第四条第九項の内閣総理大臣の認定（法第六条第一項の規定による変更の認定を含む。以下同じ。）を申請し、その認定を受けたときは、当該認定の日以後は、当該認定に係る保育所は、公立保育所における給食の外部搬入方式の容認事業（保育所外で調理し搬入する方法により当該保育所の乳児（児童福祉法第四条第一項第一号に規定する乳児をいう。）又は満三歳に満たない幼児（同項第二号に規定する幼児をいう。第三条第一項において同じ。）（以下この条において「乳幼児」と総称する。）に対して食事の提供を行う事業をいう。）を実施することができる。この場合において、当該保育所は、当該食事の提供について当該方法によることとしてもなお当該保育所において行うことが必要な調理のための加熱、保存等の調理機能を有する設備を備えるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-04-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:49:59+09:00"
+ }
+}

@@ -1,0 +1,93 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "360M50000400081",
+  "law_num": "昭和六十年通商産業省令第八十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 60,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "081",
+  "promulgation_date": "1985-12-24"
+ },
+ "revision_info": {
+  "law_revision_id": "360M50000400081_20260401_508M60000400019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "回路配置利用権等の登録に関する省令",
+  "law_title_kana": "かいろはいちりようけんとうのとうろくにかんするしょうれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-04-07T11:50:19+09:00",
+  "amendment_promulgate_date": "2026-03-25",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400019",
+  "amendment_law_title": "公益信託に関する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年経済産業省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "360M50000400081_20260401_508M60000400019",
+   "amendment_promulgate_date": "2026-03-25",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000400019",
+   "amendment_law_title": "公益信託に関する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年経済産業省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "360M50000400081_20201228_502M60000400092",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000400092",
+   "amendment_law_title": "押印を求める手続の見直し等のための経済産業省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年経済産業省令第九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50000400081_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "360M50000400081_20070930_419M60000400068",
+   "amendment_promulgate_date": "2007-09-28",
+   "amendment_enforcement_date": "2007-09-30",
+   "amendment_law_id": "419M60000400068",
+   "amendment_law_num": "平成十九年経済産業省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　回路配置原簿の調製方法等",
+  "第二章　申請の手続",
+  "第三章　登録の手続",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（回路配置原簿の調製方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "回路配置原簿は、その全部を電子計算機に備えられたファイル（以下単に「ファイル」という。）又は磁気ディスク（これに準ずる方法により一定の事項を確実に記録しておくことができるものを含む。以下同じ。）をもつて調製しなければならない。",
+   "回路配置原簿は、電子計算機の操作により、それに記録されている事項を記載した書類（以下「登録事項記載書類」という。）を様式第一により作成できるように調製しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1985-12-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-07T11:50:19+09:00"
+ }
+}

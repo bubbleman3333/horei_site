@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "506CO0000000376",
+  "law_num": "令和六年政令第三百七十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "376",
+  "promulgation_date": "2024-12-13"
+ },
+ "revision_info": {
+  "law_revision_id": "506CO0000000376_20251218_507CO0000000279",
+  "law_type": "CabinetOrder",
+  "law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律施行令",
+  "law_title_kana": "すまーとふぉんにおいてりようされるとくていそふとうぇあにかかるきょうそうのそくしんにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2025-12-18T00:21:29+09:00",
+  "amendment_promulgate_date": "2025-08-01",
+  "amendment_enforcement_date": "2025-12-18",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000279",
+  "amendment_law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律第三条第一項の事業の規模を定める政令等の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第二百七十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506CO0000000376_20251218_507CO0000000279",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-12-18",
+   "amendment_law_id": "507CO0000000279",
+   "amendment_law_title": "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律第三条第一項の事業の規模を定める政令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506CO0000000376_20241219_000000000000000",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2024-12-19",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定ソフトウェア事業者の指定に係る事業の規模）",
+  "title": "第一条",
+  "paragraphs": [
+   "スマートフォンにおいて利用される特定ソフトウェアに係る競争の促進に関する法律（以下「法」という。）第三条第一項の政令で定める規模は、次の表の上欄に掲げる特定ソフトウェアの種類ごとにそれぞれ同表の下欄に掲げるとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-12-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-12-18T00:21:29+09:00"
+ }
+}

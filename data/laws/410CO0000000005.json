@@ -1,0 +1,140 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "410CO0000000005",
+  "law_num": "平成十年政令第五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "005",
+  "promulgation_date": "1998-01-08"
+ },
+ "revision_info": {
+  "law_revision_id": "410CO0000000005_20260718_508CO0000000229",
+  "law_type": "CabinetOrder",
+  "law_title": "精神保健福祉士法施行令",
+  "law_title_kana": "せいしんほけんふくししほうしこうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-08-03T09:25:59+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-18",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000229",
+  "amendment_law_title": "社会福祉士及び介護福祉士法施行令及び精神保健福祉士法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百二十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410CO0000000005_20260718_508CO0000000229",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-18",
+   "amendment_law_id": "508CO0000000229",
+   "amendment_law_title": "社会福祉士及び介護福祉士法施行令及び精神保健福祉士法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000005_20251001_507CO0000000337",
+   "amendment_promulgate_date": "2025-09-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000337",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000005_20240527_506CO0000000183",
+   "amendment_promulgate_date": "2024-05-02",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506CO0000000183",
+   "amendment_law_title": "社会福祉士及び介護福祉士法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000005_20230713_505CO0000000235",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000235",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000005_20220401_504CO0000000028",
+   "amendment_promulgate_date": "2022-01-19",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000028",
+   "amendment_law_title": "社会福祉士及び介護福祉士法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000005_20210806_503CO0000000227",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2021-08-06",
+   "amendment_law_id": "503CO0000000227",
+   "amendment_law_title": "社会福祉士及び介護福祉士法施行令及び精神保健福祉士法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000005_20180401_429CO0000000290",
+   "amendment_promulgate_date": "2017-11-27",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000290",
+   "amendment_law_title": "民間あっせん機関による養子縁組のあっせんに係る児童の保護等に関する法律施行令",
+   "amendment_law_num": "平成二十九年政令第二百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000005_20170720_429CO0000000199",
+   "amendment_promulgate_date": "2017-07-20",
+   "amendment_enforcement_date": "2017-07-20",
+   "amendment_law_id": "429CO0000000199",
+   "amendment_law_title": "社会福祉士及び介護福祉士法施行令及び精神保健福祉士法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000005_20160315_428CO0000000056",
+   "amendment_promulgate_date": "2016-03-04",
+   "amendment_enforcement_date": "2016-03-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000056",
+   "amendment_law_title": "公認心理師法の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第三条第三号の政令で定める精神障害者の保健又は福祉に関する法律の規定）",
+  "title": "第一条",
+  "paragraphs": [
+   "精神保健福祉士法（以下「法」という。）第三条第三号の政令で定める精神障害者の保健又は福祉に関する法律の規定は、刑法（明治四十年法律第四十五号。第百八十二条の規定に限る。）、児童福祉法（昭和二十二年法律第百六十四号）、医師法（昭和二十三年法律第二百一号）、保健師助産師看護師法（昭和二十三年法律第二百三号）、身体障害者福祉法（昭和二十四年法律第二百八十三号）、精神保健及び精神障害者福祉に関する法律（昭和二十五年法律第百二十三号）、生活保護法（昭和二十五年法律第百四十四号）、社会福祉法（昭和二十六年法律第四十五号）、児童扶養手当法（昭和三十六年法律第二百三十八号）、老人福祉法（昭和三十八年法律第百三十三号）、特別児童扶養手当等の支給に関する法律（昭和三十九年法律第百三十四号）、児童手当法（昭和四十六年法律第七十三号）、社会福祉士及び介護福祉士法（昭和六十二年法律第三十号）、介護保険法（平成九年法律第百二十三号）、児童買春、児童ポルノに係る行為等の規制及び処罰並びに児童の保護等に関する法律（平成十一年法律第五十二号）、児童虐待の防止等に関する法律（平成十二年法律第八十二号）、障害者の日常生活及び社会生活を総合的に支援するための法律（平成十七年法律第百二十三号）、高齢者虐待の防止、高齢者の養護者に対する支援等に関する法律（平成十七年法律第百二十四号）、就学前の子どもに関する教育、保育等の総合的な提供の推進に関する法律（平成十八年法律第七十七号）、障害者虐待の防止、障害者の養護者に対する支援等に関する法律（平成二十三年法律第七十九号）、子ども・子育て支援法（平成二十四年法律第六十五号）、公…"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-01-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-03T09:25:59+09:00"
+ }
+}

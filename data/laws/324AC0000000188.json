@@ -1,0 +1,168 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "324AC0000000188",
+  "law_num": "昭和二十四年法律第百八十八号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "188",
+  "promulgation_date": "1949-06-03"
+ },
+ "revision_info": {
+  "law_revision_id": "324AC0000000188_20260903_508AC0000000027",
+  "law_type": "Act",
+  "law_title": "測量法",
+  "law_title_kana": "そくりょうほう",
+  "abbrev": null,
+  "category": "土地",
+  "updated": "2026-09-03T00:05:29+09:00",
+  "amendment_promulgate_date": "2026-06-03",
+  "amendment_enforcement_date": "2026-09-03",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000027",
+  "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+  "amendment_law_num": "令和八年法律第二十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324AC0000000188_20261203_508AC0000000027",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-12-03",
+   "amendment_law_id": "508AC0000000027",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和八年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20260903_508AC0000000027",
+   "amendment_promulgate_date": "2026-06-03",
+   "amendment_enforcement_date": "2026-09-03",
+   "amendment_law_id": "508AC0000000027",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和八年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20250401_506AC1000000054",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506AC1000000054",
+   "amendment_law_title": "公共工事の品質確保の促進に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20240619_506AC1000000054",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-06-19",
+   "amendment_law_id": "506AC1000000054",
+   "amendment_law_title": "公共工事の品質確保の促進に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20190401_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20170531_429AC0000000041",
+   "amendment_promulgate_date": "2017-05-31",
+   "amendment_enforcement_date": "2017-05-31",
+   "amendment_law_id": "429AC0000000041",
+   "amendment_law_title": "学校教育法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000188_20120401_423AC0000000061",
+   "amendment_promulgate_date": "2011-06-03",
+   "amendment_enforcement_date": "2012-04-01",
+   "amendment_law_id": "423AC0000000061",
+   "amendment_law_num": "平成二十三年法律第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本測量",
+  "第三章　公共測量",
+  "第四章　基本測量及び公共測量以外の測量",
+  "第五章　測量士及び測量士補",
+  "第六章　測量業者",
+  "第七章　補則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、国若しくは公共団体が費用の全部若しくは一部を負担し、若しくは補助して実施する土地の測量又はこれらの測量の結果を利用する土地の測量について、その実施の基準及び実施に必要な権能を定め、測量の重複を除き、並びに測量の正確さを確保するとともに、測量業を営む者の登録の実施、業務の規制等により、測量業の適正な運営とその健全な発達を図り、もつて各種測量の調整及び測量制度の改善発達に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-06-03",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-09-03T00:05:29+09:00"
+ }
+}

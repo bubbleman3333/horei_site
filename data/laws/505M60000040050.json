@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000040050",
+  "law_num": "令和五年財務省令第五十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "050",
+  "promulgation_date": "2023-08-02"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000040050_20260401_507M60000040016",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "防衛力強化資金事務取扱規則",
+  "law_title_kana": "ぼうえいりょくきょうかしきんじむとりあつかいきそく",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-04-02T21:51:27+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000040016",
+  "amendment_law_title": "歳入歳出外の国庫内移換に関する規則及び防衛力強化資金事務取扱規則の一部を改正する省令",
+  "amendment_law_num": "令和七年財務省令第十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000040050_20260401_507M60000040016",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000040016",
+   "amendment_law_title": "歳入歳出外の国庫内移換に関する規則及び防衛力強化資金事務取扱規則の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000040050_20230802_000000000000000",
+   "amendment_promulgate_date": "2023-08-02",
+   "amendment_enforcement_date": "2023-08-02",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（通則）",
+  "title": "第一条",
+  "paragraphs": [
+   "我が国の防衛力の抜本的な強化等のために必要な財源の確保に関する特別措置法（第四条において「法」という。）第五十条に規定する防衛力強化資金（以下「資金」という。）の経理に関する手続については、他の法令に定めるもののほか、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-08-02",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-02T21:51:27+09:00"
+ }
+}

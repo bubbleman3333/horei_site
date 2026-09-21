@@ -1,0 +1,74 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "503M60001200006",
+  "law_num": "令和三年農林水産省・環境省令第六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 3,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "006",
+  "promulgation_date": "2021-10-29"
+ },
+ "revision_info": {
+  "law_revision_id": "503M60001200006_20260319_508M60001200001",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "愛玩動物看護師法施行規則",
+  "law_title_kana": "あいがんどうぶつかんごしほうしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-04-06T11:24:47+09:00",
+  "amendment_promulgate_date": "2026-03-19",
+  "amendment_enforcement_date": "2026-03-19",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001200001",
+  "amendment_law_title": "愛玩動物看護師法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省・環境省令第一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "503M60001200006_20260319_508M60001200001",
+   "amendment_promulgate_date": "2026-03-19",
+   "amendment_enforcement_date": "2026-03-19",
+   "amendment_law_id": "508M60001200001",
+   "amendment_law_title": "愛玩動物看護師法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "503M60001200006_20220501_000000000000000",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60001200006_20211029_000000000000000",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-10-29",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（心身の障害により愛玩動物看護師の業務を適正に行うことができない者）",
+  "title": "第一条",
+  "paragraphs": [
+   "愛玩動物看護師法（以下「法」という。）第四条第三号の農林水産省令・環境省令で定める者は、次の各号のいずれかに該当する者とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2021-10-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-06T11:24:47+09:00"
+ }
+}

@@ -1,0 +1,281 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "335CO0000000069",
+  "law_num": "昭和三十五年政令第六十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 35,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "069",
+  "promulgation_date": "1960-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "335CO0000000069_20260401_508CO0000000085",
+  "law_type": "CabinetOrder",
+  "law_title": "関税暫定措置法施行令",
+  "law_title_kana": "かんぜいざんていそちほうしこうれい",
+  "abbrev": "暫定法施行令",
+  "category": "国税",
+  "updated": "2026-04-20T14:01:51+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000085",
+  "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第八十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "335CO0000000069_20260401_508CO0000000085",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000085",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20250401_507CO0000000141",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000141",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20241215_505CO0000000363",
+   "amendment_promulgate_date": "2023-12-20",
+   "amendment_enforcement_date": "2024-12-15",
+   "amendment_law_id": "505CO0000000363",
+   "amendment_law_title": "関税暫定措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20240401_506CO0000000158",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20230401_505CO0000000158",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000158",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20230101_504CO0000000379",
+   "amendment_promulgate_date": "2022-12-14",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504CO0000000379",
+   "amendment_law_title": "関税暫定措置法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20220401_504CO0000000135",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000135",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和四年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20220101_503CO0000000163",
+   "amendment_promulgate_date": "2021-06-04",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000163",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20220101_503CO0000000131",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000131",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20210401_503CO0000000131",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000131",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20210101_502CO0000000348",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000348",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20200401_502CO0000000128",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000128",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和二年政令第百二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20200101_501CO0000000184",
+   "amendment_promulgate_date": "2019-12-13",
+   "amendment_enforcement_date": "2020-01-01",
+   "amendment_law_id": "501CO0000000184",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20190401_431CO0000000133",
+   "amendment_promulgate_date": "2019-03-30",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000133",
+   "amendment_law_title": "関税定率法及び関税暫定措置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十一年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20190201_430CO0000000340",
+   "amendment_promulgate_date": "2018-12-19",
+   "amendment_enforcement_date": "2019-02-01",
+   "amendment_law_id": "430CO0000000340",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20181230_429CO0000000006",
+   "amendment_promulgate_date": "2017-01-25",
+   "amendment_enforcement_date": "2018-12-30",
+   "amendment_law_id": "429CO0000000006",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20180711_430CO0000000204",
+   "amendment_promulgate_date": "2018-07-11",
+   "amendment_enforcement_date": "2018-07-11",
+   "amendment_law_id": "430CO0000000204",
+   "amendment_law_title": "関税法施行令等の一部を改正する政令及び経済連携協定に基づく報復関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20180401_430CO0000000152",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000152",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第百五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20180401_429CO0000000235",
+   "amendment_promulgate_date": "2017-09-06",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429CO0000000235",
+   "amendment_law_title": "関税暫定措置法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20171008_428CO0000000240",
+   "amendment_promulgate_date": "2016-06-17",
+   "amendment_enforcement_date": "2017-10-08",
+   "amendment_law_id": "428CO0000000240",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "335CO0000000069_20170401_429CO0000000127",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000127",
+   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　暫定税率",
+  "第二章　航空機部分品等の免税",
+  "第三章　特別緊急関税等",
+  "第四章　加工又は組立てのため輸出された貨物を原材料とした製品の減税",
+  "第五章　特恵関税等",
+  "第五章の二　経済連携協定に基づく加工又は修繕のため輸出された貨物の免税",
+  "第六章　軽減税率等",
+  "第六章の二　経済連携協定に基づく製造用原料品に係る譲許の便益の適用",
+  "第七章　減免税物品の用途外使用等",
+  "第七章の二　賦課決定の請求の手続",
+  "第八章　国際物流拠点産業集積地域に係る課税物件の確定に関する特例等",
+  "第九章　雑則"
+ ],
+ "article1": {
+  "caption": "（配合飼料の指定）",
+  "title": "第一条",
+  "paragraphs": [
+   "関税暫定措置法（以下「法」という。）の別表第一第〇四〇四・一〇号の一の（一）の（２）の（ｉｉ）の１及び２並びに（二）の（２）の（ｉｉ）の１及び２に規定する配合飼料のうち政令で定めるものは、飼料以外の用途に適さないもので、財務省令で定める規格を備えるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1960-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-20T14:01:51+09:00"
+ }
+}

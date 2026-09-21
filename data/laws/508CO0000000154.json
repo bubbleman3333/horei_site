@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000154",
+  "law_num": "令和八年政令第百五十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "154",
+  "promulgation_date": "2026-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000154_20260513_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "特定漁船員の労働時間、休日及び定員に関する政令",
+  "law_title_kana": "とくていぎょせんいんのろうどうじかんきゅうじつおよびていいんにかんするせいれい",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-05-20T15:14:22+09:00",
+  "amendment_promulgate_date": "2026-04-30",
+  "amendment_enforcement_date": "2026-05-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000154_20260513_000000000000000",
+   "amendment_promulgate_date": "2026-04-30",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-04-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T15:14:22+09:00"
+ }
+}

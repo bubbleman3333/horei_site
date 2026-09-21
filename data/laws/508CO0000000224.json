@@ -1,0 +1,57 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000224",
+  "law_num": "令和八年政令第二百二十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "224",
+  "promulgation_date": "2026-07-08"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000224_20260709_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対して課する暫定的な不当廉売関税に関する政令",
+  "law_title_kana": "にっけるけいすてんれすれいえんこうたいおよびれいえんこうはんにたいしてかするざんていてきなふとうれんばいかんぜいにかんするせいれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-07-17T09:27:45+09:00",
+  "amendment_promulgate_date": "2026-07-08",
+  "amendment_enforcement_date": "2026-07-09",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000224_20260709_000000000000000",
+   "amendment_promulgate_date": "2026-07-08",
+   "amendment_enforcement_date": "2026-07-09",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（課税物件）",
+  "title": "第一条",
+  "paragraphs": [
+   "第一号に掲げる貨物であって、第二号に掲げる国若しくは第三号に掲げる地域（以下この条及び第三条第二項において「特定国等」という。）を原産地とするもの又は特定国等から本邦に輸出されたもののうち、第四号に掲げる期間内に輸入されるもの（以下「特定貨物」という。）には、関税定率法（以下「法」という。）第八条第九項の規定により、同項第一号に規定する暫定的な関税（以下「暫定不当廉売関税」という。）を課する。",
+   "前項の規定は、ニッケル系ステンレス冷延鋼帯及び冷延鋼板の生産に際して特定国等において熱延鋼帯（法の別表第七二一九・一一号から第七二一九・一四号まで及び第七二一九・九〇号並びに第七二二〇・一一号、第七二二〇・一二号及び第七二二〇・九〇号に掲げる物品のうち、熱間圧延をしたもので巻いたものをいう。）について冷間圧延をする工程を経て製造されていない旨が経済産業省令で定めるところにより経済産業大臣の発給する証明書により証明され、かつ、当該証明書が財務省令で定めるところにより税関長に提出された場合には、適用しない。",
+   "この政令における原産地については、関税法施行令（昭和二十九年政令第百五十号）第四条の二第四項に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-07-08",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-17T09:27:45+09:00"
+ }
+}

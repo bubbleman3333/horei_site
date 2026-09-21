@@ -1,0 +1,388 @@
+{
+ "law_info": {
+  "law_type": "ImperialOrder",
+  "law_id": "215IO0000000243",
+  "law_num": "大正十五年勅令第二百四十三号",
+  "law_num_era": "Taisho",
+  "law_num_year": 15,
+  "law_num_type": "ImperialOrder",
+  "law_num_num": "243",
+  "promulgation_date": "1926-06-30"
+ },
+ "revision_info": {
+  "law_revision_id": "215IO0000000243_20260801_508CO0000000240",
+  "law_type": "ImperialOrder",
+  "law_title": "健康保険法施行令",
+  "law_title_kana": "けんこうほけんほうしこうれい",
+  "abbrev": "健保法施行令",
+  "category": "社会保険",
+  "updated": "2026-08-12T14:21:50+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000240",
+  "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "215IO0000000243_20270801_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2027-08-01",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20260801_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20260801_508CO0000000219",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508CO0000000219",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20260729_508CO0000000240",
+   "amendment_promulgate_date": "2026-07-29",
+   "amendment_enforcement_date": "2026-07-29",
+   "amendment_law_id": "508CO0000000240",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20260625_508CO0000000219",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-06-25",
+   "amendment_law_id": "508CO0000000219",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20260408_508CO0000000133",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508CO0000000133",
+   "amendment_law_title": "前期高齢者交付金及び後期高齢者医療の国庫負担金の算定等に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20260401_508CO0000000066",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000066",
+   "amendment_law_title": "医療法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20260401_508CO0000000011",
+   "amendment_promulgate_date": "2026-02-16",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000011",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20260401_507CO0000000421",
+   "amendment_promulgate_date": "2025-12-17",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000421",
+   "amendment_law_title": "健康保険法施行令及び船員保険法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第四百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20250801_507CO0000000203",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-08-01",
+   "amendment_law_id": "507CO0000000203",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20250604_507CO0000000203",
+   "amendment_promulgate_date": "2025-06-04",
+   "amendment_enforcement_date": "2025-06-04",
+   "amendment_law_id": "507CO0000000203",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20240401_506CO0000000125",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000125",
+   "amendment_law_title": "国民健康保険の国庫負担金等の算定に関する政令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20240401_506CO0000000009",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000009",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20240401_506CO0000000008",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000008",
+   "amendment_law_title": "全世代対応型の持続可能な社会保障制度を構築するための健康保険法等の一部を改正する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20240401_505CO0000000307",
+   "amendment_promulgate_date": "2023-10-20",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000307",
+   "amendment_law_title": "健康保険法施行令及び高齢者の医療の確保に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20240101_504CO0000000133",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504CO0000000133",
+   "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20230401_505CO0000000023",
+   "amendment_promulgate_date": "2023-02-01",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000023",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20221001_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20220101_503CO0000000222",
+   "amendment_promulgate_date": "2021-08-04",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000222",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20211222_503CO0000000339",
+   "amendment_promulgate_date": "2021-12-22",
+   "amendment_enforcement_date": "2021-12-22",
+   "amendment_law_id": "503CO0000000339",
+   "amendment_law_title": "健康保険法施行令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第三百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20210101_502CO0000000381",
+   "amendment_promulgate_date": "2020-12-24",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000381",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20210101_502CO0000000270",
+   "amendment_promulgate_date": "2020-09-04",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502CO0000000270",
+   "amendment_law_title": "国民健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20201001_502CO0000000299",
+   "amendment_promulgate_date": "2020-09-30",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502CO0000000299",
+   "amendment_law_title": "医療保険制度の適正かつ効率的な運営を図るための健康保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20200401_431CO0000000146",
+   "amendment_promulgate_date": "2019-04-05",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431CO0000000146",
+   "amendment_law_title": "厚生年金保険制度及び農林漁業団体職員共済組合制度の統合を図るための農林漁業団体職員共済組合法等を廃止する等の法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十一年政令第百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20190401_430CO0000000059",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000059",
+   "amendment_law_title": "健康保険法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20180801_430CO0000000210",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430CO0000000210",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20180713_430CO0000000210",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-13",
+   "amendment_law_id": "430CO0000000210",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20180401_430CO0000000063",
+   "amendment_promulgate_date": "2018-03-26",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000063",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20180401_430CO0000000055",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000055",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令　抄",
+   "amendment_law_num": "平成三十年政令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20180401_430CO0000000041",
+   "amendment_promulgate_date": "2018-02-28",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430CO0000000041",
+   "amendment_law_title": "臨床研究法第二十四条第二号の国民の保健医療に関する法律等を定める政令",
+   "amendment_law_num": "平成三十年政令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20170801_429CO0000000213",
+   "amendment_promulgate_date": "2017-07-28",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_law_id": "429CO0000000213",
+   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20170701_429CO0000000177",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2017-07-01",
+   "amendment_law_id": "429CO0000000177",
+   "amendment_law_title": "地域包括ケアシステムの強化のための介護保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "215IO0000000243_20170401_429CO0000000098",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000098",
+   "amendment_law_title": "持続可能な医療保険制度を構築するための国民健康保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　適用事業所の事業の範囲",
+  "第二章　全国健康保険協会の資金の運用",
+  "第三章　健康保険組合",
+  "第四章　育児休業の根拠法令",
+  "第五章　保険給付",
+  "第六章　手数料",
+  "第七章　費用の負担",
+  "第八章　健康保険組合連合会",
+  "第九章　雑則"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "健康保険法（大正十一年法律第七十号。以下「法」という。）第三条第三項第一号レの政令で定める者は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1926-06-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-12T14:21:50+09:00"
+ }
+}

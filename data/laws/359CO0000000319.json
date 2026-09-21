@@ -1,0 +1,140 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "359CO0000000319",
+  "law_num": "昭和五十九年政令第三百十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 59,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "319",
+  "promulgation_date": "1984-11-07"
+ },
+ "revision_info": {
+  "law_revision_id": "359CO0000000319_20260401_507CO0000000388",
+  "law_type": "CabinetOrder",
+  "law_title": "風俗営業等の規制及び業務の適正化等に関する法律施行令",
+  "law_title_kana": "ふうぞくえいぎょうとうのきせいおよびぎょうむのてきせいかとうにかんするほうりつしこうれい",
+  "abbrev": "風営法施行令,風営適正化法施行令,風適法施行令",
+  "category": "警察",
+  "updated": "2026-04-01T07:07:40+09:00",
+  "amendment_promulgate_date": "2025-11-27",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000388",
+  "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百八十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "359CO0000000319_20260401_507CO0000000388",
+   "amendment_promulgate_date": "2025-11-27",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000388",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "359CO0000000319_20241212_506CO0000000283",
+   "amendment_promulgate_date": "2024-09-11",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "506CO0000000283",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二百八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359CO0000000319_20230713_505CO0000000236",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000236",
+   "amendment_law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359CO0000000319_20230713_505CO0000000235",
+   "amendment_promulgate_date": "2023-07-05",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505CO0000000235",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359CO0000000319_20200401_502CO0000000040",
+   "amendment_promulgate_date": "2020-03-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000040",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和二年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359CO0000000319_20180615_430CO0000000021",
+   "amendment_promulgate_date": "2018-01-31",
+   "amendment_enforcement_date": "2018-06-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430CO0000000021",
+   "amendment_law_title": "旅館業法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成三十年政令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359CO0000000319_20170713_429CO0000000180",
+   "amendment_promulgate_date": "2017-07-05",
+   "amendment_enforcement_date": "2017-07-13",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000180",
+   "amendment_law_title": "警察法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359CO0000000319_20170530_429CO0000000019",
+   "amendment_promulgate_date": "2017-02-15",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "429CO0000000019",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359CO0000000319_20160623_427CO0000000382",
+   "amendment_promulgate_date": "2015-11-13",
+   "amendment_enforcement_date": "2016-06-23",
+   "amendment_law_id": "427CO0000000382",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十七年政令第三百八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第一項第五号の政令で定める施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "風俗営業等の規制及び業務の適正化等に関する法律（以下「法」という。）第二条第一項第五号の政令で定める施設は、次の各号のいずれかに該当する施設であつて、営業中における当該施設の内部をそれぞれ当該施設の置かれるホテル等、大規模小売店舗又は遊園地内において当該施設の外部から容易に見通すことができるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1984-11-07",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T07:07:40+09:00"
+ }
+}

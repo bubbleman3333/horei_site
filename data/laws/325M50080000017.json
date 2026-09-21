@@ -1,0 +1,267 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "325M50080000017",
+  "law_num": "昭和二十五年電波監理委員会規則第十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "Rule",
+  "law_num_num": "017",
+  "promulgation_date": "1950-11-30"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50080000017_20260723_508M60000008090",
+  "law_type": "Rule",
+  "law_title": "無線局運用規則",
+  "law_title_kana": "むせんきょくうんようきそく",
+  "abbrev": null,
+  "category": "電気通信",
+  "updated": "2026-08-07T09:20:44+09:00",
+  "amendment_promulgate_date": "2026-07-23",
+  "amendment_enforcement_date": "2026-07-23",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008090",
+  "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第九十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50080000017_20260723_508M60000008090",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-07-23",
+   "amendment_law_id": "508M60000008090",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第九十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20260403_508M60000008059",
+   "amendment_promulgate_date": "2026-04-03",
+   "amendment_enforcement_date": "2026-04-03",
+   "amendment_law_id": "508M60000008059",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20260324_508M60000008028",
+   "amendment_promulgate_date": "2026-03-24",
+   "amendment_enforcement_date": "2026-03-24",
+   "amendment_law_id": "508M60000008028",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20251001_507M60000008094",
+   "amendment_promulgate_date": "2025-09-29",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008094",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20251001_507M60000008085",
+   "amendment_promulgate_date": "2025-08-25",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000008085",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年総務省令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20250101_506M60000008119",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-01-01",
+   "amendment_law_id": "506M60000008119",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20241227_506M60000008121",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2024-12-27",
+   "amendment_law_id": "506M60000008121",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20231222_505M60000008094",
+   "amendment_promulgate_date": "2023-12-22",
+   "amendment_enforcement_date": "2023-12-22",
+   "amendment_law_id": "505M60000008094",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20230831_505M60000008068",
+   "amendment_promulgate_date": "2023-08-31",
+   "amendment_enforcement_date": "2023-08-31",
+   "amendment_law_id": "505M60000008068",
+   "amendment_law_title": "電波法施行規則及び無線局運用規則の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20230322_505M60000008017",
+   "amendment_promulgate_date": "2023-03-22",
+   "amendment_enforcement_date": "2023-03-22",
+   "amendment_law_id": "505M60000008017",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年総務省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20221001_504M60000008064",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000008064",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20220501_504M60000008011",
+   "amendment_promulgate_date": "2022-03-03",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "504M60000008011",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20220427_504M60000008033",
+   "amendment_promulgate_date": "2022-04-27",
+   "amendment_enforcement_date": "2022-04-27",
+   "amendment_law_id": "504M60000008033",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年総務省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20210820_503M60000008079",
+   "amendment_promulgate_date": "2021-08-20",
+   "amendment_enforcement_date": "2021-08-20",
+   "amendment_law_id": "503M60000008079",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20210630_503M60000008066",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_law_id": "503M60000008066",
+   "amendment_law_title": "無線局運用規則の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20210302_503M60000008015",
+   "amendment_promulgate_date": "2021-03-02",
+   "amendment_enforcement_date": "2021-03-02",
+   "amendment_law_id": "503M60000008015",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年総務省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20200622_502M60000008061",
+   "amendment_promulgate_date": "2020-06-22",
+   "amendment_enforcement_date": "2020-06-22",
+   "amendment_law_id": "502M60000008061",
+   "amendment_law_title": "無線局（基幹放送局を除く。）の開設の根本的基準等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20200417_502M60000008041",
+   "amendment_promulgate_date": "2020-04-17",
+   "amendment_enforcement_date": "2020-04-17",
+   "amendment_law_id": "502M60000008041",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20200415_502M60000008038",
+   "amendment_promulgate_date": "2020-04-15",
+   "amendment_enforcement_date": "2020-04-15",
+   "amendment_law_id": "502M60000008038",
+   "amendment_law_title": "電波法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20170101_428M60000008101",
+   "amendment_promulgate_date": "2016-12-27",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428M60000008101",
+   "amendment_law_num": "平成二十八年総務省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50080000017_20170101_428M60000008089",
+   "amendment_promulgate_date": "2016-11-04",
+   "amendment_enforcement_date": "2017-01-01",
+   "amendment_law_id": "428M60000008089",
+   "amendment_law_num": "平成二十八年総務省令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　一般通信方法",
+  "第三章　海上移動業務、海上移動衛星業務及び海上無線航行業務の無線局の運用",
+  "第四章　固定業務、陸上移動業務及び携帯移動業務の無線局、簡易無線局並びに非常局の運用",
+  "第五章　地上基幹放送局及び地上一般放送局の運用",
+  "第六章　特別業務の局及び標準周波数局の運用",
+  "第七章　航空移動業務、航空移動衛星業務及び航空無線航行業務の無線局の運用",
+  "第八章　アマチュア局の運用",
+  "第九章　宇宙無線通信の業務の無線局の運用",
+  "第十章　特定実験試験局の運用"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "無線局の運用については、別に規定するものの外、この規則の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-11-30",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-07T09:20:44+09:00"
+ }
+}

@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "322AC0000000003",
+  "law_num": "昭和二十二年法律第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "Act",
+  "law_num_num": "003",
+  "promulgation_date": "1947-01-16"
+ },
+ "revision_info": {
+  "law_revision_id": "322AC0000000003_20260724_508AC0000000066",
+  "law_type": "Act",
+  "law_title": "皇室典範",
+  "law_title_kana": "こうしつてんぱん",
+  "abbrev": null,
+  "category": "憲法",
+  "updated": "2026-07-24T12:03:29+09:00",
+  "amendment_promulgate_date": "2026-07-24",
+  "amendment_enforcement_date": "2026-07-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000066",
+  "amendment_law_title": "皇室典範等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第六十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322AC0000000003_20261024_508AC0000000066",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2026-10-24",
+   "amendment_law_id": "508AC0000000066",
+   "amendment_law_title": "皇室典範等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000003_20260724_508AC0000000066",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2026-07-24",
+   "amendment_law_id": "508AC0000000066",
+   "amendment_law_title": "皇室典範等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000003_20190430_429AC0000000063",
+   "amendment_promulgate_date": "2017-06-16",
+   "amendment_enforcement_date": "2019-04-30",
+   "amendment_law_id": "429AC0000000063",
+   "amendment_law_title": "天皇の退位等に関する皇室典範特例法",
+   "amendment_law_num": "平成二十九年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000003_20170616_429AC0000000063",
+   "amendment_promulgate_date": "2017-06-16",
+   "amendment_enforcement_date": "2017-06-16",
+   "amendment_law_id": "429AC0000000063",
+   "amendment_law_title": "天皇の退位等に関する皇室典範特例法",
+   "amendment_law_num": "平成二十九年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000003_19490601_324AC0000000134",
+   "amendment_promulgate_date": "1949-05-31",
+   "amendment_enforcement_date": "1949-06-01",
+   "amendment_law_id": "324AC0000000134",
+   "amendment_law_num": "昭和二十四年法律第百三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "皇位は、皇統に属する男系の男子が、これを継承する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-01-16",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-24T12:03:29+09:00"
+ }
+}

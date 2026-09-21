@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "403CO0000000256",
+  "law_num": "平成三年政令第二百五十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 3,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "256",
+  "promulgation_date": "1991-07-31"
+ },
+ "revision_info": {
+  "law_revision_id": "403CO0000000256_20260401_507CO0000000326",
+  "law_type": "CabinetOrder",
+  "law_title": "食品等の持続的な供給を実現するための食品等事業者による事業活動の促進及び食品等の取引の適正化に関する法律施行令",
+  "law_title_kana": "しょくひんとうのじぞくてきなきょうきゅうをじつげんするためのしょくひんとうじぎょうしゃによるじぎょうかつどうのそくしんおよびしょくひんとうのとりひきのてきせいかにかんするほうりつしこうれい",
+  "abbrev": null,
+  "category": "商業",
+  "updated": "2026-04-01T07:50:15+09:00",
+  "amendment_promulgate_date": "2025-09-18",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000326",
+  "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第三百二十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "403CO0000000256_20260401_507CO0000000326",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507CO0000000326",
+   "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "403CO0000000256_20251001_507CO0000000326",
+   "amendment_promulgate_date": "2025-09-18",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000326",
+   "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第三百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403CO0000000256_20230329_505CO0000000081",
+   "amendment_promulgate_date": "2023-03-29",
+   "amendment_enforcement_date": "2023-03-29",
+   "amendment_law_id": "505CO0000000081",
+   "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律施行令及び東日本大震災に対処するための農林水産省関係政令の特例に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403CO0000000256_20181022_430CO0000000293",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2018-10-22",
+   "amendment_law_id": "430CO0000000293",
+   "amendment_law_title": "卸売市場法及び食品流通構造改善促進法の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第二百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403CO0000000256_20081201_419CO0000000039",
+   "amendment_promulgate_date": "2007-03-02",
+   "amendment_enforcement_date": "2008-12-01",
+   "amendment_law_id": "419CO0000000039",
+   "amendment_law_num": "平成十九年政令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（株式会社日本政策金融公庫からの資金の貸付けの利率等）",
+  "title": "第一条",
+  "paragraphs": [
+   "食品等の持続的な供給を実現するための食品等事業者による事業活動の促進及び食品等の取引の適正化に関する法律（平成三年法律第五十九号。次条において「法」という。）第十五条第二項の政令で定める利率、償還期限及び据置期間の範囲は、利率については最高年八分五厘、償還期限については据置期間を含め二十五年、据置期間については三年とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1991-07-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-01T07:50:15+09:00"
+ }
+}

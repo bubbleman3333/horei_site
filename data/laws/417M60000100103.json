@@ -1,0 +1,107 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000100103",
+  "law_num": "平成十七年厚生労働省令第百三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "103",
+  "promulgation_date": "2005-06-28"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000100103_20260401_508M60000100065",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "歯科医師法第十六条の二第一項に規定する臨床研修に関する省令",
+  "law_title_kana": "しかいしほうだいじゅうろくじょうのにだいいっこうにきていするりんしょうけんしゅうにかんするしょうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-05-15T11:49:57+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100065",
+  "amendment_law_title": "歯科医師法第十六条の二第一項に規定する臨床研修に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第六十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000100103_20261001_508M60000100107",
+   "amendment_promulgate_date": "2026-06-25",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100107",
+   "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100103_20260401_508M60000100065",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000100065",
+   "amendment_law_title": "歯科医師法第十六条の二第一項に規定する臨床研修に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100103_20210401_503M60000100085",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100085",
+   "amendment_law_title": "歯科医師法第十六条の二第一項に規定する臨床研修に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100103_20201225_502M60000100208",
+   "amendment_promulgate_date": "2020-12-25",
+   "amendment_enforcement_date": "2020-12-25",
+   "amendment_law_id": "502M60000100208",
+   "amendment_law_title": "押印を求める手続の見直し等のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第二百八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100103_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000100103_20160401_428M60000100003",
+   "amendment_promulgate_date": "2016-01-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000100003",
+   "amendment_law_num": "平成二十八年厚生労働省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "歯科医師法（以下「法」という。）第十六条の二第一項に規定する臨床研修（以下「臨床研修」という。）に関しては、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-06-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-15T11:49:57+09:00"
+ }
+}

@@ -1,0 +1,201 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "421CO0000000296",
+  "law_num": "平成二十一年政令第二百九十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 21,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "296",
+  "promulgation_date": "2009-12-24"
+ },
+ "revision_info": {
+  "law_revision_id": "421CO0000000296_20260801_508CO0000000232",
+  "law_type": "CabinetOrder",
+  "law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+  "law_title_kana": "こようほけんほうとうのいちぶをかいせいするほうりつのいちぶのしこうにともなうかんけいせいれいのせいびとうおよびけいかそちにかんするせいれい",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-08-10T09:29:48+09:00",
+  "amendment_promulgate_date": "2026-07-24",
+  "amendment_enforcement_date": "2026-08-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000232",
+  "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百三十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "421CO0000000296_20260801_508CO0000000232",
+   "amendment_promulgate_date": "2026-07-24",
+   "amendment_enforcement_date": "2026-08-01",
+   "amendment_law_id": "508CO0000000232",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20251201_507CO0000000348",
+   "amendment_promulgate_date": "2025-10-08",
+   "amendment_enforcement_date": "2025-12-01",
+   "amendment_law_id": "507CO0000000348",
+   "amendment_law_title": "独立行政法人福祉医療機構法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第三百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20250801_507CO0000000272",
+   "amendment_promulgate_date": "2025-07-25",
+   "amendment_enforcement_date": "2025-08-01",
+   "amendment_law_id": "507CO0000000272",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第二百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20240801_506CO0000000253",
+   "amendment_promulgate_date": "2024-07-26",
+   "amendment_enforcement_date": "2024-08-01",
+   "amendment_law_id": "506CO0000000253",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20230801_505CO0000000248",
+   "amendment_promulgate_date": "2023-07-21",
+   "amendment_enforcement_date": "2023-08-01",
+   "amendment_law_id": "505CO0000000248",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第二百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20220801_504CO0000000263",
+   "amendment_promulgate_date": "2022-07-29",
+   "amendment_enforcement_date": "2022-08-01",
+   "amendment_law_id": "504CO0000000263",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20220401_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20210801_503CO0000000217",
+   "amendment_promulgate_date": "2021-07-30",
+   "amendment_enforcement_date": "2021-08-01",
+   "amendment_law_id": "503CO0000000217",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20210201_503CO0000000013",
+   "amendment_promulgate_date": "2021-01-27",
+   "amendment_enforcement_date": "2021-02-01",
+   "amendment_law_id": "503CO0000000013",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20200801_502CO0000000229",
+   "amendment_promulgate_date": "2020-07-28",
+   "amendment_enforcement_date": "2020-08-01",
+   "amendment_law_id": "502CO0000000229",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20190801_501CO0000000069",
+   "amendment_promulgate_date": "2019-07-31",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_law_id": "501CO0000000069",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20190410_431CO0000000150",
+   "amendment_promulgate_date": "2019-04-10",
+   "amendment_enforcement_date": "2019-04-10",
+   "amendment_law_id": "431CO0000000150",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20180801_430CO0000000220",
+   "amendment_promulgate_date": "2018-07-25",
+   "amendment_enforcement_date": "2018-08-01",
+   "amendment_law_id": "430CO0000000220",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第二百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20170801_429CO0000000197",
+   "amendment_promulgate_date": "2017-07-14",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_law_id": "429CO0000000197",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "421CO0000000296_20160801_428CO0000000269",
+   "amendment_promulgate_date": "2016-07-29",
+   "amendment_enforcement_date": "2016-08-01",
+   "amendment_law_id": "428CO0000000269",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令の一部を改正する政令",
+   "amendment_law_num": "平成二十八年政令第二百六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　関係政令の整備等",
+  "第二章　経過措置"
+ ],
+ "article1": {
+  "caption": "（全国健康保険協会が承継しない権利及び義務）",
+  "title": "第四十二条",
+  "paragraphs": [
+   "雇用保険法等の一部を改正する法律（平成十九年法律第三十号。以下「平成十九年改正法」という。）附則第二十九条第一項の政令で定める権利及び義務は、同項に規定する事務に関し国が有する権利及び義務であって、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2009-12-24",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-10T09:29:48+09:00"
+ }
+}

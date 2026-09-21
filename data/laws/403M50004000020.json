@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "403M50004000020",
+  "law_num": "平成三年建設省令第二十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 3,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "020",
+  "promulgation_date": "1991-10-25"
+ },
+ "revision_info": {
+  "law_revision_id": "403M50004000020_20260401_508M60000800018",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "建設業に属する事業を行う者の指定副産物に係る再生資源の利用の促進に関する判断の基準となるべき事項を定める省令",
+  "law_title_kana": "けんせつぎょうにぞくするじぎょうをおこなうもののしていふくさんぶつにかかるさいせいしげんのりようのそくしんにかんするはんだんのきじゅんとなるべきじこうをさだめるしょうれい",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-06T11:38:19+09:00",
+  "amendment_promulgate_date": "2026-03-23",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800018",
+  "amendment_law_title": "建設業に属する事業を行う者の指定副産物に係る再生資源の利用の促進に関する判断の基準となるべき事項を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "403M50004000020_20260401_508M60000800018",
+   "amendment_promulgate_date": "2026-03-23",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000800018",
+   "amendment_law_title": "建設業に属する事業を行う者の指定副産物に係る再生資源の利用の促進に関する判断の基準となるべき事項を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "403M50004000020_20240601_505M60000800006",
+   "amendment_promulgate_date": "2023-03-03",
+   "amendment_enforcement_date": "2024-06-01",
+   "amendment_law_id": "505M60000800006",
+   "amendment_law_title": "建設業に属する事業を行う者の指定副産物に係る再生資源の利用の促進に関する判断の基準となるべき事項を定める省令及び建設業に属する事業を行う者の再生資源の利用に関する判断の基準となるべき事項を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50004000020_20230526_505M60000800006",
+   "amendment_promulgate_date": "2023-03-03",
+   "amendment_enforcement_date": "2023-05-26",
+   "amendment_law_id": "505M60000800006",
+   "amendment_law_title": "建設業に属する事業を行う者の指定副産物に係る再生資源の利用の促進に関する判断の基準となるべき事項を定める省令及び建設業に属する事業を行う者の再生資源の利用に関する判断の基準となるべき事項を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50004000020_20230101_504M60000800065",
+   "amendment_promulgate_date": "2022-09-02",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000800065",
+   "amendment_law_title": "建設業に属する事業を行う者の再生資源の利用に関する判断の基準となるべき事項を定める省令及び建設業に属する事業を行う者の指定副産物に係る再生資源の利用の促進に関する判断の基準となるべき事項を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "403M50004000020_20010401_413M60000800060",
+   "amendment_promulgate_date": "2001-03-29",
+   "amendment_enforcement_date": "2001-04-01",
+   "amendment_law_id": "413M60000800060",
+   "amendment_law_num": "平成十三年国土交通省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（この省令の趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、建設業に属する事業を行う者（以下「建設工事事業者」という。）の指定副産物に係る再生資源の利用を促進するため、資源の有効な利用の促進に関する法律第六十条の規定に基づき、資源の有効な利用の促進に関する法律施行令（平成三年政令第三百二十七号）別表第七の第二欄に掲げる土砂、コンクリートの塊、アスファルト・コンクリートの塊及び木材（以下それぞれ「建設発生土」、「コンクリート塊」、「アスファルト・コンクリート塊」及び「建設発生木材」という。）について、建設工事事業者の利用の促進に関する判断の基準となるべき事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1991-10-25",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-06T11:38:19+09:00"
+ }
+}

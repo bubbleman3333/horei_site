@@ -1,0 +1,116 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "428M60000800011",
+  "law_num": "平成二十八年国土交通省令第十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "011",
+  "promulgation_date": "2016-02-29"
+ },
+ "revision_info": {
+  "law_revision_id": "428M60000800011_20260513_508M60000800019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "船員に関する青少年の雇用の促進等に関する法律施行規則",
+  "law_title_kana": "せんいんにかんするせいしょうねんのこようのそくしんとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-05-13T00:29:01+09:00",
+  "amendment_promulgate_date": "2026-03-27",
+  "amendment_enforcement_date": "2026-05-13",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800019",
+  "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和八年国土交通省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428M60000800011_20260513_508M60000800019",
+   "amendment_promulgate_date": "2026-03-27",
+   "amendment_enforcement_date": "2026-05-13",
+   "amendment_law_id": "508M60000800019",
+   "amendment_law_title": "船員法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和八年国土交通省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428M60000800011_20220401_504M60000800040",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800040",
+   "amendment_law_title": "船員に関する青少年の雇用の促進等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000800011_20220401_504M60000800002",
+   "amendment_promulgate_date": "2022-01-07",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000800002",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和四年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000800011_20200601_502M60000800050",
+   "amendment_promulgate_date": "2020-05-25",
+   "amendment_enforcement_date": "2020-06-01",
+   "amendment_law_id": "502M60000800050",
+   "amendment_law_title": "女性の職業生活における活躍の推進に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年国土交通省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000800011_20200330_501M60000800025",
+   "amendment_promulgate_date": "2019-07-18",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "501M60000800025",
+   "amendment_law_title": "船員に関する青少年の雇用の促進等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000800011_20160401_428M60000800025",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800025",
+   "amendment_law_num": "平成二十八年国土交通省令第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000800011_20160401_428M60000800012",
+   "amendment_promulgate_date": "2016-02-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800012",
+   "amendment_law_num": "平成二十八年国土交通省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第十三条第一項の国土交通省令で定める施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "青少年の雇用の促進等に関する法律（昭和四十五年法律第九十八号。以下「法」という。）第三十三条の規定により読み替えて適用する法第十三条第一項の国土交通省令で定める施設は、専修学校（学校教育法（昭和二十二年法律第二十六号）第百二十四条に規定する専修学校をいう。以下同じ。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2016-02-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-13T00:29:01+09:00"
+ }
+}

@@ -1,0 +1,188 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "326AC1000000249",
+  "law_num": "昭和二十六年法律第二百四十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 26,
+  "law_num_type": "Act",
+  "law_num_num": "249",
+  "promulgation_date": "1951-06-26"
+ },
+ "revision_info": {
+  "law_revision_id": "326AC1000000249_20260401_507AC0000000048",
+  "law_type": "Act",
+  "law_title": "森林法",
+  "law_title_kana": "しんりんほう",
+  "abbrev": null,
+  "category": "林業",
+  "updated": "2026-04-01T02:11:24+09:00",
+  "amendment_promulgate_date": "2025-05-30",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507AC0000000048",
+  "amendment_law_title": "森林経営管理法及び森林法の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第四十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "326AC1000000249_20260401_507AC0000000048",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507AC0000000048",
+   "amendment_law_title": "森林経営管理法及び森林法の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20240401_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20230616_505AC0000000063",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2023-06-16",
+   "amendment_law_id": "505AC0000000063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20200610_502AC0000000041",
+   "amendment_promulgate_date": "2020-06-10",
+   "amendment_enforcement_date": "2020-06-10",
+   "amendment_law_id": "502AC0000000041",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和二年法律第四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20190401_430AC0000000035",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000035",
+   "amendment_law_title": "森林経営管理法",
+   "amendment_law_num": "平成三十年法律第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20180601_430AC0000000035",
+   "amendment_promulgate_date": "2018-06-01",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430AC0000000035",
+   "amendment_law_title": "森林経営管理法",
+   "amendment_law_num": "平成三十年法律第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20170726_429AC0000000025",
+   "amendment_promulgate_date": "2017-04-26",
+   "amendment_enforcement_date": "2017-07-26",
+   "amendment_law_id": "429AC0000000025",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十九年法律第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20170426_429AC0000000025",
+   "amendment_promulgate_date": "2017-04-26",
+   "amendment_enforcement_date": "2017-04-26",
+   "amendment_law_id": "429AC0000000025",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "平成二十九年法律第二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "326AC1000000249_20170401_428AC0000000044",
+   "amendment_promulgate_date": "2016-05-20",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428AC0000000044",
+   "amendment_law_title": "森林法等の一部を改正する法律",
+   "amendment_law_num": "平成二十八年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　森林計画等",
+  "第二章の二　営林の助長及び監督等",
+  "第三章　保安施設",
+  "第四章　土地の使用",
+  "第五章　都道府県森林審議会",
+  "第六章　削除",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（この法律の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、森林計画、保安林その他の森林に関する基本的事項を定めて、森林の保続培養と森林生産力の増進とを図り、もつて国土の保全と国民経済の発展とに資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1951-06-26",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T02:11:24+09:00"
+ }
+}

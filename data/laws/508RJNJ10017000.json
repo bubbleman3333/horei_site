@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "508RJNJ10017000",
+  "law_num": "令和八年人事院規則一〇―一七",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "Rule",
+  "law_num_num": "10_17_0",
+  "promulgation_date": "2026-04-15"
+ },
+ "revision_info": {
+  "law_revision_id": "508RJNJ10017000_20261001_000000000000000",
+  "law_type": "Rule",
+  "law_title": "人事院規則一〇―一七（カスタマー・ハラスメントの防止等）",
+  "law_title_kana": "じんじいんきそくじゅうのじゅうななかすたまーはらすめんとのぼうしとう",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-05-20T10:31:51+09:00",
+  "amendment_promulgate_date": "2026-04-15",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508RJNJ10017000_20261001_000000000000000",
+   "amendment_promulgate_date": "2026-04-15",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則は、人事行政の公正の確保、職員の利益の保護及び職員の能率の発揮を目的として、カスタマー・ハラスメントの防止のための措置及びカスタマー・ハラスメントが生じた場合に適切に対応するための措置に関し、必要な事項を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-04-15",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-20T10:31:51+09:00"
+ }
+}

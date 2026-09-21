@@ -1,0 +1,461 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "363CO0000000360",
+  "law_num": "昭和六十三年政令第三百六十号",
+  "law_num_era": "Showa",
+  "law_num_year": 63,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "360",
+  "promulgation_date": "1988-12-30"
+ },
+ "revision_info": {
+  "law_revision_id": "363CO0000000360_20260901_508CO0000000096",
+  "law_type": "CabinetOrder",
+  "law_title": "消費税法施行令",
+  "law_title_kana": "しょうひぜいほうしこうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-09-15T15:13:59+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000096",
+  "amendment_law_title": "消費税法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第九十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "363CO0000000360_20280401_508CO0000000096",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-04-01",
+   "amendment_law_id": "508CO0000000096",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20280101_508CO0000000096",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_enforcement_comment": "第五号に掲げる規定の施行の日の属する年の翌年の一月一日",
+   "amendment_scheduled_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508CO0000000096",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20270722_508CO0000000096",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-07-22",
+   "amendment_enforcement_comment": "金融商品取引法及び資金決済に関する法律の一部を改正する法律（令和八年法律第六十四号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2027-07-22",
+   "amendment_law_id": "508CO0000000096",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20261101_507CO0000000125",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "507CO0000000125",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20261001_508CO0000000108",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000108",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20261001_508CO0000000096",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000096",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20260901_508CO0000000096",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508CO0000000096",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20260522_508CO0000000096",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-05-22",
+   "amendment_law_id": "508CO0000000096",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20260401_506CO0000000145",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506CO0000000145",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20251001_507CO0000000125",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000125",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20250401_507CO0000000125",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000125",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20250401_506CO0000000372",
+   "amendment_promulgate_date": "2024-12-13",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000372",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う関係政令の整理等に関する政令",
+   "amendment_law_num": "令和六年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20241118_506CO0000000342",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2024-11-18",
+   "amendment_law_id": "506CO0000000342",
+   "amendment_law_title": "二酸化炭素の貯留事業に関する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第三百四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20241001_506CO0000000145",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506CO0000000145",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20240401_506CO0000000145",
+   "amendment_promulgate_date": "2024-03-30",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000145",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20240401_505CO0000000137",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505CO0000000137",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20240101_504CO0000000139",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2024-01-01",
+   "amendment_law_id": "504CO0000000139",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20231001_505CO0000000246",
+   "amendment_promulgate_date": "2023-07-21",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000246",
+   "amendment_law_title": "地域公共交通の活性化及び再生に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和五年政令第二百四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20231001_505CO0000000137",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505CO0000000137",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20231001_430CO0000000135",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "430CO0000000135",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20230601_505CO0000000137",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505CO0000000137",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20230501_505CO0000000137",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-05-01",
+   "amendment_law_id": "505CO0000000137",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20230401_505CO0000000137",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000137",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20230401_504CO0000000139",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000139",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20220501_503CO0000000229",
+   "amendment_promulgate_date": "2021-08-06",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "503CO0000000229",
+   "amendment_law_title": "年金制度の機能強化のための国民年金法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20220401_504CO0000000139",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000139",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20220401_503CO0000000116",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000116",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20220401_502CO0000000207",
+   "amendment_promulgate_date": "2020-06-26",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502CO0000000207",
+   "amendment_law_title": "法人税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20220101_503CO0000000116",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "503CO0000000116",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20220101_502CO0000000114",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "502CO0000000114",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20211001_502CO0000000114",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "502CO0000000114",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20211001_430CO0000000135",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2021-10-01",
+   "amendment_law_id": "430CO0000000135",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20210401_503CO0000000116",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503CO0000000116",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20201001_502CO0000000114",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502CO0000000114",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20200601_502CO0000000114",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-06-01",
+   "amendment_law_id": "502CO0000000114",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20200501_502CO0000000114",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502CO0000000114",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20200401_502CO0000000114",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000114",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20200401_430CO0000000135",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430CO0000000135",
+   "amendment_law_title": "消費税法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "363CO0000000360_20191001_431CO0000000099",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "431CO0000000099",
+   "amendment_law_title": "消費税法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　課税標準",
+  "第三章　税額控除等",
+  "第四章　申告、納付、還付等",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「国内」、「保税地域」、「個人事業者」、「事業者」、「国外事業者」、「合併法人」、「被合併法人」、「分割法人」、「分割承継法人」、「人格のない社団等」、「適格請求書発行事業者」、「資産の譲渡等」、「特定資産の譲渡等」、「電気通信利用役務の提供」、「課税資産の譲渡等」、「軽減対象課税資産の譲渡等」、「外国貨物」、「課税貨物」、「軽減対象課税貨物」、「課税仕入れ」、「事業年度」、「基準期間」、「棚卸資産」、「調整対象固定資産」、「確定申告書等」、「特例申告書」、「附帯税」又は「中間納付額」とは、それぞれ消費税法（以下「法」という。）第二条第一項に規定する国内、保税地域、個人事業者、事業者、国外事業者、合併法人、被合併法人、分割法人、分割承継法人、人格のない社団等、適格請求書発行事業者、資産の譲渡等、特定資産の譲渡等、電気通信利用役務の提供、課税資産の譲渡等、軽減対象課税資産の譲渡等、外国貨物、課税貨物、軽減対象課税貨物、課税仕入れ、事業年度、基準期間、棚卸資産、調整対象固定資産、確定申告書等、特例申告書、附帯税又は中間納付額をいう。",
+   "この政令において、次の各号に掲げる用語の意義は、当該各号に定めるところによる。",
+   "この政令において「資産の貸付け」には、資産に係る権利の設定その他他の者に資産を使用させる一切の行為（当該行為のうち、電気通信利用役務の提供に該当するものを除く。）を含むものとする。",
+   "この政令において「相続」には包括遺贈を含むものとし、「相続人」には包括受遺者を含むものとし、「被相続人」には包括遺贈者を含むものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1988-12-30",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-15T15:13:59+09:00"
+ }
+}

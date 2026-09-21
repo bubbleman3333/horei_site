@@ -1,0 +1,217 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "425AC0000000048",
+  "law_num": "平成二十五年法律第四十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "Act",
+  "law_num_num": "048",
+  "promulgation_date": "2013-06-19"
+ },
+ "revision_info": {
+  "law_revision_id": "425AC0000000048_20260624_508AC0000000046",
+  "law_type": "Act",
+  "law_title": "国際的な子の奪取の民事上の側面に関する条約の実施に関する法律",
+  "law_title_kana": "こくさいてきなこのだっしゅのみんじじょうのそくめんにかんするじょうやくのじっしにかんするほうりつ",
+  "abbrev": "ハーグ条約実施法",
+  "category": "民事",
+  "updated": "2026-07-02T11:43:36+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425AC0000000048_20281223_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2028-12-23",
+   "amendment_enforcement_comment": "民法等の一部を改正する法律（令和八年法律第四十五号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-12-23",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20260624_508AC0000000046",
+   "amendment_promulgate_date": "2026-06-24",
+   "amendment_enforcement_date": "2026-06-24",
+   "amendment_law_id": "508AC0000000046",
+   "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20260521_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20260401_506AC0000000033",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "506AC0000000033",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20240524_506AC0000000033",
+   "amendment_promulgate_date": "2024-05-24",
+   "amendment_enforcement_date": "2024-05-24",
+   "amendment_law_id": "506AC0000000033",
+   "amendment_law_title": "民法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20231115_505AC0000000028",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2023-11-15",
+   "amendment_law_id": "505AC0000000028",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20230606_505AC0000000028",
+   "amendment_promulgate_date": "2023-05-17",
+   "amendment_enforcement_date": "2023-06-06",
+   "amendment_law_id": "505AC0000000028",
+   "amendment_law_title": "刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20230220_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2023-02-20",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20200401_501AC0000000002",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000002",
+   "amendment_law_title": "民事執行法及び国際的な子の奪取の民事上の側面に関する条約の実施に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20190517_501AC0000000002",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2019-05-17",
+   "amendment_law_id": "501AC0000000002",
+   "amendment_law_title": "民事執行法及び国際的な子の奪取の民事上の側面に関する条約の実施に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425AC0000000048_20140401_000000000000000",
+   "amendment_promulgate_date": "2013-06-19",
+   "amendment_enforcement_date": "2014-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　子の返還及び子との交流に関する援助",
+  "第三章　子の返還に関する事件の手続等",
+  "第四章　子の返還の執行手続に関する民事執行法の特則",
+  "第五章　家事事件の手続に関する特則",
+  "第六章　過料の裁判の執行等",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、不法な連れ去り又は不法な留置がされた場合において子をその常居所を有していた国に返還すること等を定めた国際的な子の奪取の民事上の側面に関する条約（以下「条約」という。）の的確な実施を確保するため、我が国における中央当局を指定し、その権限等を定めるとともに、子をその常居所を有していた国に迅速に返還するために必要な裁判手続等を定め、もって子の利益に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-06-19",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-02T11:43:36+09:00"
+ }
+}

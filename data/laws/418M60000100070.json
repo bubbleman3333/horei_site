@@ -1,0 +1,139 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "418M60000100070",
+  "law_num": "平成十八年厚生労働省令第七十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "070",
+  "promulgation_date": "2006-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "418M60000100070_20260901_508M60000100120",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令",
+  "law_title_kana": "ろうどうしゃはけんじぎょうのてきせいなうんえいのかくほおよびはけんろうどうしゃのほごとうにかんするほうりつしこうれいだいにじょうだいにこうのしちょうそんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-09-01T00:28:04+09:00",
+  "amendment_promulgate_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100120",
+  "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百二十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418M60000100070_20260901_508M60000100120",
+   "amendment_promulgate_date": "2026-07-31",
+   "amendment_enforcement_date": "2026-09-01",
+   "amendment_law_id": "508M60000100120",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418M60000100070_20250901_507M60000100080",
+   "amendment_promulgate_date": "2025-08-01",
+   "amendment_enforcement_date": "2025-09-01",
+   "amendment_law_id": "507M60000100080",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000100070_20240201_506M60000100001",
+   "amendment_promulgate_date": "2024-01-04",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506M60000100001",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000100070_20221001_504M60000100123",
+   "amendment_promulgate_date": "2022-09-01",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504M60000100123",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年厚生労働省令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000100070_20210401_503M60000100084",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000100084",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000100070_20201201_502M60000100190",
+   "amendment_promulgate_date": "2020-11-30",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000100190",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百九十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000100070_20191001_501M60000100039",
+   "amendment_promulgate_date": "2019-08-30",
+   "amendment_enforcement_date": "2019-10-01",
+   "amendment_law_id": "501M60000100039",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000100070_20180831_430M60000100110",
+   "amendment_promulgate_date": "2018-08-30",
+   "amendment_enforcement_date": "2018-08-31",
+   "amendment_law_id": "430M60000100110",
+   "amendment_law_title": "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令第二条第二項の市町村を定める省令の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第百十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418M60000100070_20121001_424M60000100114",
+   "amendment_promulgate_date": "2012-08-10",
+   "amendment_enforcement_date": "2012-10-01",
+   "amendment_law_id": "424M60000100114",
+   "amendment_law_num": "平成二十四年厚生労働省令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "労働者派遣事業の適正な運営の確保及び派遣労働者の保護等に関する法律施行令（昭和六十一年政令第九十五号）第二条第二項の厚生労働省令で定める市町村は、次の表のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-09-01T00:28:04+09:00"
+ }
+}

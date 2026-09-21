@@ -1,0 +1,187 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "344M50400000004",
+  "law_num": "昭和四十四年国家公安委員会規則第四号",
+  "law_num_era": "Showa",
+  "law_num_year": 44,
+  "law_num_type": "Rule",
+  "law_num_num": "004",
+  "promulgation_date": "1969-06-05"
+ },
+ "revision_info": {
+  "law_revision_id": "344M50400000004_20260408_508M60400000005",
+  "law_type": "Rule",
+  "law_title": "警察庁の定員に関する規則",
+  "law_title_kana": "けいさつちょうのていいんにかんするきそく",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-05-15T16:35:14+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000005",
+  "amendment_law_title": "警察庁の定員に関する規則の一部を改正する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "344M50400000004_20260408_508M60400000005",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508M60400000005",
+   "amendment_law_title": "警察庁の定員に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20260401_508M60400000003",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60400000003",
+   "amendment_law_title": "警察庁の定員に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20250401_507M60400000004",
+   "amendment_promulgate_date": "2025-04-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60400000004",
+   "amendment_law_title": "現場写真の作成及び現場写真記録の取扱に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和七年国家公安委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20240401_506M60400000007",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60400000007",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20230401_505M60400000006",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60400000006",
+   "amendment_law_title": "警察庁の定員に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和五年国家公安委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20221101_504M60400000019",
+   "amendment_promulgate_date": "2022-10-26",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60400000019",
+   "amendment_law_title": "警察庁の定員に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20220401_504M60400000013",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60400000013",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和四年国家公安委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20210901_503M60400000009",
+   "amendment_promulgate_date": "2021-08-23",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60400000009",
+   "amendment_law_title": "警察庁の定員に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和三年国家公安委員会規則第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20210401_503M60400000005",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60400000005",
+   "amendment_law_title": "警察庁の定員に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和三年国家公安委員会規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20200401_502M60400000004",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60400000004",
+   "amendment_law_title": "警察庁の定員に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和二年国家公安委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20200107_501M60400000011",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2020-01-07",
+   "amendment_law_id": "501M60400000011",
+   "amendment_law_title": "警察庁の定員に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20190401_431M60400000005",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431M60400000005",
+   "amendment_law_title": "刑事訴訟法第百八十九条第一項および第百九十九条第二項の規定に基づく司法警察員等の指定に関する規則等の一部を改正する規則",
+   "amendment_law_num": "平成三十一年国家公安委員会規則第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20180401_430M60400000008",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60400000008",
+   "amendment_law_title": "警察庁の定員に関する規則の一部を改正する規則",
+   "amendment_law_num": "平成三十年国家公安委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "344M50400000004_20170401_429M60400000004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60400000004",
+   "amendment_law_num": "平成二十九年国家公安委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（警察庁の定員）",
+  "title": "第一条",
+  "paragraphs": [
+   "警察庁の各内部部局別、各附属機関別及び地方機関の定員は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1969-06-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-15T16:35:14+09:00"
+ }
+}

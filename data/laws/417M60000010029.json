@@ -1,0 +1,132 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000010029",
+  "law_num": "平成十七年法務省令第二十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "029",
+  "promulgation_date": "2005-02-28"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000010029_20260202_508M60000010005",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農業用動産抵当登記規則",
+  "law_title_kana": "のうぎょうようどうさんていとうとうききそく",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-04-27T11:08:19+09:00",
+  "amendment_promulgate_date": "2026-02-02",
+  "amendment_enforcement_date": "2026-02-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000010005",
+  "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000010029_20260202_508M60000010005",
+   "amendment_promulgate_date": "2026-02-02",
+   "amendment_enforcement_date": "2026-02-02",
+   "amendment_law_id": "508M60000010005",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010029_20250421_507M60000010001",
+   "amendment_promulgate_date": "2025-01-10",
+   "amendment_enforcement_date": "2025-04-21",
+   "amendment_law_id": "507M60000010001",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和七年法務省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010029_20240624_506M60000010032",
+   "amendment_promulgate_date": "2024-04-22",
+   "amendment_enforcement_date": "2024-06-24",
+   "amendment_law_id": "506M60000010032",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010029_20240422_506M60000010032",
+   "amendment_promulgate_date": "2024-04-22",
+   "amendment_enforcement_date": "2024-04-22",
+   "amendment_law_id": "506M60000010032",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010029_20240401_506M60000010007",
+   "amendment_promulgate_date": "2024-03-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000010007",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010029_20230401_505M60000010006",
+   "amendment_promulgate_date": "2023-03-20",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000010006",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年法務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010029_20200330_502M60000010008",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60000010008",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年法務省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000010029_20151102_427M60000010043",
+   "amendment_promulgate_date": "2015-09-28",
+   "amendment_enforcement_date": "2015-11-02",
+   "amendment_law_id": "427M60000010043",
+   "amendment_law_num": "平成二十七年法務省令第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　登記簿等",
+  "第二章　登記手続",
+  "第三章　登記事項の証明等",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "削除"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-02-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-27T11:08:19+09:00"
+ }
+}

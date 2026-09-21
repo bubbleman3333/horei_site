@@ -1,0 +1,464 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "411AC0000000136",
+  "law_num": "平成十一年法律第百三十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "Act",
+  "law_num_num": "136",
+  "promulgation_date": "1999-08-18"
+ },
+ "revision_info": {
+  "law_revision_id": "411AC0000000136_20260614_506AC0000000059",
+  "law_type": "Act",
+  "law_title": "組織的な犯罪の処罰及び犯罪収益の規制等に関する法律",
+  "law_title_kana": "そしきてきなはんざいのしょばつおよびはんざいしゅうえきのきせいとうにかんするほうりつ",
+  "abbrev": "組織的犯罪処罰法,組織犯罪対策三法,組織犯罪処罰法",
+  "category": "刑事",
+  "updated": "2026-06-14T00:18:46+09:00",
+  "amendment_promulgate_date": "2024-06-21",
+  "amendment_enforcement_date": "2026-06-14",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506AC0000000059",
+  "amendment_law_title": "出入国管理及び難民認定法等の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411AC0000000136_21171231_409AC0000000080",
+   "amendment_promulgate_date": "1997-06-13",
+   "amendment_enforcement_date": "2117-12-31",
+   "amendment_enforcement_comment": "包括的核実験禁止条約が日本国について効力を生ずる日",
+   "amendment_scheduled_enforcement_date": "2117-12-31",
+   "amendment_law_id": "409AC0000000080",
+   "amendment_law_title": "核原料物質、核燃料物質及び原子炉の規制に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成九年法律第八十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20280613_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律（令和五年法律第五十三号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20280613_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2028-06-13",
+   "amendment_enforcement_comment": "公布の日から起算して五年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2028-06-13",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20270401_506AC0000000060",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "506AC0000000060",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20270331_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_enforcement_comment": "令和九年三月三十一日までの間において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-03-31",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20261211_507AC0000000067",
+   "amendment_promulgate_date": "2025-06-13",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "507AC0000000067",
+   "amendment_law_title": "円滑な事業再生を図るための事業者の金融機関等に対する債務の調整の手続等に関する法律",
+   "amendment_law_num": "令和七年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20260614_506AC0000000059",
+   "amendment_promulgate_date": "2024-06-21",
+   "amendment_enforcement_date": "2026-06-14",
+   "amendment_law_id": "506AC0000000059",
+   "amendment_law_title": "出入国管理及び難民認定法等の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20260605_508AC0000000030",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2026-06-05",
+   "amendment_law_id": "508AC0000000030",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20260521_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20260521_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20251001_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20250722_507AC0000000026",
+   "amendment_promulgate_date": "2025-04-23",
+   "amendment_enforcement_date": "2025-07-22",
+   "amendment_law_id": "507AC0000000026",
+   "amendment_law_title": "日本国の自衛隊と我が国以外の締約国の軍隊との間における相互のアクセス及び協力の円滑化に関する日本国と我が国以外の締約国との間の協定の実施に関する法律",
+   "amendment_law_num": "令和七年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20250628_507AC0000000045",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-06-28",
+   "amendment_law_id": "507AC0000000045",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20250612_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-12",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20250528_507AC0000000045",
+   "amendment_promulgate_date": "2025-05-28",
+   "amendment_enforcement_date": "2025-05-28",
+   "amendment_law_id": "507AC0000000045",
+   "amendment_law_title": "風俗営業等の規制及び業務の適正化等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20250523_507AC0000000039",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-05-23",
+   "amendment_law_id": "507AC0000000039",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和七年法律第三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20241212_505AC0000000084",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2024-12-12",
+   "amendment_law_id": "505AC0000000084",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20240714_506AC0000000048",
+   "amendment_promulgate_date": "2024-06-14",
+   "amendment_enforcement_date": "2024-07-14",
+   "amendment_law_id": "506AC0000000048",
+   "amendment_law_title": "銃砲刀剣類所持等取締法の一部を改正する法律",
+   "amendment_law_num": "令和六年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20240401_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20240401_505AC0000000051",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000051",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20240201_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20231213_505AC0000000084",
+   "amendment_promulgate_date": "2023-12-13",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505AC0000000084",
+   "amendment_law_title": "大麻取締法及び麻薬及び向精神薬取締法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20230713_505AC0000000067",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505AC0000000067",
+   "amendment_law_title": "性的な姿態を撮影する行為等の処罰及び押収物に記録された性的な姿態の影像に係る電磁的記録の消去等に関する法律",
+   "amendment_law_num": "令和五年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20230713_505AC0000000066",
+   "amendment_promulgate_date": "2023-06-23",
+   "amendment_enforcement_date": "2023-07-13",
+   "amendment_law_id": "505AC0000000066",
+   "amendment_law_title": "刑法及び刑事訴訟法の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20230614_505AC0000000053",
+   "amendment_promulgate_date": "2023-06-14",
+   "amendment_enforcement_date": "2023-06-14",
+   "amendment_law_id": "505AC0000000053",
+   "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20230220_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2023-02-20",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20221229_504AC0000000097",
+   "amendment_promulgate_date": "2022-12-09",
+   "amendment_enforcement_date": "2022-12-29",
+   "amendment_law_id": "504AC0000000097",
+   "amendment_law_title": "国際的な不正資金等の移動等に対処するための国際連合安全保障理事会決議第千二百六十七号等を踏まえ我が国が実施する国際テロリストの財産の凍結等に関する特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20220601_503AC0000000072",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "503AC0000000072",
+   "amendment_law_title": "消費者被害の防止及びその回復の促進を図るための特定商取引に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20220525_504AC0000000048",
+   "amendment_promulgate_date": "2022-05-25",
+   "amendment_enforcement_date": "2022-05-25",
+   "amendment_law_id": "504AC0000000048",
+   "amendment_law_title": "民事訴訟法等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20220315_503AC0000000069",
+   "amendment_promulgate_date": "2021-06-16",
+   "amendment_enforcement_date": "2022-03-15",
+   "amendment_law_id": "503AC0000000069",
+   "amendment_law_title": "銃砲刀剣類所持等取締法の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20211101_502AC0000000050",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "502AC0000000050",
+   "amendment_law_title": "金融サービスの利用者の利便の向上及び保護を図るための金融商品の販売等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20201001_502AC0000000022",
+   "amendment_promulgate_date": "2020-04-24",
+   "amendment_enforcement_date": "2020-10-01",
+   "amendment_law_id": "502AC0000000022",
+   "amendment_law_title": "家畜遺伝資源に係る不正競争の防止に関する法律",
+   "amendment_law_num": "令和二年法律第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20200612_502AC0000000050",
+   "amendment_promulgate_date": "2020-06-12",
+   "amendment_enforcement_date": "2020-06-12",
+   "amendment_law_id": "502AC0000000050",
+   "amendment_law_title": "金融サービスの利用者の利便の向上及び保護を図るための金融商品の販売等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20200401_501AC0000000063",
+   "amendment_promulgate_date": "2019-12-04",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000063",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20200401_501AC0000000002",
+   "amendment_promulgate_date": "2019-05-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "501AC0000000002",
+   "amendment_law_title": "民事執行法及び国際的な子の奪取の民事上の側面に関する条約の実施に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和元年法律第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20180410_430AC0000000007",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-10",
+   "amendment_law_id": "430AC0000000007",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20180401_430AC0000000007",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430AC0000000007",
+   "amendment_law_title": "所得税法等の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411AC0000000136_20171201_429AC0000000046",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-12-01",
+   "amendment_law_id": "429AC0000000046",
+   "amendment_law_title": "不動産特定共同事業法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第四十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　組織的な犯罪の処罰及び犯罪収益の没収等",
+  "第三章　没収に関する手続等の特例",
+  "第四章　保全手続",
+  "第五章　削除",
+  "第六章　没収及び追徴の裁判の執行及び保全についての国際共助手続等",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、組織的な犯罪が平穏かつ健全な社会生活を著しく害し、及び犯罪による収益がこの種の犯罪を助長するとともに、これを用いた事業活動への干渉が健全な経済活動に重大な悪影響を与えることに鑑み、並びに国際的な組織犯罪の防止に関する国際連合条約を実施するため、組織的に行われた殺人等の行為に対する処罰を強化し、犯罪による収益の隠匿及び収受並びにこれを用いた法人等の事業経営の支配を目的とする行為を処罰するとともに、犯罪による収益に係る没収及び追徴の特例等について定めることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-08-18",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-14T00:18:46+09:00"
+ }
+}

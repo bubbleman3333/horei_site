@@ -1,0 +1,95 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "507CO0000000134",
+  "law_num": "令和七年政令第百三十四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "134",
+  "promulgation_date": "2025-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "507CO0000000134_20260401_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "防衛特別法人税に関する政令",
+  "law_title_kana": "ぼうえいとくべつほうじんぜいにかんするせいれい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-04-21T10:25:34+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "PreviousEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507CO0000000134_20280101_508CO0000000105",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2028-01-01",
+   "amendment_law_id": "508CO0000000105",
+   "amendment_law_title": "防衛特別法人税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000134_20270101_508CO0000000105",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508CO0000000105",
+   "amendment_law_title": "防衛特別法人税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000134_20261211_508CO0000000105",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-12-11",
+   "amendment_law_id": "508CO0000000105",
+   "amendment_law_title": "防衛特別法人税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000134_20260401_508CO0000000105",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508CO0000000105",
+   "amendment_law_title": "防衛特別法人税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "507CO0000000134_20260401_000000000000000",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令において「内国法人」、「外国法人」、「通算子法人」、「通算法人」、「通算完全支配関係」、「恒久的施設」、「防衛特別法人税中間申告書」、「防衛特別法人税確定申告書」、「修正申告書」、「中間納付額」、「更正」、「附帯税」、「充当」、「還付加算金」、「課税事業年度」又は「課税標準法人税額」とは、それぞれ我が国の防衛力の抜本的な強化等のために必要な財源の確保に関する特別措置法（以下「法」という。）第六条第一号、第二号、第七号から第九号まで、第十一号、第十四号、第十五号若しくは第十七号から第二十二号まで、第十一条又は第十三条第二項に規定する内国法人、外国法人、通算子法人、通算法人、通算完全支配関係、恒久的施設、防衛特別法人税中間申告書、防衛特別法人税確定申告書、修正申告書、中間納付額、更正、附帯税、充当、還付加算金、課税事業年度又は課税標準法人税額をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-03-31",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-21T10:25:34+09:00"
+ }
+}

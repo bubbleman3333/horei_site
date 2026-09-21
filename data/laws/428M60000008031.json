@@ -1,0 +1,137 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "428M60000008031",
+  "law_num": "平成二十八年総務省令第三十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "031",
+  "promulgation_date": "2016-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "428M60000008031_20260127_508M60000008006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "第二種指定電気通信設備接続料規則",
+  "law_title_kana": "だいにしゅしていでんきつうしんせつびせつぞくりょうきそく",
+  "abbrev": "二種接続料規則",
+  "category": "電気通信",
+  "updated": "2026-02-06T09:31:20+09:00",
+  "amendment_promulgate_date": "2026-01-27",
+  "amendment_enforcement_date": "2026-01-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008006",
+  "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428M60000008031_20260127_508M60000008006",
+   "amendment_promulgate_date": "2026-01-27",
+   "amendment_enforcement_date": "2026-01-27",
+   "amendment_law_id": "508M60000008006",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428M60000008031_20260127_508M60000008004",
+   "amendment_promulgate_date": "2026-01-27",
+   "amendment_enforcement_date": "2026-01-27",
+   "amendment_law_id": "508M60000008004",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000008031_20240307_506M60000008014",
+   "amendment_promulgate_date": "2024-03-07",
+   "amendment_enforcement_date": "2024-03-07",
+   "amendment_law_id": "506M60000008014",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年総務省令第十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000008031_20200127_502M60000008002",
+   "amendment_promulgate_date": "2020-01-27",
+   "amendment_enforcement_date": "2020-01-27",
+   "amendment_law_id": "502M60000008002",
+   "amendment_law_title": "電気通信事業法施行規則及び第二種指定電気通信設備接続料規則の一部を改正する省令",
+   "amendment_law_num": "令和二年総務省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000008031_20191224_501M60000008045",
+   "amendment_promulgate_date": "2019-09-27",
+   "amendment_enforcement_date": "2019-12-24",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008045",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000008031_20190522_501M60000008005",
+   "amendment_promulgate_date": "2019-05-14",
+   "amendment_enforcement_date": "2019-05-22",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000008005",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和元年総務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000008031_20170928_429M60000008068",
+   "amendment_promulgate_date": "2017-09-28",
+   "amendment_enforcement_date": "2017-09-28",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000008068",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "平成二十九年総務省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000008031_20170215_429M60000008005",
+   "amendment_promulgate_date": "2017-02-15",
+   "amendment_enforcement_date": "2017-02-15",
+   "amendment_law_id": "429M60000008005",
+   "amendment_law_num": "平成二十九年総務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　法定機能の内容等",
+  "第三章　原価及び利潤の算定",
+  "第四章　接続料設定",
+  "第五章　複数事業者による接続料設定",
+  "第六章　接続料の計算等"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令は、第二種指定電気通信設備との接続に関し当該第二種指定電気通信設備を設置する電気通信事業者（以下「事業者」という。）が取得すべき金額（以下「接続料」という。）に関して、電気通信事業法（以下「法」という。）第三十四条第三項第一号ロの総務省令で定める機能（以下「法定機能」という。）、法定機能ごとの適正な原価及び適正な利潤の算定方法並びに精算に関する事項を定め、もって法定機能ごとの接続料が、適正かつ明確に定められ、能率的な経営の下における適正な原価に適正な利潤を加えたものであることを確保することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2016-03-29",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-02-06T09:31:20+09:00"
+ }
+}

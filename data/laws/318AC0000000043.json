@@ -1,0 +1,200 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "318AC0000000043",
+  "law_num": "昭和十八年法律第四十三号",
+  "law_num_era": "Showa",
+  "law_num_year": 18,
+  "law_num_type": "Act",
+  "law_num_num": "043",
+  "promulgation_date": "1943-03-11"
+ },
+ "revision_info": {
+  "law_revision_id": "318AC0000000043_20260812_508AC0000000064",
+  "law_type": "Act",
+  "law_title": "金融機関の信託業務の兼営等に関する法律",
+  "law_title_kana": "きんゆうきかんのしんたくぎょうむのけんえいとうにかんするほうりつ",
+  "abbrev": "兼営法",
+  "category": "金融・保険",
+  "updated": "2026-08-12T00:01:29+09:00",
+  "amendment_promulgate_date": "2026-07-23",
+  "amendment_enforcement_date": "2026-08-12",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000064",
+  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第六十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "318AC0000000043_20270722_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2027-07-22",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-07-22",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20260812_508AC0000000064",
+   "amendment_promulgate_date": "2026-07-23",
+   "amendment_enforcement_date": "2026-08-12",
+   "amendment_law_id": "508AC0000000064",
+   "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律　抄",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20250401_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20241101_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20240401_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20231129_505AC0000000079",
+   "amendment_promulgate_date": "2023-11-29",
+   "amendment_enforcement_date": "2023-11-29",
+   "amendment_law_id": "505AC0000000079",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20191214_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-12-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20190614_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-06-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20180401_429AC0000000037",
+   "amendment_promulgate_date": "2017-05-24",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "429AC0000000037",
+   "amendment_law_title": "金融商品取引法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20170524_429AC0000000037",
+   "amendment_promulgate_date": "2017-05-24",
+   "amendment_enforcement_date": "2017-05-24",
+   "amendment_law_id": "429AC0000000037",
+   "amendment_law_title": "金融商品取引法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "318AC0000000043_20150901_424AC0000000086",
+   "amendment_promulgate_date": "2012-09-12",
+   "amendment_enforcement_date": "2015-09-01",
+   "amendment_law_id": "424AC0000000086",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律",
+   "amendment_law_num": "平成二十四年法律第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　業務",
+  "第三章　監督",
+  "第四章　指定紛争解決機関",
+  "第五章　雑則",
+  "第六章　罰則",
+  "第七章　没収に関する手続等の特例"
+ ],
+ "article1": {
+  "caption": "（兼営の認可）",
+  "title": "第一条",
+  "paragraphs": [
+   "銀行その他の金融機関（政令で定めるものに限る。以下「金融機関」という。）は、他の法律の規定にかかわらず、内閣総理大臣の認可を受けて、信託業法（平成十六年法律第百五十四号）第二条第一項に規定する信託業及び次に掲げる業務（政令で定めるものを除く。以下「信託業務」という。）を営むことができる。",
+   "金融機関は、内閣府令で定めるところにより、信託業務の種類及び方法を定めて、前項の認可を受けなければならない。",
+   "内閣総理大臣は、第一項の認可の申請があったときは、次に掲げる基準に適合するかどうかを審査しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1943-03-11",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-08-12T00:01:29+09:00"
+ }
+}

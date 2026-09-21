@@ -1,0 +1,222 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "418AC0000000091",
+  "law_num": "平成十八年法律第九十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "Act",
+  "law_num_num": "091",
+  "promulgation_date": "2006-06-21"
+ },
+ "revision_info": {
+  "law_revision_id": "418AC0000000091_20250401_505AC0000000024",
+  "law_type": "Act",
+  "law_title": "高齢者、障害者等の移動等の円滑化の促進に関する法律",
+  "law_title_kana": "こうれいしゃしょうがいしゃとうのいどうとうのえんかつかのそくしんにかんするほうりつ",
+  "abbrev": "バリアフリー法",
+  "category": "陸運",
+  "updated": "2025-04-02T08:08:23+09:00",
+  "amendment_promulgate_date": "2023-05-12",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000024",
+  "amendment_law_title": "海上運送法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418AC0000000091_20270526_508AC0000000023",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2027-05-26",
+   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
+   "amendment_scheduled_enforcement_date": "2027-05-26",
+   "amendment_law_id": "508AC0000000023",
+   "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20250401_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20241101_506AC0000000053",
+   "amendment_promulgate_date": "2024-06-19",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506AC0000000053",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和六年法律第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20240401_505AC0000000058",
+   "amendment_promulgate_date": "2023-06-16",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000058",
+   "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和五年法律第五十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20230401_504AC0000000069",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504AC0000000069",
+   "amendment_law_title": "脱炭素社会の実現に資するための建築物のエネルギー消費性能の向上に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和四年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20210401_502AC0000000028",
+   "amendment_promulgate_date": "2020-05-20",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502AC0000000028",
+   "amendment_law_title": "高齢者、障害者等の移動等の円滑化の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20201201_502AC0000000042",
+   "amendment_promulgate_date": "2020-06-10",
+   "amendment_enforcement_date": "2020-12-01",
+   "amendment_law_id": "502AC0000000042",
+   "amendment_law_title": "道路交通法の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20201127_502AC0000000036",
+   "amendment_promulgate_date": "2020-06-03",
+   "amendment_enforcement_date": "2020-11-27",
+   "amendment_law_id": "502AC0000000036",
+   "amendment_law_title": "持続可能な運送サービスの提供の確保に資する取組を推進するための地域公共交通の活性化及び再生に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20201125_502AC0000000031",
+   "amendment_promulgate_date": "2020-05-27",
+   "amendment_enforcement_date": "2020-11-25",
+   "amendment_law_id": "502AC0000000031",
+   "amendment_law_title": "道路法等の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20200619_502AC0000000028",
+   "amendment_promulgate_date": "2020-05-20",
+   "amendment_enforcement_date": "2020-06-19",
+   "amendment_law_id": "502AC0000000028",
+   "amendment_law_title": "高齢者、障害者等の移動等の円滑化の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和二年法律第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20190625_430AC0000000067",
+   "amendment_promulgate_date": "2018-06-27",
+   "amendment_enforcement_date": "2019-06-25",
+   "amendment_law_id": "430AC0000000067",
+   "amendment_law_title": "建築基準法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20190401_430AC0000000032",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000032",
+   "amendment_law_title": "高齢者、障害者等の移動等の円滑化の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20181101_430AC0000000032",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2018-11-01",
+   "amendment_law_id": "430AC0000000032",
+   "amendment_law_title": "高齢者、障害者等の移動等の円滑化の促進に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20180925_430AC0000000067",
+   "amendment_promulgate_date": "2018-06-27",
+   "amendment_enforcement_date": "2018-09-25",
+   "amendment_law_id": "430AC0000000067",
+   "amendment_law_title": "建築基準法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20170615_429AC0000000026",
+   "amendment_promulgate_date": "2017-05-12",
+   "amendment_enforcement_date": "2017-06-15",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429AC0000000026",
+   "amendment_law_title": "都市緑地法等の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418AC0000000091_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　基本方針等",
+  "第三章　移動等円滑化のために施設設置管理者が講ずべき措置",
+  "第三章の二　移動等円滑化促進地区における移動等円滑化の促進に関する措置",
+  "第四章　重点整備地区における移動等円滑化に係る事業の重点的かつ一体的な実施",
+  "第五章　移動等円滑化経路協定",
+  "第五章の二　移動等円滑化施設協定",
+  "第六章　雑則",
+  "第七章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、高齢者、障害者等の自立した日常生活及び社会生活を確保することの重要性に鑑み、公共交通機関の旅客施設及び車両等、道路、路外駐車場、公園施設並びに建築物の構造及び設備を改善するための措置、一定の地区における旅客施設、建築物等及びこれらの間の経路を構成する道路、駅前広場、通路その他の施設の一体的な整備を推進するための措置、移動等円滑化に関する国民の理解の増進及び協力の確保を図るための措置その他の措置を講ずることにより、高齢者、障害者等の移動上及び施設の利用上の利便性及び安全性の向上の促進を図り、もって公共の福祉の増進に資することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2006-06-21",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-04-02T08:08:23+09:00"
+ }
+}

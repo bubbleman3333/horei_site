@@ -1,0 +1,280 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "324M50010000075",
+  "law_num": "昭和二十四年農林省令第七十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "075",
+  "promulgation_date": "1949-08-04"
+ },
+ "revision_info": {
+  "law_revision_id": "324M50010000075_20260521_508M60000200040",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "土地改良法施行規則",
+  "law_title_kana": "とちかいりょうほうしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-06-02T13:12:42+09:00",
+  "amendment_promulgate_date": "2026-05-20",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200040",
+  "amendment_law_title": "土地改良法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第四十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324M50010000075_20260521_508M60000200040",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508M60000200040",
+   "amendment_law_title": "土地改良法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20250401_507M60000200016",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000200016",
+   "amendment_law_title": "土地改良法等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20240401_505M60000200063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000200063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20231228_505M60000200063",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000200063",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20230609_505M60000200036",
+   "amendment_promulgate_date": "2023-06-09",
+   "amendment_enforcement_date": "2023-06-09",
+   "amendment_law_id": "505M60000200036",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和五年農林水産省令第三十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20230401_505M60000200024",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000200024",
+   "amendment_law_title": "土地改良法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年農林水産省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20230401_504M60000200066",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000200066",
+   "amendment_law_title": "農業経営基盤強化促進法等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年農林水産省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20230101_504M60000200072",
+   "amendment_promulgate_date": "2022-12-08",
+   "amendment_enforcement_date": "2023-01-01",
+   "amendment_law_id": "504M60000200072",
+   "amendment_law_title": "書面の交付を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20220531_504M60000200040",
+   "amendment_promulgate_date": "2022-05-31",
+   "amendment_enforcement_date": "2022-05-31",
+   "amendment_law_id": "504M60000200040",
+   "amendment_law_title": "土地改良法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20220401_504M60000200031",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000200031",
+   "amendment_law_title": "土地改良法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年農林水産省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20210401_502M60000200053",
+   "amendment_promulgate_date": "2020-07-15",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000200053",
+   "amendment_law_title": "土地改良法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20201218_502M60000200082",
+   "amendment_promulgate_date": "2020-12-18",
+   "amendment_enforcement_date": "2020-12-18",
+   "amendment_law_id": "502M60000200082",
+   "amendment_law_title": "土地改良法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20200401_501M60000200028",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200028",
+   "amendment_law_title": "農地中間管理事業の推進に関する法律等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20191216_501M60000200047",
+   "amendment_promulgate_date": "2019-12-16",
+   "amendment_enforcement_date": "2019-12-16",
+   "amendment_law_id": "501M60000200047",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20190507_501M60000200001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000200001",
+   "amendment_law_title": "元号を改める政令の施行に伴う農林水産省関係省令の整理に関する省令",
+   "amendment_law_num": "令和元年農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20190401_431M60000200030",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000200030",
+   "amendment_law_title": "土地改良法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十一年農林水産省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20190401_430M60000200068",
+   "amendment_promulgate_date": "2018-10-17",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60000200068",
+   "amendment_law_title": "土地改良法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年農林水産省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20170925_429M60000200054",
+   "amendment_promulgate_date": "2017-09-22",
+   "amendment_enforcement_date": "2017-09-25",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60000200054",
+   "amendment_law_title": "土地改良法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年農林水産省令第五十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20170519_429M60000200029",
+   "amendment_promulgate_date": "2017-05-19",
+   "amendment_enforcement_date": "2017-05-19",
+   "amendment_law_id": "429M60000200029",
+   "amendment_law_num": "平成二十九年農林水産省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20160401_428M60000200023",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000200023",
+   "amendment_law_num": "平成二十八年農林水産省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20160401_428M60000200017",
+   "amendment_promulgate_date": "2016-03-25",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000200017",
+   "amendment_law_num": "平成二十八年農林水産省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50010000075_20160401_428M60000200006",
+   "amendment_promulgate_date": "2016-01-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000200006",
+   "amendment_law_num": "平成二十八年農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（土地改良事業）",
+  "title": "第一条",
+  "paragraphs": [
+   "土地改良法（以下「法」という。）第二条第二項第一号に掲げる農用地の保全又は利用上必要な施設及び同項第五号に掲げる土地改良施設のうち農業用用排水施設及び農業用道路以外のものは、少くとも、土壌侵食又は農用地の災害若しくは農作物の冷害を防止するため必要な階段工、土留工、防風林、ため池その他これに準ずる施設を含むものとする。",
+   "法第二条第二項第七号の事業は、次に掲げるようなものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-08-04",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-06-02T13:12:42+09:00"
+ }
+}

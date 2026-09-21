@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "413CO0000000238",
+  "law_num": "平成十三年政令第二百三十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 13,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "238",
+  "promulgation_date": "2001-07-04"
+ },
+ "revision_info": {
+  "law_revision_id": "413CO0000000238_20251128_507CO0000000306",
+  "law_type": "CabinetOrder",
+  "law_title": "マンションの管理の適正化の推進に関する法律施行令",
+  "law_title_kana": "まんしょんのかんりのてきせいかのすいしんにかんするほうりつせこうれい",
+  "abbrev": "マンション管理適正化法施行令",
+  "category": "建築・住宅",
+  "updated": "2025-11-28T00:51:36+09:00",
+  "amendment_promulgate_date": "2025-08-29",
+  "amendment_enforcement_date": "2025-11-28",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000306",
+  "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+  "amendment_law_num": "令和七年政令第三百六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "413CO0000000238_20270401_508CO0000000168",
+   "amendment_promulgate_date": "2026-05-20",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508CO0000000168",
+   "amendment_law_title": "マンションの管理の適正化の推進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000238_20251128_507CO0000000306",
+   "amendment_promulgate_date": "2025-08-29",
+   "amendment_enforcement_date": "2025-11-28",
+   "amendment_law_id": "507CO0000000306",
+   "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和七年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000238_20220401_503CO0000000265",
+   "amendment_promulgate_date": "2021-09-27",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000265",
+   "amendment_law_title": "マンションの管理の適正化の推進に関する法律及びマンションの建替え等の円滑化に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000238_20210901_503CO0000000224",
+   "amendment_promulgate_date": "2021-08-04",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000224",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000238_20210301_503CO0000000023",
+   "amendment_promulgate_date": "2021-02-03",
+   "amendment_enforcement_date": "2021-03-01",
+   "amendment_law_id": "503CO0000000023",
+   "amendment_law_title": "マンションの管理の適正化の推進に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "413CO0000000238_20041230_416CO0000000429",
+   "amendment_promulgate_date": "2004-12-28",
+   "amendment_enforcement_date": "2004-12-30",
+   "amendment_law_id": "416CO0000000429",
+   "amendment_law_num": "平成十六年政令第四百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（指定認定事務支援法人の指定）",
+  "title": "第一条",
+  "paragraphs": [
+   "マンションの管理の適正化の推進に関する法律（以下「法」という。）第五条の二十二第一項の規定による指定（以下「指定」という。）は、国土交通省令で定めるところにより、計画作成都道府県等の委託を受けて同項各号に掲げる事務（以下「認定支援事務」という。）を行おうとする法人の申請により行う。",
+   "計画作成都道府県知事等は、前項の申請があった場合において、次の各号のいずれかに該当するときは、指定をしてはならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2001-07-04",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-11-28T00:51:36+09:00"
+ }
+}

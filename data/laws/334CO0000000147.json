@@ -1,0 +1,128 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "334CO0000000147",
+  "law_num": "昭和三十四年政令第百四十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 34,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "147",
+  "promulgation_date": "1959-04-22"
+ },
+ "revision_info": {
+  "law_revision_id": "334CO0000000147_20260817_508CO0000000257",
+  "law_type": "CabinetOrder",
+  "law_title": "下水道法施行令",
+  "law_title_kana": "げすいどうほうしこうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-08-24T09:44:12+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-08-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000257",
+  "amendment_law_title": "下水道法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "334CO0000000147_20260817_508CO0000000257",
+   "amendment_promulgate_date": "2026-08-07",
+   "amendment_enforcement_date": "2026-08-17",
+   "amendment_law_id": "508CO0000000257",
+   "amendment_law_title": "下水道法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "334CO0000000147_20250401_506CO0000000002",
+   "amendment_promulgate_date": "2024-01-04",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000002",
+   "amendment_law_title": "下水道法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334CO0000000147_20240401_506CO0000000002",
+   "amendment_promulgate_date": "2024-01-04",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506CO0000000002",
+   "amendment_law_title": "下水道法施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334CO0000000147_20220820_504CO0000000248",
+   "amendment_promulgate_date": "2022-07-15",
+   "amendment_enforcement_date": "2022-08-20",
+   "amendment_law_id": "504CO0000000248",
+   "amendment_law_title": "下水道法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第二百四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334CO0000000147_20211101_503CO0000000296",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2021-11-01",
+   "amendment_law_id": "503CO0000000296",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334CO0000000147_20210715_503CO0000000205",
+   "amendment_promulgate_date": "2021-07-14",
+   "amendment_enforcement_date": "2021-07-15",
+   "amendment_law_id": "503CO0000000205",
+   "amendment_law_title": "特定都市河川浸水被害対策法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第二百五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334CO0000000147_20190401_429CO0000000232",
+   "amendment_promulgate_date": "2017-09-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429CO0000000232",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第二百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "334CO0000000147_20151119_427CO0000000384",
+   "amendment_promulgate_date": "2015-11-13",
+   "amendment_enforcement_date": "2015-11-19",
+   "amendment_law_id": "427CO0000000384",
+   "amendment_law_title": "下水道法施行令及び公害防止事業費事業者負担法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三百八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（都市下水路の最小規模）",
+  "title": "第一条",
+  "paragraphs": [
+   "下水道法（以下「法」という。）第二条第五号に規定する政令で定める規模は、次の各号に掲げる区分に応じそれぞれ当該各号に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1959-04-22",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-24T09:44:12+09:00"
+ }
+}

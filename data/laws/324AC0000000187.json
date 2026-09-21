@@ -1,0 +1,261 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "324AC0000000187",
+  "law_num": "昭和二十四年法律第百八十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "Act",
+  "law_num_num": "187",
+  "promulgation_date": "1949-06-01"
+ },
+ "revision_info": {
+  "law_revision_id": "324AC0000000187_20260401_505AC0000000024",
+  "law_type": "Act",
+  "law_title": "海上運送法",
+  "law_title_kana": "かいじょううんそうほう",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-04-01T01:01:10+09:00",
+  "amendment_promulgate_date": "2023-05-12",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505AC0000000024",
+  "amendment_law_title": "海上運送法等の一部を改正する法律",
+  "amendment_law_num": "令和五年法律第二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324AC0000000187_20260401_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20250401_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20240401_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20230701_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20230611_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2023-06-11",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20230512_505AC0000000024",
+   "amendment_promulgate_date": "2023-05-12",
+   "amendment_enforcement_date": "2023-05-12",
+   "amendment_law_id": "505AC0000000024",
+   "amendment_law_title": "海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20220401_503AC0000000043",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503AC0000000043",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20211120_503AC0000000043",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-11-20",
+   "amendment_law_id": "503AC0000000043",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20210820_503AC0000000043",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-08-20",
+   "amendment_law_id": "503AC0000000043",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20210521_503AC0000000043",
+   "amendment_promulgate_date": "2021-05-21",
+   "amendment_enforcement_date": "2021-05-21",
+   "amendment_law_id": "503AC0000000043",
+   "amendment_law_title": "海事産業の基盤強化のための海上運送法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20190914_501AC0000000037",
+   "amendment_promulgate_date": "2019-06-14",
+   "amendment_enforcement_date": "2019-09-14",
+   "amendment_law_id": "501AC0000000037",
+   "amendment_law_title": "成年被後見人等の権利の制限に係る措置の適正化等を図るための関係法律の整備に関する法律",
+   "amendment_law_num": "令和元年法律第三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20190401_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20180525_430AC0000000029",
+   "amendment_promulgate_date": "2018-05-25",
+   "amendment_enforcement_date": "2018-05-25",
+   "amendment_law_id": "430AC0000000029",
+   "amendment_law_title": "商法及び国際海上物品運送法の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20171001_429AC0000000021",
+   "amendment_promulgate_date": "2017-04-21",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_law_id": "429AC0000000021",
+   "amendment_law_title": "海上運送法及び船員法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20170421_429AC0000000021",
+   "amendment_promulgate_date": "2017-04-21",
+   "amendment_enforcement_date": "2017-04-21",
+   "amendment_law_id": "429AC0000000021",
+   "amendment_law_title": "海上運送法及び船員法の一部を改正する法律",
+   "amendment_law_num": "平成二十九年法律第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000187_20160401_427AC0000000048",
+   "amendment_promulgate_date": "2015-06-26",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427AC0000000048",
+   "amendment_law_title": "独立行政法人に係る改革を推進するための国土交通省関係法律の整備に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成二十七年法律第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　船舶運航事業",
+  "第二章の二　安全統括管理者資格者証及び運航管理者資格者証",
+  "第三章　船舶貸渡業、海運仲立業及び海運代理店業",
+  "第四章　日本船舶及び船員の確保",
+  "第五章　準日本船舶の認定等",
+  "第五章の二　外航船舶の確保等",
+  "第六章　先進船舶の導入等の促進",
+  "第七章　特定船舶の導入の促進",
+  "第八章　海上運送事業に使用する船舶の規格及び船級",
+  "第九章　雑則",
+  "第十章　罰則"
+ ],
+ "article1": {
+  "caption": "（この法律の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、海上運送事業の運営を適正かつ合理的なものとすることにより、輸送の安全を確保し、海上運送の利用者の利益を保護するとともに、海上運送事業の健全な発達を図り、もつて公共の福祉を増進することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-06-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T01:01:10+09:00"
+ }
+}

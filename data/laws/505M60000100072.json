@@ -1,0 +1,91 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "505M60000100072",
+  "law_num": "令和五年厚生労働省令第七十二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "072",
+  "promulgation_date": "2023-04-28"
+ },
+ "revision_info": {
+  "law_revision_id": "505M60000100072_20260331_508M60000100059",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "中小事業主が行う事業に従事する者等の労働災害等に係る共済事業に関する法律施行規則",
+  "law_title_kana": "ちゅうしょうじぎょうぬしがおこなうじぎょうにじゅうじするものとうのろうどうさいがいとうにかかるきょうさいじぎょうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "労働",
+  "updated": "2026-05-15T11:43:12+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-03-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100059",
+  "amendment_law_title": "中小事業主が行う事業に従事する者等の労働災害等に係る共済事業に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "505M60000100072_20260331_508M60000100059",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-03-31",
+   "amendment_law_id": "508M60000100059",
+   "amendment_law_title": "中小事業主が行う事業に従事する者等の労働災害等に係る共済事業に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "505M60000100072_20250601_507M60000100062",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000100062",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う厚生労働省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和七年厚生労働省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000100072_20240401_505M60000100156",
+   "amendment_promulgate_date": "2023-12-18",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000100156",
+   "amendment_law_title": "中小事業主が行う事業に従事する者等の労働災害等に係る共済事業に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "505M60000100072_20230601_000000000000000",
+   "amendment_promulgate_date": "2023-04-28",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　共済事業等",
+  "第三章　解散等",
+  "第四章　共済募集",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において、「中小事業主」、「中小事業主が行う事業に従事する者等」、「労働災害」、「労働災害相当災害」、「労働災害等」、「労働災害等防止事業」、「共済事業」又は「共済団体」とは、それぞれ中小事業主が行う事業に従事する者等の労働災害等に係る共済事業に関する法律（令和三年法律第八十号。以下「法」という。）第二条に規定する中小事業主、中小事業主が行う事業に従事する者等、労働災害、労働災害相当災害、労働災害等、労働災害等防止事業、共済事業又は共済団体をいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2023-04-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-05-15T11:43:12+09:00"
+ }
+}

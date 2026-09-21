@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "328CO0000000342",
+  "law_num": "昭和二十八年政令第三百四十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 28,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "342",
+  "promulgation_date": "1953-11-04"
+ },
+ "revision_info": {
+  "law_revision_id": "328CO0000000342_20260521_508CO0000000157",
+  "law_type": "CabinetOrder",
+  "law_title": "押収物還付等公告令",
+  "law_title_kana": "おうしゅうぶつかんぷこうこくれい",
+  "abbrev": null,
+  "category": "刑事",
+  "updated": "2026-05-28T09:59:56+09:00",
+  "amendment_promulgate_date": "2026-05-07",
+  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000157",
+  "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百五十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "328CO0000000342_20260521_508CO0000000157",
+   "amendment_promulgate_date": "2026-05-07",
+   "amendment_enforcement_date": "2026-05-21",
+   "amendment_law_id": "508CO0000000157",
+   "amendment_law_title": "情報通信技術の進展等に対応するための刑事訴訟法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000342_20231115_505CO0000000321",
+   "amendment_promulgate_date": "2023-11-10",
+   "amendment_enforcement_date": "2023-11-15",
+   "amendment_law_id": "505CO0000000321",
+   "amendment_law_title": "押収物還付等公告令の一部を改正する政令",
+   "amendment_law_num": "令和五年政令第三百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "328CO0000000342_20120622_424CO0000000156",
+   "amendment_promulgate_date": "2012-05-30",
+   "amendment_enforcement_date": "2012-06-22",
+   "amendment_law_id": "424CO0000000156",
+   "amendment_law_num": "平成二十四年政令第百五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "刑事訴訟法第四百九十九条第一項（同法第五百十三条第十一項（民事訴訟法（平成八年法律第百九号）第百八十九条第三項及び非訟事件手続法（平成二十三年法律第五十一号）第百二十一条第三項（これらの規定を他の法令の規定において準用する場合を含む。）において準用する場合を含む。）において準用する場合を含む。第三条第一項において同じ。）及び第二項の規定による押収物の還付に関する公告並びに刑事訴訟法第四百九十九条の二第一項において準用する同法第四百九十九条第一項及び第二項の規定並びに同法第五百十三条第十二項（民事訴訟法第百八十九条第三項及び非訟事件手続法第百二十一条第三項（これらの規定を他の法令の規定において準用する場合を含む。）において準用する場合を含む。第三条第三項において同じ。）において準用する刑事訴訟法第四百九十九条第一項の規定による交付又は複写に関する公告は、この政令の定める方法によつて行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1953-11-04",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-28T09:59:56+09:00"
+ }
+}

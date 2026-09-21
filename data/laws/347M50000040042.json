@@ -1,0 +1,144 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "347M50000040042",
+  "law_num": "昭和四十七年大蔵省令第四十二号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "042",
+  "promulgation_date": "1972-05-13"
+ },
+ "revision_info": {
+  "law_revision_id": "347M50000040042_20251231_507M60000040072",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令",
+  "law_title_kana": "おきなわのふっきにともなうこくぜいかんけいほうれいのてきようのとくべつそちとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "国税",
+  "updated": "2026-01-13T09:39:35+09:00",
+  "amendment_promulgate_date": "2025-12-19",
+  "amendment_enforcement_date": "2025-12-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000040072",
+  "amendment_law_title": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和七年財務省令第七十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347M50000040042_20320515_504M60000040038",
+   "amendment_promulgate_date": "2022-04-08",
+   "amendment_enforcement_date": "2032-05-15",
+   "amendment_law_id": "504M60000040038",
+   "amendment_law_title": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "347M50000040042_20251231_507M60000040072",
+   "amendment_promulgate_date": "2025-12-19",
+   "amendment_enforcement_date": "2025-12-31",
+   "amendment_law_id": "507M60000040072",
+   "amendment_law_title": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和七年財務省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347M50000040042_20250401_507M60000040034",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040034",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るためのデジタル社会形成基本法等の一部を改正する法律の一部の施行に伴う財務省関係省令の整理に関する省令",
+   "amendment_law_num": "令和七年財務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000040042_20220401_504M60000040026",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000040026",
+   "amendment_law_title": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000040042_20220401_502M60000040056",
+   "amendment_promulgate_date": "2020-06-30",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "502M60000040056",
+   "amendment_law_title": "法人税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000040042_20210401_503M60000040023",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040023",
+   "amendment_law_title": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000040042_20200401_502M60000040022",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000040022",
+   "amendment_law_title": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000040042_20190701_431M60000040020",
+   "amendment_promulgate_date": "2019-03-29",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431M60000040020",
+   "amendment_law_title": "沖縄の復帰に伴う国税関係法令の適用の特別措置等に関する省令の一部を改正する省令",
+   "amendment_law_num": "平成三十一年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000040042_20170401_429M60000040022",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000040022",
+   "amendment_law_num": "平成二十九年財務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　内国税",
+  "第二章　関税等",
+  "第三章　税理士及び通関業等"
+ ],
+ "article1": {
+  "caption": "（国家公務員等の課税に関する経過措置）",
+  "title": "第一条",
+  "paragraphs": [
+   "沖縄の復帰に伴う特別措置に関する法律（昭和四十六年法律第百二十九号。以下「法」という。）第七十三条第二項に規定する布令適用者には、所得税法（昭和四十年法律第三十三号）第三条第一項の規定の適用を受ける者を含まないものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-05-13",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-01-13T09:39:35+09:00"
+ }
+}

@@ -1,0 +1,92 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "423M60000002066",
+  "law_num": "平成二十三年内閣府令第六十六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "066",
+  "promulgation_date": "2011-11-28"
+ },
+ "revision_info": {
+  "law_revision_id": "423M60000002066_20251001_507M60000002089",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公共施設等運営権登録令施行規則",
+  "law_title_kana": "こうきょうしせつとううんえいけんとうろくれいしこうきそく",
+  "abbrev": null,
+  "category": "国土開発",
+  "updated": "2025-10-14T09:39:52+09:00",
+  "amendment_promulgate_date": "2025-10-01",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000002089",
+  "amendment_law_title": "公共施設等運営権登録令施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和七年内閣府令第八十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423M60000002066_20251001_507M60000002089",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507M60000002089",
+   "amendment_law_title": "公共施設等運営権登録令施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423M60000002066_20230401_505M60000002020",
+   "amendment_promulgate_date": "2023-03-27",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000002020",
+   "amendment_law_title": "公共施設等運営権登録令施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000002066_20210401_503M60000002019",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000002019",
+   "amendment_law_title": "公共施設等運営権登録令施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000002066_20160401_428M60000002022",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000002022",
+   "amendment_law_num": "平成二十八年内閣府令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　登録記録等",
+  "第三章　登録手続",
+  "第四章　登録事項の証明等"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-11-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-14T09:39:52+09:00"
+ }
+}

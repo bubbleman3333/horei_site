@@ -1,0 +1,99 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "330AC1000000186",
+  "law_num": "昭和三十年法律第百八十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 30,
+  "law_num_type": "Act",
+  "law_num_num": "186",
+  "promulgation_date": "1955-12-19"
+ },
+ "revision_info": {
+  "law_revision_id": "330AC1000000186_20260717_508AC0000000062",
+  "law_type": "Act",
+  "law_title": "原子力基本法",
+  "law_title_kana": "げんしりょくきほんほう",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-07-24T11:03:34+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "330AC1000000186_20261231_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-12-31",
+   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "330AC1000000186_20260717_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-07-17",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "330AC1000000186_20250606_505AC0000000044",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2025-06-06",
+   "amendment_law_id": "505AC0000000044",
+   "amendment_law_title": "脱炭素社会の実現に向けた電気供給体制の確立を図るための電気事業法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC1000000186_20230607_505AC0000000044",
+   "amendment_promulgate_date": "2023-06-07",
+   "amendment_enforcement_date": "2023-06-07",
+   "amendment_law_id": "505AC0000000044",
+   "amendment_law_title": "脱炭素社会の実現に向けた電気供給体制の確立を図るための電気事業法等の一部を改正する法律",
+   "amendment_law_num": "令和五年法律第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330AC1000000186_20150401_426AC0000000067",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_law_id": "426AC0000000067",
+   "amendment_law_num": "平成二十六年法律第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、原子力の研究、開発及び利用（以下「原子力利用」という。）を推進することによつて、将来におけるエネルギー資源を確保し、並びに学術の進歩、産業の振興及び地球温暖化の防止を図り、もつて人類社会の福祉と国民生活の水準向上とに寄与することを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1955-12-19",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-07-24T11:03:34+09:00"
+ }
+}

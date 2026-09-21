@@ -1,0 +1,76 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "427M60001000005",
+  "law_num": "平成二十七年環境省令第五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 27,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "005",
+  "promulgation_date": "2015-03-06"
+ },
+ "revision_info": {
+  "law_revision_id": "427M60001000005_20260701_508M60001000019",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "環境省関係地域自然資産区域における自然環境の保全及び持続可能な利用の推進に関する法律施行規則",
+  "law_title_kana": "かんきょうしょうかんけいちいきしぜんしさんくいきにおけるしぜんかんきょうのほぜんおよびじぞくかのうなりようのすいしんにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-07-14T10:55:27+09:00",
+  "amendment_promulgate_date": "2026-06-30",
+  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000019",
+  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年環境省令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "427M60001000005_20260701_508M60001000019",
+   "amendment_promulgate_date": "2026-06-30",
+   "amendment_enforcement_date": "2026-07-01",
+   "amendment_law_id": "508M60001000019",
+   "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う環境省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年環境省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "427M60001000005_20220401_504M60001000005",
+   "amendment_promulgate_date": "2022-03-14",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60001000005",
+   "amendment_law_title": "自然公園法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年環境省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427M60001000005_20150401_000000000000000",
+   "amendment_promulgate_date": "2015-03-06",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（地域計画の作成に係る環境大臣への協議）",
+  "title": "第一条",
+  "paragraphs": [
+   "都道府県又は市町村は、地域自然資産区域における自然環境の保全及び持続可能な利用の推進に関する法律（以下「法」という。）第四条第六項の規定により環境大臣に協議しようとするときは、その協議書に当該協議に係る地域計画並びに法第四条第六項各号に該当する行為の種類、目的、実施主体、実施場所、行為地及びその付近の状況、実施時期並びに実施方法を記載した書類を添えて、環境大臣に提出しなければならない。",
+   "環境大臣は、前項の都道府県又は市町村に対し、前項の書類のほか必要と認める書類又は図面の提出を求めることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2015-03-06",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-07-14T10:55:27+09:00"
+ }
+}

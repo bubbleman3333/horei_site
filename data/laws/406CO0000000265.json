@@ -1,0 +1,340 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "406CO0000000265",
+  "law_num": "平成六年政令第二百六十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "265",
+  "promulgation_date": "1994-08-05"
+ },
+ "revision_info": {
+  "law_revision_id": "406CO0000000265_20251001_507CO0000000199",
+  "law_type": "CabinetOrder",
+  "law_title": "行政手続法施行令",
+  "law_title_kana": "ぎょうせいてつづきほうせこうれい",
+  "abbrev": "行手法施行令",
+  "category": "行政手続",
+  "updated": "2025-10-01T07:08:22+09:00",
+  "amendment_promulgate_date": "2025-05-30",
+  "amendment_enforcement_date": "2025-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000199",
+  "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び次世代育成支援対策推進法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第百九十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406CO0000000265_20270401_507CO0000000341",
+   "amendment_promulgate_date": "2025-10-01",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507CO0000000341",
+   "amendment_law_title": "出入国管理及び難民認定法及び外国人の技能実習の適正な実施及び技能実習生の保護に関する法律の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20261001_508CO0000000181",
+   "amendment_promulgate_date": "2026-05-27",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000181",
+   "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20251001_507CO0000000199",
+   "amendment_promulgate_date": "2025-05-30",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "507CO0000000199",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び次世代育成支援対策推進法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20251001_506CO0000000317",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2025-10-01",
+   "amendment_law_id": "506CO0000000317",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20250401_507CO0000000140",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000140",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20250401_507CO0000000007",
+   "amendment_promulgate_date": "2025-01-22",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000007",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び次世代育成支援対策推進法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20250401_506CO0000000317",
+   "amendment_promulgate_date": "2024-10-11",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000317",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第三百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20241202_506CO0000000260",
+   "amendment_promulgate_date": "2024-08-14",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506CO0000000260",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20240517_506CO0000000186",
+   "amendment_promulgate_date": "2024-05-17",
+   "amendment_enforcement_date": "2024-05-17",
+   "amendment_law_id": "506CO0000000186",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和六年政令第百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20240216_505CO0000000379",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2024-02-16",
+   "amendment_law_id": "505CO0000000379",
+   "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律施行令",
+   "amendment_law_num": "令和五年政令第三百七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20240201_506CO0000000022",
+   "amendment_promulgate_date": "2024-01-31",
+   "amendment_enforcement_date": "2024-02-01",
+   "amendment_law_id": "506CO0000000022",
+   "amendment_law_title": "金融商品取引法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和六年政令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20230401_504CO0000000023",
+   "amendment_promulgate_date": "2022-01-19",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504CO0000000023",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び雇用保険法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20221001_504CO0000000023",
+   "amendment_promulgate_date": "2022-01-19",
+   "amendment_enforcement_date": "2022-10-01",
+   "amendment_law_id": "504CO0000000023",
+   "amendment_law_title": "育児休業、介護休業等育児又は家族介護を行う労働者の福祉に関する法律及び雇用保険法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20220701_504CO0000000171",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-07-01",
+   "amendment_law_id": "504CO0000000171",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20220401_504CO0000000171",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000171",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第百七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20220401_503CO0000000268",
+   "amendment_promulgate_date": "2021-09-27",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000268",
+   "amendment_law_title": "職業安定法施行令及び行政手続法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20220101_502CO0000000219",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2022-01-01",
+   "amendment_law_id": "502CO0000000219",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20210901_503CO0000000235",
+   "amendment_promulgate_date": "2021-08-25",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000235",
+   "amendment_law_title": "行政手続法施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20200901_502CO0000000219",
+   "amendment_promulgate_date": "2020-07-08",
+   "amendment_enforcement_date": "2020-09-01",
+   "amendment_law_id": "502CO0000000219",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第二百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20200601_501CO0000000211",
+   "amendment_promulgate_date": "2019-12-26",
+   "amendment_enforcement_date": "2020-06-01",
+   "amendment_law_id": "501CO0000000211",
+   "amendment_law_title": "女性の職業生活における活躍の推進に関する法律等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第二百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20200401_502CO0000000138",
+   "amendment_promulgate_date": "2020-03-31",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502CO0000000138",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和二年政令第百三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20200401_431CO0000000155",
+   "amendment_promulgate_date": "2019-04-17",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "431CO0000000155",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十一年政令第百五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20190401_430CO0000000253",
+   "amendment_promulgate_date": "2018-09-07",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000253",
+   "amendment_law_title": "働き方改革を推進するための関係法律の整備に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成三十年政令第二百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20180601_430CO0000000175",
+   "amendment_promulgate_date": "2018-05-30",
+   "amendment_enforcement_date": "2018-06-01",
+   "amendment_law_id": "430CO0000000175",
+   "amendment_law_title": "医療法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十年政令第百七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20180101_429CO0000000176",
+   "amendment_promulgate_date": "2017-06-30",
+   "amendment_enforcement_date": "2018-01-01",
+   "amendment_law_id": "429CO0000000176",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十九年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20171001_429CO0000000203",
+   "amendment_promulgate_date": "2017-07-26",
+   "amendment_enforcement_date": "2017-10-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000203",
+   "amendment_law_title": "行政手続法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20170801_429CO0000000203",
+   "amendment_promulgate_date": "2017-07-26",
+   "amendment_enforcement_date": "2017-08-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429CO0000000203",
+   "amendment_law_title": "行政手続法施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十九年政令第二百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20170401_429CO0000000129",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429CO0000000129",
+   "amendment_law_title": "雇用保険法等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406CO0000000265_20170401_428CO0000000372",
+   "amendment_promulgate_date": "2016-12-07",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "428CO0000000372",
+   "amendment_law_title": "漁業経営に関する補償制度の改善のための漁船損害等補償法及び漁業災害補償法の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成二十八年政令第三百七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（申請に対する処分及び不利益処分に関する規定の適用が除外される法人）",
+  "title": "第一条",
+  "paragraphs": [
+   "行政手続法（以下「法」という。）第四条第二項第二号の政令で定める法人は、外国人技能実習機構、危険物保安技術協会、行政書士会、漁業共済組合連合会、金融経済教育推進機構、軽自動車検査協会、健康保険組合、健康保険組合連合会、原子力損害賠償・廃炉等支援機構、広域的運営推進機関、広域臨海環境整備センター、港務局、小型船舶検査機構、国民健康保険組合、国民健康保険団体連合会、国民年金基金、国民年金基金連合会、国家公務員共済組合、国家公務員共済組合連合会、市街地再開発組合、自動車安全運転センター、司法書士会、社会保険労務士会、住宅街区整備組合、商工会連合会、水害予防組合、水害予防組合連合、税理士会、石炭鉱業年金基金、全国健康保険協会、全国市町村職員共済組合連合会、全国社会保険労務士会連合会、脱炭素成長型経済構造移行推進機構、地方公務員共済組合、地方公務員共済組合連合会、地方公務員災害補償基金、地方住宅供給公社、地方道路公社、地方独立行政法人、中央職業能力開発協会、中央労働災害防止協会、中小企業団体中央会、土地開発公社、土地改良区、土地改良区連合、土地家屋調査士会、土地区画整理組合、都道府県職業能力開発協会、日本行政書士会連合会、日本銀行、日本下水道事業団、日本公認会計士協会、日本司法書士会連合会、日本商工会議所、日本税理士会連合会、日本赤十字社、日本土地家屋調査士会連合会、日本弁理士会、日本水先人会連合会、農業共済組合、農業共済組合連合会、農水産業協同組合貯金保険機構、防災街区整備事業組合、水先人会、預金保険機構及び労働災害防止協会とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-08-05",
+  "fetched_at": "2026-09-22",
+  "updated": "2025-10-01T07:08:22+09:00"
+ }
+}

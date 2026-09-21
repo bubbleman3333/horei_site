@@ -1,0 +1,160 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "325M50000100035",
+  "law_num": "昭和二十五年厚生省令第三十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "035",
+  "promulgation_date": "1950-07-01"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50000100035_20260401_507M60000100115",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "クリーニング業法施行規則",
+  "law_title_kana": "くりーにんぐぎょうほうしこうきそく",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-04-01T01:55:08+09:00",
+  "amendment_promulgate_date": "2025-11-20",
+  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000100115",
+  "amendment_law_title": "クリーニング業法施行規則及び建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年厚生労働省令第百十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50000100035_20260401_507M60000100115",
+   "amendment_promulgate_date": "2025-11-20",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "507M60000100115",
+   "amendment_law_title": "クリーニング業法施行規則及び建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和七年厚生労働省令第百十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20231227_505M60000100165",
+   "amendment_promulgate_date": "2023-12-27",
+   "amendment_enforcement_date": "2023-12-27",
+   "amendment_law_id": "505M60000100165",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20231226_505M60000100161",
+   "amendment_promulgate_date": "2023-12-26",
+   "amendment_enforcement_date": "2023-12-26",
+   "amendment_law_id": "505M60000100161",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20231213_505M60000100101",
+   "amendment_promulgate_date": "2023-08-03",
+   "amendment_enforcement_date": "2023-12-13",
+   "amendment_law_id": "505M60000100101",
+   "amendment_law_title": "旅館業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20210401_502M60000100196",
+   "amendment_promulgate_date": "2020-12-08",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "502M60000100196",
+   "amendment_law_title": "クリーニング業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20201215_502M60000100140",
+   "amendment_promulgate_date": "2020-07-14",
+   "amendment_enforcement_date": "2020-12-15",
+   "amendment_law_id": "502M60000100140",
+   "amendment_law_title": "食品衛生法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和二年厚生労働省令第百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20200401_501M60000100075",
+   "amendment_promulgate_date": "2019-11-27",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100075",
+   "amendment_law_title": "クリーニング業法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20190701_501M60000100020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年厚生労働省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20190507_501M60000100001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000100001",
+   "amendment_law_title": "元号の表記の整理のための厚生労働省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和元年厚生労働省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20180330_430M60000100047",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-03-30",
+   "amendment_law_id": "430M60000100047",
+   "amendment_law_title": "クリーニング業法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年厚生労働省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000100035_20081201_420M60000100163",
+   "amendment_promulgate_date": "2008-11-28",
+   "amendment_enforcement_date": "2008-12-01",
+   "amendment_law_id": "420M60000100163",
+   "amendment_law_num": "平成二十年厚生労働省令第百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（消毒を要する洗たく物）",
+  "title": "第一条",
+  "paragraphs": [
+   "クリーニング業法（昭和二十五年法律第二百七号。以下「法」という。）第三条第三項第五号に規定する厚生労働省令で定める洗たく物は、次に掲げる洗たく物で営業者に引き渡される前に消毒されていないものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-07-01",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-04-01T01:55:08+09:00"
+ }
+}

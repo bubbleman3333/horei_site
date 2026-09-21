@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "337CO0000000329",
+  "law_num": "昭和三十七年政令第三百二十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 37,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "329",
+  "promulgation_date": "1962-08-20"
+ },
+ "revision_info": {
+  "law_revision_id": "337CO0000000329_20260527_508CO0000000176",
+  "law_type": "CabinetOrder",
+  "law_title": "自動車の保管場所の確保等に関する法律施行令",
+  "law_title_kana": "じどうしゃのほかんばしょのかくほとうにかんするほうりつせしこうれい",
+  "abbrev": "ガレージ法施行令,車庫法施行令",
+  "category": "警察",
+  "updated": "2026-06-03T14:27:51+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000176",
+  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "337CO0000000329_20260527_508CO0000000176",
+   "amendment_promulgate_date": "2026-05-22",
+   "amendment_enforcement_date": "2026-05-27",
+   "amendment_law_id": "508CO0000000176",
+   "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000329_20250401_506CO0000000337",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506CO0000000337",
+   "amendment_law_title": "自動車の保管場所の確保等に関する法律施行令及び情報通信技術を活用した行政の推進等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和六年政令第三百三十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000329_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "337CO0000000329_20160401_428CO0000000103",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000103",
+   "amendment_law_title": "内閣の重要政策に関する総合調整等に関する機能の強化のための国家行政組織法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第百三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（保管場所の要件）",
+  "title": "第一条",
+  "paragraphs": [
+   "自動車の保管場所の確保等に関する法律（以下「法」という。）第三条の政令で定める要件は、次の各号のすべてに該当することとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1962-08-20",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-06-03T14:27:51+09:00"
+ }
+}

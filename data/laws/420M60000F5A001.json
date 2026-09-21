@@ -1,0 +1,396 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "420M60000F5A001",
+  "law_num": "平成二十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 20,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "2008-02-01"
+ },
+ "revision_info": {
+  "law_revision_id": "420M60000F5A001_20260806_508M60000F5A006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "犯罪による収益の移転防止に関する法律施行規則",
+  "law_title_kana": "はんざいによるしゅうえきのいてんぼうしにかんするほうりつせこうきそく",
+  "abbrev": "犯罪収益移転防止法施行規則,犯収法施行規則",
+  "category": "刑事",
+  "updated": "2026-08-24T09:57:48+09:00",
+  "amendment_promulgate_date": "2026-08-06",
+  "amendment_enforcement_date": "2026-08-06",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000F5A006",
+  "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "420M60000F5A001_20270401_508M60000F5A005",
+   "amendment_promulgate_date": "2026-06-26",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000F5A005",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20270401_508M60000F5A001",
+   "amendment_promulgate_date": "2026-03-06",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20270401_507M60000F5A003",
+   "amendment_promulgate_date": "2025-06-24",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "507M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20260806_508M60000F5A006",
+   "amendment_promulgate_date": "2026-08-06",
+   "amendment_enforcement_date": "2026-08-06",
+   "amendment_law_id": "508M60000F5A006",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20260415_508M60000F5A003",
+   "amendment_promulgate_date": "2026-04-15",
+   "amendment_enforcement_date": "2026-04-15",
+   "amendment_law_id": "508M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20260401_508M60000F5A002",
+   "amendment_promulgate_date": "2026-03-31",
+   "amendment_enforcement_date": "2026-04-01",
+   "amendment_law_id": "508M60000F5A002",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20250624_507M60000F5A002",
+   "amendment_promulgate_date": "2025-06-24",
+   "amendment_enforcement_date": "2025-06-24",
+   "amendment_law_id": "507M60000F5A002",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20250601_507M60000F5A001",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20250324_506M60000F5A005",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "506M60000F5A005",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則及び犯罪による収益の移転防止に関する法律施行規則及び疑わしい取引の届出における情報通信の技術の利用に関する規則の一部を改正する命令の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20241202_506M60000F5A006",
+   "amendment_promulgate_date": "2024-11-29",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506M60000F5A006",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則及び犯罪による収益の移転防止に関する法律施行規則及び疑わしい取引の届出における情報通信の技術の利用に関する規則の一部を改正する命令の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20241101_506M60000F5A004",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000F5A004",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20240701_506M60000F5A003",
+   "amendment_promulgate_date": "2024-06-25",
+   "amendment_enforcement_date": "2024-07-01",
+   "amendment_law_id": "506M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20240401_506M60000F5A002",
+   "amendment_promulgate_date": "2024-03-25",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000F5A002",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則及び疑わしい取引の届出における情報通信技術の活用に関する規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20240111_506M60000F5A001",
+   "amendment_promulgate_date": "2024-01-11",
+   "amendment_enforcement_date": "2024-01-11",
+   "amendment_law_id": "506M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和六年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20230601_505M60000F5A003",
+   "amendment_promulgate_date": "2023-05-26",
+   "amendment_enforcement_date": "2023-06-01",
+   "amendment_law_id": "505M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20230511_505M60000F5A002",
+   "amendment_promulgate_date": "2023-05-11",
+   "amendment_enforcement_date": "2023-05-11",
+   "amendment_law_id": "505M60000F5A002",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20230201_505M60000F5A001",
+   "amendment_promulgate_date": "2023-02-01",
+   "amendment_enforcement_date": "2023-02-01",
+   "amendment_law_id": "505M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20220501_504M60000F5A001",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-05-01",
+   "amendment_law_id": "504M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20220401_504M60000F5A001",
+   "amendment_promulgate_date": "2022-03-31",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和四年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20211122_503M60000F5A005",
+   "amendment_promulgate_date": "2021-11-10",
+   "amendment_enforcement_date": "2021-11-22",
+   "amendment_law_id": "503M60000F5A005",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20210901_503M60000F5A003",
+   "amendment_promulgate_date": "2021-09-01",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20210719_503M60000F5A002",
+   "amendment_promulgate_date": "2021-07-16",
+   "amendment_enforcement_date": "2021-07-19",
+   "amendment_law_id": "503M60000F5A002",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20210520_503M60000F5A001",
+   "amendment_promulgate_date": "2021-05-20",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20201228_502M60000F5A003",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20200710_502M60000F5A002",
+   "amendment_promulgate_date": "2020-07-10",
+   "amendment_enforcement_date": "2020-07-10",
+   "amendment_law_id": "502M60000F5A002",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20200501_502M60000F5A001",
+   "amendment_promulgate_date": "2020-04-03",
+   "amendment_enforcement_date": "2020-05-01",
+   "amendment_law_id": "502M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20200401_430M60000F5A003",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "430M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20191201_501M60000F5A003",
+   "amendment_promulgate_date": "2019-11-08",
+   "amendment_enforcement_date": "2019-12-01",
+   "amendment_law_id": "501M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20191018_501M60000F5A002",
+   "amendment_promulgate_date": "2019-10-18",
+   "amendment_enforcement_date": "2019-10-18",
+   "amendment_law_id": "501M60000F5A002",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20190701_501M60000F5A001",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和元年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20181130_430M60000F5A003",
+   "amendment_promulgate_date": "2018-11-30",
+   "amendment_enforcement_date": "2018-11-30",
+   "amendment_law_id": "430M60000F5A003",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20180914_430M60000F5A002",
+   "amendment_promulgate_date": "2018-09-14",
+   "amendment_enforcement_date": "2018-09-14",
+   "amendment_law_id": "430M60000F5A002",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20180713_430M60000F5A001",
+   "amendment_promulgate_date": "2018-07-13",
+   "amendment_enforcement_date": "2018-07-13",
+   "amendment_law_id": "430M60000F5A001",
+   "amendment_law_title": "犯罪による収益の移転防止に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20170401_429M60000F5A002",
+   "amendment_promulgate_date": "2017-03-27",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000F5A002",
+   "amendment_law_num": "平成二十九年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "420M60000F5A001_20170401_429M60000F5A001",
+   "amendment_promulgate_date": "2017-03-24",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429M60000F5A001",
+   "amendment_law_num": "平成二十九年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この命令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2008-02-01",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-08-24T09:57:48+09:00"
+ }
+}

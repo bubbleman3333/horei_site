@@ -1,0 +1,110 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "329R00000001003",
+  "law_num": "昭和二十九年会計検査院規則第三号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "Rule",
+  "law_num_num": "003",
+  "promulgation_date": "1954-06-25"
+ },
+ "revision_info": {
+  "law_revision_id": "329R00000001003_20260408_508R00000001002",
+  "law_type": "Rule",
+  "law_title": "会計検査院事務総局定員規則",
+  "law_title_kana": "かいけいけんさいんじむそうきょくていいんきそく",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-05-20T10:12:37+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-04-08",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508R00000001002",
+  "amendment_law_title": "会計検査院事務総局定員規則の一部を改正する規則",
+  "amendment_law_num": "令和八年会計検査院規則第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329R00000001003_20260408_508R00000001002",
+   "amendment_promulgate_date": "2026-04-08",
+   "amendment_enforcement_date": "2026-04-08",
+   "amendment_law_id": "508R00000001002",
+   "amendment_law_title": "会計検査院事務総局定員規則の一部を改正する規則",
+   "amendment_law_num": "令和八年会計検査院規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329R00000001003_20220401_504R00000001004",
+   "amendment_promulgate_date": "2022-04-01",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504R00000001004",
+   "amendment_law_title": "会計検査院事務総局定員規則の一部を改正する規則",
+   "amendment_law_num": "令和四年会計検査院規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329R00000001003_20210401_503R00000001002",
+   "amendment_promulgate_date": "2021-04-01",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503R00000001002",
+   "amendment_law_title": "会計検査院事務総局定員規則の一部を改正する規則",
+   "amendment_law_num": "令和三年会計検査院規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329R00000001003_20190401_431R00000001002",
+   "amendment_promulgate_date": "2019-04-01",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "431R00000001002",
+   "amendment_law_title": "会計検査院事務総局定員規則の一部を改正する規則",
+   "amendment_law_num": "平成三十一年会計検査院規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329R00000001003_20190101_430R00000001004",
+   "amendment_promulgate_date": "2018-12-27",
+   "amendment_enforcement_date": "2019-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430R00000001004",
+   "amendment_law_title": "会計検査院事務総局定員規則の一部を改正する規則",
+   "amendment_law_num": "平成三十年会計検査院規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "329R00000001003_20170401_429R00000001004",
+   "amendment_promulgate_date": "2017-03-31",
+   "amendment_enforcement_date": "2017-04-01",
+   "amendment_law_id": "429R00000001004",
+   "amendment_law_num": "平成二十九年会計検査院規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "会計検査院事務総局の職員（非常勤職員、休職者、国際機関等に派遣されている職員、交流派遣職員及び育児休業又は配偶者同行休業をしている職員を除く。）の定員は、千二百五十二人とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-06-25",
+  "fetched_at": "2026-09-21",
+  "updated": "2026-05-20T10:12:37+09:00"
+ }
+}

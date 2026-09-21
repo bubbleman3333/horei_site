@@ -1,0 +1,88 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "353M50000002051",
+  "law_num": "昭和五十三年総理府令第五十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 53,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "051",
+  "promulgation_date": "1978-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "353M50000002051_20260324_508M60080000004",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "原子炉主任技術者試験の実施細目等に関する規則",
+  "law_title_kana": "げんしろしゅにんぎじゅつしゃしけんのじっしこまめとうにかんするきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-04-10T10:17:53+09:00",
+  "amendment_promulgate_date": "2026-03-24",
+  "amendment_enforcement_date": "2026-03-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60080000004",
+  "amendment_law_title": "原子炉主任技術者試験の実施細目等に関する規則及び核燃料取扱主任者試験の実施細目等に関する規則の一部を改正する規則",
+  "amendment_law_num": "令和八年原子力規制委員会規則第四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "353M50000002051_20260324_508M60080000004",
+   "amendment_promulgate_date": "2026-03-24",
+   "amendment_enforcement_date": "2026-03-24",
+   "amendment_law_id": "508M60080000004",
+   "amendment_law_title": "原子炉主任技術者試験の実施細目等に関する規則及び核燃料取扱主任者試験の実施細目等に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和八年原子力規制委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "353M50000002051_20210101_502M60080000021",
+   "amendment_promulgate_date": "2020-12-22",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60080000021",
+   "amendment_law_title": "放射性同位元素等の規制に関する法律施行規則等の一部を改正する規則",
+   "amendment_law_num": "令和二年原子力規制委員会規則第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353M50000002051_20190701_501M60080000003",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60080000003",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う原子力規制委員会関係規則の整備に関する規則",
+   "amendment_law_num": "令和元年原子力規制委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "353M50000002051_20130708_425M60080000004",
+   "amendment_promulgate_date": "2013-06-28",
+   "amendment_enforcement_date": "2013-07-08",
+   "amendment_law_id": "425M60080000004",
+   "amendment_law_num": "平成二十五年原子力規制委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（試験の方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "核原料物質、核燃料物質及び原子炉の規制に関する法律（以下「法」という。）第四十一条第一項第一号の原子炉主任技術者試験は、筆記試験及び口答試験により行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1978-12-28",
+  "fetched_at": "2026-09-22",
+  "updated": "2026-04-10T10:17:53+09:00"
+ }
+}
