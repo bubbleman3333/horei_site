@@ -10,20 +10,20 @@
   "promulgation_date": "1952-09-29"
  },
  "revision_info": {
-  "law_revision_id": "327M50000002073_20260401_508M60000008036",
+  "law_revision_id": "327M50000002073_20260924_507M60000008087",
   "law_type": "MinisterialOrdinance",
   "law_title": "地方公営企業法施行規則",
   "law_title_kana": "ちほうこうえいきぎょうほうしこうきそく",
   "abbrev": null,
   "category": "地方自治",
-  "updated": "2026-08-18T13:59:32+09:00",
-  "amendment_promulgate_date": "2026-03-27",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-09-24T00:17:05+09:00",
+  "amendment_promulgate_date": "2025-08-26",
+  "amendment_enforcement_date": "2026-09-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000008036",
-  "amendment_law_title": "地方公営企業法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年総務省令第三十六号",
+  "amendment_law_id": "507M60000008087",
+  "amendment_law_title": "地方自治法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年総務省令第八十七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "地方自治法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和七年総務省令第八十七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "327M50000002073_20260401_508M60000008036",
@@ -49,7 +49,7 @@
    "amendment_law_title": "地方公営企業法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年総務省令第三十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "327M50000002073_20240401_506M60000008002",
@@ -143,7 +143,7 @@
  },
  "_meta": {
   "first_seen": "1952-09-29",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-08-18T13:59:32+09:00"
+  "fetched_at": "2026-09-24",
+  "updated": "2026-09-24T00:17:05+09:00"
  }
 }

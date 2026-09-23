@@ -10,20 +10,20 @@
   "promulgation_date": "2004-05-26"
  },
  "revision_info": {
-  "law_revision_id": "416AC0000000059_20260521_504AC0000000048",
+  "law_revision_id": "416AC0000000059_20260924_506AC0000000065",
   "law_type": "Act",
   "law_title": "市町村の合併の特例に関する法律",
   "law_title_kana": "しちょうそんのがっぺいのとくれいにかんするほうりつ",
-  "abbrev": "市町村合併特例法,合併特例法",
+  "abbrev": "合併特例法,市町村合併特例法",
   "category": "地方自治",
-  "updated": "2026-05-21T02:28:51+09:00",
-  "amendment_promulgate_date": "2022-05-25",
-  "amendment_enforcement_date": "2026-05-21",
+  "updated": "2026-09-24T00:25:09+09:00",
+  "amendment_promulgate_date": "2024-06-26",
+  "amendment_enforcement_date": "2026-09-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "504AC0000000048",
-  "amendment_law_title": "民事訴訟法等の一部を改正する法律",
-  "amendment_law_num": "令和四年法律第四十八号",
+  "amendment_law_id": "506AC0000000065",
+  "amendment_law_title": "地方自治法の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第六十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -51,7 +51,7 @@
    "amendment_law_title": "地方自治法の一部を改正する法律",
    "amendment_law_num": "令和六年法律第六十五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "416AC0000000059_20260521_504AC0000000048",
@@ -61,7 +61,7 @@
    "amendment_law_title": "民事訴訟法等の一部を改正する法律",
    "amendment_law_num": "令和四年法律第四十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "416AC0000000059_20250601_504AC0000000068",
@@ -270,7 +270,7 @@
  },
  "_meta": {
   "first_seen": "2004-05-26",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-21T02:28:51+09:00"
+  "fetched_at": "2026-09-24",
+  "updated": "2026-09-24T00:25:09+09:00"
  }
 }

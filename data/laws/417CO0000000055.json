@@ -10,20 +10,20 @@
   "promulgation_date": "2005-03-18"
  },
  "revision_info": {
-  "law_revision_id": "417CO0000000055_20260521_508CO0000000038",
+  "law_revision_id": "417CO0000000055_20260924_507CO0000000237",
   "law_type": "CabinetOrder",
   "law_title": "市町村の合併の特例に関する法律施行令",
   "law_title_kana": "しちょうそんのがっぺいのとくれいにかんするほうりつしこうれい",
   "abbrev": "市町村合併特例法施行令,合併特例法施行令",
   "category": "地方自治",
-  "updated": "2026-05-21T02:36:25+09:00",
-  "amendment_promulgate_date": "2026-03-18",
-  "amendment_enforcement_date": "2026-05-21",
+  "updated": "2026-09-24T00:25:33+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-09-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000038",
-  "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和八年政令第三十八号",
+  "amendment_law_id": "507CO0000000237",
+  "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第二百三十七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
    "amendment_law_num": "令和七年政令第二百三十七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "417CO0000000055_20260521_508CO0000000038",
@@ -49,7 +49,7 @@
    "amendment_law_title": "民事訴訟法等の一部を改正する法律の施行及び民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律の一部の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "417CO0000000055_20250401_507CO0000000094",
@@ -253,7 +253,7 @@
  },
  "_meta": {
   "first_seen": "2005-03-18",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-21T02:36:25+09:00"
+  "fetched_at": "2026-09-24",
+  "updated": "2026-09-24T00:25:33+09:00"
  }
 }

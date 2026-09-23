@@ -10,20 +10,20 @@
   "promulgation_date": "1947-04-17"
  },
  "revision_info": {
-  "law_revision_id": "322AC0000000067_20260916_508AC0000000043",
+  "law_revision_id": "322AC0000000067_20260924_506AC0000000065",
   "law_type": "Act",
   "law_title": "地方自治法",
   "law_title_kana": "ちほうじちほう",
   "abbrev": "地自法",
   "category": "地方自治",
-  "updated": "2026-09-16T00:01:24+09:00",
-  "amendment_promulgate_date": "2026-06-19",
-  "amendment_enforcement_date": "2026-09-16",
+  "updated": "2026-09-24T00:01:26+09:00",
+  "amendment_promulgate_date": "2024-06-26",
+  "amendment_enforcement_date": "2026-09-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508AC0000000043",
-  "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
-  "amendment_law_num": "令和八年法律第四十三号",
+  "amendment_law_id": "506AC0000000065",
+  "amendment_law_title": "地方自治法の一部を改正する法律",
+  "amendment_law_num": "令和六年法律第六十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -197,7 +197,7 @@
    "amendment_law_title": "地方自治法の一部を改正する法律",
    "amendment_law_num": "令和六年法律第六十五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "322AC0000000067_20260916_508AC0000000043",
@@ -207,7 +207,7 @@
    "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第四十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "322AC0000000067_20260903_508AC0000000027",
@@ -485,7 +485,7 @@
  },
  "_meta": {
   "first_seen": "1947-04-17",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-09-16T00:01:24+09:00"
+  "fetched_at": "2026-09-24",
+  "updated": "2026-09-24T00:01:26+09:00"
  }
 }

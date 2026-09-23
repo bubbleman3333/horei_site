@@ -10,20 +10,20 @@
   "promulgation_date": "1950-04-20"
  },
  "revision_info": {
-  "law_revision_id": "325CO0000000089_20260903_508CO0000000262",
+  "law_revision_id": "325CO0000000089_20260924_507CO0000000237",
   "law_type": "CabinetOrder",
   "law_title": "公職選挙法施行令",
   "law_title_kana": "こうしょくせんきょほうしこうれい",
   "abbrev": "公選法施行令",
   "category": "国会",
-  "updated": "2026-09-14T09:51:57+09:00",
-  "amendment_promulgate_date": "2026-08-28",
-  "amendment_enforcement_date": "2026-09-03",
+  "updated": "2026-09-24T00:10:10+09:00",
+  "amendment_promulgate_date": "2025-07-02",
+  "amendment_enforcement_date": "2026-09-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000262",
-  "amendment_law_title": "地方自治法施行令及び公職選挙法施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百六十二号",
+  "amendment_law_id": "507CO0000000237",
+  "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第二百三十七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
    "amendment_law_num": "令和七年政令第二百三十七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "325CO0000000089_20260903_508CO0000000262",
@@ -49,7 +49,7 @@
    "amendment_law_title": "地方自治法施行令及び公職選挙法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百六十二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "325CO0000000089_20260401_508CO0000000092",
@@ -400,7 +400,7 @@
  },
  "_meta": {
   "first_seen": "1950-04-20",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-09-14T09:51:57+09:00"
+  "fetched_at": "2026-09-24",
+  "updated": "2026-09-24T00:10:10+09:00"
  }
 }
