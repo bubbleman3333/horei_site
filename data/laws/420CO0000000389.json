@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "420CO0000000389_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "420CO0000000389_20260807_508CO0000000246",
    "amendment_promulgate_date": "2026-08-05",
    "amendment_enforcement_date": "2026-08-07",
@@ -420,16 +430,6 @@
    "amendment_law_num": "平成三十年政令第九十一号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "420CO0000000389_20180401_429CO0000000264",
-   "amendment_promulgate_date": "2017-10-25",
-   "amendment_enforcement_date": "2018-04-01",
-   "amendment_law_id": "429CO0000000264",
-   "amendment_law_title": "農業災害補償法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
-   "amendment_law_num": "平成二十九年政令第二百六十四号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -442,7 +442,7 @@
  },
  "_meta": {
   "first_seen": "2008-12-25",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-09-25",
   "updated": "2026-08-19T11:49:31+09:00"
  }
 }
