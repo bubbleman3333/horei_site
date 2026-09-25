@@ -44,24 +44,22 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "324AC0000000228_20270604_508AC0000000030",
-   "amendment_promulgate_date": "2026-06-05",
-   "amendment_enforcement_date": "2027-06-04",
-   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2027-06-04",
-   "amendment_law_id": "508AC0000000030",
-   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
-   "amendment_law_num": "令和八年法律第三十号",
-   "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
-  },
-  {
    "law_revision_id": "324AC0000000228_20270401_508AC0000000064",
    "amendment_promulgate_date": "2026-07-23",
    "amendment_enforcement_date": "2027-04-01",
    "amendment_law_id": "508AC0000000064",
    "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律",
    "amendment_law_num": "令和八年法律第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "324AC0000000228_20270104_508AC0000000030",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-01-04",
+   "amendment_law_id": "508AC0000000030",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十号",
    "amendment_type": "3",
    "current_revision_status": "UnEnforced"
   },
@@ -270,7 +268,7 @@
  },
  "_meta": {
   "first_seen": "1949-12-01",
-  "fetched_at": "2026-09-21",
+  "fetched_at": "2026-09-26",
   "updated": "2026-08-12T00:08:39+09:00"
  }
 }

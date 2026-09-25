@@ -1,0 +1,91 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "333M50000040049",
+  "law_num": "昭和三十三年大蔵省令第四十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "049",
+  "promulgation_date": "1958-09-16"
+ },
+ "revision_info": {
+  "law_revision_id": "333M50000040049_20260924_508M60000040059",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "特定の出納官吏の出納保管に関する特別取扱規則",
+  "law_title_kana": "とくていのすいとうかんりのすいとうほかんにかんするとくべつとりあつかいきそく",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-09-25T11:19:51+09:00",
+  "amendment_promulgate_date": "2026-09-10",
+  "amendment_enforcement_date": "2026-09-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040059",
+  "amendment_law_title": "国の会計帳簿及び書類の様式等に関する省令等の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333M50000040049_20260924_508M60000040059",
+   "amendment_promulgate_date": "2026-09-10",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "508M60000040059",
+   "amendment_law_title": "国の会計帳簿及び書類の様式等に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040049_20210101_502M60000040073",
+   "amendment_promulgate_date": "2020-12-04",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000040073",
+   "amendment_law_title": "証券ヲ以テスル歳入納付ニ関スル法律施行細則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040049_20190701_501M60000040005",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040005",
+   "amendment_law_title": "政府カ第三債務者トシテ差押ヘラレタル債務額ノ仕払停止仕払執行及供託ニ関スル手続等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "333M50000040049_20131101_425M60000040060",
+   "amendment_promulgate_date": "2013-11-01",
+   "amendment_enforcement_date": "2013-11-01",
+   "amendment_law_id": "425M60000040060",
+   "amendment_law_num": "平成二十五年財務省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（主任収入官吏への払込み）",
+  "title": "第一条",
+  "paragraphs": [
+   "財務大臣の指定する分任収入官吏は、その領収した現金（証券を以てする歳入納付に関する法律（大正五年法律第十号）により現金に代えて納付される証券を含む。以下同じ。）で当該領収日に日本銀行（本店、支店、代理店又は歳入代理店をいう。以下同じ。）に払込みできないものがあるときは、これを当該領収日において別紙第一号書式の歳入金現金払込書を添えて主任収入官吏に払い込むものとする。ただし、分任収入官吏が在勤庁外で現金を領収した場合において、当該領収日に帰庁できないときその他当該領収日に主任収入官吏に払い込むことができない特別の事由があるときは、主任収入官吏に払い込む場合にあつては出納官吏事務規程（昭和二十二年大蔵省令第九十五号）第十七条又は第十九条の規定による払込期限の前日までの間において（払込期限が領収日の翌日であるときは、当該日において）、日本銀行に払い込む場合にあつては当該払込期限までの間において、払込みができることとなつた後、すみやかに払込みをすることを妨げない。",
+   "前項の場合において、国税局の分任収入官吏がその領収した現金を払い込むときは、歳入金現金払込書の添付に代えて、当該書面を送信（書面等の情報を電子情報処理組織（国税局の主任収入官吏及び分任収入官吏がその所掌に属する歳入の収納に関する事務を処理するため、財務省に設置される電子計算機と国税局の主任収入官吏及び分任収入官吏の所在する官署に設置される入出力装置とを電気通信回線で接続した電子情報処理組織をいう。以下この条において同じ。）を使用して電気通信回線を通じて転送することをいう。以下この条において同じ。）することができる。この場合において、当該払込みは、当該書面を添えて行われたものとみなす。",
+   "主任収入官吏は、第一項の規定により分任収入官吏から歳入金現金払込書を添えて領収現金の払込みを受けたときは、別紙第一号書式の領収証書を分任収入官吏に交付し、前項の規定により国税局の分任収入官吏から歳入金現金払込書の送信を受けて、領収現金の払込みを受けたときは、領収現金を領収した旨を電子情報処理組織に記録し、記録した旨を分任収入官吏に通知しなければならない。",
+   "主任収入官吏は、第一項の規定により分任収入官吏から領収現金の払込みを受けたときは、これをその払込みを受けた日の翌日（当該日が日曜日若しくは土曜日、国民の祝日に関する法律（昭和二十三年法律第百七十八号）に規定する休日又は一月二日、同月三日若しくは十二月三十一日に当たるときは、これらの日の翌日を当該日とみなす。）までに出納官吏事務規程第十七条に規定する現金払込書を添えて日本銀行に払い込まなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1958-09-16",
+  "fetched_at": "2026-09-26",
+  "updated": "2026-09-25T11:19:51+09:00"
+ }
+}

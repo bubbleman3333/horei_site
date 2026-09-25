@@ -10,20 +10,20 @@
   "promulgation_date": "2006-03-31"
  },
  "revision_info": {
-  "law_revision_id": "418M60000080012_20260313_508M60000080009",
+  "law_revision_id": "418M60000080012_20260904_508M60000080029",
   "law_type": "MinisterialOrdinance",
   "law_title": "大学の設置等の認可の申請及び届出に係る手続等に関する規則",
   "law_title_kana": "だいがくのせっちとうのにんかのしんせいおよびとどけでにかかるてつづきとうにかんするきそく",
   "abbrev": null,
   "category": "教育",
-  "updated": "2026-04-01T16:17:11+09:00",
-  "amendment_promulgate_date": "2026-03-13",
-  "amendment_enforcement_date": "2026-03-13",
+  "updated": "2026-09-25T10:42:00+09:00",
+  "amendment_promulgate_date": "2026-09-04",
+  "amendment_enforcement_date": "2026-09-04",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000080009",
-  "amendment_law_title": "大学の設置等の認可の申請及び届出に係る手続等に関する規則の一部を改正する省令",
-  "amendment_law_num": "令和八年文部科学省令第九号",
+  "amendment_law_id": "508M60000080029",
+  "amendment_law_title": "大学設置基準及び大学の設置等の認可の申請及び届出に係る手続等に関する規則の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省令第二十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "418M60000080012_20260904_508M60000080029",
+   "amendment_promulgate_date": "2026-09-04",
+   "amendment_enforcement_date": "2026-09-04",
+   "amendment_law_id": "508M60000080029",
+   "amendment_law_title": "大学設置基準及び大学の設置等の認可の申請及び届出に係る手続等に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "418M60000080012_20260313_508M60000080009",
    "amendment_promulgate_date": "2026-03-13",
    "amendment_enforcement_date": "2026-03-13",
@@ -39,7 +49,7 @@
    "amendment_law_title": "大学の設置等の認可の申請及び届出に係る手続等に関する規則の一部を改正する省令",
    "amendment_law_num": "令和八年文部科学省令第九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "418M60000080012_20250904_507M60000080022",
@@ -213,7 +223,7 @@
  },
  "_meta": {
   "first_seen": "2006-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-01T16:17:11+09:00"
+  "fetched_at": "2026-09-26",
+  "updated": "2026-09-25T10:42:00+09:00"
  }
 }

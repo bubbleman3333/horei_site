@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "211M10000040020",
+  "law_num": "大正十一年大蔵省令第二十号",
+  "law_num_era": "Taisho",
+  "law_num_year": 11,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "020",
+  "promulgation_date": "1922-03-29"
+ },
+ "revision_info": {
+  "law_revision_id": "211M10000040020_20260924_508M60000040059",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "国の会計帳簿及び書類の様式等に関する省令",
+  "law_title_kana": "くにのかいけいちょうぼおよびしょるいのようしきとうにかんするしょうれい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-09-25T11:28:27+09:00",
+  "amendment_promulgate_date": "2026-09-10",
+  "amendment_enforcement_date": "2026-09-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040059",
+  "amendment_law_title": "国の会計帳簿及び書類の様式等に関する省令等の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "211M10000040020_20260924_508M60000040059",
+   "amendment_promulgate_date": "2026-09-10",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "508M60000040059",
+   "amendment_law_title": "国の会計帳簿及び書類の様式等に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "211M10000040020_20250401_507M60000040004",
+   "amendment_promulgate_date": "2025-02-21",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000040004",
+   "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う財務省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年財務省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "211M10000040020_20210101_502M60000040073",
+   "amendment_promulgate_date": "2020-12-04",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000040073",
+   "amendment_law_title": "証券ヲ以テスル歳入納付ニ関スル法律施行細則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "211M10000040020_20190701_501M60000040005",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000040005",
+   "amendment_law_title": "政府カ第三債務者トシテ差押ヘラレタル債務額ノ仕払停止仕払執行及供託ニ関スル手続等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "211M10000040020_20120401_424M60000040019",
+   "amendment_promulgate_date": "2012-03-30",
+   "amendment_enforcement_date": "2012-04-01",
+   "amendment_law_id": "424M60000040019",
+   "amendment_law_num": "平成二十四年財務省令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "予算決算及び会計令（昭和二十二年勅令第百六十五号）第百三十七条及び第百四十二条並びに特別会計に関する法律施行令（平成十九年政令第百二十四号）の規定による帳簿の様式及び記入の方法並びに書類の様式は、次表の上欄に掲げる帳簿又は書類については、下欄に掲げる書式による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1922-03-29",
+  "fetched_at": "2026-09-26",
+  "updated": "2026-09-25T11:28:27+09:00"
+ }
+}

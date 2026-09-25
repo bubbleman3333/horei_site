@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "325M50000040021",
+  "law_num": "昭和二十五年大蔵省令第二十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "021",
+  "promulgation_date": "1950-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "325M50000040021_20260924_508M60000040059",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "税務官署における収入官吏及び出納員並びに歳入歳出外現金出納官吏の備えるべき現金領収証書に関する省令",
+  "law_title_kana": "ぜいむかんしょにおけるしゅうにゅうかんりおよびすいとういんならびにさいにゅうさいしゅつそとげんきんすいとうかんりのそなえるべきげんきんりょうしゅうしょうかきにかんするしょうれい",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2026-09-25T11:30:45+09:00",
+  "amendment_promulgate_date": "2026-09-10",
+  "amendment_enforcement_date": "2026-09-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040059",
+  "amendment_law_title": "国の会計帳簿及び書類の様式等に関する省令等の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第五十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325M50000040021_20260924_508M60000040059",
+   "amendment_promulgate_date": "2026-09-10",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "508M60000040059",
+   "amendment_law_title": "国の会計帳簿及び書類の様式等に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040021_20210101_502M60000040075",
+   "amendment_promulgate_date": "2020-12-11",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000040075",
+   "amendment_law_title": "税務官署における収入官吏及び出納員並びに歳入歳出外現金出納官吏の備えるべき現金領収証書に関する省令等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325M50000040021_20010327_413M60000040020",
+   "amendment_promulgate_date": "2001-03-27",
+   "amendment_enforcement_date": "2001-03-27",
+   "amendment_law_id": "413M60000040020",
+   "amendment_law_num": "平成十三年財務省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "税務官署における収入官吏及び出納員並びに歳入歳出外現金出納官吏の備えるべき現金領収証書は、国の会計帳簿及び書類の様式等に関する省令（大正十一年大蔵省令第二十号）で定める現金領収証書の書式にかかわらず、左の書式によらなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-03-31",
+  "fetched_at": "2026-09-26",
+  "updated": "2026-09-25T11:30:45+09:00"
+ }
+}
