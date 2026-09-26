@@ -2,7 +2,7 @@
   "name": "法令ウォッチ",
   "tagline": "法律・政令・省令の改正と施行日を毎日自動で追う",
   "description": "法律・政令・府省令の改正と施行日を、e-Gov 法令検索（デジタル庁）の法令 API から毎日自動で取り込んで整理しています。今週何が施行されたか、来月何が施行されるかが一目でわかります。",
-  "site_url": "https://bubbleman3333.github.io/horei_site",
+  "site_url": "https://horei-watch.rakunowa.workers.dev",
   "author": "法令ウォッチ編集部",
   "window_days": 365,
   "soon_days": 60

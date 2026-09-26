@@ -3,7 +3,7 @@
 法律・政令・府省令・規則の**公布と施行**を、e-Gov 法令検索（デジタル庁）の公開 API から毎日取り込み、
 静的サイトとして GitHub Pages に配信する。**運用費ゼロ**（API はキー不要、GitHub Actions と Pages は無料枠）。
 
-- 公開先: https://bubbleman3333.github.io/horei_site/
+- 公開先: https://horei-watch.rakunowa.workers.dev/
 - 狙い: 総務・人事・士業・経営者が週に一度見て「最近何が変わったか」「来月から何が変わるか」がわかること。
 - 解説文は Claude（Claude Code のセッション）が書く。書いていない法令はデータから自動で組み立てた文章で埋まる。
 

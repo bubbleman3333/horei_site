@@ -19,6 +19,8 @@
 <meta name="twitter:card" content="summary">
 {{ ads.head|safe }}
 {% block head %}{% endblock %}
+<script>/* 旧 URL（github.io）に来た人を新しい名前へ移す（site_stats/proxy） */if(/\.github\.io$/.test(location.hostname))location.replace("{{ url() }}".replace(/\/$/,"")+location.pathname.replace(/^\/[^\/]+/,"")+location.search+location.hash)</script>
+<script defer src="https://rakunowa-stats.rakunowa.workers.dev/s.js" data-site="horei"></script>
 </head>
 <body>
 <header class="site-header">

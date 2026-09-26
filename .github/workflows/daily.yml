@@ -46,7 +46,7 @@ jobs:
       - name: テスト
         run: python -m pytest -q
       - name: サイト生成
-        run: python -m horei build --site-url "https://${{ github.repository_owner }}.github.io/${{ github.event.repository.name }}"
+        run: python -m horei build --site-url "https://horei-watch.rakunowa.workers.dev"
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
