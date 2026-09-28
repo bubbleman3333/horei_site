@@ -130,6 +130,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "332CO0000000043_20261016_508CO0000000270",
+   "amendment_promulgate_date": "2026-09-04",
+   "amendment_enforcement_date": "2026-10-16",
+   "amendment_law_id": "508CO0000000270",
+   "amendment_law_title": "租税特別措置法施行令及び物資の流通の効率化に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百七十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "332CO0000000043_20260731_508CO0000000098",
    "amendment_promulgate_date": "2026-03-31",
    "amendment_enforcement_date": "2026-07-31",
@@ -428,16 +438,6 @@
    "amendment_law_num": "令和六年政令第百五十一号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "332CO0000000043_20240601_506CO0000000151",
-   "amendment_promulgate_date": "2024-03-30",
-   "amendment_enforcement_date": "2024-06-01",
-   "amendment_law_id": "506CO0000000151",
-   "amendment_law_title": "租税特別措置法施行令の一部を改正する政令",
-   "amendment_law_num": "令和六年政令第百五十一号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -461,7 +461,7 @@
  },
  "_meta": {
   "first_seen": "1957-03-31",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-09-29",
   "updated": "2026-09-15T13:43:40+09:00"
  }
 }

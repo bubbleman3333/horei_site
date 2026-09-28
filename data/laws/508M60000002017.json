@@ -10,21 +10,21 @@
   "promulgation_date": "2026-03-31"
  },
  "revision_info": {
-  "law_revision_id": "508M60000002017_20260401_000000000000000",
+  "law_revision_id": "508M60000002017_20260914_508M60000002077",
   "law_type": "MinisterialOrdinance",
   "law_title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令",
   "law_title_kana": "ちほうこうきょうだんたいじょうほうしすてむのひょうじゅんかにかんするほうりつだいにじょうだいいっこうにきていするひょうじゅんかたいしょうじむをさだめるせいれいにきていするでじたるちょうれいそうむしょうれいでさだめるじむをさだめるめいれいだいにじょうかくごうにきていするじむのしょりにかかるしすてむにひつようとされるきのうとうにかんするひょうじゅんかきじゅんをさだめるないかくふれい",
   "abbrev": null,
   "category": "地方自治",
-  "updated": "2026-05-12T10:10:12+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-09-28T13:38:15+09:00",
+  "amendment_promulgate_date": "2026-09-14",
+  "amendment_enforcement_date": "2026-09-14",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": null,
-  "amendment_law_title": null,
-  "amendment_law_num": null,
-  "amendment_type": "1",
+  "amendment_law_id": "508M60000002077",
+  "amendment_law_title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第七十七号",
+  "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
@@ -32,11 +32,21 @@
  },
  "revisions": [
   {
+   "law_revision_id": "508M60000002017_20260914_508M60000002077",
+   "amendment_promulgate_date": "2026-09-14",
+   "amendment_enforcement_date": "2026-09-14",
+   "amendment_law_id": "508M60000002077",
+   "amendment_law_title": "地方公共団体情報システムの標準化に関する法律第二条第一項に規定する標準化対象事務を定める政令に規定するデジタル庁令・総務省令で定める事務を定める命令第二条各号に規定する事務の処理に係るシステムに必要とされる機能等に関する標準化基準を定める内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "508M60000002017_20260401_000000000000000",
    "amendment_promulgate_date": "2026-03-31",
    "amendment_enforcement_date": "2026-04-01",
    "amendment_type": "1",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -49,7 +59,7 @@
  },
  "_meta": {
   "first_seen": "2026-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-12T10:10:12+09:00"
+  "fetched_at": "2026-09-29",
+  "updated": "2026-09-28T13:38:15+09:00"
  }
 }
