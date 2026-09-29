@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "426CO0000000172_20261001_508CO0000000286",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000286",
+   "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "426CO0000000172_20260401_507CO0000000395",
    "amendment_promulgate_date": "2025-11-28",
    "amendment_enforcement_date": "2026-04-01",
@@ -122,7 +132,7 @@
  },
  "_meta": {
   "first_seen": "2014-04-25",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-09-30",
   "updated": "2026-04-02T20:36:11+09:00"
  }
 }
