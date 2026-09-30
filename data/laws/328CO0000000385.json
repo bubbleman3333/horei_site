@@ -10,20 +10,20 @@
   "promulgation_date": "1953-12-08"
  },
  "revision_info": {
-  "law_revision_id": "328CO0000000385_20240401_506CO0000000113",
+  "law_revision_id": "328CO0000000385_20261001_508CO0000000218",
   "law_type": "CabinetOrder",
   "law_title": "診療放射線技師法施行令",
   "law_title_kana": "しんりょうほうしゃせんぎしほうしこうれい",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2024-07-18T14:51:29+09:00",
-  "amendment_promulgate_date": "2024-03-29",
-  "amendment_enforcement_date": "2024-04-01",
+  "updated": "2026-10-01T01:26:11+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "506CO0000000113",
-  "amendment_law_title": "診療放射線技師法施行令の一部を改正する政令",
-  "amendment_law_num": "令和六年政令第百十三号",
+  "amendment_law_id": "508CO0000000218",
+  "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百十八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "328CO0000000385_20240401_506CO0000000113",
@@ -49,7 +49,7 @@
    "amendment_law_title": "診療放射線技師法施行令の一部を改正する政令",
    "amendment_law_num": "令和六年政令第百十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "328CO0000000385_20220501_504CO0000000039",
@@ -82,7 +82,7 @@
  },
  "_meta": {
   "first_seen": "1953-12-08",
-  "fetched_at": "2026-09-21",
-  "updated": "2024-07-18T14:51:29+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T01:26:11+09:00"
  }
 }

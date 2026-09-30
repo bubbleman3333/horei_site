@@ -10,20 +10,20 @@
   "promulgation_date": "1954-06-30"
  },
  "revision_info": {
-  "law_revision_id": "329CO0000000179_20260828_508CO0000000266",
+  "law_revision_id": "329CO0000000179_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "自衛隊法施行令",
   "law_title_kana": "じえいたいほうせこうれい",
   "abbrev": null,
   "category": "防衛",
-  "updated": "2026-09-14T09:55:02+09:00",
-  "amendment_promulgate_date": "2026-08-28",
-  "amendment_enforcement_date": "2026-08-28",
+  "updated": "2026-10-01T01:29:07+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000266",
-  "amendment_law_title": "自衛隊法施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百六十六号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "329CO0000000179_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "329CO0000000179_20260828_508CO0000000266",
    "amendment_promulgate_date": "2026-08-28",
    "amendment_enforcement_date": "2026-08-28",
@@ -49,7 +59,7 @@
    "amendment_law_title": "自衛隊法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百六十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "329CO0000000179_20260521_507CO0000000400",
@@ -420,39 +430,13 @@
    "amendment_law_num": "令和四年政令第二百九十一号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "329CO0000000179_20220701_504CO0000000238",
-   "amendment_promulgate_date": "2022-06-24",
-   "amendment_enforcement_date": "2022-07-01",
-   "amendment_law_id": "504CO0000000238",
-   "amendment_law_title": "地球温暖化対策の推進に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
-   "amendment_law_num": "令和四年政令第二百三十八号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　部隊",
-  "第三章　機関",
-  "第四章　駐屯地及び駐屯地司令並びに基地及び基地司令",
-  "第五章　隊員",
-  "第六章　自衛隊の行動及び権限",
-  "第七章　雑則"
- ],
- "article1": {
-  "caption": "（自衛隊から除かれる機関等）",
-  "title": "第一条",
-  "paragraphs": [
-   "自衛隊法（以下「法」という。）第二条第一項に規定する政令で定める防衛省本省の合議制の機関は、防衛人事審議会、自衛隊員倫理審査会、防衛施設中央審議会、防衛施設地方審議会及び捕虜資格認定等審査会とする。",
-   "法第二条第一項に規定する政令で定める部局及び職は、地方協力局労務管理課とする。",
-   "法第二条第一項に規定する政令で定める防衛装備庁の合議制の機関は、防衛調達審議会とする。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "1954-06-30",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-09-14T09:55:02+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T01:29:07+09:00"
  }
 }

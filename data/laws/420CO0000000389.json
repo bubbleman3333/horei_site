@@ -10,20 +10,20 @@
   "promulgation_date": "2008-12-25"
  },
  "revision_info": {
-  "law_revision_id": "420CO0000000389_20260807_508CO0000000246",
+  "law_revision_id": "420CO0000000389_20261001_508CO0000000286",
   "law_type": "CabinetOrder",
   "law_title": "職員の退職管理に関する政令",
   "law_title_kana": "しょくいんのたいしょくかんりにかんするせいれい",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-08-19T11:49:31+09:00",
-  "amendment_promulgate_date": "2026-08-05",
-  "amendment_enforcement_date": "2026-08-07",
+  "updated": "2026-10-01T05:54:25+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000246",
-  "amendment_law_title": "金融庁組織令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百四十六号",
+  "amendment_law_id": "508CO0000000286",
+  "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百八十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -49,7 +49,7 @@
    "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第二百八十六号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "420CO0000000389_20261001_508CO0000000274",
@@ -59,7 +59,7 @@
    "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
    "amendment_law_num": "令和八年政令第二百七十四号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "420CO0000000389_20260807_508CO0000000246",
@@ -69,7 +69,7 @@
    "amendment_law_title": "金融庁組織令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百四十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "420CO0000000389_20260731_508CO0000000234",
@@ -442,7 +442,7 @@
  },
  "_meta": {
   "first_seen": "2008-12-25",
-  "fetched_at": "2026-09-30",
-  "updated": "2026-08-19T11:49:31+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:54:25+09:00"
  }
 }

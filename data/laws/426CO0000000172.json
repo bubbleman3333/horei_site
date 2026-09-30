@@ -10,20 +10,20 @@
   "promulgation_date": "2014-04-25"
  },
  "revision_info": {
-  "law_revision_id": "426CO0000000172_20260401_507CO0000000395",
+  "law_revision_id": "426CO0000000172_20261001_508CO0000000286",
   "law_type": "CabinetOrder",
   "law_title": "雨水の利用の推進に関する法律第二条第二項の法人を定める政令",
   "law_title_kana": "あまみずのりようのすいしんにかんするほうりつだいにじょうだいにこうのほうじんをさだめるせいれい",
   "abbrev": "雨水利用推進法第二条第二項の法人を定める政令",
   "category": "環境保全",
-  "updated": "2026-04-02T20:36:11+09:00",
-  "amendment_promulgate_date": "2025-11-28",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T06:10:17+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000395",
-  "amendment_law_title": "独立行政法人男女共同参画機構法の施行に伴う関係政令の整備及び経過措置に関する政令",
-  "amendment_law_num": "令和七年政令第三百九十五号",
+  "amendment_law_id": "508CO0000000286",
+  "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百八十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第二百八十六号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "426CO0000000172_20260401_507CO0000000395",
@@ -49,7 +49,7 @@
    "amendment_law_title": "独立行政法人男女共同参画機構法の施行に伴う関係政令の整備及び経過措置に関する政令",
    "amendment_law_num": "令和七年政令第三百九十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "426CO0000000172_20250401_507CO0000000019",
@@ -132,7 +132,7 @@
  },
  "_meta": {
   "first_seen": "2014-04-25",
-  "fetched_at": "2026-09-30",
-  "updated": "2026-04-02T20:36:11+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:10:17+09:00"
  }
 }

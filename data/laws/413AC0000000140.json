@@ -10,25 +10,25 @@
   "promulgation_date": "2001-12-05"
  },
  "revision_info": {
-  "law_revision_id": "413AC0000000140_20250401_505AC0000000047",
+  "law_revision_id": "413AC0000000140_20261001_507AC0000000070",
   "law_type": "Act",
   "law_title": "独立行政法人等の保有する情報の公開に関する法律",
   "law_title_kana": "どくりつぎょうせいほうじんとうのほゆうするじょうほうのこうかいにかんするほうりつ",
-  "abbrev": "情報公開法,独立行政法人情報公開法,独情法",
+  "abbrev": "独情法,独立行政法人情報公開法,情報公開法",
   "category": "行政手続",
-  "updated": "2025-04-02T05:47:22+09:00",
-  "amendment_promulgate_date": "2023-06-07",
-  "amendment_enforcement_date": "2025-04-01",
+  "updated": "2026-10-01T04:45:22+09:00",
+  "amendment_promulgate_date": "2025-06-18",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "505AC0000000047",
-  "amendment_law_title": "国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律",
-  "amendment_law_num": "令和五年法律第四十七号",
+  "amendment_law_id": "507AC0000000070",
+  "amendment_law_title": "日本学術会議法",
+  "amendment_law_num": "令和七年法律第七十号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -61,7 +61,7 @@
    "amendment_law_title": "日本学術会議法",
    "amendment_law_num": "令和七年法律第七十号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "413AC0000000140_20250401_505AC0000000047",
@@ -181,7 +181,7 @@
  },
  "_meta": {
   "first_seen": "2001-12-05",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-04-02T05:47:22+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:45:22+09:00"
  }
 }

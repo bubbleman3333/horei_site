@@ -10,20 +10,20 @@
   "promulgation_date": "2000-06-07"
  },
  "revision_info": {
-  "law_revision_id": "412CO0000000252_20260804_508CO0000000245",
+  "law_revision_id": "412CO0000000252_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "厚生労働省組織令",
   "law_title_kana": "こうせいろうどうしょうそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-08-19T11:48:03+09:00",
-  "amendment_promulgate_date": "2026-08-03",
-  "amendment_enforcement_date": "2026-08-04",
+  "updated": "2026-10-01T04:43:30+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000245",
-  "amendment_law_title": "厚生労働省組織令及び社会保障審議会令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百四十五号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "412CO0000000252_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "412CO0000000252_20261001_508CO0000000196",
    "amendment_promulgate_date": "2026-06-17",
    "amendment_enforcement_date": "2026-10-01",
@@ -49,7 +59,7 @@
    "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第百九十六号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "412CO0000000252_20260804_508CO0000000245",
@@ -59,7 +69,7 @@
    "amendment_law_title": "厚生労働省組織令及び社会保障審議会令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百四十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "412CO0000000252_20260501_507CO0000000362",
@@ -423,32 +433,13 @@
    "amendment_law_num": "令和元年政令第百七十号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "412CO0000000252_20191001_430CO0000000364",
-   "amendment_promulgate_date": "2018-12-28",
-   "amendment_enforcement_date": "2019-10-01",
-   "amendment_law_id": "430CO0000000364",
-   "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令",
-   "amendment_law_num": "平成三十年政令第三百六十四号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　本省",
-  "第二章　中央労働委員会事務局"
- ],
- "article1": {
-  "caption": "（秘書官の定数）",
-  "title": "第一条",
-  "paragraphs": [
-   "秘書官の定数は、一人とする。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "2000-06-07",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-19T11:48:03+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:43:30+09:00"
  }
 }

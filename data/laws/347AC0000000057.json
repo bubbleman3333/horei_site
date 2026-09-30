@@ -10,15 +10,15 @@
   "promulgation_date": "1972-06-08"
  },
  "revision_info": {
-  "law_revision_id": "347AC0000000057_20260401_507AC0000000033",
+  "law_revision_id": "347AC0000000057_20261001_507AC0000000033",
   "law_type": "Act",
   "law_title": "労働安全衛生法",
   "law_title_kana": "ろうどうあんぜんえいせいほう",
-  "abbrev": "労安衛法,保安四法,安衛法",
+  "abbrev": "労安衛法,安衛法,保安四法",
   "category": "労働",
-  "updated": "2026-04-01T06:27:11+09:00",
+  "updated": "2026-10-01T03:35:19+09:00",
   "amendment_promulgate_date": "2025-05-14",
-  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "507AC0000000033",
@@ -79,7 +79,7 @@
    "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律",
    "amendment_law_num": "令和七年法律第三十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "347AC0000000057_20260401_507AC0000000033",
@@ -89,7 +89,7 @@
    "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律",
    "amendment_law_num": "令和七年法律第三十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "347AC0000000057_20260101_507AC0000000033",
@@ -247,7 +247,7 @@
  },
  "_meta": {
   "first_seen": "1972-06-08",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-01T06:27:11+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:35:19+09:00"
  }
 }

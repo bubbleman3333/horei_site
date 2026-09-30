@@ -10,25 +10,25 @@
   "promulgation_date": "2007-03-31"
  },
  "revision_info": {
-  "law_revision_id": "419AC0000000023_20260401_507AC0000000052",
+  "law_revision_id": "419AC0000000023_20261001_507AC0000000087",
   "law_type": "Act",
   "law_title": "特別会計に関する法律",
   "law_title_kana": "とくべつかいけいにかんするほうりつ",
   "abbrev": "特別会計法,特会法",
   "category": "財務通則",
-  "updated": "2026-01-06T10:01:15+09:00",
-  "amendment_promulgate_date": "2025-06-04",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T05:42:26+09:00",
+  "amendment_promulgate_date": "2025-12-12",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507AC0000000052",
-  "amendment_law_title": "脱炭素成長型経済構造への円滑な移行の推進に関する法律及び資源の有効な利用の促進に関する法律の一部を改正する法律",
-  "amendment_law_num": "令和七年法律第五十二号",
+  "amendment_law_id": "507AC0000000087",
+  "amendment_law_title": "医療法等の一部を改正する法律",
+  "amendment_law_num": "令和七年法律第八十七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -87,7 +87,7 @@
    "amendment_law_title": "医療法等の一部を改正する法律",
    "amendment_law_num": "令和七年法律第八十七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "419AC0000000023_20261001_506AC0000000047",
@@ -97,7 +97,7 @@
    "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律",
    "amendment_law_num": "令和六年法律第四十七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "419AC0000000023_20260401_508AC0000000003",
@@ -454,7 +454,7 @@
  },
  "_meta": {
   "first_seen": "2007-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-01-06T10:01:15+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:42:26+09:00"
  }
 }

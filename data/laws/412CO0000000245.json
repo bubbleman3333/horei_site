@@ -10,20 +10,20 @@
   "promulgation_date": "2000-06-07"
  },
  "revision_info": {
-  "law_revision_id": "412CO0000000245_20260408_508CO0000000119",
+  "law_revision_id": "412CO0000000245_20261001_507CO0000000299",
   "law_type": "CabinetOrder",
   "law_title": "内閣府本府組織令",
   "law_title_kana": "ないかくふほんぷそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-05-18T10:22:02+09:00",
-  "amendment_promulgate_date": "2026-04-08",
-  "amendment_enforcement_date": "2026-04-08",
+  "updated": "2026-10-01T04:37:48+09:00",
+  "amendment_promulgate_date": "2025-08-14",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000119",
-  "amendment_law_title": "内閣府本府組織令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第百十九号",
+  "amendment_law_id": "507CO0000000299",
+  "amendment_law_title": "日本学術会議法施行令",
+  "amendment_law_num": "令和七年政令第二百九十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "日本学術会議法施行令",
    "amendment_law_num": "令和七年政令第二百九十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "412CO0000000245_20260408_508CO0000000119",
@@ -49,7 +49,7 @@
    "amendment_law_title": "内閣府本府組織令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第百十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "412CO0000000245_20260401_508CO0000000035",
@@ -449,7 +449,7 @@
  },
  "_meta": {
   "first_seen": "2000-06-07",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-18T10:22:02+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:37:48+09:00"
  }
 }

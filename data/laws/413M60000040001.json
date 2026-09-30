@@ -10,15 +10,15 @@
   "promulgation_date": "2001-01-06"
  },
  "revision_info": {
-  "law_revision_id": "413M60000040001_20260710_508M60000040048",
+  "law_revision_id": "413M60000040001_20261001_508M60000040048",
   "law_type": "MinisterialOrdinance",
   "law_title": "財務省組織規則",
   "law_title_kana": "ざいむしょうそしききそく",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-07-15T10:35:40+09:00",
+  "updated": "2026-10-01T04:48:32+09:00",
   "amendment_promulgate_date": "2026-07-01",
-  "amendment_enforcement_date": "2026-07-10",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508M60000040048",
@@ -39,7 +39,7 @@
    "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
    "amendment_law_num": "令和八年財務省令第四十八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "413M60000040001_20260710_508M60000040048",
@@ -49,7 +49,7 @@
    "amendment_law_title": "国税不服審判所組織規則及び財務省組織規則の一部を改正する省令",
    "amendment_law_num": "令和八年財務省令第四十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413M60000040001_20260701_508M60000040048",
@@ -460,7 +460,7 @@
  },
  "_meta": {
   "first_seen": "2001-01-06",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-15T10:35:40+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:48:32+09:00"
  }
 }

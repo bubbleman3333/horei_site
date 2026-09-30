@@ -1,0 +1,71 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "340CO0000000385",
+  "law_num": "昭和四十年政令第三百八十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 40,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "385",
+  "promulgation_date": "1965-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "340CO0000000385_20261001_508CO0000000274",
+  "law_type": "CabinetOrder",
+  "law_title": "母子保健法施行令",
+  "law_title_kana": "ぼしほけんほうしこうれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-10-01T03:12:35+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "340CO0000000385_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000385_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "340CO0000000385_20150101_426CO0000000357",
+   "amendment_promulgate_date": "2014-11-12",
+   "amendment_enforcement_date": "2015-01-01",
+   "amendment_law_id": "426CO0000000357",
+   "amendment_law_num": "平成二十六年政令第三百五十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "1965-12-28",
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:12:35+09:00"
+ }
+}

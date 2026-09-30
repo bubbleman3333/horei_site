@@ -10,20 +10,20 @@
   "promulgation_date": "1963-10-29"
  },
  "revision_info": {
-  "law_revision_id": "338CO0000000358_20260408_508CO0000000136",
+  "law_revision_id": "338CO0000000358_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "戦傷病者特別援護法施行令",
   "law_title_kana": "せんしょうびょうしゃとくべつえんごほうしこうれい",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-05-18T10:52:53+09:00",
-  "amendment_promulgate_date": "2026-04-08",
-  "amendment_enforcement_date": "2026-04-08",
+  "updated": "2026-10-01T03:00:56+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000136",
-  "amendment_law_title": "未帰還者留守家族等援護法施行令及び戦傷病者特別援護法施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第百三十六号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "338CO0000000358_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "338CO0000000358_20260408_508CO0000000136",
    "amendment_promulgate_date": "2026-04-08",
    "amendment_enforcement_date": "2026-04-08",
@@ -39,7 +49,7 @@
    "amendment_law_title": "未帰還者留守家族等援護法施行令及び戦傷病者特別援護法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第百三十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "338CO0000000358_20250401_507CO0000000167",
@@ -93,16 +103,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（特殊勤務の南満洲鉄道株式会社の職員に準ずる者）",
-  "title": "第一条",
-  "paragraphs": [
-   "戦傷病者特別援護法（以下「法」という。）第二条第二項第五号に規定する南満洲鉄道株式会社の職員に準ずる者は、戦傷病者戦没者遺族等援護法施行令（昭和二十七年政令第百四十三号）第一条に規定する者とする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1963-10-29",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-18T10:52:53+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:00:56+09:00"
  }
 }

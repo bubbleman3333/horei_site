@@ -10,20 +10,20 @@
   "promulgation_date": "2011-07-25"
  },
  "revision_info": {
-  "law_revision_id": "423M60000100093_20260401_508M60000100074",
+  "law_revision_id": "423M60000100093_20261001_508M60000100078",
   "law_type": "MinisterialOrdinance",
   "law_title": "職業訓練の実施等による特定求職者の就職の支援に関する法律施行規則",
   "law_title_kana": "しょくぎょうくんれんのじっしとうによるとくていきゅうしょくしゃのしゅうしょくのしえんにかんするほうりつしこうきそく",
   "abbrev": "求職者支援法施行規則",
   "category": "労働",
-  "updated": "2026-05-14T10:14:20+09:00",
-  "amendment_promulgate_date": "2026-04-01",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T06:00:29+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000100074",
-  "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
-  "amendment_law_num": "令和八年厚生労働省令第七十四号",
+  "amendment_law_id": "508M60000100078",
+  "amendment_law_title": "職業訓練の実施等による特定求職者の就職の支援に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第七十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "職業訓練の実施等による特定求職者の就職の支援に関する法律施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第七十八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "423M60000100093_20260401_508M60000100074",
@@ -49,7 +49,7 @@
    "amendment_law_title": "雇用保険法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第七十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "423M60000100093_20260220_508M60000100017",
@@ -386,7 +386,7 @@
  },
  "_meta": {
   "first_seen": "2011-07-25",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-14T10:14:20+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:00:29+09:00"
  }
 }

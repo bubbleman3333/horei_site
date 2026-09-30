@@ -10,20 +10,20 @@
   "promulgation_date": "2007-03-31"
  },
  "revision_info": {
-  "law_revision_id": "419CO0000000124_20260731_508CO0000000244",
+  "law_revision_id": "419CO0000000124_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "特別会計に関する法律施行令",
   "law_title_kana": "とくべつかいけいにかんするほうりつせこうれい",
   "abbrev": "特別会計法施行令,特会法施行令",
   "category": "財務通則",
-  "updated": "2026-08-17T13:10:05+09:00",
-  "amendment_promulgate_date": "2026-07-31",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-10-01T05:44:06+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000244",
-  "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和八年政令第二百四十四号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "419CO0000000124_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "419CO0000000124_20261001_508CO0000000153",
    "amendment_promulgate_date": "2026-04-30",
    "amendment_enforcement_date": "2026-10-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第百五十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "419CO0000000124_20260731_508CO0000000244",
@@ -49,7 +59,7 @@
    "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第二百四十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "419CO0000000124_20260527_508CO0000000180",
@@ -364,20 +374,11 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　各特別会計の管理及び経理"
- ],
- "article1": {
-  "caption": "（歳入の会計年度所属区分）",
-  "title": "第一条",
-  "paragraphs": [
-   "次の各号に掲げる収入は、当該各号に定める年度の歳入とする。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "2007-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-17T13:10:05+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:44:06+09:00"
  }
 }

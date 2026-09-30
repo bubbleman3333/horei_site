@@ -1,0 +1,59 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "423CO0000000399",
+  "law_num": "平成二十三年政令第三百九十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "399",
+  "promulgation_date": "2011-12-16"
+ },
+ "revision_info": {
+  "law_revision_id": "423CO0000000399_20261001_508CO0000000274",
+  "law_type": "CabinetOrder",
+  "law_title": "特定Ｂ型肝炎ウイルス感染者給付金等の支給に関する特別措置法施行令",
+  "law_title_kana": "とくていびーがたかんえんういるすかんせんしゃきゅうふきんとうのしきゅうにかんするとくべつそちほうしこうれい",
+  "abbrev": "特定Ｂ型肝炎感染者給付金支給法施行令",
+  "category": "厚生",
+  "updated": "2026-10-01T05:59:36+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423CO0000000399_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423CO0000000399_20120113_000000000000000",
+   "amendment_promulgate_date": "2011-12-16",
+   "amendment_enforcement_date": "2012-01-13",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2011-12-16",
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:59:36+09:00"
+ }
+}

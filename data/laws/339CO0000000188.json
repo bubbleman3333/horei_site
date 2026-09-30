@@ -10,20 +10,20 @@
   "promulgation_date": "1964-06-18"
  },
  "revision_info": {
-  "law_revision_id": "339CO0000000188_20211001_503CO0000000151",
+  "law_revision_id": "339CO0000000188_20261001_508CO0000000239",
   "law_type": "CabinetOrder",
   "law_title": "中小企業退職金共済法施行令",
   "law_title_kana": "ちゅうしょうきぎょうたいしょくきんきょうさいほうしこうれい",
   "abbrev": "中退法施行令",
   "category": "労働",
-  "updated": "2024-06-06T11:13:37+09:00",
-  "amendment_promulgate_date": "2021-05-06",
-  "amendment_enforcement_date": "2021-10-01",
+  "updated": "2026-10-01T03:02:14+09:00",
+  "amendment_promulgate_date": "2026-07-29",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "503CO0000000151",
+  "amendment_law_id": "508CO0000000239",
   "amendment_law_title": "中小企業退職金共済法施行令の一部を改正する政令",
-  "amendment_law_num": "令和三年政令第百五十一号",
+  "amendment_law_num": "令和八年政令第二百三十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "中小企業退職金共済法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百三十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "339CO0000000188_20211001_503CO0000000151",
@@ -49,7 +49,7 @@
    "amendment_law_title": "中小企業退職金共済法施行令の一部を改正する政令",
    "amendment_law_num": "令和三年政令第百五十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "339CO0000000188_20210101_502CO0000000367",
@@ -104,7 +104,7 @@
  },
  "_meta": {
   "first_seen": "1964-06-18",
-  "fetched_at": "2026-09-22",
-  "updated": "2024-06-06T11:13:37+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:02:14+09:00"
  }
 }

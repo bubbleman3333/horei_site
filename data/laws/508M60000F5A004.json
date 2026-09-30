@@ -16,7 +16,7 @@
   "law_title_kana": "じゅうようでんしけいさんきにたいするふせいなこういによるひがいのぼうしにかんするほうりつにもとづくとくべつしゃかいきばんじぎょうしゃによるとくていしんがいじしょうとうのほうこくとうにかんするめいれい",
   "abbrev": null,
   "category": "電気通信",
-  "updated": "2026-06-11T10:55:30+09:00",
+  "updated": "2026-10-01T06:44:40+09:00",
   "amendment_promulgate_date": "2026-05-28",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "UnEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -36,7 +36,7 @@
    "amendment_promulgate_date": "2026-05-28",
    "amendment_enforcement_date": "2026-10-01",
    "amendment_type": "1",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "508M60000F5A004_20260918_508M60000F5A007",
@@ -46,7 +46,7 @@
    "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律に基づく特別社会基盤事業者による特定侵害事象等の報告等に関する命令の一部を改正する命令",
    "amendment_law_num": "令和八年内閣府・総務省・法務省・財務省・厚生労働省・農林水産省・経済産業省・国土交通省令第七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -60,7 +60,7 @@
  },
  "_meta": {
   "first_seen": "2026-05-28",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-11T10:55:30+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:44:40+09:00"
  }
 }

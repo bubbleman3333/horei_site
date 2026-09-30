@@ -10,20 +10,20 @@
   "promulgation_date": "2004-03-31"
  },
  "revision_info": {
-  "law_revision_id": "416M60000080023_20260807_508M60000080028",
+  "law_revision_id": "416M60000080023_20261001_507M60000080019",
   "law_type": "MinisterialOrdinance",
   "law_title": "独立行政法人日本学生支援機構に関する省令",
   "law_title_kana": "どくりつぎょうせいほうじんにほんがくせいしえんきこうにかんするしょうれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-08-19T13:00:40+09:00",
-  "amendment_promulgate_date": "2026-08-05",
-  "amendment_enforcement_date": "2026-08-07",
+  "updated": "2026-10-01T05:22:31+09:00",
+  "amendment_promulgate_date": "2025-07-31",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000080028",
-  "amendment_law_title": "金融庁組織令の一部を改正する政令の施行に伴う文部科学省関係省令の整理に関する省令",
-  "amendment_law_num": "令和八年文部科学省令第二十八号",
+  "amendment_law_id": "507M60000080019",
+  "amendment_law_title": "独立行政法人日本学生支援機構に関する省令及び大学等における修学の支援に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和七年文部科学省令第十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "独立行政法人日本学生支援機構に関する省令及び大学等における修学の支援に関する法律施行規則の一部を改正する省令",
    "amendment_law_num": "令和七年文部科学省令第十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "416M60000080023_20260807_508M60000080028",
@@ -49,7 +49,7 @@
    "amendment_law_title": "金融庁組織令の一部を改正する政令の施行に伴う文部科学省関係省令の整理に関する省令",
    "amendment_law_num": "令和八年文部科学省令第二十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "416M60000080023_20260401_508M60000080015",
@@ -263,7 +263,7 @@
  },
  "_meta": {
   "first_seen": "2004-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-19T13:00:40+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:22:31+09:00"
  }
 }

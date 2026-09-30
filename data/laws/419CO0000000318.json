@@ -10,20 +10,20 @@
   "promulgation_date": "2007-10-19"
  },
  "revision_info": {
-  "law_revision_id": "419CO0000000318_20260801_508CO0000000240",
+  "law_revision_id": "419CO0000000318_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "高齢者の医療の確保に関する法律施行令",
   "law_title_kana": "こうれいしゃのいりょうのかくほにかんするほうりつしこうれい",
   "abbrev": "高齢者医療確保法施行令",
   "category": "社会福祉",
-  "updated": "2026-08-13T11:57:56+09:00",
-  "amendment_promulgate_date": "2026-07-29",
-  "amendment_enforcement_date": "2026-08-01",
+  "updated": "2026-10-01T05:48:33+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000240",
-  "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百四十号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "419CO0000000318_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "419CO0000000318_20260801_508CO0000000240",
    "amendment_promulgate_date": "2026-07-29",
    "amendment_enforcement_date": "2026-08-01",
@@ -49,7 +59,7 @@
    "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百四十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "419CO0000000318_20260801_508CO0000000219",
@@ -402,24 +412,11 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　手数料",
-  "第二章　特定健康診査",
-  "第三章　後期高齢者医療制度",
-  "第四章　雑則"
- ],
- "article1": {
-  "caption": "（手数料の額等）",
-  "title": "第一条",
-  "paragraphs": [
-   "高齢者の医療の確保に関する法律（以下「法」という。）第十七条の二第一項の規定により匿名医療保険等関連情報利用者（法第十六条の三に規定する匿名医療保険等関連情報利用者をいう。以下同じ。）が納付すべき手数料（以下単に「手数料」という。）の額は、第一号及び第二号に掲げる額を合算した額（以下この項において「基本額」という。）とする。ただし、匿名医療保険等関連情報（法第十六条の二第一項に規定する匿名医療保険等関連情報をいう。以下同じ。）の抽出（匿名医療保険等関連情報から、匿名医療保険等関連情報利用者に提供する特定の匿名医療保険等関連情報を出力し、加工することをいう。第三号及び第四号において同じ。）をして提供する場合には、第三号及び第四号に掲げる額を基本額に加えた額とする。",
-   "匿名医療保険等関連情報利用者が厚生労働大臣が整備するクラウド・コンピューティング・サービス関連技術（官民データ活用推進基本法（平成二十八年法律第百三号）第二条第四項に規定するクラウド・コンピューティング・サービス関連技術をいう。）を活用した情報システムを利用する場合における手数料の額は、当該情報システムを利用する期間六月までごとに、当該情報システムを利用する者一人当たり五百三十五万五千二百円を超えない範囲内において当該情報システムの利用に係る実費を勘案して厚生労働大臣が定める額（当該情報システムに付加されている機能を利用する場合には、当該額に当該機能の利用に係る実費を勘案して厚生労働大臣が定める額を加えた額）を、前項の規定により算定した額に加えた額とする。",
-   "手数料は、厚生労働省令で定める書面に収入印紙を貼って納付しなければならない。ただし、法第十七条の二第一項の規定により支払基金等（法第十七条に規定する支払基金等をいう。次条第六項において同じ。）に対し手数料を納付する場合は、この限りでない。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "2007-10-19",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-13T11:57:56+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:48:33+09:00"
  }
 }

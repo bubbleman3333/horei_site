@@ -10,20 +10,20 @@
   "promulgation_date": "2004-04-01"
  },
  "revision_info": {
-  "law_revision_id": "416RJNJ02003025_20260408_508RJNJ02003043",
+  "law_revision_id": "416RJNJ02003025_20261001_508RJNJ10017000",
   "law_type": "Rule",
   "law_title": "人事院規則二―三（人事院事務総局等の組織）",
   "law_title_kana": "じんじいんきそくにのさんじんじいんじむそうきょくとうのそしき",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-05-20T10:30:31+09:00",
-  "amendment_promulgate_date": "2026-04-08",
-  "amendment_enforcement_date": "2026-04-08",
+  "updated": "2026-10-01T05:25:42+09:00",
+  "amendment_promulgate_date": "2026-04-15",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508RJNJ02003043",
-  "amendment_law_title": "人事院規則二―三（人事院事務総局等の組織）の一部を改正する人事院規則",
-  "amendment_law_num": "令和八年人事院規則二―三―四三",
+  "amendment_law_id": "508RJNJ10017000",
+  "amendment_law_title": "人事院規則一〇―一七（カスタマー・ハラスメントの防止等）",
+  "amendment_law_num": "令和八年人事院規則一〇―一七",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "人事院規則一〇―一七（カスタマー・ハラスメントの防止等）",
    "amendment_law_num": "令和八年人事院規則一〇―一七",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "416RJNJ02003025_20260408_508RJNJ02003043",
@@ -49,7 +49,7 @@
    "amendment_law_title": "人事院規則二―三（人事院事務総局等の組織）の一部を改正する人事院規則",
    "amendment_law_num": "令和八年人事院規則二―三―四三",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "416RJNJ02003025_20250401_507RJNJ02003042",
@@ -209,7 +209,7 @@
  },
  "_meta": {
   "first_seen": "2004-04-01",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-20T10:30:31+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:25:42+09:00"
  }
 }

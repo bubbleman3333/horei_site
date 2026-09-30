@@ -10,15 +10,15 @@
   "promulgation_date": "1966-07-21"
  },
  "revision_info": {
-  "law_revision_id": "341AC0000000132_20260401_507AC0000000063",
+  "law_revision_id": "341AC0000000132_20261001_507AC0000000063",
   "law_type": "Act",
   "law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律",
   "law_title_kana": "ろうどうしさくのそうごうてきなすいしんならびにろうどうしゃのこようのあんていおよびしょくぎょうせいかつのじゅうじつとうにかんするほうりつ",
-  "abbrev": "労働施策総合推進法,雇対法",
+  "abbrev": "雇対法,労働施策総合推進法",
   "category": "労働",
-  "updated": "2026-04-01T05:54:24+09:00",
+  "updated": "2026-10-01T03:16:39+09:00",
   "amendment_promulgate_date": "2025-06-11",
-  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "507AC0000000063",
@@ -39,7 +39,7 @@
    "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律",
    "amendment_law_num": "令和七年法律第六十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "341AC0000000132_20260401_507AC0000000063",
@@ -49,7 +49,7 @@
    "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律",
    "amendment_law_num": "令和七年法律第六十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "341AC0000000132_20250611_507AC0000000063",
@@ -202,7 +202,7 @@
   "第七章　中途採用に関する情報の公表を促進するための措置等",
   "第八章　治療と就業の両立支援",
   "第九章　外国人の雇用管理の改善、再就職の促進等の措置",
-  "第十章　職場における優越的な関係を背景とした言動に起因する問題に関して事業主の講ずべき措置等",
+  "第十章　職場における優越的な関係を背景とした言動等に起因する問題に関して事業主の講ずべき措置等",
   "第十一章　国と地方公共団体との連携等",
   "第十二章　雑則"
  ],
@@ -216,7 +216,7 @@
  },
  "_meta": {
   "first_seen": "1966-07-21",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-01T05:54:24+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:16:39+09:00"
  }
 }

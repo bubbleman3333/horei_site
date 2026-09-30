@@ -10,15 +10,15 @@
   "promulgation_date": "2025-05-23"
  },
  "revision_info": {
-  "law_revision_id": "507AC0000000042_20260401_000000000000000",
+  "law_revision_id": "507AC0000000042_20261001_000000000000000",
   "law_type": "Act",
   "law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律",
   "law_title_kana": "じゅうようでんしけいさんきにたいするふせいなこういによるひがいのぼうしにかんするほうりつ",
   "abbrev": null,
   "category": "電気通信",
-  "updated": "2026-04-02T21:54:37+09:00",
+  "updated": "2026-10-01T06:41:32+09:00",
   "amendment_promulgate_date": "2025-05-23",
-  "amendment_enforcement_date": "2026-04-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": null,
@@ -45,14 +45,14 @@
    "amendment_promulgate_date": "2025-05-23",
    "amendment_enforcement_date": "2026-10-01",
    "amendment_type": "1",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "507AC0000000042_20260401_000000000000000",
    "amendment_promulgate_date": "2025-05-23",
    "amendment_enforcement_date": "2026-04-01",
    "amendment_type": "1",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "507AC0000000042_20250701_000000000000000",
@@ -92,7 +92,7 @@
  },
  "_meta": {
   "first_seen": "2025-05-23",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-02T21:54:37+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:41:32+09:00"
  }
 }

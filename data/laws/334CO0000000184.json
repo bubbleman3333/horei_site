@@ -10,25 +10,25 @@
   "promulgation_date": "1959-05-25"
  },
  "revision_info": {
-  "law_revision_id": "334CO0000000184_20260401_507CO0000000355",
+  "law_revision_id": "334CO0000000184_20261001_508CO0000000226",
   "law_type": "CabinetOrder",
   "law_title": "国民年金法施行令",
   "law_title_kana": "こくみんねんきんほうせこうれい",
   "abbrev": null,
   "category": "社会保険",
-  "updated": "2026-04-01T16:05:02+09:00",
-  "amendment_promulgate_date": "2025-10-17",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T02:31:31+09:00",
+  "amendment_promulgate_date": "2026-07-15",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000355",
+  "amendment_law_id": "508CO0000000226",
   "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
-  "amendment_law_num": "令和七年政令第三百五十五号",
+  "amendment_law_num": "令和八年政令第二百二十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -39,7 +39,7 @@
    "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百二十六号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "334CO0000000184_20261001_508CO0000000153",
@@ -49,7 +49,7 @@
    "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第百五十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "334CO0000000184_20260401_508CO0000000075",
@@ -59,7 +59,7 @@
    "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第七十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "334CO0000000184_20260401_508CO0000000043",
@@ -446,7 +446,7 @@
  },
  "_meta": {
   "first_seen": "1959-05-25",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-01T16:05:02+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T02:31:31+09:00"
  }
 }

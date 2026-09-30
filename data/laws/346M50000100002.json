@@ -10,20 +10,20 @@
   "promulgation_date": "1971-01-21"
  },
  "revision_info": {
-  "law_revision_id": "346M50000100002_20260401_507M60000100124",
+  "law_revision_id": "346M50000100002_20261001_508M60000100107",
   "law_type": "MinisterialOrdinance",
   "law_title": "建築物における衛生的環境の確保に関する法律施行規則",
   "law_title_kana": "けんちくぶつにおけるえいせいてきかんきょうのかくほにかんするほうりつしこうきそく",
   "abbrev": "ビル管理法施行規則,建築物衛生法施行規則",
   "category": "厚生",
-  "updated": "2026-04-01T06:21:41+09:00",
-  "amendment_promulgate_date": "2025-12-23",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T03:32:36+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000100124",
-  "amendment_law_title": "建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
-  "amendment_law_num": "令和七年厚生労働省令第百二十四号",
+  "amendment_law_id": "508M60000100107",
+  "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第百七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "346M50000100002_20260401_507M60000100124",
@@ -49,7 +49,7 @@
    "amendment_law_title": "建築物における衛生的環境の確保に関する法律施行規則の一部を改正する省令",
    "amendment_law_num": "令和七年厚生労働省令第百二十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "346M50000100002_20251222_507M60000100115",
@@ -169,7 +169,7 @@
  },
  "_meta": {
   "first_seen": "1971-01-21",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-01T06:21:41+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:32:36+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "2009-03-31"
  },
  "revision_info": {
-  "law_revision_id": "421M60000008029_20260521_508M60000001005",
+  "law_revision_id": "421M60000008029_20261001_508M60000001009",
   "law_type": "MinisterialOrdinance",
   "law_title": "国家公務員退職手当法の規定に基づく意見の聴取の手続に関する規則",
   "law_title_kana": "こっかこうむいんたいしょくてあてほうのきていにもとづくいけんのちょうしゅのてつづきにかんするきそく",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-05-28T11:26:04+09:00",
-  "amendment_promulgate_date": "2026-05-15",
-  "amendment_enforcement_date": "2026-05-21",
+  "updated": "2026-10-01T05:58:47+09:00",
+  "amendment_promulgate_date": "2026-08-19",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000001005",
+  "amendment_law_id": "508M60000001009",
   "amendment_law_title": "国家公務員退職手当法の規定に基づく意見の聴取の手続に関する規則の一部を改正する内閣官房令",
-  "amendment_law_num": "令和八年内閣官房令第五号",
+  "amendment_law_num": "令和八年内閣官房令第九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "国家公務員退職手当法の規定に基づく意見の聴取の手続に関する規則の一部を改正する内閣官房令",
    "amendment_law_num": "令和八年内閣官房令第九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "421M60000008029_20260521_508M60000001005",
@@ -49,7 +49,7 @@
    "amendment_law_title": "国家公務員退職手当法の規定に基づく意見の聴取の手続に関する規則の一部を改正する内閣官房令",
    "amendment_law_num": "令和八年内閣官房令第五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "421M60000008029_20210326_503M60000001001",
@@ -82,7 +82,7 @@
  },
  "_meta": {
   "first_seen": "2009-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-28T11:26:04+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:58:47+09:00"
  }
 }

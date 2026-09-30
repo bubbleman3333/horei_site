@@ -10,25 +10,25 @@
   "promulgation_date": "2018-12-28"
  },
  "revision_info": {
-  "law_revision_id": "430CO0000000364_20260401_507CO0000000355",
+  "law_revision_id": "430CO0000000364_20261001_508CO0000000226",
   "law_type": "CabinetOrder",
   "law_title": "年金生活者支援給付金の支給に関する法律施行令",
   "law_title_kana": "ねんきんせいかつしゃしえんきゅうふきんのしきゅうにかんするほうりつせこうれい",
   "abbrev": "年金生活者支援給付金法施行令",
   "category": "社会保険",
-  "updated": "2025-10-31T09:17:15+09:00",
-  "amendment_promulgate_date": "2025-10-17",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T06:30:42+09:00",
+  "amendment_promulgate_date": "2026-07-15",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000355",
+  "amendment_law_id": "508CO0000000226",
   "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
-  "amendment_law_num": "令和七年政令第三百五十五号",
+  "amendment_law_num": "令和八年政令第二百二十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -39,7 +39,7 @@
    "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百二十六号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "430CO0000000364_20261001_508CO0000000225",
@@ -49,7 +49,7 @@
    "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百二十五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "430CO0000000364_20260401_508CO0000000057",
@@ -59,7 +59,7 @@
    "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第五十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "430CO0000000364_20260401_508CO0000000043",
@@ -255,12 +255,12 @@
   "caption": "（法第二条第一項に規定する政令で定める額）",
   "title": "第一条",
   "paragraphs": [
-   "年金生活者支援給付金の支給に関する法律（以下「法」という。）第二条第一項に規定する政令で定める額は、昭和三十一年四月一日以前に生まれた者については八十万六千七百円とし、同月二日以後に生まれた者については八十万九千円とする。"
+   "年金生活者支援給付金の支給に関する法律（以下「法」という。）第二条第一項に規定する政令で定める額は、昭和三十一年四月一日以前に生まれた者については八十二万四千百円とし、同月二日以後に生まれた者については八十二万六千五百円とする。"
   ]
  },
  "_meta": {
   "first_seen": "2018-12-28",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-10-31T09:17:15+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:30:42+09:00"
  }
 }

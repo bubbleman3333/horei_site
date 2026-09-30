@@ -10,20 +10,20 @@
   "promulgation_date": "2001-01-06"
  },
  "revision_info": {
-  "law_revision_id": "413M60000010011_20260525_508M60000010025",
+  "law_revision_id": "413M60000010011_20261001_508M60000010028",
   "law_type": "MinisterialOrdinance",
   "law_title": "法務局及び地方法務局組織規則",
   "law_title_kana": "ほうむきょくおよびちほうほうむきょくそしききそく",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-05-25T01:52:58+09:00",
-  "amendment_promulgate_date": "2026-04-03",
-  "amendment_enforcement_date": "2026-05-25",
+  "updated": "2026-10-01T04:46:04+09:00",
+  "amendment_promulgate_date": "2026-04-08",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000010025",
-  "amendment_law_title": "企業価値担保登記規則",
-  "amendment_law_num": "令和八年法務省令第二十五号",
+  "amendment_law_id": "508M60000010028",
+  "amendment_law_title": "法務局及び地方法務局組織規則の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第二十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "法務局及び地方法務局組織規則の一部を改正する省令",
    "amendment_law_num": "令和八年法務省令第二十八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "413M60000010011_20260525_508M60000010025",
@@ -49,7 +49,7 @@
    "amendment_law_title": "企業価値担保登記規則",
    "amendment_law_num": "令和八年法務省令第二十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413M60000010011_20260408_508M60000010028",
@@ -237,7 +237,7 @@
  },
  "_meta": {
   "first_seen": "2001-01-06",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-25T01:52:58+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:46:04+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "1998-05-22"
  },
  "revision_info": {
-  "law_revision_id": "410CO0000000178_20260701_508CO0000000177",
+  "law_revision_id": "410CO0000000178_20261001_508CO0000000268",
   "law_type": "CabinetOrder",
   "law_title": "出入国管理及び難民認定法施行令",
   "law_title_kana": "しゅつにゅうこくかんりおよびなんみんにんていほうせこうれい",
   "abbrev": "入管法施行令,入管法地域政令",
   "category": "外事",
-  "updated": "2026-07-01T00:40:05+09:00",
-  "amendment_promulgate_date": "2026-05-22",
-  "amendment_enforcement_date": "2026-07-01",
+  "updated": "2026-10-01T04:22:41+09:00",
+  "amendment_promulgate_date": "2026-08-28",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000177",
-  "amendment_law_title": "旅券法施行令及び出入国管理及び難民認定法施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第百七十七号",
+  "amendment_law_id": "508CO0000000268",
+  "amendment_law_title": "出入国管理及び難民認定法施行令及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百六十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -49,7 +49,7 @@
    "amendment_law_title": "出入国管理及び難民認定法施行令及び日本国との平和条約に基づき日本の国籍を離脱した者等の出入国管理に関する特例法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百六十八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "410CO0000000178_20261001_508CO0000000181",
@@ -59,7 +59,7 @@
    "amendment_law_title": "労働施策の総合的な推進並びに労働者の雇用の安定及び職業生活の充実等に関する法律等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第百八十一号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "410CO0000000178_20260701_508CO0000000177",
@@ -69,7 +69,7 @@
    "amendment_law_title": "旅券法施行令及び出入国管理及び難民認定法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第百七十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "410CO0000000178_20260614_507CO0000000423",
@@ -183,7 +183,7 @@
  },
  "_meta": {
   "first_seen": "1998-05-22",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-01T00:40:05+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:22:41+09:00"
  }
 }

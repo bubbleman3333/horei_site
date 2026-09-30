@@ -10,20 +10,20 @@
   "promulgation_date": "1981-10-28"
  },
  "revision_info": {
-  "law_revision_id": "356M50000010054_20260901_508M60000010048",
+  "law_revision_id": "356M50000010054_20261001_508M60000010047",
   "law_type": "MinisterialOrdinance",
   "law_title": "出入国管理及び難民認定法施行規則",
   "law_title_kana": "しゅつにゅうこくかんりおよびなんみんにんていほうしこうきそく",
   "abbrev": "入管法施行規則",
   "category": "外事",
-  "updated": "2026-09-16T09:49:29+09:00",
-  "amendment_promulgate_date": "2026-09-01",
-  "amendment_enforcement_date": "2026-09-01",
+  "updated": "2026-10-01T03:52:05+09:00",
+  "amendment_promulgate_date": "2026-08-28",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000010048",
-  "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年法務省令第四十八号",
+  "amendment_law_id": "508M60000010047",
+  "amendment_law_title": "出入国管理及び難民認定法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年法務省令第四十七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -59,7 +59,7 @@
    "amendment_law_title": "出入国管理及び難民認定法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年法務省令第四十七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "356M50000010054_20260901_508M60000010048",
@@ -69,7 +69,7 @@
    "amendment_law_title": "出入国管理及び難民認定法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年法務省令第四十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "356M50000010054_20260701_508M60000010041",
@@ -442,7 +442,7 @@
  },
  "_meta": {
   "first_seen": "1981-10-28",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-09-16T09:49:29+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:52:05+09:00"
  }
 }

@@ -10,15 +10,15 @@
   "promulgation_date": "2012-06-18"
  },
  "revision_info": {
-  "law_revision_id": "424M60000400046_20260521_508M60000400029",
+  "law_revision_id": "424M60000400046_20261001_508M60000400029",
   "law_type": "MinisterialOrdinance",
   "law_title": "再生可能エネルギー電気の利用の促進に関する特別措置法施行規則",
   "law_title_kana": "さいせいかのうえねるぎーでんきのりようのそくしんにかんするとくべつそちほうしこうきそく",
   "abbrev": "再生可能エネルギー特措法施行規則,再生可能エネルギー特別措置法施行規則,ＦＩＴ法施行規則,再エネ特措法施行規則",
   "category": "工業",
-  "updated": "2026-09-24T11:24:47+09:00",
+  "updated": "2026-10-01T06:05:57+09:00",
   "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-05-21",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508M60000400029",
@@ -49,7 +49,7 @@
    "amendment_law_title": "再生可能エネルギー電気の利用の促進に関する特別措置法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年経済産業省令第二十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "424M60000400046_20260521_508M60000400029",
@@ -59,7 +59,7 @@
    "amendment_law_title": "再生可能エネルギー電気の利用の促進に関する特別措置法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年経済産業省令第二十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "424M60000400046_20260401_508M60000400029",
@@ -436,7 +436,7 @@
  },
  "_meta": {
   "first_seen": "2012-06-18",
-  "fetched_at": "2026-09-25",
-  "updated": "2026-09-24T11:24:47+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:05:57+09:00"
  }
 }

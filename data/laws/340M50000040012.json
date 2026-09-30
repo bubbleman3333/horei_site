@@ -10,20 +10,20 @@
   "promulgation_date": "1965-03-31"
  },
  "revision_info": {
-  "law_revision_id": "340M50000040012_20260731_508M60000040051",
+  "law_revision_id": "340M50000040012_20261001_505M60000040013",
   "law_type": "MinisterialOrdinance",
   "law_title": "法人税法施行規則",
   "law_title_kana": "ほうじんぜいほうしこうきそく",
   "abbrev": null,
   "category": "国税",
-  "updated": "2026-08-17T13:44:30+09:00",
-  "amendment_promulgate_date": "2026-07-31",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-10-01T03:13:52+09:00",
+  "amendment_promulgate_date": "2023-03-31",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000040051",
-  "amendment_law_title": "租税特別措置法施行規則及び法人税法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年財務省令第五十一号",
+  "amendment_law_id": "505M60000040013",
+  "amendment_law_title": "法人税法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和五年財務省令第十三号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -79,7 +79,7 @@
    "amendment_law_title": "法人税法施行規則の一部を改正する省令",
    "amendment_law_num": "令和五年財務省令第十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "340M50000040012_20260731_508M60000040051",
@@ -89,7 +89,7 @@
    "amendment_law_title": "租税特別措置法施行規則及び法人税法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年財務省令第五十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "340M50000040012_20260731_508M60000040039",
@@ -467,7 +467,7 @@
  },
  "_meta": {
   "first_seen": "1965-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-17T13:44:30+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:13:52+09:00"
  }
 }

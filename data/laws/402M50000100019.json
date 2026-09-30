@@ -10,20 +10,20 @@
   "promulgation_date": "1990-03-29"
  },
  "revision_info": {
-  "law_revision_id": "402M50000100019_20220728_504M60000100107",
+  "law_revision_id": "402M50000100019_20261001_508M60000100107",
   "law_type": "MinisterialOrdinance",
   "law_title": "あん摩マツサージ指圧師、はり師、きゆう師等に関する法律施行規則",
   "law_title_kana": "あんままつさーじしあつしはりしきゆうしとうにかんするほうりつしこうきそく",
   "abbrev": "あはき法施行規則",
   "category": "厚生",
-  "updated": "2024-04-25T15:51:06+09:00",
-  "amendment_promulgate_date": "2022-07-28",
-  "amendment_enforcement_date": "2022-07-28",
+  "updated": "2026-10-01T04:04:22+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "504M60000100107",
-  "amendment_law_title": "医師法施行規則等の一部を改正する省令",
-  "amendment_law_num": "令和四年厚生労働省令第百七号",
+  "amendment_law_id": "508M60000100107",
+  "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第百七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "402M50000100019_20220728_504M60000100107",
@@ -49,7 +49,7 @@
    "amendment_law_title": "医師法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和四年厚生労働省令第百七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "402M50000100019_20201225_502M60000100208",
@@ -101,7 +101,7 @@
  },
  "_meta": {
   "first_seen": "1990-03-29",
-  "fetched_at": "2026-09-22",
-  "updated": "2024-04-25T15:51:06+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:04:22+09:00"
  }
 }

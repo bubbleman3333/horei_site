@@ -10,20 +10,20 @@
   "promulgation_date": "1991-08-14"
  },
  "revision_info": {
-  "law_revision_id": "403M50000100044_20250327_507M60000100026",
+  "law_revision_id": "403M50000100044_20261001_508M60000100107",
   "law_type": "MinisterialOrdinance",
   "law_title": "救急救命士法施行規則",
   "law_title_kana": "きゅうきゅうきゅうめいしほうしこうきそく",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2025-04-08T10:26:25+09:00",
-  "amendment_promulgate_date": "2025-03-27",
-  "amendment_enforcement_date": "2025-03-27",
+  "updated": "2026-10-01T04:08:44+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000100026",
-  "amendment_law_title": "救急救命士法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和七年厚生労働省令第二十六号",
+  "amendment_law_id": "508M60000100107",
+  "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第百七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "403M50000100044_20250327_507M60000100026",
@@ -49,7 +49,7 @@
    "amendment_law_title": "救急救命士法施行規則の一部を改正する省令",
    "amendment_law_num": "令和七年厚生労働省令第二十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "403M50000100044_20220728_504M60000100107",
@@ -135,7 +135,7 @@
  },
  "_meta": {
   "first_seen": "1991-08-14",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-04-08T10:26:25+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:08:44+09:00"
  }
 }

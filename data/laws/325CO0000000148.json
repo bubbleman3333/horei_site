@@ -10,20 +10,20 @@
   "promulgation_date": "1950-05-20"
  },
  "revision_info": {
-  "law_revision_id": "325CO0000000148_20260401_508CO0000000060",
+  "law_revision_id": "325CO0000000148_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "生活保護法施行令",
   "law_title_kana": "せいかつほごほうせこうれい",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-09-02T14:29:57+09:00",
-  "amendment_promulgate_date": "2026-03-25",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T01:14:56+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000060",
-  "amendment_law_title": "高次脳機能障害者支援法施行令",
-  "amendment_law_num": "令和八年政令第六十号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "325CO0000000148_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "325CO0000000148_20260401_508CO0000000060",
    "amendment_promulgate_date": "2026-03-25",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "高次脳機能障害者支援法施行令",
    "amendment_law_num": "令和八年政令第六十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "325CO0000000148_20251001_507CO0000000337",
@@ -183,18 +193,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（保護に関する事務の委託）",
-  "title": "第一条",
-  "paragraphs": [
-   "生活保護法（以下「法」という。）第十九条第四項に規定する保護の実施機関（以下この条において「保護の実施機関」という。）は、要保護者との連絡上保護に関する事務を他の保護の実施機関に委託して行うことが適当であると認めるときは、法第十九条第五項の規定により、当該要保護者に係る保護に関する事務を他の保護の実施機関に委託することができる。",
-   "保護に関する事務の委託に当つては、関係の保護の実施機関は、協議により当該委託に関する条件を定め、議会の同意を経なければならない。",
-   "保護の実施機関は、法第十九条第五項の規定により保護に関する事務の委託を行い、又は委託を受けたときは、その旨を告示しなければならない。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1950-05-20",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-09-02T14:29:57+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T01:14:56+09:00"
  }
 }

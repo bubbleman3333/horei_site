@@ -10,20 +10,20 @@
   "promulgation_date": "1961-01-26"
  },
  "revision_info": {
-  "law_revision_id": "336CO0000000013_20251226_507CO0000000410",
+  "law_revision_id": "336CO0000000013_20261001_508CO0000000218",
   "law_type": "CabinetOrder",
   "law_title": "薬剤師法施行令",
   "law_title_kana": "やくざいしほうしこうれい",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2025-12-26T00:01:27+09:00",
-  "amendment_promulgate_date": "2025-12-10",
-  "amendment_enforcement_date": "2025-12-26",
+  "updated": "2026-10-01T02:55:24+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000410",
-  "amendment_law_title": "薬剤師法施行令の一部を改正する政令",
-  "amendment_law_num": "令和七年政令第四百十号",
+  "amendment_law_id": "508CO0000000218",
+  "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百十八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "336CO0000000013_20251226_507CO0000000410",
@@ -49,7 +49,7 @@
    "amendment_law_title": "薬剤師法施行令の一部を改正する政令",
    "amendment_law_num": "令和七年政令第四百十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "336CO0000000013_20191216_501CO0000000183",
@@ -91,7 +91,7 @@
  },
  "_meta": {
   "first_seen": "1961-01-26",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-12-26T00:01:27+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T02:55:24+09:00"
  }
 }

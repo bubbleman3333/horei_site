@@ -10,20 +10,20 @@
   "promulgation_date": "2008-12-25"
  },
  "revision_info": {
-  "law_revision_id": "420M60000002083_20251201_507M60000001011",
+  "law_revision_id": "420M60000002083_20261001_508M60000001008",
   "law_type": "MinisterialOrdinance",
   "law_title": "職員の退職管理に関する内閣官房令",
   "law_title_kana": "しょくいんのたいしょくかんりにかんするないかくかんぼうれい",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2025-12-05T10:24:37+09:00",
-  "amendment_promulgate_date": "2025-11-21",
-  "amendment_enforcement_date": "2025-12-01",
+  "updated": "2026-10-01T05:55:04+09:00",
+  "amendment_promulgate_date": "2026-07-24",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000001011",
+  "amendment_law_id": "508M60000001008",
   "amendment_law_title": "職員の退職管理に関する内閣官房令及び行政執行法人の役員の退職管理に関する内閣官房令の一部を改正する内閣官房令",
-  "amendment_law_num": "令和七年内閣官房令第十一号",
+  "amendment_law_num": "令和八年内閣官房令第八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "職員の退職管理に関する内閣官房令及び行政執行法人の役員の退職管理に関する内閣官房令の一部を改正する内閣官房令",
    "amendment_law_num": "令和八年内閣官房令第八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "420M60000002083_20251201_507M60000001011",
@@ -49,7 +49,7 @@
    "amendment_law_title": "職員の退職管理に関する内閣官房令及び行政執行法人の役員の退職管理に関する内閣官房令の一部を改正する内閣官房令",
    "amendment_law_num": "令和七年内閣官房令第十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "420M60000002083_20201218_502M60000001006",
@@ -114,7 +114,7 @@
  },
  "_meta": {
   "first_seen": "2008-12-25",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-12-05T10:24:37+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:55:04+09:00"
  }
 }

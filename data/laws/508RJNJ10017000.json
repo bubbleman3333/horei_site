@@ -16,7 +16,7 @@
   "law_title_kana": "じんじいんきそくじゅうのじゅうななかすたまーはらすめんとのぼうしとう",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-05-20T10:31:51+09:00",
+  "updated": "2026-10-01T06:45:09+09:00",
   "amendment_promulgate_date": "2026-04-15",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "UnEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -36,7 +36,7 @@
    "amendment_promulgate_date": "2026-04-15",
    "amendment_enforcement_date": "2026-10-01",
    "amendment_type": "1",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   }
  ],
  "toc": [],
@@ -49,7 +49,7 @@
  },
  "_meta": {
   "first_seen": "2026-04-15",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-20T10:31:51+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:45:09+09:00"
  }
 }

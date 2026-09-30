@@ -10,25 +10,25 @@
   "promulgation_date": "1965-03-31"
  },
  "revision_info": {
-  "law_revision_id": "340CO0000000097_20260731_508CO0000000094",
+  "law_revision_id": "340CO0000000097_20261001_507CO0000000121",
   "law_type": "CabinetOrder",
   "law_title": "法人税法施行令",
   "law_title_kana": "ほうじんぜいほうしこうれい",
   "abbrev": null,
   "category": "国税",
-  "updated": "2026-09-08T11:56:06+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-10-01T03:10:44+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000094",
-  "amendment_law_title": "法人税法施行令及び法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第九十四号",
+  "amendment_law_id": "507CO0000000121",
+  "amendment_law_title": "法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令",
+  "amendment_law_num": "令和七年政令第百二十一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -59,7 +59,7 @@
    "amendment_law_title": "法人税法施行令及び法人税法施行令等の一部を改正する政令の一部を改正する政令",
    "amendment_law_num": "令和七年政令第百二十一号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "340CO0000000097_20260731_508CO0000000094",
@@ -461,7 +461,7 @@
  },
  "_meta": {
   "first_seen": "1965-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-09-08T11:56:06+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:10:44+09:00"
  }
 }

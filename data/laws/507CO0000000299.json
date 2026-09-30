@@ -10,15 +10,15 @@
   "promulgation_date": "2025-08-14"
  },
  "revision_info": {
-  "law_revision_id": "507CO0000000299_20250814_000000000000000",
+  "law_revision_id": "507CO0000000299_20261001_000000000000000",
   "law_type": "CabinetOrder",
   "law_title": "日本学術会議法施行令",
   "law_title_kana": "にほんがくじゅつかいぎほうしこうれい",
   "abbrev": null,
   "category": "文化",
-  "updated": "2025-08-27T11:07:59+09:00",
+  "updated": "2026-10-01T06:42:08+09:00",
   "amendment_promulgate_date": "2025-08-14",
-  "amendment_enforcement_date": "2025-08-14",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": null,
@@ -36,14 +36,14 @@
    "amendment_promulgate_date": "2025-08-14",
    "amendment_enforcement_date": "2026-10-01",
    "amendment_type": "1",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "507CO0000000299_20250814_000000000000000",
    "amendment_promulgate_date": "2025-08-14",
    "amendment_enforcement_date": "2025-08-14",
    "amendment_type": "1",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -57,7 +57,7 @@
  },
  "_meta": {
   "first_seen": "2025-08-14",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-08-27T11:07:59+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:42:08+09:00"
  }
 }

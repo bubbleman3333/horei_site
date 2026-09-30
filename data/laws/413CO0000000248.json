@@ -10,20 +10,20 @@
   "promulgation_date": "2001-07-23"
  },
  "revision_info": {
-  "law_revision_id": "413CO0000000248_20260525_507CO0000000244",
+  "law_revision_id": "413CO0000000248_20261001_508CO0000000153",
   "law_type": "CabinetOrder",
   "law_title": "確定拠出年金法施行令",
   "law_title_kana": "かくていきょしゅつねんきんほうせこうれい",
   "abbrev": "日本版４０１ｋ法施行令,ＤＣ法施行令",
   "category": "社会保険",
-  "updated": "2026-05-25T01:50:52+09:00",
-  "amendment_promulgate_date": "2025-07-02",
-  "amendment_enforcement_date": "2026-05-25",
+  "updated": "2026-10-01T04:45:42+09:00",
+  "amendment_promulgate_date": "2026-04-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000244",
-  "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
-  "amendment_law_num": "令和七年政令第二百四十四号",
+  "amendment_law_id": "508CO0000000153",
+  "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第百五十三号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -49,7 +49,7 @@
    "amendment_law_title": "子ども・子育て支援法等の一部を改正する法律の一部の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第百五十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "413CO0000000248_20260525_507CO0000000244",
@@ -59,7 +59,7 @@
    "amendment_law_title": "事業性融資の推進等に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
    "amendment_law_num": "令和七年政令第二百四十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413CO0000000248_20260401_508CO0000000043",
@@ -289,7 +289,7 @@
  },
  "_meta": {
   "first_seen": "2001-07-23",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-25T01:50:52+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:45:42+09:00"
  }
 }

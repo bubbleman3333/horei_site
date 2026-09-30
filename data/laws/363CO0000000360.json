@@ -10,25 +10,25 @@
   "promulgation_date": "1988-12-30"
  },
  "revision_info": {
-  "law_revision_id": "363CO0000000360_20260901_508CO0000000096",
+  "law_revision_id": "363CO0000000360_20261001_508CO0000000108",
   "law_type": "CabinetOrder",
   "law_title": "消費税法施行令",
   "law_title_kana": "しょうひぜいほうしこうれい",
   "abbrev": null,
   "category": "国税",
-  "updated": "2026-09-15T15:13:59+09:00",
+  "updated": "2026-10-01T03:59:04+09:00",
   "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000096",
-  "amendment_law_title": "消費税法施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第九十六号",
+  "amendment_law_id": "508CO0000000108",
+  "amendment_law_title": "消費税法施行令等の一部を改正する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -83,7 +83,7 @@
    "amendment_law_title": "消費税法施行令等の一部を改正する政令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第百八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "363CO0000000360_20261001_508CO0000000096",
@@ -93,7 +93,7 @@
    "amendment_law_title": "消費税法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第九十六号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "363CO0000000360_20260901_508CO0000000096",
@@ -455,7 +455,7 @@
  },
  "_meta": {
   "first_seen": "1988-12-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-09-15T15:13:59+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:59:04+09:00"
  }
 }

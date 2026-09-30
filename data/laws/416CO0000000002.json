@@ -10,20 +10,20 @@
   "promulgation_date": "2004-01-07"
  },
  "revision_info": {
-  "law_revision_id": "416CO0000000002_20260401_507CO0000000258",
+  "law_revision_id": "416CO0000000002_20261001_508CO0000000249",
   "law_type": "CabinetOrder",
   "law_title": "独立行政法人日本学生支援機構法施行令",
   "law_title_kana": "どくりつぎょうせいほうじんにほんがくせいしえんきこうほうしこうれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-04-02T19:01:55+09:00",
-  "amendment_promulgate_date": "2025-07-18",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T05:20:39+09:00",
+  "amendment_promulgate_date": "2026-08-07",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000258",
-  "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和七年政令第二百五十八号",
+  "amendment_law_id": "508CO0000000249",
+  "amendment_law_title": "独立行政法人日本学生支援機構法施行令及び大学等における修学の支援に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百四十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "独立行政法人日本学生支援機構法施行令及び大学等における修学の支援に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百四十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "416CO0000000002_20260401_507CO0000000258",
@@ -49,7 +49,7 @@
    "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和七年政令第二百五十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "416CO0000000002_20250401_507CO0000000142",
@@ -158,7 +158,7 @@
  },
  "_meta": {
   "first_seen": "2004-01-07",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-02T19:01:55+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:20:39+09:00"
  }
 }

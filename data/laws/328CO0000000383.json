@@ -10,20 +10,20 @@
   "promulgation_date": "1953-12-08"
  },
  "revision_info": {
-  "law_revision_id": "328CO0000000383_20260401_508CO0000000007",
+  "law_revision_id": "328CO0000000383_20261001_508CO0000000218",
   "law_type": "CabinetOrder",
   "law_title": "歯科医師法施行令",
   "law_title_kana": "しかいしほうしこうれい",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2026-04-01T02:48:19+09:00",
-  "amendment_promulgate_date": "2026-01-28",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T01:25:25+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000007",
-  "amendment_law_title": "歯科医師法施行令及び医道審議会令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第七号",
+  "amendment_law_id": "508CO0000000218",
+  "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "栄養士法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百十八号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "328CO0000000383_20260401_508CO0000000007",
@@ -49,7 +49,7 @@
    "amendment_law_title": "歯科医師法施行令及び医道審議会令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "328CO0000000383_20240401_505CO0000000199",
@@ -101,7 +101,7 @@
  },
  "_meta": {
   "first_seen": "1953-12-08",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-04-01T02:48:19+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T01:25:25+09:00"
  }
 }

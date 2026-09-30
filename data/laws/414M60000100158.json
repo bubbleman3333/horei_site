@@ -10,20 +10,20 @@
   "promulgation_date": "2002-12-11"
  },
  "revision_info": {
-  "law_revision_id": "414M60000100158_20250401_507M60000100040",
+  "law_revision_id": "414M60000100158_20261001_508M60000100107",
   "law_type": "MinisterialOrdinance",
   "law_title": "医師法第十六条の二第一項に規定する臨床研修に関する省令",
   "law_title_kana": "いしほうだいじゅうろくじょうのにだいいっこうにきていするりんしょうけんしゅうにかんするしょうれい",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2025-05-07T14:47:26+09:00",
-  "amendment_promulgate_date": "2025-03-31",
-  "amendment_enforcement_date": "2025-04-01",
+  "updated": "2026-10-01T05:18:25+09:00",
+  "amendment_promulgate_date": "2026-06-25",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000100040",
-  "amendment_law_title": "医師法第十六条の二第一項に規定する臨床研修に関する省令の一部を改正する省令",
-  "amendment_law_num": "令和七年厚生労働省令第四十号",
+  "amendment_law_id": "508M60000100107",
+  "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第百七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "414M60000100158_20250401_507M60000100040",
@@ -49,7 +49,7 @@
    "amendment_law_title": "医師法第十六条の二第一項に規定する臨床研修に関する省令の一部を改正する省令",
    "amendment_law_num": "令和七年厚生労働省令第四十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "414M60000100158_20240208_506M60000100026",
@@ -121,7 +121,7 @@
  },
  "_meta": {
   "first_seen": "2002-12-11",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-05-07T14:47:26+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:18:25+09:00"
  }
 }

@@ -16,7 +16,7 @@
   "law_title_kana": "しゃかいけいざいのへんかをふまえたねんきんせいどのきのうきょうかのためのこくみんねんきんほうとうのいちぶをかいせいするとうのほうりつのいちぶのしこうにともなうけいかそちにかんするしょうれい",
   "abbrev": null,
   "category": "社会保険",
-  "updated": "2026-09-25T10:49:09+09:00",
+  "updated": "2026-10-01T06:44:17+09:00",
   "amendment_promulgate_date": "2026-09-04",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "UnEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -36,7 +36,7 @@
    "amendment_promulgate_date": "2026-09-04",
    "amendment_enforcement_date": "2026-10-01",
    "amendment_type": "1",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   }
  ],
  "toc": [],
@@ -49,7 +49,7 @@
  },
  "_meta": {
   "first_seen": "2026-09-04",
-  "fetched_at": "2026-09-26",
-  "updated": "2026-09-25T10:49:09+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:44:17+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "1996-01-31"
  },
  "revision_info": {
-  "law_revision_id": "408CO0000000018_20260801_508CO0000000240",
+  "law_revision_id": "408CO0000000018_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律施行令",
   "law_title_kana": "ちゅうごくざんりゅうほうじんとうのえんかつなきこくのそくしんならびにえいじゅうきこくしたちゅうごくざんりゅうほうじんとうおよびとくていはいぐうしゃのじりつのしえんにかんするほうりつしこうれい",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-08-13T11:47:02+09:00",
-  "amendment_promulgate_date": "2026-07-29",
-  "amendment_enforcement_date": "2026-08-01",
+  "updated": "2026-10-01T04:17:50+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000240",
-  "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百四十号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "408CO0000000018_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "408CO0000000018_20260801_508CO0000000240",
    "amendment_promulgate_date": "2026-07-29",
    "amendment_enforcement_date": "2026-08-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百四十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "408CO0000000018_20260401_508CO0000000075",
@@ -303,18 +313,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（被保険者期間の特例）",
-  "title": "第一条",
-  "paragraphs": [
-   "中国残留邦人等の円滑な帰国の促進並びに永住帰国した中国残留邦人等及び特定配偶者の自立の支援に関する法律（平成六年法律第三十号。以下「法」という。）第十三条第一項に規定する政令で定める期間は、昭和三十六年四月一日から初めて永住帰国した日の前日までの期間（二十歳に達した日前の期間及び六十歳に達した日後の期間に係るもの並びに昭和三十六年四月一日から昭和五十六年十二月三十一日までの期間のうち、同項に規定する永住帰国した中国残留邦人等が日本国籍を有していなかった期間に係るものを除く。以下この条において「国民年金対象残留期間」という。）とする。",
-   "国民年金対象残留期間のうち、昭和六十一年三月三十一日以前の期間に係るものは、基準永住帰国日（永住帰国した日から引き続き一年以上本邦に住所を有するに至った最初の場合における当該永住帰国した日をいう。以下同じ。）から起算して一年を経過した日以後、法第十三条第一項に規定する旧被保険者期間（以下「旧被保険者期間」という。）とみなし、昭和六十一年四月一日以後の期間に係るものは、基準永住帰国日から起算して一年を経過した日以後、同項に規定する新被保険者期間（以下「新被保険者期間」という。）とみなす。ただし、国民年金対象残留期間のうちに国民年金の被保険者期間（他の法令の規定により国民年金の被保険者であった期間とみなされた期間に係るものを含む。）があるときは、当該期間については、この限りでない。",
-   "国民年金対象残留期間を計算する場合には、その計算は、国民年金の被保険者期間の計算の例による。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1996-01-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-13T11:47:02+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:17:50+09:00"
  }
 }

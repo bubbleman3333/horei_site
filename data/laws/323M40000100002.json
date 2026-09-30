@@ -10,15 +10,15 @@
   "promulgation_date": "1948-01-16"
  },
  "revision_info": {
-  "law_revision_id": "323M40000100002_20260917_508M60000100132",
+  "law_revision_id": "323M40000100002_20261001_508M60000100132",
   "law_type": "MinisterialOrdinance",
   "law_title": "栄養士法施行規則",
   "law_title_kana": "えいようしほうしこうきそく",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2026-09-17T00:01:21+09:00",
+  "updated": "2026-10-01T00:57:24+09:00",
   "amendment_promulgate_date": "2026-08-20",
-  "amendment_enforcement_date": "2026-09-17",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508M60000100132",
@@ -39,7 +39,7 @@
    "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第百三十二号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "323M40000100002_20261001_508M60000100107",
@@ -49,7 +49,7 @@
    "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第百七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "323M40000100002_20260917_508M60000100132",
@@ -59,7 +59,7 @@
    "amendment_law_title": "栄養士法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第百三十二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "323M40000100002_20251101_507M60000100106",
@@ -200,7 +200,7 @@
  },
  "_meta": {
   "first_seen": "1948-01-16",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-09-17T00:01:21+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T00:57:24+09:00"
  }
 }

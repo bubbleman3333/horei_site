@@ -10,25 +10,25 @@
   "promulgation_date": "2014-06-09"
  },
  "revision_info": {
-  "law_revision_id": "426M60000002044_20260401_508M60000002003",
+  "law_revision_id": "426M60000002044_20261001_508M60000002054",
   "law_type": "MinisterialOrdinance",
   "law_title": "子ども・子育て支援法施行規則",
   "law_title_kana": "こどもこそだてしえんほうしこうきそく",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-05-14T10:48:12+09:00",
-  "amendment_promulgate_date": "2026-02-13",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T06:18:37+09:00",
+  "amendment_promulgate_date": "2026-05-29",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002003",
-  "amendment_law_title": "児童福祉法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備等に関する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第三号",
+  "amendment_law_id": "508M60000002054",
+  "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第五十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -39,7 +39,7 @@
    "amendment_law_title": "子ども・子育て支援法施行規則の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第五十四号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "426M60000002044_20260401_508M60000002029",
@@ -49,7 +49,7 @@
    "amendment_law_title": "児童福祉法施行規則及び子ども・子育て支援法施行規則の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第二十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "426M60000002044_20260401_508M60000002003",
@@ -392,7 +392,7 @@
  },
  "_meta": {
   "first_seen": "2014-06-09",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-14T10:48:12+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:18:37+09:00"
  }
 }

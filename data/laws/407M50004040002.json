@@ -10,15 +10,15 @@
   "promulgation_date": "1995-03-13"
  },
  "revision_info": {
-  "law_revision_id": "407M50004040002_20260821_508M60000802004",
+  "law_revision_id": "407M50004040002_20261001_508M60000802004",
   "law_type": "MinisterialOrdinance",
   "law_title": "不動産特定共同事業法施行規則",
   "law_title_kana": "ふどうさんとくていきょうどうじぎょうほうしこうきそく",
   "abbrev": "不特法施行規則",
   "category": "建築・住宅",
-  "updated": "2026-09-08T10:36:22+09:00",
+  "updated": "2026-10-01T04:16:12+09:00",
   "amendment_promulgate_date": "2026-08-21",
-  "amendment_enforcement_date": "2026-08-21",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508M60000802004",
@@ -39,7 +39,7 @@
    "amendment_law_title": "不動産特定共同事業法施行規則の一部を改正する命令",
    "amendment_law_num": "令和八年内閣府・国土交通省令第四号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "407M50004040002_20260821_508M60000802004",
@@ -49,7 +49,7 @@
    "amendment_law_title": "不動産特定共同事業法施行規則の一部を改正する命令",
    "amendment_law_num": "令和八年内閣府・国土交通省令第四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "407M50004040002_20241101_506M60000802008",
@@ -151,7 +151,7 @@
  },
  "_meta": {
   "first_seen": "1995-03-13",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-09-08T10:36:22+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:16:12+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "1998-12-24"
  },
  "revision_info": {
-  "law_revision_id": "410CO0000000413_20260318_508CO0000000042",
+  "law_revision_id": "410CO0000000413_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "介護保険の国庫負担金の算定等に関する政令",
   "law_title_kana": "かいごほけんのこっこふたんきんのさんていとうにかんするせいれい",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-03-31T14:55:44+09:00",
-  "amendment_promulgate_date": "2026-03-18",
-  "amendment_enforcement_date": "2026-03-18",
+  "updated": "2026-10-01T04:23:57+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000042",
-  "amendment_law_title": "介護保険の国庫負担金の算定等に関する政令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第四十二号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "410CO0000000413_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "410CO0000000413_20260318_508CO0000000042",
    "amendment_promulgate_date": "2026-03-18",
    "amendment_enforcement_date": "2026-03-18",
@@ -39,7 +49,7 @@
    "amendment_law_title": "介護保険の国庫負担金の算定等に関する政令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第四十二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "410CO0000000413_20240401_506CO0000000013",
@@ -252,17 +262,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（国の介護給付費に対する負担金の額）",
-  "title": "第一条",
-  "paragraphs": [
-   "介護保険法（以下「法」という。）第百二十一条第一項の規定により、毎年度国が市町村（特別区を含む。以下同じ。）に対して負担する額は、各市町村につき、当該年度における第一号及び第三号に掲げる額の合算額の百分の二十に相当する額並びに第二号及び第四号に掲げる額の合算額の百分の十五に相当する額の合算額とする。",
-   "法第百二十一条第二項に規定する市町村について前項の規定を適用する場合においては、居宅介護サービス費、特例居宅介護サービス費、居宅介護福祉用具購入費、居宅介護住宅改修費、介護予防サービス費、特例介護予防サービス費、介護予防福祉用具購入費又は介護予防住宅改修費の支給に要した費用の額は、法第四十三条第三項、第四十四条第六項、第四十五条第六項、第五十五条第三項、第五十六条第六項又は第五十七条第六項の規定に基づく条例による措置が講ぜられないものとして算定するものとする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1998-12-24",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-03-31T14:55:44+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:23:57+09:00"
  }
 }

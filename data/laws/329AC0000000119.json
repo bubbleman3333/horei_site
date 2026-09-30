@@ -10,15 +10,15 @@
   "promulgation_date": "1954-05-20"
  },
  "revision_info": {
-  "law_revision_id": "329AC0000000119_20260903_508AC0000000027",
+  "law_revision_id": "329AC0000000119_20261001_508AC0000000027",
   "law_type": "Act",
   "law_title": "土地区画整理法",
   "law_title_kana": "とちくかくせいりほう",
   "abbrev": null,
   "category": "都市計画",
-  "updated": "2026-09-03T00:19:29+09:00",
+  "updated": "2026-10-01T01:28:04+09:00",
   "amendment_promulgate_date": "2026-06-03",
-  "amendment_enforcement_date": "2026-09-03",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508AC0000000027",
@@ -63,7 +63,7 @@
    "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
    "amendment_law_num": "令和八年法律第二十七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "329AC0000000119_20260903_508AC0000000027",
@@ -73,7 +73,7 @@
    "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
    "amendment_law_num": "令和八年法律第二十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "329AC0000000119_20260527_508AC0000000023",
@@ -214,7 +214,7 @@
  },
  "_meta": {
   "first_seen": "1954-05-20",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-09-03T00:19:29+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T01:28:04+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "1998-12-24"
  },
  "revision_info": {
-  "law_revision_id": "410CO0000000412_20260804_508CO0000000245",
+  "law_revision_id": "410CO0000000412_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "介護保険法施行令",
   "law_title_kana": "かいごほけんほうしこうれい",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-09-08T18:30:14+09:00",
-  "amendment_promulgate_date": "2026-08-03",
-  "amendment_enforcement_date": "2026-08-04",
+  "updated": "2026-10-01T04:23:09+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000245",
-  "amendment_law_title": "厚生労働省組織令及び社会保障審議会令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百四十五号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "410CO0000000412_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "410CO0000000412_20260804_508CO0000000245",
    "amendment_promulgate_date": "2026-08-03",
    "amendment_enforcement_date": "2026-08-04",
@@ -49,7 +59,7 @@
    "amendment_law_title": "厚生労働省組織令及び社会保障審議会令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百四十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "410CO0000000412_20260801_508CO0000000240",
@@ -420,40 +430,13 @@
    "amendment_law_num": "平成三十年政令第百七十五号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "410CO0000000412_20180401_430CO0000000063",
-   "amendment_promulgate_date": "2018-03-26",
-   "amendment_enforcement_date": "2018-04-01",
-   "amendment_law_id": "430CO0000000063",
-   "amendment_law_title": "健康保険法施行令等の一部を改正する政令の一部を改正する政令",
-   "amendment_law_num": "平成三十年政令第六十三号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　介護認定審査会",
-  "第三章　保険給付",
-  "第四章　介護支援専門員並びに事業者及び施設",
-  "第五章　地域支援事業",
-  "第五章の二　手数料",
-  "第六章　保険料",
-  "第七章　審査請求",
-  "第八章　雑則",
-  "第九章　施行法の経過措置に関する規定"
- ],
- "article1": {
-  "caption": "（特別会計の勘定）",
-  "title": "第一条",
-  "paragraphs": [
-   "介護保険法（以下「法」という。）第百十五条の四十九に規定する事業として指定居宅サービス（法第四十一条第一項に規定する指定居宅サービスをいう。以下同じ。）、指定地域密着型サービス（法第四十二条の二第一項に規定する指定地域密着型サービスをいう。以下同じ。）、指定居宅介護支援（法第四十六条第一項に規定する指定居宅介護支援をいう。以下同じ。）、指定介護予防サービス（法第五十三条第一項に規定する指定介護予防サービスをいう。以下同じ。）、指定地域密着型介護予防サービス（法第五十四条の二第一項に規定する指定地域密着型介護予防サービスをいう。以下同じ。）及び指定介護予防支援（法第五十八条第一項に規定する指定介護予防支援をいう。以下同じ。）の事業並びに介護保険施設の運営を行う市町村（特別区を含む。以下同じ。）は、厚生労働省令で定めるところにより、介護保険に関する特別会計を保険事業勘定及び介護サービス事業勘定に区分しなければならない。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "1998-12-24",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-09-08T18:30:14+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T04:23:09+09:00"
  }
 }

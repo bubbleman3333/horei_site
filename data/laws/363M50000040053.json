@@ -10,15 +10,15 @@
   "promulgation_date": "1988-12-30"
  },
  "revision_info": {
-  "law_revision_id": "363M50000040053_20260901_508M60000040019",
+  "law_revision_id": "363M50000040053_20261001_508M60000040019",
   "law_type": "MinisterialOrdinance",
   "law_title": "消費税法施行規則",
   "law_title_kana": "しょうひぜいほうせこうきそく",
   "abbrev": null,
   "category": "国税",
-  "updated": "2026-09-01T00:25:06+09:00",
+  "updated": "2026-10-01T03:59:50+09:00",
   "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-09-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508M60000040019",
@@ -109,7 +109,7 @@
    "amendment_law_title": "消費税法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年財務省令第十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "363M50000040053_20260901_508M60000040019",
@@ -119,7 +119,7 @@
    "amendment_law_title": "消費税法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年財務省令第十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "363M50000040053_20260401_506M60000040019",
@@ -449,7 +449,7 @@
  },
  "_meta": {
   "first_seen": "1988-12-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-09-01T00:25:06+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T03:59:50+09:00"
  }
 }

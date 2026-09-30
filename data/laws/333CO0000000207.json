@@ -10,20 +10,20 @@
   "promulgation_date": "1958-06-30"
  },
  "revision_info": {
-  "law_revision_id": "333CO0000000207_20260801_508CO0000000240",
+  "law_revision_id": "333CO0000000207_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "国家公務員共済組合法施行令",
   "law_title_kana": "こっかこうむいんきょうさいくみあいほうせこうれい",
   "abbrev": "国公共済法施行令",
   "category": "国家公務員",
-  "updated": "2026-08-13T11:51:05+09:00",
-  "amendment_promulgate_date": "2026-07-29",
-  "amendment_enforcement_date": "2026-08-01",
+  "updated": "2026-10-01T02:17:54+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000240",
-  "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百四十号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -52,6 +52,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "333CO0000000207_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "333CO0000000207_20260801_508CO0000000240",
    "amendment_promulgate_date": "2026-07-29",
    "amendment_enforcement_date": "2026-08-01",
@@ -59,7 +69,7 @@
    "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百四十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "333CO0000000207_20260729_508CO0000000240",
@@ -420,44 +430,13 @@
    "amendment_law_num": "平成三十一年政令第百二十九号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "333CO0000000207_20180925_430CO0000000265",
-   "amendment_promulgate_date": "2018-09-21",
-   "amendment_enforcement_date": "2018-09-25",
-   "amendment_law_id": "430CO0000000265",
-   "amendment_law_title": "産業競争力強化法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
-   "amendment_law_num": "平成三十年政令第二百六十五号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　組合及び連合会",
-  "第三章　給付",
-  "第四章　費用の負担",
-  "第四章の二　地方公務員共済組合連合会に対する財政調整拠出金",
-  "第五章　国家公務員共済組合審査会",
-  "第五章の二　資料の提供",
-  "第六章　権限の委任",
-  "第七章　外国で勤務する組合員に係る特例",
-  "第八章　公庫等の継続長期組合員に係る特例",
-  "第八章の二　行政執行法人以外の独立行政法人又は国立大学法人等に常時勤務することを要する者の取扱い",
-  "第八章の三　組合職員及び連合会役職員の取扱い",
-  "第九章　地方公務員共済組合との関係",
-  "第十章　任意継続組合員に係る特例"
- ],
- "article1": {
-  "caption": "（定義）",
-  "title": "第一条",
-  "paragraphs": [
-   "この政令において、「行政執行法人」、「職員」、「被扶養者」、「遺族」、「退職」、「報酬」、「期末手当等」、「組合」、「組合の代表者」、「連合会」、「独立行政法人」、「国立大学法人等」、「受給権者」、「地方の組合」、「私学共済制度の加入者」、「厚生年金保険給付」、「退職等年金給付」、「継続長期組合員」、「任意継続組合員」、「任意継続掛金」、「特定共済組合」、「特例退職組合員」、「郵政会社等」若しくは「日本郵政共済組合」又は「旧法」、「恩給公務員期間」、「在職年」、「旧長期組合員期間」若しくは「恩給更新組合員」とは、それぞれ国家公務員共済組合法（以下「法」という。）第一条第二項、第二条第一項第一号から第六号まで、第三条第一項、第八条第二項、第二十一条第一項、第三十一条第一号、第三十九条第一項、第五十五条第一項第二号、第七十三条第一項、第七十四条、第百二十四条の二第二項、第百二十六条の五第二項、附則第十二条第一項若しくは第三項、附則第二十条の二第二項若しくは附則第二十条の三第一項又は国家公務員共済組合法の長期給付に関する施行法（昭和三十三年法律第百二十九号。以下「施行法」という。）第二条第二号、第十号、第十一号若しくは第十三号若しくは第二十三条第一項に規定する行政執行法人、職員、被扶養者、遺族、退職、報酬、期末手当等、組合、組合の代表者、連合会、独立行政法人、国立大学法人等、受給権者、地方の組合、私学共済制度の加入者、厚生年金保険給付、退職等年金給付、継続長期組合員、任意継続組合員、任意継続掛金、特定共済組合、特例退職組合員、郵政会社等若しくは日本郵政共済組合又は旧法、恩給公務員期間…"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "1958-06-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-13T11:51:05+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T02:17:54+09:00"
  }
 }

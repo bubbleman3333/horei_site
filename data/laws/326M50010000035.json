@@ -10,15 +10,15 @@
   "promulgation_date": "1951-05-31"
  },
  "revision_info": {
-  "law_revision_id": "326M50010000035_20260701_508M60000200047",
+  "law_revision_id": "326M50010000035_20261001_508M60000200047",
   "law_type": "MinisterialOrdinance",
   "law_title": "家畜伝染病予防法施行規則",
   "law_title_kana": "かちくでんせんびょうよぼうほうしこうきそく",
   "abbrev": "家伝法施行規則",
   "category": "農業",
-  "updated": "2026-09-15T14:31:40+09:00",
+  "updated": "2026-10-01T01:19:14+09:00",
   "amendment_promulgate_date": "2026-06-29",
-  "amendment_enforcement_date": "2026-07-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508M60000200047",
@@ -59,7 +59,7 @@
    "amendment_law_title": "家畜伝染病予防法施行規則等の一部を改正する等の省令",
    "amendment_law_num": "令和八年農林水産省令第四十七号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "326M50010000035_20261001_507M60000200044",
@@ -69,7 +69,7 @@
    "amendment_law_title": "家畜伝染病予防法施行規則の一部を改正する省令",
    "amendment_law_num": "令和七年農林水産省令第四十四号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "326M50010000035_20260701_508M60000200047",
@@ -79,7 +79,7 @@
    "amendment_law_title": "家畜伝染病予防法施行規則等の一部を改正する等の省令",
    "amendment_law_num": "令和八年農林水産省令第四十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "326M50010000035_20260519_508M60000200039",
@@ -456,7 +456,7 @@
  },
  "_meta": {
   "first_seen": "1951-05-31",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-09-15T14:31:40+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T01:19:14+09:00"
  }
 }

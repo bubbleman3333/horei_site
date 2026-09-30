@@ -10,20 +10,20 @@
   "promulgation_date": "2007-11-30"
  },
  "revision_info": {
-  "law_revision_id": "419CO0000000347_20260401_508CO0000000043",
+  "law_revision_id": "419CO0000000347_20261001_508CO0000000276",
   "law_type": "CabinetOrder",
   "law_title": "社会保障協定の実施に伴う厚生年金保険法等の特例等に関する政令",
   "law_title_kana": "しゃかいほしょうきょうていのじっしにともなうこうせいねんきんほけんほうとうのとくれいとうにかんするせいれい",
   "abbrev": "社会保障協定の実施に伴う厚生年金法等の特例等に関する政令",
   "category": "社会保険",
-  "updated": "2026-07-22T15:19:28+09:00",
-  "amendment_promulgate_date": "2026-03-18",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-01T05:52:17+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000043",
-  "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
-  "amendment_law_num": "令和八年政令第四十三号",
+  "amendment_law_id": "508CO0000000276",
+  "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "419CO0000000347_20261001_508CO0000000276",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000276",
+   "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の一部の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "419CO0000000347_20260401_508CO0000000043",
    "amendment_promulgate_date": "2026-03-18",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "社会経済の変化を踏まえた年金制度の機能強化のための国民年金法等の一部を改正する等の法律の施行に伴う関係政令の整備等に関する政令",
    "amendment_law_num": "令和八年政令第四十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "419CO0000000347_20251201_506CO0000000388",
@@ -172,27 +182,11 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　健康保険法の特例に関する事項",
-  "第三章　船員保険法の特例に関する事項",
-  "第四章　国民健康保険法の特例に関する事項",
-  "第五章　高齢者の医療の確保に関する法律の特例に関する事項",
-  "第六章　国民年金法の特例に関する事項",
-  "第七章　厚生年金保険法の特例に関する事項",
-  "第八章　雑則",
-  "第九章　経過的特例に関する事項"
- ],
- "article1": {
-  "caption": "（趣旨）",
-  "title": "第一条",
-  "paragraphs": [
-   "この政令は、社会保障協定の実施に伴う厚生年金保険法等の特例等に関する法律（以下「法」という。）の施行に伴い、我が国及び我が国以外の締約国の双方において就労する者等に係る健康保険法（大正十一年法律第七十号）、船員保険法（昭和十四年法律第七十三号）、国民健康保険法（昭和三十三年法律第百九十二号）、高齢者の医療の確保に関する法律（昭和五十七年法律第八十号）、国民年金法（昭和三十四年法律第百四十一号）及び厚生年金保険法（昭和二十九年法律第百十五号）の特例等に関し必要な事項を定めるものとする。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "2007-11-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-22T15:19:28+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T05:52:17+09:00"
  }
 }

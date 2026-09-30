@@ -10,20 +10,20 @@
   "promulgation_date": "1953-08-25"
  },
  "revision_info": {
-  "law_revision_id": "328CO0000000215_20260731_508CO0000000234",
+  "law_revision_id": "328CO0000000215_20261001_508CO0000000274",
   "law_type": "CabinetOrder",
   "law_title": "国家公務員退職手当法施行令",
   "law_title_kana": "こっかこうむいんたいしょくてあてほうしこうれい",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-08-12T13:41:23+09:00",
-  "amendment_promulgate_date": "2026-07-29",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-10-01T01:21:58+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000234",
-  "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
-  "amendment_law_num": "令和八年政令第二百三十四号",
+  "amendment_law_id": "508CO0000000274",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+  "amendment_law_num": "令和八年政令第二百七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "328CO0000000215_20261001_508CO0000000274",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000274",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和八年政令第二百七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "328CO0000000215_20260731_508CO0000000234",
    "amendment_promulgate_date": "2026-07-29",
    "amendment_enforcement_date": "2026-07-31",
@@ -49,7 +59,7 @@
    "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
    "amendment_law_num": "令和八年政令第二百三十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "328CO0000000215_20260401_507CO0000000395",
@@ -332,23 +342,11 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　一般の退職手当",
-  "第三章　特別の退職手当",
-  "第四章　退職手当の支給制限等"
- ],
- "article1": {
-  "caption": "（非常勤職員に対する退職手当）",
-  "title": "第一条",
-  "paragraphs": [
-   "常時勤務に服することを要する国家公務員（以下「職員」という。）以外の者で、国家公務員退職手当法（以下「法」という。）第二条第二項の規定により職員とみなされるものは、次に掲げる者とする。",
-   "前項第二号に掲げる者については、法第四条中十一年以上二十五年未満の期間勤続した者の通勤による傷病による退職及び死亡による退職に係る部分以外の部分の規定並びに法第五条中公務上の傷病又は死亡による退職に係る部分並びに二十五年以上勤続した者の通勤による傷病による退職及び死亡による退職に係る部分以外の部分の規定は、適用しないものとする。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "1953-08-25",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-08-12T13:41:23+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T01:21:58+09:00"
  }
 }

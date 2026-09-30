@@ -10,15 +10,15 @@
   "promulgation_date": "2023-04-01"
  },
  "revision_info": {
-  "law_revision_id": "505M60000002042_20260907_508M60000002075",
+  "law_revision_id": "505M60000002042_20261001_508M60000002075",
   "law_type": "MinisterialOrdinance",
   "law_title": "こども家庭庁の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する内閣府令",
   "law_title_kana": "こどもかていちょうのしょかんするほうりつのきていにもとづくたちいりけんさとうのさいにけいたいするしょくいんのみぶんをしめすしょうめいしょのようしきのとくれいにかんするないかくふれい",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-09-25T10:46:45+09:00",
+  "updated": "2026-10-01T06:40:29+09:00",
   "amendment_promulgate_date": "2026-09-07",
-  "amendment_enforcement_date": "2026-09-07",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508M60000002075",
@@ -39,7 +39,7 @@
    "amendment_law_title": "児童福祉法施行規則及びこども家庭庁の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する内閣府令の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第七十五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "505M60000002042_20260907_508M60000002075",
@@ -49,7 +49,7 @@
    "amendment_law_title": "児童福祉法施行規則及びこども家庭庁の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する内閣府令の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第七十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "505M60000002042_20260401_507M60000002094",
@@ -99,7 +99,7 @@
  },
  "_meta": {
   "first_seen": "2023-04-01",
-  "fetched_at": "2026-09-26",
-  "updated": "2026-09-25T10:46:45+09:00"
+  "fetched_at": "2026-10-01",
+  "updated": "2026-10-01T06:40:29+09:00"
  }
 }
