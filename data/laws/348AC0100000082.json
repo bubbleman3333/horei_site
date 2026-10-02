@@ -32,11 +32,9 @@
  },
  "revisions": [
   {
-   "law_revision_id": "348AC0100000082_20261231_508AC0000000062",
+   "law_revision_id": "348AC0100000082_20261102_508AC0000000062",
    "amendment_promulgate_date": "2026-07-17",
-   "amendment_enforcement_date": "2026-12-31",
-   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
-   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_enforcement_date": "2026-11-02",
    "amendment_law_id": "508AC0000000062",
    "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
    "amendment_law_num": "令和八年法律第六十二号",
@@ -129,7 +127,7 @@
  },
  "_meta": {
   "first_seen": "1973-09-18",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-03",
   "updated": "2026-07-23T14:17:05+09:00"
  }
 }

@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "429CO0000000282_20270104_508CO0000000296",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2027-01-04",
+   "amendment_law_id": "508CO0000000296",
+   "amendment_law_title": "外国為替及び外国貿易法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和八年政令第二百九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "429CO0000000282_20260710_508CO0000000221",
    "amendment_promulgate_date": "2026-07-03",
    "amendment_enforcement_date": "2026-07-10",
@@ -135,7 +145,6 @@
    "law_revision_id": "429CO0000000282_20171115_000000000000000",
    "amendment_promulgate_date": "2017-11-15",
    "amendment_enforcement_date": "2017-11-15",
-   "amendment_law_id": "",
    "amendment_law_title": "",
    "amendment_type": "1",
    "current_revision_status": "PreviousEnforced"
@@ -151,7 +160,7 @@
  },
  "_meta": {
   "first_seen": "2017-11-15",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-03",
   "updated": "2026-07-15T10:52:39+09:00"
  }
 }

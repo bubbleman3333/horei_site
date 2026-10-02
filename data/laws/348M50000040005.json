@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "348M50000040005_20261005_508M60000002079",
+   "amendment_promulgate_date": "2026-09-15",
+   "amendment_enforcement_date": "2026-10-05",
+   "amendment_law_id": "508M60000002079",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "348M50000040005_20260625_508M60000002057",
    "amendment_promulgate_date": "2026-06-24",
    "amendment_enforcement_date": "2026-06-25",
@@ -426,17 +436,6 @@
    "amendment_law_num": "平成三十年内閣府令第三号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "348M50000040005_20170714_429M60000002040",
-   "amendment_promulgate_date": "2017-07-14",
-   "amendment_enforcement_date": "2017-07-14",
-   "amendment_enforcement_comment": "",
-   "amendment_law_id": "429M60000002040",
-   "amendment_law_title": "企業内容等の開示に関する内閣府令及び有価証券の取引等の規制に関する内閣府令の一部を改正する内閣府令",
-   "amendment_law_num": "平成二十九年内閣府令第四十号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -449,7 +448,7 @@
  },
  "_meta": {
   "first_seen": "1973-01-30",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-03",
   "updated": "2026-07-08T10:47:15+09:00"
  }
 }
