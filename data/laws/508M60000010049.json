@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000010049",
+  "law_num": "令和八年法務省令第四十九号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "049",
+  "promulgation_date": "2026-09-16"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000010049_20261024_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "皇族の身分を離れた者等の戸籍の取扱い等に関する法律施行規則",
+  "law_title_kana": "こうぞくのみぶんをはなれたものとうのこせきのとりあつかいとうにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2026-10-01T14:25:09+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-10-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000010049_20261024_000000000000000",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-10-24",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（内親王又は女王と天皇及び皇族以外の男子が婚姻するときの届出事項）",
+  "title": "第一条",
+  "paragraphs": [
+   "皇族の身分を離れた者等の戸籍の取扱い等に関する法律（以下「法」という。）第九条第一項の法務省令で定める事項は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-09-16",
+  "fetched_at": "2026-10-02",
+  "updated": "2026-10-01T14:25:09+09:00"
+ }
+}

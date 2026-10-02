@@ -1,0 +1,106 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "427CO0000000318",
+  "law_num": "平成二十七年政令第三百十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 27,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "318",
+  "promulgation_date": "2015-09-04"
+ },
+ "revision_info": {
+  "law_revision_id": "427CO0000000318_20261001_508CO0000000286",
+  "law_type": "CabinetOrder",
+  "law_title": "女性の職業生活における活躍の推進に関する法律施行令",
+  "law_title_kana": "じょせいのしょくぎょうせいかつにおけるかつやくのすいしんにかんするほうりつしこうれい",
+  "abbrev": "女性活躍推進法施行令",
+  "category": "労働",
+  "updated": "2026-10-01T14:27:43+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000286",
+  "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百八十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "427CO0000000318_20261001_508CO0000000286",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000286",
+   "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "427CO0000000318_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427CO0000000318_20220617_504CO0000000218",
+   "amendment_promulgate_date": "2022-06-16",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504CO0000000218",
+   "amendment_law_title": "福島復興再生特別措置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和四年政令第二百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427CO0000000318_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427CO0000000318_20200601_501CO0000000211",
+   "amendment_promulgate_date": "2019-12-26",
+   "amendment_enforcement_date": "2020-06-01",
+   "amendment_law_id": "501CO0000000211",
+   "amendment_law_title": "女性の職業生活における活躍の推進に関する法律等の一部を改正する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和元年政令第二百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "427CO0000000318_20160401_000000000000000",
+   "amendment_promulgate_date": "2015-09-04",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（特定事業主等）",
+  "title": "第一条",
+  "paragraphs": [
+   "女性の職業生活における活躍の推進に関する法律（以下「法」という。）第十九条第一項の国及び地方公共団体の機関、それらの長又はそれらの職員で政令で定めるものは、次の表の上欄に掲げるものとし、それぞれ同表の下欄に掲げる職員についての特定事業主行動計画を定めるものとする。",
+   "前項に規定するもののほか、法第十九条第一項の地方公共団体の機関、その長又はその職員で政令で定めるものは、当該地方公共団体の規則で定めるものとし、それぞれ当該地方公共団体の規則で定める職員についての特定事業主行動計画を定めるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2015-09-04",
+  "fetched_at": "2026-10-02",
+  "updated": "2026-10-01T14:27:43+09:00"
+ }
+}

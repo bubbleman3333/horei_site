@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "405M50000040022_20261005_508M60000002079",
+   "amendment_promulgate_date": "2026-09-15",
+   "amendment_enforcement_date": "2026-10-05",
+   "amendment_law_id": "508M60000002079",
+   "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "405M50000040022_20260601_508M60000002051",
    "amendment_promulgate_date": "2026-05-22",
    "amendment_enforcement_date": "2026-06-01",
@@ -261,7 +271,7 @@
  },
  "_meta": {
   "first_seen": "1993-03-03",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-02",
   "updated": "2026-06-11T10:51:00+09:00"
  }
 }

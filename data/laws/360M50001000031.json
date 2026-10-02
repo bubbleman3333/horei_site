@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "360M50001000031_20270401_508M60000008111",
+   "amendment_promulgate_date": "2026-09-24",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508M60000008111",
+   "amendment_law_title": "端末設備等規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "360M50001000031_20251001_507M60000008054",
    "amendment_promulgate_date": "2025-05-29",
    "amendment_enforcement_date": "2025-10-01",
@@ -122,7 +132,7 @@
  },
  "_meta": {
   "first_seen": "1985-04-01",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-02",
   "updated": "2025-10-01T06:50:44+09:00"
  }
 }

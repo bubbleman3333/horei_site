@@ -10,25 +10,25 @@
   "promulgation_date": "2018-12-28"
  },
  "revision_info": {
-  "law_revision_id": "430CO0000000364_20261001_508CO0000000226",
+  "law_revision_id": "430CO0000000364_20261001_508CO0000000225",
   "law_type": "CabinetOrder",
   "law_title": "年金生活者支援給付金の支給に関する法律施行令",
   "law_title_kana": "ねんきんせいかつしゃしえんきゅうふきんのしきゅうにかんするほうりつせこうれい",
   "abbrev": "年金生活者支援給付金法施行令",
   "category": "社会保険",
-  "updated": "2026-10-01T06:30:42+09:00",
-  "amendment_promulgate_date": "2026-07-15",
+  "updated": "2026-10-01T18:06:20+09:00",
+  "amendment_promulgate_date": "2026-07-08",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000226",
-  "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百二十六号",
+  "amendment_law_id": "508CO0000000225",
+  "amendment_law_title": "年金生活者支援給付金の支給に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百二十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "CurrentEnforced"
+  "current_revision_status": "PreviousEnforced"
  },
  "revisions": [
   {
@@ -260,7 +260,7 @@
  },
  "_meta": {
   "first_seen": "2018-12-28",
-  "fetched_at": "2026-10-01",
-  "updated": "2026-10-01T06:30:42+09:00"
+  "fetched_at": "2026-10-02",
+  "updated": "2026-10-01T18:06:20+09:00"
  }
 }

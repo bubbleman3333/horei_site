@@ -41,11 +41,9 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "508AC0000000061_20261231_000000000000000",
+   "law_revision_id": "508AC0000000061_20261102_000000000000000",
    "amendment_promulgate_date": "2026-07-17",
-   "amendment_enforcement_date": "2026-12-31",
-   "amendment_enforcement_comment": "令和八年十二月三十一日までの間において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2026-12-31",
+   "amendment_enforcement_date": "2026-11-02",
    "amendment_type": "1",
    "current_revision_status": "UnEnforced"
   },
@@ -72,7 +70,7 @@
  },
  "_meta": {
   "first_seen": "2026-07-17",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-02",
   "updated": "2026-07-17T12:07:28+09:00"
  }
 }

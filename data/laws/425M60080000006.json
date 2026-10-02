@@ -1,0 +1,188 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "425M60080000006",
+  "law_num": "平成二十五年原子力規制委員会規則第六号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "Rule",
+  "law_num_num": "006",
+  "promulgation_date": "2013-06-28"
+ },
+ "revision_info": {
+  "law_revision_id": "425M60080000006_20260911_508M60080000007",
+  "law_type": "Rule",
+  "law_title": "実用発電用原子炉及びその附属施設の技術基準に関する規則",
+  "law_title_kana": "じつようはつでんようげんしろおよびそのふぞくしせつのぎじゅつきじゅんにかんするきそく",
+  "abbrev": null,
+  "category": "工業",
+  "updated": "2026-10-01T11:54:38+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-09-11",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60080000007",
+  "amendment_law_title": "実用発電用原子炉及びその附属施設の位置、構造及び設備の基準に関する規則及び実用発電用原子炉及びその附属施設の技術基準に関する規則の一部を改正する規則",
+  "amendment_law_num": "令和八年原子力規制委員会規則第七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425M60080000006_20260911_508M60080000007",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-09-11",
+   "amendment_law_id": "508M60080000007",
+   "amendment_law_title": "実用発電用原子炉及びその附属施設の位置、構造及び設備の基準に関する規則及び実用発電用原子炉及びその附属施設の技術基準に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和八年原子力規制委員会規則第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20220926_504M60080000004",
+   "amendment_promulgate_date": "2022-09-26",
+   "amendment_enforcement_date": "2022-09-26",
+   "amendment_law_id": "504M60080000004",
+   "amendment_law_title": "実用発電用原子炉及びその附属施設の位置、構造及び設備の基準に関する規則及び実用発電用原子炉及びその附属施設の技術基準に関する規則の一部を改正する規則",
+   "amendment_law_num": "令和四年原子力規制委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20200401_502M60080000003",
+   "amendment_promulgate_date": "2020-01-23",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "502M60080000003",
+   "amendment_law_title": "原子力利用における安全対策の強化のための核原料物質、核燃料物質及び原子炉の規制に関する法律等の一部を改正する法律の一部の施行に伴う実用発電用原子炉に係る原子力規制委員会関係規則の整備等に関する規則",
+   "amendment_law_num": "令和二年原子力規制委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20190701_501M60080000003",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60080000003",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う原子力規制委員会関係規則の整備に関する規則",
+   "amendment_law_num": "令和元年原子力規制委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20190402_431M60080000004",
+   "amendment_promulgate_date": "2019-04-02",
+   "amendment_enforcement_date": "2019-04-02",
+   "amendment_law_id": "431M60080000004",
+   "amendment_law_title": "実用発電用原子炉及びその附属施設の位置、構造及び設備の基準に関する規則及び実用発電用原子炉及びその附属施設の技術基準に関する規則の一部を改正する規則",
+   "amendment_law_num": "平成三十一年原子力規制委員会規則第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20180608_430M60080000006",
+   "amendment_promulgate_date": "2018-06-08",
+   "amendment_enforcement_date": "2018-06-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60080000006",
+   "amendment_law_title": "核原料物質又は核燃料物質の製錬の事業に関する規則等の一部を改正する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20180220_430M60080000003",
+   "amendment_promulgate_date": "2018-02-20",
+   "amendment_enforcement_date": "2018-02-20",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60080000003",
+   "amendment_law_title": "試験研究の用に供する原子炉等の設計及び工事の方法の技術基準に関する規則等の一部を改正する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20180202_430M60080000002",
+   "amendment_promulgate_date": "2018-02-02",
+   "amendment_enforcement_date": "2018-02-02",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "430M60080000002",
+   "amendment_law_title": "実用発電用原子炉及びその附属施設の技術基準に関する規則の一部を改正する規則",
+   "amendment_law_num": "平成三十年原子力規制委員会規則第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20171214_429M60080000015",
+   "amendment_promulgate_date": "2017-12-14",
+   "amendment_enforcement_date": "2017-12-14",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60080000015",
+   "amendment_law_title": "実用発電用原子炉及びその附属施設の位置、構造及び設備の基準に関する規則及び実用発電用原子炉及びその附属施設の技術基準に関する規則の一部を改正する規則",
+   "amendment_law_num": "平成二十九年原子力規制委員会規則第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20170911_429M60080000013",
+   "amendment_promulgate_date": "2017-09-11",
+   "amendment_enforcement_date": "2017-09-11",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60080000013",
+   "amendment_law_title": "実用発電用原子炉及びその附属施設の位置、構造及び設備の基準に関する規則等の一部を改正する規則",
+   "amendment_law_num": "平成二十九年原子力規制委員会規則第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20170808_429M60080000012",
+   "amendment_promulgate_date": "2017-08-08",
+   "amendment_enforcement_date": "2017-08-08",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "429M60080000012",
+   "amendment_law_title": "再処理施設の設計及び工事の方法の技術基準に関する規則等の一部を改正する規則",
+   "amendment_law_num": "平成二十九年原子力規制委員会規則第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20170501_429M60080000006",
+   "amendment_promulgate_date": "2017-05-01",
+   "amendment_enforcement_date": "2017-05-01",
+   "amendment_law_id": "429M60080000006",
+   "amendment_law_num": "平成二十九年原子力規制委員会規則第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60080000006_20161024_428M60080000011",
+   "amendment_promulgate_date": "2016-10-24",
+   "amendment_enforcement_date": "2016-10-24",
+   "amendment_law_id": "428M60080000011",
+   "amendment_law_num": "平成二十八年原子力規制委員会規則第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　設計基準対象施設",
+  "第三章　重大事故等対処施設",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（適用範囲）",
+  "title": "第一条",
+  "paragraphs": [
+   "この規則は、実用発電用原子炉及びその附属施設について適用する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2013-06-28",
+  "fetched_at": "2026-10-02",
+  "updated": "2026-10-01T11:54:38+09:00"
+ }
+}

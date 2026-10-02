@@ -10,20 +10,20 @@
   "promulgation_date": "2016-01-29"
  },
  "revision_info": {
-  "law_revision_id": "428CO0000000032_20250401_507CO0000000019",
+  "law_revision_id": "428CO0000000032_20261001_508CO0000000286",
   "law_type": "CabinetOrder",
   "law_title": "障害を理由とする差別の解消の推進に関する法律施行令",
   "law_title_kana": "しょうがいをりゆうとするさべつのかいしょうのすいしんにかんするほうりつしこうれい",
   "abbrev": "障害者差別解消法施行令",
   "category": "社会福祉",
-  "updated": "2025-04-02T11:37:26+09:00",
-  "amendment_promulgate_date": "2025-01-29",
-  "amendment_enforcement_date": "2025-04-01",
+  "updated": "2026-10-01T14:28:44+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000019",
-  "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和七年政令第十九号",
+  "amendment_law_id": "508CO0000000286",
+  "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百八十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "428CO0000000032_20261001_508CO0000000286",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000286",
+   "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "428CO0000000032_20250401_507CO0000000019",
    "amendment_promulgate_date": "2025-01-29",
    "amendment_enforcement_date": "2025-04-01",
@@ -49,7 +59,7 @@
    "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和七年政令第十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "428CO0000000032_20240216_505CO0000000379",
@@ -113,7 +123,7 @@
  },
  "_meta": {
   "first_seen": "2016-01-29",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-04-02T11:37:26+09:00"
+  "fetched_at": "2026-10-02",
+  "updated": "2026-10-01T14:28:44+09:00"
  }
 }

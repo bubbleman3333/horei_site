@@ -10,20 +10,20 @@
   "promulgation_date": "2009-08-28"
  },
  "revision_info": {
-  "law_revision_id": "421M60000002048_20251001_507M60000002083",
+  "law_revision_id": "421M60000002048_20260914_508M60000002076",
   "law_type": "MinisterialOrdinance",
   "law_title": "消費者安全法施行規則",
   "law_title_kana": "しょうひしゃあんぜんほうしこうきそく",
   "abbrev": null,
   "category": "商業",
-  "updated": "2025-10-08T00:03:12+09:00",
-  "amendment_promulgate_date": "2025-09-24",
-  "amendment_enforcement_date": "2025-10-01",
+  "updated": "2026-10-01T12:01:11+09:00",
+  "amendment_promulgate_date": "2026-09-11",
+  "amendment_enforcement_date": "2026-09-14",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000002083",
+  "amendment_law_id": "508M60000002076",
   "amendment_law_title": "消費者安全法施行規則の一部を改正する内閣府令",
-  "amendment_law_num": "令和七年内閣府令第八十三号",
+  "amendment_law_num": "令和八年内閣府令第七十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "421M60000002048_20260914_508M60000002076",
+   "amendment_promulgate_date": "2026-09-11",
+   "amendment_enforcement_date": "2026-09-14",
+   "amendment_law_id": "508M60000002076",
+   "amendment_law_title": "消費者安全法施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "421M60000002048_20251001_507M60000002083",
    "amendment_promulgate_date": "2025-09-24",
    "amendment_enforcement_date": "2025-10-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "消費者安全法施行規則の一部を改正する内閣府令",
    "amendment_law_num": "令和七年内閣府令第八十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "421M60000002048_20230601_505M60000002007",
@@ -131,7 +141,7 @@
  },
  "_meta": {
   "first_seen": "2009-08-28",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-10-08T00:03:12+09:00"
+  "fetched_at": "2026-10-02",
+  "updated": "2026-10-01T12:01:11+09:00"
  }
 }

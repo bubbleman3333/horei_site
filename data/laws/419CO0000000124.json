@@ -374,11 +374,20 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [],
- "article1": null,
+ "toc": [
+  "第一章　総則",
+  "第二章　各特別会計の管理及び経理"
+ ],
+ "article1": {
+  "caption": "（歳入の会計年度所属区分）",
+  "title": "第一条",
+  "paragraphs": [
+   "次の各号に掲げる収入は、当該各号に定める年度の歳入とする。"
+  ]
+ },
  "_meta": {
   "first_seen": "2007-03-31",
-  "fetched_at": "2026-10-01",
+  "fetched_at": "2026-10-02",
   "updated": "2026-10-01T05:44:06+09:00"
  }
 }
