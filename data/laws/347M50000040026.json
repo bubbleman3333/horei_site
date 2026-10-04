@@ -10,20 +10,20 @@
   "promulgation_date": "1972-04-27"
  },
  "revision_info": {
-  "law_revision_id": "347M50000040026_20250501_507M60000002023",
+  "law_revision_id": "347M50000040026_20261005_508M60000002079",
   "law_type": "MinisterialOrdinance",
   "law_title": "外国債等の発行者の内容等の開示に関する内閣府令",
   "law_title_kana": "がいこくさいとうのはっこうしゃのないようとうのかいじにかんするないかくふれい",
   "abbrev": null,
   "category": "金融・保険",
-  "updated": "2026-03-04T18:54:53+09:00",
-  "amendment_promulgate_date": "2025-03-28",
-  "amendment_enforcement_date": "2025-05-01",
+  "updated": "2026-10-05T00:01:13+09:00",
+  "amendment_promulgate_date": "2026-09-15",
+  "amendment_enforcement_date": "2026-10-05",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000002023",
-  "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
-  "amendment_law_num": "令和七年内閣府令第二十三号",
+  "amendment_law_id": "508M60000002079",
+  "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第七十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "金融商品取引法第二条に規定する定義に関する内閣府令等の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第七十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "347M50000040026_20250501_507M60000002023",
@@ -49,7 +49,7 @@
    "amendment_law_title": "金融商品取引業等に関する内閣府令等の一部を改正する内閣府令",
    "amendment_law_num": "令和七年内閣府令第二十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "347M50000040026_20250401_507M60000002008",
@@ -181,7 +181,7 @@
  },
  "_meta": {
   "first_seen": "1972-04-27",
-  "fetched_at": "2026-10-02",
-  "updated": "2026-03-04T18:54:53+09:00"
+  "fetched_at": "2026-10-05",
+  "updated": "2026-10-05T00:01:13+09:00"
  }
 }
