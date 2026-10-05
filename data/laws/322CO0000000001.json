@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "322CO0000000001",
+  "law_num": "昭和二十二年政令第一号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "001",
+  "promulgation_date": "1947-05-03"
+ },
+ "revision_info": {
+  "law_revision_id": "322CO0000000001_19520731_327CO0000000305",
+  "law_type": "CabinetOrder",
+  "law_title": "皇統譜令",
+  "law_title_kana": "こうとうふれい",
+  "abbrev": null,
+  "category": "憲法",
+  "updated": "2023-11-10T16:07:37+09:00",
+  "amendment_promulgate_date": "1952-07-31",
+  "amendment_enforcement_date": "1952-07-31",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "327CO0000000305",
+  "amendment_law_title": null,
+  "amendment_law_num": "昭和二十七年政令第三百五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322CO0000000001_20261024_508CO0000000280",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-10-24",
+   "amendment_law_id": "508CO0000000280",
+   "amendment_law_title": "皇統譜令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百八十号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000001_19520731_327CO0000000305",
+   "amendment_promulgate_date": "1952-07-31",
+   "amendment_enforcement_date": "1952-07-31",
+   "amendment_law_id": "327CO0000000305",
+   "amendment_law_num": "昭和二十七年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "この政令に定めるものの外、皇統譜に関しては、当分の間、なお従前の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-05-03",
+  "fetched_at": "2026-10-06",
+  "updated": "2023-11-10T16:07:37+09:00"
+ }
+}

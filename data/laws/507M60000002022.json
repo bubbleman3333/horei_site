@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "507M60000002022",
+  "law_num": "令和七年内閣府令第二十二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 7,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "022",
+  "promulgation_date": "2025-03-26"
+ },
+ "revision_info": {
+  "law_revision_id": "507M60000002022_20250401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する内閣府令",
+  "law_title_kana": "こうにんかいけいしほうのしんぱんてつづきにおけるさんこうにんおよびかんていにんのりょひおよびてあてにかんするないかくふれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2025-04-08T10:18:09+09:00",
+  "amendment_promulgate_date": "2025-03-26",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "507M60000002022_20261130_508M60000002081",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-11-30",
+   "amendment_law_id": "508M60000002081",
+   "amendment_law_title": "公認会計士法の規定による課徴金に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "507M60000002022_20250401_000000000000000",
+   "amendment_promulgate_date": "2025-03-26",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において使用する用語は、公認会計士法（昭和二十三年法律第百三号）及び公認会計士法の審判手続における参考人及び鑑定人の旅費及び手当に関する政令（以下「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2025-03-26",
+  "fetched_at": "2026-10-06",
+  "updated": "2025-04-08T10:18:09+09:00"
+ }
+}

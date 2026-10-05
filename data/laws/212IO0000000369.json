@@ -1,0 +1,90 @@
+{
+ "law_info": {
+  "law_type": "ImperialOrder",
+  "law_id": "212IO0000000369",
+  "law_num": "大正十二年勅令第三百六十九号",
+  "law_num_era": "Taisho",
+  "law_num_year": 12,
+  "law_num_type": "ImperialOrder",
+  "law_num_num": "369",
+  "promulgation_date": "1923-08-22"
+ },
+ "revision_info": {
+  "law_revision_id": "212IO0000000369_20261001_508CO0000000282",
+  "law_type": "ImperialOrder",
+  "law_title": "恩給給与規則",
+  "law_title_kana": "おんきゅうきゅうよきそく",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-10-05T11:22:32+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000282",
+  "amendment_law_title": "恩給給与規則及び国会議員互助年金法施行令を廃止する等の政令附則第二項の規定によりなおその効力を有するものとされた同令第一条の規定による廃止前の国会議員互助年金法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百八十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "212IO0000000369_20261001_508CO0000000282",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000282",
+   "amendment_law_title": "恩給給与規則及び国会議員互助年金法施行令を廃止する等の政令附則第二項の規定によりなおその効力を有するものとされた同令第一条の規定による廃止前の国会議員互助年金法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "212IO0000000369_20250601_507CO0000000193",
+   "amendment_promulgate_date": "2025-05-23",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "507CO0000000193",
+   "amendment_law_title": "刑法等の一部を改正する法律及び刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律の施行に伴う関係政令の整理等及び経過措置に関する政令",
+   "amendment_law_num": "令和七年政令第百九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "212IO0000000369_20220401_504CO0000000040",
+   "amendment_promulgate_date": "2022-02-14",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000040",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う恩給給与規則の規定の整備及び経過措置に関する政令",
+   "amendment_law_num": "令和四年政令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "212IO0000000369_20160601_428CO0000000199",
+   "amendment_promulgate_date": "2016-04-15",
+   "amendment_enforcement_date": "2016-06-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "428CO0000000199",
+   "amendment_law_title": "刑法等の一部を改正する法律及び薬物使用等の罪を犯した者に対する刑の一部の執行猶予に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第百九十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "普通恩給ヲ受ケムトスル者ハ普通恩給請求書ヲ、増加恩給、傷病年金又ハ傷病賜金ヲ受ケムトスル者ハ公務傷病ニ因ル恩給請求書ヲ退職当時ノ本属庁ヲ経テ裁定庁ニ差出スヘシ"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1923-08-22",
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-05T11:22:32+09:00"
+ }
+}
