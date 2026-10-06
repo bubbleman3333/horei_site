@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "355M50000400030",
+  "law_num": "昭和五十五年通商産業省令第三十号",
+  "law_num_era": "Showa",
+  "law_num_year": 55,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "030",
+  "promulgation_date": "1980-08-19"
+ },
+ "revision_info": {
+  "law_revision_id": "355M50000400030_20190701_501M60000400017",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "経済産業省特定業種石油等消費統計調査規則",
+  "law_title_kana": "けいざいさんぎょうしょうとくていぎょうしゅせきゆとうしょうひとうけいちょうさきそく",
+  "abbrev": null,
+  "category": "統計",
+  "updated": "2022-07-29T17:33:26+09:00",
+  "amendment_promulgate_date": "2019-07-01",
+  "amendment_enforcement_date": "2019-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "501M60000400017",
+  "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+  "amendment_law_num": "令和元年経済産業省令第十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "355M50000400030_20270101_508M60000400071",
+   "amendment_promulgate_date": "2026-09-24",
+   "amendment_enforcement_date": "2027-01-01",
+   "amendment_law_id": "508M60000400071",
+   "amendment_law_title": "経済産業省特定業種石油等消費統計調査規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "355M50000400030_20190701_501M60000400017",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000400017",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
+   "amendment_law_num": "令和元年経済産業省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "355M50000400030_20160101_427M60000400066",
+   "amendment_promulgate_date": "2015-09-17",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_law_id": "427M60000400066",
+   "amendment_law_num": "平成二十七年経済産業省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（省令の目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "統計法（平成十九年法律第五十三号。以下「法」という。）第二条第四項に規定する基幹統計である経済産業省特定業種石油等消費統計を作成するための調査（以下「石油等消費統計調査」という。）の施行に関しては、この省令の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1980-08-19",
+  "fetched_at": "2026-10-06",
+  "updated": "2022-07-29T17:33:26+09:00"
+ }
+}

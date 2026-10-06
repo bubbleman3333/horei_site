@@ -10,20 +10,20 @@
   "promulgation_date": "2008-10-31"
  },
  "revision_info": {
-  "law_revision_id": "420CO0000000334_20250401_507CO0000000019",
+  "law_revision_id": "420CO0000000334_20261001_508CO0000000286",
   "law_type": "CabinetOrder",
   "law_title": "統計法施行令",
   "law_title_kana": "とうけいほうしこうれい",
   "abbrev": null,
   "category": "統計",
-  "updated": "2025-09-25T19:14:27+09:00",
-  "amendment_promulgate_date": "2025-01-29",
-  "amendment_enforcement_date": "2025-04-01",
+  "updated": "2026-10-06T09:34:09+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000019",
-  "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和七年政令第十九号",
+  "amendment_law_id": "508CO0000000286",
+  "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百八十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "420CO0000000334_20261001_508CO0000000286",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000286",
+   "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "420CO0000000334_20250401_507CO0000000019",
    "amendment_promulgate_date": "2025-01-29",
    "amendment_enforcement_date": "2025-04-01",
@@ -49,7 +59,7 @@
    "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和七年政令第十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "420CO0000000334_20240216_505CO0000000379",
@@ -223,16 +233,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（公的統計の作成主体となるべき法人）",
-  "title": "第一条",
-  "paragraphs": [
-   "統計法（以下「法」という。）第二条第二項第二号の政令で定める法人は、沖縄科学技術大学院大学学園、沖縄振興開発金融公庫、外国人技能実習機構、株式会社国際協力銀行、株式会社日本政策金融公庫、株式会社日本貿易保険、金融経済教育推進機構、原子力損害賠償・廃炉等支援機構、国立健康危機管理研究機構、国立大学法人、大学共同利用機関法人、脱炭素成長型経済構造移行推進機構、日本銀行、日本司法支援センター、日本私立学校振興・共済事業団、日本中央競馬会、日本年金機構、農水産業協同組合貯金保険機構、福島国際研究教育機構、放送大学学園及び預金保険機構とする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2008-10-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-09-25T19:14:27+09:00"
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:34:09+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "1988-03-23"
  },
  "revision_info": {
-  "law_revision_id": "363CO0000000050_20260424_508CO0000000145",
+  "law_revision_id": "363CO0000000050_20260916_508CO0000000285",
   "law_type": "CabinetOrder",
   "law_title": "通貨の単位及び貨幣の発行等に関する法律施行令",
   "law_title_kana": "つうかのたんいおよびかへいのはっこうとうにかんするほうりつせこうれい",
   "abbrev": "貨幣法施行令,通貨法施行令",
   "category": "財務通則",
-  "updated": "2026-05-18T10:40:39+09:00",
-  "amendment_promulgate_date": "2026-04-24",
-  "amendment_enforcement_date": "2026-04-24",
+  "updated": "2026-10-06T09:40:00+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-09-16",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000145",
+  "amendment_law_id": "508CO0000000285",
   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第百四十五号",
+  "amendment_law_num": "令和八年政令第二百八十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "363CO0000000050_20260916_508CO0000000285",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-09-16",
+   "amendment_law_id": "508CO0000000285",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "363CO0000000050_20260424_508CO0000000145",
    "amendment_promulgate_date": "2026-04-24",
    "amendment_enforcement_date": "2026-04-24",
@@ -39,7 +49,7 @@
    "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第百四十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "363CO0000000050_20260401_508CO0000000111",
@@ -268,16 +278,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（貨幣の素材等）",
-  "title": "第一条",
-  "paragraphs": [
-   "貨幣の素材、品位、量目及び形式は、次条に定めるものを除き、別表第一に定めるところによる。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1988-03-23",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-18T10:40:39+09:00"
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:40:00+09:00"
  }
 }

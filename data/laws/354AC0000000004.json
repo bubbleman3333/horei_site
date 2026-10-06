@@ -16,7 +16,7 @@
   "law_title_kana": "みんじしっこうほう",
   "abbrev": "民執法",
   "category": "民事",
-  "updated": "2026-05-21T01:41:40+09:00",
+  "updated": "2026-10-06T09:35:55+09:00",
   "amendment_promulgate_date": "2023-06-14",
   "amendment_enforcement_date": "2026-05-21",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -75,7 +75,7 @@
    "amendment_law_title": "民事関係手続等における情報通信技術の活用等の推進を図るための関係法律の整備に関する法律",
    "amendment_law_num": "令和五年法律第五十三号",
    "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "354AC0000000004_20260521_504AC0000000048",
@@ -314,7 +314,7 @@
  },
  "_meta": {
   "first_seen": "1979-03-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-21T01:41:40+09:00"
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:35:55+09:00"
  }
 }

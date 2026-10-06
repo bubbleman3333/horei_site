@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "416M60001FCA002_20270104_508M60001FCA006",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2027-01-04",
+   "amendment_law_id": "508M60001FCA006",
+   "amendment_law_title": "対内直接投資等に関する命令及び外国為替法令に係る情報通信技術を活用した行政の推進等に関する法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・総務省・財務省・文部科学省・厚生労働省・農林水産省・経済産業省・国土交通省・環境省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "416M60001FCA002_20270104_508M60001FCA005",
    "amendment_promulgate_date": "2026-09-09",
    "amendment_enforcement_date": "2027-01-04",
@@ -126,7 +136,7 @@
  },
  "_meta": {
   "first_seen": "2004-12-01",
-  "fetched_at": "2026-09-29",
+  "fetched_at": "2026-10-06",
   "updated": "2024-03-12T15:57:03+09:00"
  }
 }

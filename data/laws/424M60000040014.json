@@ -1,0 +1,71 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "424M60000040014",
+  "law_num": "平成二十四年財務省令第十四号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "014",
+  "promulgation_date": "2012-03-26"
+ },
+ "revision_info": {
+  "law_revision_id": "424M60000040014_20260918_508M60000042005",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "株式会社国際協力銀行法施行規則",
+  "law_title_kana": "かぶしきがいしゃこくさいきょうりょくぎんこうほうしこうきそく",
+  "abbrev": "新ＪＢＩＣ法施行規則",
+  "category": "金融・保険",
+  "updated": "2026-10-06T09:58:21+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-09-18",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000042005",
+  "amendment_law_title": "株式会社国際協力銀行法施行規則",
+  "amendment_law_num": "令和八年内閣府・財務省令第五号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-09-18",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424M60000040014_20260918_508M60000042005",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-09-18",
+   "amendment_law_id": "508M60000042005",
+   "amendment_law_title": "株式会社国際協力銀行法施行規則",
+   "amendment_law_num": "令和八年内閣府・財務省令第五号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "424M60000040014_20231001_505M60000040052",
+   "amendment_promulgate_date": "2023-09-21",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000040052",
+   "amendment_law_title": "株式会社国際協力銀行法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年財務省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040014_20161001_428M60000040068",
+   "amendment_promulgate_date": "2016-09-30",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_law_id": "428M60000040068",
+   "amendment_law_num": "平成二十八年財務省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2012-03-26",
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:58:21+09:00"
+ }
+}

@@ -10,20 +10,20 @@
   "promulgation_date": "1993-04-30"
  },
  "revision_info": {
-  "law_revision_id": "405CO0000000163_20260424_508CO0000000145",
+  "law_revision_id": "405CO0000000163_20260916_508CO0000000285",
   "law_type": "CabinetOrder",
   "law_title": "皇太子徳仁親王の婚姻を記念するための五万円の貨幣の形式等に関する政令",
   "law_title_kana": "こうたいしなるひとしんのうのこんいんをきねんするためのごまんえんのかへいのけいしきとうにかんするせいれい",
   "abbrev": null,
   "category": "財務通則",
-  "updated": "2026-05-18T10:40:42+09:00",
-  "amendment_promulgate_date": "2026-04-24",
-  "amendment_enforcement_date": "2026-04-24",
+  "updated": "2026-10-06T09:40:23+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-09-16",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000145",
+  "amendment_law_id": "508CO0000000285",
   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第百四十五号",
+  "amendment_law_num": "令和八年政令第二百八十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "405CO0000000163_20260916_508CO0000000285",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-09-16",
+   "amendment_law_id": "508CO0000000285",
+   "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百八十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "405CO0000000163_20260424_508CO0000000145",
    "amendment_promulgate_date": "2026-04-24",
    "amendment_enforcement_date": "2026-04-24",
@@ -39,7 +49,7 @@
    "amendment_law_title": "通貨の単位及び貨幣の発行等に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第百四十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "405CO0000000163_20260401_508CO0000000111",
@@ -196,16 +206,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（素材等）",
-  "title": "第一条",
-  "paragraphs": [
-   "皇太子徳仁親王の婚姻を記念するための五万円の貨幣の発行に関する法律第一条の規定により発行する貨幣の素材、品位、量目及び形式を次のように定める。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1993-04-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-18T10:40:42+09:00"
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:40:23+09:00"
  }
 }

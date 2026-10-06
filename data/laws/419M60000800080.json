@@ -1,0 +1,125 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60000800080",
+  "law_num": "平成十九年国土交通省令第八十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "080",
+  "promulgation_date": "2007-09-26"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60000800080_20250401_506M60000800109",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地域公共交通の活性化及び再生に関する法律施行規則",
+  "law_title_kana": "ちいきこうきょうこうつうのかっせいかおよびさいせいにかんするほうりつしこうきそく",
+  "abbrev": "地域公共交通活性化法施行規則,地域公共交通活性化・再生法施行規則",
+  "category": "陸運",
+  "updated": "2025-04-02T09:17:11+09:00",
+  "amendment_promulgate_date": "2024-12-27",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000800109",
+  "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+  "amendment_law_num": "令和六年国土交通省令第百九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60000800080_20261016_508M60000800074",
+   "amendment_promulgate_date": "2026-09-18",
+   "amendment_enforcement_date": "2026-10-16",
+   "amendment_law_id": "508M60000800074",
+   "amendment_law_title": "地域公共交通の活性化及び再生に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419M60000800080_20250401_506M60000800109",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800109",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60000800080_20240401_506M60000800003",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800003",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000800080_20231001_505M60000800073",
+   "amendment_promulgate_date": "2023-09-22",
+   "amendment_enforcement_date": "2023-10-01",
+   "amendment_law_id": "505M60000800073",
+   "amendment_law_title": "地域公共交通の活性化及び再生に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和五年国土交通省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000800080_20230701_505M60000800055",
+   "amendment_promulgate_date": "2023-06-30",
+   "amendment_enforcement_date": "2023-07-01",
+   "amendment_law_id": "505M60000800055",
+   "amendment_law_title": "地域公共交通の活性化及び再生に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第五十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000800080_20201127_502M60000800093",
+   "amendment_promulgate_date": "2020-11-27",
+   "amendment_enforcement_date": "2020-11-27",
+   "amendment_law_id": "502M60000800093",
+   "amendment_law_title": "持続可能な運送サービスの提供の確保に資する取組を推進するための地域公共交通の活性化及び再生に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000800080_20150826_427M60000800064",
+   "amendment_promulgate_date": "2015-08-25",
+   "amendment_enforcement_date": "2015-08-26",
+   "amendment_law_id": "427M60000800064",
+   "amendment_law_num": "平成二十七年国土交通省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第一章の二　基本方針",
+  "第二章　地域公共交通計画の作成及び実施",
+  "第三章　再構築方針の作成等",
+  "第四章　新地域旅客運送事業の円滑化",
+  "第五章　新モビリティサービス事業の円滑化",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、地域公共交通の活性化及び再生に関する法律（以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-09-26",
+  "fetched_at": "2026-10-06",
+  "updated": "2025-04-02T09:17:11+09:00"
+ }
+}

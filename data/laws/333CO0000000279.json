@@ -1,0 +1,61 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "333CO0000000279",
+  "law_num": "昭和三十三年政令第二百七十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 33,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "279",
+  "promulgation_date": "1958-09-29"
+ },
+ "revision_info": {
+  "law_revision_id": "333CO0000000279_20260916_508CO0000000297",
+  "law_type": "CabinetOrder",
+  "law_title": "お年玉付郵便葉書等に関する法律施行令",
+  "law_title_kana": "おとしだまつきゆうびんはがきとうにかんするほうりつしこうれい",
+  "abbrev": "お年玉法施行令",
+  "category": "郵務",
+  "updated": "2026-10-06T09:44:22+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-09-16",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000297",
+  "amendment_law_title": "お年玉付郵便葉書等に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百九十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "333CO0000000279_20260916_508CO0000000297",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-09-16",
+   "amendment_law_id": "508CO0000000297",
+   "amendment_law_title": "お年玉付郵便葉書等に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第二百九十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "333CO0000000279_20121001_424CO0000000202",
+   "amendment_promulgate_date": "2012-07-25",
+   "amendment_enforcement_date": "2012-10-01",
+   "amendment_law_id": "424CO0000000202",
+   "amendment_law_num": "平成二十四年政令第二百二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "1958-09-29",
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:44:22+09:00"
+ }
+}

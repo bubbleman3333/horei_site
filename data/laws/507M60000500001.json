@@ -10,21 +10,21 @@
   "promulgation_date": "2025-12-26"
  },
  "revision_info": {
-  "law_revision_id": "507M60000500001_20251226_000000000000000",
+  "law_revision_id": "507M60000500001_20260918_508M60000500001",
   "law_type": "MinisterialOrdinance",
   "law_title": "厚生労働省・経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令",
   "law_title_kana": "こうせいろうどうしょう・けいざいさんぎょうしょうかんけいけいざいしさくをいったいてきにこうずることによるあんぜんほしょうのかくほのすいしんにかんするほうりつにもとづくきょうきゅうかくほけいかくのにんていとうにかんするしょうれい",
   "abbrev": null,
   "category": "産業通則",
-  "updated": "2026-01-21T00:20:13+09:00",
-  "amendment_promulgate_date": "2025-12-26",
-  "amendment_enforcement_date": "2025-12-26",
+  "updated": "2026-10-06T09:53:23+09:00",
+  "amendment_promulgate_date": "2026-09-18",
+  "amendment_enforcement_date": "2026-09-18",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": null,
-  "amendment_law_title": null,
-  "amendment_law_num": null,
-  "amendment_type": "1",
+  "amendment_law_id": "508M60000500001",
+  "amendment_law_title": "厚生労働省・経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省・経済産業省令第一号",
+  "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
@@ -32,24 +32,28 @@
  },
  "revisions": [
   {
+   "law_revision_id": "507M60000500001_20260918_508M60000500001",
+   "amendment_promulgate_date": "2026-09-18",
+   "amendment_enforcement_date": "2026-09-18",
+   "amendment_law_id": "508M60000500001",
+   "amendment_law_title": "厚生労働省・経済産業省関係経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律に基づく供給確保計画の認定等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省・経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "507M60000500001_20251226_000000000000000",
    "amendment_promulgate_date": "2025-12-26",
    "amendment_enforcement_date": "2025-12-26",
    "amendment_type": "1",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（定義）",
-  "title": "第一条",
-  "paragraphs": [
-   "この省令において使用する用語は、経済施策を一体的に講ずることによる安全保障の確保の推進に関する法律（以下「法」という。）において使用する用語の例による。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2025-12-26",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-01-21T00:20:13+09:00"
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:53:23+09:00"
  }
 }

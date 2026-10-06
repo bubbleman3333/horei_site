@@ -10,20 +10,20 @@
   "promulgation_date": "1998-12-03"
  },
  "revision_info": {
-  "law_revision_id": "410M50000200083_20260731_508M60000200053",
+  "law_revision_id": "410M50000200083_20260924_508M60000200068",
   "law_type": "MinisterialOrdinance",
   "law_title": "種苗法施行規則",
   "law_title_kana": "しゅびょうほうしこうきそく",
   "abbrev": null,
   "category": "農業",
-  "updated": "2026-08-18T11:32:53+09:00",
-  "amendment_promulgate_date": "2026-07-31",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-10-06T09:55:46+09:00",
+  "amendment_promulgate_date": "2026-09-24",
+  "amendment_enforcement_date": "2026-09-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000200053",
-  "amendment_law_title": "種苗法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年農林水産省令第五十三号",
+  "amendment_law_id": "508M60000200068",
+  "amendment_law_title": "農林水産省関係福島復興再生特別措置法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第六十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "410M50000200083_20260924_508M60000200068",
+   "amendment_promulgate_date": "2026-09-24",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "508M60000200068",
+   "amendment_law_title": "農林水産省関係福島復興再生特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "410M50000200083_20260731_508M60000200053",
    "amendment_promulgate_date": "2026-07-31",
    "amendment_enforcement_date": "2026-07-31",
@@ -39,7 +49,7 @@
    "amendment_law_title": "種苗法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年農林水産省令第五十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "410M50000200083_20260724_508M60000200052",
@@ -233,16 +243,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（農林水産植物の区分）",
-  "title": "第一条",
-  "paragraphs": [
-   "種苗法（以下「法」という。）第二条第七項の農林水産省令で定める区分は、別表第一の左欄に掲げるとおりとし、各区分に属する農林水産植物は、それぞれ相当中欄に掲げるとおりとする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1998-12-03",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-18T11:32:53+09:00"
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:55:46+09:00"
  }
 }

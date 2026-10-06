@@ -10,20 +10,20 @@
   "promulgation_date": "1976-09-28"
  },
  "revision_info": {
-  "law_revision_id": "351CO0000000252_20260401_507CO0000000395",
+  "law_revision_id": "351CO0000000252_20261001_508CO0000000286",
   "law_type": "CabinetOrder",
   "law_title": "高年齢者等の雇用の安定等に関する法律施行令",
   "law_title_kana": "こうねんれいしゃとうのこようのあんていとうにかんするほうりつしこうれい",
   "abbrev": "高年齢者雇用安定法施行令",
   "category": "労働",
-  "updated": "2026-04-01T06:54:56+09:00",
-  "amendment_promulgate_date": "2025-11-28",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-06T09:44:59+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000395",
-  "amendment_law_title": "独立行政法人男女共同参画機構法の施行に伴う関係政令の整備及び経過措置に関する政令",
-  "amendment_law_num": "令和七年政令第三百九十五号",
+  "amendment_law_id": "508CO0000000286",
+  "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第二百八十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "351CO0000000252_20261001_508CO0000000286",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000286",
+   "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第二百八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "351CO0000000252_20260401_507CO0000000395",
    "amendment_promulgate_date": "2025-11-28",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "独立行政法人男女共同参画機構法の施行に伴う関係政令の整備及び経過措置に関する政令",
    "amendment_law_num": "令和七年政令第三百九十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "351CO0000000252_20250401_507CO0000000019",
@@ -123,16 +133,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "",
-  "title": "第一条",
-  "paragraphs": [
-   "高年齢者等の雇用の安定等に関する法律（以下「法」という。）第三十二条第一項の政令で定める法人は、国立研究開発法人森林研究・整備機構、独立行政法人鉄道建設・運輸施設整備支援機構、独立行政法人都市再生機構及び独立行政法人水資源機構とする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1976-09-28",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-01T06:54:56+09:00"
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:44:59+09:00"
  }
 }

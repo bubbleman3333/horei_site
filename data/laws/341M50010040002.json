@@ -1,0 +1,81 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "341M50010040002",
+  "law_num": "昭和四十一年大蔵省・農林省令第二号",
+  "law_num_era": "Showa",
+  "law_num_year": 41,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "1966-06-29"
+ },
+ "revision_info": {
+  "law_revision_id": "341M50010040002_20261001_508M60000202012",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農業信用保証保険法施行規則",
+  "law_title_kana": "のうぎょうしんようほしょうほけんほうしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-10-06T09:55:07+09:00",
+  "amendment_promulgate_date": "2026-09-18",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000202012",
+  "amendment_law_title": "農業信用保証保険法施行規則の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・農林水産省令第十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "341M50010040002_20261001_508M60000202012",
+   "amendment_promulgate_date": "2026-09-18",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000202012",
+   "amendment_law_title": "農業信用保証保険法施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・農林水産省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "341M50010040002_20231228_505M60000202006",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000202006",
+   "amendment_law_title": "農業信用保証保険法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和五年内閣府・農林水産省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50010040002_20210901_503M60000202009",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000202009",
+   "amendment_law_title": "農業信用保証保険法施行規則等の一部を改正する命令",
+   "amendment_law_num": "令和三年内閣府・農林水産省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "341M50010040002_20060401_418M60000202001",
+   "amendment_promulgate_date": "2006-03-30",
+   "amendment_enforcement_date": "2006-04-01",
+   "amendment_law_id": "418M60000202001",
+   "amendment_law_num": "平成十八年内閣府・農林水産省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "1966-06-29",
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:55:07+09:00"
+ }
+}

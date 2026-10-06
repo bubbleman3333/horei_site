@@ -1,0 +1,82 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "424M60000040015",
+  "law_num": "平成二十四年財務省令第十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "015",
+  "promulgation_date": "2012-03-26"
+ },
+ "revision_info": {
+  "law_revision_id": "424M60000040015_20260918_508M60000042006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "株式会社国際協力銀行の会計に関する省令",
+  "law_title_kana": "かぶしきがいしゃこくさいきょうりょくぎんこうのかいけいにかんするしょうれい",
+  "abbrev": null,
+  "category": "金融・保険",
+  "updated": "2026-10-06T09:59:39+09:00",
+  "amendment_promulgate_date": "2026-09-16",
+  "amendment_enforcement_date": "2026-09-18",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000042006",
+  "amendment_law_title": "株式会社国際協力銀行の会計に関する命令",
+  "amendment_law_num": "令和八年内閣府・財務省令第六号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-09-18",
+  "mission": "New",
+  "current_revision_status": "Repeal"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424M60000040015_20260918_508M60000042006",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-09-18",
+   "amendment_law_id": "508M60000042006",
+   "amendment_law_title": "株式会社国際協力銀行の会計に関する命令",
+   "amendment_law_num": "令和八年内閣府・財務省令第六号",
+   "amendment_type": "8",
+   "current_revision_status": "Repeal"
+  },
+  {
+   "law_revision_id": "424M60000040015_20220331_502M60000040003",
+   "amendment_promulgate_date": "2020-01-24",
+   "amendment_enforcement_date": "2022-03-31",
+   "amendment_law_id": "502M60000040003",
+   "amendment_law_title": "株式会社国際協力銀行の会計に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040015_20210331_503M60000040007",
+   "amendment_promulgate_date": "2021-03-29",
+   "amendment_enforcement_date": "2021-03-31",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000040007",
+   "amendment_law_title": "株式会社国際協力銀行の会計に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和三年財務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "424M60000040015_20161001_428M60000040067",
+   "amendment_promulgate_date": "2016-09-30",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_law_id": "428M60000040067",
+   "amendment_law_num": "平成二十八年財務省令第六十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2012-03-26",
+  "fetched_at": "2026-10-06",
+  "updated": "2026-10-06T09:59:39+09:00"
+ }
+}
