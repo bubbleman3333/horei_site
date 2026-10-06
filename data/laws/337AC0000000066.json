@@ -10,25 +10,25 @@
   "promulgation_date": "1962-04-02"
  },
  "revision_info": {
-  "law_revision_id": "337AC0000000066_20260521_505AC0000000003",
+  "law_revision_id": "337AC0000000066_20260624_508AC0000000046",
   "law_type": "Act",
   "law_title": "国税通則法",
   "law_title_kana": "こくぜいつうそくほう",
   "abbrev": null,
   "category": "国税",
-  "updated": "2026-05-25T00:25:18+09:00",
-  "amendment_promulgate_date": "2023-03-31",
-  "amendment_enforcement_date": "2026-05-21",
+  "updated": "2026-10-06T13:10:19+09:00",
+  "amendment_promulgate_date": "2026-06-24",
+  "amendment_enforcement_date": "2026-06-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "505AC0000000003",
-  "amendment_law_title": "所得税法等の一部を改正する法律",
-  "amendment_law_num": "令和五年法律第三号",
+  "amendment_law_id": "508AC0000000046",
+  "amendment_law_title": "民法等の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第四十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -462,7 +462,7 @@
  },
  "_meta": {
   "first_seen": "1962-04-02",
-  "fetched_at": "2026-10-01",
-  "updated": "2026-05-25T00:25:18+09:00"
+  "fetched_at": "2026-10-07",
+  "updated": "2026-10-06T13:10:19+09:00"
  }
 }
