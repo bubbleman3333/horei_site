@@ -16,7 +16,7 @@
   "law_title_kana": "いやくひんいりょうききとうのひんしつゆうこうせいおよびあんぜんせいのかくほとうにかんするほうりつしこうきそく",
   "abbrev": "薬事法施行規則,医薬品医療機器等法施行規則,薬機法施行規則",
   "category": "厚生",
-  "updated": "2026-10-01T02:56:03+09:00",
+  "updated": "2026-10-07T13:12:42+09:00",
   "amendment_promulgate_date": "2026-06-25",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
@@ -62,6 +62,16 @@
    "amendment_law_num": "令和八年厚生労働省令第百七号",
    "amendment_type": "3",
    "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "336M50000100001_20260916_508M60000100139",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-09-16",
+   "amendment_law_id": "508M60000100139",
+   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百三十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "336M50000100001_20260824_508M60000100133",
@@ -422,16 +432,6 @@
    "amendment_law_num": "令和五年厚生労働省令第七十五号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "336M50000100001_20230401_505M60000100061",
-   "amendment_promulgate_date": "2023-03-31",
-   "amendment_enforcement_date": "2023-04-01",
-   "amendment_law_id": "505M60000100061",
-   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律施行規則の一部を改正する省令",
-   "amendment_law_num": "令和五年厚生労働省令第六十一号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -460,7 +460,7 @@
  },
  "_meta": {
   "first_seen": "1961-02-01",
-  "fetched_at": "2026-10-01",
-  "updated": "2026-10-01T02:56:03+09:00"
+  "fetched_at": "2026-10-08",
+  "updated": "2026-10-07T13:12:42+09:00"
  }
 }

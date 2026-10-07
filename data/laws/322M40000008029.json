@@ -16,7 +16,7 @@
   "law_title_kana": "ちほうじちほうせこうきそく",
   "abbrev": "地自法施行規則",
   "category": "地方自治",
-  "updated": "2026-10-01T00:42:51+09:00",
+  "updated": "2026-10-07T12:17:46+09:00",
   "amendment_promulgate_date": "2026-06-30",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
@@ -50,6 +50,16 @@
    "amendment_law_num": "令和八年総務省令第八十六号",
    "amendment_type": "3",
    "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322M40000008029_20260924_508M60000008112",
+   "amendment_promulgate_date": "2026-09-24",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "508M60000008112",
+   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "322M40000008029_20260924_507M60000008087",
@@ -420,16 +430,6 @@
    "amendment_law_num": "平成三十年総務省令第十三号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "322M40000008029_20180401_430M60000008010",
-   "amendment_promulgate_date": "2018-03-19",
-   "amendment_enforcement_date": "2018-04-01",
-   "amendment_law_id": "430M60000008010",
-   "amendment_law_title": "地方自治法施行規則の一部を改正する省令",
-   "amendment_law_num": "平成三十年総務省令第十号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -442,7 +442,7 @@
  },
  "_meta": {
   "first_seen": "1947-05-03",
-  "fetched_at": "2026-10-01",
-  "updated": "2026-10-01T00:42:51+09:00"
+  "fetched_at": "2026-10-08",
+  "updated": "2026-10-07T12:17:46+09:00"
  }
 }

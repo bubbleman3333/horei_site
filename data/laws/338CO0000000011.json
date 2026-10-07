@@ -1,0 +1,101 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "338CO0000000011",
+  "law_num": "昭和三十八年政令第十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 38,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "011",
+  "promulgation_date": "1963-01-28"
+ },
+ "revision_info": {
+  "law_revision_id": "338CO0000000011_20230401_505CO0000000126",
+  "law_type": "CabinetOrder",
+  "law_title": "指定都市又は中核市の指定があつた場合における必要な事項を定める政令",
+  "law_title_kana": "していとしまたはちゅうかくしのしていがあつたばあいにおけるひつようなじこうをさだめるせいれい",
+  "abbrev": null,
+  "category": "地方自治",
+  "updated": "2023-05-15T13:23:12+09:00",
+  "amendment_promulgate_date": "2023-03-30",
+  "amendment_enforcement_date": "2023-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505CO0000000126",
+  "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和五年政令第百二十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "338CO0000000011_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000011_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000011_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000011_20160401_428CO0000000027",
+   "amendment_promulgate_date": "2016-01-29",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000027",
+   "amendment_law_title": "農業協同組合法施行令等の一部を改正する等の政令",
+   "amendment_law_num": "平成二十八年政令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "338CO0000000011_20160401_427CO0000000030",
+   "amendment_promulgate_date": "2015-01-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "427CO0000000030",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　指定都市関係",
+  "第二章　中核市関係"
+ ],
+ "article1": {
+  "caption": "（職員の引継ぎ）",
+  "title": "第一条",
+  "paragraphs": [
+   "地方自治法第二百五十二条の十九第一項の指定都市（以下「指定都市」という。）の指定があつた場合においては、当該指定の日（以下「指定日」という。）の前日において現に都道府県が処理している事務で指定日以後法律又はこれに基づく政令の規定により当該指定都市が処理することとなるものに専ら従事していると認められる都道府県の職員は、指定日において、都道府県において正式任用されていた者にあつては引き続き当該指定都市の相当の職員に正式任用され、都道府県において条件附採用期間中であつた者にあつては引き続き条件附きで当該指定都市の相当の職員となるものとする。この場合において、その者の当該指定都市における条件附採用の期間には、その者の都道府県における条件附採用の期間を通算するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1963-01-28",
+  "fetched_at": "2026-10-08",
+  "updated": "2023-05-15T13:23:12+09:00"
+ }
+}

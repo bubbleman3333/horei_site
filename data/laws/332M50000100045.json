@@ -10,27 +10,37 @@
   "promulgation_date": "1957-12-14"
  },
  "revision_info": {
-  "law_revision_id": "332M50000100045_20260401_507M60001000020",
+  "law_revision_id": "332M50000100045_20260917_508M60001800001",
   "law_type": "MinisterialOrdinance",
   "law_title": "水道法施行規則",
   "law_title_kana": "すいどうほうしこうきそく",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2026-04-15T12:38:43+09:00",
-  "amendment_promulgate_date": "2025-06-30",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-07T12:38:07+09:00",
+  "amendment_promulgate_date": "2026-09-17",
+  "amendment_enforcement_date": "2026-09-17",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60001000020",
+  "amendment_law_id": "508M60001800001",
   "amendment_law_title": "水道法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和七年環境省令第二十号",
+  "amendment_law_num": "令和八年国土交通省・環境省令第一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
+  {
+   "law_revision_id": "332M50000100045_20260917_508M60001800001",
+   "amendment_promulgate_date": "2026-09-17",
+   "amendment_enforcement_date": "2026-09-17",
+   "amendment_law_id": "508M60001800001",
+   "amendment_law_title": "水道法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省・環境省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
   {
    "law_revision_id": "332M50000100045_20260401_508M60001000007",
    "amendment_promulgate_date": "2026-03-27",
@@ -39,7 +49,7 @@
    "amendment_law_title": "水道法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年環境省令第七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "332M50000100045_20260401_507M60001000020",
@@ -257,7 +267,7 @@
  },
  "_meta": {
   "first_seen": "1957-12-14",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-15T12:38:43+09:00"
+  "fetched_at": "2026-10-08",
+  "updated": "2026-10-07T12:38:07+09:00"
  }
 }

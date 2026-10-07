@@ -1,0 +1,126 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "424M60000200033",
+  "law_num": "平成二十四年農林水産省令第三十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "033",
+  "promulgation_date": "2012-05-29"
+ },
+ "revision_info": {
+  "law_revision_id": "424M60000200033_20260924_508M60000200068",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農林水産省関係福島復興再生特別措置法施行規則",
+  "law_title_kana": "のうりんすいさんしょうかんけいふくしまふっこうさいせいとくべつそちほうしこうきそく",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-10-07T13:02:43+09:00",
+  "amendment_promulgate_date": "2026-09-24",
+  "amendment_enforcement_date": "2026-09-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200068",
+  "amendment_law_title": "農林水産省関係福島復興再生特別措置法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424M60000200033_20260924_508M60000200068",
+   "amendment_promulgate_date": "2026-09-24",
+   "amendment_enforcement_date": "2026-09-24",
+   "amendment_law_id": "508M60000200068",
+   "amendment_law_title": "農林水産省関係福島復興再生特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "424M60000200033_20250401_507M60000200016",
+   "amendment_promulgate_date": "2025-03-31",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000200016",
+   "amendment_law_title": "土地改良法等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和七年農林水産省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000200033_20230401_504M60000200066",
+   "amendment_promulgate_date": "2022-11-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "504M60000200066",
+   "amendment_law_title": "農業経営基盤強化促進法等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和四年農林水産省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000200033_20210401_503M60000200015",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000200015",
+   "amendment_law_title": "復興庁設置法等の一部を改正する法律の施行に伴う関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年農林水産省令第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000200033_20201221_502M60000200083",
+   "amendment_promulgate_date": "2020-12-21",
+   "amendment_enforcement_date": "2020-12-21",
+   "amendment_law_id": "502M60000200083",
+   "amendment_law_title": "押印を求める手続等の見直しのための農林水産省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第八十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000200033_20180104_429M60000200064",
+   "amendment_promulgate_date": "2017-11-24",
+   "amendment_enforcement_date": "2018-01-04",
+   "amendment_law_id": "429M60000200064",
+   "amendment_law_title": "農林水産省関係福島復興再生特別措置法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年農林水産省令第六十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000200033_20170519_429M60000200030",
+   "amendment_promulgate_date": "2017-05-19",
+   "amendment_enforcement_date": "2017-05-19",
+   "amendment_law_id": "429M60000200030",
+   "amendment_law_num": "平成二十九年農林水産省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "424M60000200033_20150507_427M60000200051",
+   "amendment_promulgate_date": "2015-05-07",
+   "amendment_enforcement_date": "2015-05-07",
+   "amendment_law_id": "427M60000200051",
+   "amendment_law_num": "平成二十七年農林水産省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（福島農林水産業振興施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "福島復興再生特別措置法施行令（平成二十四年政令第百十五号。以下「令」という。）第一条の農林水産省令で定める施設は、主として次に掲げる事業を行う施設とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-05-29",
+  "fetched_at": "2026-10-08",
+  "updated": "2026-10-07T13:02:43+09:00"
+ }
+}

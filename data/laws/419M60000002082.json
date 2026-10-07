@@ -1,0 +1,134 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60000002082",
+  "law_num": "平成十九年内閣府令第八十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "082",
+  "promulgation_date": "2007-12-07"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60000002082_20250401_507M60000002009",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "公認会計士法の規定による課徴金に関する内閣府令",
+  "law_title_kana": "こうにんかいけいしほうのきていによるかちょうきんにかんするないかくふれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2025-04-02T08:58:14+09:00",
+  "amendment_promulgate_date": "2025-02-07",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507M60000002009",
+  "amendment_law_title": "公認会計士法施行規則及び公認会計士法の規定による課徴金に関する内閣府令の一部を改正する内閣府令",
+  "amendment_law_num": "令和七年内閣府令第九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60000002082_20261130_508M60000002081",
+   "amendment_promulgate_date": "2026-09-16",
+   "amendment_enforcement_date": "2026-11-30",
+   "amendment_law_id": "508M60000002081",
+   "amendment_law_title": "公認会計士法の規定による課徴金に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002082_20250401_507M60000002009",
+   "amendment_promulgate_date": "2025-02-07",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000002009",
+   "amendment_law_title": "公認会計士法施行規則及び公認会計士法の規定による課徴金に関する内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "令和七年内閣府令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002082_20241101_506M60000002091",
+   "amendment_promulgate_date": "2024-10-30",
+   "amendment_enforcement_date": "2024-11-01",
+   "amendment_law_id": "506M60000002091",
+   "amendment_law_title": "資産の流動化に関する法律施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和六年内閣府令第九十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002082_20230401_505M60000002009",
+   "amendment_promulgate_date": "2023-01-25",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000002009",
+   "amendment_law_title": "公認会計士法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和五年内閣府令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002082_20221101_504M60000002061",
+   "amendment_promulgate_date": "2022-10-31",
+   "amendment_enforcement_date": "2022-11-01",
+   "amendment_law_id": "504M60000002061",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和四年内閣府令第六十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002082_20210630_503M60000002044",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-06-30",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "503M60000002044",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和三年内閣府令第四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002082_20201223_502M60000002075",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2020-12-23",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000002075",
+   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和二年内閣府令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "419M60000002082_20160203_428M60000002005",
+   "amendment_promulgate_date": "2016-02-03",
+   "amendment_enforcement_date": "2016-02-03",
+   "amendment_law_id": "428M60000002005",
+   "amendment_law_num": "平成二十八年内閣府令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　課徴金納付命令",
+  "第二章　審判手続"
+ ],
+ "article1": {
+  "caption": "（課徴金の納付を命じないことができる場合等）",
+  "title": "第一条",
+  "paragraphs": [
+   "公認会計士法（以下「法」という。）第三十一条の二第二項第一号（法第十六条の二第六項において準用する場合を含む。）及び第三十四条の二十一の二第二項第一号に規定する内閣府令で定める場合は、法第三十条第一項（法第十六条の二第六項において準用する場合を含む。）又は第三十四条の二十一第二項第一号の財務書類（法第一条の三第一項に規定する財務書類をいう。以下この条において同じ。）に係る虚偽、錯誤又は脱漏により当該財務書類に記載される数値その他の内容の変化が軽微である場合とする。",
+   "法第三十一条の二第二項第二号（法第十六条の二第六項において準用する場合を含む。）及び第三十四条の二十一の二第二項第二号に規定する内閣府令で定める場合は、公認会計士（法第十六条の二第五項に規定する外国公認会計士を含む。）又は監査法人が実施した財務書類の監査又は証明が一般に公正妥当と認められる監査に関する基準及び慣行に照らして著しく不十分であった場合とする。",
+   "法第三十一条の二第二項第三号（法第十六条の二第六項において準用する場合を含む。）及び第三十四条の二十一の二第二項第三号に規定する内閣府令で定めるものは、被監査会社等（法第三十四条の十の四第四項に規定する被監査会社等をいう。）との間で既に締結されている契約に基づく法第二条第一項の業務とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-12-07",
+  "fetched_at": "2026-10-08",
+  "updated": "2025-04-02T08:58:14+09:00"
+ }
+}

@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "332CO0000000321",
+  "law_num": "昭和三十二年政令第三百二十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 32,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "321",
+  "promulgation_date": "1957-11-18"
+ },
+ "revision_info": {
+  "law_revision_id": "332CO0000000321_20260930_508CO0000000308",
+  "law_type": "CabinetOrder",
+  "law_title": "国有提供施設等所在市町村助成交付金に関する法律施行令",
+  "law_title_kana": "こくゆうていきょうしせつとうしょざいしちょうそんじょせいこうふきんにかんするほうりつせこうれい",
+  "abbrev": null,
+  "category": "地方財政",
+  "updated": "2026-10-07T14:05:57+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-09-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000308",
+  "amendment_law_title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+  "amendment_law_num": "令和八年政令第三百八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "332CO0000000321_20260930_508CO0000000308",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-09-30",
+   "amendment_law_id": "508CO0000000308",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和八年政令第三百八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "332CO0000000321_20250324_507CO0000000050",
+   "amendment_promulgate_date": "2025-03-14",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "507CO0000000050",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和七年政令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332CO0000000321_20210701_503CO0000000189",
+   "amendment_promulgate_date": "2021-06-30",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503CO0000000189",
+   "amendment_law_title": "防衛省組織令等の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百八十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "332CO0000000321_20140801_426CO0000000263",
+   "amendment_promulgate_date": "2014-07-24",
+   "amendment_enforcement_date": "2014-08-01",
+   "amendment_law_id": "426CO0000000263",
+   "amendment_law_num": "平成二十六年政令第二百六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第一項の固定資産）",
+  "title": "第一条",
+  "paragraphs": [
+   "国有提供施設等所在市町村助成交付金に関する法律第一項に規定する固定資産で政令で定めるものは、国有財産法（昭和二十三年法律第七十三号）第二条に規定する国有財産で次に掲げるものに該当するものとする。",
+   "前項第三号に掲げる「弾薬庫」とは、自衛隊法施行令（昭和二十九年政令第百七十九号）第四十二条第一項に規定する補給処の支処及び出張所のうち弾薬支処及び弾薬出張所の弾薬の保管、補給及び整備を行うための施設並びにこれらの施設に類する海上自衛隊の地方総監部又は地区総監部が管理する施設をいい、同号に掲げる「燃料庫」とは、同項に規定する補給処の支処及び出張所のうち燃料支処及び燃料出張所の液体燃料又は油脂類の保管、補給及び整備を行うための施設並びにこれらの施設に類する海上自衛隊の地方総監部又は地区総監部が管理する施設をいい、同号に掲げる「通信施設」とは、航空警戒管制又は電波情報の収集整理のため直接必要な施設のうち同令第三十条の十一に規定する防衛大臣の定める部隊又は防衛省設置法（昭和二十九年法律第百六十四号）第十九条第一項に規定する情報本部が管理するものをいう。",
+   "第一項各号に掲げる「土地」、「建物」又は「工作物」とは、それぞれ、国有財産法施行令（昭和二十三年政令第二百四十六号）第二十条の規定により、国有財産法第三十二条の台帳（以下「国有財産台帳」という。）に土地、建物又は工作物として登録されるべきものをいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1957-11-18",
+  "fetched_at": "2026-10-08",
+  "updated": "2026-10-07T14:05:57+09:00"
+ }
+}

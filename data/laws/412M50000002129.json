@@ -10,20 +10,20 @@
   "promulgation_date": "2000-11-17"
  },
  "revision_info": {
-  "law_revision_id": "412M50000002129_20260625_508M60000002057",
+  "law_revision_id": "412M50000002129_20260918_508M60000002082",
   "law_type": "MinisterialOrdinance",
   "law_title": "投資信託及び投資法人に関する法律施行規則",
   "law_title_kana": "とうししんたくおよびとうしほうじんにかんするほうりつしこうきそく",
   "abbrev": "投信法施行規則",
   "category": "金融・保険",
-  "updated": "2026-07-08T10:49:42+09:00",
-  "amendment_promulgate_date": "2026-06-24",
-  "amendment_enforcement_date": "2026-06-25",
+  "updated": "2026-10-07T12:36:10+09:00",
+  "amendment_promulgate_date": "2026-09-18",
+  "amendment_enforcement_date": "2026-09-18",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002057",
-  "amendment_law_title": "金融機能の強化のための特別措置に関する内閣府令等の一部を改正する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第五十七号",
+  "amendment_law_id": "508M60000002082",
+  "amendment_law_title": "投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第八十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "412M50000002129_20260918_508M60000002082",
+   "amendment_promulgate_date": "2026-09-18",
+   "amendment_enforcement_date": "2026-09-18",
+   "amendment_law_id": "508M60000002082",
+   "amendment_law_title": "投資信託及び投資法人に関する法律施行規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "412M50000002129_20260625_508M60000002057",
    "amendment_promulgate_date": "2026-06-24",
    "amendment_enforcement_date": "2026-06-25",
@@ -39,7 +49,7 @@
    "amendment_law_title": "金融機能の強化のための特別措置に関する内閣府令等の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第五十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "412M50000002129_20250624_507M60000002061",
@@ -345,7 +355,7 @@
  },
  "_meta": {
   "first_seen": "2000-11-17",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-08T10:49:42+09:00"
+  "fetched_at": "2026-10-08",
+  "updated": "2026-10-07T12:36:10+09:00"
  }
 }
