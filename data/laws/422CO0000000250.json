@@ -1,0 +1,110 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "422CO0000000250",
+  "law_num": "平成二十二年政令第二百五十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 22,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "250",
+  "promulgation_date": "2010-12-22"
+ },
+ "revision_info": {
+  "law_revision_id": "422CO0000000250_20241202_506CO0000000260",
+  "law_type": "CabinetOrder",
+  "law_title": "公文書等の管理に関する法律施行令",
+  "law_title_kana": "こうぶんしょとうのかんりにかんするほうりつせこうれい",
+  "abbrev": "公文書管理法施行令",
+  "category": "行政手続",
+  "updated": "2024-12-02T02:44:48+09:00",
+  "amendment_promulgate_date": "2024-08-14",
+  "amendment_enforcement_date": "2024-12-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506CO0000000260",
+  "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+  "amendment_law_num": "令和六年政令第二百六十号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "422CO0000000250_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000250_20241202_506CO0000000260",
+   "amendment_promulgate_date": "2024-08-14",
+   "amendment_enforcement_date": "2024-12-02",
+   "amendment_law_id": "506CO0000000260",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "令和六年政令第二百六十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000250_20220401_503CO0000000292",
+   "amendment_promulgate_date": "2021-10-29",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "503CO0000000292",
+   "amendment_law_title": "個人情報の保護に関する法律施行令等の一部を改正する等の政令",
+   "amendment_law_num": "令和三年政令第二百九十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000250_20220126_504CO0000000031",
+   "amendment_promulgate_date": "2022-01-26",
+   "amendment_enforcement_date": "2022-01-26",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "504CO0000000031",
+   "amendment_law_title": "公文書等の管理に関する法律施行令及び内閣府本府組織令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000250_20170530_429CO0000000019",
+   "amendment_promulgate_date": "2017-02-15",
+   "amendment_enforcement_date": "2017-05-30",
+   "amendment_law_id": "429CO0000000019",
+   "amendment_law_title": "行政機関等の保有する個人情報の適正かつ効果的な活用による新たな産業の創出並びに活力ある経済社会及び豊かな国民生活の実現に資するための関係法律の整備に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令",
+   "amendment_law_num": "平成二十九年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "422CO0000000250_20160101_427CO0000000430",
+   "amendment_promulgate_date": "2015-12-18",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_law_id": "427CO0000000430",
+   "amendment_law_title": "公文書等の管理に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第四百三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（法第二条第一項第四号及び第五号の政令で定める機関）",
+  "title": "第一条",
+  "paragraphs": [
+   "公文書等の管理に関する法律（以下「法」という。）第二条第一項第四号の政令で定める特別の機関は、警察庁とする。",
+   "法第二条第一項第五号の政令で定める特別の機関は、検察庁とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2010-12-22",
+  "fetched_at": "2026-10-09",
+  "updated": "2024-12-02T02:44:48+09:00"
+ }
+}

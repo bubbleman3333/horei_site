@@ -10,27 +10,37 @@
   "promulgation_date": "2001-01-06"
  },
  "revision_info": {
-  "law_revision_id": "413M60000800001_20260701_508M60000800062",
+  "law_revision_id": "413M60000800001_20261001_508M60000800078",
   "law_type": "MinisterialOrdinance",
   "law_title": "国土交通省組織規則",
   "law_title_kana": "こくどこうつうしょうそしききそく",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-07-09T09:43:22+09:00",
-  "amendment_promulgate_date": "2026-06-25",
-  "amendment_enforcement_date": "2026-07-01",
+  "updated": "2026-10-08T13:55:23+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000800062",
+  "amendment_law_id": "508M60000800078",
   "amendment_law_title": "国土交通省組織規則の一部を改正する省令",
-  "amendment_law_num": "令和八年国土交通省令第六十二号",
+  "amendment_law_num": "令和八年国土交通省令第七十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
+  {
+   "law_revision_id": "413M60000800001_20261001_508M60000800078",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800078",
+   "amendment_law_title": "国土交通省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
   {
    "law_revision_id": "413M60000800001_20260701_508M60000800062",
    "amendment_promulgate_date": "2026-06-25",
@@ -423,15 +433,6 @@
    "amendment_law_num": "平成二十九年国土交通省令第六十五号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "413M60000800001_20170701_429M60000800040",
-   "amendment_promulgate_date": "2017-06-30",
-   "amendment_enforcement_date": "2017-07-01",
-   "amendment_law_id": "429M60000800040",
-   "amendment_law_num": "平成二十九年国土交通省令第四十号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -448,7 +449,7 @@
  },
  "_meta": {
   "first_seen": "2001-01-06",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-09T09:43:22+09:00"
+  "fetched_at": "2026-10-09",
+  "updated": "2026-10-08T13:55:23+09:00"
  }
 }

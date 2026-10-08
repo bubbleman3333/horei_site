@@ -16,10 +16,10 @@
   "law_title_kana": "にほんがくじゅつかいぎほう",
   "abbrev": null,
   "category": "文化",
-  "updated": "2026-10-01T06:41:49+09:00",
+  "updated": "2026-10-08T18:04:34+09:00",
   "amendment_promulgate_date": "2025-06-18",
   "amendment_enforcement_date": "2026-10-01",
-  "amendment_enforcement_comment": "",
+  "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": null,
   "amendment_law_title": null,
@@ -35,7 +35,6 @@
    "law_revision_id": "507AC0000000070_20261001_000000000000000",
    "amendment_promulgate_date": "2025-06-18",
    "amendment_enforcement_date": "2026-10-01",
-   "amendment_enforcement_comment": "",
    "amendment_type": "1",
    "current_revision_status": "CurrentEnforced"
   },
@@ -65,7 +64,7 @@
  },
  "_meta": {
   "first_seen": "2025-06-18",
-  "fetched_at": "2026-10-01",
-  "updated": "2026-10-01T06:41:49+09:00"
+  "fetched_at": "2026-10-09",
+  "updated": "2026-10-08T18:04:34+09:00"
  }
 }

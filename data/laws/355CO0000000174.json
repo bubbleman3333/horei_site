@@ -1,0 +1,68 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "355CO0000000174",
+  "law_num": "昭和五十五年政令第百七十四号",
+  "law_num_era": "Showa",
+  "law_num_year": 55,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "174",
+  "promulgation_date": "1980-06-20"
+ },
+ "revision_info": {
+  "law_revision_id": "355CO0000000174_20140625_426CO0000000225",
+  "law_type": "CabinetOrder",
+  "law_title": "地震防災対策強化地域における地震対策緊急整備事業に係る国の財政上の特別措置に関する法律施行令",
+  "law_title_kana": "じしんぼうさいたいさくきょうかちいきにおけるじしんたいさくきんきゅうせいびじぎょうにかかるくにのざいせいじょうのとくべつそちにかんするほうりつしこうれい",
+  "abbrev": "地震財特法施行令",
+  "category": "災害対策",
+  "updated": "2023-11-13T08:39:29+09:00",
+  "amendment_promulgate_date": "2014-06-25",
+  "amendment_enforcement_date": "2014-06-25",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "426CO0000000225",
+  "amendment_law_title": null,
+  "amendment_law_num": "平成二十六年政令第二百二十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "355CO0000000174_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "355CO0000000174_20140625_426CO0000000225",
+   "amendment_promulgate_date": "2014-06-25",
+   "amendment_enforcement_date": "2014-06-25",
+   "amendment_law_id": "426CO0000000225",
+   "amendment_law_num": "平成二十六年政令第二百二十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（国の負担又は補助の特例等に係る交付金等）",
+  "title": "第一条",
+  "paragraphs": [
+   "地震防災対策強化地域における地震対策緊急整備事業に係る国の財政上の特別措置に関する法律（以下「法」という。）第四条第三項の政令で定める交付金は、次に掲げる交付金とする。",
+   "法第四条第三項の規定により算定する交付金の額は、同項の事業に要する経費に対する通常の国の交付金の額に、当該経費について同条第一項又は第二項の規定を適用したとするならば国が負担し、又は補助することとなる割合を参酌して内閣府令で定めるところにより算定した額を加算する方法により算定するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1980-06-20",
+  "fetched_at": "2026-10-09",
+  "updated": "2023-11-13T08:39:29+09:00"
+ }
+}
