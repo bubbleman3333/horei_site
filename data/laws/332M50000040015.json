@@ -10,25 +10,25 @@
   "promulgation_date": "1957-03-31"
  },
  "revision_info": {
-  "law_revision_id": "332M50000040015_20260901_507M60000040026",
+  "law_revision_id": "332M50000040015_20260901_508M60000040021",
   "law_type": "MinisterialOrdinance",
   "law_title": "租税特別措置法施行規則",
   "law_title_kana": "そぜいとくべつそちほうしこうきそく",
   "abbrev": "租特法施行規則",
   "category": "国税",
-  "updated": "2026-08-17T14:55:30+09:00",
-  "amendment_promulgate_date": "2025-03-31",
+  "updated": "2026-10-09T17:59:05+09:00",
+  "amendment_promulgate_date": "2026-03-31",
   "amendment_enforcement_date": "2026-09-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000040026",
+  "amendment_law_id": "508M60000040021",
   "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
-  "amendment_law_num": "令和七年財務省令第二十六号",
+  "amendment_law_num": "令和八年財務省令第二十一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -462,7 +462,7 @@
  },
  "_meta": {
   "first_seen": "1957-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-17T14:55:30+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T17:59:05+09:00"
  }
 }

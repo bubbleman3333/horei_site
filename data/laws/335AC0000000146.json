@@ -28,21 +28,9 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
-  {
-   "law_revision_id": "335AC0000000146_20270604_508AC0000000031",
-   "amendment_promulgate_date": "2026-06-05",
-   "amendment_enforcement_date": "2027-06-04",
-   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2027-06-04",
-   "amendment_law_id": "508AC0000000031",
-   "amendment_law_title": "健康保険法等の一部を改正する法律",
-   "amendment_law_num": "令和八年法律第三十一号",
-   "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
-  },
   {
    "law_revision_id": "335AC0000000146_20270520_507AC0000000037",
    "amendment_promulgate_date": "2025-05-21",
@@ -54,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "335AC0000000146_20270301_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-03-01",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "335AC0000000146_20260521_505AC0000000063",
    "amendment_promulgate_date": "2023-06-16",
    "amendment_enforcement_date": "2026-05-21",
@@ -61,7 +59,7 @@
    "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
    "amendment_law_num": "令和五年法律第六十三号",
    "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "335AC0000000146_20251120_507AC0000000037",
@@ -221,7 +219,7 @@
  },
  "_meta": {
   "first_seen": "1960-08-10",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-10",
   "updated": "2026-05-21T01:20:49+09:00"
  }
 }

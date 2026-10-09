@@ -6,24 +6,24 @@
   "law_num_era": "Showa",
   "law_num_year": 48,
   "law_num_type": "Rule",
-  "law_num_num": "16_2",
+  "law_num_num": "16_2_0",
   "promulgation_date": "1973-11-01"
  },
  "revision_info": {
-  "law_revision_id": "348RJNJ16002000_20260401_508RJNJ16002018",
+  "law_revision_id": "348RJNJ16002000_20261001_508RJNJ16000082",
   "law_type": "Rule",
   "law_title": "人事院規則一六―二（在外公館に勤務する職員、船員である職員等に係る災害補償の特例）",
   "law_title_kana": "じんじいんきそくじゅうろくのにざいがいこうかんにきんむするしょくいんせんいんであるしょくいんとうにかかるさいがいほしょうのとくれい",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-04-01T06:46:32+09:00",
-  "amendment_promulgate_date": "2026-02-13",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-09T13:56:35+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508RJNJ16002018",
-  "amendment_law_title": "人事院規則一六―二（在外公館に勤務する職員、船員である職員等に係る災害補償の特例）の一部を改正する人事院規則",
-  "amendment_law_num": "令和八年人事院規則一六―二―一八",
+  "amendment_law_id": "508RJNJ16000082",
+  "amendment_law_title": "人事院規則一六―〇（職員の災害補償）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則一六―〇―八二",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "348RJNJ16002000_20261001_508RJNJ16000082",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508RJNJ16000082",
+   "amendment_law_title": "人事院規則一六―〇（職員の災害補償）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則一六―〇―八二",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "348RJNJ16002000_20260401_508RJNJ16002018",
    "amendment_promulgate_date": "2026-02-13",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "人事院規則一六―二（在外公館に勤務する職員、船員である職員等に係る災害補償の特例）の一部を改正する人事院規則",
    "amendment_law_num": "令和八年人事院規則一六―二―一八",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "348RJNJ16002000_20250401_507RJNJ16002017",
@@ -81,7 +91,7 @@
  },
  "_meta": {
   "first_seen": "1973-11-01",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-01T06:46:32+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T13:56:35+09:00"
  }
 }

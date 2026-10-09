@@ -10,25 +10,25 @@
   "promulgation_date": "1991-07-31"
  },
  "revision_info": {
-  "law_revision_id": "403M50000200038_20260401_507M60000200041",
+  "law_revision_id": "403M50000200038_20260401_508M60000200005",
   "law_type": "MinisterialOrdinance",
   "law_title": "食品等の持続的な供給を実現するための食品等事業者による事業活動の促進及び食品等の取引の適正化に関する法律施行規則",
   "law_title_kana": "しょくひんとうのじぞくてきなきょうきゅうをじつげんするためのしょくひんとうじぎょうしゃによるじぎょうかつどうのそくしんおよびしょくひんとうのとりひきのてきせいかにかんするほうりつしこうきそく",
   "abbrev": null,
   "category": "商業",
-  "updated": "2025-12-17T20:31:20+09:00",
-  "amendment_promulgate_date": "2025-09-18",
+  "updated": "2026-10-09T17:41:55+09:00",
+  "amendment_promulgate_date": "2026-01-30",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000200041",
-  "amendment_law_title": "食品等の流通の合理化及び取引の適正化に関する法律及び卸売市場法の一部を改正する法律の施行に伴う農林水産省関係省令の整備に関する省令",
-  "amendment_law_num": "令和七年農林水産省令第四十一号",
+  "amendment_law_id": "508M60000200005",
+  "amendment_law_title": "食品等の持続的な供給を実現するための食品等事業者による事業活動の促進及び食品等の取引の適正化に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -142,7 +142,7 @@
  },
  "_meta": {
   "first_seen": "1991-07-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-12-17T20:31:20+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T17:41:55+09:00"
  }
 }

@@ -10,25 +10,25 @@
   "promulgation_date": "2025-03-31"
  },
  "revision_info": {
-  "law_revision_id": "507CO0000000134_20260401_000000000000000",
+  "law_revision_id": "507CO0000000134_20260401_508CO0000000105",
   "law_type": "CabinetOrder",
   "law_title": "防衛特別法人税に関する政令",
   "law_title_kana": "ぼうえいとくべつほうじんぜいにかんするせいれい",
   "abbrev": null,
   "category": "財務通則",
-  "updated": "2026-04-21T10:25:34+09:00",
-  "amendment_promulgate_date": "2025-03-31",
+  "updated": "2026-10-09T18:19:55+09:00",
+  "amendment_promulgate_date": "2026-03-31",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": null,
-  "amendment_law_title": null,
-  "amendment_law_num": null,
-  "amendment_type": "1",
+  "amendment_law_id": "508CO0000000105",
+  "amendment_law_title": "防衛特別法人税に関する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第百五号",
+  "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -89,7 +89,7 @@
  },
  "_meta": {
   "first_seen": "2025-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-21T10:25:34+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T18:19:55+09:00"
  }
 }

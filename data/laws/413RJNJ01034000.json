@@ -6,29 +6,29 @@
   "law_num_era": "Heisei",
   "law_num_year": 13,
   "law_num_type": "Rule",
-  "law_num_num": "1_34",
+  "law_num_num": "1_34_0",
   "promulgation_date": "2001-01-19"
  },
  "revision_info": {
-  "law_revision_id": "413RJNJ01034000_20260401_508RJNJ09034036",
+  "law_revision_id": "413RJNJ01034000_20260401_508RJNJ08012024",
   "law_type": "Rule",
   "law_title": "人事院規則一―三四（人事管理文書の保存期間及び保存期間が満了したときの措置）",
   "law_title_kana": "じんじいんきそくいちのさんじゅうよんじんじかんりぶんしょのほぞんきかんおよびほぞんきかんがまんりょうしたときのそち",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-05-14T09:50:21+09:00",
-  "amendment_promulgate_date": "2026-02-13",
+  "updated": "2026-10-09T18:01:41+09:00",
+  "amendment_promulgate_date": "2026-04-01",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508RJNJ09034036",
-  "amendment_law_title": "人事院規則九―三四（初任給調整手当）の一部を改正する人事院規則",
-  "amendment_law_num": "令和八年人事院規則九―三四―三六",
+  "amendment_law_id": "508RJNJ08012024",
+  "amendment_law_title": "人事院規則八―一二（職員の任免）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則八―一二―二四",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -442,7 +442,7 @@
  },
  "_meta": {
   "first_seen": "2001-01-19",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-14T09:50:21+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T18:01:41+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "2004-09-27"
  },
  "revision_info": {
-  "law_revision_id": "416M60000400096_20260630_508M60000400057",
+  "law_revision_id": "416M60000400096_20261001_508M60000400075",
   "law_type": "MinisterialOrdinance",
   "law_title": "鉱山保安法施行規則",
   "law_title_kana": "こうざんほあんほうせこうきそく",
   "abbrev": null,
   "category": "鉱業",
-  "updated": "2026-07-09T15:11:12+09:00",
-  "amendment_promulgate_date": "2026-06-30",
-  "amendment_enforcement_date": "2026-06-30",
+  "updated": "2026-10-09T13:55:26+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000400057",
+  "amendment_law_id": "508M60000400075",
   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年経済産業省令第五十七号",
+  "amendment_law_num": "令和八年経済産業省令第七十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "416M60000400096_20261001_508M60000400075",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000400075",
+   "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第七十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "416M60000400096_20260630_508M60000400057",
    "amendment_promulgate_date": "2026-06-30",
    "amendment_enforcement_date": "2026-06-30",
@@ -39,7 +49,7 @@
    "amendment_law_title": "鉱山保安法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年経済産業省令第五十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "416M60000400096_20250707_507M60000400054",
@@ -231,7 +241,7 @@
  },
  "_meta": {
   "first_seen": "2004-09-27",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-09T15:11:12+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T13:55:26+09:00"
  }
 }

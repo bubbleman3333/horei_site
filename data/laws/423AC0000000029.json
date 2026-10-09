@@ -10,25 +10,25 @@
   "promulgation_date": "2011-04-27"
  },
  "revision_info": {
-  "law_revision_id": "423AC0000000029_20260401_506AC0000000008",
+  "law_revision_id": "423AC0000000029_20260401_508AC0000000012",
   "law_type": "Act",
   "law_title": "東日本大震災の被災者等に係る国税関係法律の臨時特例に関する法律",
   "law_title_kana": "ひがしにほんだいしんさいのひさいしゃとうにかかるこくぜいかんけいほうりつのりんじとくれいにかんするほうりつ",
   "abbrev": "震災特例法",
   "category": "国税",
-  "updated": "2025-12-19T09:09:46+09:00",
-  "amendment_promulgate_date": "2024-03-30",
+  "updated": "2026-10-09T17:49:31+09:00",
+  "amendment_promulgate_date": "2026-03-31",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "506AC0000000008",
+  "amendment_law_id": "508AC0000000012",
   "amendment_law_title": "所得税法等の一部を改正する法律",
-  "amendment_law_num": "令和六年法律第八号",
+  "amendment_law_num": "令和八年法律第十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -352,7 +352,7 @@
  },
  "_meta": {
   "first_seen": "2011-04-27",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-12-19T09:09:46+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T17:49:31+09:00"
  }
 }

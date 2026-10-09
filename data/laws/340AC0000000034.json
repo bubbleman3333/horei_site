@@ -10,25 +10,25 @@
   "promulgation_date": "1965-03-31"
  },
  "revision_info": {
-  "law_revision_id": "340AC0000000034_20261001_507AC0000000070",
+  "law_revision_id": "340AC0000000034_20261001_508AC0000000012",
   "law_type": "Act",
   "law_title": "法人税法",
   "law_title_kana": "ほうじんぜいほう",
   "abbrev": null,
   "category": "国税",
-  "updated": "2026-07-28T13:08:27+09:00",
-  "amendment_promulgate_date": "2025-06-18",
+  "updated": "2026-10-09T17:36:03+09:00",
+  "amendment_promulgate_date": "2026-03-31",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507AC0000000070",
-  "amendment_law_title": "日本学術会議法",
-  "amendment_law_num": "令和七年法律第七十号",
+  "amendment_law_id": "508AC0000000012",
+  "amendment_law_title": "所得税法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -473,7 +473,7 @@
  },
  "_meta": {
   "first_seen": "1965-03-31",
-  "fetched_at": "2026-10-01",
-  "updated": "2026-07-28T13:08:27+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T17:36:03+09:00"
  }
 }

@@ -10,25 +10,25 @@
   "promulgation_date": "1951-11-22"
  },
  "revision_info": {
-  "law_revision_id": "326M50000800098_20260401_508M60000800011",
+  "law_revision_id": "326M50000800098_20260401_508M60000800017",
   "law_type": "MinisterialOrdinance",
   "law_title": "港湾法施行規則",
   "law_title_kana": "こうわんほうしこうきそく",
   "abbrev": null,
   "category": "海運",
-  "updated": "2026-04-10T10:18:23+09:00",
-  "amendment_promulgate_date": "2026-02-20",
+  "updated": "2026-10-09T18:24:16+09:00",
+  "amendment_promulgate_date": "2026-03-23",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000800011",
-  "amendment_law_title": "国土交通省関係海洋再生可能エネルギー発電設備の整備に係る海域の利用の促進に関する法律施行規則等の一部を改正する省令",
-  "amendment_law_num": "令和八年国土交通省令第十一号",
+  "amendment_law_id": "508M60000800017",
+  "amendment_law_title": "港湾法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第十七号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -300,7 +300,7 @@
  },
  "_meta": {
   "first_seen": "1951-11-22",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-04-10T10:18:23+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T18:24:16+09:00"
  }
 }

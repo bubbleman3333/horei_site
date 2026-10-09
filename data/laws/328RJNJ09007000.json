@@ -6,29 +6,29 @@
   "law_num_era": "Showa",
   "law_num_year": 28,
   "law_num_type": "Rule",
-  "law_num_num": "9_7",
+  "law_num_num": "9_7_0",
   "promulgation_date": "1953-02-07"
  },
  "revision_info": {
-  "law_revision_id": "328RJNJ09007000_20260401_508RJNJ09034036",
+  "law_revision_id": "328RJNJ09007000_20260401_508RJNJ09007023",
   "law_type": "Rule",
   "law_title": "人事院規則九―七（俸給等の支給）",
   "law_title_kana": "じんじいんきそくきゅうのななほうきゅうとうのしきゅう",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-05-12T09:43:46+09:00",
-  "amendment_promulgate_date": "2026-02-13",
+  "updated": "2026-10-09T18:00:17+09:00",
+  "amendment_promulgate_date": "2026-04-01",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508RJNJ09034036",
-  "amendment_law_title": "人事院規則九―三四（初任給調整手当）の一部を改正する人事院規則",
-  "amendment_law_num": "令和八年人事院規則九―三四―三六",
+  "amendment_law_id": "508RJNJ09007023",
+  "amendment_law_title": "人事院規則九―七（俸給等の支給）の一部を改正する人事院規則",
+  "amendment_law_num": "令和八年人事院規則九―七―二三",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -190,7 +190,7 @@
  },
  "_meta": {
   "first_seen": "1953-02-07",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-05-12T09:43:46+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T18:00:17+09:00"
  }
 }

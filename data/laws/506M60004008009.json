@@ -10,25 +10,25 @@
   "promulgation_date": "2024-05-24"
  },
  "revision_info": {
-  "law_revision_id": "506M60004008009_20260614_507M60004008011",
+  "law_revision_id": "506M60004008009_20260626_508M60004008019",
   "law_type": "MinisterialOrdinance",
   "law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令",
   "law_title_kana": "ぎょうせいてつづきにおけるとくていのこじんをしきべつするためのばんごうのりようとうにかんするほうりつだいじゅうきゅうじょうだいはちごうにもとづくりようとくていこじんじょうほうのていきょうにかんするめいれい",
   "abbrev": null,
   "category": "行政手続",
   "updated": "2026-07-13T09:57:11+09:00",
-  "amendment_promulgate_date": "2025-07-28",
-  "amendment_enforcement_date": "2026-06-14",
+  "amendment_promulgate_date": "2026-06-26",
+  "amendment_enforcement_date": "2026-06-26",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60004008011",
+  "amendment_law_id": "508M60004008019",
   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律別表の主務省令で定める事務を定める命令及び行政手続における特定の個人を識別するための番号の利用等に関する法律第十九条第八号に基づく利用特定個人情報の提供に関する命令の一部を改正する命令",
-  "amendment_law_num": "令和七年デジタル庁・総務省令第十一号",
+  "amendment_law_num": "令和八年デジタル庁・総務省令第十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -259,7 +259,7 @@
  },
  "_meta": {
   "first_seen": "2024-05-24",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-10",
   "updated": "2026-07-13T09:57:11+09:00"
  }
 }

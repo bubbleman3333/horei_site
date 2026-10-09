@@ -80,18 +80,6 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "322AC0000000067_20270604_508AC0000000031",
-   "amendment_promulgate_date": "2026-06-05",
-   "amendment_enforcement_date": "2027-06-04",
-   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2027-06-04",
-   "amendment_law_id": "508AC0000000031",
-   "amendment_law_title": "健康保険法等の一部を改正する法律",
-   "amendment_law_num": "令和八年法律第三十一号",
-   "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
-  },
-  {
    "law_revision_id": "322AC0000000067_20270526_508AC0000000023",
    "amendment_promulgate_date": "2026-05-27",
    "amendment_enforcement_date": "2027-05-26",
@@ -134,6 +122,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "322AC0000000067_20270301_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-03-01",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "322AC0000000067_20270123_508AC0000000071",
    "amendment_promulgate_date": "2026-07-24",
    "amendment_enforcement_date": "2027-01-23",
@@ -168,24 +166,22 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "322AC0000000067_20261231_508AC0000000062",
-   "amendment_promulgate_date": "2026-07-17",
-   "amendment_enforcement_date": "2026-12-31",
-   "amendment_enforcement_comment": "防災庁設置法（令和八年法律第六十一号）の施行の日",
-   "amendment_scheduled_enforcement_date": "2026-12-31",
-   "amendment_law_id": "508AC0000000062",
-   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
-   "amendment_law_num": "令和八年法律第六十二号",
-   "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
-  },
-  {
    "law_revision_id": "322AC0000000067_20261203_508AC0000000027",
    "amendment_promulgate_date": "2026-06-03",
    "amendment_enforcement_date": "2026-12-03",
    "amendment_law_id": "508AC0000000027",
    "amendment_law_title": "地域の自主性及び自立性を高めるための改革の推進を図るための関係法律の整備に関する法律",
    "amendment_law_num": "令和八年法律第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322AC0000000067_20261102_508AC0000000062",
+   "amendment_promulgate_date": "2026-07-17",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508AC0000000062",
+   "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "令和八年法律第六十二号",
    "amendment_type": "3",
    "current_revision_status": "UnEnforced"
   },
@@ -485,7 +481,7 @@
  },
  "_meta": {
   "first_seen": "1947-04-17",
-  "fetched_at": "2026-09-24",
+  "fetched_at": "2026-10-10",
   "updated": "2026-09-24T00:01:26+09:00"
  }
 }

@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "424CO0000000037",
+  "law_num": "平成二十四年政令第三十七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 24,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "037",
+  "promulgation_date": "2012-02-22"
+ },
+ "revision_info": {
+  "law_revision_id": "424CO0000000037_20220401_504CO0000000102",
+  "law_type": "CabinetOrder",
+  "law_title": "株式会社東日本大震災事業者再生支援機構法施行令",
+  "law_title_kana": "かぶしきがいしゃひがしにほんだいしんさいじぎょうしゃさいせいしえんきこうほうせこうれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2022-04-25T13:15:51+09:00",
+  "amendment_promulgate_date": "2022-03-25",
+  "amendment_enforcement_date": "2022-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504CO0000000102",
+  "amendment_law_title": "株式会社東日本大震災事業者再生支援機構法施行令の一部を改正する政令",
+  "amendment_law_num": "令和四年政令第百二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "424CO0000000037_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000037_20220401_504CO0000000102",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000102",
+   "amendment_law_title": "株式会社東日本大震災事業者再生支援機構法施行令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第百二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "424CO0000000037_20120223_000000000000000",
+   "amendment_promulgate_date": "2012-02-22",
+   "amendment_enforcement_date": "2012-02-23",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（大規模な事業者等）",
+  "title": "第一条",
+  "paragraphs": [
+   "株式会社東日本大震災事業者再生支援機構法（以下「法」という。）第十九条第一項第一号に規定する政令で定める事業者は、次に掲げる者以外の事業者とする。",
+   "法第十九条第一項第三号に規定する政令で定める法人は、株式会社であって、その発行している株式（株主総会において決議をすることができる事項の全部について議決権を行使することができないものと定められた種類の株式を除く。以下この項及び第四項第二号において同じ。）の総数の四分の一以上の数の株式を国又は地方公共団体が保有していないものとする。",
+   "法第十九条第一項第四号に規定する政令で定める割合は、二分の一とする。",
+   "法第十九条第一項第四号に規定する政令で定める法人は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2012-02-22",
+  "fetched_at": "2026-10-10",
+  "updated": "2022-04-25T13:15:51+09:00"
+ }
+}

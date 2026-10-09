@@ -10,25 +10,25 @@
   "promulgation_date": "2000-06-07"
  },
  "revision_info": {
-  "law_revision_id": "412CO0000000251_20260401_507CO0000000258",
+  "law_revision_id": "412CO0000000251_20260401_508CO0000000045",
   "law_type": "CabinetOrder",
   "law_title": "文部科学省組織令",
   "law_title_kana": "もんぶかがくしょうそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-04-03T15:32:07+09:00",
-  "amendment_promulgate_date": "2025-07-18",
+  "updated": "2026-10-09T18:12:34+09:00",
+  "amendment_promulgate_date": "2026-03-23",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000258",
-  "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和七年政令第二百五十八号",
+  "amendment_law_id": "508CO0000000045",
+  "amendment_law_title": "文部科学省組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第四十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -386,7 +386,7 @@
  },
  "_meta": {
   "first_seen": "2000-06-07",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-03T15:32:07+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T18:12:34+09:00"
  }
 }

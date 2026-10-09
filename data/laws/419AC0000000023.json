@@ -56,18 +56,6 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "419AC0000000023_20270714_508AC0000000055",
-   "amendment_promulgate_date": "2026-07-15",
-   "amendment_enforcement_date": "2027-07-14",
-   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2027-07-14",
-   "amendment_law_id": "508AC0000000055",
-   "amendment_law_title": "主要食糧の需給及び価格の安定に関する法律の一部を改正する法律",
-   "amendment_law_num": "令和八年法律第五十五号",
-   "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
-  },
-  {
    "law_revision_id": "419AC0000000023_20270423_508AC0000000068",
    "amendment_promulgate_date": "2026-07-24",
    "amendment_enforcement_date": "2027-04-23",
@@ -76,6 +64,16 @@
    "amendment_law_id": "508AC0000000068",
    "amendment_law_title": "電気事業法の一部を改正する法律",
    "amendment_law_num": "令和八年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "419AC0000000023_20270401_508AC0000000055",
+   "amendment_promulgate_date": "2026-07-15",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000055",
+   "amendment_law_title": "主要食糧の需給及び価格の安定に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第五十五号",
    "amendment_type": "3",
    "current_revision_status": "UnEnforced"
   },
@@ -454,7 +452,7 @@
  },
  "_meta": {
   "first_seen": "2007-03-31",
-  "fetched_at": "2026-10-01",
+  "fetched_at": "2026-10-10",
   "updated": "2026-10-01T05:42:26+09:00"
  }
 }

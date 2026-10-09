@@ -10,20 +10,20 @@
   "promulgation_date": "1962-09-08"
  },
  "revision_info": {
-  "law_revision_id": "337M50000008020_20260801_508M60000008097",
+  "law_revision_id": "337M50000008020_20261001_508M60000008114",
   "law_type": "MinisterialOrdinance",
   "law_title": "地方公務員等共済組合法施行規則",
   "law_title_kana": "ちほうこうむいんとうきょうさいくみあいほうしこうきそく",
   "abbrev": null,
   "category": "地方自治",
-  "updated": "2026-08-10T11:11:15+09:00",
-  "amendment_promulgate_date": "2026-07-31",
-  "amendment_enforcement_date": "2026-08-01",
+  "updated": "2026-10-09T13:54:12+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000008097",
+  "amendment_law_id": "508M60000008114",
   "amendment_law_title": "地方公務員等共済組合法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年総務省令第九十七号",
+  "amendment_law_num": "令和八年総務省令第百十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "337M50000008020_20261001_508M60000008114",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000008114",
+   "amendment_law_title": "地方公務員等共済組合法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "337M50000008020_20260801_508M60000008097",
    "amendment_promulgate_date": "2026-07-31",
    "amendment_enforcement_date": "2026-08-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "地方公務員等共済組合法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年総務省令第九十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "337M50000008020_20260614_508M60000008039",
@@ -354,7 +364,7 @@
  },
  "_meta": {
   "first_seen": "1962-09-08",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-10T11:11:15+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T13:54:12+09:00"
  }
 }

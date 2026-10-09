@@ -108,18 +108,6 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "333AC0000000128_20270604_508AC0000000031",
-   "amendment_promulgate_date": "2026-06-05",
-   "amendment_enforcement_date": "2027-06-04",
-   "amendment_enforcement_comment": "公布の日から起算して一年を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2027-06-04",
-   "amendment_law_id": "508AC0000000031",
-   "amendment_law_title": "健康保険法等の一部を改正する法律",
-   "amendment_law_num": "令和八年法律第三十一号",
-   "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
-  },
-  {
    "law_revision_id": "333AC0000000128_20270527_507AC0000000046",
    "amendment_promulgate_date": "2025-05-28",
    "amendment_enforcement_date": "2027-05-27",
@@ -158,6 +146,16 @@
    "amendment_law_id": "507AC0000000087",
    "amendment_law_title": "医療法等の一部を改正する法律",
    "amendment_law_num": "令和七年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "333AC0000000128_20270301_508AC0000000031",
+   "amendment_promulgate_date": "2026-06-05",
+   "amendment_enforcement_date": "2027-03-01",
+   "amendment_law_id": "508AC0000000031",
+   "amendment_law_title": "健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第三十一号",
    "amendment_type": "3",
    "current_revision_status": "UnEnforced"
   },
@@ -464,7 +462,7 @@
  },
  "_meta": {
   "first_seen": "1958-05-01",
-  "fetched_at": "2026-10-01",
+  "fetched_at": "2026-10-10",
   "updated": "2026-10-01T02:16:14+09:00"
  }
 }

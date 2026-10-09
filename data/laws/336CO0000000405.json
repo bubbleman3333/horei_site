@@ -10,25 +10,25 @@
   "promulgation_date": "1961-12-07"
  },
  "revision_info": {
-  "law_revision_id": "336CO0000000405_20260401_507CO0000000355",
+  "law_revision_id": "336CO0000000405_20260401_508CO0000000055",
   "law_type": "CabinetOrder",
   "law_title": "児童扶養手当法施行令",
   "law_title_kana": "じどうふようてあてほうしこうれい",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-04-07T10:11:49+09:00",
-  "amendment_promulgate_date": "2025-10-17",
+  "updated": "2026-10-09T18:05:11+09:00",
+  "amendment_promulgate_date": "2026-03-25",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000355",
-  "amendment_law_title": "国民年金法施行令等の一部を改正する政令",
-  "amendment_law_num": "令和七年政令第三百五十五号",
+  "amendment_law_id": "508CO0000000055",
+  "amendment_law_title": "児童扶養手当法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第五十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -274,7 +274,7 @@
  },
  "_meta": {
   "first_seen": "1961-12-07",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-07T10:11:49+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T18:05:11+09:00"
  }
 }

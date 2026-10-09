@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "417CO0000000282_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "417CO0000000282_20260401_508CO0000000066",
    "amendment_promulgate_date": "2026-03-27",
    "amendment_enforcement_date": "2026-04-01",
@@ -153,7 +163,7 @@
  },
  "_meta": {
   "first_seen": "2005-08-15",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-10",
   "updated": "2026-04-14T09:42:06+09:00"
  }
 }

@@ -10,25 +10,25 @@
   "promulgation_date": "2014-04-30"
  },
  "revision_info": {
-  "law_revision_id": "426M60000100061_20260401_508M60000002003",
+  "law_revision_id": "426M60000100061_20260401_508M60000002010",
   "law_type": "MinisterialOrdinance",
   "law_title": "家庭的保育事業等の設備及び運営に関する基準",
   "law_title_kana": "かていてきほいくじぎょうとうのせつびおよびうんえいにかんするきじゅん",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-04-01T17:20:42+09:00",
-  "amendment_promulgate_date": "2026-02-13",
+  "updated": "2026-10-09T17:51:29+09:00",
+  "amendment_promulgate_date": "2026-03-16",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002003",
-  "amendment_law_title": "児童福祉法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整備等に関する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第三号",
+  "amendment_law_id": "508M60000002010",
+  "amendment_law_title": "児童福祉施設の設備及び運営に関する基準等の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第十号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -250,7 +250,7 @@
  },
  "_meta": {
   "first_seen": "2014-04-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-01T17:20:42+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T17:51:29+09:00"
  }
 }

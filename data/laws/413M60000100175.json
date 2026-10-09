@@ -10,25 +10,25 @@
   "promulgation_date": "2001-07-23"
  },
  "revision_info": {
-  "law_revision_id": "413M60000100175_20260401_507M60000100110",
+  "law_revision_id": "413M60000100175_20260401_508M60000100048",
   "law_type": "MinisterialOrdinance",
   "law_title": "確定拠出年金法施行規則",
   "law_title_kana": "かくていきょしゅつねんきんほうせこうきそく",
   "abbrev": "日本版４０１ｋ法施行規則,ＤＣ法施行規則",
   "category": "社会保険",
-  "updated": "2026-04-15T12:39:46+09:00",
-  "amendment_promulgate_date": "2025-10-31",
+  "updated": "2026-10-09T17:57:24+09:00",
+  "amendment_promulgate_date": "2026-03-27",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000100110",
-  "amendment_law_title": "確定拠出年金法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和七年厚生労働省令第百十号",
+  "amendment_law_id": "508M60000100048",
+  "amendment_law_title": "国民年金基金規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第四十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -326,7 +326,7 @@
  },
  "_meta": {
   "first_seen": "2001-07-23",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-15T12:39:46+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T17:57:24+09:00"
  }
 }

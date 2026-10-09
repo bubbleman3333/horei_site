@@ -10,25 +10,25 @@
   "promulgation_date": "2010-04-01"
  },
  "revision_info": {
-  "law_revision_id": "422M60000080013_20260401_507M60000080021",
+  "law_revision_id": "422M60000080013_20260401_508M60000080018",
   "law_type": "MinisterialOrdinance",
   "law_title": "高等学校等就学支援金の支給に関する法律施行規則",
   "law_title_kana": "こうとうがっこうとうしゅうがくしえんきんのしきゅうにかんするほうりつしこうきそく",
   "abbrev": null,
   "category": "教育",
-  "updated": "2026-05-11T11:04:23+09:00",
-  "amendment_promulgate_date": "2025-08-28",
+  "updated": "2026-10-09T17:46:59+09:00",
+  "amendment_promulgate_date": "2026-03-31",
   "amendment_enforcement_date": "2026-04-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000080021",
-  "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
-  "amendment_law_num": "令和七年文部科学省令第二十一号",
+  "amendment_law_id": "508M60000080018",
+  "amendment_law_title": "高等学校等就学支援金の支給に関する法律施行規則及び公立高等学校に係る授業料の不徴収及び高等学校等就学支援金の支給に関する法律施行規則の一部を改正する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年文部科学省令第十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -186,13 +186,12 @@
   "title": "第一条",
   "paragraphs": [
    "高等学校等就学支援金の支給に関する法律（平成二十二年法律第十八号。以下「法」という。）第二条第五号に掲げる専修学校及び各種学校のうち高等学校の課程に類する課程を置くものとして文部科学省令で定めるものは、次に掲げるものとする。",
-   "前項第四号の指定又は指定の変更は、官報に告示して行うものとする。",
    "法第二条第五号の学校教育法（昭和二十二年法律第二十六号）第一条に規定する学校以外の教育施設で学校教育に類する教育を行うもののうち当該教育を行うにつき同法以外の法律に特別の規定があるものであって、高等学校の課程に類する課程を置くものとして文部科学省令で定めるものは、独立行政法人海技教育機構法（平成十一年法律第二百十四号）による独立行政法人海技教育機構海技士教育科海技課程の本科とする。"
   ]
  },
  "_meta": {
   "first_seen": "2010-04-01",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-11T11:04:23+09:00"
+  "fetched_at": "2026-10-10",
+  "updated": "2026-10-09T17:46:59+09:00"
  }
 }
