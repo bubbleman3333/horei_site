@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "407CO0000000295",
+  "law_num": "平成七年政令第二百九十五号",
+  "law_num_era": "Heisei",
+  "law_num_year": 7,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "295",
+  "promulgation_date": "1995-07-14"
+ },
+ "revision_info": {
+  "law_revision_id": "407CO0000000295_20250401_507CO0000000019",
+  "law_type": "CabinetOrder",
+  "law_title": "地震防災対策特別措置法施行令",
+  "law_title_kana": "じしんぼうさいたいさくとくべつそちほうしこうれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2025-04-02T02:43:34+09:00",
+  "amendment_promulgate_date": "2025-01-29",
+  "amendment_enforcement_date": "2025-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000019",
+  "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和七年政令第十九号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "407CO0000000295_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "407CO0000000295_20250401_507CO0000000019",
+   "amendment_promulgate_date": "2025-01-29",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507CO0000000019",
+   "amendment_law_title": "国立健康危機管理研究機構法及び国立健康危機管理研究機構法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和七年政令第十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "407CO0000000295_20160401_428CO0000000078",
+   "amendment_promulgate_date": "2016-03-25",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428CO0000000078",
+   "amendment_law_title": "独立行政法人に係る改革を推進するための厚生労働省関係法律の整備等に関する法律の施行に伴う関係政令の整備等及び経過措置に関する政令",
+   "amendment_law_num": "平成二十八年政令第七十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（地震防災緊急事業に係る政令で定める医療機関）",
+  "title": "第一条",
+  "paragraphs": [
+   "地震防災対策特別措置法（以下「法」という。）第三条第一項第七号の政令で定める医療機関は、国及び地方公共団体の救急医療の確保に関する施策に協力して、休日診療若しくは夜間診療を行っている病院又は救急医療に係る高度の医療を提供している病院（これらの病院のうち、国、独立行政法人労働者健康安全機構、独立行政法人国立病院機構、国立研究開発法人国立がん研究センター、国立研究開発法人国立循環器病研究センター、国立研究開発法人国立精神・神経医療研究センター、国立研究開発法人国立成育医療研究センター、国立研究開発法人国立長寿医療研究センター、国立大学法人法（平成十五年法律第百十二号）第二条第一項に規定する国立大学法人、国立健康危機管理研究機構及び医療法（昭和二十三年法律第二百五号）第七条の二第一項各号に掲げる者の開設するものを除く。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1995-07-14",
+  "fetched_at": "2026-10-10",
+  "updated": "2025-04-02T02:43:34+09:00"
+ }
+}
