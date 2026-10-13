@@ -10,21 +10,21 @@
   "promulgation_date": "2026-03-31"
  },
  "revision_info": {
-  "law_revision_id": "508CO0000000091_20260401_000000000000000",
+  "law_revision_id": "508CO0000000091_20261001_508CO0000000306",
   "law_type": "CabinetOrder",
   "law_title": "サイバー通信情報監理委員会事務局組織令",
   "law_title_kana": "さいばーつうしんじょうほうかんりいいんかいじむきょくそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-04-20T10:11:38+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-13T09:29:09+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": null,
-  "amendment_law_title": null,
-  "amendment_law_num": null,
-  "amendment_type": "1",
+  "amendment_law_id": "508CO0000000306",
+  "amendment_law_title": "サイバー通信情報監理委員会事務局組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百六号",
+  "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
@@ -32,25 +32,28 @@
  },
  "revisions": [
   {
+   "law_revision_id": "508CO0000000091_20261001_508CO0000000306",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000306",
+   "amendment_law_title": "サイバー通信情報監理委員会事務局組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "508CO0000000091_20260401_000000000000000",
    "amendment_promulgate_date": "2026-03-31",
    "amendment_enforcement_date": "2026-04-01",
    "amendment_type": "1",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（次長）",
-  "title": "第一条",
-  "paragraphs": [
-   "サイバー通信情報監理委員会の事務局（以下単に「事務局」という。）に、次長一人を置く。",
-   "次長は、事務局長を助け、事務局の事務を整理する。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2026-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-20T10:11:38+09:00"
+  "fetched_at": "2026-10-13",
+  "updated": "2026-10-13T09:29:09+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "2011-05-02"
  },
  "revision_info": {
-  "law_revision_id": "423CO0000000132_20260327_508CO0000000062",
+  "law_revision_id": "423CO0000000132_20261001_508CO0000000300",
   "law_type": "CabinetOrder",
   "law_title": "東日本大震災に対処するための特別の財政援助及び助成に関する法律の農林水産省関係規定の施行等に関する政令",
   "law_title_kana": "ひがしにほんだいしんさいにたいしょするためのとくべつのざいせいえんじょおよびじょせいにかんするほうりつののうりんすいさんしょうかんけいきていのしこうとうにかんするせいれい",
   "abbrev": null,
   "category": "災害対策",
-  "updated": "2026-04-14T09:42:35+09:00",
-  "amendment_promulgate_date": "2026-03-27",
-  "amendment_enforcement_date": "2026-03-27",
+  "updated": "2026-10-13T09:30:23+09:00",
+  "amendment_promulgate_date": "2026-09-28",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000062",
-  "amendment_law_title": "東日本大震災に対処するための特別の財政援助及び助成に関する法律の農林水産省関係規定の施行等に関する政令及び東日本大震災に対処するための農林水産省関係政令の特例に関する政令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第六十二号",
+  "amendment_law_id": "508CO0000000300",
+  "amendment_law_title": "農業近代化資金融通法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "423CO0000000132_20261001_508CO0000000300",
+   "amendment_promulgate_date": "2026-09-28",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000300",
+   "amendment_law_title": "農業近代化資金融通法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "423CO0000000132_20260327_508CO0000000062",
    "amendment_promulgate_date": "2026-03-27",
    "amendment_enforcement_date": "2026-03-27",
@@ -39,7 +49,7 @@
    "amendment_law_title": "東日本大震災に対処するための特別の財政援助及び助成に関する法律の農林水産省関係規定の施行等に関する政令及び東日本大震災に対処するための農林水産省関係政令の特例に関する政令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第六十二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "423CO0000000132_20250319_507CO0000000063",
@@ -165,17 +175,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（中小漁業融資保証法の特例）",
-  "title": "第一条",
-  "paragraphs": [
-   "東日本大震災に対処するための特別の財政援助及び助成に関する法律（以下「法」という。）第百九条第一項の政令で定める者は、次の各号のいずれかに該当する者とする。",
-   "法第百九条第一項の政令で定める日は、令和九年三月三十一日とする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2011-05-02",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-14T09:42:35+09:00"
+  "fetched_at": "2026-10-13",
+  "updated": "2026-10-13T09:30:23+09:00"
  }
 }

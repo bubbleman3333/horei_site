@@ -10,20 +10,20 @@
   "promulgation_date": "2014-02-28"
  },
  "revision_info": {
-  "law_revision_id": "426M60000200015_20260401_508M60000200027",
+  "law_revision_id": "426M60000200015_20261001_508M60000200069",
   "law_type": "MinisterialOrdinance",
   "law_title": "農地中間管理事業の推進に関する法律施行規則",
   "law_title_kana": "のうちちゅうかんかんりじぎょうのすいしんにかんするほうりつしこうきそく",
   "abbrev": "農地バンク法施行規則",
   "category": "農業",
-  "updated": "2026-05-13T12:33:05+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-13T09:46:20+09:00",
+  "amendment_promulgate_date": "2026-09-28",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000200027",
-  "amendment_law_title": "農地中間管理事業の推進に関する法律施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年農林水産省令第二十七号",
+  "amendment_law_id": "508M60000200069",
+  "amendment_law_title": "農林水産省関係福島復興再生特別措置法施行規則及び農地中間管理事業の推進に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第六十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "426M60000200015_20261001_508M60000200069",
+   "amendment_promulgate_date": "2026-09-28",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000200069",
+   "amendment_law_title": "農林水産省関係福島復興再生特別措置法施行規則及び農地中間管理事業の推進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "426M60000200015_20260401_508M60000200027",
    "amendment_promulgate_date": "2026-03-31",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "農地中間管理事業の推進に関する法律施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年農林水産省令第二十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "426M60000200015_20250401_507M60000200016",
@@ -133,17 +143,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（農地中間管理機構の指定の申請）",
-  "title": "第一条",
-  "paragraphs": [
-   "農地中間管理事業の推進に関する法律（以下「法」という。）第四条の規定により指定を受けようとする法人は、次に掲げる事項を記載した申請書を都道府県知事に提出しなければならない。",
-   "前項の申請書には、次に掲げる書類を添付しなければならない。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2014-02-28",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-13T12:33:05+09:00"
+  "fetched_at": "2026-10-13",
+  "updated": "2026-10-13T09:46:20+09:00"
  }
 }

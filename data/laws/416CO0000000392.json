@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "416CO0000000392",
+  "law_num": "平成十六年政令第三百九十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 16,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "392",
+  "promulgation_date": "2004-12-10"
+ },
+ "revision_info": {
+  "law_revision_id": "416CO0000000392_20210901_503CO0000000195",
+  "law_type": "CabinetOrder",
+  "law_title": "武力攻撃事態及び存立危機事態における外国軍用品等の海上輸送の規制に関する法律施行令",
+  "law_title_kana": "ぶりょくこうげきじたいおよびそんりつききじたいにおけるがいこくぐんようひんとうのかいじょうゆそうのきせいにかんするほうりつしこうれい",
+  "abbrev": "外国軍用品等海上輸送規制法施行令",
+  "category": "外事",
+  "updated": "2024-03-12T15:25:41+09:00",
+  "amendment_promulgate_date": "2021-07-02",
+  "amendment_enforcement_date": "2021-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "503CO0000000195",
+  "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和三年政令第百九十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "416CO0000000392_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000392_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "416CO0000000392_20160329_428CO0000000084",
+   "amendment_promulgate_date": "2016-03-25",
+   "amendment_enforcement_date": "2016-03-29",
+   "amendment_law_id": "428CO0000000084",
+   "amendment_law_title": "我が国及び国際社会の平和及び安全の確保に資するための自衛隊法等の一部を改正する法律及び国際平和共同対処事態に際して我が国が実施する諸外国の軍隊等に対する協力支援活動等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（審判官）",
+  "title": "第一条",
+  "paragraphs": [
+   "武力攻撃事態及び存立危機事態における外国軍用品等の海上輸送の規制に関する法律（平成十六年法律第百十六号。以下「法」という。）第十二条第二項に規定する政令で定める資格を有する者は、次の各号のいずれかに該当する者とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2004-12-10",
+  "fetched_at": "2026-10-13",
+  "updated": "2024-03-12T15:25:41+09:00"
+ }
+}

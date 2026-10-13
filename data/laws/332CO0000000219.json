@@ -10,20 +10,20 @@
   "promulgation_date": "1957-07-31"
  },
  "revision_info": {
-  "law_revision_id": "332CO0000000219_20260731_508CO0000000234",
+  "law_revision_id": "332CO0000000219_20261001_508CO0000000301",
   "law_type": "CabinetOrder",
   "law_title": "内閣官房組織令",
   "law_title_kana": "ないかくかんぼうそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-08-12T13:39:14+09:00",
-  "amendment_promulgate_date": "2026-07-29",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-10-13T09:24:54+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000234",
-  "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
-  "amendment_law_num": "令和八年政令第二百三十四号",
+  "amendment_law_id": "508CO0000000301",
+  "amendment_law_title": "内閣官房組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "332CO0000000219_20261001_508CO0000000301",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000301",
+   "amendment_law_title": "内閣官房組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "332CO0000000219_20260731_508CO0000000234",
    "amendment_promulgate_date": "2026-07-29",
    "amendment_enforcement_date": "2026-07-31",
@@ -39,7 +49,7 @@
    "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
    "amendment_law_num": "令和八年政令第二百三十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "332CO0000000219_20260408_508CO0000000118",
@@ -237,16 +247,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（内部組織）",
-  "title": "第一条",
-  "paragraphs": [
-   "内閣官房に、次の三室を置く。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1957-07-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-12T13:39:14+09:00"
+  "fetched_at": "2026-10-13",
+  "updated": "2026-10-13T09:24:54+09:00"
  }
 }
