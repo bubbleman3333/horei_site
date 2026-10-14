@@ -1,0 +1,108 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "404CO0000000268",
+  "law_num": "平成四年政令第二百六十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 4,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "268",
+  "promulgation_date": "1992-08-07"
+ },
+ "revision_info": {
+  "law_revision_id": "404CO0000000268_20230401_505CO0000000126",
+  "law_type": "CabinetOrder",
+  "law_title": "国際連合平和維持活動等に対する協力に関する法律施行令",
+  "law_title_kana": "こくさいれんごうへいわいじかつどうとうにたいするきょうりょくにかんするほうりつしこうれい",
+  "abbrev": "ＰＫＯ協力法施行令,ＰＫＯ法施行令,国連平和協力法施行令",
+  "category": "外事",
+  "updated": "2024-07-10T14:04:53+09:00",
+  "amendment_promulgate_date": "2023-03-30",
+  "amendment_enforcement_date": "2023-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505CO0000000126",
+  "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和五年政令第百二十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "404CO0000000268_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "404CO0000000268_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "404CO0000000268_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404CO0000000268_20190405_431CO0000000147",
+   "amendment_promulgate_date": "2019-04-05",
+   "amendment_enforcement_date": "2019-04-05",
+   "amendment_law_id": "431CO0000000147",
+   "amendment_law_title": "国際連合平和維持活動等に対する協力に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十一年政令第百四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404CO0000000268_20190401_431CO0000000038",
+   "amendment_promulgate_date": "2019-03-15",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000038",
+   "amendment_law_title": "出入国管理及び難民認定法及び法務省設置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十一年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "404CO0000000268_20160329_428CO0000000084",
+   "amendment_promulgate_date": "2016-03-25",
+   "amendment_enforcement_date": "2016-03-29",
+   "amendment_law_id": "428CO0000000084",
+   "amendment_law_title": "我が国及び国際社会の平和及び安全の確保に資するための自衛隊法等の一部を改正する法律及び国際平和共同対処事態に際して我が国が実施する諸外国の軍隊等に対する協力支援活動等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（関係行政機関）",
+  "title": "第一条",
+  "paragraphs": [
+   "国際連合平和維持活動等に対する協力に関する法律（以下「法」という。）第三条第九号の政令で定める機関は、別表のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1992-08-07",
+  "fetched_at": "2026-10-15",
+  "updated": "2024-07-10T14:04:53+09:00"
+ }
+}

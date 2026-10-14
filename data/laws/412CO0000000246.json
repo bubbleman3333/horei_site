@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "412CO0000000246_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "412CO0000000246_20260804_508CO0000000242",
    "amendment_promulgate_date": "2026-07-31",
    "amendment_enforcement_date": "2026-08-04",
@@ -421,17 +431,6 @@
    "amendment_law_num": "平成三十年政令第二百三十九号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "412CO0000000246_20180720_430CO0000000209",
-   "amendment_promulgate_date": "2018-07-13",
-   "amendment_enforcement_date": "2018-07-20",
-   "amendment_enforcement_comment": "",
-   "amendment_law_id": "430CO0000000209",
-   "amendment_law_title": "総務省組織令の一部を改正する政令",
-   "amendment_law_num": "平成三十年政令第二百九号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -447,7 +446,7 @@
  },
  "_meta": {
   "first_seen": "2000-06-07",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-15",
   "updated": "2026-08-17T11:39:12+09:00"
  }
 }

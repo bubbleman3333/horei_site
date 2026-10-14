@@ -1,0 +1,80 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "329CO0000000149",
+  "law_num": "昭和二十九年政令第百四十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 29,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "149",
+  "promulgation_date": "1954-06-18"
+ },
+ "revision_info": {
+  "law_revision_id": "329CO0000000149_20210901_503CO0000000195",
+  "law_type": "CabinetOrder",
+  "law_title": "日米相互防衛援助協定等に伴う秘密保護法施行令",
+  "law_title_kana": "にちべいそうごぼうえいえんじょきょうていとうにともなうひみつほごほうしこうれい",
+  "abbrev": "日米秘密保護法施行令,ＭＳＡ秘密保護法施行令,ＭＤＡ秘密保護法施行令,防衛秘密保護法施行令",
+  "category": "防衛",
+  "updated": "2023-07-11T15:56:59+09:00",
+  "amendment_promulgate_date": "2021-07-02",
+  "amendment_enforcement_date": "2021-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "503CO0000000195",
+  "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和三年政令第百九十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "329CO0000000149_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000149_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329CO0000000149_20021101_414CO0000000311",
+   "amendment_promulgate_date": "2002-10-17",
+   "amendment_enforcement_date": "2002-11-01",
+   "amendment_law_id": "414CO0000000311",
+   "amendment_law_num": "平成十四年政令第三百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（秘密区分）",
+  "title": "第一条",
+  "paragraphs": [
+   "日米相互防衛援助協定等に伴う秘密保護法第一条第三項に規定する特別防衛秘密は、その秘密の保護の必要度に応じて、機密、極秘又は秘のいずれかに区分しなければならない。",
+   "前項の「機密」とは、秘密の保護が最高度に必要であつて、その漏えいが我が国の安全に対し、特に重大な損害を与えるおそれのあるものをいう。",
+   "第一項の「極秘」とは、秘密の保護が高度に必要であつて、その漏えいが我が国の安全に対し、重大な損害を与えるおそれのあるものをいう。",
+   "第一項の「秘」とは、秘密の保護が必要であつて、機密及び極秘に該当しないものをいう。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1954-06-18",
+  "fetched_at": "2026-10-15",
+  "updated": "2023-07-11T15:56:59+09:00"
+ }
+}

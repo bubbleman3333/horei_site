@@ -32,6 +32,28 @@
  },
  "revisions": [
   {
+   "law_revision_id": "412CO0000000245_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412CO0000000245_20261030_508CO0000000302",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-30",
+   "amendment_enforcement_comment": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律（令和八年法律第七十八号）の施行の日",
+   "amendment_scheduled_enforcement_date": "2026-10-30",
+   "amendment_law_id": "508CO0000000302",
+   "amendment_law_title": "内閣府本府組織令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百二号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "412CO0000000245_20261001_507CO0000000299",
    "amendment_promulgate_date": "2025-08-14",
    "amendment_enforcement_date": "2026-10-01",
@@ -411,26 +433,6 @@
    "amendment_law_num": "平成三十年政令第二百四十五号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "412CO0000000245_20180606_430CO0000000182",
-   "amendment_promulgate_date": "2018-06-05",
-   "amendment_enforcement_date": "2018-06-06",
-   "amendment_law_id": "430CO0000000182",
-   "amendment_law_title": "革新的事業活動評価委員会令",
-   "amendment_law_num": "平成三十年政令第百八十二号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "412CO0000000245_20180511_430CO0000000163",
-   "amendment_promulgate_date": "2018-05-07",
-   "amendment_enforcement_date": "2018-05-11",
-   "amendment_law_id": "430CO0000000163",
-   "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行令",
-   "amendment_law_num": "平成三十年政令第百六十三号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -449,7 +451,7 @@
  },
  "_meta": {
   "first_seen": "2000-06-07",
-  "fetched_at": "2026-10-06",
+  "fetched_at": "2026-10-15",
   "updated": "2026-10-05T10:50:29+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "1966-09-08"
  },
  "revision_info": {
-  "law_revision_id": "341CO0000000312_20260401_508CO0000000049",
+  "law_revision_id": "341CO0000000312_20261001_508CO0000000308",
   "law_type": "CabinetOrder",
   "law_title": "防衛省職員の災害補償に関する政令",
   "law_title_kana": "ぼうえいしょうしょくいんのさいがいほしょうにかんするせいれい",
   "abbrev": null,
   "category": "防衛",
-  "updated": "2026-04-03T15:35:00+09:00",
-  "amendment_promulgate_date": "2026-03-23",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-14T10:13:20+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000049",
-  "amendment_law_title": "防衛省の職員の給与等に関する法律施行令及び防衛省職員の災害補償に関する政令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第四十九号",
+  "amendment_law_id": "508CO0000000308",
+  "amendment_law_title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+  "amendment_law_num": "令和八年政令第三百八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "341CO0000000312_20261001_508CO0000000308",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000308",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係政令の整理に関する政令",
+   "amendment_law_num": "令和八年政令第三百八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "341CO0000000312_20260401_508CO0000000049",
    "amendment_promulgate_date": "2026-03-23",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "防衛省の職員の給与等に関する法律施行令及び防衛省職員の災害補償に関する政令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第四十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "341CO0000000312_20250401_507CO0000000112",
@@ -93,7 +103,7 @@
  },
  "_meta": {
   "first_seen": "1966-09-08",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-03T15:35:00+09:00"
+  "fetched_at": "2026-10-15",
+  "updated": "2026-10-14T10:13:20+09:00"
  }
 }

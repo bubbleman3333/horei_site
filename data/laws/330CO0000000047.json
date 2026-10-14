@@ -10,20 +10,20 @@
   "promulgation_date": "1955-03-31"
  },
  "revision_info": {
-  "law_revision_id": "330CO0000000047_20260527_508CO0000000176",
+  "law_revision_id": "330CO0000000047_20261001_508CO0000000314",
   "law_type": "CabinetOrder",
   "law_title": "土地区画整理法施行令",
   "law_title_kana": "とちくかくせいりほうしこうれい",
   "abbrev": null,
   "category": "都市計画",
-  "updated": "2026-06-10T09:44:03+09:00",
-  "amendment_promulgate_date": "2026-05-22",
-  "amendment_enforcement_date": "2026-05-27",
+  "updated": "2026-10-14T10:09:52+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000176",
-  "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和八年政令第百七十六号",
+  "amendment_law_id": "508CO0000000314",
+  "amendment_law_title": "土地区画整理法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "330CO0000000047_20261001_508CO0000000314",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000314",
+   "amendment_law_title": "土地区画整理法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "330CO0000000047_20260527_508CO0000000176",
    "amendment_promulgate_date": "2026-05-22",
    "amendment_enforcement_date": "2026-05-27",
@@ -39,7 +49,7 @@
    "amendment_law_title": "電気通信事業法及び日本電信電話株式会社等に関する法律の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第百七十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "330CO0000000047_20260401_508CO0000000066",
@@ -203,7 +213,7 @@
  },
  "_meta": {
   "first_seen": "1955-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-10T09:44:03+09:00"
+  "fetched_at": "2026-10-15",
+  "updated": "2026-10-14T10:09:52+09:00"
  }
 }

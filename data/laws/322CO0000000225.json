@@ -1,0 +1,100 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "322CO0000000225",
+  "law_num": "昭和二十二年政令第二百二十五号",
+  "law_num_era": "Showa",
+  "law_num_year": 22,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "225",
+  "promulgation_date": "1947-10-30"
+ },
+ "revision_info": {
+  "law_revision_id": "322CO0000000225_20250701_507CO0000000207",
+  "law_type": "CabinetOrder",
+  "law_title": "災害救助法施行令",
+  "law_title_kana": "さいがいきゅうじょほうせこうれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2025-07-01T00:07:00+09:00",
+  "amendment_promulgate_date": "2025-06-06",
+  "amendment_enforcement_date": "2025-07-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "507CO0000000207",
+  "amendment_law_title": "災害対策基本法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和七年政令第二百七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "322CO0000000225_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000225_20250701_507CO0000000207",
+   "amendment_promulgate_date": "2025-06-06",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507CO0000000207",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和七年政令第二百七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000225_20210520_503CO0000000153",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503CO0000000153",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000225_20190401_430CO0000000359",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430CO0000000359",
+   "amendment_law_title": "災害救助法施行令及び災害対策基本法施行令の一部を改正する政令",
+   "amendment_law_num": "平成三十年政令第三百五十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "322CO0000000225_20160401_427CO0000000030",
+   "amendment_promulgate_date": "2015-01-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000030",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（災害の程度）",
+  "title": "第一条",
+  "paragraphs": [
+   "災害救助法（昭和二十二年法律第百十八号。以下「法」という。）第二条第一項に規定する政令で定める程度の災害は、次の各号のいずれかに該当する災害とする。",
+   "前項第一号から第三号までに規定する住家が滅失した世帯の数の算定に当たっては、住家が半壊し又は半焼する等著しく損傷した世帯は二世帯をもって、住家が床上浸水、土砂の堆積等により一時的に居住することができない状態となった世帯は三世帯をもって、それぞれ住家が滅失した一の世帯とみなす。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1947-10-30",
+  "fetched_at": "2026-10-15",
+  "updated": "2025-07-01T00:07:00+09:00"
+ }
+}
