@@ -10,20 +10,20 @@
   "promulgation_date": "2005-07-22"
  },
  "revision_info": {
-  "law_revision_id": "417AC0000000085_20260520_508AC0000000021",
+  "law_revision_id": "417AC0000000085_20261016_508AC0000000035",
   "law_type": "Act",
   "law_title": "物資の流通の効率化に関する法律",
   "law_title_kana": "ぶっしのりゅうつうのこうりつかにかんするほうりつ",
   "abbrev": "物流総合効率化法",
   "category": "産業通則",
-  "updated": "2026-05-20T10:44:56+09:00",
-  "amendment_promulgate_date": "2026-05-20",
-  "amendment_enforcement_date": "2026-05-20",
+  "updated": "2026-10-16T00:16:29+09:00",
+  "amendment_promulgate_date": "2026-06-10",
+  "amendment_enforcement_date": "2026-10-16",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508AC0000000021",
-  "amendment_law_title": "物資の流通の効率化に関する法律の一部を改正する法律",
-  "amendment_law_num": "令和八年法律第二十一号",
+  "amendment_law_id": "508AC0000000035",
+  "amendment_law_title": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第三十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -63,7 +63,7 @@
    "amendment_law_title": "地域公共交通の活性化及び再生に関する法律の一部を改正する法律",
    "amendment_law_num": "令和八年法律第三十五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "417AC0000000085_20260520_508AC0000000021",
@@ -73,7 +73,7 @@
    "amendment_law_title": "物資の流通の効率化に関する法律の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "417AC0000000085_20260401_506AC0000000023",
@@ -212,7 +212,7 @@
  },
  "_meta": {
   "first_seen": "2005-07-22",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-20T10:44:56+09:00"
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-16T00:16:29+09:00"
  }
 }

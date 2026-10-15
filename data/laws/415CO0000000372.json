@@ -1,0 +1,77 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "415CO0000000372",
+  "law_num": "平成十五年政令第三百七十二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 15,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "372",
+  "promulgation_date": "2003-08-08"
+ },
+ "revision_info": {
+  "law_revision_id": "415CO0000000372_20210901_503CO0000000195",
+  "law_type": "CabinetOrder",
+  "law_title": "次世代育成支援対策推進法施行令",
+  "law_title_kana": "じせだいいくせいしえんたいさくすいしんほうせこうれい",
+  "abbrev": "次世代法施行令",
+  "category": "社会福祉",
+  "updated": "2022-03-30T00:10:19+09:00",
+  "amendment_promulgate_date": "2021-07-02",
+  "amendment_enforcement_date": "2021-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "503CO0000000195",
+  "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和三年政令第百九十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "415CO0000000372_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000372_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000372_20120919_424CO0000000235",
+   "amendment_promulgate_date": "2012-09-14",
+   "amendment_enforcement_date": "2012-09-19",
+   "amendment_law_id": "424CO0000000235",
+   "amendment_law_num": "平成二十四年政令第二百三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "次世代育成支援対策推進法（以下「法」という。）第十九条第一項の国及び地方公共団体の機関、それらの長又はそれらの職員で政令で定めるものは、次の表の上欄に掲げるものとし、それぞれ同表の下欄に掲げる職員についての特定事業主行動計画を策定するものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2003-08-08",
+  "fetched_at": "2026-10-16",
+  "updated": "2022-03-30T00:10:19+09:00"
+ }
+}

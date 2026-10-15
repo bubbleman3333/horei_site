@@ -10,20 +10,20 @@
   "promulgation_date": "1962-09-08"
  },
  "revision_info": {
-  "law_revision_id": "337CO0000000352_20261001_508CO0000000286",
+  "law_revision_id": "337CO0000000352_20261001_508CO0000000311",
   "law_type": "CabinetOrder",
   "law_title": "地方公務員等共済組合法施行令",
   "law_title_kana": "ちほうこうむいんとうきょうさいくみあいほうしこうれい",
   "abbrev": null,
   "category": "地方自治",
-  "updated": "2026-10-06T09:34:56+09:00",
-  "amendment_promulgate_date": "2026-09-16",
+  "updated": "2026-10-15T10:17:52+09:00",
+  "amendment_promulgate_date": "2026-09-30",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000286",
-  "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和八年政令第二百八十六号",
+  "amendment_law_id": "508CO0000000311",
+  "amendment_law_title": "地方公務員等共済組合法施行令及び地方公務員等共済組合法施行令及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律及び地方公務員等共済組合法及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の一部を改正する法律の施行に伴う地方公務員等共済組合法による長期給付等に関する経過措置に関する政令の一部を改正する政令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百十一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -31,6 +31,16 @@
   "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
+  {
+   "law_revision_id": "337CO0000000352_20271001_508CO0000000311",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2027-10-01",
+   "amendment_law_id": "508CO0000000311",
+   "amendment_law_title": "地方公務員等共済組合法施行令及び地方公務員等共済組合法施行令及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律及び地方公務員等共済組合法及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の一部を改正する法律の施行に伴う地方公務員等共済組合法による長期給付等に関する経過措置に関する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
   {
    "law_revision_id": "337CO0000000352_20270801_508CO0000000240",
    "amendment_promulgate_date": "2026-07-29",
@@ -52,6 +62,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "337CO0000000352_20261001_508CO0000000311",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508CO0000000311",
+   "amendment_law_title": "地方公務員等共済組合法施行令及び地方公務員等共済組合法施行令及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律及び地方公務員等共済組合法及び被用者年金制度の一元化等を図るための厚生年金保険法等の一部を改正する法律の一部を改正する法律の施行に伴う地方公務員等共済組合法による長期給付等に関する経過措置に関する政令の一部を改正する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "337CO0000000352_20261001_508CO0000000286",
    "amendment_promulgate_date": "2026-09-16",
    "amendment_enforcement_date": "2026-10-01",
@@ -59,7 +79,7 @@
    "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第二百八十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "337CO0000000352_20260801_508CO0000000240",
@@ -410,26 +430,6 @@
    "amendment_law_num": "令和三年政令第三百二十二号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "337CO0000000352_20220101_503CO0000000222",
-   "amendment_promulgate_date": "2021-08-04",
-   "amendment_enforcement_date": "2022-01-01",
-   "amendment_law_id": "503CO0000000222",
-   "amendment_law_title": "健康保険法施行令等の一部を改正する政令",
-   "amendment_law_num": "令和三年政令第二百二十二号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "337CO0000000352_20210401_503CO0000000104",
-   "amendment_promulgate_date": "2021-03-31",
-   "amendment_enforcement_date": "2021-04-01",
-   "amendment_law_id": "503CO0000000104",
-   "amendment_law_title": "地方公務員等共済組合法施行令等の一部を改正する等の政令等の一部を改正する政令",
-   "amendment_law_num": "令和三年政令第百四号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -453,7 +453,7 @@
  },
  "_meta": {
   "first_seen": "1962-09-08",
-  "fetched_at": "2026-10-06",
-  "updated": "2026-10-06T09:34:56+09:00"
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-15T10:17:52+09:00"
  }
 }

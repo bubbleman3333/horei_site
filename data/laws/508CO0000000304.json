@@ -1,0 +1,56 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000304",
+  "law_num": "令和八年政令第三百四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "304",
+  "promulgation_date": "2026-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000304_20261102_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "防災庁組織令",
+  "law_title_kana": "ぼうさいちょうそしきれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-10-15T10:21:18+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000304_20261102_000000000000000",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（統括官）",
+  "title": "第一条",
+  "paragraphs": [
+   "防災庁に、統括官四人を置く。",
+   "統括官は、命を受けて、防災庁設置法第四条第一項及び第二項に規定する事務のほか、次に掲げる事務を分掌する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-09-30",
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-15T10:21:18+09:00"
+ }
+}

@@ -10,20 +10,20 @@
   "promulgation_date": "2003-12-10"
  },
  "revision_info": {
-  "law_revision_id": "415CO0000000507_20260731_508CO0000000234",
+  "law_revision_id": "415CO0000000507_20260930_508CO0000000309",
   "law_type": "CabinetOrder",
   "law_title": "個人情報の保護に関する法律施行令",
   "law_title_kana": "こじんじょうほうのほごにかんするほうりつしこうれい",
   "abbrev": "個人情報保護法施行令",
   "category": "憲法",
-  "updated": "2026-08-12T13:37:54+09:00",
-  "amendment_promulgate_date": "2026-07-29",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-10-15T10:19:43+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-09-30",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000234",
-  "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
-  "amendment_law_num": "令和八年政令第二百三十四号",
+  "amendment_law_id": "508CO0000000309",
+  "amendment_law_title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,26 @@
  },
  "revisions": [
   {
+   "law_revision_id": "415CO0000000507_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "415CO0000000507_20260930_508CO0000000309",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-09-30",
+   "amendment_law_id": "508CO0000000309",
+   "amendment_law_title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "415CO0000000507_20260731_508CO0000000234",
    "amendment_promulgate_date": "2026-07-29",
    "amendment_enforcement_date": "2026-07-31",
@@ -39,7 +59,7 @@
    "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
    "amendment_law_num": "令和八年政令第二百三十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "415CO0000000507_20260521_508CO0000000038",
@@ -207,7 +227,7 @@
  },
  "_meta": {
   "first_seen": "2003-12-10",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-12T13:37:54+09:00"
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-15T10:19:43+09:00"
  }
 }

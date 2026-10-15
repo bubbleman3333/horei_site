@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "410CO0000000361",
+  "law_num": "平成十年政令第三百六十一号",
+  "law_num_era": "Heisei",
+  "law_num_year": 10,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "361",
+  "promulgation_date": "1998-11-05"
+ },
+ "revision_info": {
+  "law_revision_id": "410CO0000000361_20210520_503CO0000000153",
+  "law_type": "CabinetOrder",
+  "law_title": "被災者生活再建支援法施行令",
+  "law_title_kana": "ひさいしゃせいかつさいけんしえんほうしこうれい",
+  "abbrev": "被災者支援法施行令",
+  "category": "災害対策",
+  "updated": "2024-05-27T16:18:28+09:00",
+  "amendment_promulgate_date": "2021-05-10",
+  "amendment_enforcement_date": "2021-05-20",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "503CO0000000153",
+  "amendment_law_title": "災害対策基本法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和三年政令第百五十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "410CO0000000361_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000361_20210520_503CO0000000153",
+   "amendment_promulgate_date": "2021-05-10",
+   "amendment_enforcement_date": "2021-05-20",
+   "amendment_law_id": "503CO0000000153",
+   "amendment_law_title": "災害対策基本法等の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和三年政令第百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000361_20201204_502CO0000000341",
+   "amendment_promulgate_date": "2020-12-04",
+   "amendment_enforcement_date": "2020-12-04",
+   "amendment_law_id": "502CO0000000341",
+   "amendment_law_title": "被災者生活再建支援法施行令の一部を改正する政令",
+   "amendment_law_num": "令和二年政令第三百四十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "410CO0000000361_20160401_427CO0000000030",
+   "amendment_promulgate_date": "2015-01-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "427CO0000000030",
+   "amendment_law_title": "地方自治法施行令等の一部を改正する政令",
+   "amendment_law_num": "平成二十七年政令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（支援金の支給に係る自然災害）",
+  "title": "第一条",
+  "paragraphs": [
+   "被災者生活再建支援法（以下「法」という。）第二条第二号の政令で定める自然災害は、次の各号のいずれかに該当する自然災害とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1998-11-05",
+  "fetched_at": "2026-10-16",
+  "updated": "2024-05-27T16:18:28+09:00"
+ }
+}

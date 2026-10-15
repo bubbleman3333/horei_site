@@ -10,20 +10,20 @@
   "promulgation_date": "2005-09-09"
  },
  "revision_info": {
-  "law_revision_id": "417CO0000000298_20260701_508CO0000000205",
+  "law_revision_id": "417CO0000000298_20261016_508CO0000000270",
   "law_type": "CabinetOrder",
   "law_title": "物資の流通の効率化に関する法律施行令",
   "law_title_kana": "ぶっしのりゅうつうのこうりつかにかんするほうりつしこうれい",
   "abbrev": "物流総合効率化法施行令",
   "category": "産業通則",
-  "updated": "2026-07-07T10:33:13+09:00",
-  "amendment_promulgate_date": "2026-06-24",
-  "amendment_enforcement_date": "2026-07-01",
+  "updated": "2026-10-16T00:16:49+09:00",
+  "amendment_promulgate_date": "2026-09-04",
+  "amendment_enforcement_date": "2026-10-16",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000205",
-  "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和八年政令第二百五号",
+  "amendment_law_id": "508CO0000000270",
+  "amendment_law_title": "租税特別措置法施行令及び物資の流通の効率化に関する法律施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第二百七十号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "租税特別措置法施行令及び物資の流通の効率化に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百七十号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "417CO0000000298_20260701_508CO0000000205",
@@ -49,7 +49,7 @@
    "amendment_law_title": "環境省設置法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第二百五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "417CO0000000298_20260401_507CO0000000292",
@@ -124,7 +124,7 @@
  },
  "_meta": {
   "first_seen": "2005-09-09",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-07T10:33:13+09:00"
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-16T00:16:49+09:00"
  }
 }

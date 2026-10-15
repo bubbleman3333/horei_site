@@ -10,20 +10,20 @@
   "promulgation_date": "2001-01-06"
  },
  "revision_info": {
-  "law_revision_id": "413M60000100001_20261001_508M60000100116",
+  "law_revision_id": "413M60000100001_20261001_508M60000100144",
   "law_type": "MinisterialOrdinance",
   "law_title": "厚生労働省組織規則",
   "law_title_kana": "こうせいろうどうしょうそしききそく",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-10-01T05:06:20+09:00",
-  "amendment_promulgate_date": "2026-07-29",
+  "updated": "2026-10-15T13:12:25+09:00",
+  "amendment_promulgate_date": "2026-09-30",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000100116",
-  "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
-  "amendment_law_num": "令和八年厚生労働省令第百十六号",
+  "amendment_law_id": "508M60000100144",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百四十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "413M60000100001_20261001_508M60000100144",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100144",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "413M60000100001_20261001_508M60000100116",
    "amendment_promulgate_date": "2026-07-29",
    "amendment_enforcement_date": "2026-10-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "労働安全衛生法及び作業環境測定法の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備等に関する省令",
    "amendment_law_num": "令和八年厚生労働省令第百十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413M60000100001_20260804_508M60000100122",
@@ -420,16 +430,6 @@
    "amendment_law_num": "令和二年厚生労働省令第百五十八号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "413M60000100001_20200901_502M60000100155",
-   "amendment_promulgate_date": "2020-08-31",
-   "amendment_enforcement_date": "2020-09-01",
-   "amendment_law_id": "502M60000100155",
-   "amendment_law_title": "医薬品、医療機器等の品質、有効性及び安全性の確保等に関する法律等の一部を改正する法律の施行に伴う関係省令の整備等に関する省令",
-   "amendment_law_num": "令和二年厚生労働省令第百五十五号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -450,7 +450,7 @@
  },
  "_meta": {
   "first_seen": "2001-01-06",
-  "fetched_at": "2026-10-01",
-  "updated": "2026-10-01T05:06:20+09:00"
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-15T13:12:25+09:00"
  }
 }

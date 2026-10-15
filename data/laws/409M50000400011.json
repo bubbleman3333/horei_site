@@ -10,20 +10,20 @@
   "promulgation_date": "1997-03-10"
  },
  "revision_info": {
-  "law_revision_id": "409M50000400011_20251225_507M60000400006",
+  "law_revision_id": "409M50000400011_20261001_508M60000400072",
   "law_type": "MinisterialOrdinance",
   "law_title": "液化石油ガスの保安の確保及び取引の適正化に関する法律施行規則",
   "law_title_kana": "えきかせきゆがすのほあんのかくほおよびとりひきのてきせいかにかんするほうりつしこうきそく",
-  "abbrev": "ＬＰＧ法施行規則,液石法施行規則,ＬＰガス法施行規則,液化石油ガス法施行規則",
+  "abbrev": "液石法施行規則,ＬＰＧ法施行規則,ＬＰガス法施行規則,液化石油ガス法施行規則",
   "category": "工業",
-  "updated": "2026-01-16T14:41:31+09:00",
-  "amendment_promulgate_date": "2025-01-31",
-  "amendment_enforcement_date": "2025-12-25",
+  "updated": "2026-10-15T13:34:26+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000400006",
-  "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
-  "amendment_law_num": "令和七年経済産業省令第六号",
+  "amendment_law_id": "508M60000400072",
+  "amendment_law_title": "高圧ガス保安法に基づく高圧ガス製造保安責任者試験等に関する規則及び液化石油ガスの保安の確保及び取引の適正化に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第七十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "409M50000400011_20261001_508M60000400072",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000400072",
+   "amendment_law_title": "高圧ガス保安法に基づく高圧ガス製造保安責任者試験等に関する規則及び液化石油ガスの保安の確保及び取引の適正化に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "409M50000400011_20251225_507M60000400006",
    "amendment_promulgate_date": "2025-01-31",
    "amendment_enforcement_date": "2025-12-25",
@@ -39,7 +49,7 @@
    "amendment_law_title": "消費生活用製品安全法等の一部を改正する法律の施行に伴う経済産業省関係省令の整備に関する省令",
    "amendment_law_num": "令和七年経済産業省令第六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "409M50000400011_20251001_507M60000400065",
@@ -280,7 +290,7 @@
  },
  "_meta": {
   "first_seen": "1997-03-10",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-01-16T14:41:31+09:00"
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-15T13:34:26+09:00"
  }
 }

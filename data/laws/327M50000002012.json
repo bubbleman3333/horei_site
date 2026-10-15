@@ -10,20 +10,20 @@
   "promulgation_date": "1952-04-23"
  },
  "revision_info": {
-  "law_revision_id": "327M50000002012_20260401_508M60000002023",
+  "law_revision_id": "327M50000002012_20261001_508M60000002084",
   "law_type": "MinisterialOrdinance",
   "law_title": "内閣府所管旅費取扱規則",
   "law_title_kana": "ないかくふしょかんりょひとりあつかいきそく",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-05-12T09:48:18+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-15T13:13:40+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002023",
-  "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律及び重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律の一部の施行に伴う関係内閣府令の整備に関する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第二十三号",
+  "amendment_law_id": "508M60000002084",
+  "amendment_law_title": "内閣府所管旅費取扱規則の一部を改正する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第八十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "327M50000002012_20261001_508M60000002084",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000002084",
+   "amendment_law_title": "内閣府所管旅費取扱規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "327M50000002012_20260401_508M60000002023",
    "amendment_promulgate_date": "2026-03-31",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律及び重要電子計算機に対する不正な行為による被害の防止に関する法律の施行に伴う関係法律の整備等に関する法律の一部の施行に伴う関係内閣府令の整備に関する内閣府令",
    "amendment_law_num": "令和八年内閣府令第二十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "327M50000002012_20250401_507M60000002027",
@@ -121,7 +131,7 @@
  },
  "_meta": {
   "first_seen": "1952-04-23",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-05-12T09:48:18+09:00"
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-15T13:13:40+09:00"
  }
 }
