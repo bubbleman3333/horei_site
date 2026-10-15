@@ -10,20 +10,20 @@
   "promulgation_date": "1982-03-31"
  },
  "revision_info": {
-  "law_revision_id": "357M50000040010_20260615_508M60000002055",
+  "law_revision_id": "357M50000040010_20260930_508M60000002086",
   "law_type": "MinisterialOrdinance",
   "law_title": "銀行法施行規則",
   "law_title_kana": "ぎんこうほうせこうきそく",
   "abbrev": null,
   "category": "金融・保険",
-  "updated": "2026-06-29T10:45:49+09:00",
-  "amendment_promulgate_date": "2026-06-12",
-  "amendment_enforcement_date": "2026-06-15",
+  "updated": "2026-10-15T13:37:11+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-09-30",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002055",
+  "amendment_law_id": "508M60000002086",
   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第五十五号",
+  "amendment_law_num": "令和八年内閣府令第八十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -52,6 +52,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "357M50000040010_20260930_508M60000002086",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-09-30",
+   "amendment_law_id": "508M60000002086",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "357M50000040010_20260615_508M60000002055",
    "amendment_promulgate_date": "2026-06-12",
    "amendment_enforcement_date": "2026-06-15",
@@ -59,7 +69,7 @@
    "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第五十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "357M50000040010_20260601_508M60000002051",
@@ -420,16 +430,6 @@
    "amendment_law_num": "令和三年内閣府令第六号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "357M50000040010_20201223_502M60000002075",
-   "amendment_promulgate_date": "2020-12-23",
-   "amendment_enforcement_date": "2020-12-23",
-   "amendment_law_id": "502M60000002075",
-   "amendment_law_title": "無尽業法施行細則等の一部を改正する内閣府令",
-   "amendment_law_num": "令和二年内閣府令第七十五号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -457,7 +457,7 @@
  },
  "_meta": {
   "first_seen": "1982-03-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-29T10:45:49+09:00"
+  "fetched_at": "2026-10-16",
+  "updated": "2026-10-15T13:37:11+09:00"
  }
 }
