@@ -1,0 +1,98 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "411CO0000000253",
+  "law_num": "平成十一年政令第二百五十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 11,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "253",
+  "promulgation_date": "1999-08-18"
+ },
+ "revision_info": {
+  "law_revision_id": "411CO0000000253_20230401_505CO0000000126",
+  "law_type": "CabinetOrder",
+  "law_title": "重要影響事態に際して我が国の平和及び安全を確保するための措置に関する法律第三条第一項第四号の関係行政機関を定める政令",
+  "law_title_kana": "じゅうようえいきょうじたいにさいしてわがくにのへいわおよびあんぜんをかくほするためのそちにかんするほうりつだいさんじょうだいいっこうだいよんごうのかんけいぎょうせいきかんをさだめるせいれい",
+  "abbrev": "周辺事態安全確保法第三条第一項第四号の関係行政機関を定める政令,周辺事態法第三条第一項第四号の関係行政機関を定める政令,ガイドライン関連法第三条第一項第四号の関係行政機関を定める政令",
+  "category": "外事",
+  "updated": "2023-05-15T13:29:06+09:00",
+  "amendment_promulgate_date": "2023-03-30",
+  "amendment_enforcement_date": "2023-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505CO0000000126",
+  "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和五年政令第百二十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "411CO0000000253_20261102_508CO0000000305",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508CO0000000305",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和八年政令第三百五号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000253_20230401_505CO0000000126",
+   "amendment_promulgate_date": "2023-03-30",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505CO0000000126",
+   "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和五年政令第百二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000253_20210901_503CO0000000195",
+   "amendment_promulgate_date": "2021-07-02",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000195",
+   "amendment_law_title": "デジタル庁設置法の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第百九十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000253_20190401_431CO0000000038",
+   "amendment_promulgate_date": "2019-03-15",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "431CO0000000038",
+   "amendment_law_title": "出入国管理及び難民認定法及び法務省設置法の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+   "amendment_law_num": "平成三十一年政令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "411CO0000000253_20160329_428CO0000000084",
+   "amendment_promulgate_date": "2016-03-25",
+   "amendment_enforcement_date": "2016-03-29",
+   "amendment_law_id": "428CO0000000084",
+   "amendment_law_title": "我が国及び国際社会の平和及び安全の確保に資するための自衛隊法等の一部を改正する法律及び国際平和共同対処事態に際して我が国が実施する諸外国の軍隊等に対する協力支援活動等に関する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "平成二十八年政令第八十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "重要影響事態に際して我が国の平和及び安全を確保するための措置に関する法律（平成十一年法律第六十号）第三条第一項第四号の政令で定める機関は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1999-08-18",
+  "fetched_at": "2026-10-15",
+  "updated": "2023-05-15T13:29:06+09:00"
+ }
+}
