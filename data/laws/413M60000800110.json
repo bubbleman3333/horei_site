@@ -10,20 +10,20 @@
   "promulgation_date": "2001-07-19"
  },
  "revision_info": {
-  "law_revision_id": "413M60000800110_20260401_507M60000800102",
+  "law_revision_id": "413M60000800110_20261001_508M60000800082",
   "law_type": "MinisterialOrdinance",
   "law_title": "マンションの管理の適正化の推進に関する法律施行規則",
   "law_title_kana": "まんしょんのかんりのてきせいかのすいしんにかんするほうりつせこうきそく",
   "abbrev": "マンション管理適正化法施行規則",
   "category": "建築・住宅",
-  "updated": "2026-10-07T14:03:54+09:00",
-  "amendment_promulgate_date": "2025-10-02",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-16T09:56:40+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000800102",
-  "amendment_law_title": "マンションの管理の適正化の推進に関する法律施行規則の一部を改正する省令",
-  "amendment_law_num": "令和七年国土交通省令第百二号",
+  "amendment_law_id": "508M60000800082",
+  "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第八十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "413M60000800110_20261001_508M60000800082",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800082",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "413M60000800110_20260401_507M60000800102",
    "amendment_promulgate_date": "2025-10-02",
    "amendment_enforcement_date": "2026-04-01",
@@ -49,7 +59,7 @@
    "amendment_law_title": "マンションの管理の適正化の推進に関する法律施行規則の一部を改正する省令",
    "amendment_law_num": "令和七年国土交通省令第百二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413M60000800110_20260331_508M60000800025",
@@ -241,7 +251,7 @@
  },
  "_meta": {
   "first_seen": "2001-07-19",
-  "fetched_at": "2026-10-08",
-  "updated": "2026-10-07T14:03:54+09:00"
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T09:56:40+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "1993-03-03"
  },
  "revision_info": {
-  "law_revision_id": "405M50000040010_20260615_508M60000002055",
+  "law_revision_id": "405M50000040010_20260930_508M60000002086",
   "law_type": "MinisterialOrdinance",
   "law_title": "協同組合による金融事業に関する法律施行規則",
   "law_title_kana": "きょうどうくみあいによるきんゆうじぎょうにかんするほうりつせこうきそく",
   "abbrev": "協金法施行規則",
   "category": "産業通則",
-  "updated": "2026-06-29T10:41:09+09:00",
-  "amendment_promulgate_date": "2026-06-12",
-  "amendment_enforcement_date": "2026-06-15",
+  "updated": "2026-10-16T09:59:10+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-09-30",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002055",
+  "amendment_law_id": "508M60000002086",
   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第五十五号",
+  "amendment_law_num": "令和八年内閣府令第八十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -52,6 +52,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "405M50000040010_20260930_508M60000002086",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-09-30",
+   "amendment_law_id": "508M60000002086",
+   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第八十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "405M50000040010_20260615_508M60000002055",
    "amendment_promulgate_date": "2026-06-12",
    "amendment_enforcement_date": "2026-06-15",
@@ -59,7 +69,7 @@
    "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第五十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "405M50000040010_20260601_508M60000002051",
@@ -421,16 +431,6 @@
    "amendment_law_num": "令和二年内閣府令第三十五号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "405M50000040010_20200430_502M60000002039",
-   "amendment_promulgate_date": "2020-04-30",
-   "amendment_enforcement_date": "2020-04-30",
-   "amendment_law_id": "502M60000002039",
-   "amendment_law_title": "銀行法施行規則等の一部を改正する内閣府令",
-   "amendment_law_num": "令和二年内閣府令第三十九号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -444,7 +444,7 @@
  },
  "_meta": {
   "first_seen": "1993-03-03",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-29T10:41:09+09:00"
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T09:59:10+09:00"
  }
 }

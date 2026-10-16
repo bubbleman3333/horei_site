@@ -1,0 +1,58 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "508M60000240004",
+  "law_num": "令和八年財務省・農林水産省令第四号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "004",
+  "promulgation_date": "2026-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "508M60000240004_20270401_000000000000000",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "財務省・農林水産省関係主要食糧の需給及び価格の安定に関する法律施行規則",
+  "law_title_kana": "ざいむしょうのうりんすいさんしょうかんけいしゅようしょくりょうのじゅきゅうおよびかかくのあんていにかんするほうりつしこうきそく",
+  "abbrev": null,
+  "category": "農業",
+  "updated": "2026-10-16T10:01:25+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2027-04-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508M60000240004_20270401_000000000000000",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（米穀等取扱事業の届出）",
+  "title": "第一条",
+  "paragraphs": [
+   "主要食糧の需給及び価格の安定に関する法律（以下「法」という。）第九条第一項の主務省令で定める期間は、毎年七月一日から翌年六月三十日までの一年間とする。",
+   "法第九条第一項の主務省令で定める規模は、次の各号に掲げる事業の種類ごとに、当該各号に定める規模とする。",
+   "前項及び法第九条第一項第四号の出荷予定数量及び出荷数量、販売予定数量及び販売数量並びに買入予定数量及び買入数量（以下この項及び第五項第三号において「出荷等数量」という。）には、連鎖化事業者（主要食糧の需給及び価格の安定に関する法律施行規則（平成七年農林水産省令第十七号。以下「規則」という。）第二条第六項に規定する連鎖化事業者をいう。以下同じ。）にあっては、加盟者（同項に規定する加盟者をいう。以下同じ。）の事業の用に供する米穀の数量を含めることができる。この場合において、当該連鎖化事業者の加盟者の出荷等数量には、当該連鎖化事業者に係る出荷等数量は含まないものとする。",
+   "法第九条第一項の規定による届出は、あらかじめ、同項各号に掲げる事項を記載した書類を主務大臣に提出してしなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-09-30",
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T10:01:25+09:00"
+ }
+}

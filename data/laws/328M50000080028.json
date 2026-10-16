@@ -10,20 +10,20 @@
   "promulgation_date": "1953-12-28"
  },
  "revision_info": {
-  "law_revision_id": "328M50000080028_20260801_508M60000080027",
+  "law_revision_id": "328M50000080028_20261001_508M60000080031",
   "law_type": "MinisterialOrdinance",
   "law_title": "私立学校教職員共済法施行規則",
   "law_title_kana": "しりつがっこうきょうしょくいんきょうさいほうしこうきそく",
   "abbrev": "私学共済法施行規則",
   "category": "教育",
-  "updated": "2026-08-17T14:01:23+09:00",
-  "amendment_promulgate_date": "2026-07-31",
-  "amendment_enforcement_date": "2026-08-01",
+  "updated": "2026-10-16T09:58:03+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000080027",
+  "amendment_law_id": "508M60000080031",
   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年文部科学省令第二十七号",
+  "amendment_law_num": "令和八年文部科学省令第三十一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "328M50000080028_20261001_508M60000080031",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000080031",
+   "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年文部科学省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "328M50000080028_20260801_508M60000080027",
    "amendment_promulgate_date": "2026-07-31",
    "amendment_enforcement_date": "2026-08-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "私立学校教職員共済法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年文部科学省令第二十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "328M50000080028_20260614_508M60000080025",
@@ -420,16 +430,6 @@
    "amendment_law_num": "平成三十一年文部科学省令第十六号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "328M50000080028_20190415_431M60000080016",
-   "amendment_promulgate_date": "2019-04-12",
-   "amendment_enforcement_date": "2019-04-15",
-   "amendment_law_id": "431M60000080016",
-   "amendment_law_title": "私立学校教職員共済法施行規則及び私立学校教職員共済法施行規則等の一部を改正する省令の一部を改正する省令",
-   "amendment_law_num": "平成三十一年文部科学省令第十六号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -447,13 +447,13 @@
   "caption": "（異動報告）",
   "title": "第一条",
   "paragraphs": [
-   "私立学校教職員共済法（昭和二十八年法律第二百四十五号。以下「法」という。）第十四条第一項に定める学校法人等（法附則第十項の規定により学校法人とみなされる者を含む。以下「学校法人等」という。）は、当該加入者に関し、次に掲げる事由が生じたときは、十日以内（第一号又は第三号に掲げる事由が生じたときは、五日以内）に、様式第一号（個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号をいう。以下同じ。）を記載したもの）から様式第四号までによる異動報告書を日本私立学校振興・共済事業団（以下「事業団」という。）に提出しなければならない。",
+   "私立学校教職員共済法（昭和二十八年法律第二百四十五号。以下「法」という。）第十四条第一項に定める学校法人等（法附則第十項の規定により学校法人とみなされる者を含む。以下「学校法人等」という。）は、当該加入者に関し、次に掲げる事由が生じたときは、十日以内（第一号、第三号又は第四号に掲げる事由が生じたときは、五日以内）に、様式第一号（個人番号（行政手続における特定の個人を識別するための番号の利用等に関する法律（平成二十五年法律第二十七号。以下「番号利用法」という。）第二条第五項に規定する個人番号をいう。以下同じ。）を記載したもの）から様式第四号までによる異動報告書を日本私立学校振興・共済事業団（以下「事業団」という。）に提出しなければならない。",
    "学校法人等は、次の各号に掲げる事由が生じたときは、五日以内に、様式第五号による異動報告書を事業団に提出しなければならない。"
   ]
  },
  "_meta": {
   "first_seen": "1953-12-28",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-08-17T14:01:23+09:00"
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T09:58:03+09:00"
  }
 }

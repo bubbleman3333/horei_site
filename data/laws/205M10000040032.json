@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "205M10000040032",
+  "law_num": "大正五年大蔵省令第三十二号",
+  "law_num_era": "Taisho",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "032",
+  "promulgation_date": "1916-12-21"
+ },
+ "revision_info": {
+  "law_revision_id": "205M10000040032_20210101_502M60000040073",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "大正五年大蔵省令第三十二号（証券ヲ以テスル歳入納付ニ関スル法律施行細則）",
+  "law_title_kana": "しょうけんをもってするさいにゅうのうふにかんするほうりつしこうさいそく",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2024-06-05T12:38:17+09:00",
+  "amendment_promulgate_date": "2020-12-04",
+  "amendment_enforcement_date": "2021-01-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "502M60000040073",
+  "amendment_law_title": "証券ヲ以テスル歳入納付ニ関スル法律施行細則等の一部を改正する省令",
+  "amendment_law_num": "令和二年財務省令第七十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "205M10000040032_20270331_508M60000040063",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_law_id": "508M60000040063",
+   "amendment_law_title": "大正五年勅令第二百五十六号第六条第一項による証券の納付に関する制限を定める省令及び証券をもつてする歳入納付に関する法律施行細則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "205M10000040032_20210101_502M60000040073",
+   "amendment_promulgate_date": "2020-12-04",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000040073",
+   "amendment_law_title": "証券ヲ以テスル歳入納付ニ関スル法律施行細則等の一部を改正する省令",
+   "amendment_law_num": "令和二年財務省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "205M10000040032_20190701_501M60000040005",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000040005",
+   "amendment_law_title": "政府カ第三債務者トシテ差押ヘラレタル債務額ノ仕払停止仕払執行及供託ニ関スル手続等の一部を改正する省令",
+   "amendment_law_num": "令和元年財務省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "205M10000040032_20121001_424M60000040056",
+   "amendment_promulgate_date": "2012-09-21",
+   "amendment_enforcement_date": "2012-10-01",
+   "amendment_law_id": "424M60000040056",
+   "amendment_law_num": "平成二十四年財務省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "証券ヲ以テ租税又ハ歳入金ヲ納付セムトスル者ハ其ノ証券ノ裏面ニ記名捺印シ指定ノ場所ニ之ヲ納付スヘシ納税告知書、納入告知書、納付書又ハ払込通知書ノ交付ヲ受ケタル者ニ在リテハ之ヲ添附スルコトヲ要ス"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1916-12-21",
+  "fetched_at": "2026-10-17",
+  "updated": "2024-06-05T12:38:17+09:00"
+ }
+}

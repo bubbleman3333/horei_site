@@ -10,20 +10,20 @@
   "promulgation_date": "1960-06-09"
  },
  "revision_info": {
-  "law_revision_id": "335RJNJ09030000_20260731_508RJNJ09030115",
+  "law_revision_id": "335RJNJ09030000_20261001_508RJNJ09030116",
   "law_type": "Rule",
   "law_title": "人事院規則九―三〇（特殊勤務手当）",
   "law_title_kana": "じんじいんきそくきゅうのさんじゅうとくしゅきんむてあて",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-08-17T13:51:16+09:00",
-  "amendment_promulgate_date": "2026-07-31",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-10-16T09:29:49+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508RJNJ09030115",
+  "amendment_law_id": "508RJNJ09030116",
   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
-  "amendment_law_num": "令和八年人事院規則九―三〇―一一五",
+  "amendment_law_num": "令和八年人事院規則九―三〇―一一六",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "335RJNJ09030000_20261001_508RJNJ09030116",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508RJNJ09030116",
+   "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―三〇―一一六",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "335RJNJ09030000_20260731_508RJNJ09030115",
    "amendment_promulgate_date": "2026-07-31",
    "amendment_enforcement_date": "2026-07-31",
@@ -39,7 +49,7 @@
    "amendment_law_title": "人事院規則九―三〇（特殊勤務手当）の一部を改正する人事院規則",
    "amendment_law_num": "令和八年人事院規則九―三〇―一一五",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "335RJNJ09030000_20260701_508RJNJ09030114",
@@ -301,7 +311,7 @@
  },
  "_meta": {
   "first_seen": "1960-06-09",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-17T13:51:16+09:00"
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T09:29:49+09:00"
  }
 }

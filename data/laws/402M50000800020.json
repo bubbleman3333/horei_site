@@ -1,0 +1,115 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "402M50000800020",
+  "law_num": "平成二年運輸省令第二十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 2,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "020",
+  "promulgation_date": "1990-07-30"
+ },
+ "revision_info": {
+  "law_revision_id": "402M50000800020_20261001_508M60000800082",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "貨物利用運送事業法施行規則",
+  "law_title_kana": "かもつりよううんそうじぎょうほうしこうきそく",
+  "abbrev": null,
+  "category": "貨物運送",
+  "updated": "2026-10-16T10:12:45+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800082",
+  "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第八十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "402M50000800020_20261001_508M60000800082",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800082",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "402M50000800020_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000800020_20240401_506M60000800002",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800002",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000800020_20230401_505M60000800031",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505M60000800031",
+   "amendment_law_title": "道路運送法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000800020_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "402M50000800020_20160401_428M60000800038",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800038",
+   "amendment_law_num": "平成二十八年国土交通省令第三十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　貨物利用運送事業者が遵守すべき事項",
+  "第三章　第一種貨物利用運送事業",
+  "第四章　第二種貨物利用運送事業",
+  "第五章　外国人等による国際貨物利用運送事業",
+  "第六章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、貨物利用運送事業法（以下「法」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1990-07-30",
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T10:12:45+09:00"
+ }
+}

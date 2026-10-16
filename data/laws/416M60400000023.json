@@ -10,20 +10,20 @@
   "promulgation_date": "2004-12-10"
  },
  "revision_info": {
-  "law_revision_id": "416M60400000023_20260812_508M60400000017",
+  "law_revision_id": "416M60400000023_20261001_508M60400000021",
   "law_type": "Rule",
   "law_title": "確認事務の委託の手続等に関する規則",
   "law_title_kana": "かくにんじむのいたくのてつづきとうにかんするきそく",
   "abbrev": null,
   "category": "警察",
-  "updated": "2026-08-25T10:13:52+09:00",
-  "amendment_promulgate_date": "2026-08-10",
-  "amendment_enforcement_date": "2026-08-12",
+  "updated": "2026-10-16T09:53:34+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60400000017",
-  "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則",
-  "amendment_law_num": "令和八年国家公安委員会規則第十七号",
+  "amendment_law_id": "508M60400000021",
+  "amendment_law_title": "警備員指導教育責任者及び機械警備業務管理者に係る講習等に関する規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第二十一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "416M60400000023_20261001_508M60400000021",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60400000021",
+   "amendment_law_title": "警備員指導教育責任者及び機械警備業務管理者に係る講習等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "416M60400000023_20260812_508M60400000017",
    "amendment_promulgate_date": "2026-08-10",
    "amendment_enforcement_date": "2026-08-12",
@@ -39,7 +49,7 @@
    "amendment_law_title": "金融商品取引法及び資金決済に関する法律の一部を改正する法律の一部の施行に伴う関係国家公安委員会規則の整理に関する規則",
    "amendment_law_num": "令和八年国家公安委員会規則第十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "416M60400000023_20260710_508M60400000014",
@@ -371,7 +381,7 @@
  },
  "_meta": {
   "first_seen": "2004-12-10",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-25T10:13:52+09:00"
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T09:53:34+09:00"
  }
 }

@@ -1,0 +1,109 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "359M50004000017",
+  "law_num": "昭和五十九年建設省令第十七号",
+  "law_num_era": "Showa",
+  "law_num_year": 59,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "017",
+  "promulgation_date": "1984-12-28"
+ },
+ "revision_info": {
+  "law_revision_id": "359M50004000017_20261001_508M60000800082",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "浄化槽設備士に関する省令",
+  "law_title_kana": "じょうかそうせつびしにかんするしょうれい",
+  "abbrev": null,
+  "category": "厚生",
+  "updated": "2026-10-16T10:16:58+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800082",
+  "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第八十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "359M50004000017_20261001_508M60000800082",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800082",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "359M50004000017_20240527_506M60000800062",
+   "amendment_promulgate_date": "2024-05-27",
+   "amendment_enforcement_date": "2024-05-27",
+   "amendment_law_id": "506M60000800062",
+   "amendment_law_title": "情報通信技術の活用による行政手続等に係る関係者の利便性の向上並びに行政運営の簡素化及び効率化を図るための行政手続等における情報通信の技術の利用に関する法律等の一部を改正する法律の施行に伴う国土交通省関係省令の整理に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第六十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359M50004000017_20230228_504M60000800007",
+   "amendment_promulgate_date": "2022-02-28",
+   "amendment_enforcement_date": "2023-02-28",
+   "amendment_law_id": "504M60000800007",
+   "amendment_law_title": "写真のサイズ等の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359M50004000017_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359M50004000017_20190401_429M60000800056",
+   "amendment_promulgate_date": "2017-09-29",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "429M60000800056",
+   "amendment_law_title": "学校教育法の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十九年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "359M50004000017_20160101_427M60000800082",
+   "amendment_promulgate_date": "2015-12-09",
+   "amendment_enforcement_date": "2016-01-01",
+   "amendment_law_id": "427M60000800082",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律の施行に伴う関係法律の整備等に関する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "平成二十七年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（免状の交付の申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "浄化槽法（以下「法」という。）第四十二条第一項の浄化槽設備士免状（以下「免状」という。）の交付を受けようとする者は、別記様式第一号による浄化槽設備士免状交付申請書に法第四十二条第一項各号の一に該当する者であることを証する書類を添付して、これを国土交通大臣に提出しなければならない。",
+   "国土交通大臣は、免状の交付を受けようとする者に係る機構保存本人確認情報（住民基本台帳法（昭和四十二年法律第八十一号）第三十条の七第四項に規定する機構保存本人確認情報をいう。以下同じ。）のうち住民票コード（同法第七条第十三号に規定する住民票コードをいう。以下同じ。）以外のものについて、同法第三十条の九の規定によるその提供を受けることができないときは、その者に対し、戸籍抄本又は住民票の抄本若しくはこれに代わる書面を提出させることができる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1984-12-28",
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T10:16:58+09:00"
+ }
+}

@@ -10,20 +10,20 @@
   "promulgation_date": "2006-02-28"
  },
  "revision_info": {
-  "law_revision_id": "418M60000100019_20260520_508M60000102006",
+  "law_revision_id": "418M60000100019_20261001_508M60000102018",
   "law_type": "MinisterialOrdinance",
   "law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律施行規則",
   "law_title_kana": "しょうがいしゃのにちじょうせいかつおよびしゃかいせいかつをそうごうてきにしえんするためのほうりつしこうきそく",
   "abbrev": "障害者総合支援法施行規則",
   "category": "社会福祉",
-  "updated": "2026-06-02T13:37:27+09:00",
-  "amendment_promulgate_date": "2026-05-20",
-  "amendment_enforcement_date": "2026-05-20",
+  "updated": "2026-10-16T10:23:36+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000102006",
+  "amendment_law_id": "508M60000102018",
   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律施行規則の一部を改正する命令",
-  "amendment_law_num": "令和八年内閣府・厚生労働省令第六号",
+  "amendment_law_num": "令和八年内閣府・厚生労働省令第十八号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "418M60000100019_20261001_508M60000102018",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000102018",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律施行規則の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・厚生労働省令第十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "418M60000100019_20260520_508M60000102006",
    "amendment_promulgate_date": "2026-05-20",
    "amendment_enforcement_date": "2026-05-20",
@@ -49,7 +59,7 @@
    "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律施行規則の一部を改正する命令",
    "amendment_law_num": "令和八年内閣府・厚生労働省令第六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "418M60000100019_20260519_508M60000102004",
@@ -420,15 +430,6 @@
    "amendment_law_num": "平成三十年厚生労働省令第三十一号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "418M60000100019_20170401_429M60000100005",
-   "amendment_promulgate_date": "2017-02-09",
-   "amendment_enforcement_date": "2017-04-01",
-   "amendment_law_id": "429M60000100005",
-   "amendment_law_num": "平成二十九年厚生労働省令第五号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -449,7 +450,7 @@
  },
  "_meta": {
   "first_seen": "2006-02-28",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-02T13:37:27+09:00"
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T10:23:36+09:00"
  }
 }

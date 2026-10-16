@@ -10,20 +10,20 @@
   "promulgation_date": "2009-02-02"
  },
  "revision_info": {
-  "law_revision_id": "421RJNJ09123000_20260807_508RJNJ09123047",
+  "law_revision_id": "421RJNJ09123000_20261001_508RJNJ09123048",
   "law_type": "Rule",
   "law_title": "人事院規則九―一二三（本府省業務調整手当）",
   "law_title_kana": "じんじいんきそくきゅうのひゃくにじゅうさんほんふしょうぎょうむちょうせいてあて",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-08-25T10:12:27+09:00",
-  "amendment_promulgate_date": "2026-08-07",
-  "amendment_enforcement_date": "2026-08-07",
+  "updated": "2026-10-16T09:30:13+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508RJNJ09123047",
+  "amendment_law_id": "508RJNJ09123048",
   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
-  "amendment_law_num": "令和八年人事院規則九―一二三―四七",
+  "amendment_law_num": "令和八年人事院規則九―一二三―四八",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "421RJNJ09123000_20261001_508RJNJ09123048",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508RJNJ09123048",
+   "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
+   "amendment_law_num": "令和八年人事院規則九―一二三―四八",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "421RJNJ09123000_20260807_508RJNJ09123047",
    "amendment_promulgate_date": "2026-08-07",
    "amendment_enforcement_date": "2026-08-07",
@@ -39,7 +49,7 @@
    "amendment_law_title": "人事院規則九―一二三（本府省業務調整手当）の一部を改正する人事院規則",
    "amendment_law_num": "令和八年人事院規則九―一二三―四七",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "421RJNJ09123000_20260401_508RJNJ09123046",
@@ -258,7 +268,7 @@
  },
  "_meta": {
   "first_seen": "2009-02-02",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-25T10:12:27+09:00"
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T09:30:13+09:00"
  }
 }

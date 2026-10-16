@@ -1,0 +1,155 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "324M50000804001",
+  "law_num": "昭和二十四年運輸省・経済安定本部令第一号",
+  "law_num_era": "Showa",
+  "law_num_year": 24,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "001",
+  "promulgation_date": "1949-08-29"
+ },
+ "revision_info": {
+  "law_revision_id": "324M50000804001_20261001_508M60000800082",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "水先法施行規則",
+  "law_title_kana": "みずさきほうしこうきそく",
+  "abbrev": null,
+  "category": "海運",
+  "updated": "2026-10-16T10:11:07+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800082",
+  "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第八十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "324M50000804001_20261001_508M60000800082",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800082",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20250401_506M60000800109",
+   "amendment_promulgate_date": "2024-12-27",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "506M60000800109",
+   "amendment_law_title": "海上運送法等の一部を改正する法律の一部の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第百九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20240401_506M60000800026",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800026",
+   "amendment_law_title": "国土交通省の所管する法律の規定に基づく立入検査等の際に携帯する職員の身分を示す証明書の様式の特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和六年国土交通省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20240401_506M60000800002",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800002",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20230228_504M60000800007",
+   "amendment_promulgate_date": "2022-02-28",
+   "amendment_enforcement_date": "2023-02-28",
+   "amendment_law_id": "504M60000800007",
+   "amendment_law_title": "写真のサイズ等の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20210701_503M60000800042",
+   "amendment_promulgate_date": "2021-06-23",
+   "amendment_enforcement_date": "2021-07-01",
+   "amendment_law_id": "503M60000800042",
+   "amendment_law_title": "海上交通安全法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20200710_502M60000800063",
+   "amendment_promulgate_date": "2020-07-10",
+   "amendment_enforcement_date": "2020-07-10",
+   "amendment_law_id": "502M60000800063",
+   "amendment_law_title": "水先法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20180401_430M60000800004",
+   "amendment_promulgate_date": "2018-01-19",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000800004",
+   "amendment_law_title": "水先法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "324M50000804001_20150801_427M60000800056",
+   "amendment_promulgate_date": "2015-07-27",
+   "amendment_enforcement_date": "2015-08-01",
+   "amendment_law_id": "427M60000800056",
+   "amendment_law_num": "平成二十七年国土交通省令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　免許",
+  "第三章　水先人試験",
+  "第四章　水先及び水先区",
+  "第五章　水先人会及び日本水先人会連合会",
+  "第六章　監督",
+  "第七章　雑則"
+ ],
+ "article1": {
+  "caption": "（用語）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、水先法（昭和二十四年法律第百二十一号。以下「法」という。）及び水先法施行令（昭和三十九年政令第三百五十四号。以下「令」という。）において使用する用語の例による。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1949-08-29",
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T10:11:07+09:00"
+ }
+}

@@ -1,0 +1,165 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "330M50004000005",
+  "law_num": "昭和三十年建設省令第五号",
+  "law_num_era": "Showa",
+  "law_num_year": 30,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "005",
+  "promulgation_date": "1955-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "330M50004000005_20261001_508M60000800081",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "土地区画整理法施行規則",
+  "law_title_kana": "とちくかくせいりほうしこうきそく",
+  "abbrev": null,
+  "category": "都市計画",
+  "updated": "2026-10-16T09:54:39+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800081",
+  "amendment_law_title": "土地区画整理法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第八十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "330M50004000005_20261001_508M60000800081",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800081",
+   "amendment_law_title": "土地区画整理法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第八十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20240401_506M60000800002",
+   "amendment_promulgate_date": "2024-01-19",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000800002",
+   "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律の施行に伴う国土交通省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20231228_505M60000800098",
+   "amendment_promulgate_date": "2023-12-28",
+   "amendment_enforcement_date": "2023-12-28",
+   "amendment_law_id": "505M60000800098",
+   "amendment_law_title": "磁気ディスク等の記録媒体を指定する規定の見直しのための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和五年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20220301_504M60000800010",
+   "amendment_promulgate_date": "2022-03-01",
+   "amendment_enforcement_date": "2022-03-01",
+   "amendment_law_id": "504M60000800010",
+   "amendment_law_title": "土地区画整理法施行規則及び新都市基盤整備法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年国土交通省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20210901_503M60000800053",
+   "amendment_promulgate_date": "2021-08-31",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503M60000800053",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和三年国土交通省令第五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20190507_501M60000800001",
+   "amendment_promulgate_date": "2019-05-07",
+   "amendment_enforcement_date": "2019-05-07",
+   "amendment_law_id": "501M60000800001",
+   "amendment_law_title": "水害予防組合法による予算調製の式及び費目流用その他財務に関する件等の一部を改正する省令",
+   "amendment_law_num": "令和元年国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20180401_430M60000800016",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000800016",
+   "amendment_law_title": "土地区画整理法施行規則の一部を改正する省令",
+   "amendment_law_num": "平成三十年国土交通省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20160401_428M60000800023",
+   "amendment_promulgate_date": "2016-03-31",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800023",
+   "amendment_law_num": "平成二十八年国土交通省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20160401_428M60000800016",
+   "amendment_promulgate_date": "2016-03-10",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800016",
+   "amendment_law_num": "平成二十八年国土交通省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "330M50004000005_20160401_428M60000800004",
+   "amendment_promulgate_date": "2016-01-28",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000800004",
+   "amendment_law_num": "平成二十八年国土交通省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　規準、規約、定款、事業計画等に関する認可申請手続等",
+  "第二章　事業計画の内容及び技術的基準等",
+  "第三章　住宅先行建設区、市街地再開発事業区及び高度利用推進区への換地の申出等",
+  "第四章　換地計画の認可申請手続及び内容",
+  "第四章の二　指定検定機関",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（個人施行、組合施行及び区画整理会社施行に関する認可申請手続）",
+  "title": "第一条",
+  "paragraphs": [
+   "土地区画整理法（以下「法」という。）第四条第一項に規定する認可を申請しようとする者は、一人で施行しようとする者にあつては規準及び事業計画を、数人共同して施行しようとする者にあつては規約及び事業計画を、認可申請書とともに提出しなければならない。",
+   "法第十四条第一項に規定する認可を申請しようとする者は、定款及び事業計画を認可申請書とともに提出しなければならない。",
+   "法第十四条第二項に規定する認可を申請しようとする者は、定款及び事業基本方針を認可申請書とともに提出しなければならない。",
+   "法第五十一条の二第一項に規定する認可を申請しようとする者は、規準及び事業計画を認可申請書とともに提出しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1955-03-31",
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T09:54:39+09:00"
+ }
+}
