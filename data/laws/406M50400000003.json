@@ -1,0 +1,92 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "406M50400000003",
+  "law_num": "平成六年国家公安委員会規則第三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "Rule",
+  "law_num_num": "003",
+  "promulgation_date": "1994-02-25"
+ },
+ "revision_info": {
+  "law_revision_id": "406M50400000003_20261001_508M60400000021",
+  "law_type": "Rule",
+  "law_title": "技能検定員審査等に関する規則",
+  "law_title_kana": "ぎのうけんていいんしんさとうにかんするきそく",
+  "abbrev": null,
+  "category": "警察",
+  "updated": "2026-10-16T09:53:05+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60400000021",
+  "amendment_law_title": "警備員指導教育責任者及び機械警備業務管理者に係る講習等に関する規則等の一部を改正する規則",
+  "amendment_law_num": "令和八年国家公安委員会規則第二十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406M50400000003_20261001_508M60400000021",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60400000021",
+   "amendment_law_title": "警備員指導教育責任者及び機械警備業務管理者に係る講習等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年国家公安委員会規則第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406M50400000003_20250324_506M60400000016",
+   "amendment_promulgate_date": "2024-11-01",
+   "amendment_enforcement_date": "2025-03-24",
+   "amendment_law_id": "506M60400000016",
+   "amendment_law_title": "道路交通法の一部を改正する法律等の施行に伴う関係国家公安委員会規則の整備に関する規則",
+   "amendment_law_num": "令和六年国家公安委員会規則第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50400000003_20190701_501M60400000003",
+   "amendment_promulgate_date": "2019-06-21",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_law_id": "501M60400000003",
+   "amendment_law_title": "地方警務官の懲戒の取扱に関する規程等の一部を改正する規則",
+   "amendment_law_num": "令和元年国家公安委員会規則第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50400000003_20170312_428M60400000015",
+   "amendment_promulgate_date": "2016-07-15",
+   "amendment_enforcement_date": "2017-03-12",
+   "amendment_law_id": "428M60400000015",
+   "amendment_law_title": "技能検定員審査等に関する規則の一部を改正する規則",
+   "amendment_law_num": "平成二十八年国家公安委員会規則第十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　技能検定員審査及び技能検定員資格者証",
+  "第二章　教習指導員審査及び教習指導員資格者証",
+  "第三章　雑則"
+ ],
+ "article1": {
+  "caption": "（技能検定員審査）",
+  "title": "第一条",
+  "paragraphs": [
+   "道路交通法（以下「法」という。）第九十九条の二第四項第一号イの規定による都道府県公安委員会（以下「公安委員会」という。）が技能検定に関する技能及び知識に関して行う審査（以下「技能検定員審査」という。）は、次の各号に掲げる運転免許（以下「免許」という。）に係る技能検定について、それぞれ当該各号に掲げる技能検定員審査を行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-02-25",
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T09:53:05+09:00"
+ }
+}

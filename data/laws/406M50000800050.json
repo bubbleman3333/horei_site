@@ -1,0 +1,89 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "406M50000800050",
+  "law_num": "平成六年運輸省令第五十号",
+  "law_num_era": "Heisei",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "050",
+  "promulgation_date": "1994-11-09"
+ },
+ "revision_info": {
+  "law_revision_id": "406M50000800050_20261001_508M60000800082",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "航空法の一部を改正する法律の一部の施行に伴う経過措置を定める省令",
+  "law_title_kana": "こうくうほうのいちぶをかいせいするほうりつのいちぶのせこうにともなうけいかそちをさだめるしょうれい",
+  "abbrev": null,
+  "category": "航空",
+  "updated": "2026-10-16T10:12:15+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000800082",
+  "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第八十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "406M50000800050_20261001_508M60000800082",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800082",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "406M50000800050_20210101_502M60000800098",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000800098",
+   "amendment_law_title": "押印を求める手続の見直し等のための国土交通省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年国土交通省令第九十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000800050_20190701_501M60000800020",
+   "amendment_promulgate_date": "2019-06-28",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000800020",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う国土交通省関係省令の整理等に関する省令",
+   "amendment_law_num": "令和元年国土交通省令第二十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "406M50000800050_20060401_418M60000800033",
+   "amendment_promulgate_date": "2006-03-31",
+   "amendment_enforcement_date": "2006-04-01",
+   "amendment_law_id": "418M60000800033",
+   "amendment_law_num": "平成十八年国土交通省令第三十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（航空従事者技能証明書の引換えの申請）",
+  "title": "第一条",
+  "paragraphs": [
+   "航空法の一部を改正する法律（以下「改正法」という。）附則第五条第一項の規定により、改正法附則第四条第三項に規定する旧上級事業用資格（以下単に「旧上級事業用資格」という。）についての航空従事者技能証明（以下「技能証明」という。）に係る航空従事者技能証明書（以下「技能証明書」という。）を改正法附則第四条第三項に規定する新定期運送用資格（以下単に「新定期運送用資格」という。）についての技能証明に係る技能証明書と引き換えようとする者は、技能証明書引換申請書（第一号様式）に航空法施行規則（昭和二十七年運輸省令第五十六号。以下「規則」という。）第四十二条第二項に規定する写真二葉を添えて国土交通大臣に提出しなければならない。",
+   "国土交通大臣は、前項の申請があったときは、当該申請に係る旧上級事業用資格についての技能証明に係る技能証明書と引換えに新定期運送用資格についての技能証明に係る技能証明書（旧上級事業用資格についての技能証明に係る技能証明書と引換えに交付されたものである旨を記載したもの）を申請者に交付する。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1994-11-09",
+  "fetched_at": "2026-10-17",
+  "updated": "2026-10-16T10:12:15+09:00"
+ }
+}
