@@ -10,20 +10,20 @@
   "promulgation_date": "2019-03-15"
  },
  "revision_info": {
-  "law_revision_id": "431M60000010005_20260513_508M60000010035",
+  "law_revision_id": "431M60000010005_20261001_508M60000010050",
   "law_type": "MinisterialOrdinance",
   "law_title": "特定技能雇用契約及び一号特定技能外国人支援計画の基準等を定める省令",
   "law_title_kana": "とくていぎのうこようけいやくおよびいちごうとくていぎのうがいこくじんしえんけいかくのきじゅんとうをさだめるしょうれい",
   "abbrev": null,
   "category": "外事",
-  "updated": "2026-05-20T14:29:07+09:00",
-  "amendment_promulgate_date": "2026-04-10",
-  "amendment_enforcement_date": "2026-05-13",
+  "updated": "2026-10-19T11:48:34+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000010035",
+  "amendment_law_id": "508M60000010050",
   "amendment_law_title": "特定技能雇用契約及び一号特定技能外国人支援計画の基準等を定める省令の一部を改正する省令",
-  "amendment_law_num": "令和八年法務省令第三十五号",
+  "amendment_law_num": "令和八年法務省令第五十号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "431M60000010005_20261001_508M60000010050",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000010050",
+   "amendment_law_title": "特定技能雇用契約及び一号特定技能外国人支援計画の基準等を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第五十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "431M60000010005_20260513_508M60000010035",
    "amendment_promulgate_date": "2026-04-10",
    "amendment_enforcement_date": "2026-05-13",
@@ -49,7 +59,7 @@
    "amendment_law_title": "特定技能雇用契約及び一号特定技能外国人支援計画の基準等を定める省令の一部を改正する省令",
    "amendment_law_num": "令和八年法務省令第三十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "431M60000010005_20250601_507M60000010035",
@@ -111,7 +121,7 @@
  },
  "_meta": {
   "first_seen": "2019-03-15",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-20T14:29:07+09:00"
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T11:48:34+09:00"
  }
 }

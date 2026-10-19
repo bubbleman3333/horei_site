@@ -10,20 +10,20 @@
   "promulgation_date": "1949-08-31"
  },
  "revision_info": {
-  "law_revision_id": "324M50000800049_20260401_507M60000800043",
+  "law_revision_id": "324M50000800049_20261001_508M60000800082",
   "law_type": "MinisterialOrdinance",
   "law_title": "海上運送法施行規則",
   "law_title_kana": "かいじょううんそうほうしこうきそく",
   "abbrev": null,
   "category": "海運",
-  "updated": "2026-04-01T01:11:19+09:00",
-  "amendment_promulgate_date": "2025-04-01",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-19T10:09:50+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507M60000800043",
-  "amendment_law_title": "海上運送法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和七年国土交通省令第四十三号",
+  "amendment_law_id": "508M60000800082",
+  "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第八十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "324M50000800049_20261001_508M60000800082",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800082",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "324M50000800049_20260401_507M60000800043",
    "amendment_promulgate_date": "2025-04-01",
    "amendment_enforcement_date": "2026-04-01",
@@ -49,7 +59,7 @@
    "amendment_law_title": "海上運送法施行規則の一部を改正する省令",
    "amendment_law_num": "令和七年国土交通省令第四十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "324M50000800049_20260214_507M60000800090",
@@ -256,7 +266,7 @@
  },
  "_meta": {
   "first_seen": "1949-08-31",
-  "fetched_at": "2026-09-21",
-  "updated": "2026-04-01T01:11:19+09:00"
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T10:09:50+09:00"
  }
 }

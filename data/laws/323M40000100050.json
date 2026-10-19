@@ -10,20 +10,20 @@
   "promulgation_date": "1948-11-05"
  },
  "revision_info": {
-  "law_revision_id": "323M40000100050_20261001_508M60000100119",
+  "law_revision_id": "323M40000100050_20261001_508M60000100144",
   "law_type": "MinisterialOrdinance",
   "law_title": "医療法施行規則",
   "law_title_kana": "いりょうほうしこうきそく",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2026-10-01T01:01:04+09:00",
-  "amendment_promulgate_date": "2026-07-31",
+  "updated": "2026-10-19T10:14:41+09:00",
+  "amendment_promulgate_date": "2026-09-30",
   "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000100119",
-  "amendment_law_title": "医療法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
-  "amendment_law_num": "令和八年厚生労働省令第百十九号",
+  "amendment_law_id": "508M60000100144",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百四十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -72,6 +72,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "323M40000100050_20261001_508M60000100144",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100144",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "323M40000100050_20261001_508M60000100119",
    "amendment_promulgate_date": "2026-07-31",
    "amendment_enforcement_date": "2026-10-01",
@@ -79,7 +89,7 @@
    "amendment_law_title": "医療法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
    "amendment_law_num": "令和八年厚生労働省令第百十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "323M40000100050_20260501_507M60000100117",
@@ -420,16 +430,6 @@
    "amendment_law_num": "令和四年厚生労働省令第五十八号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "323M40000100050_20230331_505M60000100054",
-   "amendment_promulgate_date": "2023-03-31",
-   "amendment_enforcement_date": "2023-03-31",
-   "amendment_law_id": "505M60000100054",
-   "amendment_law_title": "医療法施行規則の一部を改正する省令",
-   "amendment_law_num": "令和五年厚生労働省令第五十四号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [
@@ -460,7 +460,7 @@
  },
  "_meta": {
   "first_seen": "1948-11-05",
-  "fetched_at": "2026-10-01",
-  "updated": "2026-10-01T01:01:04+09:00"
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T10:14:41+09:00"
  }
 }

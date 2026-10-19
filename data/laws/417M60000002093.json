@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000002093",
+  "law_num": "平成十七年内閣府令第九十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "093",
+  "promulgation_date": "2005-09-01"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000002093_20261001_508M60000002083",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "日本学術会議会員候補者の内閣総理大臣への推薦手続を定める内閣府令",
+  "law_title_kana": "にほんがくじゅつかいぎかいいんこうほしゃのないかくそうりだいじんへのすいせんてつづきをさだめるないかくふれい",
+  "abbrev": null,
+  "category": "文化",
+  "updated": "2026-10-19T10:04:46+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002083",
+  "amendment_law_title": "日本学術会議会員候補者の内閣総理大臣への推薦手続を定める内閣府令を廃止する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第八十三号",
+  "amendment_type": "8",
+  "repeal_status": "Repeal",
+  "repeal_date": "2026-10-01",
+  "mission": "New",
+  "current_revision_status": "UnEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000002093_20261001_508M60000002083",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000002083",
+   "amendment_law_title": "日本学術会議会員候補者の内閣総理大臣への推薦手続を定める内閣府令を廃止する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第八十三号",
+   "amendment_type": "8",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "417M60000002093_20051001_000000000000000",
+   "amendment_promulgate_date": "2005-09-01",
+   "amendment_enforcement_date": "2005-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "UnEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "日本学術会議会員候補者の内閣総理大臣への推薦は、任命を要する期日の三十日前までに、当該候補者の氏名及び当該候補者が補欠の会員候補者である場合にはその任期を記載した書類を提出することにより行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-09-01",
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T10:04:46+09:00"
+ }
+}

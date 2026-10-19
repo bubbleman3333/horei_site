@@ -10,20 +10,20 @@
   "promulgation_date": "1950-11-16"
  },
  "revision_info": {
-  "law_revision_id": "325M50004000040_20260401_508M60000800022",
+  "law_revision_id": "325M50004000040_20261001_508M60000800082",
   "law_type": "MinisterialOrdinance",
   "law_title": "建築基準法施行規則",
   "law_title_kana": "けんちくきじゅんほうしこうきそく",
   "abbrev": "建基法施行規則",
   "category": "建築・住宅",
-  "updated": "2026-10-09T18:11:58+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-10-19T10:01:03+09:00",
+  "amendment_promulgate_date": "2026-10-01",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000800022",
-  "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年国土交通省令第二十二号",
+  "amendment_law_id": "508M60000800082",
+  "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年国土交通省令第八十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "325M50004000040_20261001_508M60000800082",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000800082",
+   "amendment_law_title": "船員法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年国土交通省令第八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "325M50004000040_20260401_508M60000800022",
    "amendment_promulgate_date": "2026-03-31",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年国土交通省令第二十二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "325M50004000040_20260401_507M60000800080",
@@ -420,16 +430,6 @@
    "amendment_law_num": "令和二年国土交通省令第十三号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "325M50004000040_20200401_501M60000800037",
-   "amendment_promulgate_date": "2019-10-01",
-   "amendment_enforcement_date": "2020-04-01",
-   "amendment_law_id": "501M60000800037",
-   "amendment_law_title": "建築基準法施行規則の一部を改正する省令",
-   "amendment_law_num": "令和元年国土交通省令第三十七号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -443,7 +443,7 @@
  },
  "_meta": {
   "first_seen": "1950-11-16",
-  "fetched_at": "2026-10-10",
-  "updated": "2026-10-09T18:11:58+09:00"
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T10:01:03+09:00"
  }
 }

@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60000002116",
+  "law_num": "令和六年内閣府令第百十六号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "116",
+  "promulgation_date": "2024-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60000002116_20261001_508M60000002087",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "医療情報基盤・診療報酬審査支払機構の支援納付金関係業務に係る財務及び会計に関する内閣府令",
+  "law_title_kana": "いりょうじょうほうきばんしんりょうほうしゅうしんさしはらいきこうのしえんのうふきんかんけいぎょうむにかかるざいむおよびかいけいにかんするないかくふれい",
+  "abbrev": null,
+  "category": "社会福祉",
+  "updated": "2026-10-19T11:36:22+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002087",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整理に関する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第八十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60000002116_20261001_508M60000002087",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000002087",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴うこども家庭庁関係内閣府令の整理に関する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60000002116_20241226_000000000000000",
+   "amendment_promulgate_date": "2024-12-26",
+   "amendment_enforcement_date": "2024-12-26",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（経理原則）",
+  "title": "第一条",
+  "paragraphs": [
+   "医療情報基盤・診療報酬審査支払機構（以下「基盤機構」という。）は、子ども・子育て支援法（以下「法」という。）第七十一条の十五第一項に規定する支援納付金関係業務（以下「支援納付金関係業務」という。）に係る財政状態及び経営成績を明らかにするため、財産の増減及び異動並びに収益及び費用をその発生の事実に基づいて経理しなければならない。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2024-12-26",
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T11:36:22+09:00"
+ }
+}

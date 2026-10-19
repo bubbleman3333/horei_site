@@ -10,20 +10,20 @@
   "promulgation_date": "2016-03-18"
  },
  "revision_info": {
-  "law_revision_id": "428M60000400022_20260529_508M60000400054",
+  "law_revision_id": "428M60000400022_20261001_508M60000400074",
   "law_type": "MinisterialOrdinance",
   "law_title": "一般送配電事業託送供給等約款料金算定規則",
   "law_title_kana": "いっぱんそうはいでんじぎょうたくそうきょうきゅうとうやっかんりょうきんさんていきそく",
   "abbrev": null,
   "category": "工業",
-  "updated": "2026-09-24T11:05:18+09:00",
-  "amendment_promulgate_date": "2026-05-29",
-  "amendment_enforcement_date": "2026-05-29",
+  "updated": "2026-10-19T10:05:32+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000400054",
-  "amendment_law_title": "一般送配電事業者による託送供給等に係る収入の見通しに関する省令等の一部を改正する省令",
-  "amendment_law_num": "令和八年経済産業省令第五十四号",
+  "amendment_law_id": "508M60000400074",
+  "amendment_law_title": "一般送配電事業託送供給等約款料金算定規則の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第七十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "428M60000400022_20261001_508M60000400074",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000400074",
+   "amendment_law_title": "一般送配電事業託送供給等約款料金算定規則の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第七十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "428M60000400022_20260529_508M60000400054",
    "amendment_promulgate_date": "2026-05-29",
    "amendment_enforcement_date": "2026-05-29",
@@ -39,7 +49,7 @@
    "amendment_law_title": "一般送配電事業者による託送供給等に係る収入の見通しに関する省令等の一部を改正する省令",
    "amendment_law_num": "令和八年経済産業省令第五十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "428M60000400022_20260331_508M60000400027",
@@ -282,7 +292,7 @@
  },
  "_meta": {
   "first_seen": "2016-03-18",
-  "fetched_at": "2026-09-25",
-  "updated": "2026-09-24T11:05:18+09:00"
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T10:05:32+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "1955-09-26"
  },
  "revision_info": {
-  "law_revision_id": "330CO0000000255_20260408_508CO0000000128",
+  "law_revision_id": "330CO0000000255_20260930_508CO0000000309",
   "law_type": "CabinetOrder",
   "law_title": "補助金等に係る予算の執行の適正化に関する法律施行令",
   "law_title_kana": "ほじょきんとうにかかるよさんのしっこうのてきせいかにかんするほうりつしこうれい",
   "abbrev": "補助金適正化法施行令,補助金等適正化法施行令",
   "category": "財務通則",
-  "updated": "2026-05-18T10:39:57+09:00",
-  "amendment_promulgate_date": "2026-04-08",
-  "amendment_enforcement_date": "2026-04-08",
+  "updated": "2026-10-19T09:58:06+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-09-30",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000128",
-  "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第百二十八号",
+  "amendment_law_id": "508CO0000000309",
+  "amendment_law_title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -42,6 +42,16 @@
    "current_revision_status": "UnEnforced"
   },
   {
+   "law_revision_id": "330CO0000000255_20260930_508CO0000000309",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-09-30",
+   "amendment_law_id": "508CO0000000309",
+   "amendment_law_title": "国立研究開発法人医薬基盤・健康・栄養研究所法施行令等の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "330CO0000000255_20260408_508CO0000000128",
    "amendment_promulgate_date": "2026-04-08",
    "amendment_enforcement_date": "2026-04-08",
@@ -49,7 +59,7 @@
    "amendment_law_title": "補助金等に係る予算の執行の適正化に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第百二十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "330CO0000000255_20260401_508CO0000000112",
@@ -420,16 +430,6 @@
    "amendment_law_num": "令和元年政令第八号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "330CO0000000255_20190424_431CO0000000160",
-   "amendment_promulgate_date": "2019-04-24",
-   "amendment_enforcement_date": "2019-04-24",
-   "amendment_law_id": "431CO0000000160",
-   "amendment_law_title": "旧優生保護法に基づく優生手術等を受けた者に対する一時金の支給等に関する法律に基づき都道府県に交付する事務費に関する政令",
-   "amendment_law_num": "平成三十一年政令第百六十号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -443,7 +443,7 @@
  },
  "_meta": {
   "first_seen": "1955-09-26",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-18T10:39:57+09:00"
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T09:58:06+09:00"
  }
 }

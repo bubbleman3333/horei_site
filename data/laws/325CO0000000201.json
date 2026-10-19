@@ -1,0 +1,97 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "325CO0000000201",
+  "law_num": "昭和二十五年政令第二百一号",
+  "law_num_era": "Showa",
+  "law_num_year": 25,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "201",
+  "promulgation_date": "1950-06-22"
+ },
+ "revision_info": {
+  "law_revision_id": "325CO0000000201_20210901_503CO0000000224",
+  "law_type": "CabinetOrder",
+  "law_title": "建築士法施行令",
+  "law_title_kana": "けんちくしほうせこうれい",
+  "abbrev": null,
+  "category": "建築・住宅",
+  "updated": "2021-10-30T00:00:03+09:00",
+  "amendment_promulgate_date": "2021-08-04",
+  "amendment_enforcement_date": "2021-09-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "503CO0000000224",
+  "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係政令の整備等に関する政令",
+  "amendment_law_num": "令和三年政令第二百二十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "325CO0000000201_20270401_508CO0000000324",
+   "amendment_promulgate_date": "2026-10-09",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508CO0000000324",
+   "amendment_law_title": "建築士法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000201_20210901_503CO0000000224",
+   "amendment_promulgate_date": "2021-08-04",
+   "amendment_enforcement_date": "2021-09-01",
+   "amendment_law_id": "503CO0000000224",
+   "amendment_law_title": "デジタル社会の形成を図るための関係法律の整備に関する法律の施行に伴う国土交通省関係政令の整備等に関する政令",
+   "amendment_law_num": "令和三年政令第二百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000201_20210826_503CO0000000182",
+   "amendment_promulgate_date": "2021-06-25",
+   "amendment_enforcement_date": "2021-08-26",
+   "amendment_law_id": "503CO0000000182",
+   "amendment_law_title": "建築士法施行令及び不動産の鑑定評価に関する法律施行令の一部を改正する政令",
+   "amendment_law_num": "令和三年政令第百八十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000201_20200301_501CO0000000096",
+   "amendment_promulgate_date": "2019-09-11",
+   "amendment_enforcement_date": "2020-03-01",
+   "amendment_law_id": "501CO0000000096",
+   "amendment_law_title": "建築士法の一部を改正する法律の施行に伴う関係政令の整備に関する政令",
+   "amendment_law_num": "令和元年政令第九十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "325CO0000000201_20150625_427CO0000000013",
+   "amendment_promulgate_date": "2015-01-21",
+   "amendment_enforcement_date": "2015-06-25",
+   "amendment_law_id": "427CO0000000013",
+   "amendment_law_num": "平成二十七年政令第十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（一級建築士免許証又は一級建築士免許証明書の書換え交付等の手数料）",
+  "title": "第一条",
+  "paragraphs": [
+   "建築士法（以下「法」という。）第五条第六項（法第十条の十九第一項の規定により読み替えて適用する場合を含む。）の政令で定める額は、五千九百円とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1950-06-22",
+  "fetched_at": "2026-10-20",
+  "updated": "2021-10-30T00:00:03+09:00"
+ }
+}

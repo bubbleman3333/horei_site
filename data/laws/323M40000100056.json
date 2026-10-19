@@ -1,0 +1,147 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "323M40000100056",
+  "law_num": "昭和二十三年厚生省令第五十六号",
+  "law_num_era": "Showa",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "056",
+  "promulgation_date": "1948-12-13"
+ },
+ "revision_info": {
+  "law_revision_id": "323M40000100056_20261001_508M60000100144",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "社会保険診療報酬請求書審査委員会及び社会保険診療報酬請求書特別審査委員会規程",
+  "law_title_kana": "しゃかいほけんしんりょうほうしゅうせいきゅうしょしんさいいんかいおよびしゃかいほけんしんりょうほうしゅうせいきゅうしょとくべつしんさいいんかいきてい",
+  "abbrev": null,
+  "category": "社会保険",
+  "updated": "2026-10-19T11:37:51+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000100144",
+  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百四十四号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "323M40000100056_20261001_508M60000100144",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60000100144",
+   "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20240401_506M60000100060",
+   "amendment_promulgate_date": "2024-03-29",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100060",
+   "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第六十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20240401_506M60000100005",
+   "amendment_promulgate_date": "2024-01-17",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000100005",
+   "amendment_law_title": "感染症の予防及び感染症の患者に対する医療に関する法律等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20240401_505M60000100144",
+   "amendment_promulgate_date": "2023-11-27",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "505M60000100144",
+   "amendment_law_title": "障害者の日常生活及び社会生活を総合的に支援するための法律等の一部を改正する法律の施行に伴う厚生労働省関係省令の整備及び経過措置に関する省令",
+   "amendment_law_num": "令和五年厚生労働省令第百四十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20240301_506M60000100024",
+   "amendment_promulgate_date": "2024-02-02",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "506M60000100024",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律の一部の施行に伴う関係省令の整備等に関する省令",
+   "amendment_law_num": "令和六年厚生労働省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20210618_503M60000100107",
+   "amendment_promulgate_date": "2021-06-18",
+   "amendment_enforcement_date": "2021-06-18",
+   "amendment_law_id": "503M60000100107",
+   "amendment_law_title": "社会保険診療報酬請求書審査委員会及び社会保険診療報酬請求書特別審査委員会規程及び国民健康保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第百七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20210401_503M60000100071",
+   "amendment_promulgate_date": "2021-03-31",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60000100071",
+   "amendment_law_title": "社会保険診療報酬支払基金法施行規則及び社会保険診療報酬請求書審査委員会及び社会保険診療報酬請求書特別審査委員会規程の一部を改正する省令",
+   "amendment_law_num": "令和三年厚生労働省令第七十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20180401_430M60000100030",
+   "amendment_promulgate_date": "2018-03-22",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000100030",
+   "amendment_law_title": "介護保険法施行規則等の一部を改正する等の省令",
+   "amendment_law_num": "平成三十年厚生労働省令第三十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20150101_426M60000100122",
+   "amendment_promulgate_date": "2014-11-13",
+   "amendment_enforcement_date": "2015-01-01",
+   "amendment_law_id": "426M60000100122",
+   "amendment_law_num": "平成二十六年厚生労働省令第百二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "323M40000100056_20150101_426M60000100121",
+   "amendment_promulgate_date": "2014-11-12",
+   "amendment_enforcement_date": "2015-01-01",
+   "amendment_law_id": "426M60000100121",
+   "amendment_law_title": "難病の患者に対する医療等に関する法律施行規則",
+   "amendment_law_num": "平成二十六年厚生労働省令第百二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "社会保険診療報酬請求書審査委員会（以下「審査委員会」という。）及び社会保険診療報酬請求書特別審査委員会（以下「特別審査委員会」という。）に関しては、医療情報基盤・診療報酬審査支払機構法（昭和二十三年法律第百二十九号。以下「法」という。）に規定するものの外、この規程の定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1948-12-13",
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T11:37:51+09:00"
+ }
+}

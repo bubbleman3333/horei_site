@@ -1,0 +1,121 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "347M50000002039",
+  "law_num": "昭和四十七年総理府令第三十九号",
+  "law_num_era": "Showa",
+  "law_num_year": 47,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "039",
+  "promulgation_date": "1972-05-30"
+ },
+ "revision_info": {
+  "law_revision_id": "347M50000002039_20260930_508M60001000027",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "悪臭防止法施行規則",
+  "law_title_kana": "あくしゅうぼうしほうしこうきそく",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2026-10-19T11:04:00+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-09-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60001000027",
+  "amendment_law_title": "悪臭防止法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年環境省令第二十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "347M50000002039_20260930_508M60001000027",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-09-30",
+   "amendment_law_id": "508M60001000027",
+   "amendment_law_title": "悪臭防止法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "347M50000002039_20240401_506M60001000017",
+   "amendment_promulgate_date": "2024-04-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60001000017",
+   "amendment_law_title": "環境省の所管する法律の規定に基づく立入検査等をする国の職員の携帯する身分を示す証明書の様式を定める省令",
+   "amendment_law_num": "令和六年環境省令第十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000002039_20240401_506M60001000012",
+   "amendment_promulgate_date": "2024-03-28",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60001000012",
+   "amendment_law_title": "悪臭防止法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和六年環境省令第十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000002039_20210401_503M60001000003",
+   "amendment_promulgate_date": "2021-03-25",
+   "amendment_enforcement_date": "2021-04-01",
+   "amendment_law_id": "503M60001000003",
+   "amendment_law_title": "水質汚濁防止法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和三年環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000002039_20201228_502M60001000031",
+   "amendment_promulgate_date": "2020-12-28",
+   "amendment_enforcement_date": "2020-12-28",
+   "amendment_law_id": "502M60001000031",
+   "amendment_law_title": "押印を求める手続の見直し等のための環境省関係省令の一部を改正する省令",
+   "amendment_law_num": "令和二年環境省令第三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000002039_20200330_502M60001000009",
+   "amendment_promulgate_date": "2020-03-30",
+   "amendment_enforcement_date": "2020-03-30",
+   "amendment_law_id": "502M60001000009",
+   "amendment_law_title": "不正競争防止法等の一部を改正する法律の施行に伴う環境省関係省令の整理に関する省令",
+   "amendment_law_num": "令和二年環境省令第九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "347M50000002039_20120401_423M60001000032",
+   "amendment_promulgate_date": "2011-11-30",
+   "amendment_enforcement_date": "2012-04-01",
+   "amendment_law_id": "423M60001000032",
+   "amendment_law_num": "平成二十三年環境省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　規制",
+  "第二章　測定の委託",
+  "第三章　臭気測定業務従事者"
+ ],
+ "article1": {
+  "caption": "（臭気指数の算定）",
+  "title": "第一条",
+  "paragraphs": [
+   "悪臭防止法（以下「法」という。）第二条第二項の規定による気体又は水に係る臭気指数の算定は、環境大臣が定める方法により、試料とする気体又は水の臭気を人間の<Ruby>嗅<Rt>きゆう</Rt></Ruby>覚で感知することができなくなるまで気体又は水の希釈をした場合におけるその希釈の倍数（以下「臭気濃度」という。）を求め、当該臭気濃度の値の対数に十を乗じた値を求めることにより行うものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1972-05-30",
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T11:04:00+09:00"
+ }
+}

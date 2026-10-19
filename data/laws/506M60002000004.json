@@ -10,20 +10,20 @@
   "promulgation_date": "2024-03-29"
  },
  "revision_info": {
-  "law_revision_id": "506M60002000004_20260831_508M60002000020",
+  "law_revision_id": "506M60002000004_20261001_508M60002000024",
   "law_type": "MinisterialOrdinance",
   "law_title": "自衛官等に対する療養の給付等に関する省令",
   "law_title_kana": "じえいかんとうにたいするりょうようのきゅうふとうにかんするしょうれい",
   "abbrev": null,
   "category": "厚生",
-  "updated": "2026-09-14T10:07:02+09:00",
-  "amendment_promulgate_date": "2026-08-31",
-  "amendment_enforcement_date": "2026-08-31",
+  "updated": "2026-10-19T11:49:39+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60002000020",
-  "amendment_law_title": "自衛官等に対する療養の給付等に関する省令の一部を改正する省令",
-  "amendment_law_num": "令和八年防衛省令第二十号",
+  "amendment_law_id": "508M60002000024",
+  "amendment_law_title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係省令の整理に関する省令",
+  "amendment_law_num": "令和八年防衛省令第二十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,26 @@
  },
  "revisions": [
   {
+   "law_revision_id": "506M60002000004_20261001_508M60002000024",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60002000024",
+   "amendment_law_title": "防衛省設置法等の一部を改正する法律の一部の施行に伴う関係省令の整理に関する省令",
+   "amendment_law_num": "令和八年防衛省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60002000004_20261001_508M60002000023",
+   "amendment_promulgate_date": "2026-09-30",
+   "amendment_enforcement_date": "2026-10-01",
+   "amendment_law_id": "508M60002000023",
+   "amendment_law_title": "自衛官等に対する療養の給付等に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年防衛省令第二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
    "law_revision_id": "506M60002000004_20260831_508M60002000020",
    "amendment_promulgate_date": "2026-08-31",
    "amendment_enforcement_date": "2026-08-31",
@@ -39,7 +59,7 @@
    "amendment_law_title": "自衛官等に対する療養の給付等に関する省令の一部を改正する省令",
    "amendment_law_num": "令和八年防衛省令第二十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "506M60002000004_20260801_508M60002000019",
@@ -114,12 +134,12 @@
   "caption": "（趣旨）",
   "title": "第一条",
   "paragraphs": [
-   "この省令は、自衛官等（自衛官、自衛官候補生、訓練招集に応じている予備自衛官及び即応予備自衛官、教育訓練招集に応じている予備自衛官補、防衛大学校又は防衛医科大学校の学生（防衛省の職員の給与等に関する法律（以下「法」という。）第四条第一項の学生をいう。以下同じ。）並びに生徒（同項の生徒をいう。以下同じ。）をいう。第五条の二及び第七条の四を除き、以下同じ。）又は自衛官等であった者について法第二十二条及び防衛省の職員の給与等に関する法律施行令（以下「令」という。）第十七条の三から第十七条の九の二までの規定に基づいて国が行うべき療養の給付等（以下単に「療養の給付等」という。）に関して必要な事項を定めるものとする。"
+   "この省令は、自衛官等（自衛官、訓練招集に応じている予備自衛官及び即応予備自衛官、教育訓練招集に応じている予備自衛官補、防衛大学校又は防衛医科大学校の学生（防衛省の職員の給与等に関する法律（以下「法」という。）第四条第一項の学生をいう。以下同じ。）並びに生徒（同項の生徒をいう。以下同じ。）をいう。第五条の二及び第七条の四を除き、以下同じ。）又は自衛官等であった者について法第二十二条及び防衛省の職員の給与等に関する法律施行令（以下「令」という。）第十七条の三から第十七条の九の二までの規定に基づいて国が行うべき療養の給付等（以下単に「療養の給付等」という。）に関して必要な事項を定めるものとする。"
   ]
  },
  "_meta": {
   "first_seen": "2024-03-29",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-09-14T10:07:02+09:00"
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-19T11:49:39+09:00"
  }
 }

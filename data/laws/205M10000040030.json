@@ -1,0 +1,78 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "205M10000040030",
+  "law_num": "大正五年大蔵省令第三十号",
+  "law_num_era": "Taisho",
+  "law_num_year": 5,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "030",
+  "promulgation_date": "1916-12-21"
+ },
+ "revision_info": {
+  "law_revision_id": "205M10000040030_20221104_504M60000040051",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "大正五年大蔵省令第三十号（歳入納付ニ使用スル証券ニ関スル件ニ依ル証券ノ納付ニ関スル制限ノ件）",
+  "law_title_kana": "さいにゅうのうふにしようするしょうけんにかんするけんによるしょうけんののうふにかんするせいげんのけん",
+  "abbrev": null,
+  "category": "財務通則",
+  "updated": "2022-11-07T11:03:04+09:00",
+  "amendment_promulgate_date": "2022-10-18",
+  "amendment_enforcement_date": "2022-11-04",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504M60000040051",
+  "amendment_law_title": "日本銀行国庫金取扱規程等の一部を改正する省令",
+  "amendment_law_num": "令和四年財務省令第五十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "205M10000040030_20270331_508M60000040063",
+   "amendment_promulgate_date": "2026-10-01",
+   "amendment_enforcement_date": "2027-03-31",
+   "amendment_law_id": "508M60000040063",
+   "amendment_law_title": "大正五年勅令第二百五十六号第六条第一項による証券の納付に関する制限を定める省令及び証券をもつてする歳入納付に関する法律施行細則の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第六十三号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "205M10000040030_20221104_504M60000040051",
+   "amendment_promulgate_date": "2022-10-18",
+   "amendment_enforcement_date": "2022-11-04",
+   "amendment_law_id": "504M60000040051",
+   "amendment_law_title": "日本銀行国庫金取扱規程等の一部を改正する省令",
+   "amendment_law_num": "令和四年財務省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "205M10000040030_20040701_416M60000040048",
+   "amendment_promulgate_date": "2004-06-30",
+   "amendment_enforcement_date": "2004-07-01",
+   "amendment_law_id": "416M60000040048",
+   "amendment_law_num": "平成十六年財務省令第四十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "政府若ハ地方公共団体ノ振出シタル小切手又ハ日本銀行の公庫預託金取扱規程（昭和二十五年大蔵省令第三十一号）第一条の二ニ規定スル公庫ノ振出シタル小切手ニシテ同規程第三条ノ適用ヲ受クルモノハ其ノ振出日付ヨリ一年ヲ経過セサルモノニシテ且指図禁止ノ旨ノ記載ナキモノナルコトヲ要ス",
+   "前項ニ規定スル小切手以外ノ小切手ハ手形交換所ニ加入シタル金融機関ニ宛テタルモノニシテソノ提示期間内ニ支払ノタメ提示スルコトヲ得ルモノナルコトヲ要ス"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1916-12-21",
+  "fetched_at": "2026-10-20",
+  "updated": "2022-11-07T11:03:04+09:00"
+ }
+}

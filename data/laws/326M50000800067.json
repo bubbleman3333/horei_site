@@ -10,15 +10,15 @@
   "promulgation_date": "1951-07-28"
  },
  "revision_info": {
-  "law_revision_id": "326M50000800067_20260930_508M60000800080",
+  "law_revision_id": "326M50000800067_20261020_508M60000800080",
   "law_type": "MinisterialOrdinance",
   "law_title": "道路運送車両の保安基準",
   "law_title_kana": "どうろうんそうしゃりょうのほあんきじゅん",
   "abbrev": null,
   "category": "陸運",
-  "updated": "2026-10-16T10:06:34+09:00",
+  "updated": "2026-10-20T00:02:06+09:00",
   "amendment_promulgate_date": "2026-09-30",
-  "amendment_enforcement_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-20",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508M60000800080",
@@ -39,7 +39,7 @@
    "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
    "amendment_law_num": "令和八年国土交通省令第八十号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "326M50000800067_20260930_508M60000800080",
@@ -49,7 +49,7 @@
    "amendment_law_title": "道路運送車両の保安基準等の一部を改正する省令",
    "amendment_law_num": "令和八年国土交通省令第八十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "326M50000800067_20260604_508M60000800059",
@@ -406,7 +406,7 @@
  },
  "_meta": {
   "first_seen": "1951-07-28",
-  "fetched_at": "2026-10-17",
-  "updated": "2026-10-16T10:06:34+09:00"
+  "fetched_at": "2026-10-20",
+  "updated": "2026-10-20T00:02:06+09:00"
  }
 }
