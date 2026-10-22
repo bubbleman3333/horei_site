@@ -1,0 +1,155 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "504M60000400015",
+  "law_num": "令和四年経済産業省令第十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "015",
+  "promulgation_date": "2022-03-15"
+ },
+ "revision_info": {
+  "law_revision_id": "504M60000400015_20261016_508M60000400076",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令",
+  "law_title_kana": "ゆしゅつぼうえきかんりれいべっぴょうだいにのさんのきていにもとづきかもつをさだめるしょうれい",
+  "abbrev": null,
+  "category": "外国為替・貿易",
+  "updated": "2026-10-20T11:32:49+09:00",
+  "amendment_promulgate_date": "2026-10-09",
+  "amendment_enforcement_date": "2026-10-16",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000400076",
+  "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年経済産業省令第七十六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504M60000400015_20261016_508M60000400076",
+   "amendment_promulgate_date": "2026-10-09",
+   "amendment_enforcement_date": "2026-10-16",
+   "amendment_law_id": "508M60000400076",
+   "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年経済産業省令第七十六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20250123_507M60000400001",
+   "amendment_promulgate_date": "2025-01-16",
+   "amendment_enforcement_date": "2025-01-23",
+   "amendment_law_id": "507M60000400001",
+   "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年経済産業省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20240417_506M60000400034",
+   "amendment_promulgate_date": "2024-04-10",
+   "amendment_enforcement_date": "2024-04-17",
+   "amendment_law_id": "506M60000400034",
+   "amendment_law_title": "輸出貿易管理規則及び輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和六年経済産業省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20230809_505M60000400040",
+   "amendment_promulgate_date": "2023-08-02",
+   "amendment_enforcement_date": "2023-08-09",
+   "amendment_law_id": "505M60000400040",
+   "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20230407_505M60000400022",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-07",
+   "amendment_law_id": "505M60000400022",
+   "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20230203_505M60000400006",
+   "amendment_promulgate_date": "2023-01-27",
+   "amendment_enforcement_date": "2023-02-03",
+   "amendment_law_id": "505M60000400006",
+   "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年経済産業省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20221007_504M60000400077",
+   "amendment_promulgate_date": "2022-09-30",
+   "amendment_enforcement_date": "2022-10-07",
+   "amendment_law_id": "504M60000400077",
+   "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第七十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20220617_504M60000400052",
+   "amendment_promulgate_date": "2022-06-10",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504M60000400052",
+   "amendment_law_title": "輸出貿易管理規則及び輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第五十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20220520_504M60000400047",
+   "amendment_promulgate_date": "2022-05-13",
+   "amendment_enforcement_date": "2022-05-20",
+   "amendment_law_id": "504M60000400047",
+   "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20220405_504M60000400021",
+   "amendment_promulgate_date": "2022-03-29",
+   "amendment_enforcement_date": "2022-04-05",
+   "amendment_law_id": "504M60000400021",
+   "amendment_law_title": "輸出貿易管理令別表第二の三の規定に基づき貨物を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年経済産業省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504M60000400015_20220318_000000000000000",
+   "amendment_promulgate_date": "2022-03-15",
+   "amendment_enforcement_date": "2022-03-18",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "輸出貿易管理令（以下「輸出令」という。）別表第二の三第一号の二イに掲げる貨物であって、経済産業省令で定めるものは、次のいずれかに該当する物質及びこれらの物質を含む混合物（第一号から第百二号までのいずれかに該当する物質を含む混合物にあっては、第一号から第六十号までに該当するいずれか一の物質の含有量が全重量の九〇パーセント以上のもの又は第六十一号から第百二号までに該当するいずれか一の物質の含有量が全重量の九五パーセント以上のものに限る。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2022-03-15",
+  "fetched_at": "2026-10-23",
+  "updated": "2026-10-20T11:32:49+09:00"
+ }
+}

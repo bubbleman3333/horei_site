@@ -302,11 +302,9 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "325AC0000000226_20261119_508AC0000000002",
+   "law_revision_id": "325AC0000000226_20261101_508AC0000000002",
    "amendment_promulgate_date": "2026-03-31",
-   "amendment_enforcement_date": "2026-11-19",
-   "amendment_enforcement_comment": "物資の流通の効率化に関する法律の一部を改正する法律（令和八年法律第二十一号）の施行の日",
-   "amendment_scheduled_enforcement_date": "2026-11-19",
+   "amendment_enforcement_date": "2026-11-01",
    "amendment_law_id": "508AC0000000002",
    "amendment_law_title": "地方税法等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二号",
@@ -476,7 +474,7 @@
  },
  "_meta": {
   "first_seen": "1950-07-31",
-  "fetched_at": "2026-10-16",
+  "fetched_at": "2026-10-23",
   "updated": "2026-10-16T00:01:17+09:00"
  }
 }
