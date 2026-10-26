@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "426M60000200033",
+  "law_num": "平成二十六年農林水産省令第三十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 26,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "033",
+  "promulgation_date": "2014-04-30"
+ },
+ "revision_info": {
+  "law_revision_id": "426M60000200033_20261009_508M60000200072",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律施行規則",
+  "law_title_kana": "のうりんぎょぎょうのけんぜんなはってんとちょうわのとれたさいせいかのうえねるぎーでんきのはつでんのそくしんにかんするほうりつしこうきそく",
+  "abbrev": "農山漁村再生可能エネルギー法施行規則",
+  "category": "農業",
+  "updated": "2026-10-26T09:46:41+09:00",
+  "amendment_promulgate_date": "2026-10-09",
+  "amendment_enforcement_date": "2026-10-09",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200072",
+  "amendment_law_title": "農地法施行規則及び農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第七十二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "426M60000200033_20261009_508M60000200072",
+   "amendment_promulgate_date": "2026-10-09",
+   "amendment_enforcement_date": "2026-10-09",
+   "amendment_law_id": "508M60000200072",
+   "amendment_law_title": "農地法施行規則及び農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第七十二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "426M60000200033_20160401_428M60000200004",
+   "amendment_promulgate_date": "2016-01-28",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "428M60000200004",
+   "amendment_law_num": "平成二十八年農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（農林漁業関連施設）",
+  "title": "第一条",
+  "paragraphs": [
+   "農林漁業の健全な発展と調和のとれた再生可能エネルギー電気の発電の促進に関する法律（以下「法」という。）第三条第三項第四号の農林水産省令で定める施設は、次に掲げるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2014-04-30",
+  "fetched_at": "2026-10-27",
+  "updated": "2026-10-26T09:46:41+09:00"
+ }
+}
