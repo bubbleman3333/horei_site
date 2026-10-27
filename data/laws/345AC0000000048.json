@@ -16,7 +16,7 @@
   "law_title_kana": "ちょさくけんほう",
   "abbrev": null,
   "category": "文化",
-  "updated": "2026-06-24T10:26:51+09:00",
+  "updated": "2026-10-27T16:03:39+09:00",
   "amendment_promulgate_date": "2026-06-24",
   "amendment_enforcement_date": "2026-06-24",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -73,7 +73,7 @@
    "amendment_law_title": "著作権法の一部を改正する法律",
    "amendment_law_num": "令和八年法律第四十八号",
    "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "345AC0000000048_20260617_508AC0000000037",
@@ -457,7 +457,7 @@
  },
  "_meta": {
   "first_seen": "1970-05-06",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-24T10:26:51+09:00"
+  "fetched_at": "2026-10-28",
+  "updated": "2026-10-27T16:03:39+09:00"
  }
 }

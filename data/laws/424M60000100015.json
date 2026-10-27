@@ -16,7 +16,7 @@
   "law_title_kana": "じどうふくしほうにもとづくしていつうしょしえんのじぎょうとうのじんいんせつびおよびうんえいにかんするきじゅん",
   "abbrev": "児福法に基づく指定通所支援の事業等の人員、設備及び運営に関する基準",
   "category": "社会福祉",
-  "updated": "2025-10-16T09:26:34+09:00",
+  "updated": "2026-10-27T16:35:41+09:00",
   "amendment_promulgate_date": "2025-09-10",
   "amendment_enforcement_date": "2025-10-01",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -49,7 +49,7 @@
    "amendment_law_title": "児童福祉法等の一部を改正する法律の施行に伴うこども家庭庁関係内閣府令の整備等に関する内閣府令",
    "amendment_law_num": "令和七年内閣府令第八十号",
    "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "424M60000100015_20251001_506M60000002005",
@@ -239,7 +239,7 @@
  },
  "_meta": {
   "first_seen": "2012-02-03",
-  "fetched_at": "2026-09-22",
-  "updated": "2025-10-16T09:26:34+09:00"
+  "fetched_at": "2026-10-28",
+  "updated": "2026-10-27T16:35:41+09:00"
  }
 }

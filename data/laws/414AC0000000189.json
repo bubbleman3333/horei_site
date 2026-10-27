@@ -16,7 +16,7 @@
   "law_title_kana": "こうぞうかいかくとくべつくいきほう",
   "abbrev": "特区法,構造改革特区法",
   "category": "地方自治",
-  "updated": "2026-07-23T15:20:32+09:00",
+  "updated": "2026-10-27T16:17:12+09:00",
   "amendment_promulgate_date": "2026-07-17",
   "amendment_enforcement_date": "2026-07-17",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -71,7 +71,7 @@
    "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
    "amendment_law_num": "令和八年法律第六十二号",
    "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "414AC0000000189_20251001_507AC0000000029",
@@ -452,7 +452,7 @@
  },
  "_meta": {
   "first_seen": "2002-12-18",
-  "fetched_at": "2026-10-02",
-  "updated": "2026-07-23T15:20:32+09:00"
+  "fetched_at": "2026-10-28",
+  "updated": "2026-10-27T16:17:12+09:00"
  }
 }

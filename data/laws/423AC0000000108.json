@@ -14,9 +14,9 @@
   "law_type": "Act",
   "law_title": "再生可能エネルギー電気の利用の促進に関する特別措置法",
   "law_title_kana": "さいせいかのうえねるぎーでんきのりようのそくしんにかんするとくべつそちほう",
-  "abbrev": "ＦＩＴ法,再生可能エネルギー特別措置法,再エネ特措法,再生可能エネルギー特措法",
+  "abbrev": "再生可能エネルギー特措法,再生可能エネルギー特別措置法,ＦＩＴ法,再エネ特措法",
   "category": "工業",
-  "updated": "2026-05-21T02:45:36+09:00",
+  "updated": "2026-10-27T16:35:06+09:00",
   "amendment_promulgate_date": "2023-06-16",
   "amendment_enforcement_date": "2026-05-21",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -51,7 +51,7 @@
    "amendment_law_title": "デジタル社会の形成を図るための規制改革を推進するためのデジタル社会形成基本法等の一部を改正する法律",
    "amendment_law_num": "令和五年法律第六十三号",
    "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "423AC0000000108_20260521_504AC0000000048",
@@ -212,7 +212,7 @@
  },
  "_meta": {
   "first_seen": "2011-08-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-21T02:45:36+09:00"
+  "fetched_at": "2026-10-28",
+  "updated": "2026-10-27T16:35:06+09:00"
  }
 }

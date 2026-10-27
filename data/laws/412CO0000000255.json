@@ -16,7 +16,7 @@
   "law_title_kana": "こくどこうつうしょうそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-07-08T10:01:29+09:00",
+  "updated": "2026-10-27T16:15:41+09:00",
   "amendment_promulgate_date": "2026-06-25",
   "amendment_enforcement_date": "2026-07-01",
   "amendment_enforcement_comment": null,
@@ -28,7 +28,7 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "PreviousEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
@@ -39,7 +39,7 @@
    "amendment_law_title": "国土交通省組織令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百十二号",
    "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "412CO0000000255_20260408_508CO0000000124",
@@ -445,7 +445,7 @@
  },
  "_meta": {
   "first_seen": "2000-06-07",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-08T10:01:29+09:00"
+  "fetched_at": "2026-10-28",
+  "updated": "2026-10-27T16:15:41+09:00"
  }
 }
