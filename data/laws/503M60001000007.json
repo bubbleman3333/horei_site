@@ -1,0 +1,104 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "503M60001000007",
+  "law_num": "令和三年環境省令第七号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 3,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "007",
+  "promulgation_date": "2021-04-01"
+ },
+ "revision_info": {
+  "law_revision_id": "503M60001000007_20230324_505M60001000003",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "第一種動物取扱業者及び第二種動物取扱業者が取り扱う動物の管理の方法等の基準を定める省令",
+  "law_title_kana": "だいいっしゅどうぶつとりあつかいぎょうしゃおよびだいにしゅどうぶつとりあつかいぎょうしゃがとりあつかうどうぶつのかんりのほうほうとうのきじゅんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "環境保全",
+  "updated": "2023-04-07T13:19:40+09:00",
+  "amendment_promulgate_date": "2023-03-24",
+  "amendment_enforcement_date": "2023-03-24",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "505M60001000003",
+  "amendment_law_title": "第一種動物取扱業者及び第二種動物取扱業者が取り扱う動物の管理の方法等の基準を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和五年環境省令第三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "503M60001000007_20270601_508M60001000028",
+   "amendment_promulgate_date": "2026-10-15",
+   "amendment_enforcement_date": "2027-06-01",
+   "amendment_law_id": "508M60001000028",
+   "amendment_law_title": "第一種動物取扱業者及び第二種動物取扱業者が取り扱う動物の管理の方法等の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年環境省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "503M60001000007_20230324_505M60001000003",
+   "amendment_promulgate_date": "2023-03-24",
+   "amendment_enforcement_date": "2023-03-24",
+   "amendment_law_id": "505M60001000003",
+   "amendment_law_title": "第一種動物取扱業者及び第二種動物取扱業者が取り扱う動物の管理の方法等の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和五年環境省令第三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "503M60001000007_20220601_504M60001000016",
+   "amendment_promulgate_date": "2022-04-05",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_id": "504M60001000016",
+   "amendment_law_title": "動物の愛護及び管理に関する法律施行規則及び第一種動物取扱業者及び第二種動物取扱業者が取り扱う動物の管理の方法等の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年環境省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60001000007_20220601_000000000000000",
+   "amendment_promulgate_date": "2021-04-01",
+   "amendment_enforcement_date": "2022-06-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60001000007_20220405_504M60001000016",
+   "amendment_promulgate_date": "2022-04-05",
+   "amendment_enforcement_date": "2022-04-05",
+   "amendment_law_id": "504M60001000016",
+   "amendment_law_title": "動物の愛護及び管理に関する法律施行規則及び第一種動物取扱業者及び第二種動物取扱業者が取り扱う動物の管理の方法等の基準を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和四年環境省令第十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "503M60001000007_20210601_000000000000000",
+   "amendment_promulgate_date": "2021-04-01",
+   "amendment_enforcement_date": "2021-06-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この省令において使用する用語は、動物の愛護及び管理に関する法律（以下「法」という。）及び動物の愛護及び管理に関する法律施行規則（平成十八年環境省令第一号。以下「規則」という。）において使用する用語の例によるほか、次の各号に掲げる用語の定義は、それぞれ当該各号に定めるところによる。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2021-04-01",
+  "fetched_at": "2026-10-29",
+  "updated": "2023-04-07T13:19:40+09:00"
+ }
+}

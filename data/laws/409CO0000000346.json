@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "409CO0000000346_20270401_508CO0000000327",
+   "amendment_promulgate_date": "2026-10-15",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508CO0000000327",
+   "amendment_law_title": "環境影響評価法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百二十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "409CO0000000346_20270401_508CO0000000230",
    "amendment_promulgate_date": "2026-07-23",
    "amendment_enforcement_date": "2027-04-01",
@@ -132,7 +142,7 @@
  },
  "_meta": {
   "first_seen": "1997-12-03",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-29",
   "updated": "2026-04-02T00:07:29+09:00"
  }
 }

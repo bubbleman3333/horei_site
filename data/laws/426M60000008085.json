@@ -10,20 +10,20 @@
   "promulgation_date": "2014-11-20"
  },
  "revision_info": {
-  "law_revision_id": "426M60000008085_20260614_508M60004008011",
+  "law_revision_id": "426M60000008085_20261015_508M60004008021",
   "law_type": "MinisterialOrdinance",
   "law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令",
   "law_title_kana": "ぎょうせいてつづきにおけるとくていのこじんをしきべつするためのばんごうのりようとうにかんするほうりつにきていするこじんばんごうこじんばんごうかーどとくていこじんじょうほうのていきょうとうにかんするめいれい",
   "abbrev": null,
   "category": "行政手続",
-  "updated": "2026-06-14T00:33:49+09:00",
-  "amendment_promulgate_date": "2026-03-27",
-  "amendment_enforcement_date": "2026-06-14",
+  "updated": "2026-10-28T10:00:00+09:00",
+  "amendment_promulgate_date": "2026-10-15",
+  "amendment_enforcement_date": "2026-10-15",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60004008011",
-  "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則等の一部を改正する命令",
-  "amendment_law_num": "令和八年デジタル庁・総務省令第十一号",
+  "amendment_law_id": "508M60004008021",
+  "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年デジタル庁・総務省令第二十一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "426M60000008085_20261015_508M60004008021",
+   "amendment_promulgate_date": "2026-10-15",
+   "amendment_enforcement_date": "2026-10-15",
+   "amendment_law_id": "508M60004008021",
+   "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律に規定する個人番号、個人番号カード、特定個人情報の提供等に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年デジタル庁・総務省令第二十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "426M60000008085_20260614_508M60004008011",
    "amendment_promulgate_date": "2026-03-27",
    "amendment_enforcement_date": "2026-06-14",
@@ -39,7 +49,7 @@
    "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律施行規則等の一部を改正する命令",
    "amendment_law_num": "令和八年デジタル庁・総務省令第十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "426M60000008085_20260526_508M60004008006",
@@ -283,7 +293,7 @@
  },
  "_meta": {
   "first_seen": "2014-11-20",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-14T00:33:49+09:00"
+  "fetched_at": "2026-10-29",
+  "updated": "2026-10-28T10:00:00+09:00"
  }
 }

@@ -1,0 +1,65 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "419M60000008119",
+  "law_num": "平成十九年総務省令第百十九号",
+  "law_num_era": "Heisei",
+  "law_num_year": 19,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "119",
+  "promulgation_date": "2007-09-28"
+ },
+ "revision_info": {
+  "law_revision_id": "419M60000008119_20261016_508M60000008117",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "地域公共交通の活性化及び再生に関する法律第十二条、第十七条及び第二十五条の二に規定する軌道運送高度化事業、道路運送高度化事業及び鉄道事業再構築事業を定める省令",
+  "law_title_kana": "ちいきこうきょうこうつうのかっせいかおよびさいせいにかんするほうりつだいじゅうにじょうだいじゅうななじょうおよびだいにじゅうごじょうのににきていするきどううんそうこうどかじぎょうどうろうんそうこうどかじぎょうおよびてつどうじぎょうさいこうちくじぎょうをさだめるしょうれい",
+  "abbrev": "地域公共交通活性化・再生法第十二条及び第十七条に規定する軌道運送高度化事業及び道路運送高度化事業を定める省令,地域公共交通活性化法第十二条及び第十七条に規定する軌道運送高度化事業及び道路運送高度化事業を定める省令",
+  "category": "陸運",
+  "updated": "2026-10-28T10:00:54+09:00",
+  "amendment_promulgate_date": "2026-10-13",
+  "amendment_enforcement_date": "2026-10-16",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000008117",
+  "amendment_law_title": "地域公共交通の活性化及び再生に関する法律第十二条及び第十七条に規定する軌道運送高度化事業及び道路運送高度化事業を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第百十七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "419M60000008119_20261016_508M60000008117",
+   "amendment_promulgate_date": "2026-10-13",
+   "amendment_enforcement_date": "2026-10-16",
+   "amendment_law_id": "508M60000008117",
+   "amendment_law_title": "地域公共交通の活性化及び再生に関する法律第十二条及び第十七条に規定する軌道運送高度化事業及び道路運送高度化事業を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百十七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "419M60000008119_20071001_000000000000000",
+   "amendment_promulgate_date": "2007-09-28",
+   "amendment_enforcement_date": "2007-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "地域公共交通の活性化及び再生に関する法律（以下「法」という。）第十二条に規定する軌道運送高度化事業で総務省令で定めるものは、国庫補助金の交付の対象となる軌道運送高度化事業（地方財政法（昭和二十三年法律第百九号）第五条第五号に規定する経費に係る事業に限る。）とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2007-09-28",
+  "fetched_at": "2026-10-29",
+  "updated": "2026-10-28T10:00:54+09:00"
+ }
+}
