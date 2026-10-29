@@ -10,25 +10,25 @@
   "promulgation_date": "2000-06-07"
  },
  "revision_info": {
-  "law_revision_id": "412CO0000000245_20261001_507CO0000000299",
+  "law_revision_id": "412CO0000000245_20261030_508CO0000000302",
   "law_type": "CabinetOrder",
   "law_title": "内閣府本府組織令",
   "law_title_kana": "ないかくふほんぷそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-10-05T10:50:29+09:00",
-  "amendment_promulgate_date": "2025-08-14",
-  "amendment_enforcement_date": "2026-10-01",
-  "amendment_enforcement_comment": null,
-  "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000299",
-  "amendment_law_title": "日本学術会議法施行令",
-  "amendment_law_num": "令和七年政令第二百九十九号",
+  "updated": "2026-10-14T10:06:54+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-10-30",
+  "amendment_enforcement_comment": "国家社会機能継続性確保施策及び副首都の整備に係る施策の推進に関する法律（令和八年法律第七十八号）の施行の日",
+  "amendment_scheduled_enforcement_date": "2026-10-30",
+  "amendment_law_id": "508CO0000000302",
+  "amendment_law_title": "内閣府本府組織令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "CurrentEnforced"
+  "current_revision_status": "UnEnforced"
  },
  "revisions": [
   {
@@ -451,7 +451,7 @@
  },
  "_meta": {
   "first_seen": "2000-06-07",
-  "fetched_at": "2026-10-15",
-  "updated": "2026-10-05T10:50:29+09:00"
+  "fetched_at": "2026-10-30",
+  "updated": "2026-10-14T10:06:54+09:00"
  }
 }
