@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "413M60000008001_20261102_508M60000008118",
+   "amendment_promulgate_date": "2026-10-16",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000008118",
+   "amendment_law_title": "総務省組織規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百十八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "413M60000008001_20260804_508M60000008098",
    "amendment_promulgate_date": "2026-08-04",
    "amendment_enforcement_date": "2026-08-04",
@@ -377,7 +387,7 @@
  },
  "_meta": {
   "first_seen": "2001-01-06",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-10-29",
   "updated": "2026-08-19T11:54:34+09:00"
  }
 }
