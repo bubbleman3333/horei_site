@@ -16,11 +16,11 @@
   "law_title_kana": "こっかしゃかいきのうけいぞくせいかくほしさくおよびふくしゅとのせいびにかかるしさくのすいしんにかんするほうりつ",
   "abbrev": null,
   "category": "国土開発",
-  "updated": "2026-08-14T13:10:52+09:00",
+  "updated": "2026-10-30T10:02:39+09:00",
   "amendment_promulgate_date": "2026-07-31",
   "amendment_enforcement_date": "2026-10-30",
-  "amendment_enforcement_comment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
-  "amendment_scheduled_enforcement_date": "2026-10-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": null,
   "amendment_law_title": null,
   "amendment_law_num": null,
@@ -28,17 +28,15 @@
   "repeal_status": "None",
   "repeal_date": null,
   "mission": "New",
-  "current_revision_status": "UnEnforced"
+  "current_revision_status": "CurrentEnforced"
  },
  "revisions": [
   {
    "law_revision_id": "508AC1000000078_20261030_000000000000000",
    "amendment_promulgate_date": "2026-07-31",
    "amendment_enforcement_date": "2026-10-30",
-   "amendment_enforcement_comment": "公布の日から起算して三月を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2026-10-30",
    "amendment_type": "1",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   }
  ],
  "toc": [
@@ -57,7 +55,7 @@
  },
  "_meta": {
   "first_seen": "2026-07-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-14T13:10:52+09:00"
+  "fetched_at": "2026-10-30",
+  "updated": "2026-10-30T10:02:39+09:00"
  }
 }
