@@ -10,20 +10,20 @@
   "promulgation_date": "1977-06-24"
  },
  "revision_info": {
-  "law_revision_id": "352CO0000000220_20260808_508CO0000000254",
+  "law_revision_id": "352CO0000000220_20261101_508CO0000000085",
   "law_type": "CabinetOrder",
   "law_title": "電子情報処理組織による輸出入等関連業務の処理等に関する法律施行令",
   "law_title_kana": "でんしじょうほうしょりそしきによるゆしゅつにゅうとうかんれんぎょうむのしょりとうにかんするほうりつしこうれい",
   "abbrev": "ＮＡＣＣＳ特例法施行令",
   "category": "国税",
-  "updated": "2026-08-24T09:40:58+09:00",
-  "amendment_promulgate_date": "2026-08-07",
-  "amendment_enforcement_date": "2026-08-08",
+  "updated": "2026-11-01T00:28:42+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000254",
-  "amendment_law_title": "溶融亜鉛めっき鋼帯及び鋼板に対して課する暫定的な不当廉売関税に関する政令",
-  "amendment_law_num": "令和八年政令第二百五十四号",
+  "amendment_law_id": "508CO0000000085",
+  "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
+  "amendment_law_num": "令和八年政令第八十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -49,7 +49,7 @@
    "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
    "amendment_law_num": "令和八年政令第八十五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "352CO0000000220_20260808_508CO0000000254",
@@ -59,7 +59,7 @@
    "amendment_law_title": "溶融亜鉛めっき鋼帯及び鋼板に対して課する暫定的な不当廉売関税に関する政令",
    "amendment_law_num": "令和八年政令第二百五十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "352CO0000000220_20260709_508CO0000000224",
@@ -448,7 +448,7 @@
  },
  "_meta": {
   "first_seen": "1977-06-24",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-24T09:40:58+09:00"
+  "fetched_at": "2026-11-01",
+  "updated": "2026-11-01T00:28:42+09:00"
  }
 }

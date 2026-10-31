@@ -10,20 +10,20 @@
   "promulgation_date": "1950-07-31"
  },
  "revision_info": {
-  "law_revision_id": "325CO0000000245_20260822_508CO0000000251",
+  "law_revision_id": "325CO0000000245_20261101_508CO0000000083",
   "law_type": "CabinetOrder",
   "law_title": "地方税法施行令",
   "law_title_kana": "ちほうぜいほうしこうれい",
   "abbrev": null,
   "category": "地方財政",
-  "updated": "2026-09-08T11:15:58+09:00",
-  "amendment_promulgate_date": "2026-08-07",
-  "amendment_enforcement_date": "2026-08-22",
+  "updated": "2026-11-01T00:05:46+09:00",
+  "amendment_promulgate_date": "2026-03-31",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000251",
-  "amendment_law_title": "地方税法施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百五十一号",
+  "amendment_law_id": "508CO0000000083",
+  "amendment_law_title": "地方税法施行令等の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第八十三号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -169,7 +169,7 @@
    "amendment_law_title": "地方税法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第八十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "325CO0000000245_20261101_507CO0000000119",
@@ -179,7 +179,7 @@
    "amendment_law_title": "地方税法施行令及び国有資産等所在市町村交付金法施行令の一部を改正する政令",
    "amendment_law_num": "令和七年政令第百十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "325CO0000000245_20260822_508CO0000000251",
@@ -189,7 +189,7 @@
    "amendment_law_title": "地方税法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百五十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "325CO0000000245_20260815_508CO0000000251",
@@ -466,7 +466,7 @@
  },
  "_meta": {
   "first_seen": "1950-07-31",
-  "fetched_at": "2026-10-23",
-  "updated": "2026-09-08T11:15:58+09:00"
+  "fetched_at": "2026-11-01",
+  "updated": "2026-11-01T00:05:46+09:00"
  }
 }

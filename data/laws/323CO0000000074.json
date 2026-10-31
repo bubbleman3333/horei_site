@@ -10,20 +10,20 @@
   "promulgation_date": "1948-03-31"
  },
  "revision_info": {
-  "law_revision_id": "323CO0000000074_20261001_508CO0000000274",
+  "law_revision_id": "323CO0000000074_20261101_508CO0000000012",
   "law_type": "CabinetOrder",
   "law_title": "児童福祉法施行令",
   "law_title_kana": "じどうふくしほうしこうれい",
   "abbrev": "児福法施行令",
   "category": "社会福祉",
-  "updated": "2026-10-01T00:53:11+09:00",
-  "amendment_promulgate_date": "2026-09-11",
-  "amendment_enforcement_date": "2026-10-01",
+  "updated": "2026-11-01T00:01:08+09:00",
+  "amendment_promulgate_date": "2026-02-16",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000274",
-  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
-  "amendment_law_num": "令和八年政令第二百七十四号",
+  "amendment_law_id": "508CO0000000012",
+  "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -49,7 +49,7 @@
    "amendment_law_title": "児童福祉法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第十二号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "323CO0000000074_20261001_508CO0000000274",
@@ -59,7 +59,7 @@
    "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令",
    "amendment_law_num": "令和八年政令第二百七十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "323CO0000000074_20261001_508CO0000000074",
@@ -450,7 +450,7 @@
  },
  "_meta": {
   "first_seen": "1948-03-31",
-  "fetched_at": "2026-10-02",
-  "updated": "2026-10-01T00:53:11+09:00"
+  "fetched_at": "2026-11-01",
+  "updated": "2026-11-01T00:01:08+09:00"
  }
 }

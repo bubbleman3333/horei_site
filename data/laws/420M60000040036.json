@@ -10,20 +10,20 @@
   "promulgation_date": "2008-05-21"
  },
  "revision_info": {
-  "law_revision_id": "420M60000040036_20230501_505M60000040028",
+  "law_revision_id": "420M60000040036_20261101_507M60000040026",
   "law_type": "MinisterialOrdinance",
   "law_title": "財務省関係構造改革特別区域法施行規則",
   "law_title_kana": "ざいむしょうかんけいこうぞうかいかくとくべつくいきほうしこうきそく",
   "abbrev": null,
   "category": "地方自治",
-  "updated": "2024-07-12T15:41:00+09:00",
-  "amendment_promulgate_date": "2023-03-31",
-  "amendment_enforcement_date": "2023-05-01",
+  "updated": "2026-11-01T00:32:05+09:00",
+  "amendment_promulgate_date": "2025-03-31",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "505M60000040028",
-  "amendment_law_title": "財務省関係構造改革特別区域法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和五年財務省令第二十八号",
+  "amendment_law_id": "507M60000040026",
+  "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和七年財務省令第二十六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "租税特別措置法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和七年財務省令第二十六号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "420M60000040036_20230501_505M60000040028",
@@ -49,7 +49,7 @@
    "amendment_law_title": "財務省関係構造改革特別区域法施行規則の一部を改正する省令",
    "amendment_law_num": "令和五年財務省令第二十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "420M60000040036_20230401_505M60000040028",
@@ -116,7 +116,7 @@
  },
  "_meta": {
   "first_seen": "2008-05-21",
-  "fetched_at": "2026-09-22",
-  "updated": "2024-07-12T15:41:00+09:00"
+  "fetched_at": "2026-11-01",
+  "updated": "2026-11-01T00:32:05+09:00"
  }
 }
