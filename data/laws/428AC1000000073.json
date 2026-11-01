@@ -10,20 +10,20 @@
   "promulgation_date": "2016-06-07"
  },
  "revision_info": {
-  "law_revision_id": "428AC1000000073_20240926_506AC0000000065",
+  "law_revision_id": "428AC1000000073_20261102_508AC0000000062",
   "law_type": "Act",
   "law_title": "国外犯罪被害弔慰金等の支給に関する法律",
   "law_title_kana": "こくがいはんざいひがいちょういきんとうのしきゅうにかんするほうりつ",
   "abbrev": null,
   "category": "刑事",
-  "updated": "2026-04-20T15:49:58+09:00",
-  "amendment_promulgate_date": "2024-06-26",
-  "amendment_enforcement_date": "2024-09-26",
+  "updated": "2026-11-02T02:20:27+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "506AC0000000065",
-  "amendment_law_title": "地方自治法の一部を改正する法律",
-  "amendment_law_num": "令和六年法律第六十五号",
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
    "amendment_law_num": "令和八年法律第六十二号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "428AC1000000073_20240926_506AC0000000065",
@@ -49,7 +49,7 @@
    "amendment_law_title": "地方自治法の一部を改正する法律",
    "amendment_law_num": "令和六年法律第六十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "428AC1000000073_20210901_503AC0000000036",
@@ -75,7 +75,6 @@
    "law_revision_id": "428AC1000000073_20161130_000000000000000",
    "amendment_promulgate_date": "2016-06-07",
    "amendment_enforcement_date": "2016-11-30",
-   "amendment_law_id": "",
    "amendment_law_title": "",
    "amendment_type": "1",
    "current_revision_status": "PreviousEnforced"
@@ -91,7 +90,7 @@
  },
  "_meta": {
   "first_seen": "2016-06-07",
-  "fetched_at": "2026-10-02",
-  "updated": "2026-04-20T15:49:58+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T02:20:27+09:00"
  }
 }

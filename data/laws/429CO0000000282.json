@@ -10,20 +10,20 @@
   "promulgation_date": "2017-11-15"
  },
  "revision_info": {
-  "law_revision_id": "429CO0000000282_20260710_508CO0000000221",
+  "law_revision_id": "429CO0000000282_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行令",
   "law_title_kana": "えいせいりもーとせんしんぐきろくのてきせいなとりあつかいのかくほにかんするほうりつしこうれい",
   "abbrev": "衛星リモ―トセンシング法施行令,衛星リモセン法施行令",
   "category": "行政組織",
-  "updated": "2026-07-15T10:52:39+09:00",
-  "amendment_promulgate_date": "2026-07-03",
-  "amendment_enforcement_date": "2026-07-10",
+  "updated": "2026-11-02T02:22:49+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000221",
-  "amendment_law_title": "衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百二十一号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -49,7 +49,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "429CO0000000282_20260710_508CO0000000221",
@@ -59,7 +59,7 @@
    "amendment_law_title": "衛星リモートセンシング記録の適正な取扱いの確保に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百二十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "429CO0000000282_20260605_508CO0000000194",
@@ -170,7 +170,7 @@
  },
  "_meta": {
   "first_seen": "2017-11-15",
-  "fetched_at": "2026-10-09",
-  "updated": "2026-07-15T10:52:39+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T02:22:49+09:00"
  }
 }

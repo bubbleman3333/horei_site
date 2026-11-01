@@ -10,20 +10,20 @@
   "promulgation_date": "1992-08-07"
  },
  "revision_info": {
-  "law_revision_id": "404CO0000000268_20230401_505CO0000000126",
+  "law_revision_id": "404CO0000000268_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "国際連合平和維持活動等に対する協力に関する法律施行令",
   "law_title_kana": "こくさいれんごうへいわいじかつどうとうにたいするきょうりょくにかんするほうりつしこうれい",
-  "abbrev": "ＰＫＯ協力法施行令,ＰＫＯ法施行令,国連平和協力法施行令",
+  "abbrev": "ＰＫＯ協力法施行令,国連平和協力法施行令,ＰＫＯ法施行令",
   "category": "外事",
-  "updated": "2024-07-10T14:04:53+09:00",
-  "amendment_promulgate_date": "2023-03-30",
-  "amendment_enforcement_date": "2023-04-01",
+  "updated": "2026-11-02T00:43:45+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "505CO0000000126",
-  "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
-  "amendment_law_num": "令和五年政令第百二十六号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "404CO0000000268_20230401_505CO0000000126",
@@ -49,7 +49,7 @@
    "amendment_law_title": "こども家庭庁設置法及びこども家庭庁設置法の施行に伴う関係法律の整備に関する法律の施行に伴う関係政令の整備等に関する政令",
    "amendment_law_num": "令和五年政令第百二十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "404CO0000000268_20210901_503CO0000000195",
@@ -102,7 +102,7 @@
  },
  "_meta": {
   "first_seen": "1992-08-07",
-  "fetched_at": "2026-10-15",
-  "updated": "2024-07-10T14:04:53+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T00:43:45+09:00"
  }
 }

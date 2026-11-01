@@ -10,20 +10,20 @@
   "promulgation_date": "2005-08-15"
  },
  "revision_info": {
-  "law_revision_id": "417CO0000000282_20260401_508CO0000000066",
+  "law_revision_id": "417CO0000000282_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "日本海溝・千島海溝周辺海溝型地震に係る地震防災対策の推進に関する特別措置法施行令",
   "law_title_kana": "にほんかいこうちしまかいこうしゅうへんかいこうがたじしんにかかるじしんぼうさいたいさくのすいしんにかんするとくべつそちほうしこうれい",
   "abbrev": null,
   "category": "災害対策",
-  "updated": "2026-04-14T09:42:06+09:00",
-  "amendment_promulgate_date": "2026-03-27",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-11-02T01:39:51+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000066",
-  "amendment_law_title": "医療法施行令等の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第六十六号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "417CO0000000282_20260401_508CO0000000066",
@@ -49,7 +49,7 @@
    "amendment_law_title": "医療法施行令等の一部を改正する政令",
    "amendment_law_num": "令和八年政令第六十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "417CO0000000282_20251001_507CO0000000085",
@@ -163,7 +163,7 @@
  },
  "_meta": {
   "first_seen": "2005-08-15",
-  "fetched_at": "2026-10-10",
-  "updated": "2026-04-14T09:42:06+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T01:39:51+09:00"
  }
 }

@@ -10,20 +10,20 @@
   "promulgation_date": "2000-06-07"
  },
  "revision_info": {
-  "law_revision_id": "412CO0000000245_20261030_508CO0000000302",
+  "law_revision_id": "412CO0000000245_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "内閣府本府組織令",
   "law_title_kana": "ないかくふほんぷそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-10-30T10:07:20+09:00",
+  "updated": "2026-11-02T00:59:57+09:00",
   "amendment_promulgate_date": "2026-09-30",
-  "amendment_enforcement_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000302",
-  "amendment_law_title": "内閣府本府組織令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第三百二号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "412CO0000000245_20261030_508CO0000000302",
@@ -49,7 +49,7 @@
    "amendment_law_title": "内閣府本府組織令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第三百二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "412CO0000000245_20261001_507CO0000000299",
@@ -444,12 +444,12 @@
   "caption": "（大臣官房、政策統括官、独立公文書管理監及び局の設置）",
   "title": "第一条",
   "paragraphs": [
-   "本府に、大臣官房、政策統括官十人（うち二人は、関係のある他の職を占める者をもって充てられるものとする。）、独立公文書管理監一人及び次の三局を置く。"
+   "本府に、大臣官房、政策統括官九人（うち二人は、関係のある他の職を占める者をもって充てられるものとする。）、独立公文書管理監一人及び次の三局を置く。"
   ]
  },
  "_meta": {
   "first_seen": "2000-06-07",
-  "fetched_at": "2026-10-30",
-  "updated": "2026-10-30T10:07:20+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T00:59:57+09:00"
  }
 }

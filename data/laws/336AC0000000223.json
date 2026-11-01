@@ -10,20 +10,20 @@
   "promulgation_date": "1961-11-15"
  },
  "revision_info": {
-  "law_revision_id": "336AC0000000223_20260916_508AC0000000043",
+  "law_revision_id": "336AC0000000223_20261102_508AC0000000062",
   "law_type": "Act",
   "law_title": "災害対策基本法",
   "law_title_kana": "さいがいたいさくきほんほう",
   "abbrev": "災対法",
   "category": "災害対策",
-  "updated": "2026-09-16T00:04:19+09:00",
-  "amendment_promulgate_date": "2026-06-19",
-  "amendment_enforcement_date": "2026-09-16",
+  "updated": "2026-11-02T00:25:53+09:00",
+  "amendment_promulgate_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508AC0000000043",
-  "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
-  "amendment_law_num": "令和八年法律第四十三号",
+  "amendment_law_id": "508AC0000000062",
+  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
+  "amendment_law_num": "令和八年法律第六十二号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -51,7 +51,7 @@
    "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
    "amendment_law_num": "令和八年法律第六十二号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "336AC0000000223_20260916_508AC0000000043",
@@ -61,7 +61,7 @@
    "amendment_law_title": "廃棄物の処理及び清掃に関する法律等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第四十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "336AC0000000223_20260717_508AC0000000062",
@@ -200,7 +200,7 @@
   "第三章　防災計画",
   "第四章　災害予防",
   "第五章　災害応急対策",
-  "第六章　災害復旧",
+  "第六章　復旧復興",
   "第七章　被災者の援護を図るための措置",
   "第八章　財政金融措置",
   "第九章　災害緊急事態",
@@ -211,12 +211,12 @@
   "caption": "（目的）",
   "title": "第一条",
   "paragraphs": [
-   "この法律は、国土並びに国民の生命、身体及び財産を災害から保護するため、防災に関し、基本理念を定め、国、地方公共団体及びその他の公共機関を通じて必要な体制を確立し、責任の所在を明確にするとともに、防災計画の作成、災害予防、災害応急対策、災害復旧及び防災に関する財政金融措置その他必要な災害対策の基本を定めることにより、総合的かつ計画的な防災行政の整備及び推進を図り、もつて社会の秩序の維持と公共の福祉の確保に資することを目的とする。"
+   "この法律は、国土並びに国民の生命、身体及び財産を災害から保護するため、防災に関し、基本理念を定め、国、地方公共団体及びその他の公共機関を通じて必要な体制を確立し、責任の所在を明確にするとともに、防災計画の作成、災害予防、災害応急対策、災害復旧、災害からの復興及び防災に関する財政金融措置その他必要な災害対策の基本を定めることにより、総合的かつ計画的な防災行政の整備及び推進を図り、もつて社会の秩序の維持と公共の福祉の確保に資することを目的とする。"
   ]
  },
  "_meta": {
   "first_seen": "1961-11-15",
-  "fetched_at": "2026-10-02",
-  "updated": "2026-09-16T00:04:19+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T00:25:53+09:00"
  }
 }

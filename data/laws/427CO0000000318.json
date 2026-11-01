@@ -10,20 +10,20 @@
   "promulgation_date": "2015-09-04"
  },
  "revision_info": {
-  "law_revision_id": "427CO0000000318_20261001_508CO0000000286",
+  "law_revision_id": "427CO0000000318_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "女性の職業生活における活躍の推進に関する法律施行令",
   "law_title_kana": "じょせいのしょくぎょうせいかつにおけるかつやくのすいしんにかんするほうりつしこうれい",
   "abbrev": "女性活躍推進法施行令",
   "category": "労働",
-  "updated": "2026-10-01T14:27:43+09:00",
-  "amendment_promulgate_date": "2026-09-16",
-  "amendment_enforcement_date": "2026-10-01",
+  "updated": "2026-11-02T02:19:34+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000286",
-  "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和八年政令第二百八十六号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "427CO0000000318_20261001_508CO0000000286",
@@ -49,7 +49,7 @@
    "amendment_law_title": "日本学術会議法の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第二百八十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "427CO0000000318_20250401_507CO0000000019",
@@ -110,7 +110,7 @@
  },
  "_meta": {
   "first_seen": "2015-09-04",
-  "fetched_at": "2026-10-09",
-  "updated": "2026-10-01T14:27:43+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T02:19:34+09:00"
  }
 }

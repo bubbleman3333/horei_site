@@ -10,15 +10,15 @@
   "promulgation_date": "1962-07-09"
  },
  "revision_info": {
-  "law_revision_id": "337CO0000000288_20260930_508CO0000000305",
+  "law_revision_id": "337CO0000000288_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "災害対策基本法施行令",
   "law_title_kana": "さいがいたいさくきほんほうしこうれい",
   "abbrev": "災対法施行令",
   "category": "災害対策",
-  "updated": "2026-10-15T12:49:24+09:00",
+  "updated": "2026-11-02T00:26:16+09:00",
   "amendment_promulgate_date": "2026-09-30",
-  "amendment_enforcement_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508CO0000000305",
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "337CO0000000288_20260930_508CO0000000305",
@@ -49,7 +49,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "337CO0000000288_20260401_508CO0000000110",
@@ -210,7 +210,7 @@
   "第五章　政令で定める計画",
   "第五章の二　災害予防",
   "第六章　災害応急対策",
-  "第七章　災害復旧",
+  "第七章　復旧復興",
   "第八章　財政金融措置",
   "第九章　雑則"
  ],
@@ -223,7 +223,7 @@
  },
  "_meta": {
   "first_seen": "1962-07-09",
-  "fetched_at": "2026-10-16",
-  "updated": "2026-10-15T12:49:24+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T00:26:16+09:00"
  }
 }

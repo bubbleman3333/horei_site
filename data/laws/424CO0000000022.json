@@ -10,20 +10,20 @@
   "promulgation_date": "2012-02-01"
  },
  "revision_info": {
-  "law_revision_id": "424CO0000000022_20260401_508CO0000000081",
+  "law_revision_id": "424CO0000000022_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "復興庁組織令",
   "law_title_kana": "ふっこうちょうそしきれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-04-20T10:10:28+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-11-02T02:03:47+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000081",
-  "amendment_law_title": "復興庁組織令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第八十一号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "424CO0000000022_20260401_508CO0000000081",
@@ -49,7 +49,7 @@
    "amendment_law_title": "復興庁組織令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第八十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "424CO0000000022_20250401_507CO0000000146",
@@ -263,7 +263,7 @@
  },
  "_meta": {
   "first_seen": "2012-02-01",
-  "fetched_at": "2026-10-10",
-  "updated": "2026-04-20T10:10:28+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T02:03:47+09:00"
  }
 }

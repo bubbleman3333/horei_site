@@ -10,15 +10,15 @@
   "promulgation_date": "1948-07-10"
  },
  "revision_info": {
-  "law_revision_id": "323AC0000000120_20260717_508AC0000000062",
+  "law_revision_id": "323AC0000000120_20261102_508AC0000000062",
   "law_type": "Act",
   "law_title": "国家行政組織法",
   "law_title_kana": "こっかぎょうせいそしきほう",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-07-23T13:13:47+09:00",
+  "updated": "2026-11-02T00:15:18+09:00",
   "amendment_promulgate_date": "2026-07-17",
-  "amendment_enforcement_date": "2026-07-17",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508AC0000000062",
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
    "amendment_law_num": "令和八年法律第六十二号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "323AC0000000120_20260717_508AC0000000062",
@@ -49,7 +49,7 @@
    "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
    "amendment_law_num": "令和八年法律第六十二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "323AC0000000120_20260703_508AC0000000053",
@@ -107,12 +107,12 @@
   "caption": "（目的）",
   "title": "第一条",
   "paragraphs": [
-   "この法律は、内閣の統轄の下における行政機関で内閣府及びデジタル庁以外のもの（以下「国の行政機関」という。）の組織の基準を定め、もつて国の行政事務の能率的な遂行のために必要な国家行政組織を整えることを目的とする。"
+   "この法律は、内閣の統轄の下における行政機関で内閣府、デジタル庁及び防災庁以外のもの（以下「国の行政機関」という。）の組織の基準を定め、もつて国の行政事務の能率的な遂行のために必要な国家行政組織を整えることを目的とする。"
   ]
  },
  "_meta": {
   "first_seen": "1948-07-10",
-  "fetched_at": "2026-10-02",
-  "updated": "2026-07-23T13:13:47+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T00:15:18+09:00"
  }
 }

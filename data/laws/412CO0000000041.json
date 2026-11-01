@@ -10,20 +10,20 @@
   "promulgation_date": "2000-02-16"
  },
  "revision_info": {
-  "law_revision_id": "412CO0000000041_20260731_508CO0000000234",
+  "law_revision_id": "412CO0000000041_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "行政機関の保有する情報の公開に関する法律施行令",
   "law_title_kana": "ぎょうせいきかんのほゆうするじょうほうのこうかいにかんするほうりつしこうれい",
   "abbrev": "行政機関情報公開法施行令,情報公開法施行令",
   "category": "行政手続",
-  "updated": "2026-08-12T13:43:47+09:00",
-  "amendment_promulgate_date": "2026-07-29",
-  "amendment_enforcement_date": "2026-07-31",
+  "updated": "2026-11-02T00:58:03+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000234",
-  "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
-  "amendment_law_num": "令和八年政令第二百三十四号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "412CO0000000041_20260731_508CO0000000234",
@@ -49,7 +49,7 @@
    "amendment_law_title": "国家情報会議設置法の施行に伴う関係政令の整備等に関する政令",
    "amendment_law_num": "令和八年政令第二百三十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "412CO0000000041_20250701_507CO0000000226",
@@ -125,16 +125,16 @@
  ],
  "toc": [],
  "article1": {
-  "caption": "（法第二条第一項第四号及び第五号の政令で定める機関）",
+  "caption": "（法第二条第一項第五号及び第七号の政令で定める機関）",
   "title": "第一条",
   "paragraphs": [
-   "行政機関の保有する情報の公開に関する法律（以下「法」という。）第二条第一項第四号の政令で定める特別の機関は、警察庁とする。",
-   "法第二条第一項第五号の政令で定める特別の機関は、検察庁とする。"
+   "行政機関の保有する情報の公開に関する法律（以下「法」という。）第二条第一項第五号の政令で定める特別の機関は、警察庁とする。",
+   "法第二条第一項第七号の政令で定める特別の機関は、検察庁とする。"
   ]
  },
  "_meta": {
   "first_seen": "2000-02-16",
-  "fetched_at": "2026-10-15",
-  "updated": "2026-08-12T13:43:47+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T00:58:03+09:00"
  }
 }

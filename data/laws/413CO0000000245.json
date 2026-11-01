@@ -10,20 +10,20 @@
   "promulgation_date": "2001-07-23"
  },
  "revision_info": {
-  "law_revision_id": "413CO0000000245_20260903_508CO0000000255",
+  "law_revision_id": "413CO0000000245_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "電波法施行令",
   "law_title_kana": "でんぱほうしこうれい",
   "abbrev": null,
   "category": "電気通信",
-  "updated": "2026-09-03T00:22:33+09:00",
-  "amendment_promulgate_date": "2026-08-07",
-  "amendment_enforcement_date": "2026-09-03",
+  "updated": "2026-11-02T01:14:09+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000255",
-  "amendment_law_title": "電波法施行令の一部を改正する政令",
-  "amendment_law_num": "令和八年政令第二百五十五号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "413CO0000000245_20260903_508CO0000000255",
@@ -49,7 +49,7 @@
    "amendment_law_title": "電波法施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第二百五十五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413CO0000000245_20260731_508CO0000000234",
@@ -172,7 +172,7 @@
  },
  "_meta": {
   "first_seen": "2001-07-23",
-  "fetched_at": "2026-10-15",
-  "updated": "2026-09-03T00:22:33+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T01:14:09+09:00"
  }
 }

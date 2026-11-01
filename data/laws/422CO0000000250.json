@@ -10,20 +10,20 @@
   "promulgation_date": "2010-12-22"
  },
  "revision_info": {
-  "law_revision_id": "422CO0000000250_20241202_506CO0000000260",
+  "law_revision_id": "422CO0000000250_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "公文書等の管理に関する法律施行令",
   "law_title_kana": "こうぶんしょとうのかんりにかんするほうりつせこうれい",
   "abbrev": "公文書管理法施行令",
   "category": "行政手続",
-  "updated": "2024-12-02T02:44:48+09:00",
-  "amendment_promulgate_date": "2024-08-14",
-  "amendment_enforcement_date": "2024-12-02",
+  "updated": "2026-11-02T01:52:12+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "506CO0000000260",
-  "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
-  "amendment_law_num": "令和六年政令第二百六十号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "422CO0000000250_20241202_506CO0000000260",
@@ -49,7 +49,7 @@
    "amendment_law_title": "行政手続における特定の個人を識別するための番号の利用等に関する法律等の一部を改正する法律の一部の施行に伴う関係政令の整備等及び経過措置に関する政令",
    "amendment_law_num": "令和六年政令第二百六十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "422CO0000000250_20220401_503CO0000000292",
@@ -95,16 +95,16 @@
  ],
  "toc": [],
  "article1": {
-  "caption": "（法第二条第一項第四号及び第五号の政令で定める機関）",
+  "caption": "（法第二条第一項第五号及び第七号の政令で定める機関）",
   "title": "第一条",
   "paragraphs": [
-   "公文書等の管理に関する法律（以下「法」という。）第二条第一項第四号の政令で定める特別の機関は、警察庁とする。",
-   "法第二条第一項第五号の政令で定める特別の機関は、検察庁とする。"
+   "公文書等の管理に関する法律（以下「法」という。）第二条第一項第五号の政令で定める特別の機関は、警察庁とする。",
+   "法第二条第一項第七号の政令で定める特別の機関は、検察庁とする。"
   ]
  },
  "_meta": {
   "first_seen": "2010-12-22",
-  "fetched_at": "2026-10-09",
-  "updated": "2024-12-02T02:44:48+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T01:52:12+09:00"
  }
 }

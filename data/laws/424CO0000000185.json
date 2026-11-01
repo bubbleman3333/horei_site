@@ -10,20 +10,20 @@
   "promulgation_date": "2012-07-11"
  },
  "revision_info": {
-  "law_revision_id": "424CO0000000185_20180511_430CO0000000163",
+  "law_revision_id": "424CO0000000185_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
-  "law_title": "内閣府設置法第四条第三項第七号の七の人工衛星等を定める政令",
-  "law_title_kana": "ないかくふせっちほうだいよんじょうだいさんこうだいななごうのななのじんこうえいせいとうをさだめるせいれい",
+  "law_title": "内閣府設置法第四条第三項第八号の人工衛星等を定める政令",
+  "law_title_kana": "ないかくふせっちほうだいよんじょうだいさんこうだいはちごうのじんこうえいせいとうをさだめるせいれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2024-03-14T09:53:39+09:00",
-  "amendment_promulgate_date": "2018-05-07",
-  "amendment_enforcement_date": "2018-05-11",
+  "updated": "2026-11-02T02:06:42+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "430CO0000000163",
-  "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行令",
-  "amendment_law_num": "平成三十年政令第百六十三号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "424CO0000000185_20180511_430CO0000000163",
@@ -49,7 +49,7 @@
    "amendment_law_title": "医療分野の研究開発に資するための匿名加工医療情報に関する法律施行令",
    "amendment_law_num": "平成三十年政令第百六十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "424CO0000000185_20140519_426CO0000000184",
@@ -66,12 +66,12 @@
   "caption": "",
   "title": "第一条",
   "paragraphs": [
-   "内閣府設置法第四条第三項第七号の七の人工衛星等で政令で定めるものは、測位の用に供するための信号を送信することを主たる目的とする人工衛星とする。"
+   "内閣府設置法第四条第三項第八号の人工衛星等で政令で定めるものは、測位の用に供するための信号を送信することを主たる目的とする人工衛星とする。"
   ]
  },
  "_meta": {
   "first_seen": "2012-07-11",
-  "fetched_at": "2026-10-10",
-  "updated": "2024-03-14T09:53:39+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T02:06:42+09:00"
  }
 }

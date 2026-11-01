@@ -10,20 +10,20 @@
   "promulgation_date": "2025-02-05"
  },
  "revision_info": {
-  "law_revision_id": "507CO0000000026_20260401_508CO0000000092",
+  "law_revision_id": "507CO0000000026_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "重要経済安保情報の保護及び活用に関する法律施行令",
   "law_title_kana": "じゅうようけいざいあんぽじょうほうのほごおよびかつようにかんするほうりつしこうれい",
   "abbrev": null,
   "category": "防衛",
-  "updated": "2026-04-20T10:16:09+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-11-02T02:25:52+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000092",
-  "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の一部の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和八年政令第九十二号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "507CO0000000026_20260401_508CO0000000092",
@@ -49,7 +49,7 @@
    "amendment_law_title": "重要電子計算機に対する不正な行為による被害の防止に関する法律の一部の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第九十二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "507CO0000000026_20250516_000000000000000",
@@ -66,15 +66,15 @@
   "第四章　適性評価等"
  ],
  "article1": {
-  "caption": "（法第二条第一項第五号の政令で定める機関）",
+  "caption": "（法第二条第一項第七号の政令で定める機関）",
   "title": "第一条",
   "paragraphs": [
-   "重要経済安保情報の保護及び活用に関する法律（以下「法」という。）第二条第一項第五号の政令で定める機関は、検察庁とする。"
+   "重要経済安保情報の保護及び活用に関する法律（以下「法」という。）第二条第一項第七号の政令で定める機関は、検察庁とする。"
   ]
  },
  "_meta": {
   "first_seen": "2025-02-05",
-  "fetched_at": "2026-10-09",
-  "updated": "2026-04-20T10:16:09+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T02:25:52+09:00"
  }
 }

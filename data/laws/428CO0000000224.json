@@ -10,15 +10,15 @@
   "promulgation_date": "2016-05-20"
  },
  "revision_info": {
-  "law_revision_id": "428CO0000000224_20260930_508CO0000000305",
+  "law_revision_id": "428CO0000000224_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "重要施設の周辺地域の上空における小型無人機等の飛行の禁止に関する法律施行令",
   "law_title_kana": "じゅうようしせつのしゅうへんちいきのじょうくうにおけるこがたむじんきとうのひこうのきんしにかんするほうりつしこうれい",
   "abbrev": "小型無人機等飛行禁止法施行令",
   "category": "警察",
-  "updated": "2026-10-15T10:22:21+09:00",
+  "updated": "2026-11-02T02:21:21+09:00",
   "amendment_promulgate_date": "2026-09-30",
-  "amendment_enforcement_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508CO0000000305",
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "428CO0000000224_20260930_508CO0000000305",
@@ -49,7 +49,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "428CO0000000224_20251208_507CO0000000389",
@@ -160,7 +160,7 @@
  },
  "_meta": {
   "first_seen": "2016-05-20",
-  "fetched_at": "2026-10-16",
-  "updated": "2026-10-15T10:22:21+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T02:21:21+09:00"
  }
 }

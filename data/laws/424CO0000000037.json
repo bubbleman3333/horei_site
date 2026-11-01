@@ -10,20 +10,20 @@
   "promulgation_date": "2012-02-22"
  },
  "revision_info": {
-  "law_revision_id": "424CO0000000037_20220401_504CO0000000102",
+  "law_revision_id": "424CO0000000037_20261102_508CO0000000305",
   "law_type": "CabinetOrder",
   "law_title": "株式会社東日本大震災事業者再生支援機構法施行令",
   "law_title_kana": "かぶしきがいしゃひがしにほんだいしんさいじぎょうしゃさいせいしえんきこうほうせこうれい",
   "abbrev": null,
   "category": "産業通則",
-  "updated": "2022-04-25T13:15:51+09:00",
-  "amendment_promulgate_date": "2022-03-25",
-  "amendment_enforcement_date": "2022-04-01",
+  "updated": "2026-11-02T02:06:19+09:00",
+  "amendment_promulgate_date": "2026-09-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "504CO0000000102",
-  "amendment_law_title": "株式会社東日本大震災事業者再生支援機構法施行令の一部を改正する政令",
-  "amendment_law_num": "令和四年政令第百二号",
+  "amendment_law_id": "508CO0000000305",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
+  "amendment_law_num": "令和八年政令第三百五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "424CO0000000037_20220401_504CO0000000102",
@@ -49,7 +49,7 @@
    "amendment_law_title": "株式会社東日本大震災事業者再生支援機構法施行令の一部を改正する政令",
    "amendment_law_num": "令和四年政令第百二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "424CO0000000037_20120223_000000000000000",
@@ -72,7 +72,7 @@
  },
  "_meta": {
   "first_seen": "2012-02-22",
-  "fetched_at": "2026-10-10",
-  "updated": "2022-04-25T13:15:51+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T02:06:19+09:00"
  }
 }
