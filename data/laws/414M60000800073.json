@@ -247,11 +247,23 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [],
- "article1": null,
+ "toc": [
+  "第一章　内部部局",
+  "第二章　運輸監理部",
+  "第三章　運輸支局",
+  "第四章　地方運輸局、運輸監理部又は運輸支局の事務所",
+  "第五章　雑則"
+ ],
+ "article1": {
+  "caption": "（総務部の所掌事務）",
+  "title": "第一条",
+  "paragraphs": [
+   "総務部は、次に掲げる事務をつかさどる。"
+  ]
+ },
  "_meta": {
   "first_seen": "2002-06-24",
-  "fetched_at": "2026-11-02",
+  "fetched_at": "2026-11-03",
   "updated": "2026-11-02T09:40:59+09:00"
  }
 }
