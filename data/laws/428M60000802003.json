@@ -1,0 +1,80 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "428M60000802003",
+  "law_num": "平成二十八年内閣府・国土交通省令第三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2016-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "428M60000802003_20261101_508M60000802006",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "物資の流通の効率化に関する法律に基づく総合効率化計画及び貨物自動車中継輸送実施計画の認定に係る都道府県公安委員会の意見の聴取に関する命令",
+  "law_title_kana": "ぶっしのりゅうつうのこうりつかにかんするほうりつにもとづくそうごうこうりつかけいかくおよびかもつじどうしゃちゅうけいゆそうじっしけいかくのにんていにかかるとどうふけんこうあんいいんかいのいけんのちょうしゅにかんするめいれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-11-02T09:47:31+09:00",
+  "amendment_promulgate_date": "2026-10-21",
+  "amendment_enforcement_date": "2026-11-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000802006",
+  "amendment_law_title": "物資の流通の効率化に関する法律に基づく総合効率化計画の認定に係る都道府県公安委員会の意見の聴取に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・国土交通省令第六号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428M60000802003_20261101_508M60000802006",
+   "amendment_promulgate_date": "2026-10-21",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508M60000802006",
+   "amendment_law_title": "物資の流通の効率化に関する法律に基づく総合効率化計画の認定に係る都道府県公安委員会の意見の聴取に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・国土交通省令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428M60000802003_20250401_507M60000802001",
+   "amendment_promulgate_date": "2025-03-28",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000802001",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律に基づく総合効率化計画の認定に係る都道府県公安委員会の意見の聴取に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和七年内閣府・国土交通省令第一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000802003_20201127_502M60000802008",
+   "amendment_promulgate_date": "2020-11-27",
+   "amendment_enforcement_date": "2020-11-27",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "502M60000802008",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律に基づく総合効率化計画の認定に係る都道府県公安委員会の意見の聴取に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・国土交通省令第八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428M60000802003_20161001_000000000000000",
+   "amendment_promulgate_date": "2016-09-30",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2016-09-30",
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T09:47:31+09:00"
+ }
+}

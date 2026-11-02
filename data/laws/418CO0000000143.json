@@ -1,0 +1,69 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "418CO0000000143",
+  "law_num": "平成十八年政令第百四十三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 18,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "143",
+  "promulgation_date": "2006-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "418CO0000000143_20261021_508CO0000000331",
+  "law_type": "CabinetOrder",
+  "law_title": "郵政民営化委員会令",
+  "law_title_kana": "ゆうせいみんえいかいいんかいれい",
+  "abbrev": null,
+  "category": "郵務",
+  "updated": "2026-11-02T09:38:44+09:00",
+  "amendment_promulgate_date": "2026-10-21",
+  "amendment_enforcement_date": "2026-10-21",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000331",
+  "amendment_law_title": "郵政民営化委員会令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百三十一号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "418CO0000000143_20261021_508CO0000000331",
+   "amendment_promulgate_date": "2026-10-21",
+   "amendment_enforcement_date": "2026-10-21",
+   "amendment_law_id": "508CO0000000331",
+   "amendment_law_title": "郵政民営化委員会令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百三十一号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000143_20220401_504CO0000000088",
+   "amendment_promulgate_date": "2022-03-25",
+   "amendment_enforcement_date": "2022-04-01",
+   "amendment_law_id": "504CO0000000088",
+   "amendment_law_title": "郵政民営化委員会令の一部を改正する政令",
+   "amendment_law_num": "令和四年政令第八十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "418CO0000000143_20060401_000000000000000",
+   "amendment_promulgate_date": "2006-03-31",
+   "amendment_enforcement_date": "2006-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2006-03-31",
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T09:38:44+09:00"
+ }
+}

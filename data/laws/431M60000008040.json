@@ -10,20 +10,20 @@
   "promulgation_date": "2019-03-29"
  },
  "revision_info": {
-  "law_revision_id": "431M60000008040_20260701_508M60000008087",
+  "law_revision_id": "431M60000008040_20261021_508M60000008119",
   "law_type": "MinisterialOrdinance",
   "law_title": "森林環境税及び森林環境譲与税に関する法律施行規則",
   "law_title_kana": "しんりんかんきょうぜいおよびしんりんかんきょうじょうよぜいにかんするほうりつしこうきそく",
   "abbrev": null,
   "category": "国税",
-  "updated": "2026-07-15T10:09:08+09:00",
-  "amendment_promulgate_date": "2026-07-01",
-  "amendment_enforcement_date": "2026-07-01",
+  "updated": "2026-11-02T09:45:58+09:00",
+  "amendment_promulgate_date": "2026-10-21",
+  "amendment_enforcement_date": "2026-10-21",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000008087",
-  "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年総務省令第八十七号",
+  "amendment_law_id": "508M60000008119",
+  "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第百十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "431M60000008040_20261021_508M60000008119",
+   "amendment_promulgate_date": "2026-10-21",
+   "amendment_enforcement_date": "2026-10-21",
+   "amendment_law_id": "508M60000008119",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "431M60000008040_20260701_508M60000008087",
    "amendment_promulgate_date": "2026-07-01",
    "amendment_enforcement_date": "2026-07-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "森林環境税及び森林環境譲与税に関する法律施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年総務省令第八十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "431M60000008040_20240101_505M60000008036",
@@ -103,17 +113,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（政令第一条第一号及び第二号に規定する総務省令で定める世帯等）",
-  "title": "第一条",
-  "paragraphs": [
-   "森林環境税及び森林環境譲与税に関する法律施行令（令和四年政令第三百号。次項において「政令」という。）第一条第一号に規定する総務省令で定める世帯は、次の各号のいずれにも該当する世帯とする。",
-   "政令第一条第一号に規定する総務省令で定める率は、次の各号に掲げる生活保護法（昭和二十五年法律第百四十四号）第八条第一項の規定により厚生労働大臣が定める保護の基準における地域の級地区分（前年の十二月三十一日における地域の級地区分とする。）に応じ、当該各号に定める率とする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2019-03-29",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-15T10:09:08+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T09:45:58+09:00"
  }
 }

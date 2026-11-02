@@ -10,20 +10,20 @@
   "promulgation_date": "2004-05-26"
  },
  "revision_info": {
-  "law_revision_id": "416CO0000000182_20260101_507CO0000000338",
+  "law_revision_id": "416CO0000000182_20261101_508CO0000000329",
   "law_type": "CabinetOrder",
   "law_title": "独立行政法人中小企業基盤整備機構法施行令",
   "law_title_kana": "どくりつぎょうせいほうじんちゅうしょうきぎょうきばんせいびきこうほうせこうれい",
   "abbrev": "中小機構法施行令",
   "category": "行政組織",
-  "updated": "2026-01-01T04:29:12+09:00",
-  "amendment_promulgate_date": "2025-10-01",
-  "amendment_enforcement_date": "2026-01-01",
+  "updated": "2026-11-02T09:36:46+09:00",
+  "amendment_promulgate_date": "2026-10-21",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000338",
-  "amendment_law_title": "下請代金支払遅延等防止法及び下請中小企業振興法の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
-  "amendment_law_num": "令和七年政令第三百三十八号",
+  "amendment_law_id": "508CO0000000329",
+  "amendment_law_title": "物資の流通の効率化に関する法律施行令及び独立行政法人中小企業基盤整備機構法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百二十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "416CO0000000182_20261101_508CO0000000329",
+   "amendment_promulgate_date": "2026-10-21",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508CO0000000329",
+   "amendment_law_title": "物資の流通の効率化に関する法律施行令及び独立行政法人中小企業基盤整備機構法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百二十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "416CO0000000182_20260101_507CO0000000338",
    "amendment_promulgate_date": "2025-10-01",
    "amendment_enforcement_date": "2026-01-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "下請代金支払遅延等防止法及び下請中小企業振興法の一部を改正する法律の施行に伴う関係政令の整理に関する政令",
    "amendment_law_num": "令和七年政令第三百三十八号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "416CO0000000182_20250401_507CO0000000021",
@@ -184,17 +194,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（中小企業者の範囲）",
-  "title": "第一条",
-  "paragraphs": [
-   "独立行政法人中小企業基盤整備機構法（以下「法」という。）第二条第一項第五号に規定する政令で定める業種並びにその業種ごとの資本金の額又は出資の総額及び従業員の数は、次の表のとおりとする。",
-   "法第二条第一項第八号の政令で定める組合及び連合会は、次のとおりとする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2004-05-26",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-01-01T04:29:12+09:00"
+  "fetched_at": "2026-11-02",
+  "updated": "2026-11-02T09:36:46+09:00"
  }
 }
