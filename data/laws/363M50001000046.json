@@ -10,20 +10,20 @@
   "promulgation_date": "1988-07-30"
  },
  "revision_info": {
-  "law_revision_id": "363M50001000046_20260810_508M60000008107",
+  "law_revision_id": "363M50001000046_20261101_508M60000008120",
   "law_type": "MinisterialOrdinance",
   "law_title": "電気通信事業報告規則",
   "law_title_kana": "でんきつうしんじぎょうほうこくきそく",
   "abbrev": null,
   "category": "電気通信",
-  "updated": "2026-08-25T10:14:53+09:00",
-  "amendment_promulgate_date": "2026-08-10",
-  "amendment_enforcement_date": "2026-08-10",
+  "updated": "2026-11-04T09:29:14+09:00",
+  "amendment_promulgate_date": "2026-10-22",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000008107",
+  "amendment_law_id": "508M60000008120",
   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
-  "amendment_law_num": "令和八年総務省令第百七号",
+  "amendment_law_num": "令和八年総務省令第百二十号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "363M50001000046_20261101_508M60000008120",
+   "amendment_promulgate_date": "2026-10-22",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508M60000008120",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "363M50001000046_20260810_508M60000008107",
    "amendment_promulgate_date": "2026-08-10",
    "amendment_enforcement_date": "2026-08-10",
@@ -39,7 +49,7 @@
    "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年総務省令第百七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "363M50001000046_20260527_508M60000008070",
@@ -433,31 +443,13 @@
    "amendment_law_num": "平成三十一年総務省令第十五号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "363M50001000046_20180628_430M60000008038",
-   "amendment_promulgate_date": "2018-06-28",
-   "amendment_enforcement_date": "2018-06-28",
-   "amendment_enforcement_comment": "",
-   "amendment_law_id": "430M60000008038",
-   "amendment_law_title": "電気通信事業報告規則の一部を改正する省令",
-   "amendment_law_num": "平成三十年総務省令第三十八号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（定義）",
-  "title": "第一条",
-  "paragraphs": [
-   "この省令において使用する用語は、電気通信事業法及び電気通信事業法施行規則（昭和六十年郵政省令第二十五号）において使用する用語の例による。",
-   "この省令において、次の各号に掲げる用語の意義は、それぞれ当該各号に定めるところによる。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1988-07-30",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-25T10:14:53+09:00"
+  "fetched_at": "2026-11-04",
+  "updated": "2026-11-04T09:29:14+09:00"
  }
 }

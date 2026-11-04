@@ -10,20 +10,20 @@
   "promulgation_date": "1985-04-01"
  },
  "revision_info": {
-  "law_revision_id": "360M50001000023_20260527_508M60000008070",
+  "law_revision_id": "360M50001000023_20261101_508M60000008120",
   "law_type": "MinisterialOrdinance",
   "law_title": "日本電信電話株式会社等に関する法律施行規則",
   "law_title_kana": "にほんでんしんでんわかぶしきがいしゃとうにかんするほうりつしこうきそく",
   "abbrev": "ＮＴＴ法施行規則",
   "category": "電気通信",
-  "updated": "2026-06-05T16:35:10+09:00",
-  "amendment_promulgate_date": "2026-05-25",
-  "amendment_enforcement_date": "2026-05-27",
+  "updated": "2026-11-04T09:29:39+09:00",
+  "amendment_promulgate_date": "2026-10-22",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000008070",
+  "amendment_law_id": "508M60000008120",
   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
-  "amendment_law_num": "令和八年総務省令第七十号",
+  "amendment_law_num": "令和八年総務省令第百二十号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "360M50001000023_20261101_508M60000008120",
+   "amendment_promulgate_date": "2026-10-22",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508M60000008120",
+   "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百二十号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "360M50001000023_20260527_508M60000008070",
    "amendment_promulgate_date": "2026-05-25",
    "amendment_enforcement_date": "2026-05-27",
@@ -39,7 +49,7 @@
    "amendment_law_title": "電気通信事業法施行規則等の一部を改正する省令",
    "amendment_law_num": "令和八年総務省令第七十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "360M50001000023_20260304_508M60000008020",
@@ -92,16 +102,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（会社に係る目的達成業務の届出）",
-  "title": "第一条",
-  "paragraphs": [
-   "日本電信電話株式会社（以下「会社」という。）は、日本電信電話株式会社等に関する法律（昭和五十九年法律第八十五号。以下「法」という。）第二条第二項の規定により会社の目的を達成するために必要な業務を営むことの届出をしようとするときは、当該業務の開始の日の七日前までに、次に掲げる事項を記載した届出書を総務大臣に提出しなければならない。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1985-04-01",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-05T16:35:10+09:00"
+  "fetched_at": "2026-11-04",
+  "updated": "2026-11-04T09:29:39+09:00"
  }
 }

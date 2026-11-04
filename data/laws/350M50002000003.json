@@ -10,20 +10,20 @@
   "promulgation_date": "1975-03-10"
  },
  "revision_info": {
-  "law_revision_id": "350M50002000003_20261001_508M60000100147",
+  "law_revision_id": "350M50002000003_20261022_508M60000100149",
   "law_type": "MinisterialOrdinance",
   "law_title": "雇用保険法施行規則",
   "law_title_kana": "こようほけんほうしこうきそく",
   "abbrev": null,
   "category": "労働",
-  "updated": "2026-10-19T11:15:49+09:00",
-  "amendment_promulgate_date": "2026-10-01",
-  "amendment_enforcement_date": "2026-10-01",
+  "updated": "2026-11-04T09:30:18+09:00",
+  "amendment_promulgate_date": "2026-10-22",
+  "amendment_enforcement_date": "2026-10-22",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000100147",
+  "amendment_law_id": "508M60000100149",
   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
-  "amendment_law_num": "令和八年厚生労働省令第百四十七号",
+  "amendment_law_num": "令和八年厚生労働省令第百四十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "350M50002000003_20261022_508M60000100149",
+   "amendment_promulgate_date": "2026-10-22",
+   "amendment_enforcement_date": "2026-10-22",
+   "amendment_law_id": "508M60000100149",
+   "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百四十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "350M50002000003_20261001_508M60000100147",
    "amendment_promulgate_date": "2026-10-01",
    "amendment_enforcement_date": "2026-10-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "雇用保険法施行規則の一部を改正する省令",
    "amendment_law_num": "令和八年厚生労働省令第百四十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "350M50002000003_20260930_508M60000100145",
@@ -420,39 +430,13 @@
    "amendment_law_num": "令和六年厚生労働省令第百一号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "350M50002000003_20240517_506M60000100083",
-   "amendment_promulgate_date": "2024-05-17",
-   "amendment_enforcement_date": "2024-05-17",
-   "amendment_law_id": "506M60000100083",
-   "amendment_law_title": "雇用保険法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整理に関する省令",
-   "amendment_law_num": "令和六年厚生労働省令第八十三号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　適用事業等",
-  "第三章　失業等給付",
-  "第三章の二　育児休業等給付",
-  "第四章　雇用安定事業等",
-  "第五章　雑則"
- ],
- "article1": {
-  "caption": "（事務の管轄）",
-  "title": "第一条",
-  "paragraphs": [
-   "雇用保険法（昭和四十九年法律第百十六号。以下「法」という。）第八十一条第一項の規定により、法第七条、第九条第一項、第三十七条の五第一項、第二項及び第四項並びに第三十八条第二項の規定による厚生労働大臣の権限は、都道府県労働局長に委任する。",
-   "前項の規定により都道府県労働局長に委任された権限は、法第八十一条第二項の規定により、公共職業安定所長に委任する。",
-   "雇用保険に関する事務（労働保険の保険料の徴収等に関する法律施行規則（昭和四十七年労働省令第八号）第一条第一項に規定する労働保険関係事務を除く。以下同じ。）のうち、都道府県知事が行う事務は、法第五条第一項に規定する適用事業（以下「適用事業」という。）の事業所の所在地を管轄する都道府県知事が行う。",
-   "雇用保険に関する事務のうち、都道府県労働局長が行う事務は、厚生労働大臣の指揮監督を受けて、適用事業の事業所の所在地を管轄する都道府県労働局長が行う。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "1975-03-10",
-  "fetched_at": "2026-10-20",
-  "updated": "2026-10-19T11:15:49+09:00"
+  "fetched_at": "2026-11-04",
+  "updated": "2026-11-04T09:30:18+09:00"
  }
 }
