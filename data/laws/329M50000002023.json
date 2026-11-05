@@ -16,7 +16,7 @@
   "law_title_kana": "ちほうぜいほうしこうきそく",
   "abbrev": null,
   "category": "地方財政",
-  "updated": "2026-11-01T00:13:30+09:00",
+  "updated": "2026-11-05T09:09:11+09:00",
   "amendment_promulgate_date": "2026-03-31",
   "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
@@ -184,6 +184,16 @@
    "amendment_law_num": "令和八年総務省令第四十五号",
    "amendment_type": "3",
    "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "329M50000002023_20261021_508M60000008119",
+   "amendment_promulgate_date": "2026-10-21",
+   "amendment_enforcement_date": "2026-10-21",
+   "amendment_law_id": "508M60000008119",
+   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "329M50000002023_20261001_508M60000008089",
@@ -424,16 +434,6 @@
    "amendment_law_num": "令和七年総務省令第三十号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "329M50000002023_20250401_507M60000008008",
-   "amendment_promulgate_date": "2025-03-03",
-   "amendment_enforcement_date": "2025-04-01",
-   "amendment_law_id": "507M60000008008",
-   "amendment_law_title": "地方税法施行規則等の一部を改正する省令",
-   "amendment_law_num": "令和七年総務省令第八号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
@@ -447,7 +447,7 @@
  },
  "_meta": {
   "first_seen": "1954-05-13",
-  "fetched_at": "2026-11-01",
-  "updated": "2026-11-01T00:13:30+09:00"
+  "fetched_at": "2026-11-05",
+  "updated": "2026-11-05T09:09:11+09:00"
  }
 }
