@@ -1,0 +1,55 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "508CO0000000335",
+  "law_num": "令和八年政令第三百三十五号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 8,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "335",
+  "promulgation_date": "2026-10-28"
+ },
+ "revision_info": {
+  "law_revision_id": "508CO0000000335_20261030_000000000000000",
+  "law_type": "CabinetOrder",
+  "law_title": "国家社会機能継続性確保施策・副首都整備推進本部令",
+  "law_title_kana": "こっかしゃかいきのうけいぞくせいかくほしさくふくしゅとせいびすいしんほんぶれい",
+  "abbrev": null,
+  "category": "国土開発",
+  "updated": "2026-11-09T13:53:17+09:00",
+  "amendment_promulgate_date": "2026-10-28",
+  "amendment_enforcement_date": "2026-10-30",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": null,
+  "amendment_law_title": null,
+  "amendment_law_num": null,
+  "amendment_type": "1",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "508CO0000000335_20261030_000000000000000",
+   "amendment_promulgate_date": "2026-10-28",
+   "amendment_enforcement_date": "2026-10-30",
+   "amendment_type": "1",
+   "current_revision_status": "CurrentEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（事務局長）",
+  "title": "第一条",
+  "paragraphs": [
+   "国家社会機能継続性確保施策・副首都整備推進本部（以下「本部」という。）の事務局（以下「事務局」という。）の事務局長は、関係のある他の職を占める者をもって充てられるものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2026-10-28",
+  "fetched_at": "2026-11-10",
+  "updated": "2026-11-09T13:53:17+09:00"
+ }
+}
