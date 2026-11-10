@@ -10,20 +10,20 @@
   "promulgation_date": "1969-06-12"
  },
  "revision_info": {
-  "law_revision_id": "344M50000020008_20260401_508M60000020011",
+  "law_revision_id": "344M50000020008_20261101_508M60000020024",
   "law_type": "MinisterialOrdinance",
   "law_title": "研修員手当の号の適用に関する規則",
   "law_title_kana": "けんしゅういんてあてのごうのてきようにかんするきそく",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-05-14T09:49:48+09:00",
-  "amendment_promulgate_date": "2026-04-01",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-11-10T14:20:37+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000020011",
+  "amendment_law_id": "508M60000020024",
   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
-  "amendment_law_num": "令和八年外務省令第十一号",
+  "amendment_law_num": "令和八年外務省令第二十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "344M50000020008_20261101_508M60000020024",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508M60000020024",
+   "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
+   "amendment_law_num": "令和八年外務省令第二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "344M50000020008_20260401_508M60000020011",
    "amendment_promulgate_date": "2026-04-01",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "研修員手当の号の適用に関する規則の一部を改正する省令",
    "amendment_law_num": "令和八年外務省令第十一号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "344M50000020008_20250409_507M60000020009",
@@ -419,7 +429,7 @@
  },
  "_meta": {
   "first_seen": "1969-06-12",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-14T09:49:48+09:00"
+  "fetched_at": "2026-11-11",
+  "updated": "2026-11-10T14:20:37+09:00"
  }
 }
