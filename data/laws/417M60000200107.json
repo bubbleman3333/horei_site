@@ -1,0 +1,87 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "417M60000200107",
+  "law_num": "平成十七年農林水産省令第百七号",
+  "law_num_era": "Heisei",
+  "law_num_year": 17,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "107",
+  "promulgation_date": "2005-09-30"
+ },
+ "revision_info": {
+  "law_revision_id": "417M60000200107_20261101_508M60000200073",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "物資の流通の効率化に関する法律第四条第六号ロの法人を定める省令",
+  "law_title_kana": "ぶっしのりゅうつうのこうりつかにかんするほうりつだいよんじょうだいろくごうろのほうじんをさだめるしょうれい",
+  "abbrev": null,
+  "category": "産業通則",
+  "updated": "2026-11-11T10:37:46+09:00",
+  "amendment_promulgate_date": "2026-10-23",
+  "amendment_enforcement_date": "2026-11-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000200073",
+  "amendment_law_title": "物資の流通の効率化に関する法律第四条第十八号ロの法人を定める省令の一部を改正する省令",
+  "amendment_law_num": "令和八年農林水産省令第七十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "417M60000200107_20261101_508M60000200073",
+   "amendment_promulgate_date": "2026-10-23",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508M60000200073",
+   "amendment_law_title": "物資の流通の効率化に関する法律第四条第十八号ロの法人を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和八年農林水産省令第七十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200107_20250401_507M60000200004",
+   "amendment_promulgate_date": "2025-02-25",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_law_id": "507M60000200004",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律第二条第十八号ロの法人を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和七年農林水産省令第四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200107_20201127_502M60000200079",
+   "amendment_promulgate_date": "2020-11-27",
+   "amendment_enforcement_date": "2020-11-27",
+   "amendment_law_id": "502M60000200079",
+   "amendment_law_title": "流通業務の総合化及び効率化の促進に関する法律第二条第十七号ロの法人を定める省令の一部を改正する省令",
+   "amendment_law_num": "令和二年農林水産省令第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "417M60000200107_20161001_428M60000200066",
+   "amendment_promulgate_date": "2016-09-30",
+   "amendment_enforcement_date": "2016-10-01",
+   "amendment_law_id": "428M60000200066",
+   "amendment_law_num": "平成二十八年農林水産省令第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "物資の流通の効率化に関する法律第四条第六号ロの農林水産省令で定める法人は、次のとおりとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2005-09-30",
+  "fetched_at": "2026-11-12",
+  "updated": "2026-11-11T10:37:46+09:00"
+ }
+}
