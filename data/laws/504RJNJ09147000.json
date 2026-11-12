@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "Rule",
+  "law_id": "504RJNJ09147000",
+  "law_num": "令和四年人事院規則九―一四七",
+  "law_num_era": "Reiwa",
+  "law_num_year": 4,
+  "law_num_type": "Rule",
+  "law_num_num": "9_147_0",
+  "promulgation_date": "2022-02-18"
+ },
+ "revision_info": {
+  "law_revision_id": "504RJNJ09147000_20261102_508RJNJ01083000",
+  "law_type": "Rule",
+  "law_title": "人事院規則九―一四七（給与法附則第八項の規定による俸給月額）",
+  "law_title_kana": "じんじいんきそくきゅうのひゃくよんじゅうななきゅうよほうふそくだいはっこうのきていによるほうきゅうげつがく",
+  "abbrev": null,
+  "category": "国家公務員",
+  "updated": "2026-11-12T11:08:11+09:00",
+  "amendment_promulgate_date": "2026-11-02",
+  "amendment_enforcement_date": "2026-11-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508RJNJ01083000",
+  "amendment_law_title": "人事院規則一―八三（防災庁設置法等の施行に伴う関係人事院規則の整備に関する人事院規則）",
+  "amendment_law_num": "令和八年人事院規則一―八三",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "504RJNJ09147000_20261102_508RJNJ01083000",
+   "amendment_promulgate_date": "2026-11-02",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508RJNJ01083000",
+   "amendment_law_title": "人事院規則一―八三（防災庁設置法等の施行に伴う関係人事院規則の整備に関する人事院規則）",
+   "amendment_law_num": "令和八年人事院規則一―八三",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "504RJNJ09147000_20250701_507RJNJ09147002",
+   "amendment_promulgate_date": "2025-07-01",
+   "amendment_enforcement_date": "2025-07-01",
+   "amendment_law_id": "507RJNJ09147002",
+   "amendment_law_title": "人事院規則九―一四七（給与法附則第八項の規定による俸給月額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和七年人事院規則九―一四七―二",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504RJNJ09147000_20230401_505RJNJ09147001",
+   "amendment_promulgate_date": "2023-03-31",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_law_id": "505RJNJ09147001",
+   "amendment_law_title": "人事院規則九―一四七（給与法附則第八項の規定による俸給月額）の一部を改正する人事院規則",
+   "amendment_law_num": "令和五年人事院規則九―一四七―一",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "504RJNJ09147000_20230401_000000000000000",
+   "amendment_promulgate_date": "2022-02-18",
+   "amendment_enforcement_date": "2023-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2022-02-18",
+  "fetched_at": "2026-11-12",
+  "updated": "2026-11-12T11:08:11+09:00"
+ }
+}
