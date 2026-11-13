@@ -1,0 +1,66 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "506M60000002080",
+  "law_num": "令和六年内閣府令第八十号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 6,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "080",
+  "promulgation_date": "2024-09-17"
+ },
+ "revision_info": {
+  "law_revision_id": "506M60000002080_20261102_508M60000002093",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "官報の発行に関する内閣府令",
+  "law_title_kana": "かんぽうのはっこうにかんするないかくふれい",
+  "abbrev": null,
+  "category": "行政手続",
+  "updated": "2026-11-13T09:48:17+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002093",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第九十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "506M60000002080_20261102_508M60000002093",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000002093",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "506M60000002080_20250401_000000000000000",
+   "amendment_promulgate_date": "2024-09-17",
+   "amendment_enforcement_date": "2025-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "506M60000002080_20240917_000000000000000",
+   "amendment_promulgate_date": "2024-09-17",
+   "amendment_enforcement_date": "2024-09-17",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2024-09-17",
+  "fetched_at": "2026-11-13",
+  "updated": "2026-11-13T09:48:17+09:00"
+ }
+}

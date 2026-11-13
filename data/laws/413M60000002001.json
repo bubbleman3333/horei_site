@@ -10,20 +10,20 @@
   "promulgation_date": "2001-01-06"
  },
  "revision_info": {
-  "law_revision_id": "413M60000002001_20260408_508M60000002040",
+  "law_revision_id": "413M60000002001_20261102_508M60000002093",
   "law_type": "MinisterialOrdinance",
   "law_title": "内閣府本府組織規則",
   "law_title_kana": "ないかくふほんぷそしききそく",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-05-20T09:56:38+09:00",
-  "amendment_promulgate_date": "2026-04-08",
-  "amendment_enforcement_date": "2026-04-08",
+  "updated": "2026-11-13T09:44:00+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002040",
-  "amendment_law_title": "内閣府本府組織規則の一部を改正する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第四十号",
+  "amendment_law_id": "508M60000002093",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第九十三号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "413M60000002001_20261102_508M60000002093",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000002093",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "413M60000002001_20260408_508M60000002040",
    "amendment_promulgate_date": "2026-04-08",
    "amendment_enforcement_date": "2026-04-08",
@@ -39,7 +49,7 @@
    "amendment_law_title": "内閣府本府組織規則の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第四十号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413M60000002001_20250401_507M60000002037",
@@ -197,26 +207,11 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　内部部局",
-  "第二章　施設等機関",
-  "第三章　特別の機関",
-  "第四章　地方支分部局",
-  "第五章　顧問及び参与"
- ],
- "article1": {
-  "caption": "（秘書室及び企画官）",
-  "title": "第一条",
-  "paragraphs": [
-   "総務課に、秘書室及び企画官を置く。",
-   "秘書室は、特に命ぜられた機密に関する事務をつかさどる。",
-   "秘書室に、室長（関係のある他の職を占める者をもって充てられるものとする。）を置く。",
-   "企画官は、命を受けて、総務課の所掌事務のうち特定事項の調査、企画及び立案を行う。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "2001-01-06",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-20T09:56:38+09:00"
+  "fetched_at": "2026-11-13",
+  "updated": "2026-11-13T09:44:00+09:00"
  }
 }

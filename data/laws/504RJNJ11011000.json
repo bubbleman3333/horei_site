@@ -10,20 +10,20 @@
   "promulgation_date": "2022-02-18"
  },
  "revision_info": {
-  "law_revision_id": "504RJNJ11011000_20260701_508RJNJ11011007",
+  "law_revision_id": "504RJNJ11011000_20261102_508RJNJ01083000",
   "law_type": "Rule",
   "law_title": "人事院規則一一―一一（管理監督職勤務上限年齢による降任等）",
   "law_title_kana": "じんじいんきそくじゅういちのじゅういちかんりかんとくしょくきんむじょうげんねんれいによるこうにんとう",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-07-09T15:16:05+09:00",
-  "amendment_promulgate_date": "2026-07-01",
-  "amendment_enforcement_date": "2026-07-01",
+  "updated": "2026-11-13T10:06:35+09:00",
+  "amendment_promulgate_date": "2026-11-02",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508RJNJ11011007",
-  "amendment_law_title": "人事院規則一一―一一（管理監督職勤務上限年齢による降任等）の一部を改正する人事院規則",
-  "amendment_law_num": "令和八年人事院規則一一―一一―七",
+  "amendment_law_id": "508RJNJ01083000",
+  "amendment_law_title": "人事院規則一―八三（防災庁設置法等の施行に伴う関係人事院規則の整備に関する人事院規則）",
+  "amendment_law_num": "令和八年人事院規則一―八三",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "504RJNJ11011000_20261102_508RJNJ01083000",
+   "amendment_promulgate_date": "2026-11-02",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508RJNJ01083000",
+   "amendment_law_title": "人事院規則一―八三（防災庁設置法等の施行に伴う関係人事院規則の整備に関する人事院規則）",
+   "amendment_law_num": "令和八年人事院規則一―八三",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "504RJNJ11011000_20260701_508RJNJ11011007",
    "amendment_promulgate_date": "2026-07-01",
    "amendment_enforcement_date": "2026-07-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "人事院規則一一―一一（管理監督職勤務上限年齢による降任等）の一部を改正する人事院規則",
    "amendment_law_num": "令和八年人事院規則一一―一一―七",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "504RJNJ11011000_20260401_508RJNJ11011006",
@@ -120,16 +130,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（総則）",
-  "title": "第一条",
-  "paragraphs": [
-   "法第八十一条の二から第八十一条の五までに規定する管理監督職勤務上限年齢による降任等については、別に定める場合を除き、この規則の定めるところによる。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2022-02-18",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-07-09T15:16:05+09:00"
+  "fetched_at": "2026-11-13",
+  "updated": "2026-11-13T10:06:35+09:00"
  }
 }

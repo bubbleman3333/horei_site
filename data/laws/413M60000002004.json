@@ -10,20 +10,20 @@
   "promulgation_date": "2001-01-06"
  },
  "revision_info": {
-  "law_revision_id": "413M60000002004_20260525_508M60000002053",
+  "law_revision_id": "413M60000002004_20261101_508M60000002094",
   "law_type": "MinisterialOrdinance",
   "law_title": "沖縄総合事務局組織規則",
   "law_title_kana": "おきなわそうごうじむきょくそしききそく",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-06-08T10:20:38+09:00",
-  "amendment_promulgate_date": "2026-05-25",
-  "amendment_enforcement_date": "2026-05-25",
+  "updated": "2026-11-13T09:44:41+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002053",
+  "amendment_law_id": "508M60000002094",
   "amendment_law_title": "沖縄総合事務局組織規則の一部を改正する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第五十三号",
+  "amendment_law_num": "令和八年内閣府令第九十四号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "413M60000002004_20261101_508M60000002094",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-01",
+   "amendment_law_id": "508M60000002094",
+   "amendment_law_title": "沖縄総合事務局組織規則の一部を改正する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第九十四号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "413M60000002004_20260525_508M60000002053",
    "amendment_promulgate_date": "2026-05-25",
    "amendment_enforcement_date": "2026-05-25",
@@ -39,7 +49,7 @@
    "amendment_law_title": "沖縄総合事務局組織規則の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第五十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413M60000002004_20260408_508M60000002039",
@@ -420,30 +430,13 @@
    "amendment_law_num": "令和二年内閣府令第七十三号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "413M60000002004_20201001_502M60000002063",
-   "amendment_promulgate_date": "2020-09-30",
-   "amendment_enforcement_date": "2020-10-01",
-   "amendment_enforcement_comment": "",
-   "amendment_law_id": "502M60000002063",
-   "amendment_law_title": "沖縄総合事務局組織規則の一部を改正する内閣府令",
-   "amendment_law_num": "令和二年内閣府令第六十三号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（次長）",
-  "title": "第一条",
-  "paragraphs": [
-   "次長のうち、一人は総務部、財務部、農林水産部、経済産業部及び運輸部の事務を、他の一人は開発建設部の事務を整理する。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2001-01-06",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-08T10:20:38+09:00"
+  "fetched_at": "2026-11-13",
+  "updated": "2026-11-13T09:44:41+09:00"
  }
 }

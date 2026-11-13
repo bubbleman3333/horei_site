@@ -10,20 +10,20 @@
   "promulgation_date": "1952-04-23"
  },
  "revision_info": {
-  "law_revision_id": "327M50000002012_20261001_508M60000002084",
+  "law_revision_id": "327M50000002012_20261102_508M60000002093",
   "law_type": "MinisterialOrdinance",
   "law_title": "内閣府所管旅費取扱規則",
   "law_title_kana": "ないかくふしょかんりょひとりあつかいきそく",
   "abbrev": null,
   "category": "国家公務員",
-  "updated": "2026-10-15T13:13:40+09:00",
-  "amendment_promulgate_date": "2026-09-30",
-  "amendment_enforcement_date": "2026-10-01",
+  "updated": "2026-11-13T09:47:57+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000002084",
-  "amendment_law_title": "内閣府所管旅費取扱規則の一部を改正する内閣府令",
-  "amendment_law_num": "令和八年内閣府令第八十四号",
+  "amendment_law_id": "508M60000002093",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第九十三号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "327M50000002012_20261102_508M60000002093",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000002093",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "327M50000002012_20261001_508M60000002084",
    "amendment_promulgate_date": "2026-09-30",
    "amendment_enforcement_date": "2026-10-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "内閣府所管旅費取扱規則の一部を改正する内閣府令",
    "amendment_law_num": "令和八年内閣府令第八十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "327M50000002012_20260401_508M60000002023",
@@ -122,16 +132,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（目的）",
-  "title": "第一条",
-  "paragraphs": [
-   "内閣府所管の国費をもって、国家公務員（以下「職員」という。）及び職員以外の者に対して支給する旅費に関し、国家公務員等の旅費に関する法律（昭和二十五年法律第百十四号。以下「法」という。）、国家公務員等の旅費に関する法律施行令（令和六年政令第三百六号。以下「令」という。）及び国家公務員等の旅費支給規程（昭和二十五年大蔵省令第四十五号。以下「規程」という。）の規定により、内閣総理大臣が財務大臣に協議して定める事項その他旅費の取扱については、別に定めるものを除くほか、この規則の定めるところによる。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1952-04-23",
-  "fetched_at": "2026-10-16",
-  "updated": "2026-10-15T13:13:40+09:00"
+  "fetched_at": "2026-11-13",
+  "updated": "2026-11-13T09:47:57+09:00"
  }
 }

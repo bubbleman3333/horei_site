@@ -10,20 +10,20 @@
   "promulgation_date": "2007-08-31"
  },
  "revision_info": {
-  "law_revision_id": "419M60000008098_20260807_508M60000008103",
+  "law_revision_id": "419M60000008098_20261030_508M60000008123",
   "law_type": "MinisterialOrdinance",
   "law_title": "独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構に関する省令",
   "law_title_kana": "どくりつぎょうせいほうじんゆうびんちょきんかんいせいめいほけんかんりゆうびんきょくねっとわーくしえんきこうにかんするしょうれい",
   "abbrev": null,
   "category": "行政組織",
-  "updated": "2026-08-20T10:33:03+09:00",
-  "amendment_promulgate_date": "2026-08-07",
-  "amendment_enforcement_date": "2026-08-07",
+  "updated": "2026-11-13T09:47:25+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-10-30",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000008103",
-  "amendment_law_title": "独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構に関する省令の一部を改正する省令",
-  "amendment_law_num": "令和八年総務省令第百三号",
+  "amendment_law_id": "508M60000008123",
+  "amendment_law_title": "日本郵政株式会社法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省令第百二十三号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "419M60000008098_20261030_508M60000008123",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-10-30",
+   "amendment_law_id": "508M60000008123",
+   "amendment_law_title": "日本郵政株式会社法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百二十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "419M60000008098_20260807_508M60000008103",
    "amendment_promulgate_date": "2026-08-07",
    "amendment_enforcement_date": "2026-08-07",
@@ -39,7 +49,7 @@
    "amendment_law_title": "独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構に関する省令の一部を改正する省令",
    "amendment_law_num": "令和八年総務省令第百三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "419M60000008098_20230331_505M60000008030",
@@ -102,16 +112,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（通則法第八条第三項に規定する主務省令で定める重要な財産）",
-  "title": "第一条",
-  "paragraphs": [
-   "独立行政法人郵便貯金簡易生命保険管理・郵便局ネットワーク支援機構（以下「機構」という。）に係る独立行政法人通則法（平成十一年法律第百三号。以下「通則法」という。）第八条第三項に規定する主務省令で定める重要な財産は、その保有する財産であって、その通則法第四十六条の二第一項又は第二項の認可に係る申請の日（通則法第四十六条の二第一項ただし書又は第二項ただし書の場合にあっては、当該財産の処分に関する計画を定めた通則法第三十条第一項の中期計画の認可に係る申請の日）における帳簿価額（現金及び預金にあっては、申請の日におけるその額）が五十万円以上のもの（その性質上通則法第四十六条の二の規定により処分することが不適当なものを除く。）その他総務大臣が定める財産とする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2007-08-31",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-08-20T10:33:03+09:00"
+  "fetched_at": "2026-11-13",
+  "updated": "2026-11-13T09:47:25+09:00"
  }
 }

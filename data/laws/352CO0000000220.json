@@ -16,7 +16,7 @@
   "law_title_kana": "でんしじょうほうしょりそしきによるゆしゅつにゅうとうかんれんぎょうむのしょりとうにかんするほうりつしこうれい",
   "abbrev": "ＮＡＣＣＳ特例法施行令",
   "category": "国税",
-  "updated": "2026-11-01T00:28:42+09:00",
+  "updated": "2026-11-13T09:41:50+09:00",
   "amendment_promulgate_date": "2026-03-31",
   "amendment_enforcement_date": "2026-11-01",
   "amendment_enforcement_comment": null,
@@ -50,6 +50,16 @@
    "amendment_law_num": "令和八年政令第八十五号",
    "amendment_type": "3",
    "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "352CO0000000220_20261031_508CO0000000340",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-10-31",
+   "amendment_law_id": "508CO0000000340",
+   "amendment_law_title": "ニッケル系ステンレス冷延鋼帯及び冷延鋼板に対して課する暫定的な不当廉売関税に関する政令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百四十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "352CO0000000220_20260808_508CO0000000254",
@@ -422,33 +432,13 @@
    "amendment_law_num": "平成二十九年政令第百二十七号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "352CO0000000220_20170401_429CO0000000127",
-   "amendment_promulgate_date": "2017-03-31",
-   "amendment_enforcement_date": "2017-04-01",
-   "amendment_enforcement_comment": "",
-   "amendment_law_id": "429CO0000000127",
-   "amendment_law_title": "関税定率法等の一部を改正する法律の施行に伴う関係政令の整備等に関する政令",
-   "amendment_law_num": "平成二十九年政令第百二十七号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（輸出入等関連業務の範囲）",
-  "title": "第一条",
-  "paragraphs": [
-   "電子情報処理組織による輸出入等関連業務の処理等に関する法律（以下「法」という。）第二条第二号イ（定義）に規定する政令で定める業務は、次に掲げる業務とする。",
-   "法第二条第二号ロに規定する政令で定める申請等は、次に掲げる申請等とする。",
-   "法第二条第二号ハに規定する政令で定める申請等又は処分通知等は、次に掲げる申請等又は処分通知等とする。",
-   "法第二条第二号ニに規定する政令で定める申請等又は処分通知等は、次に掲げる申請等又は処分通知等とする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1977-06-24",
-  "fetched_at": "2026-11-01",
-  "updated": "2026-11-01T00:28:42+09:00"
+  "fetched_at": "2026-11-13",
+  "updated": "2026-11-13T09:41:50+09:00"
  }
 }

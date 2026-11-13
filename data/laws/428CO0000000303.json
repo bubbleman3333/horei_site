@@ -1,0 +1,72 @@
+{
+ "law_info": {
+  "law_type": "CabinetOrder",
+  "law_id": "428CO0000000303",
+  "law_num": "平成二十八年政令第三百三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 28,
+  "law_num_type": "CabinetOrder",
+  "law_num_num": "303",
+  "promulgation_date": "2016-09-07"
+ },
+ "revision_info": {
+  "law_revision_id": "428CO0000000303_20261105_508CO0000000343",
+  "law_type": "CabinetOrder",
+  "law_title": "規制改革推進会議令",
+  "law_title_kana": "きせいかいかくすいしんかいぎれい",
+  "abbrev": null,
+  "category": "行政組織",
+  "updated": "2026-11-13T10:05:23+09:00",
+  "amendment_promulgate_date": "2026-11-05",
+  "amendment_enforcement_date": "2026-11-05",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508CO0000000343",
+  "amendment_law_title": "規制改革推進会議令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百四十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "428CO0000000303_20261105_508CO0000000343",
+   "amendment_promulgate_date": "2026-11-05",
+   "amendment_enforcement_date": "2026-11-05",
+   "amendment_law_id": "508CO0000000343",
+   "amendment_law_title": "規制改革推進会議令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百四十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000303_20191024_501CO0000000132",
+   "amendment_promulgate_date": "2019-10-24",
+   "amendment_enforcement_date": "2019-10-24",
+   "amendment_law_id": "501CO0000000132",
+   "amendment_law_title": "内閣府本府組織令及び規制改革推進会議令の一部を改正する政令",
+   "amendment_law_num": "令和元年政令第百三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "428CO0000000303_20160907_000000000000000",
+   "amendment_promulgate_date": "2016-09-07",
+   "amendment_enforcement_date": "2016-09-07",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2016-09-07",
+  "fetched_at": "2026-11-13",
+  "updated": "2026-11-13T10:05:23+09:00"
+ }
+}
