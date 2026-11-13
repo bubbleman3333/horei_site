@@ -56,11 +56,22 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [],
- "article1": null,
+ "toc": [
+  "第一章　通則",
+  "第二章　官報の掲載事項",
+  "第三章　官報の発行方法等",
+  "第四章　雑則"
+ ],
+ "article1": {
+  "caption": "（定義）",
+  "title": "第一条",
+  "paragraphs": [
+   "この府令において使用する用語は、官報の発行に関する法律（以下「法」という。）において使用する用語の例による。"
+  ]
+ },
  "_meta": {
   "first_seen": "2024-09-17",
-  "fetched_at": "2026-11-13",
+  "fetched_at": "2026-11-14",
   "updated": "2026-11-13T09:48:17+09:00"
  }
 }
