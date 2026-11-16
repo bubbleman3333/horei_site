@@ -1,0 +1,67 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "423M60000040003",
+  "law_num": "平成二十三年財務省令第三号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "003",
+  "promulgation_date": "2011-03-15"
+ },
+ "revision_info": {
+  "law_revision_id": "423M60000040003_20261102_508M60000040065",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "個人向け国債の発行等に関する省令第七条第三項の臨時特例に関する省令",
+  "law_title_kana": "こじんむけこくさいのはっこうとうにかんするしょうれいだいななじょうだいさんこうのりんじとくれいにかんするしょうれい",
+  "abbrev": null,
+  "category": "国債",
+  "updated": "2026-11-16T10:36:08+09:00",
+  "amendment_promulgate_date": "2026-11-02",
+  "amendment_enforcement_date": "2026-11-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000040065",
+  "amendment_law_title": "個人向け国債の発行等に関する省令第七条第三項の臨時特例に関する省令の一部を改正する省令",
+  "amendment_law_num": "令和八年財務省令第六十五号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423M60000040003_20261102_508M60000040065",
+   "amendment_promulgate_date": "2026-11-02",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000040065",
+   "amendment_law_title": "個人向け国債の発行等に関する省令第七条第三項の臨時特例に関する省令の一部を改正する省令",
+   "amendment_law_num": "令和八年財務省令第六十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423M60000040003_20160427_428M60000040047",
+   "amendment_promulgate_date": "2016-04-27",
+   "amendment_enforcement_date": "2016-04-27",
+   "amendment_law_id": "428M60000040047",
+   "amendment_law_num": "平成二十八年財務省令第四十七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "",
+  "title": "第一条",
+  "paragraphs": [
+   "平成二十八年熊本地震により、災害救助法施行令第一条第一項第三号の防災庁令で定める特別の事情等を定める防災庁令（平成二十五年内閣府令第六十八号）第二条第一号に該当するものとして災害救助法（昭和二十二年法律第百十八号）の適用を受けた区域に居住する、個人向け国債の発行等に関する省令（平成十四年財務省令第六十八号）第七条第一項第二号に該当する者が同条同項の規定による請求をするときにおいて、取扱機関が当該請求者と面識がある場合その他の当該請求者が当該区域に居住していることを確認できる場合にあっては、同条第三項に定める書類が提出されたものとみなす。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2011-03-15",
+  "fetched_at": "2026-11-17",
+  "updated": "2026-11-16T10:36:08+09:00"
+ }
+}
