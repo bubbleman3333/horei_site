@@ -1,0 +1,79 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "423M60000802008",
+  "law_num": "平成二十三年内閣府・国土交通省令第八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 23,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "008",
+  "promulgation_date": "2011-12-26"
+ },
+ "revision_info": {
+  "law_revision_id": "423M60000802008_20261102_508M60000802007",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "指定避難施設の管理及び協定避難施設の管理協定に関する命令",
+  "law_title_kana": "していひなんしせつのかんりおよびきょうていひなんしせつのかんりきょうていにかんするめいれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-11-16T09:49:04+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000802007",
+  "amendment_law_title": "指定避難施設の管理及び協定避難施設の管理協定に関する命令の一部を改正する命令",
+  "amendment_law_num": "令和八年内閣府・国土交通省令第七号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "423M60000802008_20261102_508M60000802007",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000802007",
+   "amendment_law_title": "指定避難施設の管理及び協定避難施設の管理協定に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和八年内閣府・国土交通省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "423M60000802008_20210101_502M60000802011",
+   "amendment_promulgate_date": "2020-12-23",
+   "amendment_enforcement_date": "2021-01-01",
+   "amendment_law_id": "502M60000802011",
+   "amendment_law_title": "指定避難施設の管理及び協定避難施設の管理協定に関する命令の一部を改正する命令",
+   "amendment_law_num": "令和二年内閣府・国土交通省令第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000802008_20180401_430M60000802002",
+   "amendment_promulgate_date": "2018-03-30",
+   "amendment_enforcement_date": "2018-04-01",
+   "amendment_law_id": "430M60000802002",
+   "amendment_law_title": "指定避難施設の管理及び協定避難施設の管理協定に関する命令の一部を改正する命令",
+   "amendment_law_num": "平成三十年内閣府・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "423M60000802008_20111227_000000000000000",
+   "amendment_promulgate_date": "2011-12-26",
+   "amendment_enforcement_date": "2011-12-27",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2011-12-26",
+  "fetched_at": "2026-11-16",
+  "updated": "2026-11-16T09:49:04+09:00"
+ }
+}

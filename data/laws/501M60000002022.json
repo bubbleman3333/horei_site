@@ -1,0 +1,60 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "501M60000002022",
+  "law_num": "令和元年内閣府令第二十二号",
+  "law_num_era": "Reiwa",
+  "law_num_year": 1,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "022",
+  "promulgation_date": "2019-07-19"
+ },
+ "revision_info": {
+  "law_revision_id": "501M60000002022_20261102_508M60000002093",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "災害弔慰金の支給等に関する法律の規定に基づく災害援護資金の償還免除に関する防災庁令",
+  "law_title_kana": "さいがいちょういきんのしきゅうとうにかんするほうりつのきていにもとづくさいがいえんごしきんのしょうかんめんじょにかんするぼうさいちょうれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-11-16T09:58:47+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002093",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第九十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "501M60000002022_20261102_508M60000002093",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000002093",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "501M60000002022_20190801_000000000000000",
+   "amendment_promulgate_date": "2019-07-19",
+   "amendment_enforcement_date": "2019-08-01",
+   "amendment_law_title": "",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2019-07-19",
+  "fetched_at": "2026-11-16",
+  "updated": "2026-11-16T09:58:47+09:00"
+ }
+}

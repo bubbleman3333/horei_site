@@ -10,20 +10,20 @@
   "promulgation_date": "2011-12-22"
  },
  "revision_info": {
-  "law_revision_id": "423M60000002069_20260401_508M60000004003",
+  "law_revision_id": "423M60000002069_20261102_508M60000004006",
   "law_type": "MinisterialOrdinance",
   "law_title": "東日本大震災復興特別区域法施行規則",
   "law_title_kana": "ひがしにほんだいしんさいふっこうとくべつくいきほうしこうきそく",
   "abbrev": "復興特区法施行規則",
   "category": "災害対策",
-  "updated": "2026-05-15T11:28:29+09:00",
-  "amendment_promulgate_date": "2026-03-31",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-11-16T09:56:34+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-02",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000004003",
+  "amendment_law_id": "508M60000004006",
   "amendment_law_title": "東日本大震災復興特別区域法施行規則の一部を改正する庁令",
-  "amendment_law_num": "令和八年復興庁令第三号",
+  "amendment_law_num": "令和八年復興庁令第六号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "423M60000002069_20261102_508M60000004006",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000004006",
+   "amendment_law_title": "東日本大震災復興特別区域法施行規則の一部を改正する庁令",
+   "amendment_law_num": "令和八年復興庁令第六号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "423M60000002069_20260401_508M60000004003",
    "amendment_promulgate_date": "2026-03-31",
    "amendment_enforcement_date": "2026-04-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "東日本大震災復興特別区域法施行規則の一部を改正する庁令",
    "amendment_law_num": "令和八年復興庁令第三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "423M60000002069_20240401_506M60000004002",
@@ -112,19 +122,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（令第一条各号の内閣府令で定める事業）",
-  "title": "第一条",
-  "paragraphs": [
-   "東日本大震災復興特別区域法施行令（以下「令」という。）第一条第一号の内閣府令で定める事業は、次に掲げるものとする。",
-   "令第一条第二号の内閣府令で定める事業は、次に掲げるものとする。",
-   "令第一条第三号の内閣府令で定める事業は、次に掲げるものとする。",
-   "令第一条第四号の内閣府令で定める事業は、次に掲げるものとする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2011-12-22",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-15T11:28:29+09:00"
+  "fetched_at": "2026-11-16",
+  "updated": "2026-11-16T09:56:34+09:00"
  }
 }

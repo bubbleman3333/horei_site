@@ -1,0 +1,69 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "425M60000002068",
+  "law_num": "平成二十五年内閣府令第六十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 25,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "068",
+  "promulgation_date": "2013-10-01"
+ },
+ "revision_info": {
+  "law_revision_id": "425M60000002068_20261102_508M60000002093",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "災害救助法施行令第一条第一項第三号の防災庁令で定める特別の事情等を定める防災庁令",
+  "law_title_kana": "さいがいきゅうじょほうしこうれいだいいちじょうだいいっこうだいさんごうのぼうさいちょうれいでさだめるとくべつのじじょうとうをさだめるぼうさいちょうれい",
+  "abbrev": null,
+  "category": "災害対策",
+  "updated": "2026-11-16T09:57:12+09:00",
+  "amendment_promulgate_date": "2026-10-30",
+  "amendment_enforcement_date": "2026-11-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000002093",
+  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+  "amendment_law_num": "令和八年内閣府令第九十三号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "425M60000002068_20261102_508M60000002093",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000002093",
+   "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律等の施行に伴う内閣府本府関係内閣府令の整備等に関する内閣府令",
+   "amendment_law_num": "令和八年内閣府令第九十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "425M60000002068_20190401_430M60000002056",
+   "amendment_promulgate_date": "2018-12-28",
+   "amendment_enforcement_date": "2019-04-01",
+   "amendment_law_id": "430M60000002056",
+   "amendment_law_title": "災害救助法施行令第一条第一項第三号の内閣府令で定める特別の事情等を定める内閣府令の一部を改正する内閣府令",
+   "amendment_law_num": "平成三十年内閣府令第五十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "425M60000002068_20131001_000000000000000",
+   "amendment_promulgate_date": "2013-10-01",
+   "amendment_enforcement_date": "2013-10-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2013-10-01",
+  "fetched_at": "2026-11-16",
+  "updated": "2026-11-16T09:57:12+09:00"
+ }
+}

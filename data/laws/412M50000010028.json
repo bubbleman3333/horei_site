@@ -1,0 +1,138 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "412M50000010028",
+  "law_num": "平成十二年法務省令第二十八号",
+  "law_num_era": "Heisei",
+  "law_num_year": 12,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "028",
+  "promulgation_date": "2000-05-15"
+ },
+ "revision_info": {
+  "law_revision_id": "412M50000010028_20241001_506M60000010028",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "電気通信回線による登記情報の提供に関する法律施行規則",
+  "law_title_kana": "でんきつうしんかいせんによるとうきじょうほうのていきょうにかんするほうりつせこうきそく",
+  "abbrev": null,
+  "category": "民事",
+  "updated": "2024-10-09T09:21:19+09:00",
+  "amendment_promulgate_date": "2024-04-16",
+  "amendment_enforcement_date": "2024-10-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "506M60000010028",
+  "amendment_law_title": "商業登記規則等の一部を改正する省令",
+  "amendment_law_num": "令和六年法務省令第二十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "412M50000010028_20261201_508M60000010051",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-12-01",
+   "amendment_law_id": "508M60000010051",
+   "amendment_law_title": "商業登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年法務省令第五十一号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "412M50000010028_20241001_506M60000010028",
+   "amendment_promulgate_date": "2024-04-16",
+   "amendment_enforcement_date": "2024-10-01",
+   "amendment_law_id": "506M60000010028",
+   "amendment_law_title": "商業登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第二十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "412M50000010028_20240422_506M60000010032",
+   "amendment_promulgate_date": "2024-04-22",
+   "amendment_enforcement_date": "2024-04-22",
+   "amendment_law_id": "506M60000010032",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第三十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000010028_20240401_506M60000010007",
+   "amendment_promulgate_date": "2024-03-01",
+   "amendment_enforcement_date": "2024-04-01",
+   "amendment_law_id": "506M60000010007",
+   "amendment_law_title": "不動産登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和六年法務省令第七号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000010028_20220901_504M60000010035",
+   "amendment_promulgate_date": "2022-08-18",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504M60000010035",
+   "amendment_law_title": "商業登記規則及び電気通信回線による登記情報の提供に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第三十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000010028_20220901_504M60000010034",
+   "amendment_promulgate_date": "2022-08-03",
+   "amendment_enforcement_date": "2022-09-01",
+   "amendment_law_id": "504M60000010034",
+   "amendment_law_title": "商業登記規則等の一部を改正する省令",
+   "amendment_law_num": "令和四年法務省令第三十四号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000010028_20190701_501M60000010022",
+   "amendment_promulgate_date": "2019-07-01",
+   "amendment_enforcement_date": "2019-07-01",
+   "amendment_enforcement_comment": "",
+   "amendment_law_id": "501M60000010022",
+   "amendment_law_title": "電気通信回線による登記情報の提供に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "令和元年法務省令第二十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000010028_20170703_429M60000010026",
+   "amendment_promulgate_date": "2017-06-23",
+   "amendment_enforcement_date": "2017-07-03",
+   "amendment_law_id": "429M60000010026",
+   "amendment_law_title": "電気通信回線による登記情報の提供に関する法律施行規則の一部を改正する省令",
+   "amendment_law_num": "平成二十九年法務省令第二十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "412M50000010028_20150330_427M60000010010",
+   "amendment_promulgate_date": "2015-03-27",
+   "amendment_enforcement_date": "2015-03-30",
+   "amendment_law_id": "427M60000010010",
+   "amendment_law_num": "平成二十七年法務省令第十号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": {
+  "caption": "（登記情報の調製方法）",
+  "title": "第一条",
+  "paragraphs": [
+   "電気通信回線による登記情報の提供に関する法律（平成十一年法律第二百二十六号。以下「法」という。）第二条第一項の登記情報は、登記記録の記録に係る電子計算機に備えられたファイル又は電磁的記録媒体をもって調製されたものに記録されている情報を含むものとする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "2000-05-15",
+  "fetched_at": "2026-11-16",
+  "updated": "2024-10-09T09:21:19+09:00"
+ }
+}

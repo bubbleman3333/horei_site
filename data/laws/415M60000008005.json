@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "415M60000008005_20261201_508M60000008124",
+   "amendment_promulgate_date": "2026-10-30",
+   "amendment_enforcement_date": "2026-12-01",
+   "amendment_law_id": "508M60000008124",
+   "amendment_law_title": "郵便法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省令第百二十四号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "415M60000008005_20260521_508M60000008058",
    "amendment_promulgate_date": "2026-04-02",
    "amendment_enforcement_date": "2026-05-21",
@@ -186,7 +196,7 @@
  },
  "_meta": {
   "first_seen": "2003-01-14",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-11-16",
   "updated": "2026-05-21T02:26:49+09:00"
  }
 }
