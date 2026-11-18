@@ -49,11 +49,20 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [],
- "article1": null,
+ "toc": [
+  "第一章　総則",
+  "第二章　登録被災者援護協力団体"
+ ],
+ "article1": {
+  "caption": "（趣旨）",
+  "title": "第一条",
+  "paragraphs": [
+   "災害対策基本法（以下「法」という。）第三十三条の二第一項の規定による登録被災者援護協力団体の登録に関しては、この庁令の定めるところによる。"
+  ]
+ },
  "_meta": {
   "first_seen": "2025-06-24",
-  "fetched_at": "2026-11-18",
+  "fetched_at": "2026-11-19",
   "updated": "2026-11-18T09:26:47+09:00"
  }
 }
