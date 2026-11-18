@@ -10,20 +10,20 @@
   "promulgation_date": "2001-07-23"
  },
  "revision_info": {
-  "law_revision_id": "413CO0000000245_20261102_508CO0000000305",
+  "law_revision_id": "413CO0000000245_20261106_508CO0000000345",
   "law_type": "CabinetOrder",
   "law_title": "電波法施行令",
   "law_title_kana": "でんぱほうしこうれい",
   "abbrev": null,
   "category": "電気通信",
-  "updated": "2026-11-02T01:14:09+09:00",
-  "amendment_promulgate_date": "2026-09-30",
-  "amendment_enforcement_date": "2026-11-02",
+  "updated": "2026-11-18T09:16:27+09:00",
+  "amendment_promulgate_date": "2026-11-05",
+  "amendment_enforcement_date": "2026-11-06",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508CO0000000305",
-  "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
-  "amendment_law_num": "令和八年政令第三百五号",
+  "amendment_law_id": "508CO0000000345",
+  "amendment_law_title": "電波法施行令の一部を改正する政令",
+  "amendment_law_num": "令和八年政令第三百四十五号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "413CO0000000245_20261106_508CO0000000345",
+   "amendment_promulgate_date": "2026-11-05",
+   "amendment_enforcement_date": "2026-11-06",
+   "amendment_law_id": "508CO0000000345",
+   "amendment_law_title": "電波法施行令の一部を改正する政令",
+   "amendment_law_num": "令和八年政令第三百四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "413CO0000000245_20261102_508CO0000000305",
    "amendment_promulgate_date": "2026-09-30",
    "amendment_enforcement_date": "2026-11-02",
@@ -39,7 +49,7 @@
    "amendment_law_title": "防災庁設置法及び防災庁設置法の施行に伴う関係法律の整備等に関する法律の施行に伴う関係政令の整備に関する政令",
    "amendment_law_num": "令和八年政令第三百五号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "413CO0000000245_20260903_508CO0000000255",
@@ -163,16 +173,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（検査等事業者に係る登録の有効期間）",
-  "title": "第一条",
-  "paragraphs": [
-   "電波法（以下「法」という。）第二十四条の三第一項の政令で定める期間は、五年とする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "2001-07-23",
-  "fetched_at": "2026-11-02",
-  "updated": "2026-11-02T01:14:09+09:00"
+  "fetched_at": "2026-11-18",
+  "updated": "2026-11-18T09:16:27+09:00"
  }
 }

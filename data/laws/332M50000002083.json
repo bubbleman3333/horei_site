@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "332M50000002083_20261201_508M60080000008",
+   "amendment_promulgate_date": "2026-11-05",
+   "amendment_enforcement_date": "2026-12-01",
+   "amendment_law_id": "508M60080000008",
+   "amendment_law_title": "試験研究の用に供する原子炉等の設置、運転等に関する規則等の一部を改正する規則",
+   "amendment_law_num": "令和八年原子力規制委員会規則第八号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
    "law_revision_id": "332M50000002083_20260710_508M60080000006",
    "amendment_promulgate_date": "2026-07-10",
    "amendment_enforcement_date": "2026-07-10",
@@ -201,7 +211,7 @@
  },
  "_meta": {
   "first_seen": "1957-12-09",
-  "fetched_at": "2026-09-22",
+  "fetched_at": "2026-11-18",
   "updated": "2026-07-27T09:39:31+09:00"
  }
 }

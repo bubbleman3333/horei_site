@@ -1,0 +1,59 @@
+{
+ "law_info": {
+  "law_type": "MinisterialOrdinance",
+  "law_id": "427M60000A08002",
+  "law_num": "平成二十七年総務省・農林水産省・国土交通省令第二号",
+  "law_num_era": "Heisei",
+  "law_num_year": 27,
+  "law_num_type": "MinisterialOrdinance",
+  "law_num_num": "002",
+  "promulgation_date": "2015-03-31"
+ },
+ "revision_info": {
+  "law_revision_id": "427M60000A08002_20261102_508M60000A08002",
+  "law_type": "MinisterialOrdinance",
+  "law_title": "半島振興法施行規則",
+  "law_title_kana": "はんとうしんこうほうしこうきそく",
+  "abbrev": null,
+  "category": "国土開発",
+  "updated": "2026-11-18T09:25:27+09:00",
+  "amendment_promulgate_date": "2026-11-02",
+  "amendment_enforcement_date": "2026-11-02",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "508M60000A08002",
+  "amendment_law_title": "奄美群島振興開発特別措置法施行規則及び半島振興法施行規則の一部を改正する省令",
+  "amendment_law_num": "令和八年総務省・農林水産省・国土交通省令第二号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "427M60000A08002_20261102_508M60000A08002",
+   "amendment_promulgate_date": "2026-11-02",
+   "amendment_enforcement_date": "2026-11-02",
+   "amendment_law_id": "508M60000A08002",
+   "amendment_law_title": "奄美群島振興開発特別措置法施行規則及び半島振興法施行規則の一部を改正する省令",
+   "amendment_law_num": "令和八年総務省・農林水産省・国土交通省令第二号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "427M60000A08002_20150401_000000000000000",
+   "amendment_promulgate_date": "2015-03-31",
+   "amendment_enforcement_date": "2015-04-01",
+   "amendment_type": "1",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [],
+ "article1": null,
+ "_meta": {
+  "first_seen": "2015-03-31",
+  "fetched_at": "2026-11-18",
+  "updated": "2026-11-18T09:25:27+09:00"
+ }
+}

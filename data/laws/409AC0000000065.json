@@ -10,20 +10,20 @@
   "promulgation_date": "1997-06-04"
  },
  "revision_info": {
-  "law_revision_id": "409AC0000000065_20261102_508AC0000000062",
+  "law_revision_id": "409AC0000000065_20261118_508AC0000000079",
   "law_type": "Act",
   "law_title": "一般職の任期付研究員の採用、給与及び勤務時間の特例に関する法律",
   "law_title_kana": "いっぱんしょくのにんきつきけんきゅういんのさいようきゅうよおよびきんむじかんのとくれいにかんするほうりつ",
   "abbrev": "任期付研究員法",
   "category": "国家公務員",
-  "updated": "2026-11-02T00:46:36+09:00",
-  "amendment_promulgate_date": "2026-07-17",
-  "amendment_enforcement_date": "2026-11-02",
+  "updated": "2026-11-18T10:12:56+09:00",
+  "amendment_promulgate_date": "2026-11-18",
+  "amendment_enforcement_date": "2026-11-18",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508AC0000000062",
-  "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
-  "amendment_law_num": "令和八年法律第六十二号",
+  "amendment_law_id": "508AC0000000079",
+  "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第七十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,26 @@
  },
  "revisions": [
   {
+   "law_revision_id": "409AC0000000065_20270401_508AC0000000079",
+   "amendment_promulgate_date": "2026-11-18",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000079",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "409AC0000000065_20261118_508AC0000000079",
+   "amendment_promulgate_date": "2026-11-18",
+   "amendment_enforcement_date": "2026-11-18",
+   "amendment_law_id": "508AC0000000079",
+   "amendment_law_title": "一般職の職員の給与に関する法律等の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第七十九号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "409AC0000000065_20261102_508AC0000000062",
    "amendment_promulgate_date": "2026-07-17",
    "amendment_enforcement_date": "2026-11-02",
@@ -39,7 +59,7 @@
    "amendment_law_title": "防災庁設置法の施行に伴う関係法律の整備等に関する法律",
    "amendment_law_num": "令和八年法律第六十二号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "409AC0000000065_20260717_508AC0000000062",
@@ -243,16 +263,10 @@
   }
  ],
  "toc": [],
- "article1": {
-  "caption": "（趣旨）",
-  "title": "第一条",
-  "paragraphs": [
-   "この法律は、試験研究機関等の研究業務に従事する一般職の職員について、任期を定めた採用並びに任期を定めて採用された職員の給与の特例及び裁量による勤務に関する事項について定めるものとする。"
-  ]
- },
+ "article1": null,
  "_meta": {
   "first_seen": "1997-06-04",
-  "fetched_at": "2026-11-02",
-  "updated": "2026-11-02T00:46:36+09:00"
+  "fetched_at": "2026-11-18",
+  "updated": "2026-11-18T10:12:56+09:00"
  }
 }
