@@ -10,15 +10,15 @@
   "promulgation_date": "1991-05-02"
  },
  "revision_info": {
-  "law_revision_id": "403AC0000000059_20260731_508AC0000000029",
+  "law_revision_id": "403AC0000000059_20261120_508AC0000000029",
   "law_type": "Act",
   "law_title": "食品等の持続的な供給を実現するための食品等事業者による事業活動の促進及び食品等の取引の適正化に関する法律",
   "law_title_kana": "しょくひんとうのじぞくてきなきょうきゅうをじつげんするためのしょくひんとうじぎょうしゃによるじぎょうかつどうのそくしんおよびしょくひんとうのとりひきのてきせいかにかんするほうりつ",
   "abbrev": null,
   "category": "商業",
-  "updated": "2026-10-07T17:48:33+09:00",
+  "updated": "2026-11-20T00:01:47+09:00",
   "amendment_promulgate_date": "2026-06-05",
-  "amendment_enforcement_date": "2026-07-31",
+  "amendment_enforcement_date": "2026-11-20",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508AC0000000029",
@@ -39,7 +39,7 @@
    "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "403AC0000000059_20260731_508AC0000000029",
@@ -49,7 +49,7 @@
    "amendment_law_title": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二十九号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "403AC0000000059_20260401_507AC0000000069",
@@ -137,7 +137,7 @@
  },
  "_meta": {
   "first_seen": "1991-05-02",
-  "fetched_at": "2026-11-19",
-  "updated": "2026-10-07T17:48:33+09:00"
+  "fetched_at": "2026-11-20",
+  "updated": "2026-11-20T00:01:47+09:00"
  }
 }
