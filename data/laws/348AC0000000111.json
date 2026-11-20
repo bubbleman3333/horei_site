@@ -1,0 +1,147 @@
+{
+ "law_info": {
+  "law_type": "Act",
+  "law_id": "348AC0000000111",
+  "law_num": "昭和四十八年法律第百十一号",
+  "law_num_era": "Showa",
+  "law_num_year": 48,
+  "law_num_type": "Act",
+  "law_num_num": "111",
+  "promulgation_date": "1973-10-05"
+ },
+ "revision_info": {
+  "law_revision_id": "348AC0000000111_20250601_504AC0000000068",
+  "law_type": "Act",
+  "law_title": "公害健康被害の補償等に関する法律",
+  "law_title_kana": "こうがいけんこうひがいのほしょうとうにかんするほうりつ",
+  "abbrev": "公健法",
+  "category": "環境保全",
+  "updated": "2025-06-01T15:15:04+09:00",
+  "amendment_promulgate_date": "2022-06-17",
+  "amendment_enforcement_date": "2025-06-01",
+  "amendment_enforcement_comment": null,
+  "amendment_scheduled_enforcement_date": null,
+  "amendment_law_id": "504AC0000000068",
+  "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+  "amendment_law_num": "令和四年法律第六十八号",
+  "amendment_type": "3",
+  "repeal_status": "None",
+  "repeal_date": null,
+  "mission": "New",
+  "current_revision_status": "CurrentEnforced"
+ },
+ "revisions": [
+  {
+   "law_revision_id": "348AC0000000111_20270401_508AC0000000087",
+   "amendment_promulgate_date": "2026-11-20",
+   "amendment_enforcement_date": "2027-04-01",
+   "amendment_law_id": "508AC0000000087",
+   "amendment_law_title": "公害健康被害の補償等に関する法律の一部を改正する法律",
+   "amendment_law_num": "令和八年法律第八十七号",
+   "amendment_type": "3",
+   "current_revision_status": "UnEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000111_20250601_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2025-06-01",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000111_20240301_503AC0000000066",
+   "amendment_promulgate_date": "2021-06-11",
+   "amendment_enforcement_date": "2024-03-01",
+   "amendment_law_id": "503AC0000000066",
+   "amendment_law_title": "全世代対応型の社会保障制度を構築するための健康保険法等の一部を改正する法律",
+   "amendment_law_num": "令和三年法律第六十六号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000111_20220617_504AC0000000068",
+   "amendment_promulgate_date": "2022-06-17",
+   "amendment_enforcement_date": "2022-06-17",
+   "amendment_law_id": "504AC0000000068",
+   "amendment_law_title": "刑法等の一部を改正する法律の施行に伴う関係法律の整理等に関する法律",
+   "amendment_law_num": "令和四年法律第六十八号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000111_20200401_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2020-04-01",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000111_20180331_430AC0000000011",
+   "amendment_promulgate_date": "2018-03-31",
+   "amendment_enforcement_date": "2018-03-31",
+   "amendment_law_id": "430AC0000000011",
+   "amendment_law_title": "公害健康被害の補償等に関する法律の一部を改正する法律",
+   "amendment_law_num": "平成三十年法律第十一号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000111_20170602_429AC0000000045",
+   "amendment_promulgate_date": "2017-06-02",
+   "amendment_enforcement_date": "2017-06-02",
+   "amendment_law_id": "429AC0000000045",
+   "amendment_law_title": "民法の一部を改正する法律の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十九年法律第四十五号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000111_20160401_426AC0000000069",
+   "amendment_promulgate_date": "2014-06-13",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000069",
+   "amendment_law_title": "行政不服審査法の施行に伴う関係法律の整備等に関する法律",
+   "amendment_law_num": "平成二十六年法律第六十九号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  },
+  {
+   "law_revision_id": "348AC0000000111_20160401_426AC0000000042",
+   "amendment_promulgate_date": "2014-05-30",
+   "amendment_enforcement_date": "2016-04-01",
+   "amendment_law_id": "426AC0000000042",
+   "amendment_law_title": "地方自治法の一部を改正する法律",
+   "amendment_law_num": "平成二十六年法律第四十二号",
+   "amendment_type": "3",
+   "current_revision_status": "PreviousEnforced"
+  }
+ ],
+ "toc": [
+  "第一章　総則",
+  "第二章　補償給付",
+  "第三章　公害保健福祉事業",
+  "第四章　費用",
+  "第五章　公害健康被害予防事業",
+  "第六章　不服申立て",
+  "第七章　雑則",
+  "第八章　罰則"
+ ],
+ "article1": {
+  "caption": "（目的）",
+  "title": "第一条",
+  "paragraphs": [
+   "この法律は、事業活動その他の人の活動に伴つて生ずる相当範囲にわたる著しい大気の汚染又は水質の汚濁（水底の底質が悪化することを含む。以下同じ。）の影響による健康被害に係る損害を<Ruby>塡<Rt>てん</Rt></Ruby>補するための補償並びに被害者の福祉に必要な事業及び大気の汚染の影響による健康被害を予防するために必要な事業を行うことにより、健康被害に係る被害者等の迅速かつ公正な保護及び健康の確保を図ることを目的とする。"
+  ]
+ },
+ "_meta": {
+  "first_seen": "1973-10-05",
+  "fetched_at": "2026-11-20",
+  "updated": "2025-06-01T15:15:04+09:00"
+ }
+}
