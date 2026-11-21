@@ -10,20 +10,20 @@
   "promulgation_date": "1974-06-07"
  },
  "revision_info": {
-  "law_revision_id": "349CO0000000202_20260617_507CO0000000416",
+  "law_revision_id": "349CO0000000202_20261122_508CO0000000171",
   "law_type": "CabinetOrder",
   "law_title": "化学物質の審査及び製造等の規制に関する法律施行令",
   "law_title_kana": "かがくぶっしつのしんさおよびせいぞうとうのきせいにかんするほうりつしこうれい",
   "abbrev": "化審法施行令",
   "category": "工業",
-  "updated": "2026-06-17T00:01:23+09:00",
-  "amendment_promulgate_date": "2025-12-17",
-  "amendment_enforcement_date": "2026-06-17",
+  "updated": "2026-11-22T00:01:27+09:00",
+  "amendment_promulgate_date": "2026-05-22",
+  "amendment_enforcement_date": "2026-11-22",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507CO0000000416",
+  "amendment_law_id": "508CO0000000171",
   "amendment_law_title": "化学物質の審査及び製造等の規制に関する法律施行令の一部を改正する政令",
-  "amendment_law_num": "令和七年政令第四百十六号",
+  "amendment_law_num": "令和八年政令第百七十一号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -39,7 +39,7 @@
    "amendment_law_title": "化学物質の審査及び製造等の規制に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和八年政令第百七十一号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "349CO0000000202_20260617_507CO0000000416",
@@ -49,7 +49,7 @@
    "amendment_law_title": "化学物質の審査及び製造等の規制に関する法律施行令の一部を改正する政令",
    "amendment_law_num": "令和七年政令第四百十六号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "349CO0000000202_20260522_508CO0000000171",
@@ -229,12 +229,12 @@
   "title": "第一条",
   "paragraphs": [
    "化学物質の審査及び製造等の規制に関する法律（以下「法」という。）第二条第二項の第一種特定化学物質は、次に掲げる化学物質とする。",
-   "厚生労働大臣、経済産業大臣及び環境大臣は、前項第三十五号ハ又は第三十七号の厚生労働省令、経済産業省令、環境省令の制定又は改正の立案をしようとするときは、あらかじめ、第十一条の表の上欄に掲げる大臣ごとにそれぞれ同表の下欄に掲げる審議会等（国家行政組織法（昭和二十三年法律第百二十号）第八条に規定する機関をいう。）の意見を聴くものとする。"
+   "厚生労働大臣、経済産業大臣及び環境大臣は、前項第三十五号ハ、第三十七号又は第四十二号の厚生労働省令、経済産業省令、環境省令の制定又は改正の立案をしようとするときは、あらかじめ、第十一条の表の上欄に掲げる大臣ごとにそれぞれ同表の下欄に掲げる審議会等（国家行政組織法（昭和二十三年法律第百二十号）第八条に規定する機関をいう。）の意見を聴くものとする。"
   ]
  },
  "_meta": {
   "first_seen": "1974-06-07",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-06-17T00:01:23+09:00"
+  "fetched_at": "2026-11-22",
+  "updated": "2026-11-22T00:01:27+09:00"
  }
 }
