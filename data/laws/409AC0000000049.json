@@ -10,20 +10,20 @@
   "promulgation_date": "1997-05-09"
  },
  "revision_info": {
-  "law_revision_id": "409AC0000000049_20260401_507AC0000000047",
+  "law_revision_id": "409AC0000000049_20261124_508AC0000000023",
   "law_type": "Act",
   "law_title": "密集市街地における防災街区の整備の促進に関する法律",
   "law_title_kana": "みっしゅうしがいちにおけるぼうさいがいくのせいびのそくしんにかんするほうりつ",
   "abbrev": "密集法,密集市街地整備法",
   "category": "都市計画",
-  "updated": "2026-04-02T00:01:43+09:00",
-  "amendment_promulgate_date": "2025-05-30",
-  "amendment_enforcement_date": "2026-04-01",
+  "updated": "2026-11-24T13:48:17+09:00",
+  "amendment_promulgate_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-11-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "507AC0000000047",
-  "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
-  "amendment_law_num": "令和七年法律第四十七号",
+  "amendment_law_id": "508AC0000000023",
+  "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
+  "amendment_law_num": "令和八年法律第二十三号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -44,16 +44,14 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "409AC0000000049_20261126_508AC0000000023",
+   "law_revision_id": "409AC0000000049_20261124_508AC0000000023",
    "amendment_promulgate_date": "2026-05-27",
-   "amendment_enforcement_date": "2026-11-26",
-   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_enforcement_date": "2026-11-24",
    "amendment_law_id": "508AC0000000023",
    "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "409AC0000000049_20260401_507AC0000000047",
@@ -63,7 +61,7 @@
    "amendment_law_title": "老朽化マンション等の管理及び再生の円滑化等を図るための建物の区分所有等に関する法律等の一部を改正する法律",
    "amendment_law_num": "令和七年法律第四十七号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "409AC0000000049_20250601_504AC0000000068",
@@ -239,7 +237,7 @@
  },
  "_meta": {
   "first_seen": "1997-05-09",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-04-02T00:01:43+09:00"
+  "fetched_at": "2026-11-24",
+  "updated": "2026-11-24T13:48:17+09:00"
  }
 }

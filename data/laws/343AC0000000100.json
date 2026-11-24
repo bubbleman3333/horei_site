@@ -10,15 +10,15 @@
   "promulgation_date": "1968-06-15"
  },
  "revision_info": {
-  "law_revision_id": "343AC0000000100_20260527_508AC0000000023",
+  "law_revision_id": "343AC0000000100_20261124_508AC0000000023",
   "law_type": "Act",
   "law_title": "都市計画法",
   "law_title_kana": "としけいかくほう",
   "abbrev": "都計法",
   "category": "都市計画",
-  "updated": "2026-05-27T10:38:44+09:00",
+  "updated": "2026-11-24T13:39:15+09:00",
   "amendment_promulgate_date": "2026-05-27",
-  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-11-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508AC0000000023",
@@ -32,16 +32,14 @@
  },
  "revisions": [
   {
-   "law_revision_id": "343AC0000000100_20261126_508AC0000000023",
+   "law_revision_id": "343AC0000000100_20261124_508AC0000000023",
    "amendment_promulgate_date": "2026-05-27",
-   "amendment_enforcement_date": "2026-11-26",
-   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_enforcement_date": "2026-11-24",
    "amendment_law_id": "508AC0000000023",
    "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "343AC0000000100_20260527_508AC0000000023",
@@ -51,7 +49,7 @@
    "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "343AC0000000100_20250604_507AC0000000051",
@@ -254,27 +252,11 @@
    "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　都市計画",
-  "第三章　都市計画制限等",
-  "第四章　都市計画事業",
-  "第五章　都市施設等整備協定",
-  "第六章　都市計画協力団体",
-  "第七章　社会資本整備審議会の調査審議等及び都道府県都市計画審議会等",
-  "第八章　雑則",
-  "第九章　罰則"
- ],
- "article1": {
-  "caption": "（目的）",
-  "title": "第一条",
-  "paragraphs": [
-   "この法律は、都市計画の内容及びその決定手続、都市計画制限、都市計画事業その他都市計画に関し必要な事項を定めることにより、都市の健全な発展と秩序ある整備を図り、もつて国土の均衡ある発展と公共の福祉の増進に寄与することを目的とする。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "1968-06-15",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-27T10:38:44+09:00"
+  "fetched_at": "2026-11-24",
+  "updated": "2026-11-24T13:39:15+09:00"
  }
 }

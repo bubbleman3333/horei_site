@@ -10,15 +10,15 @@
   "promulgation_date": "2004-06-18"
  },
  "revision_info": {
-  "law_revision_id": "416AC0000000110_20260527_508AC0000000023",
+  "law_revision_id": "416AC0000000110_20261124_508AC0000000023",
   "law_type": "Act",
   "law_title": "景観法",
   "law_title_kana": "けいかんほう",
   "abbrev": null,
   "category": "都市計画",
-  "updated": "2026-05-27T10:48:02+09:00",
+  "updated": "2026-11-24T13:42:49+09:00",
   "amendment_promulgate_date": "2026-05-27",
-  "amendment_enforcement_date": "2026-05-27",
+  "amendment_enforcement_date": "2026-11-24",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
   "amendment_law_id": "508AC0000000023",
@@ -44,16 +44,14 @@
    "current_revision_status": "UnEnforced"
   },
   {
-   "law_revision_id": "416AC0000000110_20261126_508AC0000000023",
+   "law_revision_id": "416AC0000000110_20261124_508AC0000000023",
    "amendment_promulgate_date": "2026-05-27",
-   "amendment_enforcement_date": "2026-11-26",
-   "amendment_enforcement_comment": "公布の日から起算して六月を超えない範囲内において政令で定める日",
-   "amendment_scheduled_enforcement_date": "2026-11-26",
+   "amendment_enforcement_date": "2026-11-24",
    "amendment_law_id": "508AC0000000023",
    "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二十三号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "416AC0000000110_20260527_508AC0000000023",
@@ -63,7 +61,7 @@
    "amendment_law_title": "都市再生特別措置法等の一部を改正する法律",
    "amendment_law_num": "令和八年法律第二十三号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "416AC0000000110_20251001_507AC0000000025",
@@ -169,10 +167,11 @@
  ],
  "toc": [
   "第一章　総則",
+  "第一章の二　広域基本方針及び広域景観協議会",
   "第二章　景観計画及びこれに基づく措置",
   "第三章　景観地区等",
   "第四章　景観協定",
-  "第五章　景観整備機構",
+  "第五章　景観整備推進法人",
   "第六章　雑則",
   "第七章　罰則"
  ],
@@ -185,7 +184,7 @@
  },
  "_meta": {
   "first_seen": "2004-06-18",
-  "fetched_at": "2026-09-22",
-  "updated": "2026-05-27T10:48:02+09:00"
+  "fetched_at": "2026-11-24",
+  "updated": "2026-11-24T13:42:49+09:00"
  }
 }
