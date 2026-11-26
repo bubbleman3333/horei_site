@@ -10,20 +10,20 @@
   "promulgation_date": "2020-09-16"
  },
  "revision_info": {
-  "law_revision_id": "502M60000400077_20240902_506M60000400054",
+  "law_revision_id": "502M60000400077_20261120_508M60000400079",
   "law_type": "MinisterialOrdinance",
-  "law_title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十三条第三項第三号ハの経済産業省令で定める事項を定める省令",
-  "law_title_kana": "ちいきけいざいけんいんじぎょうのそくしんによるちいきのせいちょうはってんのきばんきょうかにかんするほうりつだいじゅうさんじょうだいさんこうだいさんごうはのけいざいさんぎょうしょうれいでさだめるじこうをさだめるしょうれい",
+  "law_title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十三条第三項第五号ハの経済産業省令で定める事項を定める省令",
+  "law_title_kana": "ちいきけいざいけんいんじぎょうのそくしんによるちいきのせいちょうはってんのきばんきょうかにかんするほうりつだいじゅうさんじょうだいさんこうだいごごうはのけいざいさんぎょうしょうれいでさだめるじこうをさだめるしょうれい",
   "abbrev": null,
   "category": "産業通則",
-  "updated": "2024-09-18T08:19:54+09:00",
-  "amendment_promulgate_date": "2024-09-02",
-  "amendment_enforcement_date": "2024-09-02",
+  "updated": "2026-11-26T17:29:37+09:00",
+  "amendment_promulgate_date": "2026-11-06",
+  "amendment_enforcement_date": "2026-11-20",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "506M60000400054",
+  "amendment_law_id": "508M60000400079",
   "amendment_law_title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十三条第三項第三号ハの経済産業省令で定める事項を定める省令の一部を改正する省令",
-  "amendment_law_num": "令和六年経済産業省令第五十四号",
+  "amendment_law_num": "令和八年経済産業省令第七十九号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,16 +32,14 @@
  },
  "revisions": [
   {
-   "law_revision_id": "502M60000400077_20261204_508M60000400079",
+   "law_revision_id": "502M60000400077_20261120_508M60000400079",
    "amendment_promulgate_date": "2026-11-06",
-   "amendment_enforcement_date": "2026-12-04",
-   "amendment_enforcement_comment": "経済社会情勢の変化を踏まえた企業の事業活動の持続的な発展を図るための産業競争力強化法等の一部を改正する法律附則第一条第二号に掲げる規定の施行の日",
-   "amendment_scheduled_enforcement_date": "2026-12-04",
+   "amendment_enforcement_date": "2026-11-20",
    "amendment_law_id": "508M60000400079",
    "amendment_law_title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十三条第三項第三号ハの経済産業省令で定める事項を定める省令の一部を改正する省令",
    "amendment_law_num": "令和八年経済産業省令第七十九号",
    "amendment_type": "3",
-   "current_revision_status": "UnEnforced"
+   "current_revision_status": "CurrentEnforced"
   },
   {
    "law_revision_id": "502M60000400077_20240902_506M60000400054",
@@ -51,7 +49,7 @@
    "amendment_law_title": "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律第十三条第三項第三号ハの経済産業省令で定める事項を定める省令の一部を改正する省令",
    "amendment_law_num": "令和六年経済産業省令第五十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "502M60000400077_20220831_504M60000400069",
@@ -77,12 +75,12 @@
   "caption": "",
   "title": "第一条",
   "paragraphs": [
-   "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律（以下「法」という。）第十三条第三項第三号ハの経済産業省令で定める事項は、次のとおりとする。"
+   "地域経済牽引事業の促進による地域の成長発展の基盤強化に関する法律（以下「法」という。）第十三条第三項第五号ハの経済産業省令で定める事項は、次のとおりとする。"
   ]
  },
  "_meta": {
   "first_seen": "2020-09-16",
-  "fetched_at": "2026-11-25",
-  "updated": "2024-09-18T08:19:54+09:00"
+  "fetched_at": "2026-11-27",
+  "updated": "2026-11-26T17:29:37+09:00"
  }
 }
