@@ -10,20 +10,20 @@
   "promulgation_date": "1999-03-31"
  },
  "revision_info": {
-  "law_revision_id": "411M50000100036_20261001_508M60000100144",
+  "law_revision_id": "411M50000100036_20261112_508M60000100153",
   "law_type": "MinisterialOrdinance",
   "law_title": "介護保険法施行規則",
   "law_title_kana": "かいごほけんほうしこうきそく",
   "abbrev": null,
   "category": "社会福祉",
-  "updated": "2026-10-16T10:22:13+09:00",
-  "amendment_promulgate_date": "2026-09-30",
-  "amendment_enforcement_date": "2026-10-01",
+  "updated": "2026-11-26T09:37:58+09:00",
+  "amendment_promulgate_date": "2026-11-12",
+  "amendment_enforcement_date": "2026-11-12",
   "amendment_enforcement_comment": null,
   "amendment_scheduled_enforcement_date": null,
-  "amendment_law_id": "508M60000100144",
-  "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
-  "amendment_law_num": "令和八年厚生労働省令第百四十四号",
+  "amendment_law_id": "508M60000100153",
+  "amendment_law_title": "国民健康保険法施行規則等の一部を改正する省令",
+  "amendment_law_num": "令和八年厚生労働省令第百五十三号",
   "amendment_type": "3",
   "repeal_status": "None",
   "repeal_date": null,
@@ -32,6 +32,16 @@
  },
  "revisions": [
   {
+   "law_revision_id": "411M50000100036_20261112_508M60000100153",
+   "amendment_promulgate_date": "2026-11-12",
+   "amendment_enforcement_date": "2026-11-12",
+   "amendment_law_id": "508M60000100153",
+   "amendment_law_title": "国民健康保険法施行規則等の一部を改正する省令",
+   "amendment_law_num": "令和八年厚生労働省令第百五十三号",
+   "amendment_type": "3",
+   "current_revision_status": "CurrentEnforced"
+  },
+  {
    "law_revision_id": "411M50000100036_20261001_508M60000100144",
    "amendment_promulgate_date": "2026-09-30",
    "amendment_enforcement_date": "2026-10-01",
@@ -39,7 +49,7 @@
    "amendment_law_title": "医療法等の一部を改正する法律の一部の施行に伴う厚生労働省関係省令の整備に関する省令",
    "amendment_law_num": "令和八年厚生労働省令第百四十四号",
    "amendment_type": "3",
-   "current_revision_status": "CurrentEnforced"
+   "current_revision_status": "PreviousEnforced"
   },
   {
    "law_revision_id": "411M50000100036_20260801_508M60000100105",
@@ -421,42 +431,13 @@
    "amendment_law_num": "令和三年厚生労働省令第四十三号",
    "amendment_type": "3",
    "current_revision_status": "PreviousEnforced"
-  },
-  {
-   "law_revision_id": "411M50000100036_20210401_503M60000100035",
-   "amendment_promulgate_date": "2021-02-17",
-   "amendment_enforcement_date": "2021-04-01",
-   "amendment_law_id": "503M60000100035",
-   "amendment_law_title": "介護保険法施行規則及び介護保険の医療保険者の納付金の算定等に関する省令の一部を改正する省令",
-   "amendment_law_num": "令和三年厚生労働省令第三十五号",
-   "amendment_type": "3",
-   "current_revision_status": "PreviousEnforced"
   }
  ],
- "toc": [
-  "第一章　総則",
-  "第二章　被保険者",
-  "第三章　保険給付",
-  "第四章　介護支援専門員並びに事業者及び施設",
-  "第五章　地域支援事業等",
-  "第五章の二　介護保険事業計画",
-  "第六章　保険料等",
-  "第七章　国民健康保険団体連合会の介護保険事業関係業務",
-  "第八章　介護給付費等審査委員会",
-  "第九章　雑則",
-  "第十章　施行法の経過措置等に関する規定"
- ],
- "article1": {
-  "caption": "（保険事業勘定及び介護サービス事業勘定）",
-  "title": "第一条",
-  "paragraphs": [
-   "保険事業勘定においては、保険料、分担金及び負担金、使用料及び手数料、国庫支出金、機構交付金、都道府県支出金、相互財政安定化事業交付金、財産収入、寄附金、繰入金、繰越金、市町村債並びに諸収入をもってその歳入とし、総務費、保険給付費、財政安定化基金拠出金、相互財政安定化事業負担金、地域支援事業費、保健福祉事業費、基金積立金、公債費、予備費及び諸支出金その他の諸費をもってその歳出とする。",
-   "介護サービス事業勘定においては、サービス収入、分担金及び負担金、使用料及び手数料、国庫支出金、都道府県支出金、財産収入、寄附金、繰入金、繰越金、市町村債並びに諸収入をもってその歳入とし、総務費、事業費、施設整備費、基金積立金、公債費、予備費及び諸支出金その他の諸費をもってその歳出とする。"
-  ]
- },
+ "toc": [],
+ "article1": null,
  "_meta": {
   "first_seen": "1999-03-31",
-  "fetched_at": "2026-10-17",
-  "updated": "2026-10-16T10:22:13+09:00"
+  "fetched_at": "2026-11-26",
+  "updated": "2026-11-26T09:37:58+09:00"
  }
 }
